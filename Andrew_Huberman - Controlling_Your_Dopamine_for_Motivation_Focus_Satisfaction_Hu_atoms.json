@@ -1,0 +1,1423 @@
+[
+  {
+    "text": "Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health and performance.",
+    "uid": "1d027664ff9559c3",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 0.0,
+    "end": 10.0
+  },
+  {
+    "text": "I'm Andrew Huberman and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.",
+    "uid": "ae92129484fd8163",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 12.0,
+    "end": 17.0
+  },
+  {
+    "text": "Today we are going to talk all about dopamine and what drives you to do the things that you do.",
+    "uid": "69ec3532c7eda7f8",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 18.0,
+    "end": 23.0
+  },
+  {
+    "text": "We're going to talk about motivation and desire and craving, but also how dopamine relates to satisfaction and our feelings of well-being.",
+    "uid": "a7333b7573f626b7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 23.0,
+    "end": 33.0
+  },
+  {
+    "text": "So let's talk about dopamine.",
+    "uid": "266b5d6c3f4bbc01",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 34.0,
+    "end": 35.0
+  },
+  {
+    "text": "If ever you've interacted with somebody who just doesn't seem to have any drive they've given up.",
+    "uid": "a5495bb1ec8a1613",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 36.0,
+    "end": 40.0
+  },
+  {
+    "text": "Or as you've interacted with somebody who seems to have endless drive and energy, what you are looking at there in those two circumstances is,",
+    "uid": "a6948526790e648a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 41.0,
+    "end": 48.0
+  },
+  {
+    "text": "without question a difference in the level of dopamine circulating in their system.",
+    "uid": "1fd657e79683e208",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 48.0,
+    "end": 54.0
+  },
+  {
+    "text": "Dopamine is what we call a neuromodulator.",
+    "uid": "21512caa08518731",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 55.0,
+    "end": 57.0
+  },
+  {
+    "text": "Neuromodulators are different than neuro transmitters.",
+    "uid": "f165a6dcb7c6594f",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 58.0,
+    "end": 60.0
+  },
+  {
+    "text": "No transmitters are involved in the dialogue between neurons, whereas neuromodulators influence the communication of many neurons.",
+    "uid": "57c0ddd255b16357",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 61.0,
+    "end": 67.0
+  },
+  {
+    "text": "In the nervous system what this means is that dopamine release changes the probability that certain neural circuits will be active",
+    "uid": "4d3400b03c27341a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 68.0,
+    "end": 74.0
+  },
+  {
+    "text": "and that other neural circuits will be inactive.",
+    "uid": "2d480eef4260f6dd",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 74.0,
+    "end": 78.0
+  },
+  {
+    "text": "So how does dopamine work and what does it do? Well first of all it is not just responsible for pleasure, it is responsible for motivation and drive,",
+    "uid": "3ecfc7cda6480a8e",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 79.0,
+    "end": 87.0
+  },
+  {
+    "text": "also for craving. Those three things are sort of the same. Motivation, drive and craving.",
+    "uid": "50592011c2921674",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 88.0,
+    "end": 92.0
+  },
+  {
+    "text": "It also controls time perception. This turns out to be important to not end up addicted to substances,",
+    "uid": "c06dd9c54c770af0",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 93.0,
+    "end": 97.0
+  },
+  {
+    "text": "but it also turns out to be very important to sustain effort and be a happy person over a long periods of time, which I think most everybody wants.",
+    "uid": "9d6ba7645b2fb897",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 97.0,
+    "end": 105.0
+  },
+  {
+    "text": "Dopamine is also vitally important for movement. I'll explain the neural circuits for dopamine and mindset and dopamine in movement in a moment,",
+    "uid": "ee8016733b20262f",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 106.0,
+    "end": 114.0
+  },
+  {
+    "text": "but in diseases like Parkinson's or Louis's bodies dementia, which is similar to Parkinson's in many ways,",
+    "uid": "0f04f58c6b1a8a91",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 115.0,
+    "end": 122.0
+  },
+  {
+    "text": "there's a depletion or death of dopamine neurons at a particular location in the brain, which leads to shaky movements,",
+    "uid": "9d247039f2c6b87a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 122.0,
+    "end": 129.0
+  },
+  {
+    "text": "challenges and speaking, challenges in particular in initiating movement, and because dopamine is depleted elsewhere,",
+    "uid": "054987a4dc99dd1c",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 130.0,
+    "end": 137.0
+  },
+  {
+    "text": "people with Parkinson's and Louis, excuse me, Louis body dementia,",
+    "uid": "613a918a798c20bc",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 138.0,
+    "end": 142.0
+  },
+  {
+    "text": "also experience drops in motivation and affect meaning mood they tend to get depressed and so on.",
+    "uid": "e60f2b418b5c3cc9",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 143.0,
+    "end": 149.0
+  },
+  {
+    "text": "When those people are properly treated, they can recover some fluidity of movement,",
+    "uid": "b3e472770cb0c317",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 150.0,
+    "end": 155.0
+  },
+  {
+    "text": "some ability to initiate movement and almost without question, those people feel better psychologically, not just because they can move,",
+    "uid": "c03e004ecdf5a45f",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 156.0,
+    "end": 163.0
+  },
+  {
+    "text": "but also because dopamine impacts mood and motivation.",
+    "uid": "a05322629ed646b7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 164.0,
+    "end": 166.0
+  },
+  {
+    "text": "So what are the underlying neural circuits?",
+    "uid": "bf5caf4e58098530",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 167.0,
+    "end": 170.0
+  },
+  {
+    "text": "Do you have two main neural circuits in the brain that dopamine uses in order to exert all its effects?",
+    "uid": "f8f583d5a26e3641",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 171.0,
+    "end": 177.0
+  },
+  {
+    "text": "One mainly for movement, right? This is the substantial nigra to dorsal strideum,",
+    "uid": "47a8fd2208a5f579",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 177.0,
+    "end": 182.0
+  },
+  {
+    "text": "and we've got this other pathway, the so called mesochorical limbic pathway that's for reward, reinforcement and motivation.",
+    "uid": "d90c7ec89bf911e7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 183.0,
+    "end": 189.0
+  },
+  {
+    "text": "Now, the other things I understand about dopamine is that the way that dopamine is released in the brain and body can differ.",
+    "uid": "4ee70b2d81715b23",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 190.0,
+    "end": 198.0
+  },
+  {
+    "text": "There's local release, what we call synaptic release, and then there's volumetric release.",
+    "uid": "81df52b5e44c6074",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 199.0,
+    "end": 202.0
+  },
+  {
+    "text": "So volumetric release is like dumping all this dopamine out into the system.",
+    "uid": "271a360248140c89",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 202.0,
+    "end": 207.0
+  },
+  {
+    "text": "So dopamine is incredible because it can change the way that our neural circuits work at a local scale and at a very broad scale.",
+    "uid": "36d30361e8894f3b",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 208.0,
+    "end": 215.0
+  },
+  {
+    "text": "So if I were to just put a really simple message around dopamine, it would be there's a molecule in your brain and body that when released tends to make you look outside yourself,",
+    "uid": "ff10a8bec9907340",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 216.0,
+    "end": 227.0
+  },
+  {
+    "text": "and outside your self, pursue things outside yourself, and to crave things outside yourself.",
+    "uid": "4ccd99304814e2f7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 227.0,
+    "end": 234.0
+  },
+  {
+    "text": "Dopamine is a universal currency in all mammals, but especially in humans, for moving us toward goals,",
+    "uid": "57a683168ea9b40a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 235.0,
+    "end": 242.0
+  },
+  {
+    "text": "and how much dopamine is in our system at any one time compared to how much dopamine was in our system a few minutes ago, that dictates your so-called quality of life and your desire to pursue things.",
+    "uid": "0cf4086eabd03f54",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 243.0,
+    "end": 256.0
+  },
+  {
+    "text": "This is important. Your experience of life and your level of motivation and drive depends on how much dopamine you have relative to your recent experience.",
+    "uid": "f710a8c3c5d3dc35",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 257.0,
+    "end": 270.0
+  },
+  {
+    "text": "This is why when you repeatedly engage in something that you enjoy, your threshold for enjoyment goes up and up and up.",
+    "uid": "6796143ad769c50e",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 270.0,
+    "end": 278.0
+  },
+  {
+    "text": "So I want to talk about that process and I want to explain how that process works because if you understand that process and you understand some of these schedules and kinetics as we call them around dopamine,",
+    "uid": "fccb57b26b8bda58",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 278.0,
+    "end": 288.0
+  },
+  {
+    "text": "you will be in a terrific position to modulate and control your own dopamine release for optimal motivation and drive.",
+    "uid": "6b7cc72205974bee",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 289.0,
+    "end": 295.0
+  },
+  {
+    "text": "While most experiences and most things that we do and take and eat, etc, won't create enormous highs and enormous lows and dopamine,",
+    "uid": "4516cc60a4932673",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 296.0,
+    "end": 304.0
+  },
+  {
+    "text": "even subtle fluctuations in dopamine really shape our perception of life and what we're capable of and how we feel.",
+    "uid": "519b80ec0dc84e18",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 304.0,
+    "end": 311.0
+  },
+  {
+    "text": "And so we want to guard those and we want to understand them. All of us have different baseline levels of dopamine.",
+    "uid": "af351599d3e0d31d",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 312.0,
+    "end": 317.0
+  },
+  {
+    "text": "Some of this is sure to be genetic.",
+    "uid": "edce71a82e77c861",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 318.0,
+    "end": 320.0
+  },
+  {
+    "text": "Some people just simply ride at a level a little bit higher. Some people are a little less excitable.",
+    "uid": "eda6940c02663ceb",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 321.0,
+    "end": 326.0
+  },
+  {
+    "text": "What dopamine does is dopamine really colors the subjective experience of an activity to make it more pleasurable to make it something that you want more of.",
+    "uid": "afd87cfff17c256b",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 327.0,
+    "end": 337.0
+  },
+  {
+    "text": "So what sorts of activities, what sorts of things increase dopamine and how much do they increase dopamine?",
+    "uid": "6a360a3bbea6cd2e",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 338.0,
+    "end": 345.0
+  },
+  {
+    "text": "Well, let's take a look at some typical things that people do out there or ingest out there and let's ask how much dopamine is increased above baseline.",
+    "uid": "4e3be7fb812ff61a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 345.0,
+    "end": 356.0
+  },
+  {
+    "text": "Chocolate will increase your baseline level of dopamine 1.5 times.",
+    "uid": "809f788f63ac9267",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 357.0,
+    "end": 361.0
+  },
+  {
+    "text": "Okay, so it's a pretty substantial increase in dopamine. It's transient. It goes away after a few minutes or even a few seconds.",
+    "uid": "46e960f75ca0b531",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 362.0,
+    "end": 370.0
+  },
+  {
+    "text": "Sex, both the pursuit of sex and the act of sex increases dopamine 2 times.",
+    "uid": "feefdda47aa35bd7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 370.0,
+    "end": 378.0
+  },
+  {
+    "text": "Nicotine and particular nicotine that is smoked like cigarettes and so forth.",
+    "uid": "341a90b2139f4b2a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 379.0,
+    "end": 384.0
+  },
+  {
+    "text": "Increases dopamine 2.5 times above baseline.",
+    "uid": "a830baa223c565b4",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 385.0,
+    "end": 389.0
+  },
+  {
+    "text": "It is very short lived.",
+    "uid": "3e6f021056021b0f",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 390.0,
+    "end": 391.0
+  },
+  {
+    "text": "Cocaine will increase the level of dopamine in the bloodstream 2.5 times above baseline.",
+    "uid": "db49183adf6a56ed",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 391.0,
+    "end": 397.0
+  },
+  {
+    "text": "And emphetamine, another drug that increases dopamine, will increase the amount of dopamine in the bloodstream 10 times above baseline, a tremendous increase in dopamine.",
+    "uid": "4549c0f269842037",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 398.0,
+    "end": 410.0
+  },
+  {
+    "text": "Exercise. Now exercise will have a different impact on the levels of dopamine depending on how much somebody subjectively enjoys that exercise.",
+    "uid": "5e314fb5ee1e060c",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 411.0,
+    "end": 420.0
+  },
+  {
+    "text": "Somebody who loves running, chances are it's going to increase your levels of dopamine 2 times above your baseline, not unlike sex.",
+    "uid": "c8c080c3fb549188",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 421.0,
+    "end": 431.0
+  },
+  {
+    "text": "People who dislike exercise will achieve less dopamine increase or no increase in dopamine from exercise.",
+    "uid": "5898e9c9a31775c7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 433.28,
+    "end": 440.28
+  },
+  {
+    "text": "And if you like other forms of exercise like yoga or weightlifting or swimming or what have you, again, it's going to vary by your subjective experience of whether or not you enjoy that activity.",
+    "uid": "1ca06aa8002e76df",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 441.28,
+    "end": 450.28
+  },
+  {
+    "text": "This is important and it brings us back to something that we talked about earlier. Remember that Meso-Cortico limbic pathway.",
+    "uid": "9901a9564a15b53f",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 450.28,
+    "end": 458.28
+  },
+  {
+    "text": "Well, the corticopart is important. The corticopart actually has a very specific part which is your prefrontal cortex.",
+    "uid": "15a7c366ca3adffe",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 459.28,
+    "end": 466.28
+  },
+  {
+    "text": "The area of your forebrain that's involved in thinking and planning and involved in assigning a rational explanation to something and involved in assigning a subjective experience to something.",
+    "uid": "087e89707f2407c7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 467.28,
+    "end": 479.28
+  },
+  {
+    "text": "So certain things chemicals have a universal effect. They make everybody's dopamine go up. So some people like chocolate, some people don't of course, but in general it has causes this increase in dopamine.",
+    "uid": "52ec1e07f706f318",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 480.28,
+    "end": 493.28
+  },
+  {
+    "text": "But sex, nicotine, cocaine and fedamine, those things causing creases in dopamine and everybody that takes them.",
+    "uid": "39b5f9ee4d587957",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 494.28,
+    "end": 500.28
+  },
+  {
+    "text": "Now I've been the looting to this dopamine peaks versus dopamine baseline things since the beginning of the episode.",
+    "uid": "bac7907c7f615973",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 501.28,
+    "end": 506.28
+  },
+  {
+    "text": "Now let's really drill into what this means and how to leverage it for our own purposes.",
+    "uid": "a82f510b8b91991f",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 506.28,
+    "end": 511.28
+  },
+  {
+    "text": "In order to do that, let's take a step back and ask, why would we have a dopamine system like this? Why would we have a dopamine system at all?",
+    "uid": "4e08a4c44cd02b42",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 512.28,
+    "end": 518.28
+  },
+  {
+    "text": "Well, we have to remember what our species primary interest is.",
+    "uid": "2decd524af5145ad",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 519.28,
+    "end": 524.28
+  },
+  {
+    "text": "Our species like all species has a main interest and that's to make more of itself.",
+    "uid": "4f200c8a76ce8948",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 525.28,
+    "end": 530.28
+  },
+  {
+    "text": "It's not just about sex and reproduction. It's about forging for resources.",
+    "uid": "57ddac1e585f7ab7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 530.28,
+    "end": 535.28
+  },
+  {
+    "text": "Resources can be food. It can be water. It can be salt. It can be shelter. It can be social connection.",
+    "uid": "22370985aff7197c",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 536.28,
+    "end": 542.28
+  },
+  {
+    "text": "Dopamine is the universal currency of forging and seeking.",
+    "uid": "6d73af3032a5e94e",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 543.28,
+    "end": 548.28
+  },
+  {
+    "text": "We call sometimes talk about motivation and craving, but what we mean in the evolutionary adaptive context, what we mean is forging and seeking.",
+    "uid": "f1fed89489a6a662",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 549.28,
+    "end": 556.28
+  },
+  {
+    "text": "What are seeking food? Seeking mates. Seeking things that make us feel good in avoiding things that don't make us feel good, but in particular,",
+    "uid": "ee71ec0efbf093bd",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 556.28,
+    "end": 563.28
+  },
+  {
+    "text": "seeking things that will provide sustenance and pleasure in the short term and will extend the species in the long term.",
+    "uid": "b2c316a2951f10d0",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 564.28,
+    "end": 570.28
+  },
+  {
+    "text": "Once we understand that dopamine is a driver for us to seek things, it makes perfect sense as to why it would have a baseline level and it would have peaks and that the baseline and peaks will be related in some sort of direct way.",
+    "uid": "69557138332ffe9d",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 571.28,
+    "end": 585.28
+  },
+  {
+    "text": "Here's what I mean by that. Let's say that you were not alive now, but you were alive 10,000 years ago, and you woke up, and you looked and you realized you had minimal water, and you had minimal food left.",
+    "uid": "e347db0aeaa8f3be",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 586.28,
+    "end": 600.28
+  },
+  {
+    "text": "You need to be able to generate the energy to go seek those things. So dopamine drives you to go out and look for things. Maybe you hunt an animal and kill it or you find an animal that was recently killed and you decide to take them meet.",
+    "uid": "feb26b40b6ddcfb7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 601.28,
+    "end": 613.28
+  },
+  {
+    "text": "You are going to achieve or I should say experience some sort of dopamine release. You found the reward. That's great.",
+    "uid": "d8da01fe38505963",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 614.28,
+    "end": 621.28
+  },
+  {
+    "text": "But then it needs to return to some lower level. Why? Well, because if you just stayed there, you would never continue to forge for more.",
+    "uid": "15130f263322dce9",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 622.28,
+    "end": 630.28
+  },
+  {
+    "text": "It doesn't just increase your baseline and then stay there, it goes back down.",
+    "uid": "7816f19acb386992",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 631.28,
+    "end": 636.28
+  },
+  {
+    "text": "And what's very important to understand is that it doesn't just go back down to the level it was before. It goes down to a level below what it was before you went out seeking that thing.",
+    "uid": "66b98cccc0d77b6b",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 636.28,
+    "end": 646.28
+  },
+  {
+    "text": "We really all have a sort of dopamine set point.",
+    "uid": "8552c632d8be4ab2",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 647.28,
+    "end": 650.28
+  },
+  {
+    "text": "And if we continue to indulge in the same behaviors or even different behaviors that increase our dopamine in these big peaks over and over and over again, we won't experience the same level of joy from those behaviors or from anything at all.",
+    "uid": "83e1c1e644789d25",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 651.28,
+    "end": 664.28
+  },
+  {
+    "text": "Now that has a name. It's called addiction, but even for people who aren't addicted, even for people don't have an attachment to any specific substance or behavior.",
+    "uid": "d4c1b465a3c43f91",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 664.28,
+    "end": 674.28
+  },
+  {
+    "text": "This drop in below baseline after any peak in dopamine is substantial and it governs whether or not we are going to feel motivated to continue to pursue other things.",
+    "uid": "193666f16b547366",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 675.28,
+    "end": 684.28
+  },
+  {
+    "text": "Fortunately, there's a way to work with this such that we can constantly stay motivated but also keep that baseline of dopamine and an appropriate healthy.",
+    "uid": "7f7a69552d18d487",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 685.28,
+    "end": 693.28
+  },
+  {
+    "text": "Earlier we were talking about how dopamine is released between neurons and I mentioned two ways. One is into the synapse where it can activate the post- synaptic neuron and the other was what I called volumetric release where it is distributed more broadly. It's released out over a bunch of neurons.",
+    "uid": "5f0dcd081bc14b87",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 694.28,
+    "end": 711.28
+  },
+  {
+    "text": "In both cases, it's released from these things we call synaptic vesicles literally little bubbles, tiny, tiny little bubbles that contain dopamine. They get vomited out into the area or into the synapse.",
+    "uid": "cc27a02fd6eb7a38",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 712.28,
+    "end": 723.28
+  },
+  {
+    "text": "The only deployed dopamine that is ready to be deployed that's packaged in those little vesicles and ready to go. It's the readily-releaseable pool.",
+    "uid": "1e32f30a5bd52083",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 724.28,
+    "end": 732.28
+  },
+  {
+    "text": "And now it should make perfect sense why if you take something or do something that leads to huge increases in dopamine, after word your baseline should drop because there isn't a lot of dopamine around to keep your baseline going.",
+    "uid": "3a1f50384a9c3f18",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 733.28,
+    "end": 748.28
+  },
+  {
+    "text": "Fortunately, most people do not experience or pursue enormous increases in dopamine leading to these severe drops in baseline. Many people do however, and that's what we call addiction.",
+    "uid": "3e75a91b4e32c877",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 748.28,
+    "end": 760.28
+  },
+  {
+    "text": "When somebody pursues a drug or an activity that leads to huge increases in dopamine and now you understand that afterward the baseline of dopamine drops because of depletion of dopamine, the readily-releaseable pool,",
+    "uid": "bde8a310bdeacd1f",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 761.28,
+    "end": 773.28
+  },
+  {
+    "text": "the dopamine is literally not around to be released and so people feel pretty lousy and many people make the mistake of then going and pursuing the dopamine evoking the dopamine releasing activity or substance again.",
+    "uid": "7b4206f089ea4113",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 773.28,
+    "end": 786.28
+  },
+  {
+    "text": "Thinking mistakenly that it's going to bring up their baseline. It's going to give them that peak again.",
+    "uid": "fb3f4f8cc9a7b314",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 787.28,
+    "end": 792.28
+  },
+  {
+    "text": "Not only does it not give them a peak, their baseline gets lower and lower because they're depleting dopamine more and more and more and eventually what typically happens is they will stop getting dopamine release from that activity as well.",
+    "uid": "5a8466c3e56779b4",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 792.28,
+    "end": 806.28
+  },
+  {
+    "text": "And then they drop into a pretty serious depression. Now of course we all should engage in activities that we enjoy.",
+    "uid": "7189450c99757474",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 807.28,
+    "end": 814.28
+  },
+  {
+    "text": "The key thing is to understand this relationship between the peaks in the baseline and to understand how they influence one another.",
+    "uid": "f998c9d4d25b1785",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 814.28,
+    "end": 820.28
+  },
+  {
+    "text": "So let's talk about the optimal way to engage in activities or to consume things that evoked dopamine.",
+    "uid": "d7fad6e92a0c5a0f",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 821.28,
+    "end": 828.28
+  },
+  {
+    "text": "How are we supposed to engage with these dopamine evoking activities in ways that are healthy and beneficial for us? How do we achieve these peaks, which are so central to our well, being an experience of life without dropping our baseline?",
+    "uid": "89eef4dc4b6985de",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 829.28,
+    "end": 841.28
+  },
+  {
+    "text": "And the key lies in intermittent release of dopamine. The real key is to not expect or chase high levels of dopamine release every time we engage in these activities.",
+    "uid": "ae6112e0befe4364",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 841.28,
+    "end": 856.28
+  },
+  {
+    "text": "Intermittent reward schedules are the central schedule by which casinos keep you gambling, the central schedule by which elusive partners or potential partners keep you texting and pursuing on either side of the relationship.",
+    "uid": "1449924796af3a8d",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 856.28,
+    "end": 874.28
+  },
+  {
+    "text": "Intermittent schedules are the way that the internet and social media and all highly engaging activities keep you motivated and pursuing.",
+    "uid": "5dd53315316433c7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 874.28,
+    "end": 886.28
+  },
+  {
+    "text": "There's something called dopamine reward prediction error when we expect something to happen. We are highly motivated to pursue it.",
+    "uid": "921891a3d260d4e0",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 887.28,
+    "end": 893.28
+  },
+  {
+    "text": "If it happens great, we get the reward. The reward comes in various chemical forms including dopamine and we are more likely to engage in that behavior again.",
+    "uid": "652fc716fd1125c3",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 893.28,
+    "end": 902.28
+  },
+  {
+    "text": "This is the basis of casino gambling. This is how they keep you going back again and again and again and again even though on average the house really does win.",
+    "uid": "43c923f764fbda04",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 903.28,
+    "end": 911.28
+  },
+  {
+    "text": "You can transplant that example to any number of different pleasureful activities. Now some activities naturally have this intermittent property woven into them.",
+    "uid": "8b9483060464cb86",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 912.28,
+    "end": 920.28
+  },
+  {
+    "text": "We sometimes have classes that we like in other classes that we don't like. We don't always get straight days. Sometimes we don't get rewarded with the outcome that we would like.",
+    "uid": "25e1c9ed23011dfb",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 920.28,
+    "end": 930.28
+  },
+  {
+    "text": "But understand that your ability to experience motivation and pleasure for what comes next is dictated by how much motivation and pleasure and dopamine you experienced prior.",
+    "uid": "5e2eea60f16254a7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 931.28,
+    "end": 941.28
+  },
+  {
+    "text": "There's one exception which is caffeine because it does upregulate these D2D3 receptors. So it actually makes whatever dopamine is released by that activity.",
+    "uid": "0c117c12a2dc1fad",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 941.28,
+    "end": 951.28
+  },
+  {
+    "text": "More accessible or more functional within the biochemistry and the pathways of your brain and body.",
+    "uid": "5b6234935cf50700",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 952.28,
+    "end": 957.28
+  },
+  {
+    "text": "Well, coffee or tea or other forms of caffeine will have this effective increasing dopamine receptors.",
+    "uid": "7fecb3c3c9aca2d0",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 958.28,
+    "end": 964.28
+  },
+  {
+    "text": "Yearbomate something I've talked about before on this podcast has some interesting properties. First of all, it contains caffeine. It's also high in antioxidants. It also contains something called GLP1 which is favorable for management of blood sugar levels.",
+    "uid": "23b26a8e28c45019",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 964.28,
+    "end": 979.28
+  },
+  {
+    "text": "Yearbomate turns out has also been shown to be neuroprotective specifically for dopamine or ginorons.",
+    "uid": "a22a3e2df4e485dc",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 980.28,
+    "end": 987.28
+  },
+  {
+    "text": "In justion of yearbomate and some of the compounds within yearbomate can actually serve to preserve the survival of dopamine neurons in both the movement related pathway and the motivation pathway.",
+    "uid": "0c7c95143c018049",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 987.28,
+    "end": 998.28
+  },
+  {
+    "text": "If one were going to consume caffeine, you might consider consuming that caffeine in the form of yearbomate both forsake of upregulating dopamine receptors and getting more of a dopamine increase.",
+    "uid": "318dcfc15ad214bd",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 999.28,
+    "end": 1010.28
+  },
+  {
+    "text": "And of course for the similar properties of caffeine if that's what you're seeking.",
+    "uid": "fd248ae290284fbb",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1010.28,
+    "end": 1015.28
+  },
+  {
+    "text": "And in addition to that because yearbomate does appear to have some sort of neuroprotective and a particular dopamine neuron protective properties.",
+    "uid": "effbfe0fd9f5a87e",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1016.28,
+    "end": 1024.28
+  },
+  {
+    "text": "There's also evidence that two substances that greatly increase dopamine, namely, emphetamine and cocaine, can cause long-term problems with the dopamine-ergic pathways.",
+    "uid": "552dc3bb1c66f584",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1025.28,
+    "end": 1035.28
+  },
+  {
+    "text": "This is largely based on a study that was published some years ago 2003 and the title of the paper pretty much tells the story.",
+    "uid": "ff67d4e0e50439e5",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1035.28,
+    "end": 1043.28
+  },
+  {
+    "text": "Inphetamine or cocaine limits the ability of later experience to promote structural plasticity in the neocortex and nucleus accumbent.",
+    "uid": "92ced7966809a831",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1043.28,
+    "end": 1051.28
+  },
+  {
+    "text": "Neocortex is the outer shell of the brain more or less and the nucleus accumbens as part of that mesolimbic dopamine pathway for motivation, drive and reinforcement.",
+    "uid": "ec4ecf9c39995008",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1052.28,
+    "end": 1063.28
+  },
+  {
+    "text": "Neoclassicity of course is the brain's ability to change in response to experience and neuroplasticity is the basis of learning and memory and essentially remodeling of our neural circuitry in positive ways of all kinds.",
+    "uid": "4a80b6f9bce6f9ac",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1063.28,
+    "end": 1077.28
+  },
+  {
+    "text": "And this study was really one of the first to show that ingesting emphetamine and cocaine because of the high peak endopamine that it creates and the low dopamine state, the baseline,",
+    "uid": "6cbb2b97bf3b494c",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1077.28,
+    "end": 1091.28
+  },
+  {
+    "text": "and drop that it creates afterwards limits plasticity and learning subsequent to taking emphetamine and cocaine.",
+    "uid": "414e18834b02fd87",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1091.28,
+    "end": 1098.28
+  },
+  {
+    "text": "This should serve as a serious cautionary note that emphetamine and cocaine not only can cause a drop in baseline dopamine but can actually put the brain into a state in which it cannot learn and modify itself to get better at least for some period of time.",
+    "uid": "969aa51cdca50d03",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1099.28,
+    "end": 1113.28
+  },
+  {
+    "text": "There are activities that we can do that will give us healthy, sustained increases in dopamine both the peaks when they happen and to maintain or even increase our baseline levels of dopamine.",
+    "uid": "fe6057038ac17973",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1113.28,
+    "end": 1126.28
+  },
+  {
+    "text": "What are some of these activities? Well, in recent years there's been a trend toward more people doing so-called cold exposure, getting into cold showers, taking ice baths, exposing oneself to cold water of various kinds.",
+    "uid": "8e7b452dbfd8643a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1127.28,
+    "end": 1140.28
+  },
+  {
+    "text": "Can in fact increase our levels of dopamine as well as the neuromodulator, neurone, but nephrine.",
+    "uid": "952cb0da68018bb6",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1140.28,
+    "end": 1146.28
+  },
+  {
+    "text": "First of all, some of the safety parameters. Let's establish those first. Getting to a very very cold water, you know, 30 degree Fahrenheit or even low 40 degree Fahrenheit can put somebody into a state of cold water shock.",
+    "uid": "671d20999dad8a90",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1146.28,
+    "end": 1158.28
+  },
+  {
+    "text": "Can die doing that. So obviously you want to approach this with some caution, but for most people getting into 60 degree water or 50 degree water can have tremendously beneficial results on your neuromodulator systems, including dopamine.",
+    "uid": "95b3f62bd04c2464",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1158.28,
+    "end": 1173.28
+  },
+  {
+    "text": "What temperature of water you can tolerate will depend on how cold water adapted you are and how familiar you are with the experience of getting into cold water.",
+    "uid": "c7a2e0e018b25564",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1174.28,
+    "end": 1184.28
+  },
+  {
+    "text": "Now the study human physiological responses to immersion into water of different temperatures. It's a really interesting study. They looked at people getting exposed to water that was warm moderately cold or very cold upon getting into cold water.",
+    "uid": "9e7c31284207a74f",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1184.28,
+    "end": 1199.28
+  },
+  {
+    "text": "The changes in adrenaline and neurodrenaline, epinephrine and neuropinephrine were immediate, but then what was interesting is they observed that dopamine levels started to rise somewhat slowly and then continued to rise and reach levels as high as 2.5 times above baseline.",
+    "uid": "f0e52b7cd28144c4",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1199.28,
+    "end": 1219.28
+  },
+  {
+    "text": "That's a remarkably high increase. Why would that be good? Up until now I've basically said, getting increases in dopamine are detrimental to your baseline. Well, this does appear to raise the baseline of dopamine for substantial periods of time and most people report feeling a heightened level of calm and focus after getting out of cold water. So cold water exposure turns out to be a very potent stimulus for shifting the entire milieu, the entire environment of our world.",
+    "uid": "5e6fa24b15163838",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1219.28,
+    "end": 1248.28
+  },
+  {
+    "text": "So it's a very important thing for a brain and body and allowing many people to feel much, much better for a substantial period of time. It can be very stimulating. So typically doing it early in the day.",
+    "uid": "65ed8df7b6362e98",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1249.28,
+    "end": 1260.28
+  },
+  {
+    "text": "It's going to be better. Some people will indeed do that seven days a week. Other people three days a week. Other people every once in a while. What I can say is once you become cold water adapted.",
+    "uid": "a3a3f1f91cf81b6f",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1260.28,
+    "end": 1270.28
+  },
+  {
+    "text": "Once it no longer has the same impact of novelty, then it will no longer evoke this release. Now I'd like to talk about the positive aspects of rewards for our behavior and the negative aspects of rewards for our behavior.",
+    "uid": "1b1544594215411a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1270.28,
+    "end": 1283.28
+  },
+  {
+    "text": "And from that, I will suggest a protocol by which you can achieve a better relationship to your activities and to your dopamine system. In fact, it will help tune up your dopamine system for discipline, hard work and motivation.",
+    "uid": "7e6b1fbc1a9d68dc",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1283.28,
+    "end": 1299.28
+  },
+  {
+    "text": "Hard work is hard. Most people work hard in order to achieve some end goal.",
+    "uid": "c1d35652dfbf0e2c",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1299.28,
+    "end": 1307.28
+  },
+  {
+    "text": "End goals are terrific and rewards are terrific whether or not they are monetary, social or any kind.",
+    "uid": "735540d10320e1ca",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1307.28,
+    "end": 1314.28
+  },
+  {
+    "text": "However, because of the way that dopamine relates to our perception of time, working hard at something, for sake of a reward that comes afterward,",
+    "uid": "614e9fca31be1597",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1314.28,
+    "end": 1326.28
+  },
+  {
+    "text": "can make the hard work much more challenging and make us much less likely to lean into hard work in the future.",
+    "uid": "9b0f0e9f5411cfc5",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1326.28,
+    "end": 1334.28
+  },
+  {
+    "text": "Let me give you a couple examples by way of data and experiments. There's a classic experiment done actually at Stanford many years ago, in which children in nursery school and kindergarten drew pictures.",
+    "uid": "92e96531e017affe",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1334.28,
+    "end": 1349.28
+  },
+  {
+    "text": "And they drew pictures because they like to draw. The researchers took kids that like to draw and they started giving them a reward for drawing.",
+    "uid": "6b49bcbcb8539b19",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1349.28,
+    "end": 1358.28
+  },
+  {
+    "text": "The reward generally was a gold star or something that a young child would find rewarding.",
+    "uid": "0b012f6ae8cf0974",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1358.28,
+    "end": 1364.28
+  },
+  {
+    "text": "Then they stopped giving them the gold star and what they found is that the children had a much lower tendency to draw on their own.",
+    "uid": "a9ac5a671ed677ec",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1364.28,
+    "end": 1375.28
+  },
+  {
+    "text": "No reward. Now remember, this was an activity that prior to receiving a reward, the children intrinsically enjoyed and selected to do.",
+    "uid": "47e2ef69e42a22de",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1375.28,
+    "end": 1384.28
+  },
+  {
+    "text": "What this relates to is so-called intrinsic versus extrinsic reinforcement. When we receive rewards, even if we give ourselves rewards for something, we tend to associate less pleasure with the actual activity itself that evoked the reward.",
+    "uid": "c296e9cbcc7e1ff2",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1384.28,
+    "end": 1399.28
+  },
+  {
+    "text": "If you get a peak in dopamine from a reward, it's going to lower your baseline and the cognitive interpretation is that you didn't really do the activity because you enjoyed the activity you did it for the reward.",
+    "uid": "9b649751ca842cf7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1399.28,
+    "end": 1413.28
+  },
+  {
+    "text": "It's also important to understand that dopamine controls our perception of time.",
+    "uid": "2aea7e911e52085a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1413.28,
+    "end": 1418.28
+  },
+  {
+    "text": "When we engage in an activity, let's say, school or hard work of any kind or exercise because of the reward we are going to give ourselves a receive at the end.",
+    "uid": "6d2593c5e7333424",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1418.28,
+    "end": 1428.28
+  },
+  {
+    "text": "We actually are extending the time bin over which we are analyzing or perceiving that experience.",
+    "uid": "f9579d7946278d6a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1428.28,
+    "end": 1436.28
+  },
+  {
+    "text": "And because the reward comes at the end, we start to dissociate the neural circuits for dopamine and reward that would have normally been active during the activity.",
+    "uid": "205a896729f816b8",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1436.28,
+    "end": 1449.28
+  },
+  {
+    "text": "And we have the experience of less and less pleasure from that particular activity while we're doing it.",
+    "uid": "11ba88d7f7627203",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1449.28,
+    "end": 1456.28
+  },
+  {
+    "text": "Now, this is the antithesis of growth mindset, which is this striving to be better to be in this mindset of I'm not there yet, but striving itself is the end goal and that of course delivers you to tremendous performances and observe over and over and over again that people that have growth mindset, kids have growth mindset and up performing very well because they're focused on the effort itself.",
+    "uid": "6440565f7858fc10",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1457.28,
+    "end": 1481.28
+  },
+  {
+    "text": "And all of us can cultivate growth mindset. The neural mechanism of cultivating growth mindset involves learning to access the rewards from effort and doing.",
+    "uid": "15b993aeef74d1ec",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1481.28,
+    "end": 1492.28
+  },
+  {
+    "text": "And that's hard to do because you have to engage this prefrontal component of the Mesolambic circuit, you have to tell yourself, okay, this effort is great, this effort is pleasureful.",
+    "uid": "5f5ad322f0294426",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1492.28,
+    "end": 1504.28
+  },
+  {
+    "text": "And what you find over time is that you can evoke dopamine release from the friction and the challenge that you happen to be in.",
+    "uid": "7185b84cfaaf4539",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1504.28,
+    "end": 1512.28
+  },
+  {
+    "text": "The beauty of this Mesolambic reward pathway is that it includes the for brain. So you can tell yourself the effort part is the good part.",
+    "uid": "09a36965ed8650ed",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1512.28,
+    "end": 1520.28
+  },
+  {
+    "text": "I know it's paying for I know this doesn't feel good, but I'm focused on this I'm going to start to access the reward you will find the rewards meaning the dopamine release inside of effort if you repeat this over and over again and what's beautiful about it is that it starts to become reflexive for all types of effort.",
+    "uid": "577434a168440d69",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1520.28,
+    "end": 1538.28
+  },
+  {
+    "text": "When we focus only on the trophy, only on the grade, only on the win as the reward you undermine that entire process. So how do you do this? You do this in those moments of the most intense friction you tell yourself that in that moment you are doing it by choice and you're doing it because you love it.",
+    "uid": "ce08d09ffe6b8dbe",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1538.28,
+    "end": 1560.28
+  },
+  {
+    "text": "The ability to access this pleasure from effort aspect of our dopamine energy, is without question the most powerful aspect of dopamine and our biology of dopamine.",
+    "uid": "6c1c98f75e136f9a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1560.28,
+    "end": 1573.28
+  },
+  {
+    "text": "And the beautiful thing is it's accessible to all of us and just to really underscore the things that can interfere with and prevent you from getting dopamine release from effort itself.",
+    "uid": "4afaf595b631e264",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1573.28,
+    "end": 1585.28
+  },
+  {
+    "text": "Don't spike dopamine prior to engaging an effort and don't spike dopamine after engaging an effort learn to spike your dopamine from effort itself.",
+    "uid": "f3cedbbc0a972c45",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1585.28,
+    "end": 1596.28
+  },
+  {
+    "text": "Along the lines of how dopamine and dopamine schedules and our perception of things can shape the way that we experience things as pleasureful or not.",
+    "uid": "b1319836156b9545",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1596.28,
+    "end": 1605.28
+  },
+  {
+    "text": "And our beautiful studies mainly looking at sugar appetite and our sense of pleasure from sweet things but also for savory foods, et cetera.",
+    "uid": "45f79a6c46a1e6ca",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1605.28,
+    "end": 1614.28
+  },
+  {
+    "text": "And essentially the results that come out of this are the following.",
+    "uid": "af7bec798fffff57",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1614.28,
+    "end": 1617.28
+  },
+  {
+    "text": "If you ingest something that you like, it takes good to you, but then you ingest something that's even sweeter or even more savory and then you go back to the food that you ate previously.",
+    "uid": "01cfed0f9bcf40e0",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1617.28,
+    "end": 1629.28
+  },
+  {
+    "text": "Well, you don't like it as much. And that might seem like a duh obviously, but that shift in perception can be blocked by blocking the shift in dopamine.",
+    "uid": "d1e24ebf0b786192",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1629.28,
+    "end": 1640.28
+  },
+  {
+    "text": "And so this really speaks to these peaks and valleys in dopamine that I mentioned before and how your experience of anything is going to depend on your prior experience of other things that a vote dopamine.",
+    "uid": "df576eacae2e55a7",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1640.28,
+    "end": 1652.28
+  },
+  {
+    "text": "Big dopamine release makes it more challenging to experience more big dopamine release.",
+    "uid": "dda987a2dc27dfda",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1652.28,
+    "end": 1658.28
+  },
+  {
+    "text": "So dopamine is one of those things that you don't want too high or too low for too long. It's all about staying in that dynamic range and that's going to be different for everybody.",
+    "uid": "6387d1c22a79df75",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1658.28,
+    "end": 1667.28
+  },
+  {
+    "text": "Now, there are circumstances in which increasing levels of dopamine is desirable and advantageous and clinically helpful.",
+    "uid": "e82bd8d53ea8b15c",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1667.28,
+    "end": 1674.28
+  },
+  {
+    "text": "Good example of this would be the drug well butrin also called bupriron, which increases dopamine and no rep an effort.",
+    "uid": "221b03bf5bcd0d4e",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1674.28,
+    "end": 1681.28
+  },
+  {
+    "text": "Well, butrin bupriron was developed as an alternative treatment for depression because some people who take the so-called SSRI selective serotonin re-up taken hibiters, which as the name suggests increased serotonin suffer from serotonin related side effects things like decreased appetite decrease libido or sometimes increased appetite.",
+    "uid": "8546388af04e626e",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1681.28,
+    "end": 1701.28
+  },
+  {
+    "text": "Or other side effects that they don't want. And well, butrin seems to avoid the sexual side effects. It can blunt appetite and these sorts of things because of the increase in nor-app and effort and dopamine increases levels of motivation and craving.",
+    "uid": "27df5dace2cc2ea2",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1701.28,
+    "end": 1719.28
+  },
+  {
+    "text": "But also can create a state of elevated alertness that can sometimes get in the way of healthy eating and things of that sort. So one has to work with their clinician as psychiatrists.",
+    "uid": "e99b4cf40b7d6e7a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1719.28,
+    "end": 1731.28
+  },
+  {
+    "text": "It is a prescription drug in order to find the dosage of well butrin that's correct for them. And of course, there are a lot of people out there who are seeking to increase their baseline levels of dopamine without taking any prescription pharmaceutical compounds.",
+    "uid": "4c106b52f01ba688",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1731.28,
+    "end": 1745.28
+  },
+  {
+    "text": "Many people have turned to the use of altiracene. Altiracene is an amino acid precursor to aldopa. So it lies further up the dopamine synthesis pathway.",
+    "uid": "80118a746478574f",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1745.28,
+    "end": 1755.28
+  },
+  {
+    "text": "And nowadays it's very common because altiracene is sold over the counter in the United States that people will take altiracene as a way to get more energized alert and focused.",
+    "uid": "653574665d467d63",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1755.28,
+    "end": 1768.28
+  },
+  {
+    "text": "Altiracene is typically taken in capsule form or powder form anywhere from 500 to 750 to 1000 milligrams.",
+    "uid": "22559410f4931e84",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1768.28,
+    "end": 1776.28
+  },
+  {
+    "text": "And the time scale for increasing dopamine is about 30 to 45 minutes after ingestion. Dopamine levels start to peak.",
+    "uid": "9bd6335ef5d84018",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1776.28,
+    "end": 1783.28
+  },
+  {
+    "text": "Of course, if you have a pre-existing dopamine-urgent condition, so it gets a friendier psychosis of any kind by polar anxiety.",
+    "uid": "c519406c7f86a942",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1783.28,
+    "end": 1792.28
+  },
+  {
+    "text": "Altiracene will not be good for you. And if you don't, you should just understand and expect that it's going to lead to an increase in dopamine.",
+    "uid": "806b08344e575386",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1792.28,
+    "end": 1802.28
+  },
+  {
+    "text": "You'll certainly feel an elevated state for some of you that might be agitating for some of you that might be really pleasurable.",
+    "uid": "fe07acf01ab1013a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1802.28,
+    "end": 1808.28
+  },
+  {
+    "text": "And then you will feel a crash afterwards. I do use altiracene from time to time for enhancing focus and motivation.",
+    "uid": "f554814ccc049bc0",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1808.28,
+    "end": 1815.28
+  },
+  {
+    "text": "But I want to emphasize it from time to time. I've never been one to take altiracene regularly in order to focus or train or do any kind of mental work. I don't want to experience the drop in dopamine that inevitably occurs some period of time afterwards.",
+    "uid": "9863b7eb2bfbae7a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1815.28,
+    "end": 1828.28
+  },
+  {
+    "text": "Now, there is one compound that you are all familiar with and you've probably actually taken without realizing it that increases dopamine.",
+    "uid": "eef5fbaae4207ec5",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1828.28,
+    "end": 1835.28
+  },
+  {
+    "text": "And that's something called PEA for phenylethylamine, technically beta phenylethylamine.",
+    "uid": "4dd79fef2c7971e2",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1835.28,
+    "end": 1843.28
+  },
+  {
+    "text": "PEA is found in various foods. Chocolate just happens to be one enriched in PEA and can increase synaptic levels of dopamine.",
+    "uid": "db4bb8f588f97c41",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1843.28,
+    "end": 1852.28
+  },
+  {
+    "text": "I personally take PEA from time to time as a focus and work aid in order to do intense bouts of work. Again, I don't do that too often.",
+    "uid": "6dfcb3567afa27a2",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1852.28,
+    "end": 1862.28
+  },
+  {
+    "text": "It's usually for mental work. And I will take 500 milligrams of PEA and I'll take 300 milligrams of alpha GPC. It leads to a sharp but very transient increase in dopamine that lasts about 30 to 45 minutes.",
+    "uid": "f76775fa0224512a",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1862.28,
+    "end": 1877.28
+  },
+  {
+    "text": "And at least in my system, I found to be much more regulated and kind of even than something like altiracene.",
+    "uid": "1c7aa96ca63178cd",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1877.28,
+    "end": 1885.28
+  },
+  {
+    "text": "And so, well, it's fun to think about pharmacology and underlying neural circuitry and cold water baths and all these different things related to dopamine schedules and reward mechanisms and attaching reward to effort and all the various things that we've talked about today in terms of science and tools and protocols.",
+    "uid": "ce4899cf2e4b3627",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1885.28,
+    "end": 1902.28
+  },
+  {
+    "text": "I'd be remiss if I didn't include that social connections close social connections in particular, at least essential to stimulating the dopamine pathways.",
+    "uid": "0feef56741472bc4",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1902.28,
+    "end": 1912.28
+  },
+  {
+    "text": "So, the take home message there is quite simple. Engage in pursue quality, healthy social interactions.",
+    "uid": "776af23f3d00c1d1",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1912.28,
+    "end": 1920.28
+  },
+  {
+    "text": "I know I've covered a lot of material today. I've really tried hard to focus on things that lie directly within the dopamine pathway and circuitrys, as well as things that directly stimulate those pathways and circuitrys.",
+    "uid": "b15a40d49892d8b1",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1920.28,
+    "end": 1933.28
+  },
+  {
+    "text": "I realize in giving you a lot of information about science and mechanism all the way from psychological and biological to circuitry and synaptic transmission, volumetric transmission and so forth, that it might seem overwhelming.",
+    "uid": "83faed197bebe77d",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1933.28,
+    "end": 1945.28
+  },
+  {
+    "text": "The most important thing is to understand are that these dopamine pathways really are under your control and the locus of control resides in the fact that your previous levels of dopamine are influencing your levels of dopamine right now and your current levels of dopamine and where you take them next will influence your dopamine levels in the next days and weeks to come. And last, but certainly not least. Thank you for your interest in science.",
+    "uid": "1834eda569aad2ef",
+    "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu",
+    "start": 1945.28,
+    "end": 1969.28
+  }
+]
