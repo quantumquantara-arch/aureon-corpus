@@ -1,0 +1,4300 @@
+[
+  {
+    "text": "The following is a conversation with Terence Tao, widely considered to be one of the greatest mathematicians in history,",
+    "uid": "ef97d9e51957c13e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 0.0,
+    "end": 8.08
+  },
+  {
+    "text": "often referred to as the Mozart of Math.",
+    "uid": "b8973aeea1a61b60",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 8.08,
+    "end": 12.0
+  },
+  {
+    "text": "He won the Fields Medal and the Breakthrough Prize of Mathematics as contributed groundbreaking work",
+    "uid": "bbf902917bb7da1b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 12.0,
+    "end": 18.24
+  },
+  {
+    "text": "to a truly astonishing range of fields in mathematics and physics. This was a huge honor for me,",
+    "uid": "7bc248d14493030e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 18.24,
+    "end": 26.08
+  },
+  {
+    "text": "for many reasons, including the humility and kindness that Terry showed to me throughout all our interactions.",
+    "uid": "d37505ce86c077c1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 26.16,
+    "end": 34.0
+  },
+  {
+    "text": "It means the world. This is Alex Friedman podcast to support it. Please check out our sponsors",
+    "uid": "df2888387c31f6a4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 34.64,
+    "end": 41.04
+  },
+  {
+    "text": "in the description or at lexf Friedman.com. Our sponsors and now, dear friends, here's Terence Tao.",
+    "uid": "10f6ca8c1c9cded4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 41.04,
+    "end": 48.64
+  },
+  {
+    "text": "What was the first really difficult research-level math problem that you encountered?",
+    "uid": "bea4266f9ee18ef3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 49.84,
+    "end": 55.6
+  },
+  {
+    "text": "One, they give you pause, maybe. Well, I mean, in your undergraduate education, you learn about the",
+    "uid": "5c3d185f41b23fa6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 55.6,
+    "end": 61.52
+  },
+  {
+    "text": "really hard and possible problems. Like the women of hypothesis, the children of times,",
+    "uid": "a38bdcc99e731c14",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 61.52,
+    "end": 65.44
+  },
+  {
+    "text": "conjecture, you can make problems arbitrarily difficult. That's not really a problem. In fact, there's",
+    "uid": "2e50dfaf5f01657c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 65.44,
+    "end": 69.68
+  },
+  {
+    "text": "even problems that we know to be unsolvable. What's really interesting are the problems just to the",
+    "uid": "4c6d381a1c107d78",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 69.68,
+    "end": 73.84
+  },
+  {
+    "text": "bond the boundary between what we can do, but that's easily and what I hope is. But what are problems where",
+    "uid": "fdb6f87b113fc395",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 73.84,
+    "end": 80.24
+  },
+  {
+    "text": "existing techniques can do 90% of the job and then you just need that remaining 10%",
+    "uid": "e9383d23dfb0a88b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 80.96,
+    "end": 85.52
+  },
+  {
+    "text": "I think as a PC student, the care problem certainly caught my eye. It's just got solved actually.",
+    "uid": "54e4d0099c172859",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 85.52,
+    "end": 92.64
+  },
+  {
+    "text": "It's a problem I've worked on a lot in my early research. Historically, it came from a little puzzle",
+    "uid": "2c453d282d672713",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 92.64,
+    "end": 97.04
+  },
+  {
+    "text": "by the Japanese mathematician, so which it could care, like 1918 or so. So the puzzle is that you have",
+    "uid": "e39c5754cd83b97a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 97.04,
+    "end": 105.12
+  },
+  {
+    "text": "a needle on the plane. I think like driving on a road. You wanted to execute a user. You want to",
+    "uid": "b0be6b7002640de7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 105.12,
+    "end": 115.28
+  },
+  {
+    "text": "turn the needle around, but you want to do it in as little space as possible. You want to use",
+    "uid": "3c259bd86baf0e1b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 115.36,
+    "end": 120.72
+  },
+  {
+    "text": "a little area in order to turn it around. But the needle is infinitely maneuverable. You can imagine",
+    "uid": "d4712d0cbdb469e0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 120.72,
+    "end": 128.32
+  },
+  {
+    "text": "just spinning it around. It's as a unit needle. You can spin it around its center. That gives you a",
+    "uid": "856463e5036884c8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 128.32,
+    "end": 134.56
+  },
+  {
+    "text": "disc of a variable of a variable of a variable full. All you can do a 3.0 unit term, which is what",
+    "uid": "ab6d9f32bfdae2d5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 134.56,
+    "end": 139.36
+  },
+  {
+    "text": "we teach people in the driving scores to do. That takes area by 8. It's a little bit more efficient",
+    "uid": "809de19b8f775189",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 139.36,
+    "end": 146.32
+  },
+  {
+    "text": "than a rotation. For a while, people thought that was the most efficient way to turn things around.",
+    "uid": "8238fce05bcbcc8f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 146.32,
+    "end": 151.76
+  },
+  {
+    "text": "But as a COVID, it showed that in fact, you could actually turn the needle around using as little",
+    "uid": "a5b0f53df04f32d9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 151.76,
+    "end": 156.96
+  },
+  {
+    "text": "areas you wanted. So 0.0 is your one. There was some really fancy multi back and forth",
+    "uid": "a6b61f2b8d34d170",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 156.96,
+    "end": 164.0
+  },
+  {
+    "text": "you could do that you could turn the needle around. And in doing it, it would pass through every",
+    "uid": "39d8d45f72536e63",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 164.0,
+    "end": 169.68
+  },
+  {
+    "text": "intermediate direction. Is this in the digital and emotional plane? This is an international plane.",
+    "uid": "1e1957ad7e1cc868",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 169.68,
+    "end": 173.52
+  },
+  {
+    "text": "So we understand everything in two dimensions. So the next question is what happens in three dimensions.",
+    "uid": "a28a734d1f242015",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 173.52,
+    "end": 178.4
+  },
+  {
+    "text": "So suppose like the Hubble Space Telescope is two in space. You want to observe every single star",
+    "uid": "95cd25e124ec4cda",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 178.4,
+    "end": 184.4
+  },
+  {
+    "text": "in the universe. You want to rotate the telescope to every single direction. He's unrealistic,",
+    "uid": "61d61665e27c39c4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 184.4,
+    "end": 189.52
+  },
+  {
+    "text": "but suppose that space is at a premium, which is totally not. You want to occupy as little",
+    "uid": "ee404d9368597e6e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 189.52,
+    "end": 194.32
+  },
+  {
+    "text": "volume as possible in order to rotate your needle around to see every single star in the sky.",
+    "uid": "7f3cf6d8b2b6af60",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 194.32,
+    "end": 199.2
+  },
+  {
+    "text": "How small of volume do you need to do that? You can modify the telescope is just construction.",
+    "uid": "9366091df05b37d8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 200.24,
+    "end": 205.84
+  },
+  {
+    "text": "If your telescope has zero thickness, then you can use as little volume as you need. That's a simple",
+    "uid": "5f55daa5d7076c8a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 205.84,
+    "end": 211.12
+  },
+  {
+    "text": "modification of the two-dimensional construction. But the question is that if your telescope is not",
+    "uid": "006dd310ef37934d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 211.12,
+    "end": 215.52
+  },
+  {
+    "text": "zero thickness, but just very, very thin. Something is delta. What is the minimum volume",
+    "uid": "ffd8123563abc912",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 215.52,
+    "end": 221.04
+  },
+  {
+    "text": "needed to be able to see every single direction as a function of delta? So as delta gets smaller,",
+    "uid": "91d62062f971f857",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 221.04,
+    "end": 226.56
+  },
+  {
+    "text": "as you need to get thinner, the volume should go down, but how fast is it going down?",
+    "uid": "c144af30e7c51521",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 226.56,
+    "end": 231.2
+  },
+  {
+    "text": "And the conjecture was that it goes down very, very slowly, like logistically, roughly speaking,",
+    "uid": "7bd8a691edbd963f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 233.04,
+    "end": 239.76
+  },
+  {
+    "text": "and that was proved after a lot of work. So this seems like a puzzle-wise, it's interesting.",
+    "uid": "e173a781ce1647c4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 239.76,
+    "end": 244.96
+  },
+  {
+    "text": "So it turns out to be surprisingly connected to a lot of problems in post-definition equations,",
+    "uid": "9e3a51a9c80cd21d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 245.04,
+    "end": 249.36
+  },
+  {
+    "text": "in number theory, in geometry, common topics. For example, in wave propagation,",
+    "uid": "9e8c31da6900b142",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 249.36,
+    "end": 254.08
+  },
+  {
+    "text": "we start some water around waterways and they will take the travel and various directions.",
+    "uid": "2ec602b5922816b7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 254.08,
+    "end": 258.16
+  },
+  {
+    "text": "But waves exhibit both particle and wave-type behavior. So you can have what's called a wave packet,",
+    "uid": "0cb6351d2d18e822",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 259.36,
+    "end": 264.72
+  },
+  {
+    "text": "which is like a very localized wave that is localized in space and moving at certain direction in time.",
+    "uid": "a183eb4203f79713",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 264.72,
+    "end": 269.92
+  },
+  {
+    "text": "And so if you plot it into space and time, it occupies a region of which books are continued.",
+    "uid": "fe3a25b88694ab55",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 270.64,
+    "end": 275.28
+  },
+  {
+    "text": "And so what can happen is that you can have a wave which initially is very dispersed, but it all",
+    "uid": "2e4bd0bbfde80bb4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 275.92,
+    "end": 281.28
+  },
+  {
+    "text": "focuses at a single point later in time. You can imagine dropping a pebble into a pond and",
+    "uid": "b6e7f940bb7afb4d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 281.28,
+    "end": 286.72
+  },
+  {
+    "text": "rip a split out. But then if you time reverse that scenario and the equation is a wave motion at",
+    "uid": "6cb43bdcdfffcd9b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 286.72,
+    "end": 292.16
+  },
+  {
+    "text": "time reversible, you can imagine ripals that are converging to a single point and then a big splash of",
+    "uid": "f24e146210c487fb",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 292.16,
+    "end": 298.24
+  },
+  {
+    "text": "maybe even a singularity. And so it's possible to do that. And geometric what's going on is that",
+    "uid": "571952fadd2ee047",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 299.2,
+    "end": 306.16
+  },
+  {
+    "text": "there's always light rays. So if this wave represents light, for example, you can imagine this wave as",
+    "uid": "431bbca2b33ac3f4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 306.16,
+    "end": 312.16
+  },
+  {
+    "text": "the superposition of photons all traveling at the speed of light, they all show on these light rays.",
+    "uid": "68830b1bfd4cb9ae",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 312.16,
+    "end": 317.28
+  },
+  {
+    "text": "And they're all focusing at this one point. So you can have a very dispersed wave focus into a very",
+    "uid": "f7ea3507c739ec91",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 317.28,
+    "end": 322.56
+  },
+  {
+    "text": "constitute a wave at one point in space and time, but then it focuses again and it separates.",
+    "uid": "7131f5ffd9e3203e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 322.56,
+    "end": 327.52
+  },
+  {
+    "text": "But potentially if the project had a negative solution. So what I mean is that there's a very efficient",
+    "uid": "aaa16eb840726120",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 328.32,
+    "end": 333.68
+  },
+  {
+    "text": "way to pack tubes pointing at different directions. It's a very, very narrow region of a very narrow volume.",
+    "uid": "d7d46bf0d11ed461",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 333.68,
+    "end": 340.4
+  },
+  {
+    "text": "Then you would also be able to create waves that start out, there'll be some arrangement of waves that",
+    "uid": "5c6b071261c34327",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 341.04,
+    "end": 345.44
+  },
+  {
+    "text": "start out very, very dispersed. But they would concentrate not just at a single point, but",
+    "uid": "8ed2aee7ce7b31b6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 345.44,
+    "end": 350.0
+  },
+  {
+    "text": "there'll be a large, there'll be a lot of concentrations in space and time.",
+    "uid": "c030cc7eda50974e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 350.96,
+    "end": 355.52
+  },
+  {
+    "text": "And you could create what's called a blow up where these waves, they're after to become so great.",
+    "uid": "5bc5e59a4fe9942c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 356.64,
+    "end": 362.24
+  },
+  {
+    "text": "There are also physics that are governed by no longer wave equations, but something more complicated and non-linear.",
+    "uid": "e789c2bc3b2ba28d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 362.24,
+    "end": 367.28
+  },
+  {
+    "text": "And so in mathematics, physics we care a lot about whether certain equations in wave equations are stable,",
+    "uid": "182ae12c5e75f4a6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 368.64,
+    "end": 373.28
+  },
+  {
+    "text": "or whether they can create these singularities. There's a famous, I'm so problem, called the Navier Stokes",
+    "uid": "45ca07e39b22d43b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 373.28,
+    "end": 378.8
+  },
+  {
+    "text": "regularity problem. So the Navier Stokes equations are governed, the fluid flow of all",
+    "uid": "263a0ede5353c732",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 378.8,
+    "end": 383.44
+  },
+  {
+    "text": "incompressible fluids like water. The question asks if you start with a smooth, velocity field of water,",
+    "uid": "a779d2619bcd4716",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 383.44,
+    "end": 388.72
+  },
+  {
+    "text": "can it ever concentrate so much that the blast becomes infinite at some point? That's called a singularity.",
+    "uid": "c79cd3d3055b7792",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 388.72,
+    "end": 394.0
+  },
+  {
+    "text": "We don't see that in real life, if you splash around water and the blast up, we won't explode on you.",
+    "uid": "e81132c88129fe48",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 394.64,
+    "end": 400.88
+  },
+  {
+    "text": "Or we'll have water leaving a speed of light, but potentially it is possible.",
+    "uid": "1f00477df50bf6de",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 402.24,
+    "end": 407.28
+  },
+  {
+    "text": "And in recent years, the consensus has drifted towards the belief that, in fact, for certain,",
+    "uid": "f5bdba43c89af468",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 409.2,
+    "end": 416.96
+  },
+  {
+    "text": "very special conditions of say water that singularity is conform, but people have not yet been able to",
+    "uid": "0da5b8198cedcedc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 416.96,
+    "end": 424.48
+  },
+  {
+    "text": "directly establish this. The Clay Foundation has these seven millennium-fries problems.",
+    "uid": "c4890576c3463445",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 424.96,
+    "end": 429.6
+  },
+  {
+    "text": "Has a million other price for solving one of these problems, so this is one of them.",
+    "uid": "7e35cfdaf8618e7e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 429.6,
+    "end": 432.8
+  },
+  {
+    "text": "Of these seven, only one of them has been solved. The other point, Clay, can Jack, my",
+    "uid": "6ab6f14b8e68b55d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 432.88,
+    "end": 436.72
+  },
+  {
+    "text": "problem. So the, Clay, can Jack, Clay is not directly directly related to the Navier Stokes problem,",
+    "uid": "0682527a93e859b7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 436.72,
+    "end": 443.44
+  },
+  {
+    "text": "but understanding it would help us understand some aspects of things like way of concentration,",
+    "uid": "c7323a7f76b588c6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 443.44,
+    "end": 449.04
+  },
+  {
+    "text": "which would indirectly help us understand the Navier Stokes problem better. Can you speak to the Navier Stokes?",
+    "uid": "b8b428da1ec66414",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 449.04,
+    "end": 454.0
+  },
+  {
+    "text": "So the existence of smoothness, like you said, millennial price problem, you made a lot of progress on this one.",
+    "uid": "7aa41f228d61f75c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 454.0,
+    "end": 460.4
+  },
+  {
+    "text": "In 2016, you published the paper, finite time blow up for an average three-dimensional Navier Stokes equation.",
+    "uid": "350211a80959d4dd",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 460.48,
+    "end": 466.32
+  },
+  {
+    "text": "So we're trying to figure out if this thing usually doesn't blow up.",
+    "uid": "dc8d70c0350c126c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 468.72,
+    "end": 471.6
+  },
+  {
+    "text": "But can we say for sure it never blows up?",
+    "uid": "ff6d63f2b7546f11",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 473.36,
+    "end": 476.32
+  },
+  {
+    "text": "Right. Yeah, so yeah, that is literally the, the million-dollar question. Yeah, so this is what distinguishes",
+    "uid": "4f69112f4087f93a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 476.32,
+    "end": 480.88
+  },
+  {
+    "text": "mathematicians from pretty much everybody else, like if if something holds an academic point",
+    "uid": "6280440045844032",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 480.88,
+    "end": 486.08
+  },
+  {
+    "text": "99% of the time, that's good enough for most, you know, for most things. But mathematicians,",
+    "uid": "888df3691b31dc2f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 486.08,
+    "end": 492.72
+  },
+  {
+    "text": "I want a few people who really care about whether every like 100% really 100% of all",
+    "uid": "e9155577a3022fc6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 492.72,
+    "end": 497.28
+  },
+  {
+    "text": "situations are covered by, by, yeah. So most fluid, most of the time, what it does not blow up,",
+    "uid": "71046c421da6e960",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 498.4,
+    "end": 505.2
+  },
+  {
+    "text": "but could you design a very special initial state that does this? And maybe we should say that this is",
+    "uid": "9ce677af945b03e7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 505.2,
+    "end": 510.48
+  },
+  {
+    "text": "set of equations that govern in the field of fluid dynamics. Yeah, trying to understand how fluid",
+    "uid": "220316a2a22934f2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 511.12,
+    "end": 516.32
+  },
+  {
+    "text": "behaves and it's actually, it turns out to be really complicated, you know, fluid is, yeah, extremely complicated",
+    "uid": "1117a08a41e2a825",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 516.32,
+    "end": 521.92
+  },
+  {
+    "text": "thing to try to model. Yeah, so it has practical importance. So this Clay Price problem concerns what's called",
+    "uid": "48ae1c4b4080dceb",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 521.92,
+    "end": 526.08
+  },
+  {
+    "text": "the incompressible Navier Stokes, which is government things like water. This something called the",
+    "uid": "58eb3c0ea43a7ffc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 526.08,
+    "end": 529.52
+  },
+  {
+    "text": "Compressible Navier Stokes, which happens things like air. And that's particularly important for",
+    "uid": "9d9541fb2ac524cf",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 529.52,
+    "end": 533.44
+  },
+  {
+    "text": "weather prediction, but the prediction is just a lot of computational fluid dynamics. A lot of it is",
+    "uid": "43db65925bec245b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 533.44,
+    "end": 536.88
+  },
+  {
+    "text": "like it's just trying to solve the Navier Stokes equations as best they can. Also gathering a lot of",
+    "uid": "43920178b5026e37",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 536.88,
+    "end": 542.96
+  },
+  {
+    "text": "data to the thing that they can get, they can initialize the equation. There's a lot of moving paths.",
+    "uid": "9652798922d3b52d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 542.96,
+    "end": 547.2
+  },
+  {
+    "text": "So it's very important, probably, practically. Why is it difficult to prove general things about",
+    "uid": "65a6dde31f3db665",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 547.2,
+    "end": 553.92
+  },
+  {
+    "text": "the set of equations like in that and that blowing up? Short answer is Maxwell's Demon. So Maxwell's",
+    "uid": "91b0ae6d998ad397",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 553.92,
+    "end": 560.32
+  },
+  {
+    "text": "Demon is a concept in thermodynamics. Like if you have a box of two gases in oxygen and nitrogen",
+    "uid": "7cb2c2d41000a3d0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 560.32,
+    "end": 565.12
+  },
+  {
+    "text": "and maybe you start with all the oxygen one side and that's in the other side, but there's no barrier",
+    "uid": "269a02100f43540e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 565.6,
+    "end": 569.04
+  },
+  {
+    "text": "between them. Then they will mix and they should stay mixed. There's no reason why they should un-mix.",
+    "uid": "c4f39e9f01511a04",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 569.04,
+    "end": 575.6
+  },
+  {
+    "text": "But in principle, because of all the collisions between them, there could be some sort of weird conspiracy",
+    "uid": "fb88df122bd069a9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 575.6,
+    "end": 580.56
+  },
+  {
+    "text": "like that, like maybe there's a microscopic demon called Maxwell's Demon that will every time a oxygen",
+    "uid": "7e2bc31831bf8aa8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 580.56,
+    "end": 585.76
+  },
+  {
+    "text": "and that shouldn't have been collied, they will bounce up in such a way that the oxygen sort of drifs on the",
+    "uid": "f91e2d066ff622cc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 585.76,
+    "end": 589.12
+  },
+  {
+    "text": "one side and then nitrogen goes to the other and you can have an extremely improbable configuration",
+    "uid": "2dbfc04916053e77",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 589.12,
+    "end": 594.24
+  },
+  {
+    "text": "emerge, which we never see and we'd still typically assume the unlikely, but mathematically it's",
+    "uid": "f346d4511ae7169e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 594.24,
+    "end": 603.04
+  },
+  {
+    "text": "possible that this can happen and we can't pull that out. And this is a situation that shows up a lot",
+    "uid": "d746def12c5677ff",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 603.04,
+    "end": 608.96
+  },
+  {
+    "text": "in mathematics. Basically, the examples that digits a pie, three or four, one, five, nine, so forth.",
+    "uid": "c5c04e8e6187d84c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 608.96,
+    "end": 614.72
+  },
+  {
+    "text": "The digits look like they have no pattern and we believe they have no pattern. On the long-term",
+    "uid": "83f4b5d00ef83a07",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 614.72,
+    "end": 618.64
+  },
+  {
+    "text": "she sees as many ones and two, and three, as four, and five, and six, there should be no",
+    "uid": "8fd1758210e637ec",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 618.64,
+    "end": 622.96
+  },
+  {
+    "text": "preference in the digit of pie to favor, let's say seven over eight. But maybe there's some demon",
+    "uid": "a15d93084c34cad6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 622.96,
+    "end": 630.16
+  },
+  {
+    "text": "in the digit of pie that every time you can be more more digits, it's a bias as one digit to another.",
+    "uid": "fcbe9f938fc1baf9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 630.16,
+    "end": 635.6
+  },
+  {
+    "text": "This is a conspiracy that should not happen. There's no reason it should happen, but there's no way to prove it",
+    "uid": "cfcb229ce7d0c479",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 637.44,
+    "end": 643.52
+  },
+  {
+    "text": "with our current technology. Okay, so getting back to Navier Stokes, fluid has a certain amount of energy",
+    "uid": "bc47c06187261788",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 644.48,
+    "end": 649.76
+  },
+  {
+    "text": "and because the fluid is in motion, the energy gets transported around and what is also viscous.",
+    "uid": "b1c45231b0d76c1d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 649.76,
+    "end": 654.88
+  },
+  {
+    "text": "So if the energy is spread out of a many different locations, the natural viscosity of the fluid",
+    "uid": "b4442a9e9c07939d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 654.88,
+    "end": 660.08
+  },
+  {
+    "text": "will just damp out the energy and it will go to zero. And this is what happens when we actually",
+    "uid": "4f2f98baa216995a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 660.08,
+    "end": 668.16
+  },
+  {
+    "text": "experiment with water. You sputter around, there's some turbulence and weight and so forth, but eventually",
+    "uid": "1885e24d0391b636",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 668.16,
+    "end": 673.12
+  },
+  {
+    "text": "it settles down and the lower the amplitude, the smaller velocity, the more calm it gets.",
+    "uid": "887f6719b91902d5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 673.2,
+    "end": 678.72
+  },
+  {
+    "text": "But potentially there is some sort of demon that keeps pushing the energy of the fluid into a smaller",
+    "uid": "42d9e249b5b58338",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 680.08,
+    "end": 686.0
+  },
+  {
+    "text": "and smaller scale. And we'll move fast and faster and at faster speeds, the effect of viscosity is relatively",
+    "uid": "e0d690545a7a07e0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 686.0,
+    "end": 691.12
+  },
+  {
+    "text": "less. And so it could happen that it creates some sort of, it's got a similar blob scenario where",
+    "uid": "d6ac3762298cf733",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 691.12,
+    "end": 698.4
+  },
+  {
+    "text": "the end of the fluid, sort of sort of add some large scale and then it all sort of",
+    "uid": "faa5eec56b41072d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 699.36,
+    "end": 703.92
+  },
+  {
+    "text": "transfers the energy into a smaller region of the fluid which then add a much faster rate",
+    "uid": "b4a3b2a6e1f8bfc4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 704.96,
+    "end": 710.56
+  },
+  {
+    "text": "moves into an even smaller region and so forth. And each time it does this, it takes maybe half as long as",
+    "uid": "b59546e10b394ed3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 710.96,
+    "end": 719.44
+  },
+  {
+    "text": "as the previous one and then you could actually converge to all the end of you concentrating on one point",
+    "uid": "795a39004186e612",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 719.44,
+    "end": 726.08
+  },
+  {
+    "text": "in a finite manner of time. And that's, that's an always good fun to hand blue up.",
+    "uid": "5661815118278fbf",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 726.48,
+    "end": 732.32
+  },
+  {
+    "text": "So in practice this doesn't happen. So water is what's got turbulent. So it is true that if you have a",
+    "uid": "933a15518636027d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 733.68,
+    "end": 740.4
+  },
+  {
+    "text": "big idea of water, it will tend to break up into smaller areas but it won't transfer all the energy from one",
+    "uid": "05f62fb14a73b4fd",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 740.4,
+    "end": 745.92
+  },
+  {
+    "text": "big idea into one smaller area, it will transfer into maybe three or four and then those ones",
+    "uid": "4525f27f70696621",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 745.92,
+    "end": 749.76
+  },
+  {
+    "text": "still have to maybe feel for small areas of their own. And so the energy gets dispersed to the point",
+    "uid": "515a19f663d51528",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 749.76,
+    "end": 754.64
+  },
+  {
+    "text": "where the viscosity can then keep a thing under control. But if it can somehow concentrate",
+    "uid": "d69c004d4e01caf1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 754.64,
+    "end": 761.44
+  },
+  {
+    "text": "all the energy keep it all together and do it fast enough that the viscous effects don't have enough time",
+    "uid": "7ad49264d03a3a6b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 762.24,
+    "end": 768.32
+  },
+  {
+    "text": "to come everything down, then this will kind of go. So there are papers for a claim that you just need to",
+    "uid": "10d3779f240ddc9e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 768.32,
+    "end": 774.08
+  },
+  {
+    "text": "take into account conservation energy and just carefully use the viscosity and you can keep everything",
+    "uid": "a3f7a100a40de377",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 774.08,
+    "end": 779.04
+  },
+  {
+    "text": "under control for not just an every stove but for many, many types of equations like this. And so in the",
+    "uid": "0515223408cc6ccf",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 779.04,
+    "end": 783.76
+  },
+  {
+    "text": "past there would be many attempts to try to obtain what's called global rigidity for",
+    "uid": "0b73b5e488aadfe0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 783.84,
+    "end": 786.8
+  },
+  {
+    "text": "Navier Stokes which is the opposite of finite envelope that velocity stays smooth and it all failed.",
+    "uid": "6d966940a4712d3d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 786.8,
+    "end": 792.56
+  },
+  {
+    "text": "There was always some sign error or some subtle mistake and it couldn't be salvaged.",
+    "uid": "9faaae648f8511d3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 792.56,
+    "end": 796.24
+  },
+  {
+    "text": "So what I was interested in doing was trying to explain why we were not able to disprove pilot time",
+    "uid": "3e4e7a094837cce4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 797.76,
+    "end": 804.88
+  },
+  {
+    "text": "below up. I couldn't do it for the actual equations of floors which were too complicated but if I could",
+    "uid": "2f427f3c992b25de",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 804.88,
+    "end": 809.68
+  },
+  {
+    "text": "average the equations of motion of Navier Stokes so physically if I could turn off certain types of",
+    "uid": "6ea2e3b5b615c15d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 809.68,
+    "end": 815.52
+  },
+  {
+    "text": "ways in which water interaction and only keep the ones that I want. So in particular if if there's a",
+    "uid": "4950f5b29d28fe92",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 815.52,
+    "end": 822.64
+  },
+  {
+    "text": "fluid and it could transfer energy from a large AD into this small AD or this other small AD I would turn off",
+    "uid": "745eeb5fcc27d86c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 822.64,
+    "end": 829.52
+  },
+  {
+    "text": "the energy channel that would transfer energy to this one and direct it only into this smaller AD while",
+    "uid": "22da2af82a54f373",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 829.52,
+    "end": 836.64
+  },
+  {
+    "text": "still preserving the law of concentration energy. So trying to make a blow up. Yeah so I",
+    "uid": "9e0ac845526a7122",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 836.64,
+    "end": 841.36
+  },
+  {
+    "text": "I basically engineer a blow up by changing those of physics which is one thing that mathematicians",
+    "uid": "1ce4a9c77cbccd49",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 841.36,
+    "end": 846.64
+  },
+  {
+    "text": "are allowed to do we can change the equation. How does that help you get closer to the proof of something?",
+    "uid": "680077e411f39c17",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 846.64,
+    "end": 850.64
+  },
+  {
+    "text": "Right so it provides what's called an upstruction in mathematics. So what I did was that basically if I",
+    "uid": "e5548a8f219d5eb8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 850.64,
+    "end": 857.2
+  },
+  {
+    "text": "turned off the certain parts of the equation so which usually when you turn off certain interactions",
+    "uid": "86516dba9b025331",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 857.2,
+    "end": 863.2
+  },
+  {
+    "text": "make it less nonlinear it makes it more regular and less likely to blow up but I found that by",
+    "uid": "223431d1d7b877b2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 863.2,
+    "end": 867.84
+  },
+  {
+    "text": "turning off a very well designed set of interactions I could force all the energy to blow up in",
+    "uid": "fe01a4ac363b6cc7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 867.84,
+    "end": 875.2
+  },
+  {
+    "text": "finite time. So what that means is that if you wanted to prove the word of reality for Navier Stokes",
+    "uid": "648c093251f93a0f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 875.2,
+    "end": 881.6
+  },
+  {
+    "text": "for the actual equation you must use some feature of the true equation which my artificial equation",
+    "uid": "47465d970354c60f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 882.56,
+    "end": 889.76
+  },
+  {
+    "text": "does not satisfy. So it rules out certain approaches. So the thing my math is it's not just about finding",
+    "uid": "98a0d09713bd378f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 890.64,
+    "end": 899.52
+  },
+  {
+    "text": "you know taking a technique that is going to work and applying it but you need to not take the",
+    "uid": "5c346574ad85dac1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 899.52,
+    "end": 904.0
+  },
+  {
+    "text": "techniques that don't work. And for the problem that are really hard often there are dozens of ways that",
+    "uid": "ad1276e04dbd3f21",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 904.0,
+    "end": 909.6
+  },
+  {
+    "text": "you might think might apply just off the problem but it's only after a lot of experience that you",
+    "uid": "a50384d6da160453",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 910.64,
+    "end": 915.44
+  },
+  {
+    "text": "realize there's no way that these methods are going to work. So having these counter examples for nearby",
+    "uid": "177282b66113c1f7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 915.44,
+    "end": 920.16
+  },
+  {
+    "text": "problems kind of rules out it saves you a lot of time because you're not wasting energy on things that",
+    "uid": "279977645efe39da",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 920.16,
+    "end": 928.88
+  },
+  {
+    "text": "you now know cannot possibly have a work. How deeply connected is it to that specific problem of",
+    "uid": "358388295ae2b387",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 928.88,
+    "end": 933.68
+  },
+  {
+    "text": "fluid dynamics or just some more general intuition you build up a while mathematics. Right yeah so the key",
+    "uid": "3a90cc30e44505fc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 933.68,
+    "end": 939.28
+  },
+  {
+    "text": "phenomenon that was my my technically exploits is what's called super criticality. So in partial",
+    "uid": "d60680a22e7e7b33",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 939.28,
+    "end": 945.6
+  },
+  {
+    "text": "differential equations often these equations are like a tug of war between different forces. So in Navier Stokes",
+    "uid": "9ff228b28a2cb749",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 945.6,
+    "end": 950.8
+  },
+  {
+    "text": "there's the dissipation force coming from viscosity and it's very well understood it's linear it",
+    "uid": "3172fdd57159f003",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 950.8,
+    "end": 956.24
+  },
+  {
+    "text": "calms things down if this class deal was all there was then nothing got to ever happen. But there's also",
+    "uid": "c2b8ec99b9305a24",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 956.24,
+    "end": 962.64
+  },
+  {
+    "text": "transport that energy from in one location of space can get transport because of fluid's in motion",
+    "uid": "8fdbdc78a5ea06dc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 962.64,
+    "end": 968.64
+  },
+  {
+    "text": "to other locations and that's a non-linear effect that causes all the problems. So there",
+    "uid": "52d8c17e58d6c166",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 968.72,
+    "end": 975.28
+  },
+  {
+    "text": "these two competing terms in the Navier Stokes equation at the dissipation term and the transport term.",
+    "uid": "f5b7866338847ef3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 975.28,
+    "end": 979.92
+  },
+  {
+    "text": "If the dissipation term dominates if it's large then basically you get regularity and if the transport term",
+    "uid": "15be178b3866114f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 980.48,
+    "end": 986.88
+  },
+  {
+    "text": "dominates then then we don't know what's going on it's a very non-linear situation it's unpredictable it's",
+    "uid": "791cbf9b63631735",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 986.88,
+    "end": 991.92
+  },
+  {
+    "text": "tubular. So sometimes these forces are in balance at small scales but not in balance at large scales",
+    "uid": "f806e9f352eab09b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 991.92,
+    "end": 997.44
+  },
+  {
+    "text": "all vice versa. So Navier Stokes is what's called super critical so at small ones",
+    "uid": "41187b630dfd41b9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 997.52,
+    "end": 1002.48
+  },
+  {
+    "text": "smaller scales the transport terms are much stronger than the viscosity terms. So the viscosity",
+    "uid": "d307becea41df066",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1002.48,
+    "end": 1007.68
+  },
+  {
+    "text": "terms are things that come things down and so this is this is why the problem is hard. In two dimensions so",
+    "uid": "3063a4c71294baa2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1007.68,
+    "end": 1015.76
+  },
+  {
+    "text": "there's still the infotivation in our addition sky. She in the sixties shows the intuitive mentions there",
+    "uid": "a701bfc96689d8ad",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1015.76,
+    "end": 1020.16
+  },
+  {
+    "text": "is no blow up and the intuitive mentions the Navier Stokes equation is what's called critical the",
+    "uid": "27d1bad16afc4629",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1020.16,
+    "end": 1024.32
+  },
+  {
+    "text": "effect of transport and the effect of viscosity about the same strength even at very, very small",
+    "uid": "50014054add039df",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1024.32,
+    "end": 1028.48
+  },
+  {
+    "text": "scales and we have a lot of technology to handle critical and also sub-critical equations and",
+    "uid": "bb057d8fa0dfb836",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1028.48,
+    "end": 1033.04
+  },
+  {
+    "text": "prove regularity. But for super critical equations it was not clear what was going on and",
+    "uid": "6ec956e82d0b4834",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1033.04,
+    "end": 1038.96
+  },
+  {
+    "text": "I did a lot of work and then there's been a lot of follow up showing that for many other types of",
+    "uid": "365ae7f21cbd5116",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1040.24,
+    "end": 1043.44
+  },
+  {
+    "text": "super critical equations you can create all kinds of blow up examples. Once the non-linear effects",
+    "uid": "e50bc76b3368c34e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1043.44,
+    "end": 1048.32
+  },
+  {
+    "text": "dominate the linear effects at small scales you can have all kinds of bad things happen. So this is sort",
+    "uid": "8bb29f48d81e14ae",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1048.32,
+    "end": 1053.2
+  },
+  {
+    "text": "one of the main insights of this line of work is that super criticality versus criticality in",
+    "uid": "81a315992e189617",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1053.76,
+    "end": 1058.32
+  },
+  {
+    "text": "sub-criticality. This makes a big difference. I mean that that's a key qualitative feature that",
+    "uid": "a6e62e4fa52a332c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1058.32,
+    "end": 1063.52
+  },
+  {
+    "text": "just in which is some equations for things of nice and predictable and you know like planetary motion",
+    "uid": "87e1ac55350bded8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1063.52,
+    "end": 1068.08
+  },
+  {
+    "text": "I mean there's certain equations that you can predict for millions of years and or thousands of",
+    "uid": "c6cb5572da279534",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1068.8,
+    "end": 1073.68
+  },
+  {
+    "text": "least no gains, not very important but this reason why we can't predict the weather past two weeks",
+    "uid": "4ca589b3e6ef997e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1073.68,
+    "end": 1078.64
+  },
+  {
+    "text": "into the future because a super critical equation lots of really strange things are going on",
+    "uid": "d42827825ed738d6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1079.04,
+    "end": 1083.28
+  },
+  {
+    "text": "at very fine scales. So whenever there's some huge source of non-linearity that can create a huge",
+    "uid": "03b9b81a92650b63",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1083.28,
+    "end": 1090.56
+  },
+  {
+    "text": "problem for predicting what's going to happen. Yeah and if non-linearity is somehow more of",
+    "uid": "1f2afc4f25178662",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1090.56,
+    "end": 1095.84
+  },
+  {
+    "text": "featured and interesting at its most scales. I mean there's many equations that are non-linear but",
+    "uid": "73ca1489a8bb524d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1095.84,
+    "end": 1101.04
+  },
+  {
+    "text": "in many equations you can approximate things by the bulk. So for example planetary motion",
+    "uid": "96b4bb00488b312f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1101.04,
+    "end": 1106.64
+  },
+  {
+    "text": "you know if you want to understand the orbit of the moon or Mars or something you don't really",
+    "uid": "e262e9cfcdec1ecd",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1106.72,
+    "end": 1110.72
+  },
+  {
+    "text": "need the microstructure of like the seismology of the moon or like exactly how the mass is distributed.",
+    "uid": "54a54bf31cdb7f44",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1110.72,
+    "end": 1116.24
+  },
+  {
+    "text": "You just basically you can also approximate these planets by point masses and you just see",
+    "uid": "959f8b8cd5131406",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1117.28,
+    "end": 1121.92
+  },
+  {
+    "text": "aggregate behavior is important. But if you want to model a fluid like the weather you can't just say",
+    "uid": "7c3cbac4ba844109",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1121.92,
+    "end": 1128.64
+  },
+  {
+    "text": "in Los Angeles the temperature is this the wind speed is this for super critical equations. The",
+    "uid": "535bc8618de7941e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1128.64,
+    "end": 1132.48
+  },
+  {
+    "text": "fine-scount formation is really important. If we can just link around the Navier Stokes equations a",
+    "uid": "3f8e9d958bb3bcb4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1132.56,
+    "end": 1137.2
+  },
+  {
+    "text": "little bit. So you've suggested maybe you can describe it that one of the ways to",
+    "uid": "45f9c69b289a75bc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1137.2,
+    "end": 1142.8
+  },
+  {
+    "text": "solve it or to negatively resolve it would be to sort of to construct a liquid a kind of liquid computer.",
+    "uid": "281ad63efc5d2a52",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1144.88,
+    "end": 1152.88
+  },
+  {
+    "text": "Right and then show that the halting problem from competition theory has consequences for fluid dynamics.",
+    "uid": "9b069e1f24f7c061",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1152.88,
+    "end": 1158.08
+  },
+  {
+    "text": "So show it in that way. Can you describe this? Right. Yeah so this came out of all this work of",
+    "uid": "60b7a95d01c5e96e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1158.08,
+    "end": 1164.24
+  },
+  {
+    "text": "constructing this this average equation that blew up. So what as part of how I had to do this so this",
+    "uid": "206e3a9e3c067ec9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1164.24,
+    "end": 1172.64
+  },
+  {
+    "text": "is naive way to do it. You just keep pushing every time you get energy at one scale you push it immediately",
+    "uid": "64aa5f9bd1ea4c37",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1172.64,
+    "end": 1179.76
+  },
+  {
+    "text": "to the next scale as fast as possible. This is the naive way to to to force flow. In terms of",
+    "uid": "cf6b6bdf43ec7b52",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1179.76,
+    "end": 1185.92
+  },
+  {
+    "text": "sign five and high dimensions this works. But in feed dimensions there's this funny phenomena",
+    "uid": "bed29ace50bcf5e8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1185.92,
+    "end": 1190.08
+  },
+  {
+    "text": "that I discovered that if you keep if you change those physics you just always keep trying to push",
+    "uid": "9893dcc4cec44075",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1190.08,
+    "end": 1197.04
+  },
+  {
+    "text": "the energy into smaller scale. What happens is that the energy is start scanning spread out into",
+    "uid": "a599324a96ffb40d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1198.4,
+    "end": 1203.28
+  },
+  {
+    "text": "multi-miniscos at once. So you have an energy at one scale you're pushing it into the next scale and then",
+    "uid": "3416e027f57f4061",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1203.28,
+    "end": 1209.52
+  },
+  {
+    "text": "as soon as it enters that scale you also push it to the next scale but there's still some energy left over",
+    "uid": "6c0343de31b60f6a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1210.64,
+    "end": 1214.64
+  },
+  {
+    "text": "from the previous scale. You're trying to do everything at once and this spreads out the energy",
+    "uid": "9ea6411434134c4e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1214.72,
+    "end": 1219.36
+  },
+  {
+    "text": "too much and then it turns out that it makes it vulnerable for viscosity to come in and actually",
+    "uid": "b3aca4a9d08c0056",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1219.36,
+    "end": 1225.36
+  },
+  {
+    "text": "just damp out everything. So it turns out this directed bullshit doesn't actually work. Those are",
+    "uid": "5d65eed7931966ee",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1225.36,
+    "end": 1231.12
+  },
+  {
+    "text": "separate paper by some of the authors that I can show this in feed dimensions. So what I needed was to",
+    "uid": "bd1d285e37da8240",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1231.12,
+    "end": 1237.68
+  },
+  {
+    "text": "program at the lab. So kind of like airbox. I needed an equation which would start with a fluid",
+    "uid": "06def5f910cd157a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1237.68,
+    "end": 1244.96
+  },
+  {
+    "text": "doing something at one scale it would push its energy into the next scale but it would stay there until all",
+    "uid": "f1684b9f66ee2831",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1245.68,
+    "end": 1252.24
+  },
+  {
+    "text": "the energy from the largest scale got transferred and only after you pushed all the energy in then you",
+    "uid": "684d09e7adb4f6a7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1252.24,
+    "end": 1257.44
+  },
+  {
+    "text": "sort of open the next gate and then you push that in as well. By doing that the energy is just forward",
+    "uid": "e38e89cdc020ce3e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1257.44,
+    "end": 1264.0
+  },
+  {
+    "text": "scale by scale in such a way that it's always looked like one scale at a time and then it can",
+    "uid": "a84f86e113cc1cfa",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1264.0,
+    "end": 1269.2
+  },
+  {
+    "text": "resist the effects of viscosity because it's not dispersed. So in order to make that happen",
+    "uid": "06e3585bc8442fc4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1269.2,
+    "end": 1274.96
+  },
+  {
+    "text": "yeah I had to construct a rather complicated non-linearity and it was basically like",
+    "uid": "75964b1c2e67c02d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1276.56,
+    "end": 1281.28
+  },
+  {
+    "text": "this contract like a other kind of a circuit so I actually thank my wife for this because she was trained as a",
+    "uid": "7e5922f107a3b4e6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1283.12,
+    "end": 1287.76
+  },
+  {
+    "text": "like you engineer and you know she talked about you know you had to design circuits and so forth and",
+    "uid": "8b6842689bd804c3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1287.84,
+    "end": 1295.04
+  },
+  {
+    "text": "you know if you want to circuit it does a certain thing like maybe have a light that flashes on and then",
+    "uid": "668b9d11907a830e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1295.04,
+    "end": 1299.76
+  },
+  {
+    "text": "turns off and then on and off you can build it from some more primitive components you know capacitors",
+    "uid": "33389abd1470692a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1299.76,
+    "end": 1304.32
+  },
+  {
+    "text": "and resistance and so forth and you have to board a diagram and these diagrams you can sort of follow",
+    "uid": "4f7fb840e661bb71",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1304.32,
+    "end": 1311.12
+  },
+  {
+    "text": "if you're eyeballs. Oh yeah they're the current will board up here and they will stop and then you will do that.",
+    "uid": "27ccfbad31c83aa0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1311.12,
+    "end": 1315.2
+  },
+  {
+    "text": "So I knew how to build yeah I don't know how to basically I'll try to compose you like resistors and",
+    "uid": "6a3359b2adefb659",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1316.16,
+    "end": 1320.24
+  },
+  {
+    "text": "capacitors and so forth and I would stack them together and start in such a way that how to create something",
+    "uid": "c56af392e4cb67cc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1320.24,
+    "end": 1325.68
+  },
+  {
+    "text": "that would open one gate and then there would be a clock and then what's the clock hits this and first show",
+    "uid": "22775836ca41e4d1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1325.68,
+    "end": 1329.84
+  },
+  {
+    "text": "it would close it and it kind of a group go broke type machine but described mathematically and this and",
+    "uid": "ce0fc3698631f356",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1329.84,
+    "end": 1335.28
+  },
+  {
+    "text": "it working. So what I realized is that if you could pull the same thing off for the actual equations so if",
+    "uid": "ccc3ca1d1f977760",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1335.28,
+    "end": 1340.88
+  },
+  {
+    "text": "the equations of water support a computation so like if you can imagine kind of a steam punk",
+    "uid": "d797f3fdc528336e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1341.6,
+    "end": 1346.56
+  },
+  {
+    "text": "but it's really water punk type of thing where you know so modern computers are electronic you know they",
+    "uid": "a96fdb99c20df8a5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1346.56,
+    "end": 1352.64
+  },
+  {
+    "text": "they're powered by electrons passing through very tiny wires and interacting with other",
+    "uid": "f50011e25d06d697",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1352.64,
+    "end": 1358.08
+  },
+  {
+    "text": "electrons and so forth but instead of that electrons you can imagine these pulses of water moving",
+    "uid": "dbc32af994cf5069",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1358.08,
+    "end": 1364.08
+  },
+  {
+    "text": "a certain velocity and maybe it's the two different configurations corresponding to a bit being",
+    "uid": "809950a9875601b8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1364.08,
+    "end": 1368.88
+  },
+  {
+    "text": "up or down probably that if you had two of these moving bodies of water collide they would come out with",
+    "uid": "d025b0949c72be0b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1368.88,
+    "end": 1375.36
+  },
+  {
+    "text": "some new configuration which is which would be something like an AND gate or OR gate you know that it",
+    "uid": "ffad5c01d85666c6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1375.36,
+    "end": 1379.92
+  },
+  {
+    "text": "will the the output would depend in a very particular way on on the inputs and like you could change this",
+    "uid": "814a83de9b5381d5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1379.92,
+    "end": 1385.68
+  },
+  {
+    "text": "together and maybe create a two-ing machine and then you could you have computers which are made completely",
+    "uid": "8b8c21da9de967cf",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1385.68,
+    "end": 1391.52
+  },
+  {
+    "text": "out of water and if you have computers then maybe you could do robotics. So you know hydrolectics and so forth",
+    "uid": "1e707605be6532af",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1391.52,
+    "end": 1397.84
+  },
+  {
+    "text": "and so you could create some machine which is basically a fluid analog what's called a",
+    "uid": "b68a8cb595c83dbf",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1398.8,
+    "end": 1404.96
+  },
+  {
+    "text": "vornorming machine so vornorming proposed if you want to colonize Mars the sheer cost of transporting",
+    "uid": "ae00f289ef850f31",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1404.96,
+    "end": 1411.2
+  },
+  {
+    "text": "people and machines to Mars is just ridiculous but if you could transport one machine to Mars and",
+    "uid": "d3576771dd248749",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1411.2,
+    "end": 1416.4
+  },
+  {
+    "text": "the machine had the ability to mine the planet create some more materials to smelt them and build more",
+    "uid": "eb64067c2b24d012",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1416.4,
+    "end": 1421.84
+  },
+  {
+    "text": "copies of the same machine then you could colonize all planet over time so if you could build a fluid",
+    "uid": "a8957c17a710cd00",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1421.84,
+    "end": 1431.36
+  },
+  {
+    "text": "machine which yeah so it's a fluid robot and what it would do it's it's purpose in life it's program",
+    "uid": "7579c7cf3cc8c82a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1431.36,
+    "end": 1439.52
+  },
+  {
+    "text": "so that it would create a smaller version of itself in some sort of cold state where it wouldn't start just yet",
+    "uid": "050acbd22695bfe8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1439.52,
+    "end": 1445.2
+  },
+  {
+    "text": "once it's ready the big robot can be called water would transform or it's energy into this",
+    "uid": "399fb98bd6d67c6c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1445.2,
+    "end": 1449.04
+  },
+  {
+    "text": "the smaller configuration and then power down okay and then like a clean yourself up and then what's",
+    "uid": "1a72ab6a9f99af44",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1449.04,
+    "end": 1453.92
+  },
+  {
+    "text": "left is this newest set which would then turn on and do the same thing but smaller and faster and then the",
+    "uid": "f9e5fdad00fe7262",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1453.92,
+    "end": 1459.68
+  },
+  {
+    "text": "equation has a certain scaling symmetry once you do that you can just keep it away. So this in principle",
+    "uid": "ec62c0e6b517d51f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1459.68,
+    "end": 1465.04
+  },
+  {
+    "text": "would create a blow for the actual Navier Stokes and this is what I managed to accomplish for this",
+    "uid": "1b8c495462fd30e7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1465.04,
+    "end": 1469.12
+  },
+  {
+    "text": "average Navier Stokes so it provided this sort of roadmap to solve the problem now this is a pipe dream",
+    "uid": "efb6ca89c955c0f4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1469.2,
+    "end": 1476.48
+  },
+  {
+    "text": "because for so many things that are missing for this to actually be a reality so I can't create these",
+    "uid": "48a930dd08403a73",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1476.48,
+    "end": 1483.52
+  },
+  {
+    "text": "basic logic gates I don't have these in these special categories of water I mean there's Canada",
+    "uid": "d0bbf8d69fe28b1d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1483.52,
+    "end": 1489.6
+  },
+  {
+    "text": "this that is include vortex rings that might possibly work but but also you know",
+    "uid": "c9e1ed4a8732dde0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1489.6,
+    "end": 1495.76
+  },
+  {
+    "text": "I don't know computing is really nasty compared to digital computing I mean because there's always",
+    "uid": "de38ca312933738a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1496.08,
+    "end": 1500.64
+  },
+  {
+    "text": "errors you have to you have to do a lot of error correction along the way I don't know how to completely",
+    "uid": "dea4ad5d4cca65a3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1500.64,
+    "end": 1506.08
+  },
+  {
+    "text": "power down the big machine so it doesn't interfere with the the writing of a small machine but everything in",
+    "uid": "6dad59174976d8c9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1506.08,
+    "end": 1511.44
+  },
+  {
+    "text": "principle can happen like it doesn't contradict any of the laws of physics so it's sort of evidence that",
+    "uid": "56e4a927965649c2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1511.44,
+    "end": 1517.76
+  },
+  {
+    "text": "this thing is possible there are other groups who are now pursuing ways to make Navier Stokes blow up",
+    "uid": "20813d3bd1dbbb38",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1517.76,
+    "end": 1523.6
+  },
+  {
+    "text": "which I know in year as ridiculously complicated as this they actually are pursuing much closer to",
+    "uid": "051cd755691c2204",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1523.6,
+    "end": 1531.76
+  },
+  {
+    "text": "the direct self-similar model which can it doesn't quite work as it is but there could be some simpler",
+    "uid": "6d11d5c28a5adc4e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1531.76,
+    "end": 1537.76
+  },
+  {
+    "text": "scheme they want to just describe to make this work there's a real leap of genius here to go from",
+    "uid": "56029d87e445f95c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1537.76,
+    "end": 1543.76
+  },
+  {
+    "text": "Navier Stokes to this toy machine so it goes from what the self-similar blob scenario that you're trying to",
+    "uid": "fd3a34c7af09e03c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1543.76,
+    "end": 1551.2
+  },
+  {
+    "text": "get the smaller smaller blob to know having a liquid toy machine gets smaller smaller smaller and",
+    "uid": "634cd62a523fb682",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1551.2,
+    "end": 1559.04
+  },
+  {
+    "text": "somehow seeing how that could be used to say something about a blow up I mean that's a big leap so",
+    "uid": "4699ddedb95291b9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1559.04,
+    "end": 1568.4
+  },
+  {
+    "text": "this precedent I mean so the thing about mathematics is that it's really good at sporting",
+    "uid": "fb8cabbaffa54721",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1568.4,
+    "end": 1574.72
+  },
+  {
+    "text": "connections between what you think of what you might think of as a completely different",
+    "uid": "fc4ff1d4bae0eb42",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1574.72,
+    "end": 1577.76
+  },
+  {
+    "text": "problems but if the mathematical form is the same you can you can you can draw a connection",
+    "uid": "ee8be291f8d076c0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1578.72,
+    "end": 1583.84
+  },
+  {
+    "text": "so there's a lot of previously on what of course a set of that automated the most famous",
+    "uid": "862b76de29a679da",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1585.12,
+    "end": 1590.56
+  },
+  {
+    "text": "which is Conway's Game of Life this is infinite to speak grid and any given time the grid is",
+    "uid": "d9f344d25498f049",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1590.56,
+    "end": 1595.04
+  },
+  {
+    "text": "you occupy by a cell or is empty and there's a very simple rule that tells you how these cells evolve",
+    "uid": "6e7e9b32f91641cd",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1595.04,
+    "end": 1600.4
+  },
+  {
+    "text": "so sometimes cells live and sometimes they die and they see you you know when I was a student",
+    "uid": "bc6700eb2d8fcee7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1600.4,
+    "end": 1606.48
+  },
+  {
+    "text": "it was a very popular screen saber to actually just have these animations going on and they look",
+    "uid": "36930b1c5b3b4c0c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1606.48,
+    "end": 1611.12
+  },
+  {
+    "text": "very chaotic in fact they look a little bit like turbo-flogged sometimes but at some point people discover",
+    "uid": "1e63ea943357f910",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1611.12,
+    "end": 1616.0
+  },
+  {
+    "text": "more and more interesting structures within this game of life so for example they discover this thing",
+    "uid": "a059765d58f38b69",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1616.0,
+    "end": 1619.76
+  },
+  {
+    "text": "got a collider so a collider is a very tiny configuration of like four or five selves which evolves and it",
+    "uid": "e5dd3bdf86688926",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1619.76,
+    "end": 1624.72
+  },
+  {
+    "text": "just moves at a certain direction and that's like this this vortex rings this envelope um yeah so this is",
+    "uid": "dc1bffd72dbb2988",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1624.72,
+    "end": 1630.0
+  },
+  {
+    "text": "an analogy the game of life is kind of a discrete equation and the full Navi so it's a continuous",
+    "uid": "558e48f48a9b7498",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1630.08,
+    "end": 1636.72
+  },
+  {
+    "text": "equation but mathematically they have some similar features and so other times people would discover",
+    "uid": "41bb2c42cc18b023",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1636.72,
+    "end": 1644.32
+  },
+  {
+    "text": "more more interesting things you could build within the game of life again life is a very simple system",
+    "uid": "0b38c8a26aa8b279",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1644.32,
+    "end": 1648.88
+  },
+  {
+    "text": "it only has like a few or four rules done to do what a bit but you can design all kinds of interesting",
+    "uid": "9f167d4cbf9b30b1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1648.88,
+    "end": 1653.44
+  },
+  {
+    "text": "configurations inside it there's something called a glider gun that does nothing to spit out gliders one",
+    "uid": "c4acdf6ee4c7a35a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1653.44,
+    "end": 1657.76
+  },
+  {
+    "text": "one at a time and then after a lot of effort people managed to create",
+    "uid": "a3a67ee8b29eb438",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1658.16,
+    "end": 1665.04
+  },
+  {
+    "text": "and gates and all gates for gliders like this is massive ridiculous structure which if you if if",
+    "uid": "fcd40f6ecbacb359",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1666.24,
+    "end": 1672.0
+  },
+  {
+    "text": "if if you have a stream of gliders coming in here and a stream of gliders coming in here then you may",
+    "uid": "d55f0297cb40b6bb",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1672.0,
+    "end": 1676.88
+  },
+  {
+    "text": "produce a stream of gliders coming out if so maybe if both of the streams have gliders then we",
+    "uid": "573a33bcab7945d2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1676.88,
+    "end": 1683.76
+  },
+  {
+    "text": "and output stream but if only one of them does then nothing comes out so they could build something like that",
+    "uid": "6b352b1894d3fa76",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1683.76,
+    "end": 1689.04
+  },
+  {
+    "text": "and once you could build and um these basic gates then just from software engineering you can build almost anything",
+    "uid": "96506a03a07f826c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1690.16,
+    "end": 1698.16
+  },
+  {
+    "text": "you can build a true machine I mean it's a kind of enormous steam punk type things they look ridiculous",
+    "uid": "f7b34ee753e2ae67",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1699.04,
+    "end": 1704.16
+  },
+  {
+    "text": "but then people also generate self replicating objects in the game of life a massive machine",
+    "uid": "fedc05f79a60bde2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1704.72,
+    "end": 1710.24
+  },
+  {
+    "text": "upon an armament machine which over a lot usually a time and it always looks like gladi-guns inside doing",
+    "uid": "f02bff028540e5a8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1710.24,
+    "end": 1714.8
+  },
+  {
+    "text": "these very steam punk calculations it would create another version of itself which could replicate",
+    "uid": "17ee9057c07cd47b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1714.8,
+    "end": 1720.72
+  },
+  {
+    "text": "it's so incredible a lot of this was like community crowdsource by like how much of mathematicians actually",
+    "uid": "02b91918f391cc1e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1720.72,
+    "end": 1725.6
+  },
+  {
+    "text": "so I knew about that that that work and so that is part of what inspired me to propose the same thing",
+    "uid": "adba77a5bb9f015a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1726.72,
+    "end": 1732.4
+  },
+  {
+    "text": "whenever you're stoked um that it really is a much as it analogous much worse than digital like it's",
+    "uid": "1b324497b51261f9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1732.4,
+    "end": 1738.16
+  },
+  {
+    "text": "going to be you kind of just directly take the construction of the game of life and plump them in but again it just",
+    "uid": "f346dd6d77da4b31",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1738.16,
+    "end": 1744.72
+  },
+  {
+    "text": "shows it's possible you know there's a kind of emergence that happens with these saitheratometer local rules",
+    "uid": "64992c0a0c1146f9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1744.72,
+    "end": 1752.88
+  },
+  {
+    "text": "maybe similar to fluids I don't know but local rules operating at scale",
+    "uid": "d923bad2047407e8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1753.76,
+    "end": 1759.76
+  },
+  {
+    "text": "can create these incredibly complex dynamic structures do you think any of that is amenable to",
+    "uid": "27e9819828fe8ed4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1760.48,
+    "end": 1767.6
+  },
+  {
+    "text": "mathematical analysis do we have the tools to say something profound about that the thing is you can get",
+    "uid": "e121f3f6f8f18a14",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1767.6,
+    "end": 1774.96
+  },
+  {
+    "text": "this emergent very complicated structures but only with very carefully prepared initial conditions yeah so",
+    "uid": "84890edba53e40e5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1774.96,
+    "end": 1779.84
+  },
+  {
+    "text": "so these these these gladi-guns and gates and and self- machines if you just plump them randomly",
+    "uid": "8f5314ea27b915b2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1779.84,
+    "end": 1785.44
+  },
+  {
+    "text": "some cells and you're looking at that if you're not see any of these and that's the analogous",
+    "uid": "9d58130378107ab5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1785.52,
+    "end": 1791.2
+  },
+  {
+    "text": "situation of Navist Oaks again you know that that group with typical initial conditions you're not",
+    "uid": "9b483967ac701377",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1791.2,
+    "end": 1795.52
+  },
+  {
+    "text": "not have any of this weird computation going on but basically through engineering you know by by",
+    "uid": "fe2c45d366c9b8e0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1795.52,
+    "end": 1801.92
+  },
+  {
+    "text": "by especially designing things in a very special way you can pick up the constructions and one of",
+    "uid": "4d841b2dd281fb0b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1801.92,
+    "end": 1807.76
+  },
+  {
+    "text": "his possible to prove the sort of the negative of like basically prove that only through engineering",
+    "uid": "3e6899557dc28f15",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1807.76,
+    "end": 1813.44
+  },
+  {
+    "text": "can you ever create yeah yeah something interesting this this is I've occurred in challenging mathematics that",
+    "uid": "b6f501ecf84b1ee9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1813.44,
+    "end": 1818.72
+  },
+  {
+    "text": "I call the declutemy of the construction structure in randomness that most objects you can generate in",
+    "uid": "294ca6ea9855e56d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1819.6,
+    "end": 1824.24
+  },
+  {
+    "text": "mathematics are random they look like like the digital pie well we believe there's a good example",
+    "uid": "067efadc4b03aa4b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1824.24,
+    "end": 1829.04
+  },
+  {
+    "text": "but there's a very small number of things that have patterns but now you can prove something as a pattern",
+    "uid": "4e7f78610ec85bb1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1830.24,
+    "end": 1835.76
+  },
+  {
+    "text": "by just constructing the log it something has a simple pattern and you have a proof that it does",
+    "uid": "e99289a3472580dc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1835.76,
+    "end": 1839.2
+  },
+  {
+    "text": "some of the repeated self-parry so often you can do that but and you can prove that that in place",
+    "uid": "9b38461841d49ffe",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1839.2,
+    "end": 1845.84
+  },
+  {
+    "text": "I'm about you can you can prove that most sequences of of digits have no pattern so like if you just pick",
+    "uid": "5be7d33d911367dd",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1845.84,
+    "end": 1850.56
+  },
+  {
+    "text": "they just randomly there's some good little large numbers it tells you you're going to get as many",
+    "uid": "2e2229aed570f35e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1850.56,
+    "end": 1854.08
+  },
+  {
+    "text": "ones as as two in the long row but we have a lot fewer tools to to if I give you a specific pattern like",
+    "uid": "dd3e0d0a3b791f19",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1854.08,
+    "end": 1862.56
+  },
+  {
+    "text": "the digits of pie how can I show that this doesn't have some weird pattern to it",
+    "uid": "94c404d644ec2205",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1862.64,
+    "end": 1866.72
+  },
+  {
+    "text": "some other work that I've spent a lot of time on is to prove what constructors theorems will inverse theorems",
+    "uid": "b021cf8f326737c9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1867.52,
+    "end": 1871.84
+  },
+  {
+    "text": "that give tests for when something is very structured so some functions are what's got added",
+    "uid": "5822235d54e9ea7d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1872.48,
+    "end": 1878.08
+  },
+  {
+    "text": "like if I function them as a natural numbers that actually numbers should have so maybe two maps to four",
+    "uid": "c40f0a2e90da6120",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1878.08,
+    "end": 1883.12
+  },
+  {
+    "text": "three maps to six and so forth some of you know what's what's got additive which means that if you add",
+    "uid": "1872051c9ebe392d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1883.12,
+    "end": 1887.52
+  },
+  {
+    "text": "if you add two inputs together the output gets gets added as well for example a multiply by constant",
+    "uid": "d7b9bf2c99ca04f1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1888.24,
+    "end": 1893.04
+  },
+  {
+    "text": "if you multiply it number by 10 if you if you multiply a plus b by 10 that's the same as",
+    "uid": "8777a481ca6d49ba",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1893.04,
+    "end": 1898.24
+  },
+  {
+    "text": "mapping a by 10 and b by 10 and then add them together so some some things add a dip",
+    "uid": "96df6e7ff216b269",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1898.24,
+    "end": 1903.12
+  },
+  {
+    "text": "some things are kind of additive but not completely additive so for example if I take a number",
+    "uid": "fba21ac033df7494",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1904.08,
+    "end": 1909.68
+  },
+  {
+    "text": "n I multiply by the square root of two and I take the initial part of that so 10 by square root of two",
+    "uid": "ebaec1040e0d3a67",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1909.68,
+    "end": 1915.6
+  },
+  {
+    "text": "it's like 14. something so 10 after 14 20 up to 28 so in that case add it to these two then so 10 plus 10 is",
+    "uid": "08b3f63f9608c2d4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1915.6,
+    "end": 1924.56
+  },
+  {
+    "text": "20 and 14 is 20 but because of this rounding sometimes there's round of errors and sometimes when you",
+    "uid": "0d5b757410696a53",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1924.56,
+    "end": 1930.24
+  },
+  {
+    "text": "add a plus b this function doesn't quite give you the sum of the two individual outputs but for some plus",
+    "uid": "1303503f2ef76999",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1931.12,
+    "end": 1935.92
+  },
+  {
+    "text": "minus one so it's almost additive but not quite additive so there's a lot of useful results",
+    "uid": "3acac75068d3e1b4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1935.92,
+    "end": 1943.52
+  },
+  {
+    "text": "of mathematics and I've worked a lot in developing things like this to the effect that if ever",
+    "uid": "b18463d9edd2076d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1943.52,
+    "end": 1946.72
+  },
+  {
+    "text": "function is able to sum structure like this then it's basically there's a reason for why it's true and",
+    "uid": "8fb56d2869d15c0f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1946.72,
+    "end": 1953.6
+  },
+  {
+    "text": "the reason is because there's some other nearby functions which is actually completely structured which is",
+    "uid": "0f82663f42488934",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1953.6,
+    "end": 1959.44
+  },
+  {
+    "text": "explaining this sort of partial pattern that you have and so if you have these two interesting",
+    "uid": "cdfb26fc790488ee",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1959.44,
+    "end": 1965.36
+  },
+  {
+    "text": "terms it increases of decodemy that either the objects that you study are either have no structure at all",
+    "uid": "04316fe5841f540a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1965.36,
+    "end": 1972.56
+  },
+  {
+    "text": "or they are somehow related to something else structured and in either way in either in either case you can",
+    "uid": "f86c10312e7b030c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1972.56,
+    "end": 1978.8
+  },
+  {
+    "text": "make progress. a good example this is that this is old theorem in mathematics called Samurati's theorem",
+    "uid": "1c627da7197dbf4b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1978.8,
+    "end": 1985.04
+  },
+  {
+    "text": "proven in the 1970s it concerns trying to find a certain type of pattern in a set of numbers that the",
+    "uid": "6d85fdf584db997c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1985.04,
+    "end": 1990.0
+  },
+  {
+    "text": "patterns have make progression things like 35 and 7 or 10, 15 and 20 and there are really",
+    "uid": "0e4737972f857b18",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1990.0,
+    "end": 1996.56
+  },
+  {
+    "text": "injuries and already proved that any set of numbers that is sufficiently big was called positive density",
+    "uid": "31894b12c61f2343",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 1996.56,
+    "end": 2002.8
+  },
+  {
+    "text": "has a few of any length you wish so for example the odd numbers have a set of density one half",
+    "uid": "26c19b0fafbe6831",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2003.44,
+    "end": 2010.88
+  },
+  {
+    "text": "and they contain air think of equations of any length so in that case it's obvious because the the",
+    "uid": "e24bbae11a90c83b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2012.16,
+    "end": 2016.4
+  },
+  {
+    "text": "odd numbers are really really structured I can just take 11, 13, 15, 17 I can easily find",
+    "uid": "0a482648536b3c1d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2016.88,
+    "end": 2022.64
+  },
+  {
+    "text": "that make progressions in that set but Samurati's them also applies to random sets if I take",
+    "uid": "40f2c37b9cfa94e0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2022.64,
+    "end": 2029.84
+  },
+  {
+    "text": "this out of old numbers and I flip a coin and for each number and I only keep the numbers which for",
+    "uid": "f3caae823470df7d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2029.84,
+    "end": 2036.08
+  },
+  {
+    "text": "which I got ahead so I just flip coins I just randomly take out half the numbers I keep one half",
+    "uid": "82dc7448dce968f3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2036.08,
+    "end": 2041.04
+  },
+  {
+    "text": "so that's a set that has no patterns at all but just from random fluctuations you will still get a lot of",
+    "uid": "e8349f08ee3d7b83",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2041.12,
+    "end": 2047.28
+  },
+  {
+    "text": "of ethnic progressions in that set can you prove that there's arithmetic progressions of our",
+    "uid": "50dc2fd596a69e24",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2048.64,
+    "end": 2055.76
+  },
+  {
+    "text": "arbitrary length within a random yes I mean you have the infinite monkey theorem usually mathematicians",
+    "uid": "85738cffac303200",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2055.76,
+    "end": 2061.28
+  },
+  {
+    "text": "give boring names to theories but occasionally they give colorful names yes the popular version of the",
+    "uid": "7275f0a1ad81e745",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2061.28,
+    "end": 2065.44
+  },
+  {
+    "text": "infinite monkey theorem is that if you have an infinite number of monkeys in a room with each of a",
+    "uid": "8b8cd0c7c94be2ed",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2065.52,
+    "end": 2070.0
+  },
+  {
+    "text": "typewriter they can type out text randomly almost surely one of them is going to generate the entire",
+    "uid": "1210a9c778b8785c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2070.0,
+    "end": 2075.28
+  },
+  {
+    "text": "script of Hamilton or any other finite it will just take some time quite a lot of time actually but if you have",
+    "uid": "dc709457cd24a05b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2075.28,
+    "end": 2081.28
+  },
+  {
+    "text": "infinite number then it happens so basically the theme is that if you take an infinite string of",
+    "uid": "c337068bf36c9595",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2081.28,
+    "end": 2088.96
+  },
+  {
+    "text": "digits or whatever eventually any finite pattern you wish or you merge it may take a long time",
+    "uid": "98a6265ed30b9584",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2089.36,
+    "end": 2095.6
+  },
+  {
+    "text": "but it will eventually happen in particular ethnic progressions of any length what eventually happen",
+    "uid": "47832a2c88e137fb",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2095.6,
+    "end": 2100.48
+  },
+  {
+    "text": "okay but you need you but you need an extremely long random sequence for this to happen I suppose that",
+    "uid": "060df40d46633423",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2100.48,
+    "end": 2104.96
+  },
+  {
+    "text": "intuitive it's just infinity yeah infinity absorbs a lot of things yeah how we humans supposed to",
+    "uid": "50d72181753a9ba4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2104.96,
+    "end": 2113.28
+  },
+  {
+    "text": "deal with infinity well you can think of infinity as as an abstraction of a finite number for which",
+    "uid": "a4f5203af5481464",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2113.28,
+    "end": 2120.0
+  },
+  {
+    "text": "you do not have a bound for that you know I mean so nothing in real life is truly infinite but you know you",
+    "uid": "f325adc4c1b3d119",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2120.0,
+    "end": 2128.08
+  },
+  {
+    "text": "can you know you can ask these all questions like what about how much money as I wanted you know what",
+    "uid": "bcc313d517c1f282",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2128.08,
+    "end": 2133.76
+  },
+  {
+    "text": "what if I could go as fast I wanted and a way in which mathematicians formalize that is",
+    "uid": "66815b1d6399a6cd",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2133.76,
+    "end": 2139.2
+  },
+  {
+    "text": "mathematics has found a formula to idealize instead of something being extremely large extremely",
+    "uid": "0874e027c6b66542",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2139.2,
+    "end": 2143.6
+  },
+  {
+    "text": "small to actually be exactly infinite or zero and often the mathematics becomes a lot cleaner when you do that I mean",
+    "uid": "224fae8887cc58e9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2143.6,
+    "end": 2150.32
+  },
+  {
+    "text": "physics we joke about the semings spherical cows you know like we all problem is I've got all kinds of",
+    "uid": "29674c7116c54d63",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2151.04,
+    "end": 2157.36
+  },
+  {
+    "text": "real artifacts but you can idealize sense of infinity sense of something is zero and and the mathematics",
+    "uid": "7565b1e52c8d5522",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2157.36,
+    "end": 2164.48
+  },
+  {
+    "text": "becomes a lot simpler to work with it I wonder how often using infinity forces us to deviate from",
+    "uid": "50aa7d273153914b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2164.56,
+    "end": 2174.64
+  },
+  {
+    "text": "the physics of reality yeah so this is a lot of pitfalls so you know we we spend a lot of time",
+    "uid": "768122e90f05c5fc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2175.2,
+    "end": 2180.88
+  },
+  {
+    "text": "you know undergraduate math classes teaching analysis and analysis it's something about how to take",
+    "uid": "16c48ee7421f10db",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2180.88,
+    "end": 2185.84
+  },
+  {
+    "text": "limits and and and and and whether you know so for example a plus b is always b plus a so when you have a",
+    "uid": "0a6b7f2ac01368ed",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2185.84,
+    "end": 2191.92
+  },
+  {
+    "text": "a final number of terms you add them you can swap them and there's no problem but when you have an infinite number",
+    "uid": "3e7e83149f96a780",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2191.92,
+    "end": 2196.64
+  },
+  {
+    "text": "of terms they're these sort of show games you can play where you can have a series which converters to one",
+    "uid": "d5dbd35ebe2169b4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2196.64,
+    "end": 2201.12
+  },
+  {
+    "text": "value but you rearrange it and it's something converters to another value and so you can make mistakes you have to",
+    "uid": "dc3d0a28cb0542b5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2201.12,
+    "end": 2206.48
+  },
+  {
+    "text": "know what you're doing when you allow infinity you have to introduce these epsilon's and delta's and and",
+    "uid": "a5898144f5302a09",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2206.48,
+    "end": 2211.76
+  },
+  {
+    "text": "this is a certain type of way of reasoning that helps you avoid mistakes in movies and years",
+    "uid": "c8e5781dea730794",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2211.76,
+    "end": 2219.36
+  },
+  {
+    "text": "people have started taking results that are true in infinite limits and trying what's going on",
+    "uid": "7d822b98ede99d71",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2220.08,
+    "end": 2225.36
+  },
+  {
+    "text": "what's going on sort of finalizing them so you know something true eventually but you don't know when",
+    "uid": "c30c15541823d4b9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2225.36,
+    "end": 2230.56
+  },
+  {
+    "text": "now give me a rate okay so such to that if I don't have any infinite number of monkeys but but a large final number",
+    "uid": "110b8809f1f5e161",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2230.56,
+    "end": 2236.24
+  },
+  {
+    "text": "monkeys how long do I have to wait for him to come out and that's a more quantitative question",
+    "uid": "1210287b2cd3b583",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2236.24,
+    "end": 2242.0
+  },
+  {
+    "text": "and this is something that you can you can attack by purely finite methods and you can use your finite",
+    "uid": "cd13d318684dec98",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2243.12,
+    "end": 2248.24
+  },
+  {
+    "text": "intuition and in this case it turns out to be exponential in the length of the text that you're trying to",
+    "uid": "2b2117bf95c48bd2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2248.56,
+    "end": 2253.84
+  },
+  {
+    "text": "generate so if and so this is why you never see the monkeys create a hammer you can make you see them",
+    "uid": "eb4d6220e1c418b2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2253.84,
+    "end": 2259.68
+  },
+  {
+    "text": "create a full that a word but nothing I pick and so I personally find once you find it I say infinite",
+    "uid": "351ef9cf92c3814e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2259.68,
+    "end": 2265.68
+  },
+  {
+    "text": "statement it's just a much more intuitive and it's no longer so so weird so even if you're working with",
+    "uid": "b6ec6c8369c9e371",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2265.68,
+    "end": 2272.72
+  },
+  {
+    "text": "infinity it's good to find a time so that you can have some intuition yeah the downside is that",
+    "uid": "61e83b5276417d38",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2272.72,
+    "end": 2278.4
+  },
+  {
+    "text": "the fine times because I just much much mess year and yeah so so the influence upon first usually like",
+    "uid": "8ec89585e8b2c8b0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2278.4,
+    "end": 2284.48
+  },
+  {
+    "text": "decades earlier and then later on people find a item so since we mentioned a lot of math and a lot of",
+    "uid": "3bc3ef5f1c228efb",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2284.48,
+    "end": 2289.68
+  },
+  {
+    "text": "physics well what do you use a difference between mathematics and physics as disciplines as ways of",
+    "uid": "dd49908ef2143671",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2289.68,
+    "end": 2295.28
+  },
+  {
+    "text": "understanding of seeing the world maybe we can throw an engineering in there you mentioned your",
+    "uid": "2eb3add419d3e149",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2295.28,
+    "end": 2299.84
+  },
+  {
+    "text": "wife as an engineer and give it your perspective on circuits right so there's a different way of",
+    "uid": "5ad4a8728973a6b2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2299.84,
+    "end": 2304.24
+  },
+  {
+    "text": "looking at the world given they you've done mathematical physics you've you've worn all the hats right so",
+    "uid": "cbe958484aed970f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2304.24,
+    "end": 2310.72
+  },
+  {
+    "text": "I think science in general is interaction between three things there's the real world there's what we observe",
+    "uid": "c411a8dc2fe0620f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2310.72,
+    "end": 2317.84
+  },
+  {
+    "text": "the real world observations and then our mental models as to how we think the world works so we can't",
+    "uid": "0d899c3bb2eedf43",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2317.84,
+    "end": 2326.88
+  },
+  {
+    "text": "directly access reality okay all we have are the observations which are incomplete and they have errors",
+    "uid": "0702ac922c27bf43",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2326.88,
+    "end": 2332.96
+  },
+  {
+    "text": "and there are many many cases where we would we want to know for example what is the weather like tomorrow",
+    "uid": "3b391c17e929a3f7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2334.0,
+    "end": 2339.84
+  },
+  {
+    "text": "we don't have the observation that we'd like to predict and then we had these simplified models",
+    "uid": "a324b469046536f7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2339.84,
+    "end": 2345.52
+  },
+  {
+    "text": "sometimes making unrealistic assumptions you know it's for a couple of type things those are the mathematical",
+    "uid": "53cab03a7fd4c3a0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2345.52,
+    "end": 2349.92
+  },
+  {
+    "text": "models mathematics is concerned with the models science collects the observations and it proposes",
+    "uid": "cf6ea84a08c9e3f9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2350.0,
+    "end": 2356.8
+  },
+  {
+    "text": "the models that might explain these observations what mathematics as you we we stay within the model and",
+    "uid": "6cb90c35a4c5acb8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2356.8,
+    "end": 2363.28
+  },
+  {
+    "text": "ask one of the consequences of that model what observations what what predictions would what predictions",
+    "uid": "ec775a7e285ee684",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2363.28,
+    "end": 2368.0
+  },
+  {
+    "text": "without model make of the of future observations or past observations to test it fit observe data",
+    "uid": "7d9eabdcc3c7add8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2368.0,
+    "end": 2374.08
+  },
+  {
+    "text": "so the testing is somebody else's it's mathematics is unusual among other disciplines it",
+    "uid": "e4c8d7b8eac4d85d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2374.8,
+    "end": 2382.56
+  },
+  {
+    "text": "is that we start from hypotheses like the axioms of a model and ask what conclusions come up from that",
+    "uid": "c566bade72c938cd",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2382.56,
+    "end": 2388.56
+  },
+  {
+    "text": "by the model and almost any other discipline you start with the conclusions you know I want to do this",
+    "uid": "21c598eaa1496c63",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2388.56,
+    "end": 2394.56
+  },
+  {
+    "text": "I want to board a bridge you know I want to make money I want to do this okay then you you find the path",
+    "uid": "abe106c9f452c227",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2394.56,
+    "end": 2401.04
+  },
+  {
+    "text": "to get there a lot there's a lot there's a speculation about suppose I did this what would happen",
+    "uid": "e6d23c38eb0a9b6f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2401.36,
+    "end": 2407.68
+  },
+  {
+    "text": "you know planning and modeling",
+    "uid": "b174ee3249210a10",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2408.88,
+    "end": 2411.92
+  },
+  {
+    "text": "specular fiction maybe is one other place but that's about it actually most things we do in life is",
+    "uid": "f53ca08d6d7fe4e0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2412.64,
+    "end": 2418.48
+  },
+  {
+    "text": "conclusions driven including physics and so I mean I mean they want to know you know where is this asteroid going to go",
+    "uid": "8c80d8bf8a24c2c4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2418.48,
+    "end": 2422.64
+  },
+  {
+    "text": "you know what what what what what is the weather going to be tomorrow but um",
+    "uid": "11236d8c2376ae11",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2422.64,
+    "end": 2426.72
+  },
+  {
+    "text": "but thanks also has this other direction of going from the axioms what do you think there is this",
+    "uid": "99fb605fd12df9ed",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2427.44,
+    "end": 2433.84
+  },
+  {
+    "text": "tension and physics between theory and experiment what do you think is the more powerful way of",
+    "uid": "deae74db1ee8e8b3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2433.84,
+    "end": 2439.12
+  },
+  {
+    "text": "discovering truly novel ideas about reality well you need both top down and bottom up um yeah",
+    "uid": "f94df73f75b725ab",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2439.12,
+    "end": 2444.8
+  },
+  {
+    "text": "just like it's a really an interaction machine all these things so over time the observations and the theory",
+    "uid": "0b44826502b708c4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2444.8,
+    "end": 2450.32
+  },
+  {
+    "text": "and the modeling should go both get closer to reality but initially and it isn't it I mean",
+    "uid": "a3075354631fcd13",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2450.32,
+    "end": 2456.24
+  },
+  {
+    "text": "I mean this is um there's always the case out there there are always far apart to begin with but you need",
+    "uid": "25c6ab52d310b62c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2456.24,
+    "end": 2461.76
+  },
+  {
+    "text": "want to figure out where to push the other you know so if your model is particularly anomalies",
+    "uid": "339db26b432476ad",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2461.76,
+    "end": 2467.04
+  },
+  {
+    "text": "that are not picked up by experiment that tells experiment is where to look you know um to to to to to to find",
+    "uid": "79665823cc099dc9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2467.84,
+    "end": 2473.92
+  },
+  {
+    "text": "more data to refine the models um you know so it it goes it goes back and forth um",
+    "uid": "708ac2b68c455cdb",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2474.0,
+    "end": 2479.76
+  },
+  {
+    "text": "within that practice self this there's also a theory and experimental component it's just that until",
+    "uid": "3c9bb0948908a763",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2480.96,
+    "end": 2485.44
+  },
+  {
+    "text": "very recently theory has dominated almost completely like 99% of mathematics is theoretical mathematics",
+    "uid": "810874ce07c08d56",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2485.44,
+    "end": 2491.36
+  },
+  {
+    "text": "and there's a very tiny amount of experimental mathematics um when people do do it you know like",
+    "uid": "71c609df90abe1a5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2491.36,
+    "end": 2497.68
+  },
+  {
+    "text": "if they want to study prime numbers or whatever they can just generate large data sets and we've become so",
+    "uid": "1094bb2fa1505311",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2497.68,
+    "end": 2502.16
+  },
+  {
+    "text": "once we had a computer um we'd be able to do it a little bit um although even before well like gas",
+    "uid": "4756bce8b648b11b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2502.24,
+    "end": 2508.24
+  },
+  {
+    "text": "for example he discovered he can check the most basic theory in number theory to call the prime number",
+    "uid": "df9d402e7a8d98b9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2508.24,
+    "end": 2512.88
+  },
+  {
+    "text": "theorem which predicts how many prime that up to a million up to a trillion it's not obvious question",
+    "uid": "2f6da6d50e41d060",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2512.88,
+    "end": 2518.0
+  },
+  {
+    "text": "and basically what he did was like he computed I mean most of these by himself and also hired human computers",
+    "uid": "e7e170f2e7757397",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2518.0,
+    "end": 2525.52
+  },
+  {
+    "text": "people who who's professional job at was to do arithmetic um to compute the first 100,000",
+    "uid": "acafcc1312600ba1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2526.16,
+    "end": 2531.52
+  },
+  {
+    "text": "drives or something and may tables and made a prediction um there's an early example of experimental mathematics",
+    "uid": "ae85bed9fd33c334",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2531.52,
+    "end": 2536.88
+  },
+  {
+    "text": "but until very recently it was not um yeah I mean theoretical mathematics was just much more successful",
+    "uid": "6d3b330f647d399a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2538.72,
+    "end": 2544.16
+  },
+  {
+    "text": "I mean because doing complicated mathematical computations is uh was just not not feasible",
+    "uid": "560e43e4781acea3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2544.16,
+    "end": 2549.6
+  },
+  {
+    "text": "until very recently and even nowadays you know even though we have powerful computers only some",
+    "uid": "92292baab845df91",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2549.6,
+    "end": 2554.4
+  },
+  {
+    "text": "mathematical things can be um explored numerically there's something called the commercial explosion",
+    "uid": "17eb915327553622",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2554.48,
+    "end": 2558.96
+  },
+  {
+    "text": "if you want to study for example zemodes theorem you want to study all possible subsets of",
+    "uid": "9816b866ee70dbce",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2558.96,
+    "end": 2563.28
+  },
+  {
+    "text": "this only one thousand number how bad could it be it turns out the number different subsets of one of one",
+    "uid": "7ea56aebfcba7cfb",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2564.56,
+    "end": 2568.56
+  },
+  {
+    "text": "two thousand is two for power one thousand which is way bigger than than than any computer can currently",
+    "uid": "e350babe5b6411f3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2568.56,
+    "end": 2574.16
+  },
+  {
+    "text": "can in any computer ever whatever can in your right so if you have to um there are certain math problems",
+    "uid": "09c4e64daca9aab9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2574.16,
+    "end": 2582.24
+  },
+  {
+    "text": "very quickly become just an intractable to attack by direct brute force computation",
+    "uid": "a35b99aceea0b6c2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2582.4,
+    "end": 2587.28
+  },
+  {
+    "text": "chess is another famous example if the number of chess positions we can't get a computer to",
+    "uid": "deb35a5de19b8195",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2587.84,
+    "end": 2594.0
+  },
+  {
+    "text": "full explore but now we have AI um we have tools to explore this space not with 100%",
+    "uid": "bd949a5a2f2844a1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2594.0,
+    "end": 2601.92
+  },
+  {
+    "text": "guarantees of success but with experiment you know so like we can empirically solve chess now",
+    "uid": "fab15d9c7e6c7f38",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2601.92,
+    "end": 2608.56
+  },
+  {
+    "text": "for example we have we have a very very good AI set that they can you know they don't explore every single",
+    "uid": "ea25fd67ee2dc6f3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2609.04,
+    "end": 2614.56
+  },
+  {
+    "text": "position in the game tree but they have found some very good approximation um and people are using",
+    "uid": "8d8fac33462ba197",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2614.56,
+    "end": 2619.44
+  },
+  {
+    "text": "actually these chess engines to make to do experimental chess um that they're revisiting all chess",
+    "uid": "b092ccdcdabb8a98",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2619.44,
+    "end": 2625.92
+  },
+  {
+    "text": "theories about oh you know when you this type of opening you know this is a good type of move this is not",
+    "uid": "ecdbfeabe2ab8d36",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2625.92,
+    "end": 2630.72
+  },
+  {
+    "text": "and they can use these chess engines to actually refine and in some kids overturn um um",
+    "uid": "4b6113817a2ee374",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2630.72,
+    "end": 2635.76
+  },
+  {
+    "text": "commission wisdom about chess and I do hope that mathematics will have a larger experimental",
+    "uid": "9cef8eadbf30ac53",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2636.24,
+    "end": 2642.48
+  },
+  {
+    "text": "building the future perhaps powered by AI well of course talk about that but in the case of chess",
+    "uid": "09e0cd4894d57b9f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2642.48,
+    "end": 2647.92
+  },
+  {
+    "text": "and there's a similar thing mathematics that I don't believe it's providing a kind of",
+    "uid": "0a22041fccf61266",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2647.92,
+    "end": 2652.48
+  },
+  {
+    "text": "formal explanation of the different positions but it's just saying which position is better not",
+    "uid": "ffd469cd51d1d590",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2654.0,
+    "end": 2659.6
+  },
+  {
+    "text": "that you can intuitively do you know being and from that we humans can construct a theory of",
+    "uid": "84659da60b0fda85",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2659.6,
+    "end": 2665.6
+  },
+  {
+    "text": "the matter you've mentioned the Plato's cave algorithm so in case people don't know it's where",
+    "uid": "d26d644bd9dc4ff2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2665.6,
+    "end": 2673.2
+  },
+  {
+    "text": "people are observing shadows of reality not reality itself and they believe what they're observing to",
+    "uid": "db026dc47ff31cc8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2673.2,
+    "end": 2680.64
+  },
+  {
+    "text": "be reality is that in some sense what mathematicians and maybe all humans are doing is looking at shadows",
+    "uid": "0ae7c01d0ee4528f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2680.64,
+    "end": 2688.72
+  },
+  {
+    "text": "of reality is a possible first to truly access reality well there's three on logical things",
+    "uid": "324c10389b9935bc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2689.68,
+    "end": 2697.92
+  },
+  {
+    "text": "this actual reality there's observations and our models um and technically they are distinct",
+    "uid": "de3a6e97935654f9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2697.92,
+    "end": 2705.84
+  },
+  {
+    "text": "and I think they will always be distinct right but they can get closer um over time um you know so um",
+    "uid": "3457d7d53bb91fa7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2705.84,
+    "end": 2714.96
+  },
+  {
+    "text": "and the process of getting closer often means that you have to discard your initial intuitions",
+    "uid": "138d1bcd71bd7ac4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2715.04,
+    "end": 2720.64
+  },
+  {
+    "text": "so um like astronomy provides great examples you know like you know like you know an initial model of",
+    "uid": "a75ba3ea991f46e2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2721.68,
+    "end": 2727.92
+  },
+  {
+    "text": "the world is flat because it looks flat you know and um and that it's and it's big you know and the",
+    "uid": "ff918d7f47a661b5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2727.92,
+    "end": 2733.84
+  },
+  {
+    "text": "rest of the universe the skies is not you know like the sun looks at me the time um and so you start off",
+    "uid": "65a5e92ab8051f35",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2733.84,
+    "end": 2739.2
+  },
+  {
+    "text": "with a model which is like really far from reality um but it fits kind of the observations that you have",
+    "uid": "7b3de44f89786dbd",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2739.2,
+    "end": 2744.0
+  },
+  {
+    "text": "you know so you know so things look good you know but over time as you make more observations bring it closer",
+    "uid": "55363cb942cd379b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2744.88,
+    "end": 2749.44
+  },
+  {
+    "text": "to reality um the model gets dragged along with it you know and so over time we had to realize that the",
+    "uid": "7c1eface71a9da93",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2749.44,
+    "end": 2754.24
+  },
+  {
+    "text": "of the earth is round that the spins it goes around the solar system solar system goes on the galaxy",
+    "uid": "8478cb6a68f56cae",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2754.24,
+    "end": 2759.04
+  },
+  {
+    "text": "and solar solar and the sky is about the universe you know it's expanding um the expansion is self-expanding",
+    "uid": "b7463bb440c1c333",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2759.04,
+    "end": 2764.8
+  },
+  {
+    "text": "accelerating and in fact very recently in this year also there's an even the solution of the universe",
+    "uid": "66481b6b941e73d5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2764.8,
+    "end": 2769.92
+  },
+  {
+    "text": "so this evidence that is this non-constant and the explanation behind why that is it's catching up",
+    "uid": "5254fa419fef3095",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2770.0,
+    "end": 2776.96
+  },
+  {
+    "text": "it's catching up I mean it's still you know the dark matter dark energy yes it's kind of thing yes",
+    "uid": "54d5ed16b6fa2e09",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2777.84,
+    "end": 2782.32
+  },
+  {
+    "text": "we have we have a model that sort of explains that fits it out really well it just has a few parameters",
+    "uid": "6ebab1f9c3cecc55",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2782.32,
+    "end": 2786.96
+  },
+  {
+    "text": "that um yet to specify but so your people say all that spotch factors you know with with enough",
+    "uid": "f4d5b23229439e5d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2786.96,
+    "end": 2793.04
+  },
+  {
+    "text": "five factors you can explain anything um you have a bit the mathematical point with the model is that",
+    "uid": "4b8aac069b87b96e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2793.04,
+    "end": 2798.64
+  },
+  {
+    "text": "you want to have fewer parameters in your model than data points in your observation of set so if you have a",
+    "uid": "1fed8e200421f49b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2799.2,
+    "end": 2803.92
+  },
+  {
+    "text": "model with 10 parameters that explains 10 up terms of visions that is completely useless model",
+    "uid": "2f3050ffc45eb8e5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2803.92,
+    "end": 2808.56
+  },
+  {
+    "text": "it's what's got over fitted but like if you have a model with you know two parameters and it explains",
+    "uid": "1922f1e62f3d7ed5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2808.56,
+    "end": 2813.84
+  },
+  {
+    "text": "a truly observations which is basically uh so yeah the the dark matter model I think it has like 14",
+    "uid": "900cb569381cd60b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2813.84,
+    "end": 2819.2
+  },
+  {
+    "text": "parameters and it explains the patterns of data um that that that that the astronomers have um you",
+    "uid": "c401a89990a8eecd",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2819.28,
+    "end": 2826.32
+  },
+  {
+    "text": "can think of of a theory like one way to think about physical mathematical theory it's a compression of the",
+    "uid": "b56ea66c7ae6d36e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2826.32,
+    "end": 2833.04
+  },
+  {
+    "text": "universe um and a data compression so you know you have these patterns of observations you would like",
+    "uid": "94cb6f85afdd776c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2833.04,
+    "end": 2839.12
+  },
+  {
+    "text": "to compress it to a model which you can describe in five pages and specify a certain number of parameters",
+    "uid": "7cfa2afa74da812d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2839.12,
+    "end": 2844.56
+  },
+  {
+    "text": "and it can fit to be some accuracy you know almost all of the observations but I mean the more",
+    "uid": "5d9e4d9f73d71553",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2844.64,
+    "end": 2850.24
+  },
+  {
+    "text": "compression that you make the better your theory in fact one of the great surprises of our universe and",
+    "uid": "98767cffac6b3ab1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2850.24,
+    "end": 2855.28
+  },
+  {
+    "text": "of everything in it is that it's compressible at all and see an unreasonable effect when it's the mathematics",
+    "uid": "9491832b6a95d3bb",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2855.28,
+    "end": 2860.48
+  },
+  {
+    "text": "yeah I decided to quote like that the the most incomprehensible thing about the universe is that it is",
+    "uid": "f34b31dd9ae3a04a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2860.48,
+    "end": 2864.0
+  },
+  {
+    "text": "comprehensible right and not just comprehensible you can do an equation like E goes on to square there is actually",
+    "uid": "1721a585c2144dc3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2864.0,
+    "end": 2870.4
+  },
+  {
+    "text": "some mathematical possible explanation for that um so this is phenomenon in mathematical",
+    "uid": "a2d0fbeb9d33b384",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2870.64,
+    "end": 2875.68
+  },
+  {
+    "text": "universe salary so many complex systems at the macroscops are coming out of also tiny interactions",
+    "uid": "9759b1581646a0f9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2875.68,
+    "end": 2880.72
+  },
+  {
+    "text": "at the macroscop and normally because of the common form of explosion you would think that the",
+    "uid": "4b6a311200b18146",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2880.72,
+    "end": 2886.4
+  },
+  {
+    "text": "macroscopic which must be like infinitely exponentially more complicated than than the the macroscop ones",
+    "uid": "15fda95766f03801",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2886.4,
+    "end": 2892.08
+  },
+  {
+    "text": "and they are if you want to solve them completely exactly like if you want to model",
+    "uid": "88e6676c8bd11aa6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2892.08,
+    "end": 2896.16
+  },
+  {
+    "text": "all the atoms in a box of air that's like Abigail Jusnambos you monkeys by this huge",
+    "uid": "3649ba3753ca546c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2896.64,
+    "end": 2903.36
+  },
+  {
+    "text": "some of our particles if you actually have to track each one it'll be ridiculous but certain laws emerge",
+    "uid": "1e481257dfe84844",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2903.36,
+    "end": 2908.88
+  },
+  {
+    "text": "at the macroscopic scale that almost don't depend on what's going on at the macroscops or",
+    "uid": "eb2ccf5628e8ae92",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2908.88,
+    "end": 2913.52
+  },
+  {
+    "text": "only depend on a very similar parameters so if you want to model a gas of you know",
+    "uid": "c3986158a39c5899",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2913.52,
+    "end": 2918.8
+  },
+  {
+    "text": "from tillian particles in a box you just need to know temperature and pressure and volume and a few",
+    "uid": "6d607479a80365fc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2919.28,
+    "end": 2923.68
+  },
+  {
+    "text": "parameters like five or six and it models almost everything you need to know about these 10 to 23 or whatever",
+    "uid": "9128f2206cbab031",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2923.68,
+    "end": 2931.28
+  },
+  {
+    "text": "particles um so we we have um we don't understand the universality anywhere new as we would like mathematically",
+    "uid": "e2010c4ca9fc8ad6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2931.28,
+    "end": 2939.92
+  },
+  {
+    "text": "but there are much simpler toy models where we do have a good understanding of why universality occurs",
+    "uid": "8f08f3ce4f7a3a51",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2939.92,
+    "end": 2945.76
+  },
+  {
+    "text": "most basic one is the central them at the room that explains why the bell curve shows up everywhere in",
+    "uid": "2a2758c90780ea3a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2946.72,
+    "end": 2951.36
+  },
+  {
+    "text": "nature but so many things are distributed by i was got a gas distribution i think it's bell curve",
+    "uid": "14fbdb898d86ab79",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2951.36,
+    "end": 2956.4
+  },
+  {
+    "text": "there's not even a meme with the scope and even the meme applies broadly the universality to the meme",
+    "uid": "fddbaaf83f4bcadb",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2956.4,
+    "end": 2962.32
+  },
+  {
+    "text": "yes you can format it but there are many many processes for example you can take a lot of",
+    "uid": "7e7e31f970e191df",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2962.96,
+    "end": 2968.24
+  },
+  {
+    "text": "independent random variables and average them together in various ways you can take a simple",
+    "uid": "7cf44a3a4d7e157e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2968.24,
+    "end": 2974.8
+  },
+  {
+    "text": "average or more complicated average and we can prove in various cases that these these bell curves",
+    "uid": "5cb18b36e877cafa",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2974.8,
+    "end": 2979.36
+  },
+  {
+    "text": "these calcium emerge and it is a satisfactory satisfying explanation um sometimes they don't",
+    "uid": "da2545dce20164f8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2979.36,
+    "end": 2984.88
+  },
+  {
+    "text": "um so so if you have many different inputs and they will correlate it in some systemic way then you",
+    "uid": "d2c315cdf5fe8e60",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2984.88,
+    "end": 2989.84
+  },
+  {
+    "text": "can get something very far from a bell curve show up and this is also important to know when",
+    "uid": "488e289ccb488789",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2989.84,
+    "end": 2993.76
+  },
+  {
+    "text": "the such a system of fails so universality is not a 100% reliable thing to rely on at that um",
+    "uid": "f621fe4a01074848",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 2993.76,
+    "end": 2999.68
+  },
+  {
+    "text": "that the global financial crisis was a famous example of this people thought that",
+    "uid": "0bcc364be43f16ed",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3000.56,
+    "end": 3005.68
+  },
+  {
+    "text": "mortgage defaults had this sort of calcium type behavior that if you ask if a population of of",
+    "uid": "bf9a9f70244b5a3c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3006.4,
+    "end": 3014.08
+  },
+  {
+    "text": "100,000 Americans with mortgages that's got what proportion of the word default number mortgages",
+    "uid": "4ad3e6ef35d5ebd1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3015.28,
+    "end": 3019.84
+  },
+  {
+    "text": "if something was decarulated it would be nice bell curve and then like you can you can manage risk of",
+    "uid": "32de4c832584d3ce",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3021.04,
+    "end": 3025.04
+  },
+  {
+    "text": "options and derivatives and so forth and and it is a very beautiful theory but if there was a",
+    "uid": "8922c1cfc650797d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3025.12,
+    "end": 3031.2
+  },
+  {
+    "text": "systemic shocks in the economy that can push everybody defaults same time that's very non-gasm behavior",
+    "uid": "ef647161c9c09b8d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3031.2,
+    "end": 3037.84
+  },
+  {
+    "text": "and this wasn't fully accounted for in the 2008 now I think there's some more awareness",
+    "uid": "db1fadedcd494308",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3039.2,
+    "end": 3045.44
+  },
+  {
+    "text": "this is a systemic risk because I keep a much bigger issue and just because the model is pretty",
+    "uid": "95926be53f17c3e0",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3045.44,
+    "end": 3050.96
+  },
+  {
+    "text": "nice it may not match reality and so so the mathematics of working out what models do",
+    "uid": "ab5fd21517b4eef3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3051.44,
+    "end": 3057.76
+  },
+  {
+    "text": "is really important but also the size of validating when the models fit reality and when they don't",
+    "uid": "2c01673020c0b73b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3058.48,
+    "end": 3065.92
+  },
+  {
+    "text": "I mean that you need both but my thanks can help because for example these central",
+    "uid": "65602f6a2a8147eb",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3066.56,
+    "end": 3072.88
+  },
+  {
+    "text": "them if you have certain axioms like non correlation that if all the inputs were not correlated to each other",
+    "uid": "42e59adee0d694ae",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3072.88,
+    "end": 3078.8
+  },
+  {
+    "text": "then you have these gaps in behavior that things are fine it tells you where to look for",
+    "uid": "b32140b25ac281ac",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3079.76,
+    "end": 3083.76
+  },
+  {
+    "text": "weaknesses in the model so if you have a mathematical understanding of central material and someone",
+    "uid": "775ff1a13c394ae9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3083.76,
+    "end": 3089.84
+  },
+  {
+    "text": "proposed this use these Gaussian copulaes whatever to model default risk if you are mathematically",
+    "uid": "5ba25a1127031204",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3089.84,
+    "end": 3096.72
+  },
+  {
+    "text": "trained you would say okay but what are the systemic correlation between all your inputs and so then",
+    "uid": "77629ff35c5a1f43",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3097.36,
+    "end": 3102.8
+  },
+  {
+    "text": "then you can ask the economists how to help how much risk is that and then you can you can you can",
+    "uid": "87aee4ef361f7a77",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3102.8,
+    "end": 3107.44
+  },
+  {
+    "text": "look for that so there's always this this synergy between science and mathematics a little bit on the",
+    "uid": "36ad7dc198c674ce",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3107.52,
+    "end": 3113.36
+  },
+  {
+    "text": "topic of universality you're known and celebrated for working across an incredible breadth of mathematics",
+    "uid": "1a1931ca81bacc72",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3113.36,
+    "end": 3121.28
+  },
+  {
+    "text": "from an instant of Hilbert century ago in fact the great fields of metal winning",
+    "uid": "990f779be37f8e42",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3121.28,
+    "end": 3127.04
+  },
+  {
+    "text": "mathematician Tim Gauers has said that you are the closest thing we get to Hilbert he's a colleague of yours",
+    "uid": "6e8e121324be524b",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3127.04,
+    "end": 3135.44
+  },
+  {
+    "text": "right friends but anyway so you are known for the stability to go both deep and broad in mathematics",
+    "uid": "d9f0560af45769ab",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3135.52,
+    "end": 3142.48
+  },
+  {
+    "text": "so you're the perfect person to ask do you think there are threads that connect all the disparate",
+    "uid": "cb1e238d20d1b8c7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3142.48,
+    "end": 3149.04
+  },
+  {
+    "text": "areas of mathematics is there kind of deep underlying structure to all of mathematics this certainly a",
+    "uid": "e7fb7c0c4eebf724",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3149.04,
+    "end": 3156.88
+  },
+  {
+    "text": "lot of connecting threads and a lot of the progress of mathematics has can be represented by",
+    "uid": "6becd6aa5c13c181",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3156.88,
+    "end": 3163.84
+  },
+  {
+    "text": "taking by stories of two fields of mathematics that were previously not connected and finding connections",
+    "uid": "0e7ed4f42921feb6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3164.4,
+    "end": 3169.6
+  },
+  {
+    "text": "an ancient example is geometry and number theory you know so in the times of the ancient Greeks",
+    "uid": "7716ba035e1808d6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3170.48,
+    "end": 3176.48
+  },
+  {
+    "text": "these were considered different subjects I mean mathematicians worked on both you know you could",
+    "uid": "badbf9fd064c27a2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3176.48,
+    "end": 3180.64
+  },
+  {
+    "text": "work both and to un-generate most famously but also on numbers but they were not really considered related",
+    "uid": "02f254c3c8b9889f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3181.84,
+    "end": 3188.56
+  },
+  {
+    "text": "I mean a little bit like you know you could say that this length was five times this length because you could take five copies of this length",
+    "uid": "d77e6118746e4fe1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3189.28,
+    "end": 3194.96
+  },
+  {
+    "text": "and so forth but it wasn't until the cart you really realized that you could develop",
+    "uid": "13f52ae2c8f20b24",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3194.96,
+    "end": 3199.2
+  },
+  {
+    "text": "the way that go and geometry that you can you can parameterise the plane a geometric object by two real numbers",
+    "uid": "7055dbc9a196b1b6",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3199.2,
+    "end": 3206.48
+  },
+  {
+    "text": "every point can be and so geometric problems can be turned into into problems about numbers",
+    "uid": "e232a466ee50a1de",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3206.48,
+    "end": 3211.76
+  },
+  {
+    "text": "and today this feels almost trivial like there's no content to this cycle of course",
+    "uid": "c3aae82e460823e1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3212.4,
+    "end": 3220.0
+  },
+  {
+    "text": "the plane is exact and why and of course that's what we teach and it's internalized",
+    "uid": "01f8256690143609",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3222.0,
+    "end": 3226.08
+  },
+  {
+    "text": "but it was an important development that these two fields are we'll unify and the process has just gone on",
+    "uid": "2e3cd67247a0a062",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3226.64,
+    "end": 3234.56
+  },
+  {
+    "text": "throughout mathematics over and over again that algebra and geometry were separated and now we have",
+    "uid": "a681f92117e924c8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3234.56,
+    "end": 3238.24
+  },
+  {
+    "text": "a split out of geometry that connects them and over and over again and that's certainly",
+    "uid": "b6be8f409dac3e64",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3238.24,
+    "end": 3242.72
+  },
+  {
+    "text": "type of mathematics that I enjoy the most so I think there's sort of different styles to being a mathematician",
+    "uid": "a7668d56bf99db4d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3242.72,
+    "end": 3248.4
+  },
+  {
+    "text": "I think hedgehogs and fox are fox and there's many things a little bit but a hedgehog knows one thing very",
+    "uid": "795f749883a0d7ff",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3248.4,
+    "end": 3253.12
+  },
+  {
+    "text": "very well and in mathematics there's definitely both hedgehogs and foxes and then there's people who are",
+    "uid": "81474864f83096ae",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3253.12,
+    "end": 3258.96
+  },
+  {
+    "text": "kind of you can play both roles and I think I do a collaboration between mathematicians and involves",
+    "uid": "c82bc6202c8be6c7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3258.96,
+    "end": 3266.0
+  },
+  {
+    "text": "but you need some diversity I can't I can't I'm I'm a fox working with many hedgehogs all",
+    "uid": "9358e85d98c1525f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3266.08,
+    "end": 3271.44
+  },
+  {
+    "text": "of ice versa so yeah but I identify mostly as a fox certainly I like arbitrage somehow you like",
+    "uid": "ecd05d3503d9a8a9",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3271.44,
+    "end": 3280.56
+  },
+  {
+    "text": "like learning how one field works learning the tricks of that wheel and then going to another field",
+    "uid": "46ea7b67764f7c7c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3280.56,
+    "end": 3285.2
+  },
+  {
+    "text": "which people don't think it is related but I can I can adapt the tricks so see the connections between",
+    "uid": "faf981f9ce2dd81c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3285.2,
+    "end": 3291.44
+  },
+  {
+    "text": "the fields yeah so there are other mathematicians about five deeper but I am like really hedgehogs",
+    "uid": "e4ca2eeceb3d4c89",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3291.52,
+    "end": 3297.28
+  },
+  {
+    "text": "you know everything about one field and they're much faster and more effective in that field but I can",
+    "uid": "56bdc69027cdc0be",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3297.28,
+    "end": 3303.6
+  },
+  {
+    "text": "I can keep them these extra tools I mean you said that you can be both the hedgehog and the fox",
+    "uid": "092a61fa2c3d3c0e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3303.6,
+    "end": 3308.48
+  },
+  {
+    "text": "depending on the context depending on the collaboration so what can you if it's that all possible",
+    "uid": "7e53df4c92583415",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3308.48,
+    "end": 3313.6
+  },
+  {
+    "text": "speak to the difference between those two ways of thinking about a problem say you're encountering",
+    "uid": "5097454574e557a7",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3313.6,
+    "end": 3319.12
+  },
+  {
+    "text": "new problem you know searching for the connections versus like very singular focus I'm much more",
+    "uid": "04d143c8aea8a4b4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3319.12,
+    "end": 3327.36
+  },
+  {
+    "text": "comfortable with with the the the fox paradigm yes so yeah I like looking for analogies narratives",
+    "uid": "73ff284c6cddeea3",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3327.36,
+    "end": 3335.76
+  },
+  {
+    "text": "I spent a lot of time if if it is a result I see it in one field and I like the result it's a close-out",
+    "uid": "67afce9ce685137c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3336.8,
+    "end": 3342.48
+  },
+  {
+    "text": "but I don't like the proof I can use as types of mathematics that I'm not super familiar with",
+    "uid": "34a1d69a6b1f2b3f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3342.48,
+    "end": 3347.68
+  },
+  {
+    "text": "I often try to re-prove it myself using the tools that I favor of my previous worse but",
+    "uid": "0933c64e19882bcf",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3348.32,
+    "end": 3355.28
+  },
+  {
+    "text": "by the exercise they're doing so I can say oh now I can see what the other proof was trying to do",
+    "uid": "1ea49f44322eb86c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3356.08,
+    "end": 3361.04
+  },
+  {
+    "text": "and from that I can get some understanding of the tools that I've used in that field so it's very",
+    "uid": "4c7df1fbca577ad1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3362.4,
+    "end": 3368.4
+  },
+  {
+    "text": "exploratory very doing crazy things and crazy peels and like yeah reinventing the wheel a lot yeah",
+    "uid": "5060d21fbb49a061",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3368.4,
+    "end": 3374.16
+  },
+  {
+    "text": "whereas of the hedgehog style is I think much more scholarly you know you you very knowledge based",
+    "uid": "effaa8adff068964",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3374.24,
+    "end": 3379.76
+  },
+  {
+    "text": "you you you you you stay up to speed on like all the developments in this field you know all the history",
+    "uid": "c9669536923d7612",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3379.76,
+    "end": 3384.72
+  },
+  {
+    "text": "you have a very good understanding of exactly the strength and weaknesses of each particular technique",
+    "uid": "9c5d9ad05ad11258",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3385.6,
+    "end": 3390.16
+  },
+  {
+    "text": "yeah I think you you'd rely a lot more sort of calculation then sort of trying to find narratives",
+    "uid": "43e4fb7e114f8988",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3392.56,
+    "end": 3397.92
+  },
+  {
+    "text": "so yeah I mean I can do that too but the other people are extremely good at that let's step back and",
+    "uid": "1e4780c6f840e023",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3398.48,
+    "end": 3405.04
+  },
+  {
+    "text": "maybe look at the a bit of a romanticized version of mathematics so I think you've said that early",
+    "uid": "9ec2841b4150dae4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3406.88,
+    "end": 3415.92
+  },
+  {
+    "text": "on in your life math was more like a puzzle solving activity when you were young what did you",
+    "uid": "8d88423c3a897b63",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3415.92,
+    "end": 3424.24
+  },
+  {
+    "text": "first encounter a problem or proof where you realized math can have a kind of elegance and beauty to",
+    "uid": "d811c1b0b0cb9e34",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3424.24,
+    "end": 3430.72
+  },
+  {
+    "text": "it I said good question um when I kind of graduated school in Princeton so John Conway was at the time",
+    "uid": "90eec276a46fb14d",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3430.72,
+    "end": 3440.32
+  },
+  {
+    "text": "he passed away a few years ago but I remember one of the very first research talks I went to was a talk",
+    "uid": "63056ee4bbcb682c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3440.32,
+    "end": 3445.68
+  },
+  {
+    "text": "by Conway on what he called extreme proof so Conway just had this is an amazing way of thinking about",
+    "uid": "ad68a7fbdc142a8c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3445.68,
+    "end": 3451.52
+  },
+  {
+    "text": "more kinds of things in a way that you would know we think of so he'll repruce themselves as",
+    "uid": "fe065c844b17bba2",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3451.6,
+    "end": 3456.64
+  },
+  {
+    "text": "occupying some sort of space you know so so if you want to prove something let's say that there's",
+    "uid": "d6963d7ee76abcd1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3456.64,
+    "end": 3462.0
+  },
+  {
+    "text": "infinitely many crimes okay you're all different proofs but you could you could rank them in different",
+    "uid": "370c69b704de38ce",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3462.0,
+    "end": 3465.92
+  },
+  {
+    "text": "axes like some proofs are elegance those are long some proofs are elementary and so forth and so",
+    "uid": "1b3e957bc489006f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3465.92,
+    "end": 3471.6
+  },
+  {
+    "text": "this is cloud so the space of all proofs itself has some sort of shape and so it was an interesting",
+    "uid": "b75dec52951a66d4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3471.6,
+    "end": 3479.36
+  },
+  {
+    "text": "in extreme points of the shape like all all these proofs what's one of these shortest at the",
+    "uid": "a85754954ce91ebf",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3479.36,
+    "end": 3484.4
+  },
+  {
+    "text": "the X was everything else or the most elementary or whatever and so he gave some examples of well-known",
+    "uid": "ca62e528c5e37f08",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3484.4,
+    "end": 3491.84
+  },
+  {
+    "text": "theorems and then he would give what he thought was the extreme proof in these different aspects um",
+    "uid": "0ecf46d595970053",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3491.84,
+    "end": 3498.72
+  },
+  {
+    "text": "I just found I really eye-opening that you know it's not just getting a proof for those of",
+    "uid": "00d6f0b0d50610cb",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3498.72,
+    "end": 3505.76
+  },
+  {
+    "text": "what was interesting but but once you have that proof you know trying to to optimize it in various ways",
+    "uid": "e57444f0bc159f9f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3505.84,
+    "end": 3512.96
+  },
+  {
+    "text": "that proof proofing itself had some craftsmanship to it it's something in form of writing style",
+    "uid": "bb28be69f4d58812",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3513.52,
+    "end": 3521.76
+  },
+  {
+    "text": "that you know like when you do your math assignments and as an undergraduate your homework and so forth",
+    "uid": "70b1662535e49967",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3522.4,
+    "end": 3527.04
+  },
+  {
+    "text": "you're sort of encouraged to just write down any proof that works okay and the hands and get it as long",
+    "uid": "01d66c80f69593cd",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3527.04,
+    "end": 3532.32
+  },
+  {
+    "text": "it's a tick mark you move on but if you want you're you're there was out to actually be influential",
+    "uid": "04c320f257dfd68e",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3532.32,
+    "end": 3538.72
+  },
+  {
+    "text": "and be read back people it can't just be correct it should also be a pleasure to read you know motivated",
+    "uid": "324f4bcd21746da5",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3538.72,
+    "end": 3545.92
+  },
+  {
+    "text": "be adaptable to to generalize the other things it's the same in many other disciplines like like coding",
+    "uid": "7f1de6488160fc54",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3546.88,
+    "end": 3552.56
+  },
+  {
+    "text": "it's a there's a there's a lot of analogies between math and coding I like analogies again I'm not just",
+    "uid": "1d9f61e02e38f063",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3552.56,
+    "end": 3556.8
+  },
+  {
+    "text": "but you know like you can code something spaghetti code that works for some task and it's quick and",
+    "uid": "3d8536787e3bc25c",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3557.52,
+    "end": 3563.28
+  },
+  {
+    "text": "dirty and it works but there's lots of good principles for writing code well so that I'll",
+    "uid": "01de73de999b764a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3563.28,
+    "end": 3569.44
+  },
+  {
+    "text": "I'll put you can use it both upon it and so that has few bugs and whatever and there's some of the things",
+    "uid": "2e0c52586f552ac4",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3569.44,
+    "end": 3575.84
+  },
+  {
+    "text": "with mathematics so yeah the first of all there's so many beautiful things there and and Kau is one of the great",
+    "uid": "3e11cc033b72a4ba",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3575.84,
+    "end": 3582.72
+  },
+  {
+    "text": "minds in mathematics ever and computer science just even considering the space of proofs yeah and saying",
+    "uid": "af1efb793cb44947",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3582.72,
+    "end": 3590.96
+  },
+  {
+    "text": "okay what is the space look like and what are the extremes like you mentioned coding is an analogy is",
+    "uid": "33dc0907f02aa3cc",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3591.68,
+    "end": 3598.32
+  },
+  {
+    "text": "interesting because there's also the activity called the code golf oh yeah yeah which I also find",
+    "uid": "44f071497651da65",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3598.32,
+    "end": 3603.84
+  },
+  {
+    "text": "beautiful and fun what people use different programming languages to try to write the shortest possible",
+    "uid": "d85b3a22860b0089",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3603.84,
+    "end": 3609.84
+  },
+  {
+    "text": "program they accomplish as a particular task yeah and I believe there's even competitions on this yeah",
+    "uid": "c366087fe71b19f8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3609.84,
+    "end": 3614.56
+  },
+  {
+    "text": "and it's also a nice way to stress test not just the sort of the programs or in this case the",
+    "uid": "6d6aa895e57aa610",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3614.56,
+    "end": 3624.96
+  },
+  {
+    "text": "proofs but also the different languages maybe that's the different notation or whatever to use to",
+    "uid": "bd3ea3f5cd934e6f",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3624.96,
+    "end": 3630.0
+  },
+  {
+    "text": "kill competition to test yeah you learn a lot I mean it may seem like a frivolous exercise but it",
+    "uid": "c072cc8a9f7f151a",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3630.0,
+    "end": 3634.88
+  },
+  {
+    "text": "can generate all these insights which if you didn't have this artificial objective to to to",
+    "uid": "e6c9653ee23e1bc1",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3634.88,
+    "end": 3641.04
+  },
+  {
+    "text": "pursue you you might not see what to use the most beautiful or elf",
+    "uid": "899ed1640b588df8",
+    "source": "Lex_Fridman - Terence_Tao_-_Hardest_Problems_in_Mathematics_Physics_the_Future_o",
+    "start": 3641.04,
+    "end": 3646.24
+  }
+]
