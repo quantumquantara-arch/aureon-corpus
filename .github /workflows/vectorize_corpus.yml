@@ -60,10 +60,11 @@ print(f'TOTAL: {total:,} atoms vectorized')
 
       - name: Commit vectorized output
         run: |
-          git config user.name "aureon-bot"
-          git config user.email "aureon@quantara.ai"
+          git config user.name "Nadine Squires"
+          git config user.email "quantumquantara@gmail.com"
           git add vectorized/
           git diff --staged --quiet || git commit -m "[auto] Vectorize corpus atoms $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         
