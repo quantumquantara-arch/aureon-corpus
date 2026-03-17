@@ -48,8 +48,7 @@ jobs:
       - name: Show stats
         run: |
           echo "=== Vectorized files ==="
-          python -c "
-import json, glob, os
+          ls -la vectorized/ || echo "No vectorized files yet"
 total = 0
 for f in glob.glob('vectorized/*_vectorized.json'):
     data = json.load(open(f))
