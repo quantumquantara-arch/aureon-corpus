@@ -49,13 +49,7 @@ jobs:
         run: |
           echo "=== Vectorized files ==="
           ls -la vectorized/ || echo "No vectorized files yet"
-total = 0
-for f in glob.glob('vectorized/*_vectorized.json'):
-    data = json.load(open(f))
-    total += len(data)
-    print(f'  {os.path.basename(f)}: {len(data):,} atoms')
-print(f'TOTAL: {total:,} atoms vectorized')
-"
+
 
       - name: Commit vectorized output
         run: |
