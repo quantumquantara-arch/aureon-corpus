@@ -1,0 +1,3103 @@
+[
+  {
+    "text": "Welcome to the Human Lab podcast where we discuss science and science-based tools for everyday life.",
+    "uid": "72de864da825761d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 0.0,
+    "end": 6.0
+  },
+  {
+    "text": "I'm Andrew Huberman and I'm a professor of neurobiology and up-thamology at Stanford School of Medicine.",
+    "uid": "1db0fda72fd312d2",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 6.0,
+    "end": 15.4
+  },
+  {
+    "text": "Today we are discussing exercise and brain health, which includes brain longevity and brain performance,",
+    "uid": "632e6585d32dc275",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 15.4,
+    "end": 21.4
+  },
+  {
+    "text": "our ability to learn new information over long periods of time and indeed into old age.",
+    "uid": "0fce0c2e98560850",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 21.4,
+    "end": 26.4
+  },
+  {
+    "text": "Today we are going to discuss how different forms of exercise, resistance training, cardiovascular training,",
+    "uid": "20ace5d2453ad13c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 27.4,
+    "end": 32.4
+  },
+  {
+    "text": "of both long, medium and short duration, can be used to improve the way that your brain functions,",
+    "uid": "6ac3301866cc3ffe",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 32.4,
+    "end": 38.4
+  },
+  {
+    "text": "acutely, meaning immediately in the minutes and hours and the day that you do that exercise,",
+    "uid": "5537eb5c9053f4a7",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 38.4,
+    "end": 44.4
+  },
+  {
+    "text": "as well as in the long term, in the days, weeks and months after you perform that exercise.",
+    "uid": "eae04eda93f5df11",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 44.4,
+    "end": 50.4
+  },
+  {
+    "text": "And of course, if you're exercising regularly, the effects of exercise on brain health and performance compound over time,",
+    "uid": "2279c72f526f749c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 50.4,
+    "end": 57.4
+  },
+  {
+    "text": "making you better able to learn things, better able to retain information from the past,",
+    "uid": "5ceebc0e6a80d304",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 57.4,
+    "end": 62.4
+  },
+  {
+    "text": "and indeed to expand your brain's capacity to learn new types of information in new ways.",
+    "uid": "2b6b15a2dc9ac9b7",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 62.4,
+    "end": 68.4
+  },
+  {
+    "text": "In researching today's episode, I quickly came to realize that the number of studies that have explored the relationship",
+    "uid": "ad3a4aab4020f86b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 68.4,
+    "end": 74.4
+  },
+  {
+    "text": "between exercise, brain performance and brain health, as well as the range of different types of exercise that",
+    "uid": "ff23cf4e2b9a3c7b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 74.4,
+    "end": 80.4
+  },
+  {
+    "text": "have been explored in that context is extremely vast. There are literally tens of thousands of studies on this topic,",
+    "uid": "1e1999df8145e78b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 80.4,
+    "end": 87.4
+  },
+  {
+    "text": "as well as meta-analysis and reviews, all of which point to positive effects of doing exercise of various types on brain health and performance.",
+    "uid": "1113f7152fedfa51",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 87.4,
+    "end": 96.4
+  },
+  {
+    "text": "Within those many, many studies, you'll find many, many different exercise protocols that lead to improvements in brain performance and longevity.",
+    "uid": "b21af5bfbe63325d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 96.4,
+    "end": 105.4
+  },
+  {
+    "text": "So the goal of today's episode is to synthesize that vast amount of information into a logical framework that simplifies it and clarifies it and places it within the context of specific mechanisms,",
+    "uid": "70c31bf02465f090",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 105.4,
+    "end": 116.4
+  },
+  {
+    "text": "both neurobiological mechanisms and endocrine-based mechanisms that together can very well explain the data on how exercise impacts brain health and longevity,",
+    "uid": "b27b2298813fa250",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 116.4,
+    "end": 126.4
+  },
+  {
+    "text": "such that by the end of today's episode, you'll have both some specific recommendations about how to use exercise for sake of brain health and performance that I believe will be new to most of you,",
+    "uid": "f947fc47f7bbc3d1",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 126.4,
+    "end": 136.4
+  },
+  {
+    "text": "as well as the ability to think about the mechanisms and the logical framework that wraps around this incredibly large literature on exercise and brain performance",
+    "uid": "8bbcbcbc6202edab",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 136.4,
+    "end": 144.4
+  },
+  {
+    "text": "so that you can customize your exercise program on the basis of how much time you have available, your specific age, your health status,",
+    "uid": "c534c4e6073842e7",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 144.4,
+    "end": 152.4
+  },
+  {
+    "text": "and the specific types of brain changes that you might be seeking through the use of exercise.",
+    "uid": "21551363c77acd6c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 152.4,
+    "end": 158.4
+  },
+  {
+    "text": "And I should also say that by learning how exercise impacts brain performance and brain health, you're also going to learn some of the incredible ways that your body communicates with your brain and your brain communicates with your body,",
+    "uid": "e7143109930db0cb",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 158.4,
+    "end": 169.4
+  },
+  {
+    "text": "not just during exercise but all of the time, so today you're going to learn a lot of practical tools, of course about exercise brain health and longevity,",
+    "uid": "b8e5ca43d248cd5b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 169.4,
+    "end": 176.4
+  },
+  {
+    "text": "it's based on research that is incredibly interesting in some cases surprising and in almost all cases actionable.",
+    "uid": "7c11f1edad42b6d7",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 176.4,
+    "end": 183.4
+  },
+  {
+    "text": "As some of you may already know, I have a book coming out this year, 2025 entitled, Protocols, an operating manual for the human body.",
+    "uid": "fa0e11d670e2b1c8",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 183.4,
+    "end": 191.4
+  },
+  {
+    "text": "I'm super excited about the book. It includes protocols that is actionable steps that anyone can take to improve their sleep, motivation, creativity,",
+    "uid": "a62af7c08037c049",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 191.4,
+    "end": 199.4
+  },
+  {
+    "text": "gut microbiome, nutrition, exercise, stress modulation, and much more.",
+    "uid": "30853cc133ea3b0c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 199.4,
+    "end": 204.4
+  },
+  {
+    "text": "Now, the book was originally scheduled to be released in April of 2025, however to make sure that the book reflects the latest scientific research.",
+    "uid": "fa4ce41fb7443098",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 204.4,
+    "end": 211.4
+  },
+  {
+    "text": "I've decided to expand on the yes already finished version of the book to make sure that the protocols are as up to date as possible",
+    "uid": "81c20447d1c9c736",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 211.4,
+    "end": 219.4
+  },
+  {
+    "text": "and reflect the most modern and best findings. So the new release date for protocols is going to be September of 2025.",
+    "uid": "bb3e46f5de10db69",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 219.4,
+    "end": 226.4
+  },
+  {
+    "text": "I do apologize for the delay in release, but I assure you that I will make it worth your weight.",
+    "uid": "c795bc6419da7631",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 226.4,
+    "end": 231.4
+  },
+  {
+    "text": "To learn more about the book or to secure a copy by Presale, go to protocolsbook.com.",
+    "uid": "46b81e7b518df59d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 231.4,
+    "end": 236.4
+  },
+  {
+    "text": "There you'll find all the information about the book as well as the various languages that the book will be translated into.",
+    "uid": "455de190b9ec2e14",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 236.4,
+    "end": 242.4
+  },
+  {
+    "text": "Before we begin, I'd like to emphasize that this podcast is separate from my teaching research roles at Stanford.",
+    "uid": "2f0e96b65d8ca62c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 242.4,
+    "end": 248.4
+  },
+  {
+    "text": "It is however part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public.",
+    "uid": "81326e409a32e4a0",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 248.4,
+    "end": 255.4
+  },
+  {
+    "text": "In keeping with that theme, I'd like to thank the sponsors of today's podcast.",
+    "uid": "5463a4baf1b7e732",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 255.4,
+    "end": 259.4
+  },
+  {
+    "text": "Our first sponsor is Better Help. Better Help offers professional therapy with a licensed therapist carried out entirely online.",
+    "uid": "46e27f6f43233d37",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 259.4,
+    "end": 266.4
+  },
+  {
+    "text": "I've been doing weekly therapy for well over 30 years. Therapy is an extremely important component to overall health.",
+    "uid": "20979b7130871a71",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 266.4,
+    "end": 272.4
+  },
+  {
+    "text": "In fact, I consider doing regular therapy just as important as getting regular exercise.",
+    "uid": "032c85db446b0b87",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 272.4,
+    "end": 277.4
+  },
+  {
+    "text": "Now there are essentially three things that great therapy provides. First, it provides a good rapport with somebody that you can really trust and talk to about any and all issues that concern you.",
+    "uid": "b3210701616b6280",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 277.4,
+    "end": 286.4
+  },
+  {
+    "text": "Second of all, great therapy provides support in the form of emotional support, but also directed guidance, the dues and the not to dues.",
+    "uid": "3992dd8e63003cf1",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 286.4,
+    "end": 294.4
+  },
+  {
+    "text": "And third, expert therapy can help you arrive at useful insights that you would not have arrived at otherwise.",
+    "uid": "666b16ea3bc9ab9b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 294.4,
+    "end": 299.4
+  },
+  {
+    "text": "Insights that allow you to do better, not just in your emotional life and your relationship life, but also the relationship to yourself and your professional life and all sorts of career goals.",
+    "uid": "6441e8bdb1df3651",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 299.4,
+    "end": 308.4
+  },
+  {
+    "text": "With Better Help, they make it very easy to find an expert therapist with whom you can really resonate with and provide you with these three benefits that I described.",
+    "uid": "e96e3d82f121d3e3",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 308.4,
+    "end": 315.4
+  },
+  {
+    "text": "Also, because Better Help is carried out entirely online, it's very time-efficient and easy to fit into a busy schedule.",
+    "uid": "50d5a500d8b91508",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 315.4,
+    "end": 321.4
+  },
+  {
+    "text": "With no commuting to a therapist's office or sitting in a waiting room or looking for a parking spot.",
+    "uid": "321a2ff17f48dc19",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 321.4,
+    "end": 326.4
+  },
+  {
+    "text": "So if you'd like to try Better Help, go to BetterHelp.com-slashuberman to get 10% off your first month.",
+    "uid": "cf684850390054a9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 326.4,
+    "end": 332.4
+  },
+  {
+    "text": "Again, that's BetterHelp.com-slashuberman.",
+    "uid": "76485a44f3c1bbf5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 332.4,
+    "end": 335.4
+  },
+  {
+    "text": "Today's episode is also brought to us by Helix Sleep.",
+    "uid": "0b5507666dfca05b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 335.4,
+    "end": 339.4
+  },
+  {
+    "text": "Helix Sleep makes mattresses and pillows that are customized to your unique sleep needs.",
+    "uid": "5227c71585b2cd87",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 339.4,
+    "end": 343.4
+  },
+  {
+    "text": "Now, I've spoken many times before on this and other podcasts about the fact that getting a great night sleep is the foundation of mental health, physical health and performance.",
+    "uid": "92a31689fba91358",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 344.4,
+    "end": 353.4
+  },
+  {
+    "text": "Now, the mattress you sleep on makes a huge difference in the quality of sleep that you get each night.",
+    "uid": "aac05688f970e7bf",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 353.4,
+    "end": 358.4
+  },
+  {
+    "text": "How soft that mattress is or how firm it is, how breathable it is, all play into your comfort and need to be tailored to your unique sleep needs.",
+    "uid": "3f65872ca7a9aa43",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 358.4,
+    "end": 365.4
+  },
+  {
+    "text": "So if you go to the Helix website, you can take a brief two-minute quiz that asks you questions such as,",
+    "uid": "ce16a477ec426fb8",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 365.4,
+    "end": 370.4
+  },
+  {
+    "text": "Do you sleep on your back, your side or your stomach, do you tend to run hot or cold during the night?",
+    "uid": "10ddedcde0104f16",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 370.4,
+    "end": 374.4
+  },
+  {
+    "text": "Things of that sort. Maybe you know the answers to those questions, maybe you don't.",
+    "uid": "910054762877c304",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 374.4,
+    "end": 378.4
+  },
+  {
+    "text": "Either way, Helix will match you to the ideal mattress for you.",
+    "uid": "b9e22a6041023e62",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 378.4,
+    "end": 381.4
+  },
+  {
+    "text": "For me, that turned out to be the dusk mattress, the USK, I started sleeping on a dusk mattress about 3.5 years ago,",
+    "uid": "46442f4c21e76421",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 381.4,
+    "end": 387.4
+  },
+  {
+    "text": "and it's been far and away the best sleep that I've ever had.",
+    "uid": "541bd23feb7602a1",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 387.4,
+    "end": 390.4
+  },
+  {
+    "text": "So that when I travel to hotels and Airbnb and be as I find, I don't sleep as well.",
+    "uid": "6f239e53ba5b3666",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 390.4,
+    "end": 393.4
+  },
+  {
+    "text": "I can't wait to get back to my dusk mattress.",
+    "uid": "5395da6c29319a6e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 393.4,
+    "end": 396.4
+  },
+  {
+    "text": "So if you'd like to try Helix, you can go to HelixSleep.com-Huberman.",
+    "uid": "5c190ee0012dfc3b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 396.4,
+    "end": 400.4
+  },
+  {
+    "text": "Take that two-minute sleep quiz and Helix will match you to a mattress that's customized for your unique sleep needs.",
+    "uid": "68eb56974e1f8705",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 400.4,
+    "end": 406.4
+  },
+  {
+    "text": "Right now, Helix is giving up to 25% off all mattress orders.",
+    "uid": "3578f37bd0797bda",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 406.4,
+    "end": 410.4
+  },
+  {
+    "text": "Again, that's HelixSleep.com-Huberman to get up to 25% off.",
+    "uid": "d5823f471f50012f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 410.4,
+    "end": 415.4
+  },
+  {
+    "text": "Okay, let's talk about the relationship between exercise, brain health and longevity and performance.",
+    "uid": "d7488c01be7166e0",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 415.4,
+    "end": 420.4
+  },
+  {
+    "text": "Let's just take a couple of minutes and really clearly define what we mean by exercise.",
+    "uid": "30bb608b6734c5ea",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 420.4,
+    "end": 424.4
+  },
+  {
+    "text": "Because most of us have a concept of what exercise is, but for sake of understanding the relationship between exercise and brain performance,",
+    "uid": "ef56f4336f76f672",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 424.4,
+    "end": 431.4
+  },
+  {
+    "text": "most of the peer-reviewed studies focus on two general categories of exercise, either cardiovascular exercise or resistance training.",
+    "uid": "9b9c0579b0298062",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 431.4,
+    "end": 439.4
+  },
+  {
+    "text": "Now, of course, cardiovascular exercise can be of very short duration high intensity,",
+    "uid": "22ace6333d192c99",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 439.4,
+    "end": 444.4
+  },
+  {
+    "text": "so getting heart rates up way, way, way up, or longer duration lower intensity.",
+    "uid": "3d5814862803e136",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 444.4,
+    "end": 449.4
+  },
+  {
+    "text": "Now, typically, the amount of times scales with that, so the shorter intensity stuff tends to be quick bounce of either 30 second,",
+    "uid": "bb519e135a8f6b7e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 449.4,
+    "end": 457.4
+  },
+  {
+    "text": "60 second, sometimes two minute or even four minute, all out effort with some period of rest afterwards,",
+    "uid": "177f6dba805635cb",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 457.4,
+    "end": 463.4
+  },
+  {
+    "text": "or longer duration, 20, 30, 45, or even 60 minutes of cardiovascular training at a more steady state lower intensity.",
+    "uid": "03f514ca78a24a86",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 463.4,
+    "end": 472.4
+  },
+  {
+    "text": "And I should mention that within the tens of thousands of studies that are out there exploring the relationship between exercise and brain health and longevity,",
+    "uid": "524c7d2807b6f2a0",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 472.4,
+    "end": 479.4
+  },
+  {
+    "text": "you will mostly see studies focused on cardiovascular exercise.",
+    "uid": "b1785020f4f1923e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 479.4,
+    "end": 484.4
+  },
+  {
+    "text": "And most of those studies early on were focused on the longer duration lower intensity stuff, so typically 30 to 60 minutes of lower intensity,",
+    "uid": "0ce3a2851e495f4c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 484.4,
+    "end": 493.4
+  },
+  {
+    "text": "yet still elevating the heart rate exercise.",
+    "uid": "597264df1ef65b19",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 493.4,
+    "end": 496.4
+  },
+  {
+    "text": "Nowadays, there's more of a focus on the high-intensity interval training, and today we're even going to hear about some studies that involve very, very short bursts,",
+    "uid": "90212fab72d19868",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 496.4,
+    "end": 504.4
+  },
+  {
+    "text": "so called sprints of activity, a short of six seconds long followed by a period of rest, repeated for a number of times,",
+    "uid": "9fe4da3f9c437774",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 504.4,
+    "end": 510.4
+  },
+  {
+    "text": "and exploring what the effect of that sort of, I should say, very, very short intensity exercise is on immediate and long-term brain health and performance.",
+    "uid": "18d42b2d023c51db",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 510.4,
+    "end": 520.4
+  },
+  {
+    "text": "Okay, so cardiovascular training of different durations and intensities involving different durations of rest,",
+    "uid": "c6ce7fe33ff1e410",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 520.4,
+    "end": 526.4
+  },
+  {
+    "text": "are one category that we're going to talk about today.",
+    "uid": "0ccb18336bcbe178",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 526.4,
+    "end": 528.4
+  },
+  {
+    "text": "The other category of exercise we're going to talk about today is resistance training.",
+    "uid": "3a2969b5e29a407a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 528.4,
+    "end": 532.4
+  },
+  {
+    "text": "Now, most of the studies involving resistance training and their effects on the brain, both brain longevity and brain performance,",
+    "uid": "61b98828b5846033",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 532.4,
+    "end": 540.4
+  },
+  {
+    "text": "focus on either compounds or multi-joint movements, so things squads, deadlifts, bench press, shoulder press, dips, et cetera,",
+    "uid": "81ee050e5cd63eeb",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 540.4,
+    "end": 547.4
+  },
+  {
+    "text": "but very often, and this is just a by-product of how studies are done in the laboratory,",
+    "uid": "3c494ad6f939d043",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 547.4,
+    "end": 553.4
+  },
+  {
+    "text": "very often the exploration of the relationship between resistance training and brain health and longevity are single joint isolation exercises,",
+    "uid": "9e1828390e4b41d6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 553.4,
+    "end": 563.4
+  },
+  {
+    "text": "like a single leg leg extension, even. You might be thinking, wait, just one leg doing the leg extension, yes, the reason for that,",
+    "uid": "d8adf8edbfa192bb",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 563.4,
+    "end": 570.4
+  },
+  {
+    "text": "and I spoke to some of the scientists to do this sort of work, is that when they have subjects do a, say,",
+    "uid": "aee72283631ad0ca",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 570.4,
+    "end": 576.4
+  },
+  {
+    "text": "seated single leg leg extension as the form of resistance training, I know I and some of you are probably chuckling like really,",
+    "uid": "f85d58fa93e4083c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 576.4,
+    "end": 583.4
+  },
+  {
+    "text": "of all the things you could select to see if it impacts brain health, you're going to have people kick up one knee, yep, you do that, why?",
+    "uid": "dc8701705bc26efc",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 583.4,
+    "end": 589.4
+  },
+  {
+    "text": "Well, most people can do that type of movement, it doesn't take any training, or it just takes a little bit of direction as to how to do it,",
+    "uid": "f3169f5b20395c0e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 589.4,
+    "end": 594.4
+  },
+  {
+    "text": "so it can be done reasonably safely by many people, including people that are non-athletes, often older than 65 years old,",
+    "uid": "b744bfa464fe1f41",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 594.4,
+    "end": 601.4
+  },
+  {
+    "text": "not that there aren't some very fit 65 year olds, but just people who are older than 65, but don't have a lot of athletic background,",
+    "uid": "af53321b04dda7c4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 601.4,
+    "end": 607.4
+  },
+  {
+    "text": "can sit down and a chair, put the pin at the appropriate weight and move their knee or rather elevate their foot,",
+    "uid": "e07e5688bd377d09",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 607.4,
+    "end": 615.4
+  },
+  {
+    "text": "while seated in a chair, so called single leg leg extension, and also it gives the benefit of the opposite leg within subject control for comparison in terms of strength increases,",
+    "uid": "0f750fa9f84deecd",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 615.4,
+    "end": 625.4
+  },
+  {
+    "text": "okay, so set aside any kind of, you know, like, I rolls or chuckles that you might have about single leg leg extensions as the total form of resistance training that's being explored,",
+    "uid": "dee19ad7cb5477bf",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 625.4,
+    "end": 635.4
+  },
+  {
+    "text": "because yes, those studies are still informative, in fact, they perhaps even identified the lower threshold for the amount of resistance training and type of resistance training that could benefit the brain,",
+    "uid": "642e86c60fd9af17",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 635.4,
+    "end": 645.4
+  },
+  {
+    "text": "but we also see studies that involve compound exercises, so having people do free weight squats or even weighted squats or dead lifts,",
+    "uid": "8c5e554fe8ff55d5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 645.4,
+    "end": 653.4
+  },
+  {
+    "text": "or you know, bench press dead lift type combinations, again, when you look at the literature exploring exercise and brain health,",
+    "uid": "e678fce24d9ee330",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 653.4,
+    "end": 659.4
+  },
+  {
+    "text": "you're looking at studies that in the best cases are very tightly controlled, that typically means having people do them in the laboratory in a very specific way,",
+    "uid": "06568e8a41eab1f3",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 659.4,
+    "end": 669.4
+  },
+  {
+    "text": "sometimes using untrained subjects, meaning when the subjects arrive at the study, they haven't done much exercise of that sort,",
+    "uid": "b15ce87117201614",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 669.4,
+    "end": 675.4
+  },
+  {
+    "text": "sometimes it's involving trained subjects, both have their caveats, of course, but keep in mind that during today's discussion,",
+    "uid": "d390af704d1ee00c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 675.4,
+    "end": 682.4
+  },
+  {
+    "text": "I'm going to be pooling at many times across all these studies exploring cardiovascular exercise of different duration and intensities,",
+    "uid": "c10090f6c814c776",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 682.4,
+    "end": 691.4
+  },
+  {
+    "text": "resistance training of different types and sometimes different intensities as well, but where there is a specific piece of knowledge that can be",
+    "uid": "11ae86373694dfd4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 691.4,
+    "end": 699.4
+  },
+  {
+    "text": "green from understanding the exact type of exercise that was done in a specific type of brain change,",
+    "uid": "80550bf8bc07a907",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 699.4,
+    "end": 705.4
+  },
+  {
+    "text": "especially in cases where it's been shown to be especially beneficial, I will be sure to highlight that.",
+    "uid": "292267002491f95f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 705.4,
+    "end": 711.4
+  },
+  {
+    "text": "So, as we proceed in today's discussion, keep in mind exercises many things, two general categories,",
+    "uid": "74fe53f52a2411af",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 711.4,
+    "end": 717.4
+  },
+  {
+    "text": "most of the studies focus on high intensity or low intensity cardio, most of the studies involve either single joint isolation exercises,",
+    "uid": "4dea2ba58adbc4db",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 717.4,
+    "end": 726.4
+  },
+  {
+    "text": "sometimes even single joint single leg isolation exercises or compound exercises, and keep in mind that most of the studies",
+    "uid": "0a60f34357e3868d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 726.4,
+    "end": 734.4
+  },
+  {
+    "text": "exploring the relationship between exercise and brain health and performance are done to explore two types of changes,",
+    "uid": "34d19cc8b572c345",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 734.4,
+    "end": 741.4
+  },
+  {
+    "text": "either what are called acute changes, meaning immediate changes, so they have people do the exercise and then they have them take a cognitive test,",
+    "uid": "a10fbb278a7d1ab5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 741.4,
+    "end": 748.4
+  },
+  {
+    "text": "or some other form of tests that analyzes brain health and performance, or they look at chronic effects,",
+    "uid": "88c1d251969fed42",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 748.4,
+    "end": 754.4
+  },
+  {
+    "text": "which are what are the changes in brain performance and health over long periods of time,",
+    "uid": "5e3f275cae0b023a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 754.4,
+    "end": 758.4
+  },
+  {
+    "text": "meaning having people do a particular type of exercise anywhere from two to four times per week,",
+    "uid": "c84f1d64846c1e65",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 758.4,
+    "end": 763.4
+  },
+  {
+    "text": "although typically it's three times per week and doing that for anywhere from four weeks to six months.",
+    "uid": "d52b7cbbfebca955",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 763.4,
+    "end": 770.4
+  },
+  {
+    "text": "Again, all of this relates to the practical aspects of running control studies in the laboratory.",
+    "uid": "7c6b51b6d81f3c00",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 770.4,
+    "end": 775.4
+  },
+  {
+    "text": "So if by now you're thinking this is really complicated, how is it that we're supposed to tease out the best things to do,",
+    "uid": "848a28d763dbaa9e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 775.4,
+    "end": 780.4
+  },
+  {
+    "text": "given this huge ball of barbed wire of different types of studies, variables, et cetera?",
+    "uid": "8ac0e9f004368415",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 780.4,
+    "end": 784.4
+  },
+  {
+    "text": "Well, I assure you we are going to make this very clear and very actionable, and the thing to keep in mind is that fortunately,",
+    "uid": "f04c907d682cb757",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 784.4,
+    "end": 790.4
+  },
+  {
+    "text": "most all of the studies, yes, most all of the studies that have explored the relationship between exercise, brain health and longevity and performance,",
+    "uid": "b4b9756ab4bc33d5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 790.4,
+    "end": 798.4
+  },
+  {
+    "text": "find positive effects.",
+    "uid": "85cab95fa50532db",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 798.4,
+    "end": 800.4
+  },
+  {
+    "text": "Now, for some of you who are skeptics, you might be thinking, well, great, so you can do any form of exercise.",
+    "uid": "930b396475bd7040",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 800.4,
+    "end": 806.4
+  },
+  {
+    "text": "Well, in some sense, yes, I'll actually tell you this right off the bat.",
+    "uid": "0de444e1aa0f6143",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 806.4,
+    "end": 810.4
+  },
+  {
+    "text": "There are good data showing that if people do six second sprints, max all out sprints on a stationary bicycle,",
+    "uid": "f67d9ed140815622",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 810.4,
+    "end": 818.4
+  },
+  {
+    "text": "followed by one minute rest, and repeat that six times, you see significant acute effects on brain performance.",
+    "uid": "4aa65f6a2ff79b50",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 818.4,
+    "end": 829.4
+  },
+  {
+    "text": "So the brain performance could be a memory task. Sometimes it is a memory task.",
+    "uid": "9d9c67a0b7f1e5c6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 829.4,
+    "end": 833.4
+  },
+  {
+    "text": "It could be what's called a stoop task, which is a cognitive flexibility task, where you have to distinguish between the colors that words are written in and the content of the words.",
+    "uid": "87dd4b337772ac56",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 833.4,
+    "end": 841.4
+  },
+  {
+    "text": "Okay, so called stoop task. I've talked about this on previous podcast. I'll talk about a little bit more later.",
+    "uid": "3cee78eff34f9508",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 841.4,
+    "end": 845.4
+  },
+  {
+    "text": "Regardless of the cognitive tests that's used, that very short duration high intensity training increases performance significantly.",
+    "uid": "8998a0ed9a2b4498",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 845.4,
+    "end": 852.4
+  },
+  {
+    "text": "As well, 20 or 30 minutes of so-called steady state cardio, you know, figuring out how fast you can run or row or swim or stationary bike.",
+    "uid": "63cfdf5300d5feb1",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 853.4,
+    "end": 862.4
+  },
+  {
+    "text": "We're 20 to 30 minutes at a steady state, and then you analyze people's cognitive performance on a memory task can be a working memory task.",
+    "uid": "e721fe0ca4a76e05",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 862.4,
+    "end": 870.4
+  },
+  {
+    "text": "So remembering a short string of numbers, where it could be math problems, it could be the stoop task, any number of different tasks reveal the same thing,",
+    "uid": "357d136199dfa170",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 870.4,
+    "end": 877.4
+  },
+  {
+    "text": "which is that the longer duration, lower intensity cardio, also significantly improves performance.",
+    "uid": "453d83871bd54b33",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 877.4,
+    "end": 882.4
+  },
+  {
+    "text": "Does that mean that you can do six rounds of six seconds of sprinting with a minute in between or 20 minutes of cardiovascular exercise and get the same effect on brain performance?",
+    "uid": "216d6cb0af2e4ada",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 882.4,
+    "end": 894.4
+  },
+  {
+    "text": "Well, if you're just looking at overall improvements in performance, so for instance, the percentage of information that you learn, if you do, or you don't do the exercise, or if you compare those two forms of exercise that I just mentioned,",
+    "uid": "5e98a0f2b8dbdad5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 894.4,
+    "end": 905.4
+  },
+  {
+    "text": "in that sense, yes, it really doesn't make a difference, which may have you scratching your head, but in a few moments I'll explain why that is.",
+    "uid": "b916c195de2cc8f7",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 905.4,
+    "end": 912.4
+  },
+  {
+    "text": "On the other hand, different forms of exercise of course impact our bodily health differently.",
+    "uid": "2e7e6b91d2995cc4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 912.4,
+    "end": 918.4
+  },
+  {
+    "text": "Higher intensity, shorter duration exercise, of course, impacts things like VO2, max, and which circulating hormones and normodulators are going to be present very differently than longer duration lower intensity exercise.",
+    "uid": "548b6cbf636ff2c4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 918.4,
+    "end": 929.4
+  },
+  {
+    "text": "So, too, if you have people do single joint isolation resistance training exercises, like a single leg leg extension, or both legs leg extension, versus 10 sets of 10 in a squat exercise, you're going to see very different specific adaptations at the physical level at the bodily level.",
+    "uid": "57e3b4e1cb5ad36f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 929.4,
+    "end": 947.4
+  },
+  {
+    "text": "But in every case, where you explore the acute, the immediate changes that occur in brain output in function, after people do that sort of exercise,",
+    "uid": "b6dea045ac4c849b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 947.4,
+    "end": 958.4
+  },
+  {
+    "text": "you're going to see significant increases. When one does physical exercise, short duration high intensity, cardio, or higher intensity resistance training, single joint training, compound training,",
+    "uid": "4c01bec20eda70e4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 958.4,
+    "end": 970.4
+  },
+  {
+    "text": "single joint isolation exercise, compound exercises, one sees these increases in brain performance, at least acutely in the immediate stage after the training.",
+    "uid": "2c9806a8d13f1d0a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 970.4,
+    "end": 979.4
+  },
+  {
+    "text": "So, we have to ask ourselves, why is it, how is it, that all these different forms of exercise are positively impacting brain performance?",
+    "uid": "5830d92d1eb96208",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 979.4,
+    "end": 989.4
+  },
+  {
+    "text": "And the answer is very simple and fortunately gives us tremendous leverage over our exercise and how to impact our brain health.",
+    "uid": "110ab4b9763e143f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 989.4,
+    "end": 998.4
+  },
+  {
+    "text": "And the answer is a rousal. However, the answer isn't entirely arousal, meaning not all of the positive effects of exercise on brain health longevity and performance can be explained by arousal.",
+    "uid": "727b09a11d9898fe",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 998.4,
+    "end": 1010.4
+  },
+  {
+    "text": "But when I step back from the literature, again, an enormous literature, tens of thousands of peer reviewed papers, many of which are done exceptionally well, by the way, as well as meta analyses and reviews.",
+    "uid": "234a9106dd64f0a2",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1010.4,
+    "end": 1020.4
+  },
+  {
+    "text": "I think it's fair to say that probably 60 to 70% of the effects of exercise on brain health performance and longevity can be explained by the specific shifts in our physiology, both bodily physiology and directly within the brain's physiology,",
+    "uid": "794fcdb6952dff86",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1020.4,
+    "end": 1036.4
+  },
+  {
+    "text": "during those bouts of exercise, which is this increase in so-called autonomic arousal, which occurs during the exercise, but also extends into a window after the exercise is completed.",
+    "uid": "cb0855a1502987e0",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1036.4,
+    "end": 1048.4
+  },
+  {
+    "text": "So we have to talk about this relationship between exercise, arousal and acute brain performance, meaning the improvements in brain performance that happen immediately after the exercise.",
+    "uid": "91389a093f863876",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1048.4,
+    "end": 1059.4
+  },
+  {
+    "text": "And then we'll shift our focus to the effects of exercise that occur more chronically. That is, the effects of exercise on brain health and performance that occur in the hours, days, weeks and years after we exercise, even if we are continuing to exercise every day or three times a week or whatever the frequency might be.",
+    "uid": "f08e13bd27307a62",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1059.4,
+    "end": 1077.4
+  },
+  {
+    "text": "But this issue of arousal is extremely important, and I assure you it's not trivial. In fact, it will help you understand a number of things in the domains of deliberate cold exposure, stress, trauma, and most importantly for today's discussion, it will help you design an exercise program that's geared towards giving you the maximum bodily health effects and the maximum brain health effects.",
+    "uid": "3248fb1e1bcb0d6b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1077.4,
+    "end": 1099.4
+  },
+  {
+    "text": "In order to understand the relationship between exercise, arousal and learning, we have to really clarify the relationship between arousal and learning.",
+    "uid": "819ccf9ff4b6c4b5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1099.4,
+    "end": 1108.4
+  },
+  {
+    "text": "That's going to set the stage for pretty much everything else we're going to talk about for the next 10 minutes or so.",
+    "uid": "113652e2d8663c59",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1108.4,
+    "end": 1112.4
+  },
+  {
+    "text": "And it's oh so cool. It also gives me the opportunity to review a paper that a long loved, which comes from Larry K. Hills, group down at UC Irvine entitled Enhanced Memory Consolidation with Post Learning Stress, interaction with the degree of arousal at encoding.",
+    "uid": "41cbe7637ae2d562",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1112.4,
+    "end": 1128.4
+  },
+  {
+    "text": "This is just one of several papers from the K Hill group, which essentially identified the following.",
+    "uid": "8ab1504bd2d38bee",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1128.4,
+    "end": 1133.4
+  },
+  {
+    "text": "There are a couple of different ways you can increase so-called autonomic arousal, or levels of alertness. Sometimes it's called stress, but autonomic arousal is simply an increase in the amount of activity in the so-called sympathetic arm or the autonomic nervous system, which is nerd speak for more alert, more aroused.",
+    "uid": "119996a713720abf",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1133.4,
+    "end": 1148.4
+  },
+  {
+    "text": "And I'd ready to move higher heart rate, higher blood pressure, more alertness. This is a great state to be in for learning material provided. It's not too much alertness, too much arousal.",
+    "uid": "85470af14796a982",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1148.4,
+    "end": 1160.4
+  },
+  {
+    "text": "Turns out, this paper shows it's also a great state to be in.",
+    "uid": "d2cdc05555ac18d4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1160.4,
+    "end": 1164.4
+  },
+  {
+    "text": "After you've been exposed to material that you want to learn. And it's also the case that in this paper and in many many other papers from this and other laboratories that you can increase levels of autonomic arousal by having people put their arm into ice.",
+    "uid": "504f8e2d8bac53fe",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1164.4,
+    "end": 1177.4
+  },
+  {
+    "text": "Or arm into ice water for one to three minutes. This is called cold presser test. It's a very commonly used standard test.",
+    "uid": "f4e163b5225198c4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1177.4,
+    "end": 1184.4
+  },
+  {
+    "text": "This paper and many other paper show that it leads to very rapid and significant increases in circulating levels of cortisol, which yes sometimes is called a stress hormone, but it's really just a hormone involved in the stress response, but it does a bunch of other things too.",
+    "uid": "d2f6665a4dfe0671",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1184.4,
+    "end": 1198.4
+  },
+  {
+    "text": "So use that as a tool after people have been exposed to certain types of information to ask does elevation and cortisol, aka autonomic arousal improve one's ability to remember information and the answer is yes.",
+    "uid": "441d633da36dee8b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1198.4,
+    "end": 1213.4
+  },
+  {
+    "text": "This study shows that several other studies from the K-Hill and other laboratories show that sometimes those studies use people putting their arm into ice cold water other times they'll inject them with a drug that increases adrenaline.",
+    "uid": "057382d59638ed8c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1213.4,
+    "end": 1225.4
+  },
+  {
+    "text": "Also called epinephrine sometimes also increases cortisol the point being that elevations in autonomic arousal after one is exposed to information increases ones memory for that information and one's memory for the details of that information.",
+    "uid": "db5ac30012ad636a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1225.4,
+    "end": 1242.4
+  },
+  {
+    "text": "Now in this particular study they compared emotionally late inverse and non-emotionally late information and a bunch of other details which are interesting if you choose to produce this study.",
+    "uid": "5522376541c827b4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1242.4,
+    "end": 1250.4
+  },
+  {
+    "text": "But I should mention the other studies from this and other laboratories have shown time and time again increases in autonomic arousal measured by increases in cortisol or adrenaline.",
+    "uid": "eba62cdf7044a31d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1250.4,
+    "end": 1260.4
+  },
+  {
+    "text": "Also called epinephrine or nor epinephrine which is sort of analog within the brain that consistently leads to better memory for information that one has been exposed to.",
+    "uid": "859ccbd809b62193",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1260.4,
+    "end": 1271.4
+  },
+  {
+    "text": "Better memory for the details of that information and oftentimes better ability to work with that information to come up with new ideas with that information or to think logically about that information in new ways.",
+    "uid": "1dead67338a41a23",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1272.4,
+    "end": 1283.4
+  },
+  {
+    "text": "In other words increasing autonomic arousal improves learning and memory.",
+    "uid": "f8730f625cea678a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1283.4,
+    "end": 1287.4
+  },
+  {
+    "text": "Now it's also very important to understand that that increase in autonomic arousal can improve learning and memory if the autonomic arousal occurs after the exposure to the material most people find that a bit surprising.",
+    "uid": "c21d515ac96ccb9c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1287.4,
+    "end": 1299.4
+  },
+  {
+    "text": "I certainly did when I first read this paper it makes sense if you start to think about the persistence of memories for things like traumas or bad events right bad event happens and there's this big spike in cortisol and adrenaline.",
+    "uid": "1c9a9209522ce137",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1299.4,
+    "end": 1310.4
+  },
+  {
+    "text": "And those memories are hard to eradicate there's certainly hard to remove the emotional content from and if you think about it in those instances the event happens and then comes the big increase in cortisol and adrenaline so that maps very well onto the study that I'm describing here.",
+    "uid": "0d55c78149d2ad0f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1310.4,
+    "end": 1324.4
+  },
+  {
+    "text": "In addition however lots of studies have shown that increasing autonomic arousal as measured by increases in adrenaline or cortisol or both or any number of different measures of autonomic arousal.",
+    "uid": "70c8de944f0031a8",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1324.4,
+    "end": 1337.4
+  },
+  {
+    "text": "That occurs during the exposure to the new material okay so this isn't trauma this is like new math material new history material new music material new motor skill material that you're trying to learn.",
+    "uid": "0aa5dd8fa8c281aa",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1338.4,
+    "end": 1351.4
+  },
+  {
+    "text": "Increases an autonomic arousal that occur as you're trying to so-called encoding information you're being exposed to that new information also significantly improve learning and it's always through increases in arousal in other words.",
+    "uid": "b1a549b65923f237",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1351.4,
+    "end": 1365.4
+  },
+  {
+    "text": "Whether you're measuring cortisol adrenaline heart rate blood pressure galvanic skin response how wide someone's pupils are or small someone's pupils are.",
+    "uid": "108ec58286d7093a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1365.4,
+    "end": 1374.4
+  },
+  {
+    "text": "Or any combination of those things are any other measures of autonomic arousal the consistent takeaway is increases in arousal during or after in particular after.",
+    "uid": "153ef89766189ee9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1375.4,
+    "end": 1386.4
+  },
+  {
+    "text": "Trying to learn a certain material is going to improve significantly the amount of material that one learns the details of that material and the persistence of that learning over time.",
+    "uid": "38daf006b49096fb",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1386.4,
+    "end": 1398.4
+  },
+  {
+    "text": "I'd like to take a quick break and acknowledge our sponsor AG1 AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens.",
+    "uid": "28ee96a9da0a3ad4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1398.4,
+    "end": 1407.4
+  },
+  {
+    "text": "As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long I'm constantly looking for the best tools to improve my mental health physical health and performance.",
+    "uid": "3063c93d23030015",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1407.4,
+    "end": 1418.4
+  },
+  {
+    "text": "I discovered AG1 way back in 2012 long before I ever had a podcast or even new in a podcast was and I've been taking it every day since.",
+    "uid": "1e89644962096a25",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1418.4,
+    "end": 1426.4
+  },
+  {
+    "text": "I find that AG1 greatly improves all aspects of my health. I simply feel much better when I take it.",
+    "uid": "0464b5d703b70552",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1426.4,
+    "end": 1432.4
+  },
+  {
+    "text": "AG1 uses the highest quality ingredients in the right combinations and they're constantly improving their formulas without increasing the cost.",
+    "uid": "b83dcf57d66ea861",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1432.4,
+    "end": 1439.4
+  },
+  {
+    "text": "In fact, AG1 just launched their latest formula upgrade. This new formula is based on exciting new research on the effects of probiotics on the gut microbiome.",
+    "uid": "a3826b7dc4dd64ee",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1439.4,
+    "end": 1447.4
+  },
+  {
+    "text": "And now includes several clinically studied probiotics strains shown to support both digestive health and immune system health as well as to improve bowel regularity and to reduce bloating.",
+    "uid": "1392f1d8e202a844",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1448.4,
+    "end": 1458.4
+  },
+  {
+    "text": "Whenever I'm asked if I could take just one supplement what would that supplement be I always say AG1 if you'd like to try AG1 you can go to drink AG1 dot com slash human to claim a special offer.",
+    "uid": "47016bf51214c59f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1458.4,
+    "end": 1470.4
+  },
+  {
+    "text": "This month only January 2025 AG1 is giving away 10 free travel packs and a year supply of vitamin D3 K2.",
+    "uid": "96b91c2108e2e92c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1470.4,
+    "end": 1477.4
+  },
+  {
+    "text": "Again, go to drinkag1 dot com slash human to claim the 10 free travel packs and a year supply of vitamin D3 K2.",
+    "uid": "dba4761d446696dd",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1477.4,
+    "end": 1485.4
+  },
+  {
+    "text": "Today's episode is also brought to us by David. David makes a protein bar unlike any other. It has 28 grams of protein only 150 calories and zero grams of sugar.",
+    "uid": "55f0db189ad87b13",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1485.4,
+    "end": 1496.4
+  },
+  {
+    "text": "That's right 28 grams of protein and 75% of its calories come from protein. These bars from David also taste amazing. My favorite flavor is chocolate chip cookie dough, but then again I also like the chocolate fudge flavored one and I also like the cake flavored one.",
+    "uid": "2d6ab1331193fc98",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1496.4,
+    "end": 1509.4
+  },
+  {
+    "text": "Basically, I like all the flavors. They're incredibly delicious. For me personally, I strive to eat mostly whole foods. However, when I'm in a rush or I'm away from home or I'm just looking for a quick afternoon snack, I often find that I'm looking for a high quality protein source.",
+    "uid": "f9fc5119bfc62b3e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1509.4,
+    "end": 1524.4
+  },
+  {
+    "text": "With David, I'm able to get 28 grams of protein with the calories of a snack, which makes it very easy to hit my protein goals of 1 gram of protein per pound of body weight each day.",
+    "uid": "264c23385394cf82",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1524.4,
+    "end": 1533.4
+  },
+  {
+    "text": "And it allows me to do that without taking in excess calories. I typically eat a David bar in the early afternoon or even mid afternoon if I want to bridge that gap between lunch and dinner.",
+    "uid": "9ae0ad637a835bb2",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1533.4,
+    "end": 1543.4
+  },
+  {
+    "text": "I like that it's a little bit sweet, so it tastes like a tasty snack, but it's also given me that 28 grams of very high quality protein with just 150 calories.",
+    "uid": "69ed337432d2d51f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1543.4,
+    "end": 1551.4
+  },
+  {
+    "text": "If you would like to try David, you can go to Davidprotein.com slash Huberman. Again, the link is Davidprotein.com slash Huberman.",
+    "uid": "595df570388463fb",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1551.4,
+    "end": 1560.4
+  },
+  {
+    "text": "Okay, so now we've established the elevated levels of autonomic arousal either during or after and indeed also before about of learning.",
+    "uid": "018794f0cced3e91",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1560.4,
+    "end": 1569.4
+  },
+  {
+    "text": "The so-called encoding phase of learning when we're exposed to the new material that we want to learn and remember are all beneficial.",
+    "uid": "33a4233f6b969de6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1569.4,
+    "end": 1576.4
+  },
+  {
+    "text": "This is wonderful news. When we look out on the whole of the literature, on the relationship between exercise and brain health and performance, we see studies that incorporate exercise either before or after about of learning.",
+    "uid": "d5e6618c831e77d9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1576.4,
+    "end": 1588.4
+  },
+  {
+    "text": "And we also find studies believe it or not that combine exercise with learning in real time, literally exposing people to new material that they're expected to learn or trying to learn while they're walking on a treadmill or running on a treadmill or cycling or rowing.",
+    "uid": "42abd5e3de5b5f9f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1588.4,
+    "end": 1603.4
+  },
+  {
+    "text": "Yes, those studies have also been done although for practical reasons. They're not as numerous as the studies exploring the relationship between exercise and learning where the exercise is done before or after the bow of learning.",
+    "uid": "ee072c54f4242a75",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1603.4,
+    "end": 1616.4
+  },
+  {
+    "text": "Okay, so what this means is wonderful. What this means is that if you want to use exercise not just for enhancing your bodily health, but also for brain health and performance, you can do that exercise before, during or after bounce of learning.",
+    "uid": "fb01ca825d7989a8",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1616.4,
+    "end": 1630.4
+  },
+  {
+    "text": "That allows you to look at the constraints of your life. For instance, are you one of these people that can get up at five or six or seven a.m. and exercise before everyone else gets up or before your work day starts or your school day starts.",
+    "uid": "fe8290c41d1aa56d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1630.4,
+    "end": 1643.4
+  },
+  {
+    "text": "Do a round of exercise and then get into your bouts of learning. Whatever that material may be or you somebody who has to dive into the work day school day family obligations, et cetera, in which case you might only be able to exercise later in the day.",
+    "uid": "ae4e19fc1a7d4672",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1643.4,
+    "end": 1656.4
+  },
+  {
+    "text": "You probably still somebody who would like to enhance their brain health and performance. So in that case, you might organize the thing that you're trying to learn the encoding or the exposure to the thing that you're trying to learn.",
+    "uid": "bea97eaa2ab062a3",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1656.4,
+    "end": 1665.4
+  },
+  {
+    "text": "Either in written forms or reading or you're listening to it or you're attending a class or classes and then exercising after you're exposed to that material.",
+    "uid": "2e7675cc36992fe0",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1665.4,
+    "end": 1674.4
+  },
+  {
+    "text": "In order to get that elevated levels of arousal, not unlike the arrangement of the studies that I was talking about earlier, which used the ice exposure in order to generate increases in arousal and thereby to improve learning and memory.",
+    "uid": "30b42967dacfd7be",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1674.4,
+    "end": 1688.4
+  },
+  {
+    "text": "So in the show note captions for this episode, we've batched a number of different references that have explored the relationship between exercise and cognitive performance.",
+    "uid": "3cabe955229edb37",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1688.4,
+    "end": 1697.4
+  },
+  {
+    "text": "And across those studies and the ones that are referenced therein, you'll find studies where the exercise bout was done before or the exercise bout was done during or the exercise bout was done after a round of learning or encoding of information.",
+    "uid": "e7d3d01855259a8f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1697.4,
+    "end": 1712.4
+  },
+  {
+    "text": "And I should mention that different studies focus on different cognitive tasks.",
+    "uid": "630364f157bdd0ad",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1712.4,
+    "end": 1716.4
+  },
+  {
+    "text": "The exercise and the arousal associated with exercise has been shown to a cutely improved recall. So just raw recall of material.",
+    "uid": "d12951c6f871c59b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1716.4,
+    "end": 1724.4
+  },
+  {
+    "text": "The details in material. It's been shown to improve cognitive flexibility through things like the stoop task.",
+    "uid": "2dec7c63bbef31f6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1724.4,
+    "end": 1730.4
+  },
+  {
+    "text": "And so in a very convenient way exercise has been shown to a cutely improved performance on all those sorts of brain and memory tasks, which is greatly reassuring to all of us because what it means is that it probably doesn't matter so much when you do your exercise.",
+    "uid": "e147edf2993a1e6a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1730.4,
+    "end": 1743.4
+  },
+  {
+    "text": "Or what it is that you're trying to learn. It's going to be beneficial as long as the thing that you're trying to learn and exercise are positioned fairly closely in time.",
+    "uid": "9f8af4e4646b7f10",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1743.4,
+    "end": 1755.4
+  },
+  {
+    "text": "Now the one caveat to that is that several studies have explored the relationship between short duration high intensity interval training and cognitive performance in particular executive function that cognitive prefrontal flexibility that we were talking about a few moments ago.",
+    "uid": "b2d83f6a8d7ee5ad",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1755.4,
+    "end": 1770.4
+  },
+  {
+    "text": "And on the whole all of those studies point to improvements in executive control and function.",
+    "uid": "f4a7226b2a431fed",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1770.4,
+    "end": 1778.4
+  },
+  {
+    "text": "So that context dependent switching of knowledge and your ability to think about things in a very agile way, if you will.",
+    "uid": "2ff3015cff4c04de",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1778.4,
+    "end": 1784.4
+  },
+  {
+    "text": "If people did a high intensity interval training session just before they do that bout of cognitive flexibility learning.",
+    "uid": "48692c16e606aceb",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1784.4,
+    "end": 1792.4
+  },
+  {
+    "text": "However, several studies have also looked at the effect of repeated bouts of high intensity interval training.",
+    "uid": "749896bae098c007",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1792.4,
+    "end": 1797.4
+  },
+  {
+    "text": "And in some cases looking at the mechanisms by which high intensity interval training improved cognitive performance and the basic takeaway is the following.",
+    "uid": "c68e0c0b55844383",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1797.4,
+    "end": 1805.4
+  },
+  {
+    "text": "And again, I'll provide references to these in the show note captions.",
+    "uid": "edc0ade9f49023d3",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1805.4,
+    "end": 1809.4
+  },
+  {
+    "text": "The high intensity interval training done before or believe it or not even during cognitive flexibility tasks a couple of studies have actually explored that significantly improves performance on those tasks.",
+    "uid": "3b77677f9152a5b0",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1809.4,
+    "end": 1821.4
+  },
+  {
+    "text": "And we believe this is likely through enhanced levels of arousal although some data also point to the fact that it's also likely through enhanced cerebral blood flow simply more blood being delivered to the brain during or in particular after high intensity interval training more blood more fuel and other molecules being delivered to the brain during a cognitive task or cognitive flexibility task makes sense why that would improve cognitive function.",
+    "uid": "06f0d12b8c6278f1",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1821.4,
+    "end": 1847.4
+  },
+  {
+    "text": "And yet when studies have explored the consequence of doing multiple high intensity interval training sessions and when I say high intensity I mean high intensity these are studies where lactate is elevated we'll talk more about lactated in a few minutes.",
+    "uid": "574db6274b6ad75a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1847.4,
+    "end": 1859.4
+  },
+  {
+    "text": "We're typically people's heart rate is either close to or at their maximum heart rate for some period of time either 30 seconds 60 seconds two minutes or in some cases people are pushing really really hard for four minutes and resting for four minutes then pushing really hard for four minutes and resting for four minutes four times over the so called four by four program that I know a number of you have heard about if you haven't it's very intense so you can imagine all out for four minutes then rest all out for four minutes then rest doing that several times in a day.",
+    "uid": "5913337621526809",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1859.4,
+    "end": 1887.4
+  },
+  {
+    "text": "Okay, so two bouts of four by four or two high intensity interval training sessions of any kind has been shown to diminish cognitive performance if the cognitive task comes after the second high intensity interval training session.",
+    "uid": "e308df40e355c1f1",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1887.4,
+    "end": 1901.4
+  },
+  {
+    "text": "Now for most of us including me that makes sense think well they're tired.",
+    "uid": "b15120d6dda62719",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1901.4,
+    "end": 1905.4
+  },
+  {
+    "text": "You know people aren't able to focus as much because they're devoting all this energy to the exercise and indeed that's true although the mechanism is interesting.",
+    "uid": "a1981bb7796494af",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1905.4,
+    "end": 1914.4
+  },
+  {
+    "text": "The studies that have looked at this have actually found that cerebral blood flow during the two bouts of high intensity interval training are more or less equal so it's not that the first session necessarily.",
+    "uid": "c9a8903fa6d35e22",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1914.4,
+    "end": 1924.4
+  },
+  {
+    "text": "Procludes high performance in the high intensity interval training session in the second session but then when you go on to try to do a cognitive task that's demanding.",
+    "uid": "e210efcfbdd0208e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1924.4,
+    "end": 1933.4
+  },
+  {
+    "text": "And also requires elevated levels of cerebral blood flow you find that performance drops and this is correlated with reductions in cerebral blood flow that come from doing too much high intensity interval training.",
+    "uid": "9b5c331432df65dc",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1933.4,
+    "end": 1945.4
+  },
+  {
+    "text": "Now I have to acknowledge that most people aren't doing multiple high intensity interval training sessions per day but this is a reminder an important reminder in fact that if you're using exercise to try and improve brain health and function.",
+    "uid": "9b20654bf56e6b84",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1945.4,
+    "end": 1958.4
+  },
+  {
+    "text": "Or even if you're just somebody who's exercising but is also expected to use their brain to learn things throughout the day as most of us are and to attend to things throughout the day you need to be cautious about not over doing the high intensity interval training sessions.",
+    "uid": "3f88f114d4dd98af",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1958.4,
+    "end": 1970.4
+  },
+  {
+    "text": "This is also true for resistance training you need to be aware that very high intensity exercise yes increases cerebral blood flow and the delivery of all these fuels and other compounds to your brain during the exercise.",
+    "uid": "9fe5454405859851",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1970.4,
+    "end": 1981.4
+  },
+  {
+    "text": "If you do that correctly and you don't overdo it you can capture some of that wave of blood flow fuel etc.",
+    "uid": "20faff9ae3f3f652",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1981.4,
+    "end": 1989.4
+  },
+  {
+    "text": "As you enter the learning session but if you quote unquote overdo it then you're going to arrive to that bow to learning with reduced cerebral blood flow and you're going to be in a state that it's very difficult to focus and learn new information.",
+    "uid": "5c4726a53fdc6c70",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 1989.4,
+    "end": 2003.4
+  },
+  {
+    "text": "So there is such a thing as too much arousal from exercise that leads to troughs and arousal that diminish cognitive performance and learning. Now all of this is focused of course on the relationship between exercise and brain function at the acute level the immediate level.",
+    "uid": "a6a2e1ed964585d6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2003.4,
+    "end": 2018.4
+  },
+  {
+    "text": "It's fair to say that all high intensity exercise and resistance training is going to support brain function in the chronic sense in the long term sense in fact the literature points to that.",
+    "uid": "f636cb6f042be27f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2018.4,
+    "end": 2027.4
+  },
+  {
+    "text": "And once again I've batched the references for this episode so that their group together according to the specific topics and timestamps and the two studies that I recommend you look at if you're interested in this relationship between high intensity training and cognitive function in particular executive function that cognitive flexibility I was talking about earlier such as in the stoop task.",
+    "uid": "8c0668309d6e89b1",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2027.4,
+    "end": 2045.4
+  },
+  {
+    "text": "There's a wonderful article entitled executive function after exhaustive exercise that's one to look at and the other one which I think is really nice and therefore I placed there really points to the way that.",
+    "uid": "8cd9929a34cf2af9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2045.4,
+    "end": 2056.4
+  },
+  {
+    "text": "A single bout of exercise can acutely improve brain function in particular executive function in the title of that paper not surprisingly is a single bout of resistance exercise can enhance episodic memory performance.",
+    "uid": "bf32da18a60e65e4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2056.4,
+    "end": 2069.4
+  },
+  {
+    "text": "Here's a fun one as I continue to hammer on this thesis that so many of the positive effects of exercise on brain health and performance at least in the acute sense immediately after the exercise.",
+    "uid": "f0473ba306af34fa",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2069.4,
+    "end": 2080.4
+  },
+  {
+    "text": "Some cases during the exercise are due to a rousal well then it should make sense why things like so called exercise snacks you know this idea that you know throughout the day you you know suddenly do 25 quick jumping jacks or you.",
+    "uid": "4b97a889e9f07ea4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2080.4,
+    "end": 2092.4
+  },
+  {
+    "text": "You know you jump up and down five times or you do 20 air squats.",
+    "uid": "251cbab36c3e8954",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2092.4,
+    "end": 2095.4
+  },
+  {
+    "text": "You know we've heard about exercise snacks in different context such as you know adjusting blood glucose levels you hear a lot about that you know after meals you know take a walk or do some jumping jacks really quick or you know do 20 air squats throughout the day and people talk about the.",
+    "uid": "67c58e5f92980cc4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2095.4,
+    "end": 2109.4
+  },
+  {
+    "text": "The sort of outside positive effects of those will check this out when it comes to high intensity interval training and positive effects on cognitive performance.",
+    "uid": "019856714362dff5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2109.4,
+    "end": 2116.4
+  },
+  {
+    "text": "There's a study entitled the influence of acute sprint interval training on cognitive performance and healthy younger adults and this study has people do.",
+    "uid": "bed7fd41682096a8",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2116.4,
+    "end": 2125.4
+  },
+  {
+    "text": "Six second all out effort you heard that right six seconds.",
+    "uid": "d4dad8b3fcf3b58d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2125.4,
+    "end": 2130.4
+  },
+  {
+    "text": "Okay, so six six seconds always is tricky they always use the same numbers the you know four by four by four.",
+    "uid": "dbf338f02281fed2",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2130.4,
+    "end": 2138.4
+  },
+  {
+    "text": "Okay six yes the number six six second all out efforts.",
+    "uid": "d22bfcd298e215ce",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2138.4,
+    "end": 2143.4
+  },
+  {
+    "text": "Sprinting on basically a stationary bike and then a period of rest of one minute between those six second all out efforts and they see a significant improvement in cognitive performance.",
+    "uid": "c70d619796f2067a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2143.4,
+    "end": 2156.4
+  },
+  {
+    "text": "So yes it's true that you can do very brief very intense bounce of exercise.",
+    "uid": "a134ebc5b4cf1126",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2156.4,
+    "end": 2162.4
+  },
+  {
+    "text": "I mean just think about six seconds of sprinting one minute of just cruise or rest six seconds and then just repeat for six sprint total of six seconds each.",
+    "uid": "b0dd7d7a27c8ff55",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2162.4,
+    "end": 2171.4
+  },
+  {
+    "text": "And experience and enhancement that is an acute or immediate enhancement in cognitive function and I can imagine no other mechanistic explanation for that aside from increased levels of autonomic arousal.",
+    "uid": "47c249fe5a009ab3",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2171.4,
+    "end": 2185.4
+  },
+  {
+    "text": "Any other mechanism that you could envision you know IGF one iris and BDNF things that will talk about in a few minutes yes those might be deployed as well.",
+    "uid": "ce518f5fa975a556",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2185.4,
+    "end": 2195.4
+  },
+  {
+    "text": "But in terms of seeing something so brief having such a fast action on cognitive performance and given what you now know about the relationship between arousal focus and cognitive performance.",
+    "uid": "2692525c5fde6ed1",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2195.4,
+    "end": 2207.4
+  },
+  {
+    "text": "I'd be willing to stake let's say six of my 10 fingers on the idea that it's all due to enhanced autonomic arousal.",
+    "uid": "398eab8e54510792",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2207.4,
+    "end": 2217.4
+  },
+  {
+    "text": "Okay let's talk for a few minutes about the mechanisms by which exercise improves brain health and performance and I realize when I say mechanism some of you may say okay well I just want to know what to do.",
+    "uid": "279aaedff4cc11bc",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2217.4,
+    "end": 2228.4
+  },
+  {
+    "text": "I don't need to hear about the mechanisms but in this case understanding just a little bit about the pathways by which exercise impacts the brain can give you a ton of leverage in designing the best exercise schedule for your brain health and performance and frankly for your exercise schedule generally.",
+    "uid": "22597280a9a4424d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2228.4,
+    "end": 2244.4
+  },
+  {
+    "text": "To generate things like fat loss improvements in strength high-perrophy endurance and so on in fact let's do this mental experiment together.",
+    "uid": "f5e71d24c0b36c3b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2244.4,
+    "end": 2252.4
+  },
+  {
+    "text": "If we were to ask ourselves how is it that exercise improves brain health and performance based on what you know now you'd probably say well it increases arousal the catacolymes so dopamine epinephrine nor epinephrine.",
+    "uid": "fbdf01ed45b34198",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2252.4,
+    "end": 2266.4
+  },
+  {
+    "text": "It probably increases heart rate so more blood pumping to the brain and so on and so forth and you would be correct about all of that.",
+    "uid": "162372377bb264b4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2266.4,
+    "end": 2273.4
+  },
+  {
+    "text": "But let's just think a little bit more deeply about how exercise actually impacts the brain in the short and long term and ask ourselves what are the different physical pathways what are the different chemical pathways by which the movement of our body.",
+    "uid": "292a1ed52f79c4c4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2273.4,
+    "end": 2285.4
+  },
+  {
+    "text": "Change is the way that our brain works in the short and long term.",
+    "uid": "b855fb66bd6ef877",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2285.4,
+    "end": 2289.4
+  },
+  {
+    "text": "So if we were to draw a stick figure of a human and orient ourselves to the different locations or organs in the body that contain potential sources of information for the brain.",
+    "uid": "975a6ca469ba7745",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2289.4,
+    "end": 2301.4
+  },
+  {
+    "text": "One place that we could start would be of course the heart.",
+    "uid": "a3130acf087085f4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2301.4,
+    "end": 2304.4
+  },
+  {
+    "text": "When you do cardiovascular exercise of any kind intense or not so intense short or long your heart rate increases your blood pressure increases.",
+    "uid": "1a96417a2089843e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2304.4,
+    "end": 2312.4
+  },
+  {
+    "text": "Likewise if you do resistance training there will be heart rate increases those heart rate increases will come down between sets.",
+    "uid": "b80e0eea1516c012",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2312.4,
+    "end": 2318.4
+  },
+  {
+    "text": "But your heart rate tends to increase when you exercise that sort of a duh.",
+    "uid": "25b5d89030d154dd",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2318.4,
+    "end": 2323.4
+  },
+  {
+    "text": "Well when your heart rate increases there's actually both increased blood flow to the brain and the delivery of all the things that that blood carries.",
+    "uid": "45617d809e682d8e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2323.4,
+    "end": 2331.4
+  },
+  {
+    "text": "But there are also neural pathways that carry signals about that heart rate about those blood pressure changes to the brain in order to increase our levels of alertness and focus that we can leverage toward learning.",
+    "uid": "af2c45c813d96962",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2331.4,
+    "end": 2342.4
+  },
+  {
+    "text": "So the first location in the body that we know can communicate with the brain is the heart.",
+    "uid": "ac825f6bc8ec8409",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2342.4,
+    "end": 2348.4
+  },
+  {
+    "text": "When our heart beats faster that's communicated to our autonomic nervous system which resides in a number of different brain areas in fact it's a network of brain areas that acting concert to create what we call autonomic arousal.",
+    "uid": "2db099d814dc74ea",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2348.4,
+    "end": 2359.4
+  },
+  {
+    "text": "We also have another pathway that goes back from the brain to the heart and other organs that we call the vagus nerve which is a two directional pathway you know up from the body to the brain and from the brain back to the body.",
+    "uid": "abfa81782c8f47cc",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2359.4,
+    "end": 2369.4
+  },
+  {
+    "text": "We're going to talk a lot about the vagus.",
+    "uid": "2af41978bd43f135",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2369.4,
+    "end": 2372.4
+  },
+  {
+    "text": "In fact let's talk about the vagus now.",
+    "uid": "f8788afdfabed59e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2372.4,
+    "end": 2374.4
+  },
+  {
+    "text": "When we exercise we release adrenaline which is also called epinephrine from our adrenal glands which are small glands that reside at the top of our kidneys.",
+    "uid": "a782be2f6ef80f0b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2374.4,
+    "end": 2384.4
+  },
+  {
+    "text": "That adrenaline or epinephrine as it's also called does many things in our body.",
+    "uid": "c4bdad3943c2542c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2384.4,
+    "end": 2389.4
+  },
+  {
+    "text": "It's responsible for increasing our heart rate further.",
+    "uid": "520f4b1e02ca6aab",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2389.4,
+    "end": 2392.4
+  },
+  {
+    "text": "It's responsible for a number of effects on the so called endothelial cells that make up the vessels and capillaries.",
+    "uid": "3930903e0262307c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2392.4,
+    "end": 2398.4
+  },
+  {
+    "text": "And it has impacts on the neurons in our body that create all sorts of changes in the way that blood flows, how fast it flows and so on and so forth.",
+    "uid": "ad7c945d2225de01",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2398.4,
+    "end": 2406.4
+  },
+  {
+    "text": "Now here's a key thing to understand.",
+    "uid": "6dcf38ec56c8ec25",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2406.4,
+    "end": 2408.4
+  },
+  {
+    "text": "Adrenaline epinephrine does not cross the blood brain barrier.",
+    "uid": "8b9ae9d679bbacca",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2408.4,
+    "end": 2412.4
+  },
+  {
+    "text": "So the adrenaline from our genitals doesn't actually get into the brain to stimulate elevated levels of alertness rather.",
+    "uid": "be7fa9e47c95284b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2412.4,
+    "end": 2418.4
+  },
+  {
+    "text": "It acts on receptors on the vagus nerve.",
+    "uid": "ef3cc639d9448737",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2418.4,
+    "end": 2421.4
+  },
+  {
+    "text": "Again the vagus nerve communicates with the brain and also in the vagus nerve certain brain areas communicate with the body.",
+    "uid": "9714efc985a7c28b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2421.4,
+    "end": 2427.4
+  },
+  {
+    "text": "So adrenaline has a lot of effects within the body.",
+    "uid": "c9ed800bda81c548",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2427.4,
+    "end": 2430.4
+  },
+  {
+    "text": "But when it's released it also acts on so called adrenergic receptors on the vagus nerve.",
+    "uid": "8d685f34343581ff",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2430.4,
+    "end": 2435.4
+  },
+  {
+    "text": "Then the vagus nerve is activated in a way that stimulates the activity of a brain area because remember the vagus goes from the body into the brain.",
+    "uid": "e8b4a5821d3b50aa",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2435.4,
+    "end": 2443.4
+  },
+  {
+    "text": "Stimulates the so called NST and because neuroanatomus like to argue about naming, sometimes it also be called the NTS.",
+    "uid": "333b631b4dfb4ac5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2443.4,
+    "end": 2450.4
+  },
+  {
+    "text": "The nucleus of the solitary tract or the nucleus tractous solataris, super annoying.",
+    "uid": "74b229bc9ef2d7c5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2450.4,
+    "end": 2456.4
+  },
+  {
+    "text": "I know forget the acronym unless you want to know that it's sometimes NST and sometimes it's NTS.",
+    "uid": "fae9babfe0fda0f8",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2456.4,
+    "end": 2461.4
+  },
+  {
+    "text": "Don't ask me why neuroanatomus do this.",
+    "uid": "c171e297f6d8c6a1",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2461.4,
+    "end": 2463.4
+  },
+  {
+    "text": "In any case the NST can then communicate with a really important brain area whose name you should remember, which is the locus serrulius.",
+    "uid": "16da839c37135a16",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2463.4,
+    "end": 2471.4
+  },
+  {
+    "text": "The locus serrulius contains neurons that release among other things, nor epinephrine, which is similar in action to epinephrine but different.",
+    "uid": "0e5a074589e04bdb",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2471.4,
+    "end": 2479.4
+  },
+  {
+    "text": "Neurons in the locus serrulius send those little wires that we call axons into the brain in a very widespread manner.",
+    "uid": "1df3935372a5bfc9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2479.4,
+    "end": 2485.4
+  },
+  {
+    "text": "It's almost as if they are positioned to sprinkler the brain with a neurochemical and that neurochemical is no epinephrine.",
+    "uid": "58b095d01671c3b6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2485.4,
+    "end": 2491.4
+  },
+  {
+    "text": "They also have the capacity to release other neurochemicals but right now we're concentrating on no epinephrine.",
+    "uid": "49bd1c57fb97e4aa",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2491.4,
+    "end": 2496.4
+  },
+  {
+    "text": "When no epinephrine is released from the locus serrulius, it has this tendency to elevate the levels of activity in other brain areas, through this sort of sprinklering like mechanism.",
+    "uid": "c2591936608764e5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2496.4,
+    "end": 2506.4
+  },
+  {
+    "text": "What that means is that other areas of the brain such as your prefrontal cortex such as your hippocampus such as different areas of the hypothalamus and indeed lots of brain circuits all have a greater capacity to be engaged.",
+    "uid": "e76ae61de999e885",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2506.4,
+    "end": 2519.4
+  },
+  {
+    "text": "This is what we're talking about when we talk about autonomic arousal.",
+    "uid": "65d03fa5f513ad97",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2519.4,
+    "end": 2522.4
+  },
+  {
+    "text": "Release of adrenaline from the adrenals that has action within the body elevated heart rate, blood pressure, et cetera.",
+    "uid": "80aaf18486b4c69e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2522.4,
+    "end": 2528.4
+  },
+  {
+    "text": "And then adrenaline also from the adrenals to the vagus from the vagus to the NST and ST to locus serrulius and then locus serrulius sprinklers the brain with this neuroepinephrine raising the levels of baseline activity in all those brain areas and making them more likely to be engaged by things that we're trying to attend to.",
+    "uid": "220912eefa926cdf",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2528.4,
+    "end": 2546.4
+  },
+  {
+    "text": "More likely to engage, say the neurons of the prefrontal cortex that can learn context dependent strategy switching such as an astroup task.",
+    "uid": "cc8a29448035de94",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2546.4,
+    "end": 2554.4
+  },
+  {
+    "text": "Or when we're trying to attend to information and we go, okay, here's something important. I need to pay attention to this. We're able to do that because of that elevated level of neuroepinephrine. It facilitates it's permissive for elevating our levels of attention and focus.",
+    "uid": "5050bf2a0bf92d0a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2554.4,
+    "end": 2567.4
+  },
+  {
+    "text": "It's also permissive for our hippocampus to encode new memories and for a bunch of other brain areas to do their thing so to speak.",
+    "uid": "73c6518ca607e7e0",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2567.4,
+    "end": 2574.4
+  },
+  {
+    "text": "So knowing these mechanisms is actually worthwhile if you've ever heard that exercise can give you energy. This is the basis of that statement. Many people, in fact, myself for many years thought, okay, definitely have to sleep well in order to have energy and focus. That's absolutely true. Still true. We'll always be true.",
+    "uid": "0a9116d4c095333c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2574.4,
+    "end": 2591.4
+  },
+  {
+    "text": "I should maybe have some caffeine be hydrated, well nourished, all this stuff in order to have the energy to exercise.",
+    "uid": "61f7a92086a76296",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2591.4,
+    "end": 2598.4
+  },
+  {
+    "text": "But it's also true that exercise gives us energy and this is how it gives us energy. When we move our body, the adrenal is really adrenaline and the adrenaline acts through two different so-called parallel pathways.",
+    "uid": "181348e664ce63f6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2598.4,
+    "end": 2611.4
+  },
+  {
+    "text": "Within the body, but again, it doesn't cross the blood-bring barrier so then there's a series of what we call signaling relays or circuit relays up to the locus through release.",
+    "uid": "20ddea321852f1b3",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2611.4,
+    "end": 2619.4
+  },
+  {
+    "text": "And then a sort of analog, it's different, but an analog to epinephrine, nor epinephrine is released within the brain. And low and behold, we have elevated levels of both bodily energy and brain energy and focus that we can devote to that exercise.",
+    "uid": "d6639922ce117971",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2619.4,
+    "end": 2633.4
+  },
+  {
+    "text": "Also, to the learning that comes after that exercise, which explains pretty much everything that we've talked about up until now during the course of this podcast.",
+    "uid": "4789cfd1f24a824d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2633.4,
+    "end": 2641.4
+  },
+  {
+    "text": "So the next time you're feeling a little tired and you don't want to work out, remember exercise gives you energy through the pathways that I just described.",
+    "uid": "1f66d26c0b09df4e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2641.4,
+    "end": 2648.4
+  },
+  {
+    "text": "Now, anytime I talk about the adrenals, people start talking about adrenal burnout.",
+    "uid": "7c300376cf810585",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2648.4,
+    "end": 2652.4
+  },
+  {
+    "text": "Say, you burn out your adrenals. You know, these crazy theories that you'll hear out there, you know, coffee burns out your adrenals, not true. You'll hear that if you exercise too much, it might burn out your energy or your adrenals.",
+    "uid": "72a770f563ecc9b9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2652.4,
+    "end": 2663.4
+  },
+  {
+    "text": "Look, you have enough capacity within your adrenals to survive relatively long famines to survive long bouts of challenge stress of many, many different kinds, short challenges and so on.",
+    "uid": "88e6f06cd597679b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2663.4,
+    "end": 2676.4
+  },
+  {
+    "text": "You're not going to burn out your adrenals. There is something called adrenal insufficiency syndrome, which is a real syndrome. There are diseases of the adrenals, but that's not what we're referring to here.",
+    "uid": "a45c0352ce93c938",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2676.4,
+    "end": 2685.4
+  },
+  {
+    "text": "You have plenty of adrenaline in your adrenals that you can deploy through movement, through exercise, to get the elevation and a ralzel attention and so forth that we've been talking about.",
+    "uid": "674b41a9cf2b7a07",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2685.4,
+    "end": 2696.4
+  },
+  {
+    "text": "In fact, there's a set of biological pathways that we're just recently discovered that will allow you to understand how to use movement in order to engage your adrenals so that then those adrenals can release adrenaline impact your vagus impact the organs of your body, the locus, the earliest and elevate your levels of attention and focus.",
+    "uid": "3d196d14312925e4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2696.4,
+    "end": 2714.4
+  },
+  {
+    "text": "And a lot of the core components of these pathways are highlighted in paper that I absolutely love another paper I absolutely love.",
+    "uid": "7df71fc7e82edf49",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2714.4,
+    "end": 2721.4
+  },
+  {
+    "text": "This is from Peter Strix Laboratory at University of Pittsburgh, which is entitled The Mind Body Problem, circuits that linked the cerebral cortex to the adrenal modella.",
+    "uid": "f8a9d74ddae553b4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2721.4,
+    "end": 2731.4
+  },
+  {
+    "text": "The adrenal modella are those adrenals that I've been referring to in the body.",
+    "uid": "80d9a25d06518d05",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2731.4,
+    "end": 2734.4
+  },
+  {
+    "text": "And the question that Peter Strix and colleagues asked was how is it that movement actually gets the adrenals to release adrenaline?",
+    "uid": "691601a4fb5d41a9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2734.4,
+    "end": 2741.4
+  },
+  {
+    "text": "Like what's the signal? Does it come from the muscles? Does it come from, you know, the skeleton?",
+    "uid": "bc6e2b6897232c38",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2741.4,
+    "end": 2747.4
+  },
+  {
+    "text": "It's perfectly reasonable to assume that there are signals that come from the muscles and from the skeleton that cause the adrenals to release adrenaline when we exercise.",
+    "uid": "b1600f786e8ee408",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2747.4,
+    "end": 2755.4
+  },
+  {
+    "text": "But what Strix and colleagues did was actually super clever, they took some new tools that had just become available.",
+    "uid": "aa1f16814fa2aadb",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2756.4,
+    "end": 2762.4
+  },
+  {
+    "text": "These are tools that allow the tracing of neural circuits from organs in the body all the way back up to the brain or from one brain structure to another brain structure and then to yet another brain structure.",
+    "uid": "ce966f3514214ecd",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2762.4,
+    "end": 2773.4
+  },
+  {
+    "text": "We don't have time to go into all the technical details, but this is a technique.",
+    "uid": "6e95fcccde2e5222",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2773.4,
+    "end": 2777.4
+  },
+  {
+    "text": "And that perhaps I'll talk about on a future podcast. It's one that my laboratory used for a number of years to trace other neural pathways.",
+    "uid": "9e5fe9e2639bc270",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2777.4,
+    "end": 2783.4
+  },
+  {
+    "text": "What they discovered is that there are essentially three categories of brain areas, all of which communicate with the adrenals and can cause them to release adrenaline to create this elevation and arousal and attention.",
+    "uid": "17a55a62a27a9c10",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2783.4,
+    "end": 2796.4
+  },
+  {
+    "text": "Those three brain areas include areas of the brain that are involved in thinking, what we call cognition, areas of the brain that are related to what are called effective states, which is just kind of a more general category that includes emotions.",
+    "uid": "f4218a43595e499f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2796.4,
+    "end": 2809.4
+  },
+  {
+    "text": "If you saw the human lab podcast episode that I did with Lisa Feldman Barrett, she explains beautifully the distinction between effective states and emotions.",
+    "uid": "899b858b2d933a17",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2809.4,
+    "end": 2818.4
+  },
+  {
+    "text": "But these are brain areas that basically relate to what we are feeling or how we're perceiving our environment and how we're reacting to it, these sorts of things.",
+    "uid": "c6abf331855710c8",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2818.4,
+    "end": 2826.4
+  },
+  {
+    "text": "And then there's a third category of brain areas that most robustly communicates with the adrenals.",
+    "uid": "920d6a5cb9d2eade",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2826.4,
+    "end": 2832.4
+  },
+  {
+    "text": "And these are a collection of brain areas that are all involved with movement of particular areas of our body.",
+    "uid": "6d2d7c5d369395b9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2832.4,
+    "end": 2838.4
+  },
+  {
+    "text": "These areas are broadly referred to as the motor network, so these are areas of the so-called cerebral cortex, which are on the outer portion of the brain.",
+    "uid": "342e101b2e02cd75",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2838.4,
+    "end": 2845.4
+  },
+  {
+    "text": "And they send these wires down the spinal cord.",
+    "uid": "e05c7425be5769d9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2845.4,
+    "end": 2848.4
+  },
+  {
+    "text": "There's a little relay in the spinal cord.",
+    "uid": "0d9b409a7260ff00",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2848.4,
+    "end": 2851.4
+  },
+  {
+    "text": "It's called the IML.",
+    "uid": "44fa41c38ed7733c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2851.4,
+    "end": 2852.4
+  },
+  {
+    "text": "If you're interested in the anatomical details, I'll put the link to this paper in the show note captions.",
+    "uid": "0e96e82cf4b1abf0",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2852.4,
+    "end": 2858.4
+  },
+  {
+    "text": "In any case, these brain areas that are involved in motor movement send axons, those wires down to the spinal cord, then from the spinal cord.",
+    "uid": "aad0391f74337ab7",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2858.4,
+    "end": 2867.4
+  },
+  {
+    "text": "They're send a relay out via what's called the co-inertic pre-ganglionic neurons.",
+    "uid": "51cc772bf6dd614d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2867.4,
+    "end": 2872.4
+  },
+  {
+    "text": "Basically, what ends up happening is that acetylcholine, which is a neuromodulator, is released from these neurons that originate in the spinal cord.",
+    "uid": "d08b01c3116fc4ff",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2872.4,
+    "end": 2880.4
+  },
+  {
+    "text": "On to the adrenal modella, and then the adrenal modella, the so-called adrenals, same thing, adrenal modella, adrenals, releases adrenaline.",
+    "uid": "b374f0bea1593460",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2880.4,
+    "end": 2888.4
+  },
+  {
+    "text": "That creates these effects in the body on the heart, the muscles, and other tissues.",
+    "uid": "a3318518cbabb40c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2888.4,
+    "end": 2892.4
+  },
+  {
+    "text": "And then, as described before, that adrenaline also acts on the vagus, the vagus, up to the NST, look as serulious, and we have this elevation and alertness.",
+    "uid": "1da66a34bb16b7f1",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2892.4,
+    "end": 2900.4
+  },
+  {
+    "text": "So this paper and papers that came subsequent to it really explain how it is that the movement of our body, A.K.A. exercise,",
+    "uid": "f9676ca1d58f927b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2900.4,
+    "end": 2909.4
+  },
+  {
+    "text": "allows us to have this elevation in arousal and alertness.",
+    "uid": "754a9a360210918b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2909.4,
+    "end": 2913.4
+  },
+  {
+    "text": "It's a loop. The adrenals release adrenaline. They do these things by these two parallel pathways I've been talking about.",
+    "uid": "ebc35c564517b7a0",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2913.4,
+    "end": 2919.4
+  },
+  {
+    "text": "But your decision to engage these motor areas, to move particular areas of your body, is what deploys that adrenaline.",
+    "uid": "f06b8c5d27ab18fe",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2919.4,
+    "end": 2927.4
+  },
+  {
+    "text": "Now, you might be thinking, well, duh.",
+    "uid": "ded876f5a0284793",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2927.4,
+    "end": 2929.4
+  },
+  {
+    "text": "Okay, when I exercise, there's a adrenaline release, in order to exercise, I need to move my body, and these brain areas control the movement of my body.",
+    "uid": "a1e424461dd42156",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2929.4,
+    "end": 2936.4
+  },
+  {
+    "text": "But it's not a duh. It's actually very profound because it turns out that the specific brain areas that best activate the adrenals, are the brain areas that control the muscles closest to the midline, the core musculature,",
+    "uid": "717871581f2a8f7c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2936.4,
+    "end": 2951.4
+  },
+  {
+    "text": "and the brain areas that are involved in generating the sorts of movements that we would call compound movements, at least in the context of resistance training, or that are responsible for moving multiple joints at the same time.",
+    "uid": "a54da03b5dcabaf4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2951.4,
+    "end": 2963.4
+  },
+  {
+    "text": "So what this means in the practical senses, if you are feeling sluggish, you want energy, or you're simply exercising both for bodily effects and for brain effects, you need the deployment of adrenaline of epinephrine.",
+    "uid": "a003f4d5b5d3d9ab",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2963.4,
+    "end": 2976.4
+  },
+  {
+    "text": "You need the deployment of Norepinephrine in the brain. And by the way, any time you have a deployment of Norepinephrine in the brain, almost always, there's a coordinated action of release of dopamine, which most people have heard of by now dopamine is involved in motivation, as well as a movement, et cetera.",
+    "uid": "22cc141343bc75d5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2976.4,
+    "end": 2992.4
+  },
+  {
+    "text": "So the simple takeaway here is if you want to get the arousal that comes from exercise in order to use that arousal to leverage it towards better cognition, brain health, et cetera, the key thing is to make sure that you're doing exercises that are compound exercises.",
+    "uid": "f0c7d3410dc48e8d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 2992.4,
+    "end": 3007.4
+  },
+  {
+    "text": "So these would be the movements you can look these up, just say compound exercises, you can put that anywhere and you'll see that that includes things like squats, dead lifts, bench presses, dips, pull ups, rows.",
+    "uid": "519f4c809aa8e500",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3007.4,
+    "end": 3018.4
+  },
+  {
+    "text": "And yes, of course, you want to train your whole body so that you have symmetry of a function of strength and you want to offset any injuries and things of that sort, or aesthetic reasons, perhaps.",
+    "uid": "276878f04e7433e7",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3018.4,
+    "end": 3028.4
+  },
+  {
+    "text": "But the idea here is if you want energy from exercise, you want focus, you need the deployment of the Norechemicals that we've been discussing, most notably epinephrine in Norepinephrine.",
+    "uid": "649d31b9e86460cc",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3028.4,
+    "end": 3037.4
+  },
+  {
+    "text": "And through the identification of this motor network, as well as the effective incognitive networks that converge on this area of the spinal cord and then send communication to the adrenal medella, you can essentially control the levels of arousal that your body and brain produces.",
+    "uid": "72991c9fe20698e9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3037.4,
+    "end": 3055.4
+  },
+  {
+    "text": "So in describing this, my hope is that you'll no longer think about exercise as just elevating your heart rate, or you no longer think about exercise, just as moving your body.",
+    "uid": "40e5ba57aac1767a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3055.4,
+    "end": 3063.4
+  },
+  {
+    "text": "But rather that the movement of your body is creating specific neurochemical outcomes, both in the body and the brain that create the arousal that initiates the improvements in focus and attention that allow you to learn better and that contribute generally to brain health and longevity.",
+    "uid": "63347db64cbdbc10",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3063.4,
+    "end": 3079.4
+  },
+  {
+    "text": "And of course, you'll face the genados out there, we'll remind me I'm sure, but I'm going to be just a punchier.",
+    "uid": "f92c8ea4329e0b5a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3079.4,
+    "end": 3085.4
+  },
+  {
+    "text": "Yes, your hypothalamus is also talking to your pituitary, which releases certain chemicals into your bloodstream, which also go to your adrenals to cause your adrenals to deploy both adrenaline, epinephrine as well as cortisol.",
+    "uid": "4e964fd44095c4cd",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3085.4,
+    "end": 3099.4
+  },
+  {
+    "text": "That pathway is still intact, okay? But that's a slightly slower pathway. Here I'm focusing on the neural pathways, some of which have only recently been discovered in the last five or ten years.",
+    "uid": "7a6b514e04f5a732",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3099.4,
+    "end": 3109.4
+  },
+  {
+    "text": "That work very, very fast to generate the sorts of arousal that are relevant to brain function and brain longevity, okay? Nothing has changed in terms of the old story about how the brain impacts the adrenal, that's all still there.",
+    "uid": "b269edd78c6053ea",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3109.4,
+    "end": 3122.4
+  },
+  {
+    "text": "But here we're into the modern stuff. And by the way, for those of you that are interested in things like psychosomatic disorders, trauma and how trauma can, quote, unquote, be stored in the body and not so much stored in the body, but how it can impact the body and then how the body itself can impact the brain.",
+    "uid": "9fc4f0e58559dfbe",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3122.4,
+    "end": 3139.4
+  },
+  {
+    "text": "This paper has also been used as support for the idea that indeed those effective areas, those emotional areas, those cognitive areas, have a route by which they can communicate with the adrenal medella to cause the release of adrenaline when we have specific thoughts.",
+    "uid": "a01bdb5a84b0668f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3139.4,
+    "end": 3153.4
+  },
+  {
+    "text": "It was always known that if we have specific thoughts, it can, quote, unquote, stress us out, our heart rate can go up, et cetera.",
+    "uid": "b268f06ba0ba0f36",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3153.4,
+    "end": 3158.4
+  },
+  {
+    "text": "This paper also provides a reasonable anatomical substrate for that phenomenon. You know, I never want to make too much of any one single paper or finding,",
+    "uid": "9ac1ae93d5e43e69",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3158.4,
+    "end": 3167.4
+  },
+  {
+    "text": "but I will say that after I read that paper from Strick and colleagues and through some of the subsequent discussions about that paper that I overheard at meetings and so forth,",
+    "uid": "a35c2b09b49ac5a4",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3167.4,
+    "end": 3175.4
+  },
+  {
+    "text": "it really made me think differently about exercise and now anytime that I'm feeling tired, provided that I'm not chronically sleep deprived or something of that sort.",
+    "uid": "068524e7b1aa6f27",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3175.4,
+    "end": 3183.4
+  },
+  {
+    "text": "I remind myself that if I start moving my body, in particular, if I engage core muscles, that was one of the key findings in that paper that the areas of the brain that control the core muscles, as well as do compound movements.",
+    "uid": "73155583b90874d2",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3183.4,
+    "end": 3195.4
+  },
+  {
+    "text": "I move multiple joints. I start warming up in a way that includes some, you know, maybe even just air squads or some running in place or jumping jacks, things of that sort.",
+    "uid": "d9e991c44d0d5569",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3195.4,
+    "end": 3204.4
+  },
+  {
+    "text": "That the increase in energy that I'm perceiving is real. It's based on the same neurochemical outputs that would occur had I gone into the gym or to the run or whatever work out with tons of energy.",
+    "uid": "41f8259c6d4a4bd0",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3204.4,
+    "end": 3215.4
+  },
+  {
+    "text": "It would just have increased the level of adrenal and further.",
+    "uid": "13d0cc890b9839aa",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3215.4,
+    "end": 3218.4
+  },
+  {
+    "text": "So this idea that we can actually control our body with our mind and to some extent our mind with our body that's absolutely true.",
+    "uid": "7f869018a8639208",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3218.4,
+    "end": 3226.4
+  },
+  {
+    "text": "And this is one of the tools that I find particularly useful anytime I want to overcome that wall of kind of resistance to not doing the physical exercise that I know I and basically all of us should be doing.",
+    "uid": "f0b52af84fd87c90",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3226.4,
+    "end": 3237.4
+  },
+  {
+    "text": "I'd like to take a quick break and thank one of our sponsors function.",
+    "uid": "d227f48323d6b87a",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3237.4,
+    "end": 3241.4
+  },
+  {
+    "text": "I recently became a function member after searching for the most comprehensive approach to lab testing.",
+    "uid": "86ea68eb222c71a6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3241.4,
+    "end": 3246.4
+  },
+  {
+    "text": "While I've long been a fan of blood testing, I really wanted to find a more in-depth program for analyzing blood, urine and saliva to get a full picture of my heart health, my hormone status, my immune system regulation, my metabolic function, my vitamin and mineral status, and other critical areas of my overall health and vitality.",
+    "uid": "6a60d4d065f46e4f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3246.4,
+    "end": 3264.4
+  },
+  {
+    "text": "Function not only provides testing of over 100 biomarkers key to physical and mental health, but it also analyzes these results and provides insights from doctors on your results.",
+    "uid": "3b1289f172b0f2ea",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3264.4,
+    "end": 3274.4
+  },
+  {
+    "text": "For example, in one of my first tests with function, I learned that I had two high levels of mercury in my blood.",
+    "uid": "adf09dbec6ea739e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3274.4,
+    "end": 3280.4
+  },
+  {
+    "text": "This was totally surprising to me. I had no idea prior to taking the test.",
+    "uid": "bf955a9c0600668b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3280.4,
+    "end": 3284.4
+  },
+  {
+    "text": "Function not only helped me detect this, but offered medical doctor informed insights on how to best reduce those mercury levels, which included limiting my tuna consumption,",
+    "uid": "d3ba6f6d418c11f6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3284.4,
+    "end": 3294.4
+  },
+  {
+    "text": "because I had been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with knack and a seedle cysteine.",
+    "uid": "f86cea4918906c74",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3294.4,
+    "end": 3301.4
+  },
+  {
+    "text": "Both of which can support glutathione production and detoxification and worked to reduce my mercury levels.",
+    "uid": "cc03b255cff37882",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3301.4,
+    "end": 3307.4
+  },
+  {
+    "text": "Comprehensive lab testing like this is so important for health and while I've been doing it for years, I've always found it to be overly complicated and expensive.",
+    "uid": "ed49c883062a882d",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3307.4,
+    "end": 3314.4
+  },
+  {
+    "text": "I've been so impressed by function, both at the level of ease of use that is getting the test done as well as how comprehensive and how actionable the tests are that I recently joined their advisory board.",
+    "uid": "e9a38a9565aafcbd",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3314.4,
+    "end": 3325.4
+  },
+  {
+    "text": "And I'm thrilled that they're sponsoring the podcast. If you'd like to try function, go to functionhealth.com slash huberman.",
+    "uid": "e1c65fa26d3b0314",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3325.4,
+    "end": 3332.4
+  },
+  {
+    "text": "Function currently has a weight list of over 250,000 people, but they're offering early access to huberman lab listeners.",
+    "uid": "c78fdb3dad4c9a57",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3332.4,
+    "end": 3339.4
+  },
+  {
+    "text": "Again, that's functionhealth.com slash huberman to get early access to function.",
+    "uid": "8736e8562919629b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3339.4,
+    "end": 3344.4
+  },
+  {
+    "text": "Okay, so let's think just a little bit more about how the body communicates with the brain sharing exercise.",
+    "uid": "ca1e130d0c6ab0d2",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3344.4,
+    "end": 3349.4
+  },
+  {
+    "text": "Both in order to understand the mechanisms by which exercise improves brain health and function, but also ways that we can leverage that to improve brain health and function by using exercise.",
+    "uid": "706b90af0f4664f9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3349.4,
+    "end": 3361.4
+  },
+  {
+    "text": "One of the more interesting and powerful and indeed surprising ways that the body communicates with the brain sharing exercise to improve brain health.",
+    "uid": "65d993320a8eb46b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3361.4,
+    "end": 3368.4
+  },
+  {
+    "text": "And indeed our ability to remember things and to learn is the way that our bones are skeleton when they're under loads.",
+    "uid": "533db30c10382b5f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3368.4,
+    "end": 3376.4
+  },
+  {
+    "text": "Okay, when they experience mechanical stress, not severe mechanical stress that would break them but but mechanical stress, they release hormones in particular something called osteocalcin.",
+    "uid": "c052b906f2bb6aed",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3376.4,
+    "end": 3387.4
+  },
+  {
+    "text": "You might be thinking, wait, the bones release hormones, yes, your bones release hormones, one of which is called osteocalcin.",
+    "uid": "d769cc7e3a0fc191",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3387.4,
+    "end": 3394.4
+  },
+  {
+    "text": "osteocalcin is an incredible molecule animal studies that were done mainly at Columbia School of Medicine, but later also at Columbia and elsewhere in humans have shown that osteocalcin is released from the bones during exercise both in mice and in humans.",
+    "uid": "6b609cedf6e48ca5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3394.4,
+    "end": 3408.4
+  },
+  {
+    "text": "Travels to the brain so it can cross the blood brain barrier and there it can encourage the growth of neurons and their connections within the hippocampus and area of the brain that's vitally important for the encoding of new memories and there are some data.",
+    "uid": "0d013d6f0c0b8cd5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3408.4,
+    "end": 3422.4
+  },
+  {
+    "text": "Not a ton but there's some data which suggests that perhaps I want to highlight under score and bold face perhaps.",
+    "uid": "f966967a93289664",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3422.4,
+    "end": 3430.4
+  },
+  {
+    "text": "Can increase the number of neurons in the so called dentate chiroose of the hippocampus to allow even better capacity for memory.",
+    "uid": "391554dc43348981",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3430.4,
+    "end": 3436.4
+  },
+  {
+    "text": "Now osteocalcin is therefore a really interesting molecule, it comes from bones travels to the brain improves functioning of the hippocampus which is important for learning and memory.",
+    "uid": "259ec284b4babfe6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3436.4,
+    "end": 3446.4
+  },
+  {
+    "text": "That's amazing and it does so impart through the actions of something that most of you perhaps have heard of which is called BDNF or brain derived nitrophic factor.",
+    "uid": "cac4df17a70e7b17",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3446.4,
+    "end": 3457.4
+  },
+  {
+    "text": "Now it's very important for us to understand that anytime we hear about exercise increases a growth factor and by the way exercise increases brain derived nitrophic factor it increases growth factors that cause the growth of endothelial cells.",
+    "uid": "a4ac6f0c0a160a0b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3457.4,
+    "end": 3469.4
+  },
+  {
+    "text": "So blood vessels will talk more about that in a moment and it increases nerve growth factors not just BDNF there are lots of different growth factors a few of which NGF and BDNF act on neurons and other growth factors that act on endothelial cells vascular.",
+    "uid": "1adfd0d884193412",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3469.4,
+    "end": 3484.4
+  },
+  {
+    "text": "It seems that a lot of the effects of BDNF on the brain that are caused by doing exercise and that benefit us in terms of short and long term memory or ability to encode new things and remember them for long periods of time to resist age related.",
+    "uid": "934ee14810505e97",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3485.4,
+    "end": 3499.4
+  },
+  {
+    "text": "Degeneration because that's the case indeed that our hippocampus decreases in volume over time as we age just naturally even in somebody that doesn't have Alzheimer's dementia.",
+    "uid": "2ff0d3ff8e6b56be",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3499.4,
+    "end": 3509.4
+  },
+  {
+    "text": "And exercise can adjust the slope of that decline significantly provided there's enough exercise and the appropriate exercise.",
+    "uid": "d5e7951b043aa69c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3509.4,
+    "end": 3518.4
+  },
+  {
+    "text": "I don't think all but many of the effects of BDNF appear to be mediated by osteocalcin.",
+    "uid": "14255816b73a129f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3518.4,
+    "end": 3524.4
+  },
+  {
+    "text": "What this means is that any exercise program that's designed not just to benefit our body but also our brain health and performance should do something to load the skeleton in some sort of impactful way that causes the release of osteocalcin.",
+    "uid": "58e6aab532120a50",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3524.4,
+    "end": 3540.4
+  },
+  {
+    "text": "Now unfortunately there has not been a systematic exploration of the specific types of exercise that best cause the release of osteocalcin in humans.",
+    "uid": "ad78ec3aad0df8a6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3540.4,
+    "end": 3549.4
+  },
+  {
+    "text": "But based on what we understand about how osteocalcin is made and released it seems reasonable to assume and reasonable to employ some exercise within your weekly exercise that involves jumping of some sort in particular jumping where you have to control the eccentric or landing portion of that jump.",
+    "uid": "6b61ecc69d96c8e6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3549.4,
+    "end": 3568.4
+  },
+  {
+    "text": "Now I'm certainly not the first to talk about this it's been discussed in a different context that is jumping and landing has been discussed in a different context namely by Peter Atia and others who've talked about the fact that as people age one of the primary causes of mortality are the infections and the lack of mobility caused by falls.",
+    "uid": "dd4e4c59b037dda6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3568.4,
+    "end": 3589.4
+  },
+  {
+    "text": "That people generally have when they're going downstairs or down thing stepping down as a common source of falls falls or common source of breaking things breaking things as a common source of inactivity and inactivity as a common source of infections and other things that lead to earlier mortality.",
+    "uid": "0b574f60e00991e8",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3589.4,
+    "end": 3605.4
+  },
+  {
+    "text": "What this means for all of us young middle age and old is that we should include some form of jumping in our weekly exercise. Now you could imagine doing that within your high-intensity interval training provided you can do it safely and not get injured.",
+    "uid": "496310debe2b5615",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3605.4,
+    "end": 3619.4
+  },
+  {
+    "text": "But this is also a call for all of us to think about including say some jumping rope and if you're going to jump rope maybe not just jumping you know a centimeter off the ground to be able to just consistently skip skip skip skip along but maybe doing some high knees maybe doing some double unders if you can do those.",
+    "uid": "33af04c3db21f146",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3619.4,
+    "end": 3635.4
+  },
+  {
+    "text": "Perhaps doing some box jumps so jumping off boxes of different heights again what you can do safely without getting injured.",
+    "uid": "a6653e879f3f0037",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3635.4,
+    "end": 3641.4
+  },
+  {
+    "text": "No doubt is going to provide load to the skeleton I guess unless you're doing it underwater and outer space it's hard to imagine how it wouldn't and that seems to me like the most direct way to employ this osteocalcin pathway.",
+    "uid": "5140f48149ed9e0b",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3641.4,
+    "end": 3654.4
+  },
+  {
+    "text": "This pathway from the bones to the brain and neurogenesis and the hippocampus I do believe is likely to underlie a lot of the enhancement of learning and memory that seen in terms of the chronic effects of exercise on brain health and brain function over time.",
+    "uid": "88ad6a419918ed0f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3654.4,
+    "end": 3672.4
+  },
+  {
+    "text": "That is not just the things that exercise does via arousal in the minutes and hours after exercise but the way that exercise can improve literally the size and structure of one of the most critical structures in our brain that's responsible for learning and memory the hippocampus.",
+    "uid": "ff396d0174b4f97c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3672.4,
+    "end": 3689.4
+  },
+  {
+    "text": "Of course there are a lot of other ways that the body communicates with the brain we definitely don't have time to go through all of them but it's worth thinking about a few of them logically just in terms of listing them off and thinking about how they might communicate with the brain to improve brain health and longevity.",
+    "uid": "7077d11474f45612",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3689.4,
+    "end": 3703.4
+  },
+  {
+    "text": "When you exercise you utilize fuel differently depending on whether or not you're relying on glycogen or fatty acids and of course it's going to depend on how long you've been exercising and the type of exercise and what you're using for fuel literally the foods you eat etc.",
+    "uid": "e8a8a1ce554e8b63",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3703.4,
+    "end": 3718.4
+  },
+  {
+    "text": "You're going to have time to go into all of that but get this turns out that there are a liver to brain neural pathways.",
+    "uid": "e13a12690afa4e73",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3718.4,
+    "end": 3724.4
+  },
+  {
+    "text": "So your liver can communicate with neurons and other cells in your brain including the glial cells the cells that are important for regulating energy metabolism and a bunch of other things too.",
+    "uid": "f010569603d812dd",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3724.4,
+    "end": 3736.4
+  },
+  {
+    "text": "Your liver can communicate to your brain both through neural pathways and by releasing things into your bloodstream that then communicate to your brain.",
+    "uid": "235d054e47dec2b6",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3736.4,
+    "end": 3744.4
+  },
+  {
+    "text": "Oh the body is using a different source of fuel it's been using different sources or combinations of fuels for the last 20 minutes maybe you should adjust your brain state in order to be able to cope with that or in response to that.",
+    "uid": "9d0d39a7f9eaa19c",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3744.4,
+    "end": 3756.4
+  },
+  {
+    "text": "And of course there are other organs in the body that are communicating with the brain also your diaphragm for instance is communicating with your brain through indirect pathways about how you're breathing during exercise and of course your brain is controlling your diaphragm to via a number of stations including the pathway that includes the frenic nerve which controls the diaphragm.",
+    "uid": "09204e834bb535c1",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3756.4,
+    "end": 3776.4
+  },
+  {
+    "text": "The point here is that once you start exercising of course that has an impact on the organs in your body they change the way that they're functioning your heart your liver your adrenals your skeleton literally your bones and of course your muscles.",
+    "uid": "ad94bf0430d209b5",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3776.4,
+    "end": 3789.4
+  },
+  {
+    "text": "And they are releasing things that impact brain function either directly or indirectly.",
+    "uid": "5961217f3dacf055",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3789.4,
+    "end": 3795.4
+  },
+  {
+    "text": "Once you start thinking about exercise in that context even if we don't parse each and every one of those pathways individually you can start thinking about exercise as a multifactorial way of enhancing.",
+    "uid": "c3e807e9245e9e24",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3795.4,
+    "end": 3808.4
+  },
+  {
+    "text": "And changing brain activity so that it positions it to learn better in the subsequent hours and days as well as modifying areas of the brain like the hippocampus by making certain brain areas literally bigger more powerful at engaging the sorts of things that they do in the case of the hippocampus learning in the case of the prefrontal cortex context dependent decision making updating strategies these sorts of things.",
+    "uid": "0c61ff5291822f9e",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3808.4,
+    "end": 3831.4
+  },
+  {
+    "text": "And generally speaking exercise causes the release of things like BDNA brain deradentrophic factor and nerve growth factor that enhance the health and stability of existing neuron connections and something that is very rarely if ever discussed publicly not because it's some sort of secret that people want to keep but I just don't hear it discussed is that BDNA is an activity dependent molecule it's a molecule that can serve to stabilize and enhance the growth of neurons.",
+    "uid": "4840064263666e09",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3831.4,
+    "end": 3860.4
+  },
+  {
+    "text": "Keep their connections in place grow new connections and it does so when neurons are active so the point is that BDNA has to be released in order for that to happen but the release of BDNA itself is activity dependent and it acts best on neurons that are already active.",
+    "uid": "632a54fa2c11a8fd",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3860.4,
+    "end": 3878.4
+  },
+  {
+    "text": "If ever there was a mechanism that could explain why it is that people that exercise regularly seem to maintain healthier brains into later life it's that one it's that BDNA is activity dependent when I say activity dependent I mean the electrical activity of neurons is what causes the release of BDNA and then once BDNA is released it has the best opportunity to stabilize and enhance the growth of existing neurons if those other neurons are already active.",
+    "uid": "8472039875843b30",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3878.4,
+    "end": 3905.4
+  },
+  {
+    "text": "Now if we were to list off all the different pathways and mechanisms by which exercise improves brain health and performance it would be a list of probably I don't know somewhere between 40 and 100 different molecular pathways and probably.",
+    "uid": "1f01ca4c42a5850f",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3905.4,
+    "end": 3921.4
+  },
+  {
+    "text": "I don't know somewhere between 12 and 20 different anatomical pathways and we certainly don't have time for all that I don't think that's what you're interested in I've tried to highlight some of the key ones today.",
+    "uid": "05915c19557c7507",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3921.4,
+    "end": 3931.4
+  },
+  {
+    "text": "One additional one that I'd like to highlight is the lactate pathway or the impact of lactate when we exercise this is getting discussed more and more these days on podcast and elsewhere.",
+    "uid": "630b72321d7d4098",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3931.4,
+    "end": 3941.4
+  },
+  {
+    "text": "One interesting finding for instance is that lactate is what's produced when we exercise intensely our muscles produce lactate and lactate is a very powerful appetite suppressive.",
+    "uid": "70ca73bcdc528ec9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3941.4,
+    "end": 3952.4
+  },
+  {
+    "text": "Some of you may be saying when I exercise hard I get really really hungry well that may be true, but it's also true that if you exercise really really hard and then you hydrate well and you wait a little while oftentimes that hunger will subside.",
+    "uid": "43d95966f1ba77a9",
+    "source": "Andrew_Huberman - How_to_Use_Exercise_to_Improve_Your_Brain_s_Health_Longevity_P",
+    "start": 3952.4,
+    "end": 3968.4
+  }
+]
