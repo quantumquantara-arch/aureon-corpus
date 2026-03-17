@@ -1,0 +1,3726 @@
+[
+  {
+    "text": "The following is a conversation with Dimitri Korkin.",
+    "uid": "0c0829bc0191b548",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 0.0,
+    "end": 2.76
+  },
+  {
+    "text": "He's a professor of bion of phirmatics",
+    "uid": "9b46e722b54b054c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2.76,
+    "end": 4.56
+  },
+  {
+    "text": "and computational biology at WPI, Worcester Polytechnic Institute,",
+    "uid": "46d326f0cf416866",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 4.56,
+    "end": 9.28
+  },
+  {
+    "text": "where he specializes in bion of phirmatics",
+    "uid": "008ed14283a87e8b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 9.28,
+    "end": 11.4
+  },
+  {
+    "text": "of complex diseases, computational genomics,",
+    "uid": "f049b7a2dccf6fe2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 11.4,
+    "end": 14.64
+  },
+  {
+    "text": "systems biology, and biomedical data analytics.",
+    "uid": "b86a8a66ef02b8db",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 14.64,
+    "end": 18.36
+  },
+  {
+    "text": "I came across Dimitri's work",
+    "uid": "423b3f22d3196ded",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 18.36,
+    "end": 20.36
+  },
+  {
+    "text": "when in February his group used the viral genome",
+    "uid": "480aeedec35442cd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 20.36,
+    "end": 23.44
+  },
+  {
+    "text": "of the COVID-19 to reconstruct the three",
+    "uid": "7500e90cf4148f09",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 23.44,
+    "end": 26.6
+  },
+  {
+    "text": "destructural mismatche of viral proteins.",
+    "uid": "93f25483d744feba",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 26.6,
+    "end": 29.04
+  },
+  {
+    "text": "And their interaction with the human proteins.",
+    "uid": "6006fd7938be20d2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 29.04,
+    "end": 32.4
+  },
+  {
+    "text": "In effect, creating a structural genomics map",
+    "uid": "89005705eccc1d07",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 32.4,
+    "end": 34.96
+  },
+  {
+    "text": "of the coronavirus and making this data open",
+    "uid": "6e817f2cbac44d8a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 34.96,
+    "end": 37.56
+  },
+  {
+    "text": "and available to researchers everywhere.",
+    "uid": "64276147ab545d4c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 37.56,
+    "end": 40.24
+  },
+  {
+    "text": "We talked about the biology of COVID-19, SARS,",
+    "uid": "c87deba618e746c2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 40.24,
+    "end": 43.04
+  },
+  {
+    "text": "and viruses in general, and how computational methods",
+    "uid": "7193bdf39e188afc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 43.04,
+    "end": 46.32
+  },
+  {
+    "text": "can help us understand their structure",
+    "uid": "7f94a2b2c3c030fc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 46.32,
+    "end": 48.4
+  },
+  {
+    "text": "and function in order to develop anti-viral drugs and vaccines.",
+    "uid": "01182f75c815c4b8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 48.4,
+    "end": 54.08
+  },
+  {
+    "text": "This conversation was recorded recently",
+    "uid": "eb89552199b9d34b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 54.08,
+    "end": 56.36
+  },
+  {
+    "text": "in the time of the coronavirus pandemic.",
+    "uid": "46e9dba3a459e05a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 56.36,
+    "end": 58.72
+  },
+  {
+    "text": "For everyone feeling the medical psychological and financial burden",
+    "uid": "196b9bf2d580392f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 58.72,
+    "end": 61.96
+  },
+  {
+    "text": "of the crisis, I'm sending love, your way.",
+    "uid": "ffd64ede540d466d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 61.96,
+    "end": 64.84
+  },
+  {
+    "text": "We're in this together.",
+    "uid": "205d9df6d3773cbc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 65.8,
+    "end": 66.88
+  },
+  {
+    "text": "We'll be this thing.",
+    "uid": "c467c3b57edcd431",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 66.88,
+    "end": 69.08
+  },
+  {
+    "text": "This is the Artificial Intelligence podcast.",
+    "uid": "a05a016e0a72685a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 69.08,
+    "end": 71.56
+  },
+  {
+    "text": "If you enjoy it, subscribe on YouTube,",
+    "uid": "dcad63a42721f627",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 71.56,
+    "end": 73.68
+  },
+  {
+    "text": "review it with five stars in Apple podcast,",
+    "uid": "2e7331ad07815315",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 73.68,
+    "end": 76.08
+  },
+  {
+    "text": "support it on Patreon, or simply connect with me on Twitter,",
+    "uid": "e18885352ef9c160",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 76.08,
+    "end": 79.4
+  },
+  {
+    "text": "at Lex Friedman spelled FRID-MAN.",
+    "uid": "8d2fae6bb250ff81",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 79.4,
+    "end": 83.48
+  },
+  {
+    "text": "This show is presented by CashApp, the number one finance app",
+    "uid": "113cb5ac1a43dc89",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 83.48,
+    "end": 86.8
+  },
+  {
+    "text": "in the app store.",
+    "uid": "06494aa0c3f54b1e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 86.8,
+    "end": 87.8
+  },
+  {
+    "text": "When you get it, use Code Lex podcast.",
+    "uid": "7c4348ba6888f65e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 87.8,
+    "end": 90.64
+  },
+  {
+    "text": "CashApp, let's use my friends by Bitcoin",
+    "uid": "008c0ed527d3afcb",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 90.64,
+    "end": 93.76
+  },
+  {
+    "text": "and invest in the stock market with his little is $1.",
+    "uid": "75631393332f0788",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 93.76,
+    "end": 96.8
+  },
+  {
+    "text": "Since CashApp allows you to buy Bitcoin,",
+    "uid": "00a0761f1fb23b84",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 96.8,
+    "end": 98.96
+  },
+  {
+    "text": "let me mention that cryptocurrency",
+    "uid": "5656dd48eeb40977",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 98.96,
+    "end": 100.96
+  },
+  {
+    "text": "in the context of the history of money is fascinating.",
+    "uid": "456c24b6215572ed",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 100.96,
+    "end": 104.08
+  },
+  {
+    "text": "I recommend a scent of money",
+    "uid": "d05822b4c3aa5d1f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 104.08,
+    "end": 106.16
+  },
+  {
+    "text": "as a great book on this history.",
+    "uid": "3962df693d028bcc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 106.16,
+    "end": 108.28
+  },
+  {
+    "text": "That puts in credits on ledgers started around 30,000 years ago.",
+    "uid": "0fcf480ada4d526b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 108.28,
+    "end": 112.84
+  },
+  {
+    "text": "The US dollar created over 200 years ago.",
+    "uid": "b06eb0b880b5886b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 112.84,
+    "end": 115.76
+  },
+  {
+    "text": "And Bitcoin, the first decentralized cryptocurrency",
+    "uid": "2f7cc30519ee867a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 115.76,
+    "end": 118.48
+  },
+  {
+    "text": "released just over 10 years ago.",
+    "uid": "d55a644403e5cddb",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 118.48,
+    "end": 120.68
+  },
+  {
+    "text": "So given that history, cryptocurrency is still very much",
+    "uid": "56561aa54231c6e3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 120.68,
+    "end": 124.2
+  },
+  {
+    "text": "in its early days of development,",
+    "uid": "96af495c1b6f4ff9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 124.2,
+    "end": 126.08
+  },
+  {
+    "text": "but it's still aiming to and just my redefined",
+    "uid": "76f15630f82eeff0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 126.08,
+    "end": 129.52
+  },
+  {
+    "text": "the nature of money.",
+    "uid": "6914397b88c3b2bc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 129.52,
+    "end": 132.86
+  },
+  {
+    "text": "So again, if you get CashApp from the App Store, Google Play,",
+    "uid": "cf1b0ab552a01456",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 132.86,
+    "end": 136.1
+  },
+  {
+    "text": "and use the Code Lex podcast, you get $10,",
+    "uid": "68a9bb694979e260",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 136.1,
+    "end": 139.46
+  },
+  {
+    "text": "and CashApp will also donate $10 the first.",
+    "uid": "62a43b545a1d6ccb",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 139.46,
+    "end": 142.26
+  },
+  {
+    "text": "An organization that is helping to invest robotics",
+    "uid": "a2a0a5a0170e2da6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 142.26,
+    "end": 145.06
+  },
+  {
+    "text": "and STEM education for young people around the world.",
+    "uid": "ecaff9dc6adc74bf",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 145.06,
+    "end": 148.5
+  },
+  {
+    "text": "And now, here's my conversation with the Metri Corkin.",
+    "uid": "823a7bb6ac9484b7",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 148.5,
+    "end": 153.42
+  },
+  {
+    "text": "Define virus is terrifying or fascinating.",
+    "uid": "062f284afdd0938c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 153.42,
+    "end": 158.14
+  },
+  {
+    "text": "When I think about viruses, I think about them.",
+    "uid": "9ed0e935f41f7996",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 158.14,
+    "end": 163.62
+  },
+  {
+    "text": "I imagine them as those villains that do their work",
+    "uid": "31f334c1dbf3c063",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 163.62,
+    "end": 170.06
+  },
+  {
+    "text": "so perfectly well.",
+    "uid": "a06982f92600cd4d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 170.06,
+    "end": 173.14
+  },
+  {
+    "text": "That is impossible not to be fascinated with them.",
+    "uid": "9ddbbfc98aa626f5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 173.14,
+    "end": 177.62
+  },
+  {
+    "text": "So what do you imagine when you think about a virus?",
+    "uid": "fa3ef06a401ae2d5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 177.62,
+    "end": 180.1
+  },
+  {
+    "text": "Do you imagine the individual sort of these 100 nanometer",
+    "uid": "1df1c47949884814",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 180.1,
+    "end": 185.5
+  },
+  {
+    "text": "particle things or do you imagine the whole pandemic,",
+    "uid": "6ccefeff10d2f1e6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 185.5,
+    "end": 189.78
+  },
+  {
+    "text": "like society level, the, when you say the efficiency",
+    "uid": "3f97eded7a41c3ad",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 189.78,
+    "end": 194.06
+  },
+  {
+    "text": "at which they do their work, do you think of viruses",
+    "uid": "19774cf61aecff84",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 194.06,
+    "end": 197.22
+  },
+  {
+    "text": "as the millions that occupy human body or living organism,",
+    "uid": "6fdd8e16cacf9f89",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 197.22,
+    "end": 202.22
+  },
+  {
+    "text": "society level, spreading as a pandemic",
+    "uid": "9f131c8d88b378c0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 203.54,
+    "end": 206.66
+  },
+  {
+    "text": "or do you think of the individual little guy?",
+    "uid": "506f0aa0226f505c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 206.66,
+    "end": 209.22
+  },
+  {
+    "text": "Yes, this is, I think this is a unique concept",
+    "uid": "a9c32cd4dbf9c5f1",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 209.22,
+    "end": 214.66
+  },
+  {
+    "text": "that allows you to move from micro scale to the micro scale.",
+    "uid": "0c084fdc09c12a18",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 214.66,
+    "end": 219.82
+  },
+  {
+    "text": "So the virus itself, I mean, it's not a limit organism.",
+    "uid": "28890d3f789a9c99",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 219.82,
+    "end": 225.06
+  },
+  {
+    "text": "It's a machine to me.",
+    "uid": "f250ea9ac8105723",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 225.06,
+    "end": 227.14
+  },
+  {
+    "text": "It's a machine.",
+    "uid": "3f1965f2481018f4",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 227.14,
+    "end": 228.78
+  },
+  {
+    "text": "But it is perfected to the way that it essentially",
+    "uid": "b0a32a39d87529bd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 228.78,
+    "end": 233.34
+  },
+  {
+    "text": "has a limited number of functions.",
+    "uid": "6366818a060fa4a0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 233.34,
+    "end": 236.94
+  },
+  {
+    "text": "It needs to do necessary functions.",
+    "uid": "c7a821c854772bd8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 236.94,
+    "end": 240.5
+  },
+  {
+    "text": "And essentially it has enough information just to do those functions,",
+    "uid": "0113a85df1009b11",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 240.5,
+    "end": 247.7
+  },
+  {
+    "text": "as well as the ability to modify itself.",
+    "uid": "f8b8f8acf29990ac",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 247.7,
+    "end": 253.38
+  },
+  {
+    "text": "So it's a machine, it's an intelligent machine.",
+    "uid": "906147fa1a4081e5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 253.38,
+    "end": 258.26
+  },
+  {
+    "text": "So yeah, maybe on that point, you're in danger of reducing",
+    "uid": "4bd9ca0877ceadc6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 258.26,
+    "end": 262.14
+  },
+  {
+    "text": "the power of this thing by calling it a machine, right?",
+    "uid": "634787d39685a0fd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 262.14,
+    "end": 266.9
+  },
+  {
+    "text": "But you now mentioned that it's also possibly intelligent.",
+    "uid": "eda9d84b0835d66d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 266.9,
+    "end": 270.5
+  },
+  {
+    "text": "It seems that there are these elements of brilliance",
+    "uid": "b6870abb2098aaae",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 270.5,
+    "end": 274.34
+  },
+  {
+    "text": "that a virus has of intelligence, of maximizing so many things",
+    "uid": "e75f72e4e7987322",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 274.34,
+    "end": 281.34
+  },
+  {
+    "text": "about its behavior into an insured survival.",
+    "uid": "fae93759010e604c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 281.54,
+    "end": 284.66
+  },
+  {
+    "text": "And it's success.",
+    "uid": "867f57e0162e6805",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 284.66,
+    "end": 288.18
+  },
+  {
+    "text": "So do you see this intelligent?",
+    "uid": "ad9d90adbaa4cfbe",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 288.18,
+    "end": 291.46
+  },
+  {
+    "text": "So I think it's a different, I understand it differently,",
+    "uid": "c30bd6150912f8cf",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 291.46,
+    "end": 297.22
+  },
+  {
+    "text": "than I think about intelligence, of humankind,",
+    "uid": "b8c0dc36c1203f36",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 297.22,
+    "end": 302.74
+  },
+  {
+    "text": "or intelligence of the artificial intelligence mechanisms.",
+    "uid": "89ab760d698e124d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 302.74,
+    "end": 313.18
+  },
+  {
+    "text": "I think the intelligence of a virus is in its simplicity.",
+    "uid": "b6602a11db47c3b4",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 313.26,
+    "end": 321.1
+  },
+  {
+    "text": "The ability to do so much with so little material and information.",
+    "uid": "3b29a385a52fcbe0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 321.1,
+    "end": 333.98
+  },
+  {
+    "text": "But also, I think it's interesting.",
+    "uid": "a26f1b4b0b5b0522",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 333.98,
+    "end": 336.62
+  },
+  {
+    "text": "It keeps me thinking, it keeps me wondering whether or not",
+    "uid": "d7fd32e78dd3237a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 336.62,
+    "end": 341.98
+  },
+  {
+    "text": "it's also an example of the basic swarm intelligence,",
+    "uid": "f925786429557d30",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 341.98,
+    "end": 351.22
+  },
+  {
+    "text": "where essentially the viruses act as the whole",
+    "uid": "4d466fe7e9c2cc72",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 351.22,
+    "end": 357.94
+  },
+  {
+    "text": "and extremely efficient in that.",
+    "uid": "b67cc20f9fae685f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 357.94,
+    "end": 362.38
+  },
+  {
+    "text": "So what do you attribute the incredible simplicity and the efficiency",
+    "uid": "a1ba9305c9645943",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 362.38,
+    "end": 367.06
+  },
+  {
+    "text": "to is it the evolutionary process to maybe another way to ask",
+    "uid": "a9b879ddfbee4d93",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 367.06,
+    "end": 370.94
+  },
+  {
+    "text": "that if you look at the next 100 years,",
+    "uid": "e99bb1b6cf8753ee",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 370.94,
+    "end": 374.3
+  },
+  {
+    "text": "are you more worried about the natural pandemics",
+    "uid": "8f1fd3c8e3fbf9fc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 374.3,
+    "end": 378.3
+  },
+  {
+    "text": "or the engineered pandemics?",
+    "uid": "34ecbd0e626750f0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 378.3,
+    "end": 380.3
+  },
+  {
+    "text": "So how hard is it to build a virus?",
+    "uid": "b1e84942d70c18c9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 380.3,
+    "end": 383.02
+  },
+  {
+    "text": "Yes, it's a very, very interesting question, because obviously",
+    "uid": "bcc1055e25a83c24",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 383.02,
+    "end": 388.14
+  },
+  {
+    "text": "there's a lot of conversations about the, whether we are",
+    "uid": "8790c0b31f10b222",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 388.14,
+    "end": 395.5
+  },
+  {
+    "text": "capable of engineering, anyone worse,",
+    "uid": "68db719cc1b2820e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 395.5,
+    "end": 401.42
+  },
+  {
+    "text": "I personally expect, and I'm mostly concerned with the natural",
+    "uid": "de3c324a4c1f9ee6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 402.7,
+    "end": 409.18
+  },
+  {
+    "text": "recurring viruses, simply because we keep seeing that.",
+    "uid": "e1f7aaabf1be7c38",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 409.18,
+    "end": 415.1
+  },
+  {
+    "text": "We keep seeing new strains of influenza emerging.",
+    "uid": "19f2a53c274d210f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 415.1,
+    "end": 419.82
+  },
+  {
+    "text": "Some of them becoming pandemic.",
+    "uid": "0a677c3b66100b51",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 419.82,
+    "end": 422.06
+  },
+  {
+    "text": "We keep seeing new strains of coronaviruses emerging.",
+    "uid": "3fad476d76aa744f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 422.14,
+    "end": 427.82
+  },
+  {
+    "text": "This is a natural process, and I think this is why it's so powerful.",
+    "uid": "93ecf688e9d00377",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 427.82,
+    "end": 437.83
+  },
+  {
+    "text": "You know, if you ask me, I've read papers about scientists trying to study",
+    "uid": "e3863647d0830828",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 437.83,
+    "end": 447.51
+  },
+  {
+    "text": "the capacity of the modern, you know,",
+    "uid": "20c9b55ba6c31af3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 447.59,
+    "end": 452.47
+  },
+  {
+    "text": "biotechnology to outer devices, but I hope that",
+    "uid": "f6f76a8eede657b2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 452.47,
+    "end": 460.01
+  },
+  {
+    "text": "that, you know, it won't be our main concern in the near future.",
+    "uid": "f3d16c1c58682d0d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 460.01,
+    "end": 468.57
+  },
+  {
+    "text": "What do you mean by hope?",
+    "uid": "eb7cdf1dc95aee00",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 468.57,
+    "end": 474.04
+  },
+  {
+    "text": "Well, you know, if you look back and look at the history of the,",
+    "uid": "bea6f3a6f4e9ce01",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 474.04,
+    "end": 479.64
+  },
+  {
+    "text": "most dangerous viruses, right?",
+    "uid": "52be41d4493fad3b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 479.72,
+    "end": 482.52
+  },
+  {
+    "text": "So the first thing that comes into mind is a small box.",
+    "uid": "b78f765262ddbb49",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 482.52,
+    "end": 488.2
+  },
+  {
+    "text": "So right now, there is perhaps a handful of places where this, you know,",
+    "uid": "7e084c513e4799ac",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 489.48,
+    "end": 497.24
+  },
+  {
+    "text": "these strains of these virus are stored, right?",
+    "uid": "9f29aaf5535dbf11",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 497.24,
+    "end": 501.88
+  },
+  {
+    "text": "So this is essentially the effort of the whole society to limit the access",
+    "uid": "d4cc721897714ab9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 501.88,
+    "end": 508.6
+  },
+  {
+    "text": "to those viruses.",
+    "uid": "1a6ff9e916218388",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 509.72,
+    "end": 511.8
+  },
+  {
+    "text": "You mean in the lab in the control environment, in order to study,",
+    "uid": "0f9c4297259a8850",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 511.8,
+    "end": 515.56
+  },
+  {
+    "text": "and then smallpox is one of the viruses for which",
+    "uid": "9e7f89bbe88e062f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 515.56,
+    "end": 517.96
+  },
+  {
+    "text": "should be stated, there's a vaccine is developed.",
+    "uid": "a0e6456fb4175bda",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 520.44,
+    "end": 523.16
+  },
+  {
+    "text": "And that's, you know, it's until selling to you.",
+    "uid": "a9d072e2395832fe",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 524.28,
+    "end": 527.56
+  },
+  {
+    "text": "In my opinion, it was perhaps the most dangerous thing that was there.",
+    "uid": "8f0875d7d66ad101",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 529.88,
+    "end": 535.8
+  },
+  {
+    "text": "Is that a very different virus than the influenza and coronavirus?",
+    "uid": "807bbead7344b714",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 536.44,
+    "end": 543.32
+  },
+  {
+    "text": "It is. It is different in several aspects.",
+    "uid": "553fe072f7df12f5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 544.04,
+    "end": 547.96
+  },
+  {
+    "text": "Biologically, it's, you know, so called double stranded DNA virus,",
+    "uid": "d732745aaf1c1c70",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 548.76,
+    "end": 555.64
+  },
+  {
+    "text": "but also in the way that it is much more contagious.",
+    "uid": "4d3155e7e64b9ca0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 555.64,
+    "end": 562.6
+  },
+  {
+    "text": "So the R0 for, so this is the, what's R0 is essentially an average number",
+    "uid": "935c4c3728ddf12a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 563.32,
+    "end": 573.96
+  },
+  {
+    "text": "as person infected by the virus can spread to other people.",
+    "uid": "869cb348e55f9564",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 575.4,
+    "end": 581.4
+  },
+  {
+    "text": "So then the average number of people that he or she can, you know, spread it to.",
+    "uid": "12901135ade57248",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 582.6,
+    "end": 589.24
+  },
+  {
+    "text": "And, you know, there is still some, you know, discussion about the estimates",
+    "uid": "1de4ba3f371637d6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 590.2,
+    "end": 596.76
+  },
+  {
+    "text": "of the current virus, you know, the estimations vary between, you know, 1.5 and 3.",
+    "uid": "d00ccffb47963dfd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 596.76,
+    "end": 605.16
+  },
+  {
+    "text": "In case of smallpox, it was 5 to 7.",
+    "uid": "0b7732a5219311c9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 607.08,
+    "end": 610.76
+  },
+  {
+    "text": "And we're talking about the exponential growth, right?",
+    "uid": "9f0bd3df89ee5f98",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 614.1,
+    "end": 617.3
+  },
+  {
+    "text": "So so that's that's a very big difference.",
+    "uid": "74b6050b67b97aec",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 617.54,
+    "end": 620.74
+  },
+  {
+    "text": "It's not the most contagious one.",
+    "uid": "7c6856d492915bbe",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 623.62,
+    "end": 625.62
+  },
+  {
+    "text": "Mizzles, for example, it's, I think, 15 and up. So it's, it's, you know, but it's definitely,",
+    "uid": "c97f15cd9769202d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 625.62,
+    "end": 634.18
+  },
+  {
+    "text": "definitely more contentious that the seasonal flu than the current coronavirus or SARS for that",
+    "uid": "5a6b57f20e82c0b5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 635.7,
+    "end": 646.98
+  },
+  {
+    "text": "matter. So what makes, what makes the virus more contagious? I'm sure there's a lot of",
+    "uid": "0dce79c8c474d70d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 646.98,
+    "end": 653.54
+  },
+  {
+    "text": "here, it was a comment to play, but is it, is it that whole discussion of airsaule and like the",
+    "uid": "4c6bec21097f1238",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 653.54,
+    "end": 659.62
+  },
+  {
+    "text": "size of droplets if it's airborne or is there some other stuff that's more biology centered?",
+    "uid": "9815618185c83106",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 659.62,
+    "end": 664.98
+  },
+  {
+    "text": "I mean, there are a lot of components and, and the biological components that, there are also,",
+    "uid": "b03af5df15d03a51",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 664.98,
+    "end": 671.22
+  },
+  {
+    "text": "you know, social components, the ability of the virus to, you know, the ways in which",
+    "uid": "484771d0eb89c831",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 671.3,
+    "end": 679.86
+  },
+  {
+    "text": "the virus is spread is definitely one. The ability to virus to stay on the surfaces, to survive.",
+    "uid": "c941578f79fae3b2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 679.86,
+    "end": 688.42
+  },
+  {
+    "text": "The ability of the virus to replicate fast. So, you know, once it's in the cell, whatever, once it's",
+    "uid": "ca8f8c650f3f0587",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 689.3,
+    "end": 697.94
+  },
+  {
+    "text": "inside the host. And interesting enough, something that I think we didn't pay that much attention to,",
+    "uid": "a0ace941bc500f9f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 697.94,
+    "end": 708.02
+  },
+  {
+    "text": "is the incubation period, the, where, you know, host are symptomatic. And now it turns out that",
+    "uid": "186488c0b7b6050b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 708.02,
+    "end": 715.14
+  },
+  {
+    "text": "another thing that we, one, really needs to take into account the percentage of the symptomatic",
+    "uid": "e23d04fa56a8504d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 715.14,
+    "end": 723.7
+  },
+  {
+    "text": "population. Because those people still shed this virus and still are, you know,",
+    "uid": "fe6cd9cd893b8187",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 724.02,
+    "end": 731.62
+  },
+  {
+    "text": "they still are contagious. So, there's an, the Iceland study which I think is probably the most impressive",
+    "uid": "57029e868ff2382a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 731.62,
+    "end": 737.3
+  },
+  {
+    "text": "size wise, shows 50% asymptomatic. There's virus. I also recently learned the swine flu",
+    "uid": "660b2a0a6016d040",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 737.3,
+    "end": 747.38
+  },
+  {
+    "text": "is like the just a number of people who got infected was in the billions. There was some crazy number.",
+    "uid": "b78d01c8544169e5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 747.46,
+    "end": 757.38
+  },
+  {
+    "text": "It was like, it was like, like 20% of the population, something crazy like that. So, the luck you",
+    "uid": "d86dbfb31f33a0ab",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 757.38,
+    "end": 765.06
+  },
+  {
+    "text": "think there is the fatality rate is low. But the fact that a virus can just take over entire population",
+    "uid": "38bc3088d2588efe",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 765.06,
+    "end": 773.46
+  },
+  {
+    "text": "so quickly. Yes, terrifying. I think, I mean, this is, you know, that's perhaps my favorite example",
+    "uid": "078d7f4830a35e6f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 773.46,
+    "end": 782.02
+  },
+  {
+    "text": "of a butterfly effect. Because it's really, I mean, it's even tinyer than a butterfly and look at,",
+    "uid": "d454144e0b446e4a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 782.02,
+    "end": 790.26
+  },
+  {
+    "text": "you know, and with, you know, if you think about it, right? So, it used to be in those bad species.",
+    "uid": "ddb6300803509eb9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 790.26,
+    "end": 798.42
+  },
+  {
+    "text": "And perhaps because of, you know, a couple of small changes in the, in the, in the viral genome,",
+    "uid": "e7b95c883cecb290",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 799.3,
+    "end": 807.94
+  },
+  {
+    "text": "it first had, you know, become capable of jumping from bads to human. And then it became",
+    "uid": "25b035ede21f4d7e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 808.9,
+    "end": 816.02
+  },
+  {
+    "text": "capable of jumping from human to human. Right? So, this is, I mean, it's not even the size of a virus.",
+    "uid": "587c73584fc9116d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 816.02,
+    "end": 822.58
+  },
+  {
+    "text": "It's the size of several, you know, several atoms or says, you know, a few atoms. And over",
+    "uid": "d82d58382a2b54e5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 822.66,
+    "end": 831.46
+  },
+  {
+    "text": "sudden, this change has such a major impact. So, is that a mutation like a single virus? Is that,",
+    "uid": "b7bbc00aa051e756",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 831.46,
+    "end": 842.02
+  },
+  {
+    "text": "like, so if we talk about those, the flap of a butterfly wing, like, what's the first flap? Well, I think",
+    "uid": "4d3b8f7a76863799",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 842.02,
+    "end": 849.86
+  },
+  {
+    "text": "this is the, the mutations that make that made this virus capable of jumping from bad species to human.",
+    "uid": "0e27089ae28273cd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 849.86,
+    "end": 860.1
+  },
+  {
+    "text": "Of course, there's, you know, the scientists are still trying to find, I mean, they still even trying to find",
+    "uid": "4e44ce20d459bf7c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 861.14,
+    "end": 866.26
+  },
+  {
+    "text": "the, who was the first infected, right? The patient's zero. The first human, the first human,",
+    "uid": "d484d7f1f0cac4af",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 866.26,
+    "end": 872.9
+  },
+  {
+    "text": "infected, right? And, I mean, the fact that there are coronavirus, there's different strains of",
+    "uid": "b26a10809b285c6a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 872.9,
+    "end": 878.98
+  },
+  {
+    "text": "coronavirus in various bad species. I mean, we know that. So, so we, you know, the, you know,",
+    "uid": "f2dfb658ea7e5ed9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 878.98,
+    "end": 885.38
+  },
+  {
+    "text": "viralologists, absorb them, they studied them, they look at their, you know, genomic sequences. They",
+    "uid": "74b6807351bc2fb3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 885.54,
+    "end": 891.78
+  },
+  {
+    "text": "are trying, of course, to understand what make this virus is to jump from, from bads to human.",
+    "uid": "a9fbe227b46d336a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 891.78,
+    "end": 900.26
+  },
+  {
+    "text": "That was, you know, similar to that and in influence, that was I think a few years ago,",
+    "uid": "229814989dcc2f3b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 900.26,
+    "end": 907.46
+  },
+  {
+    "text": "that was this, you know, interesting story where several groups of scientists, studying",
+    "uid": "8005cec8084404e7",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 907.46,
+    "end": 918.34
+  },
+  {
+    "text": "influence of virus essentially, you know, made experiments to show that these virus can",
+    "uid": "4583872649f94722",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 918.34,
+    "end": 925.86
+  },
+  {
+    "text": "jump from one's pieces to another, you know, by changing, I think just a couple of residues.",
+    "uid": "bdd80b036f8f9297",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 925.86,
+    "end": 934.5
+  },
+  {
+    "text": "And, and, and, and of course, it was very controversial, I think there was a moratorium on this",
+    "uid": "7e1f7e67262f4b49",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 934.5,
+    "end": 941.86
+  },
+  {
+    "text": "study for a while, but then the study was released. It was published.",
+    "uid": "881f8bb35778da1a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 941.86,
+    "end": 946.42
+  },
+  {
+    "text": "So that's who I was there moratorium, because it shows through engineering it,",
+    "uid": "ead10471621f05e8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 947.22,
+    "end": 952.82
+  },
+  {
+    "text": "through modifying it, you could make it jump. Yes. Yes. I, I personally think it is important to",
+    "uid": "69a86801d8151af3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 952.82,
+    "end": 961.94
+  },
+  {
+    "text": "study this. I mean, we should be informed. We should try to understand as much as possible in order to",
+    "uid": "ed684dd207d45f12",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 961.94,
+    "end": 969.62
+  },
+  {
+    "text": "prevent it. But, so then the engineering aspect there is,",
+    "uid": "1c7a0d012d6bb635",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 969.62,
+    "end": 974.66
+  },
+  {
+    "text": "can't you then just start searching because there's so many strands of viruses out there.",
+    "uid": "5e1f78b5d5a0d099",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 975.22,
+    "end": 981.3
+  },
+  {
+    "text": "Can't you just search for the ones in bats that are the deadliest from the, for our allages perspective,",
+    "uid": "b8286e0b7eea2812",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 981.3,
+    "end": 988.34
+  },
+  {
+    "text": "and then just try to engineer, try to see how to, but see that's a, there's a nice aspect to it,",
+    "uid": "8ba5ed104c0905b2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 989.06,
+    "end": 997.06
+  },
+  {
+    "text": "the really nice thing about engineering viruses, it has the same problems nuclear weapons,",
+    "uid": "f51b6e90cc51e538",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 997.14,
+    "end": 1003.38
+  },
+  {
+    "text": "is it's hard for it to not only to mutual self-destruction, so you can't control of virus,",
+    "uid": "c87fc80a644a74b1",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1004.18,
+    "end": 1011.22
+  },
+  {
+    "text": "it can't be used as a weapon. Right? Yeah, that's why I, you know, in the beginning I said,",
+    "uid": "674554d74e937730",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1011.22,
+    "end": 1016.1
+  },
+  {
+    "text": "you know, I am hopeful, because the, definitely the, definitely regulations to be needed to be",
+    "uid": "4a402aca320f50f3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1016.1,
+    "end": 1024.02
+  },
+  {
+    "text": "introduced. And I mean, as the scientific society is, we are in charge of, you know, making the right",
+    "uid": "6d5b87dc5fcd999f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1024.1,
+    "end": 1034.74
+  },
+  {
+    "text": "actions, making the right decisions. But I think we, we will benefit tremendously by understanding the",
+    "uid": "7976c6fe6a2eb0ff",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1036.18,
+    "end": 1045.78
+  },
+  {
+    "text": "mechanisms, by which the virus can jump, by which the virus can become more, you know,",
+    "uid": "6dfff9f2053ead90",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1045.86,
+    "end": 1055.3
+  },
+  {
+    "text": "more dangerous to humans, because all this answers with, you know, eventually to designing",
+    "uid": "cc45c21e35850917",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1055.94,
+    "end": 1067.14
+  },
+  {
+    "text": "better vaccines, hopefully universal vaccines, right? And that would be a triumph of the, you know,",
+    "uid": "f769753d48962731",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1067.14,
+    "end": 1075.38
+  },
+  {
+    "text": "science. So what's the universe of vaccines? So that's something that, well, how universal is universal?",
+    "uid": "afc90cb6e1301ebc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1075.38,
+    "end": 1082.1
+  },
+  {
+    "text": "Well, I mean, you know, so what's the dream I guess? Because you kind of mentioned the dream of that,",
+    "uid": "b9c1c0f5a15fcb59",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1082.1,
+    "end": 1086.66
+  },
+  {
+    "text": "I would be extremely happy if, you know, we designed the vaccine that is able, I mean, I'll give you an",
+    "uid": "cc66611a3f199a2d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1086.66,
+    "end": 1095.62
+  },
+  {
+    "text": "example, right? So so every year we do a seasonal flu shot. The reason we do it is because, you know,",
+    "uid": "704cb7455444340a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1095.7,
+    "end": 1104.1
+  },
+  {
+    "text": "we are in the arms race, you know, our vaccines are in the arms race with, with constantly changing virus.",
+    "uid": "8071bef3a7cd521b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1104.1,
+    "end": 1110.66
+  },
+  {
+    "text": "Right? Now, if the next pandemic influenza pandemic will occur, most likely this vaccine would not",
+    "uid": "55b320f0bf3ba898",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1111.78,
+    "end": 1121.62
+  },
+  {
+    "text": "save us, right? Although it's, you know, it's the same virus might be different strain.",
+    "uid": "b8857d63e0f1c586",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1122.18,
+    "end": 1129.62
+  },
+  {
+    "text": "So if we're able to essentially design a vaccine against, you know, influenza a virus, no matter what's",
+    "uid": "791e5c9158e64b64",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1132.34,
+    "end": 1141.7
+  },
+  {
+    "text": "the strain, no matter which species did a jump from, that would be, I think that would be a huge,",
+    "uid": "1b7c7a7dc526d673",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1141.7,
+    "end": 1150.82
+  },
+  {
+    "text": "huge progress and advancement. Do you mentioned the smallpox until the 70s might have been something that",
+    "uid": "6a473171c14b13db",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1150.82,
+    "end": 1158.26
+  },
+  {
+    "text": "it would be worried the most about what about these days? Or we're sitting here in the middle of a",
+    "uid": "59fd75c35bf43dcd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1158.26,
+    "end": 1164.1
+  },
+  {
+    "text": "COVID-19 pandemic, but these days, nevertheless, what is the biggest worry virus was?",
+    "uid": "3d22d31d2e24c477",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1164.98,
+    "end": 1173.06
+  },
+  {
+    "text": "What are you keeping your eye out on? It looks like, and, you know, based on the,",
+    "uid": "5fa3d71440212595",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1174.66,
+    "end": 1181.7
+  },
+  {
+    "text": "past several years of the new viruses emerging, I think we're still dealing with",
+    "uid": "8cbdd328749500cc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1182.42,
+    "end": 1192.26
+  },
+  {
+    "text": "different types of influenza. I mean, so, so the 87 and 9, Arian flu, that was, that emerged.",
+    "uid": "2992c7fae55e779d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1193.3,
+    "end": 1204.74
+  },
+  {
+    "text": "I think a couple of years ago in China, I think the mortality rate was incredible. I mean, it was,",
+    "uid": "0b2fd17cca05effc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1204.74,
+    "end": 1214.34
+  },
+  {
+    "text": "you know, I think about 30%. So this is this is huge. I mean, luckily for us,",
+    "uid": "4b2d2ef118db6f40",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1214.34,
+    "end": 1221.38
+  },
+  {
+    "text": "this strain was not pandemic, right? So it was jumping from birds to human, but I don't think it, it was actually",
+    "uid": "093c2702f238df4e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1223.46,
+    "end": 1232.82
+  },
+  {
+    "text": "transmissible between the humans. And, you know, this is actually a very interesting question,",
+    "uid": "3eab1a12c409a5b0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1232.9,
+    "end": 1238.26
+  },
+  {
+    "text": "which scientists try to understand, right? So the balance, the delicate balance between the virus",
+    "uid": "2d604d3676424fe3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1238.26,
+    "end": 1245.62
+  },
+  {
+    "text": "being very contagious, right? So efficient in spreading and virus to be very pathogenic,",
+    "uid": "f7a9dd555130326c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1245.62,
+    "end": 1254.66
+  },
+  {
+    "text": "you know, causing, you know, harms, you know, and that's to their horse. So it looks like",
+    "uid": "2ca0dbc8b3c21d77",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1255.38,
+    "end": 1267.46
+  },
+  {
+    "text": "that the more pathogenic devices the less contagious it is. Is that a property, biology, or what",
+    "uid": "40effd62646441c7",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1267.46,
+    "end": 1277.22
+  },
+  {
+    "text": "is, I don't have an answer to that. And I think this is this is still an open question, but,",
+    "uid": "3a1bd5b50ef0cea0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1277.22,
+    "end": 1283.3
+  },
+  {
+    "text": "you know, if you look at, you know, with the coronavirus, for example, if you look at, you know,",
+    "uid": "af9cb52516b995f0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1283.38,
+    "end": 1289.94
+  },
+  {
+    "text": "the deadlier relative nurse, nurse was never a pandemic virus. Right? But, you know, the, again,",
+    "uid": "8ffbed568d16ca48",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1289.94,
+    "end": 1302.66
+  },
+  {
+    "text": "the mortality rate from nurses far above, you know, I think 20 or 30%. So whatever is making this all happen,",
+    "uid": "a4114e95a45de833",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1302.66,
+    "end": 1315.24
+  },
+  {
+    "text": "doesn't want us dead, because it's balancing out nicely. I mean, how do you explain that",
+    "uid": "8388a64dbe3b356f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1315.32,
+    "end": 1322.04
+  },
+  {
+    "text": "one not dead yet? Like, because there's so many viruses and they're so good at what they do,",
+    "uid": "edbf9456a0946da3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1322.04,
+    "end": 1330.2
+  },
+  {
+    "text": "why do they keep us alive? I mean, we also have, you know, a lot of protection, right? So",
+    "uid": "7a7d0bca0ea652d5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1331.4,
+    "end": 1339.0
+  },
+  {
+    "text": "with the immune system and so, I mean, we do have, you know, ways to fight against those viruses.",
+    "uid": "e2fdf2e43b46b38a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1339.0,
+    "end": 1350.68
+  },
+  {
+    "text": "And I think with the, I now, much better equipped, right? So with the discoveries of vaccines and,",
+    "uid": "11d9d2ceb7205926",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1351.56,
+    "end": 1358.6
+  },
+  {
+    "text": "you know, there are vaccines against the viruses that maybe 200 years ago would bypass out,",
+    "uid": "1e6055191d0033d6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1358.6,
+    "end": 1367.96
+  },
+  {
+    "text": "completely. But because of this vaccines, we are actually, we are capable of eradicating",
+    "uid": "6c18f7a3f820e5a2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1368.6,
+    "end": 1375.4
+  },
+  {
+    "text": "pretty much fully as is the case with smallpox. So if we could, can we go to the basics a little bit of",
+    "uid": "3113f6918b6c5a6b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1375.4,
+    "end": 1382.28
+  },
+  {
+    "text": "the biology of the virus, how does the virus infect the body? So I think there are some key steps",
+    "uid": "8a4251bb5b7f31eb",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1382.28,
+    "end": 1391.16
+  },
+  {
+    "text": "that the virus needs to perform. And of course, the first one, the viral particle needs to",
+    "uid": "c25621679dbaf924",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1391.64,
+    "end": 1399.24
+  },
+  {
+    "text": "get attached to the whole cell. In the case of coronavirus, there is a lot of evidence that it",
+    "uid": "6e8454d74760e594",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1399.24,
+    "end": 1407.64
+  },
+  {
+    "text": "actually interaction the same way of the SARS coronavirus. So it gets attached to AC2 human receptor.",
+    "uid": "f3d6d8b8198dcdbb",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1407.64,
+    "end": 1418.36
+  },
+  {
+    "text": "And so this, I mean, as we speak, there is a growing number of papers suggesting it.",
+    "uid": "ae3df69d8bbf9ab6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1419.32,
+    "end": 1425.48
+  },
+  {
+    "text": "Moreover, most recent, I think, most recent results suggest that this virus",
+    "uid": "d601acabea237ee6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1426.36,
+    "end": 1433.56
+  },
+  {
+    "text": "attaches more efficiently to this human receptor than SARS. Just to sort of back off,",
+    "uid": "faa10cb4ce4eec55",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1434.36,
+    "end": 1441.88
+  },
+  {
+    "text": "there is a family of viruses, the coronavirus, and SARS, whatever the heck forgot,",
+    "uid": "7b3dbd35599f39c6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1442.84,
+    "end": 1449.0
+  },
+  {
+    "text": "what are the stands for? So SARS actually stands for the disease that you get. Is the syndrome of a",
+    "uid": "2bb4eccc1a00c892",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1450.2,
+    "end": 1458.44
+  },
+  {
+    "text": "acute respiratory infection? So SARS is the first strength in the nurse, nurse, nurse, and the",
+    "uid": "9e90b8e277194f4a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1458.44,
+    "end": 1466.36
+  },
+  {
+    "text": "and there is yes, people, scientists actually know more than three strands. I mean, so there is the",
+    "uid": "739d21b6f498b2ba",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1467.32,
+    "end": 1474.36
+  },
+  {
+    "text": "MHV strain, which is considered to be a canonical model, disease model in mice. And so there is a lot of work",
+    "uid": "4dd73d537c7a4a4f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1474.6,
+    "end": 1488.84
+  },
+  {
+    "text": "done on this virus because it's, but it hasn't jumped to humans yet. No, it's just yes, it's fascinating.",
+    "uid": "4fd006af48abdf14",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1488.84,
+    "end": 1496.36
+  },
+  {
+    "text": "So any imagine AC2, so when you say attach proteins involved, yeah, on both sides. So we have,",
+    "uid": "44c704ae8204e111",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1497.56,
+    "end": 1508.04
+  },
+  {
+    "text": "you know, so we have this infamous spike protein on the surface of the variant particle. And it does look",
+    "uid": "0208af695f3f8427",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1508.04,
+    "end": 1515.96
+  },
+  {
+    "text": "like a spike. And I mean, that's essentially because of this protein, you know, we call the coronavirus",
+    "uid": "78455d9b84e5af4e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1515.96,
+    "end": 1522.04
+  },
+  {
+    "text": "coronavirus. So that what makes corona on top of the surface. So so this, this protein, it actually,",
+    "uid": "3e55ba26b3c70a09",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1522.04,
+    "end": 1531.56
+  },
+  {
+    "text": "it acts, so it doesn't act alone. It actually, it makes a three copies. And it makes so-called",
+    "uid": "633c72b8b5a0415d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1531.56,
+    "end": 1541.64
+  },
+  {
+    "text": "tremor. So this tremor is essentially a functional unit, a single functional unit that",
+    "uid": "1b4f4da20eb00e29",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1541.72,
+    "end": 1547.72
+  },
+  {
+    "text": "starts interacting with the AC2 receptor. So this is again another protein that now sits on the surface",
+    "uid": "cf355c4447b96224",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1548.44,
+    "end": 1558.6
+  },
+  {
+    "text": "of a human cell, a hostile, I would say. And that's essentially in that way, the virus enters",
+    "uid": "6a447b3c04cc2bef",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1558.68,
+    "end": 1570.12
+  },
+  {
+    "text": "itself to the hostile. Because then it needs to actually, it needs to get inside, you know, it uses its",
+    "uid": "1b9cc30e57acf160",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1570.92,
+    "end": 1580.52
+  },
+  {
+    "text": "membrane with the hostile membrane. It releases the key components, it releases its, you know,",
+    "uid": "f051008eaec3781f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1581.32,
+    "end": 1590.76
+  },
+  {
+    "text": "RNA. And then essentially hijacks the machinery of the cell because none of the viruses that we know of",
+    "uid": "e522904f8a7c9111",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1590.92,
+    "end": 1602.52
+  },
+  {
+    "text": "have ribosome, the machinery that allows us to print out proteins. So in order to print out proteins,",
+    "uid": "e3aed4535439a152",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1602.76,
+    "end": 1613.48
+  },
+  {
+    "text": "that are necessary for functioning of this virus, it actually needs to hijack the hostile.",
+    "uid": "90bc5c4bd5b34951",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1613.48,
+    "end": 1619.64
+  },
+  {
+    "text": "So virus is an RNA wrapped in a bunch of proteins, one of which is this functional mechanism of",
+    "uid": "d45b1020a7667736",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1619.64,
+    "end": 1626.52
+  },
+  {
+    "text": "the spike protein that does the attachment. So yeah, so, so, you know, so if you look at this virus,",
+    "uid": "c338715cba287afb",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1626.52,
+    "end": 1632.12
+  },
+  {
+    "text": "there are, you know, several basic components, right? So we start with the spike protein. This is not the only",
+    "uid": "c390ac947f1741cd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1632.12,
+    "end": 1639.56
+  },
+  {
+    "text": "surface protein, the protein that lives on the surface of the viral particle. There is also perhaps",
+    "uid": "e3b9bc668e4d6eb7",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1639.56,
+    "end": 1646.36
+  },
+  {
+    "text": "the protein with the highest number of copies is the membrane protein. So it essentially,",
+    "uid": "8e22a8f4eba466b2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1647.24,
+    "end": 1655.0
+  },
+  {
+    "text": "it forms the capsule, sorry, the envelope of the protein of the viral particle and essentially,",
+    "uid": "fb61b1e765d821d0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1655.0,
+    "end": 1665.8
+  },
+  {
+    "text": "you know, helps to maintain certain curvature, helps to make certain curvature.",
+    "uid": "8f48c84fc7a4542c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1665.88,
+    "end": 1674.12
+  },
+  {
+    "text": "Then there is another protein called envelope protein or E protein. And it actually occurs in",
+    "uid": "58acee3f0f8a3271",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1674.12,
+    "end": 1683.8
+  },
+  {
+    "text": "far less quantities. And still there is, you know, going research what exactly does this protein do.",
+    "uid": "5241f94677436019",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1683.8,
+    "end": 1692.76
+  },
+  {
+    "text": "So this sort of the three major surface proteins that, you know, make the viral envelope.",
+    "uid": "6cb3ebc1c11bc425",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1693.64,
+    "end": 1701.32
+  },
+  {
+    "text": "And when we go inside, then we have another structural protein called nucleoprotein. And the purpose",
+    "uid": "3616830f5e43ab27",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1702.12,
+    "end": 1711.16
+  },
+  {
+    "text": "of this protein is to protect the viral RNA. So it actually binds to the viral RNA, creates a capsid.",
+    "uid": "3512a3582f3beccf",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1711.16,
+    "end": 1717.96
+  },
+  {
+    "text": "And so the rest of the viral information is inside of this, you know, RNA. And, you know,",
+    "uid": "4b519a3ac40ae12c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1720.34,
+    "end": 1730.06
+  },
+  {
+    "text": "if you compare the amount of the genes or, you know, proteins that are made of these genes,",
+    "uid": "bf232e0c1e7a5f94",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1730.78,
+    "end": 1737.66
+  },
+  {
+    "text": "it's much, you know, it's significant to hear them of influenza virus. For example, influenza virus",
+    "uid": "8ba5dc535530303e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1738.7,
+    "end": 1745.5
+  },
+  {
+    "text": "has, I think, around eight or nine proteins, where this one has at least 29. Wow, that has to do with",
+    "uid": "09312e921f307724",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1745.5,
+    "end": 1755.1
+  },
+  {
+    "text": "the length of the RNA strand. I mean, so it, it affects the lengths of the RNA strand, right? So,",
+    "uid": "824893571fe67741",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1755.1,
+    "end": 1761.58
+  },
+  {
+    "text": "so, so, because you essentially need to have the minimum amount of information to encode those genes.",
+    "uid": "96fa11e9f9092e63",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1761.58,
+    "end": 1768.62
+  },
+  {
+    "text": "How many proteins did you say? 29. So, so, so, so, so this is this one.",
+    "uid": "e7cf704d86e0a2da",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1768.62,
+    "end": 1775.42
+  },
+  {
+    "text": "This is, you know, something definitely interesting, because, you know, believe it or not,",
+    "uid": "f3b763dc959a5c29",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1775.58,
+    "end": 1781.42
+  },
+  {
+    "text": "we've been studying, you know, coronavirus is for over two decades, we've yet to uncover all functionalities",
+    "uid": "94477e36bc991b07",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1782.06,
+    "end": 1790.3
+  },
+  {
+    "text": "of its proteins. Could we maybe, be take a small tangent and can you,",
+    "uid": "0fa26f49e1ea9e73",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1790.94,
+    "end": 1794.94
+  },
+  {
+    "text": "can you say how one would try to figure out what a function of a particular protein is?",
+    "uid": "b41109c7495032a0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1796.78,
+    "end": 1801.66
+  },
+  {
+    "text": "So, you mentioned people are still trying to figure out what the function of the envelope protein",
+    "uid": "3ff6d8168b4fa016",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1802.06,
+    "end": 1808.78
+  },
+  {
+    "text": "might be or what's the process. So, this is where the research that computational scientists do might",
+    "uid": "9a79f1cb8b511c3a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1808.78,
+    "end": 1817.9
+  },
+  {
+    "text": "be of help, because, you know, in the past several decades, we actually have collected",
+    "uid": "f54f7f1256a27143",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1817.9,
+    "end": 1825.66
+  },
+  {
+    "text": "pretty decent amount of knowledge about different proteins in different viruses.",
+    "uid": "3fda6733e5d1cf60",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1826.22,
+    "end": 1832.94
+  },
+  {
+    "text": "So, what we can actually try to do, and this is sort of could be sort of the our first",
+    "uid": "7d609202f9dbba40",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1834.38,
+    "end": 1840.94
+  },
+  {
+    "text": "lead to a possible function is to see whether those, you know, say we have this genome of the coronavirus,",
+    "uid": "476838609b5bfac2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1841.98,
+    "end": 1850.54
+  },
+  {
+    "text": "of the, of the novel coronavirus, and we identify the potential proteins. Then in order to",
+    "uid": "ef15bbb0e3e7dc56",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1850.54,
+    "end": 1857.98
+  },
+  {
+    "text": "infer the function, what we can do, we can actually see whether those proteins are similar to those ones",
+    "uid": "b6812c2db8e93501",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1857.98,
+    "end": 1865.66
+  },
+  {
+    "text": "that we already know. Okay, in such a way we can, you know, for example, clearly identified, you know,",
+    "uid": "f2fb5fb17e1e0762",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1865.66,
+    "end": 1874.06
+  },
+  {
+    "text": "some critical components that RNA polymerase or different types of proteases, this is the",
+    "uid": "4ff80b70a1252e41",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1874.06,
+    "end": 1880.06
+  },
+  {
+    "text": "proteins that essentially clip the protein sequences. So, this works in many cases. However,",
+    "uid": "800f6cea8613108a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1880.14,
+    "end": 1892.22
+  },
+  {
+    "text": "in some cases, you have truly novel proteins, and this is a, and then a much more difficult task.",
+    "uid": "3f7222c8ae85f95a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1892.22,
+    "end": 1900.86
+  },
+  {
+    "text": "Now, as a small pause, when you say similar, like what are some parts are different and some parts are",
+    "uid": "d12f5160d15f8190",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1900.86,
+    "end": 1907.42
+  },
+  {
+    "text": "similar, like how do you disentangle that? You know, it's, it's a big question. Of course,",
+    "uid": "ff14baa86a62b1dd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1907.5,
+    "end": 1914.62
+  },
+  {
+    "text": "you know, what bind phametics does, it does predictions. Right? So, those predictions are,",
+    "uid": "6076ebbb13992dbf",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1914.62,
+    "end": 1921.02
+  },
+  {
+    "text": "they have to be validated by experiments. Functional or structural predictions,",
+    "uid": "bb8dc5f9304ab704",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1921.82,
+    "end": 1927.34
+  },
+  {
+    "text": "both, I mean, we do structural predictions, we do functional predictions, we do interactions predictions.",
+    "uid": "303fe632ef6966b6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1927.98,
+    "end": 1934.7
+  },
+  {
+    "text": "Also, these interesting, so you just generate a lot of predictions, like reasonable predictions,",
+    "uid": "347a583161c60d62",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1934.7,
+    "end": 1940.22
+  },
+  {
+    "text": "based on structural function, interactionally, you said. And then, here you go, that's the power of",
+    "uid": "e3ecb5fa6e902d94",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1940.22,
+    "end": 1946.54
+  },
+  {
+    "text": "bind phametics is data grounded, good predictions of what should happen. So, you know, in the way I see it,",
+    "uid": "03bec68718d3fba3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1946.54,
+    "end": 1955.5
+  },
+  {
+    "text": "we're helping experimental scientists to streamline the discovery process. Yeah. And the experimental",
+    "uid": "a6edc1336b9af06d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1956.06,
+    "end": 1964.3
+  },
+  {
+    "text": "is that what a, verologist is? So, yeah, verologist, one of the experimental",
+    "uid": "5ccc5df1e7e56585",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1964.86,
+    "end": 1970.14
+  },
+  {
+    "text": "sciences that, you know, focus on viruses, they often work with other experimental scientists. For example,",
+    "uid": "39cbf37973abf176",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1970.38,
+    "end": 1978.62
+  },
+  {
+    "text": "the molecular imaging scientists, right? So, the, the, the viruses often can be",
+    "uid": "9c2e9a63288fe8ba",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1979.18,
+    "end": 1986.3
+  },
+  {
+    "text": "viewed and reconstructed through electron microscopy techniques. So, but these are, you know,",
+    "uid": "c028984db8381d67",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1987.42,
+    "end": 1993.5
+  },
+  {
+    "text": "specialists that are not necessary by the, by the, by the, biologist, they work with small,",
+    "uid": "6b7f491d5f443c53",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 1993.58,
+    "end": 1999.02
+  },
+  {
+    "text": "small, small particles, small, whether it's viruses or it's an organelle, or, you know, or,",
+    "uid": "78b1de432c4a5474",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2000.62,
+    "end": 2008.7
+  },
+  {
+    "text": "or human cell, whether it's a, you know, complex molecular machinery. So, the techniques that are used are",
+    "uid": "b0d849648f34ecb1",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2008.7,
+    "end": 2016.54
+  },
+  {
+    "text": "very similar in, in, in, sort of in it's in their essence. And so, yeah, so it's typically",
+    "uid": "41347305546e3970",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2016.7,
+    "end": 2024.14
+  },
+  {
+    "text": "me and we see it now, the research on, you know, that is emerging and that is needed, often involves",
+    "uid": "8699817c82290a23",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2024.14,
+    "end": 2039.34
+  },
+  {
+    "text": "the collaborations between, biologists, you know, biochemists, you know, people from,",
+    "uid": "1ef2c4a90c3ebe94",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2039.42,
+    "end": 2050.78
+  },
+  {
+    "text": "pharmaceutical sciences, computational sciences. So, we have to work together. So, from my perspective,",
+    "uid": "41f32e904acabc39",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2052.14,
+    "end": 2060.38
+  },
+  {
+    "text": "just to step back. Sometimes I look at this stuff, just, how much we understand about RNA, DNA, how much",
+    "uid": "744981a5069b39c4",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2060.38,
+    "end": 2067.58
+  },
+  {
+    "text": "we understand about protein, like your work, the amount of proteins that you're exploring,",
+    "uid": "4077bac78235aad2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2067.66,
+    "end": 2073.42
+  },
+  {
+    "text": "is it surprising to you that we were able, we descendants of apes, were able to figure all of this out.",
+    "uid": "ef291ca59a00c5d9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2074.7,
+    "end": 2081.58
+  },
+  {
+    "text": "Like, how, so your computer scientists, so for me, from computer science perspective, I know",
+    "uid": "1625986250116d78",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2081.58,
+    "end": 2089.58
+  },
+  {
+    "text": "how to write a Python program, things are clear, but biologists at giant mess, it feels like to me,",
+    "uid": "c3f2e027a560e09a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2089.58,
+    "end": 2096.46
+  },
+  {
+    "text": "from an outsider's perspective, is how surprising is it amazing that we're able to figure this stuff out?",
+    "uid": "78dcdddcf31430e6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2096.54,
+    "end": 2103.58
+  },
+  {
+    "text": "You know, if you look at the, you know, how computational science and computer science was evolving,",
+    "uid": "c8f7183d0fe1fa80",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2104.46,
+    "end": 2111.82
+  },
+  {
+    "text": "right, I think it was just a matter of time that we would approach biology. So, so we would start it from,",
+    "uid": "275ab5d0788255e8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2111.82,
+    "end": 2118.54
+  },
+  {
+    "text": "applications to much more fundamental systems, physics, and now we are, or, you know, a small chemical",
+    "uid": "7c53d3d014f68d52",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2119.1,
+    "end": 2130.78
+  },
+  {
+    "text": "compounds, right? So, now we are approaching the more complex biological systems, and I think it's",
+    "uid": "18379c601833533c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2130.78,
+    "end": 2141.42
+  },
+  {
+    "text": "a natural evolution of, you know, of the computer science of mathematics. So, sure, that's",
+    "uid": "212d3e53d1fa45f2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2141.5,
+    "end": 2149.1
+  },
+  {
+    "text": "the computer science, I just meant even in higher levels. So, that to me is surprising that computer",
+    "uid": "b9d1ad2f27419d55",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2149.1,
+    "end": 2154.54
+  },
+  {
+    "text": "science can offer help in this messy world, but it just means it's incredible that the biologists and",
+    "uid": "68a8b7fa08b39ffd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2154.54,
+    "end": 2161.34
+  },
+  {
+    "text": "the chemists can figure all this out, or is that just some ridiculous to you, that, that of course,",
+    "uid": "701f194f353a1365",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2161.34,
+    "end": 2167.02
+  },
+  {
+    "text": "they would. It just seems like a very complicated set of problems, like the variety of the kinds of",
+    "uid": "270d374bd70eac80",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2167.02,
+    "end": 2173.1
+  },
+  {
+    "text": "things that could be produced in the body, just, just, like you said, 29 approach, I mean,",
+    "uid": "10ac6d6ad7e5b5d3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2173.1,
+    "end": 2178.38
+  },
+  {
+    "text": "just getting a hand of a hang of it so quickly, it just seems impossible to me. I agree, I mean,",
+    "uid": "3437b5c07c5cbef6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2179.18,
+    "end": 2187.98
+  },
+  {
+    "text": "it's, and I have to say we are, you know, in the very, very beginning of this journey. I mean, we,",
+    "uid": "edacdbdbc0972992",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2187.98,
+    "end": 2195.9
+  },
+  {
+    "text": "we've yet to, I mean, we've yet to comprehend, not even try to understand and figure out all the details,",
+    "uid": "17396d9055f9ecc7",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2195.9,
+    "end": 2205.58
+  },
+  {
+    "text": "but we've yet to comprehend the complexity of the cell. We know that neuroscience is not even at the",
+    "uid": "f0885afe1f104a8e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2205.58,
+    "end": 2215.98
+  },
+  {
+    "text": "beginning of understanding the hum mind. So, where's biology, in terms of understanding the function,",
+    "uid": "b1fb49a30ff832be",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2215.98,
+    "end": 2224.7
+  },
+  {
+    "text": "deeply understanding the function of viruses and cells? So, there, sometimes it's easy to say when you",
+    "uid": "ed7b1350529d695e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2225.9,
+    "end": 2232.94
+  },
+  {
+    "text": "talk about function, what you really refer to is perhaps not a deep understanding, but more of a",
+    "uid": "c9e573aa099064d9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2232.94,
+    "end": 2239.42
+  },
+  {
+    "text": "understanding sufficient to be able to mess with it using a anti-vard, like, mess with it,",
+    "uid": "39af5aaecf8b1c19",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2240.3,
+    "end": 2246.22
+  },
+  {
+    "text": "chemically to prevent some of its function, or do you understand the function? Well, I think,",
+    "uid": "9cea79dfb6bd1883",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2246.22,
+    "end": 2251.9
+  },
+  {
+    "text": "deeply, I think we are much further in terms of understanding of the complex genetic disorder, such as cancer,",
+    "uid": "3c2d4c08c869f05d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2251.9,
+    "end": 2260.62
+  },
+  {
+    "text": "where you have layers of complexity and we, you know, in my laboratory, we're trying to contribute to",
+    "uid": "4fe4927ae1ce6611",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2260.62,
+    "end": 2266.86
+  },
+  {
+    "text": "that research, but we're also, you know, we're overwhelmed with how many different layers of complexity,",
+    "uid": "4bc704349a2b05c1",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2266.86,
+    "end": 2273.18
+  },
+  {
+    "text": "different layers of mechanisms that can be hijacked by cancer simultaneously. And so,",
+    "uid": "ea0a1fa5930baee9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2273.18,
+    "end": 2281.9
+  },
+  {
+    "text": "you know, I think biology in the past 20 years, again, from the perspective of the outsider,",
+    "uid": "01ad494d8a7c95a7",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2283.58,
+    "end": 2291.66
+  },
+  {
+    "text": "because I'm not a biologist, but I think it has advanced tremendously. And one thing that",
+    "uid": "278051df8636a1c8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2291.74,
+    "end": 2300.46
+  },
+  {
+    "text": "computational scientists and data scientists are now becoming very, very helpful is",
+    "uid": "62c8a9ff542b3dc7",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2301.74,
+    "end": 2311.66
+  },
+  {
+    "text": "in the fact, it's coming from the fact that we are now able to generate a lot of information",
+    "uid": "10721895f568621c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2313.18,
+    "end": 2319.42
+  },
+  {
+    "text": "about the cell, whether it's negligence sequencing or transcriptomics, whether it's",
+    "uid": "ecb7e8c9585e1dfa",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2320.38,
+    "end": 2329.66
+  },
+  {
+    "text": "life imaging information, where it is, you know, complex interactions between proteins or between",
+    "uid": "fb2b239a76221cd2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2329.66,
+    "end": 2338.3
+  },
+  {
+    "text": "proteins and small molecules such as drugs. We are becoming very efficient in generating this information.",
+    "uid": "a54956c7b62f2376",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2338.3,
+    "end": 2347.1
+  },
+  {
+    "text": "And now the next step is to become equally efficient in processing this information and",
+    "uid": "eb834f68466685ea",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2347.74,
+    "end": 2356.65
+  },
+  {
+    "text": "extracting the, the key knowledge from that. That could then be validated with experiment. Yeah,",
+    "uid": "20b571927e18acd8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2356.65,
+    "end": 2363.53
+  },
+  {
+    "text": "back. Yeah. So maybe then going all the way back, we're talking, you said the first step is seeing",
+    "uid": "deec121624812830",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2363.53,
+    "end": 2370.41
+  },
+  {
+    "text": "if you can match the new proteins you found in the virus, again, something we've seen before to",
+    "uid": "4bc7a2e7f92e18b1",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2370.41,
+    "end": 2375.53
+  },
+  {
+    "text": "figure out its function. And then you also mentioned that, but there could be cases where it's",
+    "uid": "c774f60be3b47e34",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2375.53,
+    "end": 2380.73
+  },
+  {
+    "text": "totally new protein. Is there something bound for medics can offer when it's totally new protein?",
+    "uid": "183e1830e152adf0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2380.73,
+    "end": 2386.81
+  },
+  {
+    "text": "This is where many of the methods and you probably are aware of, you know, the case of machine learning.",
+    "uid": "0e5d0e98d212ab40",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2388.17,
+    "end": 2394.25
+  },
+  {
+    "text": "Many of these methods rely on the previous knowledge. Right. So things that where we try to do from",
+    "uid": "fa389ddbcc54b0ff",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2394.25,
+    "end": 2404.01
+  },
+  {
+    "text": "scratch are incredibly difficult, you know, something that we call abonition. And this is, I mean,",
+    "uid": "c45e292fb80d9db7",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2404.01,
+    "end": 2411.61
+  },
+  {
+    "text": "it's not just the function. I mean, you know, where we've yet to have a robust method to predict the",
+    "uid": "a79444f2ae13d2d2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2411.61,
+    "end": 2418.49
+  },
+  {
+    "text": "structures of these proteins in abonition. You know, by not using any templates of other related proteins.",
+    "uid": "f596f056e75d6f2f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2418.49,
+    "end": 2431.85
+  },
+  {
+    "text": "So protein is a chain of amino acids, the residues, residues. Yeah. And then how somehow",
+    "uid": "5fe14c3db5eeae9f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2431.93,
+    "end": 2442.25
+  },
+  {
+    "text": "magically maybe you can tell me they seem to fold in incredibly weird and complicated 3D shapes. Yes.",
+    "uid": "f44513dcaa8e9a54",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2442.25,
+    "end": 2449.53
+  },
+  {
+    "text": "So that's where actually the idea of protein folding or just not the idea, but the problem of",
+    "uid": "6b46d011665339b5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2450.65,
+    "end": 2458.97
+  },
+  {
+    "text": "figuring out how they concept, how they fold into those weird shapes. So that's another side of",
+    "uid": "f2de49208162d242",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2458.97,
+    "end": 2466.73
+  },
+  {
+    "text": "computational work. So what can you describe what protein folding from the computational side is?",
+    "uid": "7ab8389b00a2fcc8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2466.73,
+    "end": 2473.37
+  },
+  {
+    "text": "And maybe your thoughts on the folding at home efforts that a lot of people know that you can use your",
+    "uid": "d5e9347a8d0ff2ea",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2473.37,
+    "end": 2479.29
+  },
+  {
+    "text": "machine to do protein folding. So yeah, protein folding is, you know, one of those one million dollar price",
+    "uid": "899611919ad17501",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2479.29,
+    "end": 2487.85
+  },
+  {
+    "text": "challenges. Right. So at the reason for that is we've yet to understand precisely how the protein",
+    "uid": "87d19612cae018c3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2489.53,
+    "end": 2499.05
+  },
+  {
+    "text": "gets folded so efficiently to the point that in many cases where you, you know, where you try to unfold it,",
+    "uid": "4e0111bf310397d4",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2499.61,
+    "end": 2508.41
+  },
+  {
+    "text": "due to the high temperature, it actually folds back into its original state. Right. So we know a lot about",
+    "uid": "dd80b283c1588c4a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2508.41,
+    "end": 2516.41
+  },
+  {
+    "text": "the mechanisms. Right. But putting those mechanisms together and making sense, it's a computation",
+    "uid": "50abcfea307e6649",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2516.49,
+    "end": 2527.85
+  },
+  {
+    "text": "of very expensive task. In general, the proteins fold, can they fold in arbitrary large number of ways,",
+    "uid": "74edf979acf70197",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2527.85,
+    "end": 2536.73
+  },
+  {
+    "text": "it's usually folded in a very small number of ways. It's typically, I mean, we tend to think that,",
+    "uid": "459c81fa1f4a0847",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2536.73,
+    "end": 2542.73
+  },
+  {
+    "text": "you know, there is a one sort of canonical fold for a protein although there are many cases where the",
+    "uid": "751ffa7d1f6be3ba",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2542.73,
+    "end": 2549.45
+  },
+  {
+    "text": "proteins, you know, upon destabilization, it can be folded into a different confirmation.",
+    "uid": "17a655a931725089",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2549.45,
+    "end": 2555.53
+  },
+  {
+    "text": "And this is especially true when you look at sort of proteins that include more than one structural unit.",
+    "uid": "1ea5e6ca822e0db4",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2556.49,
+    "end": 2566.01
+  },
+  {
+    "text": "So those structural units we call them protein domains. Essentially, protein domain is a single",
+    "uid": "2d99959b7c98263d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2566.01,
+    "end": 2573.13
+  },
+  {
+    "text": "unit that typically is a evolutionary preserve, the typically carries out a single function,",
+    "uid": "ecdd60681e26cfe8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2573.13,
+    "end": 2579.21
+  },
+  {
+    "text": "and typically has a very distinct fold. Right. This structure, three destructual organization.",
+    "uid": "2b99c2cde71b2de2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2579.77,
+    "end": 2586.81
+  },
+  {
+    "text": "But turns out that if you look at human and average protein in a human cell would have two or three",
+    "uid": "67cef99bc1f24bf8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2586.81,
+    "end": 2595.21
+  },
+  {
+    "text": "such subunits. And how they are trying to fold into the sort of, you know,",
+    "uid": "1b63f2e0b5aa08c9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2595.93,
+    "end": 2605.77
+  },
+  {
+    "text": "next level, fold, right. So within subunitors folding and then they fold into the larger three structure.",
+    "uid": "9b3dc1f2e43581b2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2607.13,
+    "end": 2617.85
+  },
+  {
+    "text": "And all of that, there's some understanding of the basic mechanisms, but not to put together to be able",
+    "uid": "6d16e76a46f9d029",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2618.97,
+    "end": 2623.93
+  },
+  {
+    "text": "where still I mean, where still struggling, I mean, where we're getting pretty good about folding",
+    "uid": "a03416a70b88df13",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2624.89,
+    "end": 2630.41
+  },
+  {
+    "text": "relatively small proteins up to 100 residues, I mean, but where still far away from folding, you know,",
+    "uid": "abd1c1d7b692daa8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2631.21,
+    "end": 2640.89
+  },
+  {
+    "text": "larger proteins. And some of them are notoriously difficult, for example, trans membrane proteins,",
+    "uid": "017e7f2304938df2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2640.89,
+    "end": 2647.85
+  },
+  {
+    "text": "that that sit in the membranes of the cell, they're incredibly important,",
+    "uid": "49a13c81ead38540",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2648.49,
+    "end": 2655.45
+  },
+  {
+    "text": "but they are incredibly difficult to solve. And so basically, there's a lot of degrees of freedom,",
+    "uid": "91c452a162aaa2fd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2656.25,
+    "end": 2662.89
+  },
+  {
+    "text": "how it folds. And so it's a combinatorial problem, or just explodes. There's so many dimensions.",
+    "uid": "ef41fc42e6711533",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2662.89,
+    "end": 2668.49
+  },
+  {
+    "text": "And well, it is a combinatorial problem, but it doesn't mean that we cannot approach it from the",
+    "uid": "ff8cb3f3902fc1a5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2668.49,
+    "end": 2674.65
+  },
+  {
+    "text": "non-connab, not from the boot force approach. And so the machine-learning approaches,",
+    "uid": "6da0ffae797ecb7f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2675.13,
+    "end": 2683.13
+  },
+  {
+    "text": "you know, have been emerged that tried to tackle it. So folding in home, I don't know how familiar",
+    "uid": "7690522a392971a4",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2683.77,
+    "end": 2690.97
+  },
+  {
+    "text": "with it, but is that used machine learning or is it more brute force? No, so folding at home, it was",
+    "uid": "ddf802cb7c6d2d34",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2690.97,
+    "end": 2696.73
+  },
+  {
+    "text": "originally, I remember I was a, I was a, I mean, it was long time ago, I was a post doc,",
+    "uid": "f07ff9bd5d26a1c2",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2696.73,
+    "end": 2702.17
+  },
+  {
+    "text": "and we learned about this, you know, this game, because it was originally designed as the game.",
+    "uid": "868f26cb9ecc1d0a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2703.13,
+    "end": 2710.09
+  },
+  {
+    "text": "And we, you know, I took a look at it and it's interesting because it's really, you know, it's very",
+    "uid": "a8b5417db4864577",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2710.09,
+    "end": 2720.17
+  },
+  {
+    "text": "transparent, very intuitive. So, and from what I heard, I've yet to introduce it to my son,",
+    "uid": "ff861654bf1e6205",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2720.17,
+    "end": 2727.29
+  },
+  {
+    "text": "but, you know, kids are actually getting very good at folding the proteins. And it was, you know,",
+    "uid": "f1dc3b62e08465c9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2727.37,
+    "end": 2734.65
+  },
+  {
+    "text": "came to me as the, as the, not as a surprise, but actually as the sort of manifest of, you know,",
+    "uid": "df8a2a3afceab3c6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2736.25,
+    "end": 2745.93
+  },
+  {
+    "text": "our capacity to do this kind of, to solve this kind of problems. When a paper was published,",
+    "uid": "8f5bd3f97c151819",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2745.93,
+    "end": 2756.81
+  },
+  {
+    "text": "published in one of these top journals with the authors being the actual players of this game.",
+    "uid": "6f3f6553756c3903",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2756.89,
+    "end": 2766.41
+  },
+  {
+    "text": "So, and what happened is, was that they managed to get better structures than the scientists themselves.",
+    "uid": "d17fbcf89f1e1494",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2767.45,
+    "end": 2776.81
+  },
+  {
+    "text": "So, so that, you know, that was very, I mean, it was kind of profound, you know,",
+    "uid": "79f0e1c4edbd98a6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2777.37,
+    "end": 2786.81
+  },
+  {
+    "text": "revelation that problems that are so challenging for a computational science,",
+    "uid": "e60d519579664395",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2786.81,
+    "end": 2794.09
+  },
+  {
+    "text": "maybe not that challenging for a human brain.",
+    "uid": "9fcef4381bbc7711",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2795.61,
+    "end": 2798.09
+  },
+  {
+    "text": "Well, that's a really good, that's a hopeful message always when there's a,",
+    "uid": "51111ac7d55a6626",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2798.17,
+    "end": 2803.53
+  },
+  {
+    "text": "the proof of existence, the existence proof that it's possible. That's really interesting, but",
+    "uid": "2255f9db5deb9d31",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2805.93,
+    "end": 2812.89
+  },
+  {
+    "text": "it seems, what are the best ways to do protein folding now? So, if you look at where deep mind does",
+    "uid": "212a502e06a1bccb",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2812.89,
+    "end": 2820.57
+  },
+  {
+    "text": "with alpha fold, alpha fold. Yes. So, they kind of, is that's an learning approach? What's your",
+    "uid": "147eb95754bc06cc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2821.37,
+    "end": 2827.45
+  },
+  {
+    "text": "sense? I mean, your background is a machine learning, but is this a learnable problem? Is this still a",
+    "uid": "8a15e892dd11aed6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2827.45,
+    "end": 2833.61
+  },
+  {
+    "text": "brute force? Are we in the, uh, Gary Kasparov, deep blue days? Are we in the alpha go playing the game of",
+    "uid": "3a9ff9dae47edff1",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2833.61,
+    "end": 2842.33
+  },
+  {
+    "text": "go days of folding? Well, I think we are advancing towards this direction. I mean, if you look,",
+    "uid": "84ef8d6eabf170d6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2842.41,
+    "end": 2849.93
+  },
+  {
+    "text": "so there is sort of Olympic game for protein folders called Kasparov. And it's essentially,",
+    "uid": "60f5e3c08b64105d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2849.93,
+    "end": 2856.89
+  },
+  {
+    "text": "it's, you know, it's a competition where different teams are given exactly the same",
+    "uid": "a0ca6c1e534e06d8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2856.89,
+    "end": 2864.41
+  },
+  {
+    "text": "protein sequences. And they try to predict their structures, right? And of course, there's",
+    "uid": "d5c8e05816a0063d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2864.73,
+    "end": 2871.61
+  },
+  {
+    "text": "different sort of sub-task, but in the recent competition alpha fold was among the top-performing",
+    "uid": "d9952256b7c49c84",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2871.61,
+    "end": 2881.53
+  },
+  {
+    "text": "teams, if not the top-performing team. So, there is definitely a benefit from the data that",
+    "uid": "cf62272cce728c4c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2881.53,
+    "end": 2890.97
+  },
+  {
+    "text": "have been generated in the past several decades, the structural data. And certainly,",
+    "uid": "17d761ed20eed650",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2891.85,
+    "end": 2897.93
+  },
+  {
+    "text": "you know, we are now at the capacity to summarize this data, to generalize this data, and to use",
+    "uid": "9137d22dd9f28f43",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2899.05,
+    "end": 2908.81
+  },
+  {
+    "text": "those principles, you know, in order to predict protein structures. That's one of the really cool",
+    "uid": "48ce80dcbe0de199",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2908.81,
+    "end": 2915.05
+  },
+  {
+    "text": "things here is there's maybe you can comment on it. There seems to be these open data sets of protein.",
+    "uid": "3f4a51234dbcfa46",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2915.13,
+    "end": 2921.53
+  },
+  {
+    "text": "How do that? What the protein data bank? The protein data bank. I mean, that's crazy. Is this a",
+    "uid": "50f3f5b4e5175d12",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2922.49,
+    "end": 2930.01
+  },
+  {
+    "text": "recent thing for just the coronavirus or is it been for many many years? I believe the first",
+    "uid": "8ffcde6b8080dca1",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2930.01,
+    "end": 2937.45
+  },
+  {
+    "text": "protein data bank was designed on flashcards. So, yes, I mean, this is a great example of",
+    "uid": "173f1d47c2a6171b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2937.53,
+    "end": 2950.89
+  },
+  {
+    "text": "the community efforts of everyone contributing, because every time you solve a protein or a protein",
+    "uid": "533ae608575f5bbd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2951.93,
+    "end": 2961.37
+  },
+  {
+    "text": "complex, this is where you submit it. And, you know, the scientists get access to it,",
+    "uid": "62d96e041dc41dbf",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2961.37,
+    "end": 2970.73
+  },
+  {
+    "text": "scientists get to test it, and we by information use this information to make predictions.",
+    "uid": "39df6ddd6bb64a21",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2970.73,
+    "end": 2981.61
+  },
+  {
+    "text": "So, there's no culture like hoarding discoveries here. So, I mean, you've released",
+    "uid": "9c2f5311db8fb83c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2982.57,
+    "end": 2991.21
+  },
+  {
+    "text": "a few or a bunch of proteins that are matching, that's what I will talk about detail a little bit,",
+    "uid": "c50f56f913ee3064",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2991.21,
+    "end": 2997.29
+  },
+  {
+    "text": "but it's kind of amazing that that's the kind of amazing how open the culture here is.",
+    "uid": "181d1c0146c8f315",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 2997.29,
+    "end": 3006.49
+  },
+  {
+    "text": "It is. And I think this pandemic actually demonstrated the ability of scientific community",
+    "uid": "647d38cd0945ddcc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3007.21,
+    "end": 3017.45
+  },
+  {
+    "text": "to solve this challenge collaboratively. And this is I think if anything, it actually",
+    "uid": "763e810c41dc7860",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3017.69,
+    "end": 3026.81
+  },
+  {
+    "text": "moved us to a brand new level of collaborations of the efficiency in which people establish new",
+    "uid": "9151defd60b51c1e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3026.81,
+    "end": 3036.73
+  },
+  {
+    "text": "collaborations in which people offer their help to each other, scientists offer their help to each other.",
+    "uid": "165ddceadd60e30e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3036.73,
+    "end": 3044.57
+  },
+  {
+    "text": "And published results too, it's very interesting. Now trying to figure out as a few journals that",
+    "uid": "b6cbc231bd31e8be",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3044.65,
+    "end": 3050.01
+  },
+  {
+    "text": "are trying to sort of do the very accelerated review cycle, but so many preprints. So, just posting a paper going",
+    "uid": "ea951d1998421891",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3050.01,
+    "end": 3057.69
+  },
+  {
+    "text": "out, I think it's fundamentally changing the way we think about papers. Yes. I mean, the way we think about",
+    "uid": "2341c06d104e53e0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3057.69,
+    "end": 3067.13
+  },
+  {
+    "text": "knowledge, now let's say, now yes. Because yes, I completely agree. I think now it's",
+    "uid": "f54a2a941483e634",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3067.13,
+    "end": 3075.69
+  },
+  {
+    "text": "the knowledge becoming sort of the core value, not the paper or the journal where this knowledge is",
+    "uid": "2dec0a06eb00b904",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3076.97,
+    "end": 3085.93
+  },
+  {
+    "text": "published. And I think this is again, we are living in the in the times where it becomes",
+    "uid": "e37535c38093d558",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3085.93,
+    "end": 3096.81
+  },
+  {
+    "text": "really crystallized, that the idea that the most important value is in the knowledge.",
+    "uid": "51ab5082b978a9d5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3096.81,
+    "end": 3102.89
+  },
+  {
+    "text": "So, maybe you can comment, like, what do you think the future of that knowledge sharing looks like?",
+    "uid": "d38f5441a838f65b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3102.89,
+    "end": 3107.93
+  },
+  {
+    "text": "So, you have this paper that will, I hope we get a chance to talk about a little bit, but it has like a really",
+    "uid": "fb1480b0ba74fab6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3107.93,
+    "end": 3113.45
+  },
+  {
+    "text": "nice abstract and introduction and really like, it has all the usual, I mean, probably took a long time to put",
+    "uid": "449be334f8fe7124",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3113.45,
+    "end": 3119.77
+  },
+  {
+    "text": "together. So, but is that going to remain like you could have communicated a lot of fundamental ideas here",
+    "uid": "c9179c6043066f35",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3119.77,
+    "end": 3129.37
+  },
+  {
+    "text": "in much shorter amount that's less traditionally acceptable by the journal context. So, so, well,",
+    "uid": "8377ba2eb40c8dc3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3129.37,
+    "end": 3138.09
+  },
+  {
+    "text": "you know, so the first version that we posted, not even on a buyer type because buyer type,",
+    "uid": "ea470a6474db4755",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3138.09,
+    "end": 3146.33
+  },
+  {
+    "text": "back then, it was essentially, you know, overwhelmed with the number of submissions. So, our submission,",
+    "uid": "3fd22d9c18e9dc08",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3146.33,
+    "end": 3155.37
+  },
+  {
+    "text": "I think it took five or six days to just for it to be screened and put online. So, we, you know,",
+    "uid": "aabe65011ad54607",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3156.01,
+    "end": 3165.21
+  },
+  {
+    "text": "essentially we put the first pre-print on our website and you know, it will, it's, it's",
+    "uid": "ed1105bbbb3775f9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3165.21,
+    "end": 3172.89
+  },
+  {
+    "text": "started getting access right away. So, and you know, so, this original preprint was in a much",
+    "uid": "586af14132ce0815",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3172.89,
+    "end": 3183.21
+  },
+  {
+    "text": "rougher shape than this paper, but we tried, I mean, we honestly tried to be as compact as possible",
+    "uid": "255c673a0e7b1eaa",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3183.21,
+    "end": 3193.69
+  },
+  {
+    "text": "with, you know, introducing the information that is necessary that the two explain our, you know,",
+    "uid": "a8368dd012f168da",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3193.85,
+    "end": 3204.81
+  },
+  {
+    "text": "our results. So, maybe you can dive right in if it's okay. Sure. So, there's a paper called",
+    "uid": "972edb780161cc87",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3204.81,
+    "end": 3211.13
+  },
+  {
+    "text": "structure, genomics of SARS-Co, how do you even pronounce SARS-CoV-2? CoV-2? Yeah. By the COVID-19",
+    "uid": "73bed2d867580125",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3211.13,
+    "end": 3220.09
+  },
+  {
+    "text": "is such a terrible name, but it's stuck. And yes, SARS-CoV-2 indicates evolutionary,",
+    "uid": "27304ea9026480c9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3220.09,
+    "end": 3226.17
+  },
+  {
+    "text": "conserved functional regions of viral proteins. So, this is looking at all kinds of proteins that are part",
+    "uid": "bddf0ab09d423ae0",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3226.57,
+    "end": 3233.93
+  },
+  {
+    "text": "of the, this novel coronavirus and how they match up against the previous other kinds of coronavirus.",
+    "uid": "090adb846c3ccdf4",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3233.93,
+    "end": 3241.77
+  },
+  {
+    "text": "I mean, there's a lot of beautiful figures. I was wondering if you could, I mean, there's so many",
+    "uid": "6db060e451af972a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3242.49,
+    "end": 3246.57
+  },
+  {
+    "text": "questions that you can ask here, but maybe it's a, how do you get started doing this paper? So, how do",
+    "uid": "6223408697ee3c17",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3246.57,
+    "end": 3252.25
+  },
+  {
+    "text": "you start to figure out the three destructure of the novel virus? Yeah. So, this actually a, a little story behind",
+    "uid": "3a3c86c8cefa8e65",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3252.25,
+    "end": 3259.85
+  },
+  {
+    "text": "it. And so, the story actually dated back in September of 2019. And you probably remember that,",
+    "uid": "5514b18ab788fa57",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3259.85,
+    "end": 3269.69
+  },
+  {
+    "text": "back then, we had another dangerous virus. Triple E virus is Eastern, a Queen, in civil",
+    "uid": "f2ffb9ee6468df04",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3270.57,
+    "end": 3277.69
+  },
+  {
+    "text": "light, the virus. And can you maybe linger, I have to admit, I was sadly completely unaware. So,",
+    "uid": "5298376e6cb9c050",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3277.69,
+    "end": 3286.33
+  },
+  {
+    "text": "so that was actually a virus outbreak that happened in New England only. The danger in this virus was",
+    "uid": "035f35fcb700cd40",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3286.33,
+    "end": 3295.05
+  },
+  {
+    "text": "that it actually targeted you brain. So, the word deaths from this virus, it was, it was trans,",
+    "uid": "3b61e3e173e1af2c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3295.05,
+    "end": 3307.45
+  },
+  {
+    "text": "trans, the main vector was mosquitoes. And obviously, full time is, you know, the time where you have a",
+    "uid": "affde0d58c8fa4bf",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3308.33,
+    "end": 3316.97
+  },
+  {
+    "text": "lot of them in New England. And, you know, on one hand, people realize this is, this is actually",
+    "uid": "a1929428dbbaf2b3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3316.97,
+    "end": 3325.61
+  },
+  {
+    "text": "very dangerous thing. So, it had an impact on the local economy. The schools were closed, past six,",
+    "uid": "37f18db77abedc24",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3325.61,
+    "end": 3336.97
+  },
+  {
+    "text": "or clock, no activity is outside for the kids because the kids were suffering quite tremendously from,",
+    "uid": "3e4e74a32b0e2011",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3336.97,
+    "end": 3344.49
+  },
+  {
+    "text": "you know, when infected from this virus. How do I know about this? Was it what was impacted?",
+    "uid": "503d3dfd1bd6e15b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3344.49,
+    "end": 3352.09
+  },
+  {
+    "text": "It was in the news, I mean, it was not impacted to to high degree in Boston necessarily, but in the",
+    "uid": "6712be95dc72f122",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3352.09,
+    "end": 3361.29
+  },
+  {
+    "text": "matter of us area. And actually, it spread around, I think, all the way to New Hampshire, Connecticut.",
+    "uid": "60a0513421afa48f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3361.29,
+    "end": 3368.57
+  },
+  {
+    "text": "And you mentioned affecting the brain. That's one other comment, which it makes. So, you mentioned",
+    "uid": "e408580806c8a6fc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3369.21,
+    "end": 3374.57
+  },
+  {
+    "text": "a AC2 for the coronavirus. So, these viruses kind of attached to something in the body.",
+    "uid": "e6768ef37ed3c0a1",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3374.57,
+    "end": 3382.57
+  },
+  {
+    "text": "So, it essentially attaches to these proteins in those cells in the body, where those proteins are expressed,",
+    "uid": "3a8e3c5f13438be1",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3383.69,
+    "end": 3392.25
+  },
+  {
+    "text": "where they actually have them in abundance. So, sometimes there could be in the lungs that could be",
+    "uid": "9951e677985da192",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3392.25,
+    "end": 3398.01
+  },
+  {
+    "text": "in the brain. So, I think what they right now from what they read, they have the epithetial cells",
+    "uid": "a620bfc8be15cb8d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3398.01,
+    "end": 3408.41
+  },
+  {
+    "text": "inside. So, the cells essentially inside the, you know, the cells that are covering the surface.",
+    "uid": "aed27defd810c19e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3409.77,
+    "end": 3417.13
+  },
+  {
+    "text": "So, inside the nasal surfaces, the throat, the lung cells, and I believe,",
+    "uid": "d0e8110d11794433",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3417.85,
+    "end": 3427.45
+  },
+  {
+    "text": "liver as a couple of other organs, where they are actually expressed in the abundance. That's for the AC2,",
+    "uid": "165c165df8ac1296",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3427.45,
+    "end": 3434.89
+  },
+  {
+    "text": "for the AC2 receptors. So, okay, so back to the story, yes, so now, these, you know, the impact of",
+    "uid": "43c6e6439cc4672b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3434.89,
+    "end": 3445.77
+  },
+  {
+    "text": "this virus is significant. However, it's a pre-local problem. To the point that, you know,",
+    "uid": "2e131d420170ac03",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3445.77,
+    "end": 3455.21
+  },
+  {
+    "text": "this is something that we would call neglected disease. Because it's not big enough to make, you know,",
+    "uid": "e2014ffc721c424e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3455.21,
+    "end": 3464.97
+  },
+  {
+    "text": "the drug design companies to design a new antiviral or a new vaccine. It's not big enough to",
+    "uid": "07e8b4c5c51bb42f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3464.97,
+    "end": 3476.01
+  },
+  {
+    "text": "generate a lot of grants from the nation of finding agencies. So, so does it mean we cannot do anything",
+    "uid": "8d33af4307b0f13d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3476.01,
+    "end": 3488.09
+  },
+  {
+    "text": "about it. And so what I did is I thought a bind-phamatic class. And it's in most report technique in",
+    "uid": "f6edd176ad1144e3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3488.09,
+    "end": 3498.41
+  },
+  {
+    "text": "institute and we are very much a problem-learning institution. So, I thought that that would be a perfect,",
+    "uid": "6a918cd7fda50c63",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3498.41,
+    "end": 3509.13
+  },
+  {
+    "text": "you know, perfect project. But I'm not going case study. So, so I ask it, you know, so, so I",
+    "uid": "3ec115803a355464",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3509.21,
+    "end": 3517.29
+  },
+  {
+    "text": "will essentially design a study where we tried to use bind-phamatics to to understand as much as possible",
+    "uid": "0c1a5b86dfdf0d8b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3517.29,
+    "end": 3525.77
+  },
+  {
+    "text": "about this virus. And a very substantial portion of the study was to understand the structures of the",
+    "uid": "c08fc0415d4d9ad8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3525.77,
+    "end": 3534.89
+  },
+  {
+    "text": "proteins to understand how they interact with with each other and with the with the horse proteins,",
+    "uid": "5f72959b29d7eaaf",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3534.89,
+    "end": 3542.89
+  },
+  {
+    "text": "try to understand the evolution of this virus. So, obviously, you know, a very important question,",
+    "uid": "4db14854682a0c50",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3543.77,
+    "end": 3550.89
+  },
+  {
+    "text": "how where it will evolve further, how, you know, how it happened here, you know. So, so we did all this,",
+    "uid": "677808f2ac3cd377",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3551.45,
+    "end": 3563.21
+  },
+  {
+    "text": "you know, projects. And now I'm trying to put them into a paper where all these undergradious",
+    "uid": "4cf101b60a6e70db",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3563.53,
+    "end": 3569.69
+  },
+  {
+    "text": "students will be called as a result. But essentially, the projects were finished right about mid December.",
+    "uid": "df4dd1ca761a9696",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3569.69,
+    "end": 3577.85
+  },
+  {
+    "text": "And a couple of weeks later, I heard about these mysterious new virus that was discovered in,",
+    "uid": "54721e52f53ce79f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3579.29,
+    "end": 3587.93
+  },
+  {
+    "text": "you know, was reported in in Wuhan province. And immediately I thought that, well,",
+    "uid": "8a15f5fc66887d2a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3587.93,
+    "end": 3593.69
+  },
+  {
+    "text": "we just did that, can't we do the same thing with these virus? And so we started waiting for the genome to be",
+    "uid": "2f771523602b298e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3594.49,
+    "end": 3603.53
+  },
+  {
+    "text": "released. Because that's essentially the first piece of information that is critical. Once you have the",
+    "uid": "af4a08cbd29c6653",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3603.53,
+    "end": 3609.77
+  },
+  {
+    "text": "genome sequence, you can start doing a lot using bind-phamatics. When you say, genome sequence that's",
+    "uid": "78727de0b619d7c9",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3609.77,
+    "end": 3615.37
+  },
+  {
+    "text": "referring to the sequence of letters that make up to RNA. So, the well, the sequence that make up the entire",
+    "uid": "1d11e45ff890f568",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3615.37,
+    "end": 3624.41
+  },
+  {
+    "text": "information encoded in the protein, right? So, so that includes all 29 genes. What are genes? What's the",
+    "uid": "4c6783edf1cd75e3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3624.97,
+    "end": 3636.65
+  },
+  {
+    "text": "encoding of information? So, so, genes is essentially, is a basic functional unit that we can",
+    "uid": "65c8d1be45d125c3",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3636.73,
+    "end": 3646.65
+  },
+  {
+    "text": "consider. So, so each gene in the virus would correspond to a protein that, so gene by itself,",
+    "uid": "faaea62941a585b6",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3646.65,
+    "end": 3655.37
+  },
+  {
+    "text": "doesn't do it function. It needs to be converted or translated into the protein that will become",
+    "uid": "4096b625db9851fc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3655.61,
+    "end": 3664.65
+  },
+  {
+    "text": "the actual functional unit. Like you said, the printer. So, we need the printer for that. We need the",
+    "uid": "6fed27c907937fb8",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3664.65,
+    "end": 3671.77
+  },
+  {
+    "text": "printer. Okay, so the first step is to figure out that the genome, the sequence of things that",
+    "uid": "12da2c3c417d8175",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3671.77,
+    "end": 3678.73
+  },
+  {
+    "text": "could be then used for putting the protein. So, okay. So, then the next step. So, so, once we have this,",
+    "uid": "d7ec3181b1f5d916",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3679.45,
+    "end": 3686.73
+  },
+  {
+    "text": "and so, we use the existing information about SARS-CoS, the SARS genomics has been done",
+    "uid": "79dbb4fcf5be96dd",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3687.29,
+    "end": 3695.05
+  },
+  {
+    "text": "in abundance. So, we have different strains of SARS and actually other related coronavirus",
+    "uid": "e5b5fd07b13a6780",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3697.29,
+    "end": 3703.53
+  },
+  {
+    "text": "smears, the bad coronavirus. And we started by identifying the potential genes because right now,",
+    "uid": "4f2c3f8166841127",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3703.53,
+    "end": 3715.45
+  },
+  {
+    "text": "it's just the sequence, right? So, the sequence that is roughly, it's less than 30,000 nuclear type",
+    "uid": "32ced9b7477c8d8c",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3715.53,
+    "end": 3722.09
+  },
+  {
+    "text": "long and it's a raw sequence. It's a raw sequence. No other information. And we now need to define",
+    "uid": "b0733179f047d0bf",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3723.53,
+    "end": 3732.65
+  },
+  {
+    "text": "the boundaries of the genes that would then be used to identify the protein and protein structures.",
+    "uid": "3020f0f24b49e25d",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3732.65,
+    "end": 3741.69
+  },
+  {
+    "text": "How heard is that problem? It's not, I mean, it's pre-strait forward. So, so, because we use the",
+    "uid": "6e8d2fef9199a280",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3742.33,
+    "end": 3750.81
+  },
+  {
+    "text": "existing information about SARS proteins and SARS genomics. So, once again, we are relying on the",
+    "uid": "6614212d153ece54",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3750.81,
+    "end": 3758.89
+  },
+  {
+    "text": "yes. So, and then, once we get there, this is where sort of the first more traditional",
+    "uid": "f7f42e1d733af7fc",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3759.45,
+    "end": 3770.73
+  },
+  {
+    "text": "bioinformatics steps, step begins. We're trying to use this protein sequences and get the three",
+    "uid": "c315da4a4af06043",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3770.73,
+    "end": 3779.45
+  },
+  {
+    "text": "information about those proteins. So, this is where we are relying heavily on destruction,",
+    "uid": "4232c1491a1de8e5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3779.45,
+    "end": 3790.22
+  },
+  {
+    "text": "formation, specifically from the protein data bank that we were talking about. And here you're looking",
+    "uid": "aff049ff0905097e",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3790.22,
+    "end": 3796.86
+  },
+  {
+    "text": "for similar proteins. Yes. So, the concept that we are operating when we do this kind of modeling,",
+    "uid": "1593b7fe3152bd6f",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3796.86,
+    "end": 3805.1
+  },
+  {
+    "text": "it's called homology or template based modeling. So, essentially, using the concept that, if you",
+    "uid": "71d5f9be0dca5e52",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3805.1,
+    "end": 3812.94
+  },
+  {
+    "text": "have two sequences that are similar in terms of the letters, the structures of these sequences are",
+    "uid": "15e6396533067c21",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3812.94,
+    "end": 3821.9
+  },
+  {
+    "text": "expected to be similar as well. And this is at the micro, at a very local scale and at the scale of",
+    "uid": "cb879d713fb7c4ad",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3821.9,
+    "end": 3829.58
+  },
+  {
+    "text": "the whole protein, the whole protein. So, actually, so, you know, so, of course, the devil is",
+    "uid": "4b0c4e095e34426b",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3829.58,
+    "end": 3836.38
+  },
+  {
+    "text": "any details and this is why we need actually pre-sacificated modeling tools to do so.",
+    "uid": "db1a7c8335eb9bfb",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3836.38,
+    "end": 3848.26
+  },
+  {
+    "text": "Once we get these structures of the individual proteins, we try to see whether or not",
+    "uid": "694f5ef466239898",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3851.62,
+    "end": 3859.62
+  },
+  {
+    "text": "this proteins act alone or they have to be forming protein complexes in order to perform this function.",
+    "uid": "0f2da6949be18058",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3860.1,
+    "end": 3870.5
+  },
+  {
+    "text": "And again, so this is sort of the next level of the modeling because now you need to understand how",
+    "uid": "49193ecf25103bc5",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3871.46,
+    "end": 3877.78
+  },
+  {
+    "text": "proteins interact and it could be the case that the protein interacts with itself and makes sort of",
+    "uid": "ab7e1d18f1601764",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3877.78,
+    "end": 3887.38
+  },
+  {
+    "text": "a a multimeric complex. The same protein just repeated multiple times and we have quite a quite a",
+    "uid": "7b63c2891de3804a",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3887.38,
+    "end": 3896.5
+  },
+  {
+    "text": "few such proteins in SARS-CoV-2, specifically spike protein, need.",
+    "uid": "b127791696daa921",
+    "source": "Lex_Fridman - Dmitry_Korkin_-_Computational_Biology_of_Coronavirus_Lex_Fridman_P",
+    "start": 3896.5,
+    "end": 3906.5
+  }
+]
