@@ -1,0 +1,982 @@
+[
+  {
+    "text": "Welcome to the Human Lab podcast where we discuss science and science-based tools for everyday life.",
+    "uid": "f09794bd4ae53b49",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 0.0,
+    "end": 6.0
+  },
+  {
+    "text": "I'm Andrew Heuberman and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.",
+    "uid": "6114702f84690d33",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 6.0,
+    "end": 15.24
+  },
+  {
+    "text": "My guest today is Dr. Casey Means. Dr. Casey Means did her undergraduate degree at Stanford University and her medical degree at Stanford University School of Medicine.",
+    "uid": "3c90859316c1f632",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 15.24,
+    "end": 24.24
+  },
+  {
+    "text": "She is one of the world's foremost experts in metabolic health. Today we discuss how metabolic function and dysfunction impacts our health.",
+    "uid": "1e5ec44bbca33395",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 24.24,
+    "end": 31.24
+  },
+  {
+    "text": "In particular we discuss mitochondria which are involved in energy production within ourselves and the various things that we can each and all do to ensure proper mitochondrial function which is essential not just for things like body composition and physical and mental energy,",
+    "uid": "8d16966267d6045e",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 32.24,
+    "end": 45.24
+  },
+  {
+    "text": "but also our ability to regulate hormones, blood sugar and much more.",
+    "uid": "955065e70040cd43",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 45.24,
+    "end": 50.24
+  },
+  {
+    "text": "We discuss how exercise even simple exercise like walking as well as sleep as well as more vigorous exercise and in particular nutrition including the types of foods we eat,",
+    "uid": "3e381bc2db0743e4",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 50.24,
+    "end": 60.24
+  },
+  {
+    "text": "the timing of food intake and the sources and quality of those foods impact our mitochondria and other aspects of metabolic function.",
+    "uid": "273a058bc80a8f16",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 60.24,
+    "end": 67.24
+  },
+  {
+    "text": "We also discuss how particular micro nutrients within specific foods can directly impact mitochondrial and metabolic health.",
+    "uid": "12e240075448b2e1",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 67.24,
+    "end": 74.24
+  },
+  {
+    "text": "Dr. Means explains how mitochondria, inflammation and reactive oxygen species which are the byproducts of metabolism in ourselves can combine to create conditions of obesity as well as ways that we can manage those things or even reverse mitochondrial and",
+    "uid": "e2b62606a672b9b1",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 74.24,
+    "end": 89.24
+  },
+  {
+    "text": "mitochondrial, inflammation and reactive oxygen species dysfunction in order to reverse obesity, reverse diabetes and enhance our health in myriad ways.",
+    "uid": "dedf8a388775c2ab",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 89.24,
+    "end": 98.24
+  },
+  {
+    "text": "By the end of today's discussion you'll have a clear picture of the cellular processes that occur in the brain and body that underlie metabolic disease and metabolic health.",
+    "uid": "989dc75f615bd642",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 98.24,
+    "end": 107.24
+  },
+  {
+    "text": "And most importantly you'll have a very clear picture of the actionable items that we can each and all carry out every day and every week in order to ensure metabolic health, proper mitochondrial function and indeed that can also impact body composition and overall feelings of well-being.",
+    "uid": "cf1a593d0c00b8b8",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 107.24,
+    "end": 123.24
+  },
+  {
+    "text": "I would also like to share that Dr. Casey Means has a terrific new book coming out. I know it's terrific because I've read it. It is entitled Good Energy, the surprising connection between metabolism and limitless health.",
+    "uid": "6c98d7980ebeb4b3",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 123.24,
+    "end": 134.24
+  },
+  {
+    "text": "If you're interested in the book, we've provided a link to the book in the show note captions.",
+    "uid": "51068ca4fc02b637",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 134.24,
+    "end": 138.24
+  },
+  {
+    "text": "Before you begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford.",
+    "uid": "297604b534f3e77b",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 138.24,
+    "end": 144.24
+  },
+  {
+    "text": "It is however part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public.",
+    "uid": "dbbce96c1ab625b8",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 144.24,
+    "end": 151.24
+  },
+  {
+    "text": "And keeping with that theme, I'd like to thank the sponsors of today's podcast. Our first sponsor is Maui Newy Venison.",
+    "uid": "98df30812f390729",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 151.24,
+    "end": 158.24
+  },
+  {
+    "text": "Maui Newy Venison is the most nutrient dense and delicious red meat available.",
+    "uid": "b7f8e8e5bc068ff0",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 158.24,
+    "end": 162.24
+  },
+  {
+    "text": "I've spoken before on this podcast and with several experts, guests on this podcast about the fact that most of us should be seeking to get about one gram of quality protein per pound a body weight every day.",
+    "uid": "0842ae29975dd50e",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 162.24,
+    "end": 174.24
+  },
+  {
+    "text": "Not only does that protein provide critical building blocks for things like muscle repair and synthesis, but also for overall metabolism and health.",
+    "uid": "f3cf0ead16034ca0",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 174.24,
+    "end": 182.24
+  },
+  {
+    "text": "Eating enough quality protein each day is also a terrific way to stay off hunger.",
+    "uid": "96ddc36b0eda8a4a",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 182.24,
+    "end": 186.24
+  },
+  {
+    "text": "One of the key things, however, is to make sure that you're getting enough quality protein without ingesting excess calories.",
+    "uid": "ecf5d58e8a06de62",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 186.24,
+    "end": 192.24
+  },
+  {
+    "text": "Maui Newy Venison has an extremely high quality protein per calorie ratio, such that getting one gram of protein per pound a body weight is both easy and doesn't cause you to ingest an excessive calories.",
+    "uid": "7ba9c7c94477da0a",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 192.24,
+    "end": 203.24
+  },
+  {
+    "text": "Also, Maui Newy Venison is absolutely delicious. They have Venison stakes, they have ground Venison and they have Venison bone broth.",
+    "uid": "341cc52fb253a5c0",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 203.24,
+    "end": 210.24
+  },
+  {
+    "text": "I personally like all of those, in fact I probably eat Maui Newy Venison burger pretty much every day.",
+    "uid": "48182d3c4de4a8cc",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 210.24,
+    "end": 215.24
+  },
+  {
+    "text": "And occasionally I'll swap that for Maui Newy steak. And if you're really on the go, they have Maui Newy Venison jerky, which has 10 grams of protein per stick at just 55 calories.",
+    "uid": "17dc8e08c57de261",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 215.24,
+    "end": 224.24
+  },
+  {
+    "text": "If you'd like to try Maui Newy Venison, you can go to MauiNewy Venison.com-Huberman to get 20% off your first order. Again, that's MauiNewy Venison.com-Huberman.",
+    "uid": "0c783814e62cee08",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 224.24,
+    "end": 235.24
+  },
+  {
+    "text": "Today's episode is also brought to us by 8 sleep. 8 sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.",
+    "uid": "2118bc402f5cdecf",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 235.24,
+    "end": 243.24
+  },
+  {
+    "text": "Now, I've spoken many times before in this podcast about the critical need to get sleep, both enough sleep and enough quality sleep.",
+    "uid": "ea3a8a60ec484b76",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 243.24,
+    "end": 250.24
+  },
+  {
+    "text": "When we do that, everything on our mental health, our physical health, performance in any sports, or school, etc. All get better.",
+    "uid": "55f7b4918c46c536",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 250.24,
+    "end": 256.24
+  },
+  {
+    "text": "And when we're not sleeping well or enough, all those things suffer. One of the key things to getting a great night sleep is that your body temperature actually has to drop by about 1.",
+    "uid": "6945ce3957fa1990",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 256.24,
+    "end": 264.24
+  },
+  {
+    "text": "To 3 degrees in order to fall and stay deeply asleep. And in order to wake up feeling refreshed, your body temperature actually has to increase by about 1 to 3 degrees.",
+    "uid": "f157c08d8daf7bbc",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 264.24,
+    "end": 273.24
+  },
+  {
+    "text": "One of the best ways to ensure that happens is to control the temperature of your sleeping environment.",
+    "uid": "110d08ef73266f1e",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 273.24,
+    "end": 278.24
+  },
+  {
+    "text": "And with 8 sleep, it makes it very easy to do that. You program in the temperature that you want at the beginning, middle, and end of the night.",
+    "uid": "df28df19b82a083f",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 278.24,
+    "end": 284.24
+  },
+  {
+    "text": "You can even divide the temperature for two different people, with two different people sleeping in the bed.",
+    "uid": "f6c1d9aea456d6a5",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 284.24,
+    "end": 288.24
+  },
+  {
+    "text": "And it tracks your sleep. It tells you how much slow waves sleep and wrap it. I move and sleep, you're getting.",
+    "uid": "c56dac78f9937b2e",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 288.24,
+    "end": 293.24
+  },
+  {
+    "text": "It really helps you dial in the correct parameters to get the best possible night sleep for you.",
+    "uid": "32fc66b5e5703e76",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 293.24,
+    "end": 297.24
+  },
+  {
+    "text": "I've been sleeping on an 8-sleep mattress cover for well over three years now, and it has completely transformed my sleep for the better.",
+    "uid": "405151d2677800d1",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 297.24,
+    "end": 303.24
+  },
+  {
+    "text": "If you'd like to try 8 sleep, you can go to 8sleep.com-slashuberman and save $150 off their pod 3 cover.",
+    "uid": "d5a2d7fd346fcba7",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 303.24,
+    "end": 310.24
+  },
+  {
+    "text": "8sleep currently ships in the USA, Canada, UK, select countries in the EU and Australia. Again, that's 8sleep.com-slashuberman.",
+    "uid": "740f068ae05ba045",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 311.24,
+    "end": 319.24
+  },
+  {
+    "text": "Today's episode is also brought to us by Aeropress.",
+    "uid": "c952f218c2f1d69c",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 319.24,
+    "end": 322.24
+  },
+  {
+    "text": "Aeropress is like a French press, but a French press that always brews the perfect cup of coffee, meaning no bitterness and excellent taste.",
+    "uid": "5e308335edb9bd25",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 322.24,
+    "end": 329.24
+  },
+  {
+    "text": "Aeropress achieves this because it uses a very short contact time between the hot water and the coffee.",
+    "uid": "36879368d5512981",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 329.24,
+    "end": 334.24
+  },
+  {
+    "text": "And that short contact time also means that you can brew an excellent cup of coffee very quickly.",
+    "uid": "6c937dc36f2d03dd",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 334.24,
+    "end": 338.24
+  },
+  {
+    "text": "The whole thing takes only about 3 minutes.",
+    "uid": "69b90ccc6f36b306",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 338.24,
+    "end": 340.24
+  },
+  {
+    "text": "I started using an Aeropress over 10 years ago, and I learned about it from a guy named Alan Adler,",
+    "uid": "2b85d6fd71490a35",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 340.24,
+    "end": 345.24
+  },
+  {
+    "text": "who's a former Stanford engineer, who's also an inventor. He developed things like the Aerobi Frisbee.",
+    "uid": "e55d63f04476955b",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 345.24,
+    "end": 349.24
+  },
+  {
+    "text": "In any event, I'm a big fan of Adler inventions, and when I heard he developed a coffee maker, the Aeropress.",
+    "uid": "e8b6ed0a1171d75b",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 349.24,
+    "end": 354.24
+  },
+  {
+    "text": "I tried it, and I found that indeed it makes the best possible tasting cup of coffee.",
+    "uid": "ca409a220c93ff93",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 354.24,
+    "end": 359.24
+  },
+  {
+    "text": "It's also extremely small and portable, so I started using it in the laboratory when I travel on the road and also at home.",
+    "uid": "895b83e5bfaa3ef7",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 359.24,
+    "end": 365.24
+  },
+  {
+    "text": "And I'm not alone in my love of the Aeropress coffee maker.",
+    "uid": "1a0249694ffb01e1",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 365.24,
+    "end": 368.24
+  },
+  {
+    "text": "With over 55,000 five-star reviews, Aeropress is the best-reviewed coffee press in the world.",
+    "uid": "f35f03e4f6899a1d",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 368.24,
+    "end": 373.24
+  },
+  {
+    "text": "If you'd like to try Aeropress, you can go to Aeropress.com-slash-huberman to get 20% off.",
+    "uid": "b08a525cd63c6e9a",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 373.24,
+    "end": 379.24
+  },
+  {
+    "text": "Aeropress currently ships in the USA, Canada, and to over 60 other countries around the world.",
+    "uid": "65dc4a1a8bcedcad",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 379.24,
+    "end": 384.24
+  },
+  {
+    "text": "Again, that's Aeropress.com-slash-huberman.",
+    "uid": "bcbbcb9d6eef7fef",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 384.24,
+    "end": 387.24
+  },
+  {
+    "text": "And now for my discussion with Dr. Casey Meens.",
+    "uid": "c54eb0de5ed1f473",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 387.24,
+    "end": 391.24
+  },
+  {
+    "text": "Dr. Casey Meens, welcome.",
+    "uid": "50417ad1695ea31b",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 391.24,
+    "end": 393.24
+  },
+  {
+    "text": "Dr. Andrew Heumman, thank you so much for having me.",
+    "uid": "f0cd2c8971b964a3",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 393.24,
+    "end": 395.24
+  },
+  {
+    "text": "I'm really excited to talk to you today about all things health.",
+    "uid": "be310fd82948538c",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 395.24,
+    "end": 399.24
+  },
+  {
+    "text": "One of the things I love so much about your work is that you really give people a sense of agency through knowledge and actionable tools, which is very near and dear to my mission and my heart.",
+    "uid": "a60795e81df3ef03",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 399.24,
+    "end": 412.24
+  },
+  {
+    "text": "But to kick things off, let's talk about metabolic function and dysfunction.",
+    "uid": "503668359b95eb80",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 412.24,
+    "end": 418.24
+  },
+  {
+    "text": "I think most people here are the word metabolism, and they think, okay, the burning of energy.",
+    "uid": "66941c455c7244e9",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 418.24,
+    "end": 422.24
+  },
+  {
+    "text": "Maybe they think about ATP. Maybe they think about calories in calories out.",
+    "uid": "1e30df74db32a70f",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 422.24,
+    "end": 426.24
+  },
+  {
+    "text": "That sort of thing. But what are we talking about when we're talking about metabolic function and dysfunction?",
+    "uid": "57d1e3ff79ada67a",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 426.24,
+    "end": 432.24
+  },
+  {
+    "text": "Because these are really important concepts for everyone to understand.",
+    "uid": "a85fdd69daf7e761",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 432.24,
+    "end": 436.24
+  },
+  {
+    "text": "I think you're exactly right. I think that when we hear the word metabolism, the first thing that comes to most people's minds is my weight.",
+    "uid": "23a2138b7421df49",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 436.24,
+    "end": 442.24
+  },
+  {
+    "text": "Do I have a fast metabolism or do I have a slow metabolism or something like basal metabolic rate?",
+    "uid": "f82470316138ea18",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 442.24,
+    "end": 448.24
+  },
+  {
+    "text": "And I think what's really important for people to realize is that metabolism is actually the foundation of all health.",
+    "uid": "9c0d680a50fb7bbe",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 448.24,
+    "end": 456.24
+  },
+  {
+    "text": "It is the core foundational pathway that drives all other aspects of health.",
+    "uid": "ff5e70bc1e619cab",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 456.24,
+    "end": 464.24
+  },
+  {
+    "text": "And it's also the core foundational pathway that's truly getting crushed in the modern American world.",
+    "uid": "fe5e6447087cf556",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 464.24,
+    "end": 470.24
+  },
+  {
+    "text": "And underlying nine of the ten leading causes of death in the United States today.",
+    "uid": "56b6d680270c5c88",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 470.24,
+    "end": 476.24
+  },
+  {
+    "text": "It's really quite relevant to everyone.",
+    "uid": "44682d4c1387bd9b",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 476.24,
+    "end": 478.24
+  },
+  {
+    "text": "Spectrum of metabolic rooted disease is vast and actually really relevant to most Americans.",
+    "uid": "8bb7b59d129d8995",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 478.24,
+    "end": 486.24
+  },
+  {
+    "text": "The latest research from American College of Cardiology suggests that 93% of American adults have suboptimal metabolism.",
+    "uid": "7a1bf287464e2f20",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 486.24,
+    "end": 494.24
+  },
+  {
+    "text": "And we can go into what that means.",
+    "uid": "0c7e5d2688526ff2",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 494.24,
+    "end": 496.24
+  },
+  {
+    "text": "Fundamentally when we're talking about metabolism, we're talking about how we convert food energy to human energy.",
+    "uid": "5e788eb3a86d2702",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 496.24,
+    "end": 506.24
+  },
+  {
+    "text": "So we take in a astonishing 70 metric tons or so of food in our lifetime.",
+    "uid": "237333cc13dbea9e",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 506.24,
+    "end": 514.24
+  },
+  {
+    "text": "And that is potential energy. It's energy from the environment that's outside of us that through our metabolic pathways, it's converted to a currency of energy that can then be used to pay for essentially every chemical reaction inside our body.",
+    "uid": "29ef4238a1e1f015",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 514.24,
+    "end": 532.24
+  },
+  {
+    "text": "And we're talking about the fact that we're talking about the fact that we're talking about the fact that we're talking about all of those chemical reactions is our lives.",
+    "uid": "bc4fd2e388f2e13e",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 532.24,
+    "end": 538.24
+  },
+  {
+    "text": "And so when metabolism is not working properly, it's essentially creating underpowered cells.",
+    "uid": "05778327450faaab",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 538.24,
+    "end": 545.24
+  },
+  {
+    "text": "And like any city or factory or machine not having adequate power will lead to dysfunction.",
+    "uid": "ed66cfd35841a38b",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 545.24,
+    "end": 554.24
+  },
+  {
+    "text": "The reason that the metabolic spectrum of disease is so vast is because we have over 200 cell types in the body.",
+    "uid": "38869c17b6a4de14",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 554.24,
+    "end": 563.24
+  },
+  {
+    "text": "And underpowering in different cell types is going to look like different symptoms because underpowering in a astrocyte is going to look different than underpowering in a very enthecicell or an endothelial cell.",
+    "uid": "c026f8bf8f7f60b2",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 563.24,
+    "end": 577.24
+  },
+  {
+    "text": "It's going to look different, but the core foundational process that is dysfunctional can actually be the same. And I think the biggest blind spot in Western healthcare and actually the reason that health outcomes are actually getting worse every year in the United States is because fundamentally we are ignoring metabolic health and metabolic dysfunction.",
+    "uid": "b030388c79a35362",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 577.24,
+    "end": 605.24
+  },
+  {
+    "text": "We are laser focused on the downstream symptoms that result from metabolic dysfunction in different cell types.",
+    "uid": "7631a27f7ed4f99f",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 605.24,
+    "end": 615.24
+  },
+  {
+    "text": "And we spend all of our energy focusing on those symptoms playing whack-a-mal with them and really ignoring that underlying foundational root cause of metabolic function.",
+    "uid": "74e907fbd4cd60ef",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 615.24,
+    "end": 628.24
+  },
+  {
+    "text": "And what's so fascinating to me and what I saw in the healthcare system as like a super subspecialist as an ENT surgeon is that, you know, the more we specialize in healthcare, we have over 100 specialties now that we've just like invented in the healthcare system, the more we specialize in healthcare.",
+    "uid": "3ecf9ffa85edc909",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 628.24,
+    "end": 649.24
+  },
+  {
+    "text": "The sicker were actually getting. So the more we do technological innovation in all these different specialties, the sicker were getting.",
+    "uid": "621fb21bebf1a6f0",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 649.24,
+    "end": 659.24
+  },
+  {
+    "text": "And I think what the real nugget there that that everyone really is understand is we've bought into a system where we value specialization.",
+    "uid": "fe8b4fc7cdeadfaf",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 659.24,
+    "end": 667.24
+  },
+  {
+    "text": "And this is the game in Western medicine. But while we've done that, what has happened is we have the worst chronic disease epidemic and the lowest life expectancy of any high income country in the world.",
+    "uid": "6dcdb0dd20661322",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 667.24,
+    "end": 681.24
+  },
+  {
+    "text": "And the reason is because in that specialization we're focused on the downstream manifestation of underpowering of cells, the cell specific symptoms and not the metabolic function itself.",
+    "uid": "62858f5d0074e616",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 681.24,
+    "end": 694.24
+  },
+  {
+    "text": "So really our chronic disease epidemic in this country, it is a metabolic dysfunction epidemic and underpowering epidemic. And that is the biggest blind spot in healthcare. And I think a focus on metabolic function as the center of our healthcare system.",
+    "uid": "7f55801552d37d9b",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 694.24,
+    "end": 714.24
+  },
+  {
+    "text": "It's a completely new paradigm for health that is urgently and I cannot overstate enough. It's urgently needed. We know we're not in the right paradigm right now when we have 100 isolated specialties and yet 85 to 90% of the conditions and those specialties.",
+    "uid": "b621234b27f9b7a8",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 714.24,
+    "end": 733.24
+  },
+  {
+    "text": "If you go to the science and look at the real physiology is metabolic dysfunction. So that's kind of the landscape of what metabolic dysfunction is and how it's kind of creating a big blind spot in the healthcare system that really represents an outdated way of categorizing disease that unfortunately is killing us. I would say.",
+    "uid": "71ff686a718392a9",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 733.24,
+    "end": 760.24
+  },
+  {
+    "text": "Thank you for that. I have several reflections and a question. First off the analogy that comes to mind is an assembly line that's constructing, let's say an automobile and it sounds like 80 to 90% of the automobiles that are coming off that assembly line are not working well.",
+    "uid": "46d271f00b95856a",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 760.24,
+    "end": 779.24
+  },
+  {
+    "text": "Tires are not aligned, and it's working well transmission isn't working as a bunch of issues and no factory, no car manufacturer would tolerate that nor with the customers but we're tolerating that in ourselves.",
+    "uid": "32923698b8aab655",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 779.24,
+    "end": 794.24
+  },
+  {
+    "text": "It's like many people are and then accepting the fact that then a bunch of other businesses are going to crop up like the business that aligns the tires, the business that goes and repairs the pistons and essentially when you talk about these multi specialties that have evolved in the medical care system.",
+    "uid": "c8026f8ff8ead9e6",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 794.24,
+    "end": 810.24
+  },
+  {
+    "text": "They provide an opportunity to go and fix the problems or try to melerate the problems but really what we need to do to make this analogy much briefer than otherwise would be just to go further up the assembly line figure out whether or not the hardware is correct the software is correct and where the hardware and software becoming deficient in this analogy where we are the automobile that's essentially coming off the conveyor broken and the good news is and I know this because I've read your book.",
+    "uid": "bcefe2e719fadec8",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 810.24,
+    "end": 839.24
+  },
+  {
+    "text": "And because I follow your work very closely the good news is that we each and all can take matters to some extent into our own hands collaborate with healthcare providers and repair metabolic dysfunction essentially make us medically functional so the question therefore is I think most people when they hear metabolism they think energy and when we hear energy we think.",
+    "uid": "fd3d7d8badd26720",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 840.24,
+    "end": 869.24
+  },
+  {
+    "text": "ATP sometimes but typically people think about mitochondria the powerhouse of the cell so to speak.",
+    "uid": "a3ca44053729d451",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 869.24,
+    "end": 875.24
+  },
+  {
+    "text": "So you've talked about the trifecta or the the big three mitochondria inflammation and oxidative stress as three critical factors underlying metabolic dysfunction and I'm presuming those are also the avenues to address in order to create metabolic function because ultimately.",
+    "uid": "d8738a4d592c6950",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 875.24,
+    "end": 895.24
+  },
+  {
+    "text": "What we want of course is an optimistic picture that we can actually take some control that we have some agency and all of this which I believe we do so.",
+    "uid": "ceea0929f4b3b704",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 895.24,
+    "end": 902.24
+  },
+  {
+    "text": "If you would could you get us all on the same page about you know what are mitochondria and what do they do why are they so important then we can turn to inflammation and oxidative stress.",
+    "uid": "859bbdac7bfe7d45",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 902.24,
+    "end": 910.24
+  },
+  {
+    "text": "Yes absolutely so.",
+    "uid": "a9d7b54e0bd425ea",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 910.24,
+    "end": 912.24
+  },
+  {
+    "text": "The mitochondria or are the structure within the cells we have 40 trillion cells and each cell might have a handful or many thousand mitochondria and they are the magical.",
+    "uid": "4a026d93ac915ffd",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 912.24,
+    "end": 924.24
+  },
+  {
+    "text": "Part of the cell that does that conversion process of food breaking down and then converting to energy to translating it to a currency of energy our body can recognize and so.",
+    "uid": "4e3b00b884b7d900",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 924.24,
+    "end": 937.24
+  },
+  {
+    "text": "Currently what's happening is that our environment the environment that ourselves exist in across every single.",
+    "uid": "d996c289ec351113",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 937.24,
+    "end": 949.24
+  },
+  {
+    "text": "Fass it of our life over the past 50 to 75 years has changed rapidly you look at how our food system has changed from whole real food and good soil to industrial food our sleep habits have changed we're sleeping less it's very fragmented our movement patterns.",
+    "uid": "97cf8cd5b545f74b",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 949.24,
+    "end": 966.24
+  },
+  {
+    "text": "We're seeing the change we're sitting 80% of the waking day our time in nature has changed we actually are indoors as Americans 93% of a 24 our periods that totally changed our relationship with light.",
+    "uid": "a2fe37bb0dc46e83",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 966.24,
+    "end": 978.24
+  },
+  {
+    "text": "We have 80,000 synthetic toxins in our food water air personal care products home care products we live a thermonutral existence now with our thermostat there's no real swings and temperature unless you're intentionally trying to.",
+    "uid": "fbb6e4aaeaa91417",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 978.24,
+    "end": 991.24
+  },
+  {
+    "text": "And then our emotional health is very different we are very much exposed to low grade chronic stress triggers so across food sleep movement emotional health talks and light and temperature things are not what they want to were and it's changed in the blink of an eye I mean the light bulb was created in 80 to six this is like 0.04% of human history that we've even had artificial light so things have changed and.",
+    "uid": "2e2abf2c5c7f7e24",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 991.24,
+    "end": 1014.24
+  },
+  {
+    "text": "The unique thing about all of these changes in our environment is that each one of those pillars each of those changes in our environment synergistically directly hurts the mitochondria through different mechanisms the chronic low grade stress the sitting the ultra process new trend to void food.",
+    "uid": "d9330f433b495160",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1014.24,
+    "end": 1035.24
+  },
+  {
+    "text": "Even the the blue light at night time all of it through different core biological mechanisms synergistically hits this part of the cell the mitochondria so.",
+    "uid": "16d2e251ea8538cd",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1035.24,
+    "end": 1046.24
+  },
+  {
+    "text": "We have the food coming in but we're not doing a good job of converting it to an energy form we can use so we have these underpowered dysfunctional cells because of mitochondria dysfunction caused by our environment.",
+    "uid": "b22ee245647d4f7e",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1046.24,
+    "end": 1058.24
+  },
+  {
+    "text": "And of course what happens if you've got energy substrate that you can't process it's going to be stored and that's of course why we have an obesity and overweight epidemic that's affecting close to 80% of American soil it's it's just we talk about obesity like it's the problem obesity is one branch of a tree that's rooted in this mitochondrial dysfunction that's caused by our environment and.",
+    "uid": "87b5a5f076fe654f",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1058.24,
+    "end": 1085.24
+  },
+  {
+    "text": "And just to back up a little bit to just sort of share kind of maybe like how I sort of started thinking about that.",
+    "uid": "de64c2ef749ae5ac",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1085.24,
+    "end": 1094.24
+  },
+  {
+    "text": "You know, I had trained as an ENT surgeon and I was at Stanford medical school and I was so fascinated by this idea of like.",
+    "uid": "6a79a6c180c00318",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1094.24,
+    "end": 1103.24
+  },
+  {
+    "text": "The way that we're defining.",
+    "uid": "20116d0230857469",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1104.24,
+    "end": 1107.24
+  },
+  {
+    "text": "The diseases we're treating in these in like a specialty like ENT is like I saw sinusitis stay in and day out and we'd have these patients on the table that we'd be literally drilling into their skulls to suck out sinus pus and that's like the treatment for sinusitis and the way we diagnose the patients as we say like.",
+    "uid": "ab018275501dde3e",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1107.24,
+    "end": 1125.24
+  },
+  {
+    "text": "Okay, this patient has sinusitis if they have facial pressure, pure lent plus you know nasal discharge nasal obstruction and low sense of smell.",
+    "uid": "0a932de77a8b1321",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1125.24,
+    "end": 1136.24
+  },
+  {
+    "text": "So if they have these symptoms then they have this disease.",
+    "uid": "b7e1a854cbaa89f5",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1136.24,
+    "end": 1140.24
+  },
+  {
+    "text": "But when you actually go to the science and you actually go to the studies of like what is actually happening to create this.",
+    "uid": "b87e13fa8d0706b3",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1140.24,
+    "end": 1148.24
+  },
+  {
+    "text": "What you find is a lot of papers about mitochondrial dysfunction because chronic sinusitis is an chronic inflammatory condition where the cells are.",
+    "uid": "f40defd55a9f586a",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1148.24,
+    "end": 1159.24
+  },
+  {
+    "text": "Essentially sensing some threat and then they mount this immune response that creates swelling and then you get pus build up.",
+    "uid": "108d932ef020e968",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1159.24,
+    "end": 1166.24
+  },
+  {
+    "text": "But we confuse the pus build up with the disease which is actually happening inside the cells and so you start looking at PubMed as a clinician through a silly different lens of like what's actually happening in the cells.",
+    "uid": "c6fe49ec9d8357d2",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1166.24,
+    "end": 1182.24
+  },
+  {
+    "text": "And what you find for almost every chronic disease we're seeing in the US is that you will find a lot of papers on how the mitochondria are dysfunctional lower ATP generation and a lot of these cell types.",
+    "uid": "24d8ce715436c534",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1182.24,
+    "end": 1195.24
+  },
+  {
+    "text": "And then what is that doing this gets your question about chronic inflammation, obviously, of stress.",
+    "uid": "aee6b3fd0b2e3936",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1195.24,
+    "end": 1199.24
+  },
+  {
+    "text": "Well, when you've got that dysfunctional mitochondria, let's say in a nasal and mucosal tissue.",
+    "uid": "4af50455c5c3fc9c",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1199.24,
+    "end": 1205.24
+  },
+  {
+    "text": "That is a cell that can't do its job, that is a cell that's underpowered and what could be more threatening to the body than a cell that can't do its job.",
+    "uid": "a0b9682d7ceb3f89",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1205.24,
+    "end": 1212.24
+  },
+  {
+    "text": "So interestingly, those cells will initiate a whole process, which is called the cell danger response.",
+    "uid": "615391f0792bd3b5",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1212.24,
+    "end": 1220.24
+  },
+  {
+    "text": "It's work that's been done by Robert Navio at UCSD.",
+    "uid": "6021819dd415a94d",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1220.24,
+    "end": 1225.24
+  },
+  {
+    "text": "We're basically, they understand the mitochondria is not working properly. This is of course caused by the environment and they will actually release extra cellular ATP, which is not really supposed to go outside of the cell.",
+    "uid": "ec5daac90a5faa62",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1226.24,
+    "end": 1238.24
+  },
+  {
+    "text": "And that creates a massive innate immune response saying like, I'm underpowered, I need help my mitochondria is broken. This is the cell releases ATP outside of the cell.",
+    "uid": "ac975c37067fd5c7",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1238.24,
+    "end": 1251.24
+  },
+  {
+    "text": "Usually the concentration of ATP is a million times higher inside the cell.",
+    "uid": "5877524c4902bc60",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1251.24,
+    "end": 1255.24
+  },
+  {
+    "text": "So releases it almost as a neurotransmitter, a purigenic neurotransmitter that massively activates the immune system to come in help.",
+    "uid": "282bfbc3ad56808d",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1255.24,
+    "end": 1262.24
+  },
+  {
+    "text": "But the immune system comes and is like, not much we can do for you here, because the problem is not something that the immune system can help with like grabbing bacteria and lacing it or, you know, taking care of some cells and in fact, with the virus.",
+    "uid": "cb630efc00bdc569",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1262.24,
+    "end": 1278.24
+  },
+  {
+    "text": "The problem is outside the body. It's the environment. So you end up getting this tornado of dysfunction of mitochondrial dysfunction caused by the environment leading to the cell danger response, which leads to innate immunity.",
+    "uid": "ebf886652c584fce",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1278.24,
+    "end": 1292.24
+  },
+  {
+    "text": "And then on top of this, you get the oxyvestress, which is the third piece of the trifecta, which is essentially these mitochondria trying so hard to do their work, but they're not working properly. So they create damaging metabolic byproducts, called oxyvestress, free radicals that cause more damage.",
+    "uid": "8e2d558488eb3623",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1292.24,
+    "end": 1307.24
+  },
+  {
+    "text": "So this is happening in the nose. It's happening all over the American body because of our environment. So you've got these tornadoes of interrelated physiology of mitochondrial dysfunction, chronic inflammation, oxyvestress, which if you.",
+    "uid": "ce16252785478c92",
+    "source": "Andrew_Huberman - Transform_Your_Health_by_Improving_Metabolism_Hormone_Blood_Su",
+    "start": 1307.24,
+    "end": 1326.24
+  }
+]
