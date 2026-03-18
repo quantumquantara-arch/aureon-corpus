@@ -1,0 +1,2445 @@
+[
+  {
+    "text": "We saw welcome to Stanford.",
+    "uid": "8b1bfe58cfb7fd01",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 0.0,
+    "end": 6.87
+  },
+  {
+    "text": "Wonderful, it's so great to be here.",
+    "uid": "4fee2d809e87739a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 6.87,
+    "end": 8.87
+  },
+  {
+    "text": "It is a pleasure and an even greater honor to have you with us here today.",
+    "uid": "71dd258ab7d78a7e",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 8.87,
+    "end": 12.87
+  },
+  {
+    "text": "Many of us have followed your career and your transformation of AMD, and we're excited to get to know you better.",
+    "uid": "640576e803b287dd",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 13.87,
+    "end": 18.87
+  },
+  {
+    "text": "So I'd like to cover your upbringing, your leadership and management principles,",
+    "uid": "45400aa0a52bc8f5",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 18.87,
+    "end": 23.87
+  },
+  {
+    "text": "the current state of AI, and your outlook for the future.",
+    "uid": "f5cb690b8b9e48f2",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 23.87,
+    "end": 26.87
+  },
+  {
+    "text": "How's that sound?",
+    "uid": "6e5dc5ad93e0cb8c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 26.87,
+    "end": 27.87
+  },
+  {
+    "text": "That sounds wonderful, thank you.",
+    "uid": "d403f26c3e57bb78",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 27.87,
+    "end": 29.87
+  },
+  {
+    "text": "So you born in Taiwan and immigrated to New York with your parents at the age of two.",
+    "uid": "b53d6ccde8f26411",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 30.87,
+    "end": 36.87
+  },
+  {
+    "text": "What was the light growing up at the nexus of two cultures?",
+    "uid": "9d9a418d0d60d4c3",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 36.87,
+    "end": 39.87
+  },
+  {
+    "text": "And how did your parents influence you?",
+    "uid": "c31292a002356c8c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 39.87,
+    "end": 41.87
+  },
+  {
+    "text": "So as you said, I was born in Taiwan.",
+    "uid": "5c5b652684246352",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 42.87,
+    "end": 45.87
+  },
+  {
+    "text": "And my parents, my dad came to the United States to a graduate school,",
+    "uid": "3ade5cf9544c9414",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 45.87,
+    "end": 51.87
+  },
+  {
+    "text": "so I brought the family with us.",
+    "uid": "84f8a14e26f32f5a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 51.87,
+    "end": 53.87
+  },
+  {
+    "text": "And as some of you may imagine, with a typical Asian upbringing,",
+    "uid": "f3d0ea6979023023",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 53.87,
+    "end": 58.87
+  },
+  {
+    "text": "it was all about school, more school, how can you do good in those kinds of things.",
+    "uid": "df9ccc4ed41dfe24",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 58.87,
+    "end": 63.87
+  },
+  {
+    "text": "But look, I think I was very lucky because I had the sort of my parents really encouraged me to always be pretty ambitious",
+    "uid": "ceebe48e32532a1c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 63.87,
+    "end": 74.87
+  },
+  {
+    "text": "and want to do great things.",
+    "uid": "ad380b0e8daaf0be",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 74.87,
+    "end": 77.87
+  },
+  {
+    "text": "And that's kind of followed me through my life.",
+    "uid": "1433a2ee5d87b0d1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 77.87,
+    "end": 81.87
+  },
+  {
+    "text": "I'm sure many of us can relate to the schooling, pressure, and that kind of kind of...",
+    "uid": "ac536471ca97c49d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 81.87,
+    "end": 86.87
+  },
+  {
+    "text": "School and piano.",
+    "uid": "5dc07fed78b8a3ac",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 86.87,
+    "end": 87.87
+  },
+  {
+    "text": "Those are the two things that most Asian kids have to go through.",
+    "uid": "97950038f5d0d294",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 88.87,
+    "end": 91.87
+  },
+  {
+    "text": "And so that ambition then brought you to MIT, where you completed three degrees, and undergraduate,",
+    "uid": "784c862393f88731",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 92.87,
+    "end": 99.87
+  },
+  {
+    "text": "masters and a PhD.",
+    "uid": "5ed2fb83ae5abee2",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 99.87,
+    "end": 101.87
+  },
+  {
+    "text": "So you're just missing an MBA.",
+    "uid": "ba5c26814f5293fb",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 101.87,
+    "end": 104.87
+  },
+  {
+    "text": "That doesn't seem to have held you back there.",
+    "uid": "d30001067b27967a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 104.87,
+    "end": 107.87
+  },
+  {
+    "text": "Now, what drew you towards a career in semiconductors and building chips as opposed to academia or any other career?",
+    "uid": "b6d6ace3557251fe",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 107.87,
+    "end": 115.87
+  },
+  {
+    "text": "So when I was a kid, I was really curious about how things worked.",
+    "uid": "2a372c9d7cb51829",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 116.87,
+    "end": 123.87
+  },
+  {
+    "text": "And I would have, like, my brother would have sort of his toy remote controlled car would be going through our hallway and it would stop working.",
+    "uid": "58bf87cc057cacfe",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 123.87,
+    "end": 133.87
+  },
+  {
+    "text": "And I'd be like, why did it stop working?",
+    "uid": "c2a430b4f28fdf57",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 133.87,
+    "end": 135.87
+  },
+  {
+    "text": "I was just very curious about that.",
+    "uid": "553e5187fe7d5b03",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 135.87,
+    "end": 137.87
+  },
+  {
+    "text": "And so I've always wanted to kind of tinker with things that was what was interesting.",
+    "uid": "d0c978376de44ac1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 137.87,
+    "end": 142.87
+  },
+  {
+    "text": "So during high school, I was a very focused on math and science.",
+    "uid": "e6867b6a83c8ad0f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 142.87,
+    "end": 147.87
+  },
+  {
+    "text": "And so I went to MIT.",
+    "uid": "b7ee4f58f4b54112",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 147.87,
+    "end": 149.87
+  },
+  {
+    "text": "And sometimes, and maybe you guys can relate to this, careers are very much by chance.",
+    "uid": "e50461bedeca21e4",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 149.87,
+    "end": 154.87
+  },
+  {
+    "text": "I'd like to think that you planned everything out minute by minute, but it's usually not like that.",
+    "uid": "2722d3a35874a515",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 155.87,
+    "end": 159.87
+  },
+  {
+    "text": "And so just happened that, in my freshman year, I was looking for a job.",
+    "uid": "e3f2516c462a48aa",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 159.87,
+    "end": 163.87
+  },
+  {
+    "text": "Like, everyone is looking for a part-time job.",
+    "uid": "6f33e2026aae2cba",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 163.87,
+    "end": 166.87
+  },
+  {
+    "text": "And the part-time job that I got was working in a semiconductor lab.",
+    "uid": "c97c533e27fd7482",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 166.87,
+    "end": 170.87
+  },
+  {
+    "text": "And so I had to put on a bunny suit for the first time.",
+    "uid": "a2841d27aaf39ac6",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 170.87,
+    "end": 174.87
+  },
+  {
+    "text": "And I was basically doing grunt work for graduate student and running some of his experiments.",
+    "uid": "b3afe81aa346f0a1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 174.87,
+    "end": 179.87
+  },
+  {
+    "text": "And I thought it was so amazing that you could actually put sort of a tiny little chip, you know, so much power.",
+    "uid": "f90d2638409fb365",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 179.87,
+    "end": 189.87
+  },
+  {
+    "text": "And at that time, it wasn't anything like it is today.",
+    "uid": "12c557a5467ecd0a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 189.87,
+    "end": 193.87
+  },
+  {
+    "text": "But that's kind of how I fell in love with semiconductors.",
+    "uid": "af8bfa6cba0ac94d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 193.87,
+    "end": 196.87
+  },
+  {
+    "text": "And I just became, you know, the thing that I ended up doing throughout my undergraduate and graduate career.",
+    "uid": "9a2c8d3b11f290bd",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 196.87,
+    "end": 203.87
+  },
+  {
+    "text": "I love that.",
+    "uid": "ebf057a5e99c1970",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 203.87,
+    "end": 204.87
+  },
+  {
+    "text": "And so you continue to pursue that passion upon graduation, you joined Texas Instruments and then IBM, where you rose up the ranks to become director of emerging products.",
+    "uid": "3a321949de152b11",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 204.87,
+    "end": 214.87
+  },
+  {
+    "text": "Following that, you then joined FreeSkeleton semiconductor as CTO.",
+    "uid": "c1be94e995484026",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 214.87,
+    "end": 219.87
+  },
+  {
+    "text": "So how did you manage the transition from being an engineer focused on building products to then becoming a people manager?",
+    "uid": "4b454908f215f6c2",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 219.87,
+    "end": 225.87
+  },
+  {
+    "text": "Well, it sounds like you have studied my resume to great extent.",
+    "uid": "2f8f6c9b21f0d484",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 225.87,
+    "end": 229.87
+  },
+  {
+    "text": "So thank you for that.",
+    "uid": "a58a9741f65dce4f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 229.87,
+    "end": 233.87
+  },
+  {
+    "text": "You know, sort of leaving graduate school with a PhD.",
+    "uid": "7671184575f9f50a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 233.87,
+    "end": 240.25
+  },
+  {
+    "text": "You know, one has to decide what do you want to do.",
+    "uid": "c939f41e7fac106e",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 240.25,
+    "end": 243.25
+  },
+  {
+    "text": "Whether you, you know, in my case, it was whether I wanted to go into industry or, you know, whether I wanted to be a professor in academia.",
+    "uid": "3b5580816f2a2762",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 243.25,
+    "end": 252.25
+  },
+  {
+    "text": "And I can say for sure that I thought being a professor was actually going to be very hard.",
+    "uid": "ee978bc10e13cf6c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 252.25,
+    "end": 259.25
+  },
+  {
+    "text": "The idea of always being on the cutting edge of research and that kind of thing.",
+    "uid": "d89321839f8e3546",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 259.25,
+    "end": 265.25
+  },
+  {
+    "text": "So I didn't think that was going to be my superpower.",
+    "uid": "780942afb1fa73e5",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 265.25,
+    "end": 268.25
+  },
+  {
+    "text": "I thought that building products and working on real world things.",
+    "uid": "cafd7252ae767449",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 268.25,
+    "end": 273.25
+  },
+  {
+    "text": "Like what I've enjoyed the most in what I do is like the work that we're doing with chips and products.",
+    "uid": "e75e35720915cc32",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 273.25,
+    "end": 283.25
+  },
+  {
+    "text": "Like you can actually go and you can walk down to Best Buy and see some of the products that we build or you can walk into Lawrence Livermore National Labs.",
+    "uid": "1039189a063c3693",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 283.25,
+    "end": 292.25
+  },
+  {
+    "text": "And you know, look at big supercomputers, but you can actually see and and feel and touch those types of things.",
+    "uid": "30abb38a04cf7ecf",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 292.25,
+    "end": 298.25
+  },
+  {
+    "text": "So yeah, I think those are the reasons that I first got into engineering.",
+    "uid": "81f99c125d7c5e56",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 298.25,
+    "end": 302.25
+  },
+  {
+    "text": "And to your question of, you know, engineering versus business or engineering versus people management.",
+    "uid": "bf06fd703930526e",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 302.25,
+    "end": 308.25
+  },
+  {
+    "text": "You know, again, when I'd like to say that I grew up at IBM, like that was the place where I spent a good part of my, I was at Texas Instruments for a little less than a year.",
+    "uid": "294029f97725008e",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 308.25,
+    "end": 320.25
+  },
+  {
+    "text": "But frankly, I live in Texas now, but the first time I lived in Texas was, whatever, 30 plus years ago, Texas wasn't for me at that point in time.",
+    "uid": "b2b1a2dfaf67f5e7",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 320.25,
+    "end": 330.25
+  },
+  {
+    "text": "So I moved back to New York where my parents and my family were.",
+    "uid": "4aec06c416ce900b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 330.25,
+    "end": 334.25
+  },
+  {
+    "text": "And I was at IBM for about 13 years or so.",
+    "uid": "715c36f8233432c3",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 334.25,
+    "end": 337.25
+  },
+  {
+    "text": "And what I like to believe is the ability to kind of learn at each step was what really helped me in my career.",
+    "uid": "212e0396122680e2",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 337.25,
+    "end": 347.25
+  },
+  {
+    "text": "And so, you know, the nice thing about my early career is I was lucky enough to have, you know, bosses who asked me all the time, like, what do you want to be when you grow up?",
+    "uid": "e04823f737bf3a91",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 347.25,
+    "end": 357.25
+  },
+  {
+    "text": "And I was like, I don't know, let me think about what do I want to be when I grow up.",
+    "uid": "7fc906dac3343a4d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 357.25,
+    "end": 361.25
+  },
+  {
+    "text": "And the, the opportunity to manage people or manage projects was very interesting because I've you, hey, as one person has a researcher, you can get so much done.",
+    "uid": "3b5a996c77c878f0",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 361.25,
+    "end": 373.25
+  },
+  {
+    "text": "But hey, if you have a little team of 10 people, you can actually get so much more done.",
+    "uid": "40b8d01293580f5c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 373.25,
+    "end": 378.25
+  },
+  {
+    "text": "And it gets to 50 people or 100 people, so much more. So yes, there was a lot of, let's call it, learning on the job, but that was what, what I was able to do in that period of time.",
+    "uid": "0900dcc0de3fccb5",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 378.25,
+    "end": 389.25
+  },
+  {
+    "text": "And I will say, you know, for the record, I've always thought I should get an MBA.",
+    "uid": "a96d301061655c70",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 389.25,
+    "end": 396.25
+  },
+  {
+    "text": "And I just ran out of time, right? You know, you got like, you have to schedule two years in your life to get an MBA.",
+    "uid": "f22fda9c92ca7c3a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 396.25,
+    "end": 402.25
+  },
+  {
+    "text": "And at some point you become too old to get an MBA. So it was, I'm sorry, John Carter, did I say that, is that okay for me to say?",
+    "uid": "7617abd84b24fdcf",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 402.25,
+    "end": 411.25
+  },
+  {
+    "text": "So the truth is, there was just a lot of on the job training.",
+    "uid": "6899ae5f8eb3ea4b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 411.25,
+    "end": 416.25
+  },
+  {
+    "text": "And, you know, the beauty of career development is when you get a chance to try something new and learn whether it's people management or business or managing larger projects.",
+    "uid": "0eaa8898965308c1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 416.25,
+    "end": 428.25
+  },
+  {
+    "text": "I had a lot of opportunities to learn.",
+    "uid": "81adb5e969dbf654",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 428.25,
+    "end": 430.25
+  },
+  {
+    "text": "Right. Well, I think it's never too late when we'd love to have you.",
+    "uid": "f5b5167cce2f41fe",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 430.25,
+    "end": 434.25
+  },
+  {
+    "text": "And I think it's rare to see someone with mastery of both building products and people management.",
+    "uid": "cba2410691af1c0d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 434.25,
+    "end": 441.25
+  },
+  {
+    "text": "Those are two really difficult problems. You've said yourself that you like hard problems.",
+    "uid": "2f02e0b3e61aec3f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 441.25,
+    "end": 446.25
+  },
+  {
+    "text": "So what's your approach to solving hard problems and how do you push through in the face of setbacks?",
+    "uid": "9f1d58a2e9ddff9f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 446.25,
+    "end": 452.25
+  },
+  {
+    "text": "Well, I think the most important thing for, you know, all of us is to have a deep curiosity of just solving problems.",
+    "uid": "af5d11713188b94a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 452.25,
+    "end": 462.25
+  },
+  {
+    "text": "Like, that's my view of the world.",
+    "uid": "37fb8fd96a20e0f0",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 462.25,
+    "end": 464.25
+  },
+  {
+    "text": "When I think about, you know, in the early part of my career, some of the most difficult things like, you know, the first product I ever worked on was a product that was a, was a microprocessor and, you know, we were just about to announce the processor and like nothing worked.",
+    "uid": "d641c3274f89b5d1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 464.25,
+    "end": 481.25
+  },
+  {
+    "text": "I mean, you know, the, the, the trip did not work.",
+    "uid": "e77e010dc2d9a262",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 481.25,
+    "end": 485.25
+  },
+  {
+    "text": "We didn't know why it didn't work, but the company was about to announce it and you think, oh, that's terrible. Like, that's, that's like, you know, very stressful.",
+    "uid": "596999de02b714b9",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 485.25,
+    "end": 494.25
+  },
+  {
+    "text": "But actually, what it is, is it allows you to really galvanize teams on really taking, opening up every ounce of creativity you have to figure out, okay, how are we going to figure out why is this not working?",
+    "uid": "f3c5e3a23041f564",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 494.25,
+    "end": 509.25
+  },
+  {
+    "text": "And how do we bring it, you know, move the projects forward? And so that's what I view as the beauty of hard problems. Like, you can work on anything in life.",
+    "uid": "d5e76562e6eb89e1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 509.25,
+    "end": 519.25
+  },
+  {
+    "text": "But when you work on a really hard problem or in a company context, when you work on, let's call it the most important projects, you can burn an incredible amount of just resources, creativity, focus that will allow you to",
+    "uid": "18e0e824522da3ea",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 519.25,
+    "end": 538.25
+  },
+  {
+    "text": "do something that you wouldn't imagine possible. And, you know, that's what I believe is the most important thing managers do or leaders do. What leaders do is they actually bring teams together to do something that nobody thought was possible.",
+    "uid": "050310748d9e9769",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 538.25,
+    "end": 554.25
+  },
+  {
+    "text": "And, you know, that's what I enjoy about, you know, the world that we're in is that you're working on problems that are super interesting and, you know, quite, you know, quite impactful to the industry.",
+    "uid": "31f09c119eb558e9",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 554.25,
+    "end": 565.25
+  },
+  {
+    "text": "And you're also working on something that someone hasn't done before.",
+    "uid": "779bbfb4a0d515f7",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 565.25,
+    "end": 570.25
+  },
+  {
+    "text": "I love that. I think that's something we can all take away, looking for the hardest problems and finding the creativity and purpose to solve them.",
+    "uid": "95cf4224974d736a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 570.25,
+    "end": 577.25
+  },
+  {
+    "text": "Now at the GSB, we learn a lot about hiring and retaining great talent. But something that is less spoken about is recognizing underestimated talent. So Lisa, have you ever made a bet on someone that's been historically overlooked and how did that go?",
+    "uid": "fff80d939b92607b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 577.25,
+    "end": 593.25
+  },
+  {
+    "text": "Well, I like to say that, you know, again, our job as leaders is to give people opportunities. You can't guarantee anybody's success.",
+    "uid": "b90abe65c34c7ab9",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 594.25,
+    "end": 604.25
+  },
+  {
+    "text": "But you certainly can help identify, you know, sort of, the people who have a lot of potential.",
+    "uid": "8d35817df82e0044",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 604.25,
+    "end": 612.25
+  },
+  {
+    "text": "And I'm also a big believer in that, you know, leadership is something that you learn and something that you train. It's not something that you're born with.",
+    "uid": "43db24617d1fce54",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 612.25,
+    "end": 619.25
+  },
+  {
+    "text": "You actually, you learn, you learn, you know, through lots and lots of different experiences.",
+    "uid": "42b5f5f22d9e81b0",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 619.25,
+    "end": 624.25
+  },
+  {
+    "text": "And so yes, like, hey, somebody took a chance on me, right? Somebody decided, you know, when I was a kid that that I should, you know, get these different experiences.",
+    "uid": "c2913f5857d016ad",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 624.25,
+    "end": 633.25
+  },
+  {
+    "text": "You know, probably the most intimidating experience that I had was, you know, I was at IBM maybe about five years, which is, you know, relatively sort of still new in my career.",
+    "uid": "76c6008408a604c7",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 633.25,
+    "end": 647.25
+  },
+  {
+    "text": "I was working on interesting projects. I had done a few interesting projects. And in one day, I got a call and said, hey, can you, you know, come down to our, our mock.",
+    "uid": "70370e9ca11b6a84",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 647.25,
+    "end": 657.25
+  },
+  {
+    "text": "You know, we'd like you to meet Lou Gersner and, you know, Lou Gersner was the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the time.",
+    "uid": "fca4dc7cdf081c0e",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 657.25,
+    "end": 665.25
+  },
+  {
+    "text": "And I'm like, why, why would you want to talk to me? Like, that was a very weird thing. And they're like, yes, yes, we would like you to be his technical assistant.",
+    "uid": "f1c1f564e55b0ab1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 665.25,
+    "end": 675.25
+  },
+  {
+    "text": "So, you know, so my job was to actually teach Lou about technology. He was not a technical person, but he was running the technical company. And, you know, he wanted to learn about, you know, some of the latest,",
+    "uid": "0a9909eb4036ba13",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 675.25,
+    "end": 689.25
+  },
+  {
+    "text": "and greatest, you know, technology things. And I was like, wow, like, I didn't realize this is what I went to school for.",
+    "uid": "44e02d5b397dcca8",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 689.25,
+    "end": 697.25
+  },
+  {
+    "text": "But the truth was it was, it was an opportunity for me to observe what life was like, you know, as the, the top of, you know, company of global scale and size.",
+    "uid": "7e16eac07a94eb32",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 697.25,
+    "end": 709.25
+  },
+  {
+    "text": "And I learned so much just from observing. And so I do that as somebody took a chance on me. And I, you know, still view that as one of the, sort of the most impactful experiences of my career in terms of just understanding what life would be like as a CEO.",
+    "uid": "6e5aa3323e16336d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 709.25,
+    "end": 727.25
+  },
+  {
+    "text": "And so, you know, it's our jobs as leaders to take chances on people as well. And that usually means that, you know, you put somebody in a job that you're not 100% sure that they can do, but you surround them with lots and lots of support.",
+    "uid": "4df6275fb5266ce7",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 727.25,
+    "end": 742.25
+  },
+  {
+    "text": "So that they can be successful. And yeah, that is part of, you know, a real important part of, you know, team development, people development.",
+    "uid": "b90588dad0696d3e",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 742.25,
+    "end": 750.25
+  },
+  {
+    "text": "The other thing is, you know, just doing lots of different things like being able to, you know, every couple of years take on a different experience with every experience, you learn so much.",
+    "uid": "10eb654d8cde289c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 750.25,
+    "end": 762.25
+  },
+  {
+    "text": "You know, so much, so many, you know, different experiences help really round out, you know, the overall career, you know, capabilities.",
+    "uid": "00dd283c00299d43",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 762.25,
+    "end": 771.25
+  },
+  {
+    "text": "It's really interesting to say that at the GSB relearn that leadership is something that can be trained and, instead of behaviors rather than something you're inherently born with, so it's really really sharing.",
+    "uid": "6427405891486660",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 771.25,
+    "end": 780.25
+  },
+  {
+    "text": "Now, one more point on your resume, but it's last one I call this. Now, following free scale semiconductor, you then joined AMD, a senior vice president helping the company expand beyond PC into gaming and embedded devices.",
+    "uid": "4652b74a97126cbb",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 780.25,
+    "end": 795.25
+  },
+  {
+    "text": "Within two years, you were then appointed CEO of the company. So bring us back to the moment when you got the call from the board. How did it feel and how did you do it?",
+    "uid": "17a727789639ed32",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 795.25,
+    "end": 805.25
+  },
+  {
+    "text": "Yeah, so, yeah, good, good question. Let me kind of give you the context, right? If I give you the context, I kind of was a self-proclaimed semiconductor person. This was going to be my profession.",
+    "uid": "bcdd58e5f92a9d92",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 805.25,
+    "end": 821.25
+  },
+  {
+    "text": "My career. I had a great run at free scale semiconductor. It was my first opportunity in the C suite.",
+    "uid": "262fe0755a9c97af",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 821.25,
+    "end": 829.25
+  },
+  {
+    "text": "So I was CTO of the company and then I ran one of the larger businesses and then I was like, hey, I need to try something different and I joined AMD and many people said at the time, like, why would you join AMD? What would make you join AMD?",
+    "uid": "eecfedb7702808d5",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 829.25,
+    "end": 845.25
+  },
+  {
+    "text": "I actually had mentors in my career saying, I don't think that that's a good move, Lisa.",
+    "uid": "d0069d3f9d7de467",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 845.25,
+    "end": 851.25
+  },
+  {
+    "text": "I was very puzzled. I didn't understand why would anybody say that. I thought AMD was a very interesting company, but it was a company that had sort of a track record of not perfect execution.",
+    "uid": "b5938cb4ba821958",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 851.25,
+    "end": 864.25
+  },
+  {
+    "text": "There were years that AMD did very well. There were years that AMD didn't do very well. And as a result, it was always viewed as, hey, interesting, but, you know, not one of the top companies out there.",
+    "uid": "eeb5314a1f8c3031",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 864.25,
+    "end": 878.25
+  },
+  {
+    "text": "I thought you did as, hey, look, what was important to me was to lead a company that mattered. A company that would matter in the industry.",
+    "uid": "9ea207bb86560b3d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 878.25,
+    "end": 889.25
+  },
+  {
+    "text": "I felt, I am a little bit biased here, but processors are kind of the brains of most things. The idea that semiconductors are now important.",
+    "uid": "b7704b9c712aa4d6",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 889.25,
+    "end": 898.25
+  },
+  {
+    "text": "The years ago, semiconductors were not quite as important. People were like, what does semiconductor? Why is that important?",
+    "uid": "0d2270112260481e",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 898.25,
+    "end": 904.25
+  },
+  {
+    "text": "Now, nobody doubts why semiconductors are so important, whether you're talking about businesses, economies, national security, all of those things.",
+    "uid": "4f052d20017be29c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 904.25,
+    "end": 913.25
+  },
+  {
+    "text": "That's why I joined AMD. And the opportunity at that time was a industry that was going through just a ton of transition.",
+    "uid": "620e36aaf31806d1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 913.25,
+    "end": 923.25
+  },
+  {
+    "text": "So, you know, if you think about the tech world, there are these large transitions, whether you're talking about the internet era, or you're talking about, you know, mainframe going to PCs, or talk about PCs going to mobile.",
+    "uid": "f54d335980735d06",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 923.25,
+    "end": 938.25
+  },
+  {
+    "text": "Like all of these major transitions means there's a different set of winners, and they're also going to be some losers.",
+    "uid": "2eddf991d96e052b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 938.25,
+    "end": 946.25
+  },
+  {
+    "text": "And at the time, this was back in 2012, 2013, 2014, this was the time when PCs were viewed as potentially being losers when mobile was becoming very prominent.",
+    "uid": "996a8cae567565f3",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 946.25,
+    "end": 961.25
+  },
+  {
+    "text": "And that's where AMD was. So we were kind of at a crossroads.",
+    "uid": "d48bd2a2b281083d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 961.25,
+    "end": 964.25
+  },
+  {
+    "text": "Frankly, we were at a crossroads for a company that was in transition. The industry was in transition. The company was in transition.",
+    "uid": "a0d470a827344aa1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 964.25,
+    "end": 971.25
+  },
+  {
+    "text": "And the leadership was in transition. So I joined in 2012 to run the business units. There was no concept of business units, P&Ls, those kinds of things.",
+    "uid": "c51f83c40671ceba",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 971.25,
+    "end": 981.25
+  },
+  {
+    "text": "So there was a lot of transformation to be done there. I had a great partner at CTO, Mark Papermaster, has been my partner on this journey.",
+    "uid": "6f724002ffc3faf0",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 981.25,
+    "end": 989.25
+  },
+  {
+    "text": "And I became COO in 2014. So I thought, hey, that's great. You know, this is wonderful. I'm getting to run larger pieces of the company.",
+    "uid": "7c42175fdd0ea4f1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 989.25,
+    "end": 1000.25
+  },
+  {
+    "text": "And I was surprised that six months after I became COO, I got a call from our chairman of the board.",
+    "uid": "e8caffc66e452d7a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1000.25,
+    "end": 1008.25
+  },
+  {
+    "text": "And he said, it's time. Lisa. And I'm like, really? Like, that seems really kind of quick, you know?",
+    "uid": "990b7787be32111e",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1008.25,
+    "end": 1016.25
+  },
+  {
+    "text": "And look, I think the moral of the story is you never know, like you can't plan these things to any precision.",
+    "uid": "0c533d2f44664596",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1017.25,
+    "end": 1027.25
+  },
+  {
+    "text": "But what was clear was that we had to transition some of our strategy as a company.",
+    "uid": "8a75944a3e51c043",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1027.25,
+    "end": 1035.25
+  },
+  {
+    "text": "And we were ready for a change. And I was very honored to be asked to be CEO.",
+    "uid": "2e3376603a8d6dfc",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1035.25,
+    "end": 1043.25
+  },
+  {
+    "text": "And you know, it was never a doubt that this was like my dream job. So my dream job, you know, going to school and you know, through all these years was to have the opportunity to lead a semiconductor company.",
+    "uid": "ed92f951cb522408",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1043.25,
+    "end": 1057.25
+  },
+  {
+    "text": "And now I had that opportunity. So that was that was back in October 2014. And something that I remember very, very well.",
+    "uid": "4a0e195e084ceab3",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1057.25,
+    "end": 1067.25
+  },
+  {
+    "text": "Well, it definitely wasn't easy when you joined the helm. The company was at the brink of bankruptcy and the share price was hovering at around $3.",
+    "uid": "38901b47049689b3",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1067.25,
+    "end": 1077.25
+  },
+  {
+    "text": "Under your leadership, added its peak, AMD's shared AMD's shares topped $200. So how did you balance between defensive leadership, which involved cost cutting and focusing on the core with offensive leadership, which involved diversifying product lines and taking over the best.",
+    "uid": "4f98de7afad1468a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1077.25,
+    "end": 1096.25
+  },
+  {
+    "text": "Yeah, well, I think it's fairly clear in tech. There's no such thing as cutting yourself to be a winner.",
+    "uid": "527f897510351a74",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1096.25,
+    "end": 1106.25
+  },
+  {
+    "text": "Of course, balance sheets are very important. And you know, P&Ls are very important. But what was really important, I think, for us, it was to decide, you know, what do we want to be when we grow up?",
+    "uid": "c5ca869cfddd6c17",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1106.25,
+    "end": 1118.25
+  },
+  {
+    "text": "Like what is, you know, what is great look like? And for us, it was deciding what was important. One of the things that I like to say about, you know, the semiconductor industry or technology in general is, you know, the decisions that we make today, you will really see the impact like three to five years down the road.",
+    "uid": "ca0c6fc1c974b86b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1118.25,
+    "end": 1138.25
+  },
+  {
+    "text": "It is all about making the right bets. And for AMD at the time, you know, as I said, we were at a crossroads and we were needing to make a decision of what do we want to be when we grow up.",
+    "uid": "22ed2e3d70c3f18d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1138.25,
+    "end": 1150.25
+  },
+  {
+    "text": "At the time, the most interesting sector, frankly, was mobile. Like, you know, smartphones were taking off. Everyone was like, you know, Lisa, why aren't we building mobile trips?",
+    "uid": "19a82cc629fe4942",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1150.25,
+    "end": 1160.25
+  },
+  {
+    "text": "And we thought about it. Actually, we sized it, we looked at it, we spent quite a bit of time looking at it. And we realized that yes, that is a good business, but that actually is not a good business for us because that's not fundamentally what we are best at.",
+    "uid": "1af0c8f08403050b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1160.25,
+    "end": 1175.25
+  },
+  {
+    "text": "Fundamentally, what we were best at, what I believed we could be best at is building the highest performance computing out there. It was a bet on high performance computing.",
+    "uid": "a09213d5a0d96818",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1175.25,
+    "end": 1187.25
+  },
+  {
+    "text": "And, um, there are many reasons for that. You can look at sort of what your competition looks like, you can look at what the technology landscape looks like, you can look at where you think the markets are going.",
+    "uid": "1daa206fb8e83ea2",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1187.25,
+    "end": 1200.25
+  },
+  {
+    "text": "But, you know, if I kind of summarize, there's probably a few basic things, right. You want to make sure that as a company that you're in markets that are large enough, especially picking markets where you see there is, you know, sort of industry transformations.",
+    "uid": "75ecf01ec676b6d7",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1200.25,
+    "end": 1216.25
+  },
+  {
+    "text": "And then where, you know, the company has some secret sauce. And so our secret sauce was we knew how to build high performance computers.",
+    "uid": "1521f0e3f94bdf5d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1216.25,
+    "end": 1226.25
+  },
+  {
+    "text": "And I knew that, you know, my job as a CEO at the time was to lay out that vision, but then also give our team enough time to fully, fully realize that vision because nothing changes quickly. Like we had to set the expectation like look, this is going to take a little bit of time to do.",
+    "uid": "dbc9151634fc520b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1226.25,
+    "end": 1241.25
+  },
+  {
+    "text": "It's going to take us three product generations. We actually had to start from scratch or products, but we knew exactly where we wanted to go. And at the time there was a big industry and selection coming, which was Moore's law was slowing down. All of you have probably heard about Moore's law.",
+    "uid": "816bbcd2e6530b88",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1241.25,
+    "end": 1264.25
+  },
+  {
+    "text": "Moore's law was the idea that, you know, you can basically, you know, continuing to, you know, double the amount of, you know, capability reduced the price every two years.",
+    "uid": "45c051dabb5493d6",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1264.25,
+    "end": 1276.25
+  },
+  {
+    "text": "Moore's law was essentially slowing down. And there was going to be new technologies that would make a difference. And that's what we were going to bet on in terms of, you know, going forward.",
+    "uid": "9a4bf3c12e0a648b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1276.25,
+    "end": 1285.25
+  },
+  {
+    "text": "So I think the key with any, you know, people call it a turnaround. Yes, maybe. I call it Moore. You have to kind of see where the future is going and try to align your resources and your focus with where the future is going.",
+    "uid": "c670d8c06a991258",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1285.25,
+    "end": 1301.25
+  },
+  {
+    "text": "Right. And other than a technological change, there was also a cultural shift in the company, were there any key decisions you made that helped change AMD's internal mindset from being an underdog to an industry leader?",
+    "uid": "5df5079c0f505f1c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1301.25,
+    "end": 1314.25
+  },
+  {
+    "text": "Yeah, I think the key thing with any, you know, company culture or any team culture is it's not necessarily what you write down, but it's actually what people see and feel everyday in terms of, you know, data day operation.",
+    "uid": "6debf969964db96b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1314.25,
+    "end": 1330.25
+  },
+  {
+    "text": "And so from, you know, from the AMD culture standpoint, what I'd like to believe is that, you know, everybody in the companies here, because we love pushing the bleeding edge of technology, like if you want to join AMD, that's why you joined.",
+    "uid": "57b5fe9e08c28489",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1330.25,
+    "end": 1346.25
+  },
+  {
+    "text": "And it is because, you know, you want to be at the cutting edge of technology. You're probably going to work harder than most. You're probably going to take a good amount of risk on how you get that done.",
+    "uid": "ab952db161371128",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1346.25,
+    "end": 1357.25
+  },
+  {
+    "text": "But I also believe very much in a learning culture, which is we learn from everything that we do. Actually, we learn more from our mistakes than we learn from our successes, because with every product launch, we can say, hey, we could have done that a little bit better.",
+    "uid": "b5c14b71d7668060",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1357.25,
+    "end": 1372.25
+  },
+  {
+    "text": "With every new generation, we think about, you know, what will I want to do differently in the future? And that's very much, you know, who we are. I think we are a learning culture. We are very collaborative culture, but at the end of the day we'd like to win. And it's about having, you know, the best technology and the best products out there.",
+    "uid": "fd8423f40e084aed",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1372.25,
+    "end": 1391.25
+  },
+  {
+    "text": "I love that. I learned culture is something we can all take home with us. Now, I want to shift over to talking a bit about the industry in AI.",
+    "uid": "32e1fe900319a2a7",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1391.25,
+    "end": 1399.25
+  },
+  {
+    "text": "The semiconductor industry is as much geopolitical story as it is a technological one. So, how do you navigate an environment where policy decisions such as tariffs, chip subsidies and export controls can make a break in industry leader?",
+    "uid": "c808a0b01eaa7e77",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1399.25,
+    "end": 1415.25
+  },
+  {
+    "text": "Well, I think we have to, the world has changed. The world has changed in a way that, you know, we are in a industry where, you know, having the best technology can make such a difference.",
+    "uid": "793b0b6ee680dff2",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1415.25,
+    "end": 1430.25
+  },
+  {
+    "text": "And like I said, it can make a difference in terms of getting a competitive edge in companies and it can make a difference about, you know, competitive edge in countries.",
+    "uid": "bae6709cdb391132",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1430.25,
+    "end": 1440.25
+  },
+  {
+    "text": "And so it's just part of the industry that we're in. I think the key is to have, you know, very good clarity on, you know, we are a US company. Clearly, there have been a lot of, you know, conversations and discussions over the last, you know, five, seven, eight years in terms of just how important the technology is and ensuring that the technology isn't used for, let's call it, not the, you know,",
+    "uid": "868683761a5e2a22",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1440.25,
+    "end": 1469.25
+  },
+  {
+    "text": "not the purposes that are aligned with, you know, US interests. But I also think the market is super large and there's a way to, you know, really balance both. And that's what we try to do.",
+    "uid": "8286c84282f78c45",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1469.25,
+    "end": 1481.25
+  },
+  {
+    "text": "And you know, I'd like to say, we are a global company in the sense that we operate across, you know, every part of the world.",
+    "uid": "d83c38cfe65abe96",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1481.25,
+    "end": 1488.25
+  },
+  {
+    "text": "But as it relates to critical technology, you know, we're very much, you know, focused on ensuring that we're compliant with all of the US regulations. And in some sense, I'd like to view it as we are a very interested party in helping understand what is the best way to satisfy both interests. And that's, that's what we do.",
+    "uid": "162a37632bb44d60",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1488.25,
+    "end": 1509.25
+  },
+  {
+    "text": "So, see it as an opportunity as well. I like that. Yes. It's, it's really, really important to have your voice heard particularly in, in area that is so complicated, right?",
+    "uid": "d357e5972427cacb",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1509.25,
+    "end": 1519.25
+  },
+  {
+    "text": "It's really hard to figure out where the boundary should be and companies need to step up and be part of that conversation.",
+    "uid": "6177f59ae4cb5473",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1519.25,
+    "end": 1526.25
+  },
+  {
+    "text": "Now, Andy has doubled down on inference rather than training, expecting inference to make up the majority of AI workloads for the future.",
+    "uid": "d010eb880f823051",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1526.25,
+    "end": 1535.25
+  },
+  {
+    "text": "So, could you walk us through what the key technological and market signals have been that is led A and D towards that decision? And maybe for those of us that are less well versed in what training and inference is maybe perhaps, you know, trouble you to explain that.",
+    "uid": "7126a5426327f93d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1535.25,
+    "end": 1548.25
+  },
+  {
+    "text": "Yeah, and, and again, maybe let me take the step back and just, you know, give a little bit of a landscape of where we are in technology today.",
+    "uid": "103f36d4aa6ff6a3",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1548.25,
+    "end": 1555.25
+  },
+  {
+    "text": "It is an incredibly exciting time in technology today. Like, if you had asked me five years ago, the rate and pace of AI adoption that we've seen over the last 18 months.",
+    "uid": "793637bb3af5503a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1555.25,
+    "end": 1567.25
+  },
+  {
+    "text": "I mean, it's, it's extraordinary. I mean, this is like the most important sort of technology advance of the last, you know, 50 plus years.",
+    "uid": "27aa26219dac0abf",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1567.25,
+    "end": 1575.25
+  },
+  {
+    "text": "And what's different about it is so many people can be touched by it.",
+    "uid": "04f0d0798a502fed",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1575.25,
+    "end": 1582.25
+  },
+  {
+    "text": "And that's kind of what generative AI has done, right? AI has been around forever, it's been around for the longest time.",
+    "uid": "307dfb3b5e80f792",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1582.25,
+    "end": 1588.25
+  },
+  {
+    "text": "But it was actually pretty hard to really, you know, get, you know, AI into our business flows.",
+    "uid": "329a595b3d4ccdbd",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1588.25,
+    "end": 1595.25
+  },
+  {
+    "text": "That's kind of what's different today is that now you can see how AI can be adopted in many different ways.",
+    "uid": "0a1560b962ad531a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1595.25,
+    "end": 1601.25
+  },
+  {
+    "text": "So, this comment about training versus inference. Look, I'm actually a believer in, there's no one type of AI.",
+    "uid": "ecfd374ed8529f23",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1601.25,
+    "end": 1608.25
+  },
+  {
+    "text": "Like, you're going to see AI permeate every part of our lives, whether you talk about, you know, the largest cloud environments, which are important today, or you talk about your environments at the edge when you think about industrial AI or robotics, or you think about personal AI.",
+    "uid": "8bbd90d640a4fb7b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1608.25,
+    "end": 1627.25
+  },
+  {
+    "text": "You know, AI PCs, AI and your phones. I think you're going to see AI in all of those places.",
+    "uid": "a7f7d1462e37102d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1627.25,
+    "end": 1632.25
+  },
+  {
+    "text": "And, you know, our, you know, goal in life is to make sure that we have the right computing for the right applications.",
+    "uid": "d5a0158abe311419",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1632.25,
+    "end": 1640.25
+  },
+  {
+    "text": "So, to your question about inference versus training, I think that is a little bit more in terms of the tactics of a given year.",
+    "uid": "0d88a8041586176c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1640.25,
+    "end": 1649.25
+  },
+  {
+    "text": "I would step back from that and say, at the end of the day, you're going to have these amazing large language models that are out there, these foundational models.",
+    "uid": "82fabd051f0e2d34",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1649.25,
+    "end": 1659.25
+  },
+  {
+    "text": "Some of them are going to be open, some of them are going to be closed.",
+    "uid": "006c99377d7d9934",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1659.25,
+    "end": 1662.25
+  },
+  {
+    "text": "And then you're going to have many other models as well. You're going to have medium size models, you're going to have smaller size models.",
+    "uid": "b729cf9c3d45b98b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1662.25,
+    "end": 1669.25
+  },
+  {
+    "text": "You're going to have models that can run on your phone that will give you personal AI capability.",
+    "uid": "4b701a165e50b83b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1669.25,
+    "end": 1674.25
+  },
+  {
+    "text": "And the compute that you need for each of those is somewhat different.",
+    "uid": "802a93e997da9c2c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1674.25,
+    "end": 1678.25
+  },
+  {
+    "text": "And our vision at AMD is that we can really create the right compute for each one of those environments.",
+    "uid": "7cea2f99373d6e1b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1678.25,
+    "end": 1685.25
+  },
+  {
+    "text": "And that's really what we're focused on.",
+    "uid": "0acc76a22ecaeffc",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1685.25,
+    "end": 1687.25
+  },
+  {
+    "text": "That's very helpful. Thank you. I'd like to talk a little bit about AMD software as well.",
+    "uid": "10d8346b21eafbe3",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1687.25,
+    "end": 1691.25
+  },
+  {
+    "text": "So, some of said that AMD is the Android to Nvidia's Apple.",
+    "uid": "512063cb12826022",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1691.25,
+    "end": 1697.25
+  },
+  {
+    "text": "More open, more flexible, but slightly less easy to integrate.",
+    "uid": "281764f9c1bd622c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1697.25,
+    "end": 1702.25
+  },
+  {
+    "text": "So, could you walk us through your decision to make AMD software or consort and how you convince major AI players that AMD's flexibility outweighs Nvidia's verticalization?",
+    "uid": "4434dda64d0b2be7",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1702.25,
+    "end": 1713.25
+  },
+  {
+    "text": "Yeah. Well, look, first of all, I would say Nvidia is a great company and they certainly have a very capable AI into capability.",
+    "uid": "d3b78ec2def9656f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1713.25,
+    "end": 1727.25
+  },
+  {
+    "text": "I think our view is a little bit different. Our view is, again, I view that you're going to have AI into end in different, different compute sizes.",
+    "uid": "0346dd118075c4fa",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1727.25,
+    "end": 1738.25
+  },
+  {
+    "text": "There's no one size fits all in AI. And the open capability is just part of AMD's DNA.",
+    "uid": "ba72e686ce49ffd1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1738.25,
+    "end": 1747.25
+  },
+  {
+    "text": "Like, let's who we are. Like, we believe in letting our customers and our partners choose what is the best component in each spot.",
+    "uid": "35b694976c0dd785",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1747.25,
+    "end": 1757.25
+  },
+  {
+    "text": "Now, what that means is we do take on some extra work in terms of interoperability. We absolutely take on extra work.",
+    "uid": "f3b6a5f9a1218448",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1757.25,
+    "end": 1763.25
+  },
+  {
+    "text": "However, we believe in the end, we'll get a much larger developer ecosystem, as part of that.",
+    "uid": "dbcdd69efcaf1089",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1763.25,
+    "end": 1770.25
+  },
+  {
+    "text": "And so, that has been our mantra. And what you'll see in AI today is, people actually, it's we're in a race to get to the next great app, or the next big wave of usability.",
+    "uid": "a2852f64ff9217b3",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1770.25,
+    "end": 1784.25
+  },
+  {
+    "text": "People want to make it as simple as possible. And that's what we're working on.",
+    "uid": "05ac520e0c4ddd68",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1784.25,
+    "end": 1788.25
+  },
+  {
+    "text": "Is how do we make access to AI as simple as possible as you go forward?",
+    "uid": "f470845d51f15b21",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1788.25,
+    "end": 1794.25
+  },
+  {
+    "text": "Thank you. Now, recently, companies like DeepSeek have been able to train their models at a fraction of the cost of US-based players.",
+    "uid": "52d85d8809e056dd",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1794.25,
+    "end": 1803.25
+  },
+  {
+    "text": "So, what does this mean for the huge amounts of AI infrastructure investment? And what does this mean for AMD?",
+    "uid": "5c0fcb4497fe8dd3",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1803.25,
+    "end": 1809.25
+  },
+  {
+    "text": "Well, first of all, I think what's been most interesting about DeepSeek over the last month or so is just, it's an example of how innovation can really spark new thinking.",
+    "uid": "c9716e2021a24b0f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1809.25,
+    "end": 1821.25
+  },
+  {
+    "text": "People didn't expect it. So, put aside the exact detail of how much, you know, did they spend single digit millions or double digit millions on training.",
+    "uid": "eadde6e7238a4796",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1821.25,
+    "end": 1830.25
+  },
+  {
+    "text": "That's actually, that's actually a secondary point. The primary point is you have a new model, an open model, that had some very innovative ways of putting things together based on what other people have done.",
+    "uid": "945e4c9121fb8c39",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1830.25,
+    "end": 1844.25
+  },
+  {
+    "text": "And now it's spurred more excitement, frankly, because that's what's happened. Like in the last month, people are like, oh, okay, well, that's interesting. That's what DeepSeek did.",
+    "uid": "ca6eb0bd5e6227f3",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1844.25,
+    "end": 1852.25
+  },
+  {
+    "text": "Now, how do I take, you know, and build upon what you saw in DeepSeek and make it applicable to my world. And so you're seeing many derivatives of this come about.",
+    "uid": "c04e389fbed5c934",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1852.25,
+    "end": 1863.25
+  },
+  {
+    "text": "So, I think what it means for, again, you know, put aside some of the market volatility. I think the market is way overly sensitive to the things that happen.",
+    "uid": "e1590d5b643134eb",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1863.25,
+    "end": 1874.25
+  },
+  {
+    "text": "What you find is today, what we're seeing is innovation sparks more innovation. And frankly, making AI more accessible, you know, cheaper, more broadly adopted, will only give us, you know, more uses of AI.",
+    "uid": "0d149d888890fa6e",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1874.25,
+    "end": 1889.25
+  },
+  {
+    "text": "I truly believe that we are at the very, very early beginnings of AI adoption. It is nowhere near. What you have today is good, but it's still quite primitive compared to what I think is possible.",
+    "uid": "22ae3b748103872c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1889.25,
+    "end": 1905.25
+  },
+  {
+    "text": "And we just need to have more cycles of learning in the process.",
+    "uid": "d8096e2d962ef704",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1905.25,
+    "end": 1910.25
+  },
+  {
+    "text": "You always had a really clear idea of what you want to be when you grow up. And so you've met many master and become pack of execution while others have stumbled.",
+    "uid": "bc38e30a7e9b43a2",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1910.25,
+    "end": 1920.25
+  },
+  {
+    "text": "So looking forward, what are the key strategic and execution risks that keep you up at night for AMD?",
+    "uid": "2b1b268308bb757a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1920.25,
+    "end": 1926.25
+  },
+  {
+    "text": "Well, I will, perhaps differ with you a little bit about, I don't know if I can say, always knew what I wanted to be when I grew up.",
+    "uid": "e21e97294d0e7afa",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1926.25,
+    "end": 1934.25
+  },
+  {
+    "text": "I think companies and people have, you know, sort of a, like a five year trajectory. I used to say to people, don't tell me what you want to be in 20 years.",
+    "uid": "afd5b3b3430891b1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1934.25,
+    "end": 1947.25
+  },
+  {
+    "text": "Like, what is a good milestone for you in five years? Because you can kind of see five years, right? Five years is not too too. It's too short.",
+    "uid": "0be3a3bd7e810b7f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1947.25,
+    "end": 1955.25
+  },
+  {
+    "text": "And 10 is maybe a little bit long because so much changes. So I answer that question, you know, is, is, you know, what do I want to achieve?",
+    "uid": "fbd8d112eba7cae0",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1955.25,
+    "end": 1966.25
+  },
+  {
+    "text": "I think we are at a place where, you know, computing continues to be something that can drive fundamental productivity across our lives, across businesses, across the world.",
+    "uid": "91355d9be828300a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1966.25,
+    "end": 1981.25
+  },
+  {
+    "text": "And, you know, I want AMD to be a very major player in unlocking that compute for the world.",
+    "uid": "669291d278fb685a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1981.25,
+    "end": 1989.25
+  },
+  {
+    "text": "And, you know, some of the things that, you know, I see as opportunities, you know, for us, like we talk, you know, we think about AI as, like I think about it in two aspects.",
+    "uid": "2ad4e1d562a4b815",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 1989.25,
+    "end": 2000.25
+  },
+  {
+    "text": "You know, one is sort of how do we make our businesses more productive, how do we make our lives more productive? Like you can see, you know, you can see opportunities for that.",
+    "uid": "67928d2ff6f7161f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2000.25,
+    "end": 2008.25
+  },
+  {
+    "text": "But the more interesting thing is, you know, how do we use the technology to, you know, fundamentally change either business processes, business models, or even, you know, more importantly, solving some of the worlds.",
+    "uid": "9b956dca81603657",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2008.25,
+    "end": 2022.25
+  },
+  {
+    "text": "I like to say, I like to work on technology that solves some of the world's most important problems. Like, AI can help solve, you know, one of the many of those.",
+    "uid": "765ef29b61da3c04",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2022.25,
+    "end": 2032.25
+  },
+  {
+    "text": "And I think about what can AI do in healthcare, what can AI do with drug discovery, what can we do with, you know, climate change.",
+    "uid": "76d6460731fc070c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2032.25,
+    "end": 2040.25
+  },
+  {
+    "text": "And these things, when you take a technology that's fundamentally very capable and put it on turbocharge to solve some of these things.",
+    "uid": "7230f6e64157cd3f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2040.25,
+    "end": 2048.25
+  },
+  {
+    "text": "And frankly, we haven't solved yet, even though we have, you know, a lot of smart researchers and a lot of great computing.",
+    "uid": "a7dcd2d556c3930f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2048.25,
+    "end": 2054.25
+  },
+  {
+    "text": "You know, it still takes, like, years to solve some of these problems. If we can take years down to months or weeks, now we're talking about the power of technology.",
+    "uid": "de7bbf0f966a8deb",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2054.25,
+    "end": 2064.25
+  },
+  {
+    "text": "So, you know, those are some interesting milestones for the next, you know, five years.",
+    "uid": "6d6e508621670186",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2064.25,
+    "end": 2069.25
+  },
+  {
+    "text": "Well, while we're on the topic of milestones in the future, we're joined by many MBA students, most of whom were born at the Cusp of the Internet, and are now graduating on the Cusp of the AI revolution.",
+    "uid": "f772264b1b365e62",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2069.25,
+    "end": 2080.25
+  },
+  {
+    "text": "So, you've also said that AI is the most transformative technology you've seen in your career.",
+    "uid": "386ccb280905fbe3",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2080.25,
+    "end": 2085.25
+  },
+  {
+    "text": "And some have said that today will be the slowest day of AI development for the rest of our lives.",
+    "uid": "4e015f50493bfd30",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2085.25,
+    "end": 2090.25
+  },
+  {
+    "text": "So with that in mind, what's next and how should we prepare?",
+    "uid": "e4405b1c746e27af",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2090.25,
+    "end": 2094.25
+  },
+  {
+    "text": "Well, I think what's next or is we should expect that the only constant is, you know, change, and things will continue to progress at a very fast array.",
+    "uid": "69865cb7219c50c6",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2094.25,
+    "end": 2106.25
+  },
+  {
+    "text": "So, I do believe in this notion of, you know, especially for you guys, you know, you guys are super lucky because you are at a place where, you know, I think we're at the beginning of a wave.",
+    "uid": "f293ce4672c4686b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2106.25,
+    "end": 2118.25
+  },
+  {
+    "text": "And it really is about just being, always being in that learning mode, right?",
+    "uid": "c9e486fe4496249c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2118.25,
+    "end": 2125.25
+  },
+  {
+    "text": "You know, I view any education as not job training. You know, we're not, you know, you didn't get an MBA for job training.",
+    "uid": "d1fba69cd0de3b76",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2125.25,
+    "end": 2133.25
+  },
+  {
+    "text": "I didn't get a PhD for job training. You get these degrees to learn how to think, to learn how to solve problems, to learn how to, you know, really kind of see the future.",
+    "uid": "71cb23878e001e86",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2133.25,
+    "end": 2145.25
+  },
+  {
+    "text": "And so that's what I would view as, you know, sort of, my, my comments to this team.",
+    "uid": "123d4c14e9610374",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2145.25,
+    "end": 2151.25
+  },
+  {
+    "text": "What I've learned over the last 18 months is incredible.",
+    "uid": "04517cd80696ede5",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2151.25,
+    "end": 2156.25
+  },
+  {
+    "text": "And every day, I'm learning something new about how the technology is going to be used, how our customers are using technology, how we can actually, you know,",
+    "uid": "bd89f1a19ec6e08d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2156.25,
+    "end": 2167.25
+  },
+  {
+    "text": "I really like the idea of one plus one is greater than three.",
+    "uid": "d2ccf6ca99905268",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2167.25,
+    "end": 2171.25
+  },
+  {
+    "text": "So, how do you take, let's call it, the power of our expert knowledge, which is in, you know, hardware software systems, together with our partners who are great in, you know, applications and, you know, sort of the end user,",
+    "uid": "fce159c9dec51d69",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2171.25,
+    "end": 2185.25
+  },
+  {
+    "text": "capabilities and marry that together to build one plus one is greater than three.",
+    "uid": "66f0f5ed66dbb5e8",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2185.25,
+    "end": 2190.25
+  },
+  {
+    "text": "Right. And so if we take that change, we'll be a constant.",
+    "uid": "05375b4ff780e855",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2190.25,
+    "end": 2195.25
+  },
+  {
+    "text": "How do you stay focused yet, nimble at the same time, and executing on your kind of five-year milestone?",
+    "uid": "20d4ed1338d4a2c9",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2195.25,
+    "end": 2201.25
+  },
+  {
+    "text": "Well, I think the key is, is to, always, you have to have a very clear, sort of, roadmap of what you want to do,",
+    "uid": "e1a9496f50e949c0",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2201.25,
+    "end": 2211.25
+  },
+  {
+    "text": "but you have to enable yourself to get input into whether you're doing the right thing.",
+    "uid": "57c55107f5a5fa66",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2211.25,
+    "end": 2216.25
+  },
+  {
+    "text": "Like, agility is super important in today's world.",
+    "uid": "de4c71dfe413c438",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2216.25,
+    "end": 2220.25
+  },
+  {
+    "text": "I think you see it in just how fast things are changing.",
+    "uid": "c826132b068e46bf",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2220.25,
+    "end": 2225.25
+  },
+  {
+    "text": "I mean, I think the power of social media, the power of just, you know, the cycles that it used to be for research and for new products to come out is now much, much shorter,",
+    "uid": "ad2f8869077ba3f4",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2225.25,
+    "end": 2238.25
+  },
+  {
+    "text": "because you don't go through quite the same, you know, incubation times of before and so yeah, I think it is about continuing to be, you know, very agile and nimble.",
+    "uid": "858e7f475e3650a4",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2238.25,
+    "end": 2249.25
+  },
+  {
+    "text": "And what we have certainly seen in the process is that collaboration is a big piece of that.",
+    "uid": "edafbfb6d3e08432",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2249.25,
+    "end": 2257.25
+  },
+  {
+    "text": "Like, I'd learned from every single conversation that I have with our customers, with our partners, with industry, folks,",
+    "uid": "b4bb6e4e05a0375c",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2257.25,
+    "end": 2266.25
+  },
+  {
+    "text": "and that helps us align on, you know, what are the next big things that one needs to do?",
+    "uid": "beb523572283175a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2266.25,
+    "end": 2271.25
+  },
+  {
+    "text": "We're excited to see what AMD will do next.",
+    "uid": "42803c7a714924c4",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2271.25,
+    "end": 2274.25
+  },
+  {
+    "text": "Now, before we open up for audience Q&A, I have one more question for you.",
+    "uid": "24f44a8b751a4f59",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2274.25,
+    "end": 2278.25
+  },
+  {
+    "text": "The theme for this is, you're from the top is, we need your mark.",
+    "uid": "97db63cf5dbd3685",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2278.25,
+    "end": 2281.25
+  },
+  {
+    "text": "So, one question we have for all speakers is, Lisa, how would you like to be remembered?",
+    "uid": "abb677c5f43f26fc",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2281.25,
+    "end": 2287.25
+  },
+  {
+    "text": "I would love for people to remember AMD is building some of the most important technology in the world.",
+    "uid": "aa8de52a526419d6",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2287.25,
+    "end": 2293.25
+  },
+  {
+    "text": "I love that. Now, what we're open up for audience Q&A, there's a couple of mics running around.",
+    "uid": "5230fa59ab09bb79",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2293.25,
+    "end": 2298.25
+  },
+  {
+    "text": "If you're selected, please state your name, your Stanford affiliation, and then your question.",
+    "uid": "0391a6e24612a3ea",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2298.25,
+    "end": 2304.25
+  },
+  {
+    "text": "Hi, Lisa. My name is Josh Miner.",
+    "uid": "639f916c9d0ccc5d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2304.25,
+    "end": 2306.25
+  },
+  {
+    "text": "I'm an MBA one and before this I was at AMD for the last four years. So it's great to see you again.",
+    "uid": "2a25dc2424213763",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2306.25,
+    "end": 2311.25
+  },
+  {
+    "text": "This was not a planted question. I promise you. I have no idea what he's going to ask.",
+    "uid": "2eafc475ac242947",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2311.25,
+    "end": 2318.25
+  },
+  {
+    "text": "You mentioned that AI today is good but still quite primitive.",
+    "uid": "ae7c41ef69515fc5",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2318.25,
+    "end": 2322.25
+  },
+  {
+    "text": "What are some of the technological advancements that you are most excited about in the next few years on that hardware software side?",
+    "uid": "b982357347a2bfe5",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2322.25,
+    "end": 2328.25
+  },
+  {
+    "text": "Yeah. Well, when I say that it's good but it could be better.",
+    "uid": "c5e7e57677c6be83",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2328.25,
+    "end": 2333.25
+  },
+  {
+    "text": "Look, I think we've all experienced what, you know, chat, GPT or deep secret.",
+    "uid": "d23b1ff2d433d472",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2333.25,
+    "end": 2338.25
+  },
+  {
+    "text": "Any of these models can do. Now we've added these reasoning capabilities, which is also pretty impressive.",
+    "uid": "23eb81c43dfa01d7",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2338.25,
+    "end": 2345.25
+  },
+  {
+    "text": "But I think there are two vectors that still need a lot of work. One is, there is a view of if we can get the cost down, sort of the cost per inference query or the longer your query.",
+    "uid": "2b605ed6f2d60d90",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2345.25,
+    "end": 2358.25
+  },
+  {
+    "text": "You know, if you have to wait a few seconds or maybe sometimes 30 seconds or 60 seconds, you may not like that.",
+    "uid": "053a3ade135cdff9",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2358.25,
+    "end": 2364.25
+  },
+  {
+    "text": "You want to be able to get it such that it is instant information.",
+    "uid": "746e366123a3f060",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2364.25,
+    "end": 2368.25
+  },
+  {
+    "text": "And then the other thing is you want to make sure that it's accurate. Part of, I don't know, we believe it's gotten so much better in the last 18 months.",
+    "uid": "197e40515badd410",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2368.25,
+    "end": 2377.25
+  },
+  {
+    "text": "But you still are not 100% sure that it's accurate.",
+    "uid": "d3cdfa8aeec14069",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2377.25,
+    "end": 2382.25
+  },
+  {
+    "text": "And so there's a lot of work that can still be done in terms of really taking the output of these models and turning them into something you heard about maybe the comments about agents and having lots and lots of agents.",
+    "uid": "85c0f6986e8d2899",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2382.25,
+    "end": 2396.25
+  },
+  {
+    "text": "Like that is super exciting because that's how you really get AI to not just give you information but it be able to take on some tasks on its own.",
+    "uid": "b46515430550ae22",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2396.25,
+    "end": 2406.25
+  },
+  {
+    "text": "But you really need to ensure that it doesn't write.",
+    "uid": "2fbb94de00ca4625",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2406.25,
+    "end": 2409.25
+  },
+  {
+    "text": "And so that's, there's so much work in those areas going on right now that I think will continue to advance and progress going forward.",
+    "uid": "d24578f5bf6fda36",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2409.25,
+    "end": 2417.25
+  },
+  {
+    "text": "Thanks so much for coming. My name is Derek and my name is Emma Nmbia.",
+    "uid": "abee97b3146fdd30",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2417.25,
+    "end": 2420.25
+  },
+  {
+    "text": "And most of the time, I'm also from Taiwan's or a huge inspiration to me.",
+    "uid": "02488d884f09ff2b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2420.25,
+    "end": 2424.25
+  },
+  {
+    "text": "And my question is, Apple earlier today announced a $500 billion plan to bring AI server assembly back to the US, especially under the current administration.",
+    "uid": "18b442ae92aa984f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2424.25,
+    "end": 2435.25
+  },
+  {
+    "text": "How do you view the future of semiconductor manufacturer and here in the US and more importantly, or rule this Taiwan plan that process?",
+    "uid": "8cae87de520c43c2",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2435.25,
+    "end": 2442.25
+  },
+  {
+    "text": "Yeah, I think it's a very much top of mind point.",
+    "uid": "5565bdbc76df7aa7",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2442.25,
+    "end": 2447.25
+  },
+  {
+    "text": "I think the top of mind point for everyone, whether you're talking about US or you know Taiwan or the European countries is, you know, everyone wants resiliency in their supply chain, right?",
+    "uid": "a317a9f631d584da",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2447.25,
+    "end": 2460.25
+  },
+  {
+    "text": "You want to believe that no matter what happens, you have access to the most important components locally in region.",
+    "uid": "63a5f9c3f27d00af",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2460.25,
+    "end": 2469.25
+  },
+  {
+    "text": "And so, you know, US manufacturing continues to be a very big topic of conversation.",
+    "uid": "4c9aed6eb0692522",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2469.25,
+    "end": 2476.25
+  },
+  {
+    "text": "I'm a big believer proponent that we need to bring more semiconductor manufacturing back to the United States.",
+    "uid": "f3ff70ffd8b9f056",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2476.25,
+    "end": 2483.25
+  },
+  {
+    "text": "I'm also a big believer and you can't do it overnight.",
+    "uid": "d49ab8fafbe0de85",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2483.25,
+    "end": 2486.25
+  },
+  {
+    "text": "There are reasons that the supply chain became much, much more efficient for, you know, Taiwan, Taiwan today still has the vast majority of all advanced semiconductors.",
+    "uid": "df7793ddc31114bb",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2486.25,
+    "end": 2496.25
+  },
+  {
+    "text": "But more of it will move and it's the right thing to do because you need resiliency in the supply chain.",
+    "uid": "948b5b7f6936d386",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2496.25,
+    "end": 2501.25
+  },
+  {
+    "text": "So I think with the chips act that was put in place a few years ago and then, you know, certainly the Trump administration, the new administration is very focused on bringing more manufacturing investment back to the US.",
+    "uid": "41de77f8251bd877",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2501.25,
+    "end": 2513.25
+  },
+  {
+    "text": "I think we're going to see that happen.",
+    "uid": "1a7d2c08ae53a303",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2513.25,
+    "end": 2515.25
+  },
+  {
+    "text": "It'll just take a little bit of time.",
+    "uid": "563016c8a95e0cd1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2515.25,
+    "end": 2517.25
+  },
+  {
+    "text": "I'm Nico and Rick as a principal at Future Ventures, a deep tech VC, second year MBA.",
+    "uid": "4af70d85b3148e76",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2517.25,
+    "end": 2523.78
+  },
+  {
+    "text": "There's talk of a potential over-build and data centers.",
+    "uid": "0642a350a44bb24a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2523.78,
+    "end": 2526.78
+  },
+  {
+    "text": "Microsoft has started to lease their data centers rather than buy, for example.",
+    "uid": "9a1d6eda81437beb",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2526.78,
+    "end": 2529.78
+  },
+  {
+    "text": "Do you think there is a bubble in this space and how do you hedge for that case?",
+    "uid": "81e811cfd2e1b297",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2529.78,
+    "end": 2534.78
+  },
+  {
+    "text": "Yeah. I look at this out of much longer time scale versus a very tactical time scale.",
+    "uid": "e99c1ca3b022f565",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2534.78,
+    "end": 2541.78
+  },
+  {
+    "text": "I think on the longer time scale, we need more data centers and we need more power.",
+    "uid": "baacd0422a503a19",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2541.78,
+    "end": 2546.78
+  },
+  {
+    "text": "And, you know, frankly, the largest inhibitor over the last 18 months for perhaps even more progress was, you know, just the entire supply chain was not ready.",
+    "uid": "64fc1b15c2fd5f62",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2546.78,
+    "end": 2557.78
+  },
+  {
+    "text": "Like, we needed more chips, we needed more power, we needed more data centers.",
+    "uid": "c52884870ca7be80",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2557.78,
+    "end": 2561.78
+  },
+  {
+    "text": "And as a result, there's more, you know, build happening in that area.",
+    "uid": "5e8b712c428752fd",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2561.78,
+    "end": 2566.78
+  },
+  {
+    "text": "From my perspective, you know, we are at a place where, you know, compute is still, the scaling laws would say that more compute will get you better answers.",
+    "uid": "10fba1d60759ca70",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2566.78,
+    "end": 2578.78
+  },
+  {
+    "text": "And we'll allow you to get the technology more adopted, you know, across the, across the world.",
+    "uid": "aa0ceaa2e2821162",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2578.78,
+    "end": 2587.78
+  },
+  {
+    "text": "So I'm more of a bullish on that than not.",
+    "uid": "575a9d6f657c1b59",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2587.78,
+    "end": 2592.78
+  },
+  {
+    "text": "Benji Walbutton, first year undergrad. So, Jensen was here two weeks ago.",
+    "uid": "dec4294b29ca7c89",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2592.78,
+    "end": 2598.78
+  },
+  {
+    "text": "And I asked a question about the kind of monopoly they have on all the kind of hardware used for pre-training.",
+    "uid": "8d315433cdf22a02",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2598.78,
+    "end": 2604.78
+  },
+  {
+    "text": "Does AMD plan to try and challenge a video on this? And if so, what's the timeline?",
+    "uid": "8dd184b8e5144eeb",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2604.78,
+    "end": 2610.78
+  },
+  {
+    "text": "So, let me say, I do not believe that there will ever be a case where there's only, you know, one technology that's used for something.",
+    "uid": "2eb2fd5557cd0037",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2610.78,
+    "end": 2620.78
+  },
+  {
+    "text": "And what pre-training is very important. Training in general is very important. So I was going to say Michael to your question earlier.",
+    "uid": "564e743f3e1f013f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2620.78,
+    "end": 2627.78
+  },
+  {
+    "text": "I view this as a continuum between inference, you know, training, reinforcement learning, all of these things require, you know, very fundamental, you know, similar technologies.",
+    "uid": "bdd7116de54dc1fd",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2627.78,
+    "end": 2640.78
+  },
+  {
+    "text": "So yes, you will see today there's quite a bit of training that's being done on AMD, but you'll see a lot more as we go forward.",
+    "uid": "2309bc4c4b7c8cc8",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2640.78,
+    "end": 2648.78
+  },
+  {
+    "text": "I'm starting in the Stanford for a 90-program. My question is, so since it's just a bit changed for AI, do you think it's a good change for students to start operating their own business after graduation?",
+    "uid": "4792209b715959fb",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2648.78,
+    "end": 2659.78
+  },
+  {
+    "text": "Or, you think it's a good change for, to work for big companies?",
+    "uid": "55c7375325709018",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2659.78,
+    "end": 2663.78
+  },
+  {
+    "text": "Yeah. I think there's no one right answer to that. It depends on the person.",
+    "uid": "efcf7839f6d462cc",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2663.78,
+    "end": 2669.78
+  },
+  {
+    "text": "I think there are benefits to starting your own company. If you want to, if you have a great idea and, you know, certainly, you know, Silicon Valley is a place where lots of startups have been super successful, AI is an area where there are lots of startups.",
+    "uid": "fc9b16cbc404b181",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2669.78,
+    "end": 2682.78
+  },
+  {
+    "text": "Then you have the opportunity to get, you know, the funding and supports and a lot of, you know, mentorship and capability.",
+    "uid": "546a17f83ad71440",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2682.78,
+    "end": 2689.78
+  },
+  {
+    "text": "There's also, you know, lots of advantages to working for a big company. In my world, I've had the opportunity to, I think, try so many different things that would be hard to do in a startup environment and, you know, I've learned along the way.",
+    "uid": "fad36d6ec83f964d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2689.78,
+    "end": 2705.78
+  },
+  {
+    "text": "So it really depends on what, what makes you tick. I will say that I've had a lot of opportunities throughout my career to potentially run smaller companies.",
+    "uid": "61e9aaece28f6933",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2705.78,
+    "end": 2714.78
+  },
+  {
+    "text": "And for me, the important thing wasn't, I had to get to CEO as fast as possible. Like that was not the motivation. I thought I would like to be a CEO, but that wasn't my motivation. My motivation was to work in something where I could make a big difference on the industry.",
+    "uid": "284cb09a90416d24",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2714.78,
+    "end": 2733.78
+  },
+  {
+    "text": "And so for that, I needed a bigger company because I didn't think I was going to find that in a startup, at least to start with. But then again, there's some great examples here in the, you know, sort of, if you look at the pipeline of companies that have come up, come out of Stanford.",
+    "uid": "8603f44b5c93dc25",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2733.78,
+    "end": 2749.78
+  },
+  {
+    "text": "If you look at the pipeline of companies in AI today where, you know, people are making tremendous difference. I think either are great options.",
+    "uid": "152db8dcfc870377",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2749.78,
+    "end": 2757.78
+  },
+  {
+    "text": "So much. This has been really fun. It's a really from the top tradition to end with a couple of rapid fire questions. So I'm going to ask you a question and you say the first thought that comes to your mind.",
+    "uid": "8f593e2aef0b89d7",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2758.78,
+    "end": 2767.78
+  },
+  {
+    "text": "What is one hobby that most people don't know about you?",
+    "uid": "7aefe1efac7b940a",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2770.78,
+    "end": 2773.78
+  },
+  {
+    "text": "Well, I do like to box for exercise. And I also greatly enjoy Texas hold them. So my sales guys like to play Texas hold them with me.",
+    "uid": "0f79ba26e032b21b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2773.78,
+    "end": 2785.78
+  },
+  {
+    "text": "I would not want to be on the other side of the table with you.",
+    "uid": "1e27c7a2e7a6aee2",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2785.78,
+    "end": 2789.78
+  },
+  {
+    "text": "If you weren't waiting, AMD, what would you be doing?",
+    "uid": "0293d7bad470938d",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2789.78,
+    "end": 2792.78
+  },
+  {
+    "text": "Oh, hopefully improving my golf handicap. My handicap is gotten worse as I've become CEO. So I'd have to have a go the other way.",
+    "uid": "a04e4529e1016ffa",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2792.78,
+    "end": 2800.78
+  },
+  {
+    "text": "The way I get.",
+    "uid": "5590e4c0a6d2b0e1",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2800.78,
+    "end": 2801.78
+  },
+  {
+    "text": "I wouldn't mind an invitation someday.",
+    "uid": "04ac843a553f7ce4",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2803.78,
+    "end": 2805.78
+  },
+  {
+    "text": "Somebody wants to invite me.",
+    "uid": "cdfc09a868f7182e",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2805.78,
+    "end": 2806.78
+  },
+  {
+    "text": "What is one piece of tech you can't read about?",
+    "uid": "da6d328059e4fd29",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2806.78,
+    "end": 2808.78
+  },
+  {
+    "text": "I think as all we're all stuck to our phone. But probably the thing that I really like is I've really gotten used to using Spotify on my phone.",
+    "uid": "73ea28619642b9c9",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2808.78,
+    "end": 2821.48
+  },
+  {
+    "text": "And it is it's really nice to be able to kind of carry your stuff everywhere you go.",
+    "uid": "87a57c4949674350",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2821.48,
+    "end": 2826.48
+  },
+  {
+    "text": "What is one piece of advice to be broadcast across Stanford?",
+    "uid": "e5b20e083082f34b",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2828.48,
+    "end": 2832.48
+  },
+  {
+    "text": "I would say dream big.",
+    "uid": "dd5847ff450a01be",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2832.48,
+    "end": 2836.3
+  },
+  {
+    "text": "I mean, you guys are like this is the time to have a big bold, audacious dream and follow your dreams.",
+    "uid": "1b3e66589f182d57",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2836.3,
+    "end": 2847.3
+  },
+  {
+    "text": "And finally one word to describe AMD's future.",
+    "uid": "ae98769a236bc347",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2847.3,
+    "end": 2851.3
+  },
+  {
+    "text": "It's been an absolute privilege.",
+    "uid": "06dff1d5814a0a81",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2852.3,
+    "end": 2854.3
+  },
+  {
+    "text": "Thank you so much.",
+    "uid": "b5a1792407f6937f",
+    "source": "Stanford_Graduate_School_of_Business - View_From_The_Top_with_Lisa_Su_-_Chair_an",
+    "start": 2854.3,
+    "end": 2855.3
+  }
+]
