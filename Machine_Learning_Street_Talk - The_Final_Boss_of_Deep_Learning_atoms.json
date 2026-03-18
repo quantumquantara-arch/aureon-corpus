@@ -1,0 +1,3159 @@
+[
+  {
+    "text": "language models cannot do addition, not really. I keep seeing claims that they can and every",
+    "uid": "f91cf98163097a8e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 0.0,
+    "end": 6.64
+  },
+  {
+    "text": "time I see this claim I go again to chat GPT and so on and check and they can't. And what they can",
+    "uid": "66d10267ec4283fe",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 6.64,
+    "end": 12.96
+  },
+  {
+    "text": "do is learn patterns which work a lot of the time but you can always trip them up by doing something",
+    "uid": "9ab05a8ab5e72815",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 12.96,
+    "end": 19.28
+  },
+  {
+    "text": "like okay. So if you ask chat GPT what is a bunch of eights plus a bunch of ones with a two at the end?",
+    "uid": "022456f42b0855b7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 19.28,
+    "end": 26.56
+  },
+  {
+    "text": "It will get the correct answer because it will recognize the trick. It'll say oh that's just one",
+    "uid": "0081c88c7e828a61",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 27.36,
+    "end": 31.2
+  },
+  {
+    "text": "and a bunch of zeros. It'll know that you're trying to trick it. But if now you change one of the",
+    "uid": "7d52898778775e57",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 31.2,
+    "end": 36.24
+  },
+  {
+    "text": "eights to a seven. Now it has to actually know what it's doing. It has to actually sort of walk up,",
+    "uid": "fc4e8c77aac13cff",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 36.24,
+    "end": 42.24
+  },
+  {
+    "text": "hit the seven and stop sort of propagating zeros and it simply fails. It either chokes and makes up",
+    "uid": "fe64cf620f012beb",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 42.24,
+    "end": 49.68
+  },
+  {
+    "text": "some nonsense or it says it's one with a bunch of zeros anyway. Like it definitely can't add in",
+    "uid": "54a34a46481499e5",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 49.68,
+    "end": 56.48
+  },
+  {
+    "text": "the basic way that we know how to do algorithmically that humans learn. And so like really",
+    "uid": "803a81b51c673341",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 57.12,
+    "end": 63.2
+  },
+  {
+    "text": "teasing apart on a very basic level like Newton's three laws of motion, it has it encapsulated it",
+    "uid": "be9c36fa575522e8",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 63.2,
+    "end": 70.24
+  },
+  {
+    "text": "whether that's Vio or Gini have these models encapsulated the physics of that 100% accurately. And",
+    "uid": "0e3eb0e46df2f981",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 70.96,
+    "end": 76.4
+  },
+  {
+    "text": "right now they're not they're kind of approximations and they look realistic when you just casually look",
+    "uid": "1227355e81520d93",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 76.4,
+    "end": 82.0
+  },
+  {
+    "text": "them. They're not accurate enough yet to rely on Versailles, but just because we can achieve",
+    "uid": "e2a1827f0395a2f1",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 82.72,
+    "end": 87.68
+  },
+  {
+    "text": "some level of moving the needle by hooking up a really potent tool to a language model doesn't mean",
+    "uid": "50db8f9064ce5207",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 87.68,
+    "end": 94.08
+  },
+  {
+    "text": "that we shouldn't think about what would the next generation of these models look like and how can we",
+    "uid": "bf121cbbca94a936",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 94.08,
+    "end": 99.04
+  },
+  {
+    "text": "make them intrinsically better because even if you have the best tool in the world that is not going to",
+    "uid": "c2c2b90abff55ce5",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 99.04,
+    "end": 104.72
+  },
+  {
+    "text": "save you if you cannot predict the right inputs for that tool. Even some of the current frontier models",
+    "uid": "cd91cf1dd115728d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 104.72,
+    "end": 109.92
+  },
+  {
+    "text": "they will as you probably know perform hundreds of billions of multiplications just to produce",
+    "uid": "1d2ccf3231497cd8",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 110.88,
+    "end": 116.16
+  },
+  {
+    "text": "a single token of output yet they cannot reliably multiply even relatively small numbers together without",
+    "uid": "b4d59ba620fbecd7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 116.16,
+    "end": 123.12
+  },
+  {
+    "text": "failing. Right? So this is something that to me hints at a great misalignment between what we are",
+    "uid": "7abe0fa9806b8e97",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 123.12,
+    "end": 131.2
+  },
+  {
+    "text": "trading these systems to do and how we're building them and what we might want to use them for",
+    "uid": "6f3d4ac5c511cdfb",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 131.2,
+    "end": 135.44
+  },
+  {
+    "text": "downstream especially if we're doing reasoning or if we're doing science. But it seems like let's say in",
+    "uid": "1b77fc396335a5f0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 135.44,
+    "end": 140.4
+  },
+  {
+    "text": "LLM if you teach it properly you can just teach it to do let's say addition up to some failure of its",
+    "uid": "068b3eff1b630678",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 140.4,
+    "end": 147.28
+  },
+  {
+    "text": "memory just like with humans we might forget a digit or we forget to carry over or we do the algorithm",
+    "uid": "51222f5514924eb7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 147.28,
+    "end": 152.96
+  },
+  {
+    "text": "wrong sometimes with some probability up to that it can learn this procedure of adding a long digit numbers",
+    "uid": "88c893fb64430556",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 152.96,
+    "end": 161.68
+  },
+  {
+    "text": "you know it's it's neural is it symbolic it's doing something some algorithm something symbolic perhaps",
+    "uid": "267f2292c2ff77c2",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 162.24,
+    "end": 167.68
+  },
+  {
+    "text": "but it's doing that with its neural machinery and the neural machinery also allows it to first of all",
+    "uid": "ec52aef5e173fc81",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 168.88,
+    "end": 174.48
+  },
+  {
+    "text": "absorb tons and tons of world knowledge and deal with the vagueness of concepts right the fact that",
+    "uid": "42e0d67ff89e0d74",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 174.48,
+    "end": 181.76
+  },
+  {
+    "text": "that things don't exactly want to fit your good old fashion AI symbolic theory most of the time.",
+    "uid": "b48bb3c691f82171",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 181.76,
+    "end": 187.76
+  },
+  {
+    "text": "We've all played with MCP servers we know that we can hook tools up to these things why not just",
+    "uid": "c2fcc5c578bcf982",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 187.84,
+    "end": 192.24
+  },
+  {
+    "text": "call a calculator? Well Andrew argues that tool use isn't enough right we still need to be thinking about the",
+    "uid": "e139d72c8343f909",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 192.24,
+    "end": 197.92
+  },
+  {
+    "text": "actual architecture underneath it still matters internalizing things I think has a chance to be a lot more",
+    "uid": "9e260810ed4ab81a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 197.92,
+    "end": 205.12
+  },
+  {
+    "text": "stable the relationship between neural nets and tools is somewhat complicated I think you can do a lot",
+    "uid": "14f47130c9255198",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 205.12,
+    "end": 213.28
+  },
+  {
+    "text": "with it you can do a lot of interesting search but there are a few disadvantages one is you may have to",
+    "uid": "cc0ba24b2bcbddb0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 213.28,
+    "end": 220.64
+  },
+  {
+    "text": "call the model a bunch of times because it may get an answer but it may not be the answer it was expecting",
+    "uid": "dd5e09e10e066f04",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 220.64,
+    "end": 226.64
+  },
+  {
+    "text": "so it might have to rethink things and go back like imagine a situation where you had some complex reasoning",
+    "uid": "57273b0d2e0c44ae",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 226.64,
+    "end": 233.04
+  },
+  {
+    "text": "problem where along the way you had to do a series of little additions you just had to sort of okay so",
+    "uid": "fb3503fee751d479",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 233.04,
+    "end": 239.44
+  },
+  {
+    "text": "within this and then oh how many of these are there okay and then how many of these and so on and you",
+    "uid": "43d9cba7b7f55e17",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 239.44,
+    "end": 245.76
+  },
+  {
+    "text": "it could be quite complicated to kind of keep calling out to a tool and then going back and then calling",
+    "uid": "031340d5f1c9a5f9",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 245.76,
+    "end": 251.44
+  },
+  {
+    "text": "out to a tool and then going back and you know it seems like there are big efficiency gains if you're able",
+    "uid": "b62af59e9dc8c0e0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 251.44,
+    "end": 259.68
+  },
+  {
+    "text": "to equip the model itself to just do certain kinds of basic computation or reasoning internally.",
+    "uid": "1a2c03da85fd58c3",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 259.68,
+    "end": 266.48
+  },
+  {
+    "text": "So yeah geometric deep learning was a pretty interesting episode and certainly a very exciting",
+    "uid": "719272ff492594e4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 266.48,
+    "end": 272.8
+  },
+  {
+    "text": "period in my own research and and what I've done together with the team already in that very first",
+    "uid": "08b249fdfd4ddd8f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 272.8,
+    "end": 279.28
+  },
+  {
+    "text": "episode that we did together with geometric deep learning there was a hint of discussion about how geometric",
+    "uid": "49a671769a8d891d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 279.28,
+    "end": 285.84
+  },
+  {
+    "text": "deep learning might not necessarily be enough. It will require us potentially to broaden our lens on",
+    "uid": "9322619d4fff278d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 285.84,
+    "end": 291.28
+  },
+  {
+    "text": "what we mean by geometric deep learning and this is something we're already very actively thinking about",
+    "uid": "5e24860935589b14",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 291.28,
+    "end": 296.0
+  },
+  {
+    "text": "I think one of our co-authors taco co and actually thought much more deeply about this.",
+    "uid": "166e510140460a2c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 296.0,
+    "end": 300.32
+  },
+  {
+    "text": "Like I hint at the fact that groups which are the bread and butter of geometric deep learning",
+    "uid": "471614c6f72b6aec",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 301.04,
+    "end": 306.88
+  },
+  {
+    "text": "might not be enough for fitting the concept of aligning the computation which is my personal motivation right",
+    "uid": "3df450ac28923a43",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 306.88,
+    "end": 314.48
+  },
+  {
+    "text": "So for those who are not familiar geometric deep learning fundamentally builds itself on the concept",
+    "uid": "5b99a5f4ec1c2815",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 314.56,
+    "end": 321.12
+  },
+  {
+    "text": "of constructing neural networks in a way that is what we call equivarian to symmetry transformations.",
+    "uid": "4b2c4485bfa6522c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 321.12,
+    "end": 327.52
+  },
+  {
+    "text": "So what this means in a nutshell is if I transform my input in some way I should get predictable outputs",
+    "uid": "29759d86ca973192",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 327.52,
+    "end": 334.72
+  },
+  {
+    "text": "with my neural network if that transformation is something that I find to be irrelevant.",
+    "uid": "77b280101faf1660",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 334.72,
+    "end": 338.96
+  },
+  {
+    "text": "One standard example is translations of images so if I have a picture of a cat and I decide to",
+    "uid": "7dbae5aab1a67b16",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 338.96,
+    "end": 344.24
+  },
+  {
+    "text": "shift it by certain number of pixels it is still a picture of a cat that hasn't changed. I've just",
+    "uid": "c716b9399ccbd9f3",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 344.24,
+    "end": 349.44
+  },
+  {
+    "text": "changed the way I'm looking at that cat. So I would like to build my model to be what we call translation",
+    "uid": "cee04524a3a5bdaf",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 349.44,
+    "end": 354.72
+  },
+  {
+    "text": "equivarian such that when I do apply such a shift I will still get the same output that this is indeed a cat.",
+    "uid": "c3c32c03e6c296a4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 354.72,
+    "end": 361.36
+  },
+  {
+    "text": "In a similar manner graph machine learning which is an area that I'm personally really passionate about",
+    "uid": "e09bd352f6951d0b",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 362.32,
+    "end": 367.2
+  },
+  {
+    "text": "deals with extracting useful representations of graph structure data like molecules.",
+    "uid": "7a7e7dce2f13105e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 367.2,
+    "end": 371.28
+  },
+  {
+    "text": "But graphs have this inherent property that there's many different ways you can show them to the model.",
+    "uid": "603eab6bfceec977",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 371.92,
+    "end": 378.08
+  },
+  {
+    "text": "And typically you have to present them using some kind of say adjacency matrix of nodes by nodes.",
+    "uid": "7c4a4ce4880532c9",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 378.08,
+    "end": 383.36
+  },
+  {
+    "text": "But what happens if I decide to prelude the order in which I show you those nodes so I",
+    "uid": "10d253a907663624",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 383.36,
+    "end": 387.12
+  },
+  {
+    "text": "prelude the matrix is rows and columns accordingly. This is still the same graph. I would still want to get",
+    "uid": "d916f5877f7a73fc",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 387.12,
+    "end": 392.96
+  },
+  {
+    "text": "exactly the same outputs on that graph right. So I can build into my models this notion of",
+    "uid": "75493340adb418e0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 392.96,
+    "end": 398.56
+  },
+  {
+    "text": "permutation equivarians which guarantees that even if I permute my nodes I'm still going to get",
+    "uid": "0934a41b900107f2",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 398.56,
+    "end": 404.88
+  },
+  {
+    "text": "predictable outputs and basically identical outputs up to permutation for those permutative graphs.",
+    "uid": "e7ca3f742fe2db07",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 404.88,
+    "end": 411.04
+  },
+  {
+    "text": "And this is a really important property because it reduces almost exponentially basically the amount of data",
+    "uid": "c98583e77890548b",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 411.04,
+    "end": 416.88
+  },
+  {
+    "text": "you need to fit the system like that to a satisfactory amount of behavior and it should come as",
+    "uid": "d1dc5034f4f98fba",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 416.88,
+    "end": 422.0
+  },
+  {
+    "text": "also prize at the transformers at their heart our permutation equivarian models.",
+    "uid": "0eb23614d7a81d00",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 422.0,
+    "end": 426.56
+  },
+  {
+    "text": "Once you've put token embeddings, position embeddings into tokens you can",
+    "uid": "e428d47a0c0795ab",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 426.56,
+    "end": 431.2
+  },
+  {
+    "text": "permute them all you want you'll get exactly the same response. If you wanted to learn that kind of",
+    "uid": "af74c59986617c9c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 431.2,
+    "end": 435.6
+  },
+  {
+    "text": "symmetry with a simple MLP of tokens that would have taken you exponentially more data than the",
+    "uid": "ad445aba16a55ed7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 435.6,
+    "end": 441.2
+  },
+  {
+    "text": "trillions that we currently use the train these models so likely a data you wouldn't be able to find.",
+    "uid": "b45db0c1f589210d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 441.2,
+    "end": 445.36
+  },
+  {
+    "text": "We looked at geometric deep learning from a group symmetry point of view which is a very nice",
+    "uid": "2d26c88b1bd34d65",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 445.36,
+    "end": 450.72
+  },
+  {
+    "text": "weight to describe spatial regularities and spatial symmetries but it's not necessarily the best",
+    "uid": "943c8a945e5080db",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 450.72,
+    "end": 456.96
+  },
+  {
+    "text": "way to talk about say invariance of generic computation which you would find in algorithms right it's like",
+    "uid": "fc5e5b5828a88904",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 456.96,
+    "end": 462.96
+  },
+  {
+    "text": "I have input that satisfies certain preconditions. I want to say something about one side push it through",
+    "uid": "31734c0d2409a358",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 462.96,
+    "end": 467.92
+  },
+  {
+    "text": "this function it should satisfy certain post conditions this is not the kind of thing we can very easily",
+    "uid": "3b709586bf88a018",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 467.92,
+    "end": 472.56
+  },
+  {
+    "text": "express using the language of group theory however it is something that perhaps we could express more",
+    "uid": "f1380562ce8d3fcd",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 472.56,
+    "end": 478.56
+  },
+  {
+    "text": "nicely using the language of category theory. I do think that some very high level priors",
+    "uid": "75ce635d5842405f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 478.56,
+    "end": 484.0
+  },
+  {
+    "text": "are probably a good idea and perhaps even necessary. In my PhD I worked a lot on building",
+    "uid": "f04ca0742cb4074d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 484.0,
+    "end": 490.0
+  },
+  {
+    "text": "knowledge about symmetries into neural networks and I think for for many problems you know knowledge",
+    "uid": "443d94a20730646d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 490.0,
+    "end": 498.0
+  },
+  {
+    "text": "about symmetries is something that first of all gives you a lot of bang for the buck you we know from",
+    "uid": "a13a704c61fbd894",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 498.0,
+    "end": 503.12
+  },
+  {
+    "text": "from physics already and now from empirical results in in machine learning that building these things into",
+    "uid": "ca174d0434031c98",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 503.12,
+    "end": 508.4
+  },
+  {
+    "text": "neural networks or putting a code straight into your physical theory based on symmetries gives you",
+    "uid": "bd260e6a0ac05e7b",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 508.88,
+    "end": 514.0
+  },
+  {
+    "text": "a lot of information or it really restricts the space of hypotheses and at the same time it doesn't buy",
+    "uid": "01b6a57c2a55188d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 514.0,
+    "end": 521.28
+  },
+  {
+    "text": "us your model if indeed your problem has this symmetry. So I think that kind of that's the kind of thing",
+    "uid": "01f2c7e6795b72c5",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 521.28,
+    "end": 528.0
+  },
+  {
+    "text": "we should be looking for this kind of very high level abstract prior not trying to encode you know",
+    "uid": "4280515be204d4e5",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 528.0,
+    "end": 534.88
+  },
+  {
+    "text": "come back to the example I gave just now the fact that light switches make lights go on that we can",
+    "uid": "d90a186fc5d495b6",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 535.2,
+    "end": 540.4
+  },
+  {
+    "text": "figure out from data from reading text on the internet at scale from trial and error learning in an",
+    "uid": "02d7ad2ef84616cc",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 540.4,
+    "end": 546.8
+  },
+  {
+    "text": "interactive environment perhaps the fact that there's space like 3D space and that your 2D images are",
+    "uid": "33f847bae2144a98",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 546.8,
+    "end": 553.76
+  },
+  {
+    "text": "a projection of that maybe that that is a useful prior. category theory is very much in the eye of the",
+    "uid": "bfed5edc3c5b3bfc",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 553.76,
+    "end": 559.12
+  },
+  {
+    "text": "beholder I think in the first instance for me category theory categories are a very mundane thing",
+    "uid": "aa44603f33a33663",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 559.12,
+    "end": 567.36
+  },
+  {
+    "text": "from pure mathematics where I come from and category theory means you know when you study categories for",
+    "uid": "41608c204f7d23df",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 567.36,
+    "end": 573.84
+  },
+  {
+    "text": "their own sake but everybody uses categories the question is what exactly are they and I really come from",
+    "uid": "b8a41146d3271580",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 573.84,
+    "end": 581.2
+  },
+  {
+    "text": "algebra and a lot of my motivation comes from studying algebra and one way you can think about categories",
+    "uid": "68231dce6c4e4d04",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 581.2,
+    "end": 588.4
+  },
+  {
+    "text": "is algebra with colors so you know we can imagine sort of typical algebra so for example let's say",
+    "uid": "b5ebca919097f425",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 588.4,
+    "end": 596.8
+  },
+  {
+    "text": "we're multiplying square matrices I can sort of think of each square matrix as a little magnet and I just",
+    "uid": "f23f7400faad8696",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 596.8,
+    "end": 603.04
+  },
+  {
+    "text": "sort of hook them up together and they just stick and you kind of you know you get a bigger and bigger",
+    "uid": "3ee941050b252357",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 603.04,
+    "end": 607.76
+  },
+  {
+    "text": "magnet and and everything makes sense but now suppose I had special magnets that had colors on each side",
+    "uid": "66013eee3c4e5470",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 607.76,
+    "end": 614.72
+  },
+  {
+    "text": "and I could only connect them if the colors were the same and that sounds a bit weird but it's exactly",
+    "uid": "ee679d8ee281cd1a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 614.72,
+    "end": 620.32
+  },
+  {
+    "text": "what happens with non square matrices when we multiply two matrices we we have to follow a rule that they",
+    "uid": "bd05db9ab91485b7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 620.32,
+    "end": 629.44
+  },
+  {
+    "text": "are not allowed to be multiplied unless the numbers match up if I have an m by n matrix and I want to",
+    "uid": "832960d083579312",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 629.44,
+    "end": 635.2
+  },
+  {
+    "text": "multiply in the left with an l by m matrix I can do that because the ms are the same but otherwise I",
+    "uid": "2793b8dfb7a2c62c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 635.2,
+    "end": 640.88
+  },
+  {
+    "text": "can't there's a kind of color violation so the point is a situation where we want to be able to compose",
+    "uid": "478efa1a47d7f2c3",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 640.96,
+    "end": 648.24
+  },
+  {
+    "text": "things to to hook them up together but we can't always do it that's basically what categories are designed to",
+    "uid": "a34a9cc314ae06ec",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 648.24,
+    "end": 657.2
+  },
+  {
+    "text": "cover and I think the matrix example illustrates they're not so mysterious it's just when you want to be",
+    "uid": "f9b3643124b0edda",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 657.2,
+    "end": 664.48
+  },
+  {
+    "text": "talking about for example many different sized vectors paces at once as you often do in neural networks",
+    "uid": "055764a0886dfd01",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 664.48,
+    "end": 671.2
+  },
+  {
+    "text": "because you have sort of hybrid shapes of with you know dimensions of of different sizes and so on",
+    "uid": "93ae7ad5ebfe3edc",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 671.2,
+    "end": 679.04
+  },
+  {
+    "text": "you end up you end up wanting something where you take this sort of partial compositionality into a",
+    "uid": "973dc5e8a7e0a9ad",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 679.76,
+    "end": 685.28
+  },
+  {
+    "text": "count I think this geometric deep learning blueprint that we described there can be generalized",
+    "uid": "9e1bcbd472a94bf4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 685.28,
+    "end": 692.24
+  },
+  {
+    "text": "category theory made a lot of things click for me or I'm hoping let's say that it will allow us to",
+    "uid": "a367b2237de089ba",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 692.32,
+    "end": 699.04
+  },
+  {
+    "text": "generalize this methodology of geometric deep learning and equivarians to not just reason about",
+    "uid": "fd9c1f24cf52d4d4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 699.04,
+    "end": 704.72
+  },
+  {
+    "text": "symmetries but far more general kinds of structures and structure preserving maps could it help there in",
+    "uid": "4ade2f3bc1b36c67",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 704.72,
+    "end": 711.28
+  },
+  {
+    "text": "the sense that you know we we impure the models with these geometrical priors and we think these high",
+    "uid": "b4a49aff97826e09",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 711.28,
+    "end": 716.48
+  },
+  {
+    "text": "resolution priors describe the physical world that they were in could this category thinking allow us to",
+    "uid": "6dbe1b07eeccd179",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 716.56,
+    "end": 722.24
+  },
+  {
+    "text": "somehow bring all of those together in some new way well you can certainly see how they're all",
+    "uid": "dca883ab82d86c11",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 722.24,
+    "end": 726.8
+  },
+  {
+    "text": "instances of the same thing so those those things once you learn them you start coming back everywhere",
+    "uid": "b39702e65f137f5e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 726.8,
+    "end": 732.96
+  },
+  {
+    "text": "and what's very nice about the category theoretic way of thinking is that it's extremely systematic",
+    "uid": "60f76f2cda05d40d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 733.76,
+    "end": 739.6
+  },
+  {
+    "text": "and it tends to guide you in the right direction because while the examples have given you already",
+    "uid": "314bb88282cf21f8",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 740.08,
+    "end": 746.32
+  },
+  {
+    "text": "show that right there's no should of equivarians that's something that someone thinking about groups and",
+    "uid": "f51868febed267d0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 747.12,
+    "end": 753.12
+  },
+  {
+    "text": "group representations so I'm going to be able to find to be a very useful concept for mathematical reasoning",
+    "uid": "235af33bd274e730",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 753.12,
+    "end": 758.64
+  },
+  {
+    "text": "but it it falls out automatically if you if you already know category theory and you just define",
+    "uid": "e3437782bd55dd41",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 759.84,
+    "end": 765.2
+  },
+  {
+    "text": "the categories of relevance here it is to find your group as a as a category for example",
+    "uid": "63306b8cbeb48a65",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 765.2,
+    "end": 770.56
+  },
+  {
+    "text": "then you just follow the definitions you say well okay so what is a factor from my category two the",
+    "uid": "5a9a70ebdd35e7e7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 770.56,
+    "end": 775.6
+  },
+  {
+    "text": "category of sets for example okay it's mapping like this that gives you the definition of a group representation",
+    "uid": "f75e205483b6fd62",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 775.6,
+    "end": 782.0
+  },
+  {
+    "text": "and then you look at what is a natural transformation between such factors you've right out the",
+    "uid": "ec5e12c7419a6ade",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 782.0,
+    "end": 787.44
+  },
+  {
+    "text": "definition if I know it's an equivarian mapping this case and so it tends to produce meaningful",
+    "uid": "35efbb43505efad7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 787.44,
+    "end": 792.88
+  },
+  {
+    "text": "definitions that domain experts like in a mathematical domain will have independently come up with",
+    "uid": "00e93452fbae1821",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 793.52,
+    "end": 800.4
+  },
+  {
+    "text": "very often and so it's it's for lazy people who don't want to or uncreate of people you know you don't",
+    "uid": "03e030eadf553a37",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 800.4,
+    "end": 807.6
+  },
+  {
+    "text": "have to be clever you just have to follow the rules and be very systematic and outcome these very natural",
+    "uid": "76f522b7228f6819",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 807.6,
+    "end": 814.16
+  },
+  {
+    "text": "definitions and a kind of mathematics that just works very nicely everything fits together just like with",
+    "uid": "1eebc84622e0efd6",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 814.16,
+    "end": 819.84
+  },
+  {
+    "text": "Lego pieces or something right they always fit exactly yeah they're the one allows you to build these",
+    "uid": "bbbe12bdc37161af",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 819.84,
+    "end": 825.52
+  },
+  {
+    "text": "elaborate mathematical structures that that have nice properties there's a historical analogy we're",
+    "uid": "5eb0eaa2a6bcb060",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 825.52,
+    "end": 830.88
+  },
+  {
+    "text": "keeping in mind before the periodic table before we understood protons and electrons practitioners of",
+    "uid": "4287aa2226dba598",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 830.88,
+    "end": 837.12
+  },
+  {
+    "text": "our community made real advances but without a principled foundation deep learning today may be in",
+    "uid": "bbabdf28586666ef",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 837.12,
+    "end": 842.8
+  },
+  {
+    "text": "a similar position we have powerful empirical results but we lack the fundamental theory that would let us",
+    "uid": "e9bfb72112271bd3",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 842.8,
+    "end": 848.8
+  },
+  {
+    "text": "derive new architectures rather than just stumbling upon them categorical deep learning is an attempt",
+    "uid": "e10e95269338168a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 848.8,
+    "end": 854.72
+  },
+  {
+    "text": "to find that periodic table for neural networks deep learning despite its remarkable success is a",
+    "uid": "abf23d6233b7a0e8",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 854.72,
+    "end": 862.0
+  },
+  {
+    "text": "field permeated by ad hoc design choices neural network architectures have all these knobs and",
+    "uid": "6021c9e0bfe3fc40",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 862.0,
+    "end": 868.64
+  },
+  {
+    "text": "tweaks that we can't formally justify just yet there's no unifying framework for the learning",
+    "uid": "4c5a0d9577e0533e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 868.64,
+    "end": 875.52
+  },
+  {
+    "text": "there's no unifying framework that would explain the probabilistic perspective the neuroscience perspective",
+    "uid": "cdf36d414cf855b6",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 876.48,
+    "end": 882.56
+  },
+  {
+    "text": "and nearly just the gradient based iterative updating perspective in fact in the future we might look",
+    "uid": "5dc3efe4336b466e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 882.56,
+    "end": 888.08
+  },
+  {
+    "text": "at deep learning very different and our claim is that category theory will become the unifying deep learning",
+    "uid": "497357031d7fa7de",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 888.08,
+    "end": 893.84
+  },
+  {
+    "text": "framework but you seem to be making the argument that the interpretive function space of neural networks",
+    "uid": "493e18dd73b055e9",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 893.84,
+    "end": 898.64
+  },
+  {
+    "text": "can model algorithms more closely to real-world problems potentially finding more efficient",
+    "uid": "272598e983f29d75",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 898.64,
+    "end": 903.68
+  },
+  {
+    "text": "and pragmatic solutions than those classically proposed by computer scientists we are working in this",
+    "uid": "848e5f16cfad9163",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 903.68,
+    "end": 908.72
+  },
+  {
+    "text": "high dimensional space which is not necessarily easily interpretable or composable because you have",
+    "uid": "e0ed2a5c284b5848",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 908.72,
+    "end": 914.32
+  },
+  {
+    "text": "no easy way of saying for example in theoretical computer science if you want to compose two algorithms",
+    "uid": "944942eb978e065f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 914.32,
+    "end": 919.52
+  },
+  {
+    "text": "you're working with them in a very abstract space which means that you know you can easily reason",
+    "uid": "f7b1ee8d9b17e970",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 919.52,
+    "end": 924.0
+  },
+  {
+    "text": "about stitching the output of one to the input of another whereas you cannot make that easy of a claim",
+    "uid": "49ab0492811329d8",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 924.0,
+    "end": 929.6
+  },
+  {
+    "text": "about latent spaces of two neural networks right geometric deep learning is powerful but it",
+    "uid": "eabb4bbd7c604bcf",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 929.6,
+    "end": 936.24
+  },
+  {
+    "text": "assumes all transformations are invertible what happens when computation destroys information",
+    "uid": "51bb41aed55a0987",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 936.24,
+    "end": 942.72
+  },
+  {
+    "text": "strictly speaking I wasn't planning to talk about any of that stuff at the time it was very much working",
+    "uid": "254a1a19934b9b06",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 943.44,
+    "end": 948.48
+  },
+  {
+    "text": "progress and just kind of trapped in my head as a collection of possible ideas but not something I",
+    "uid": "f6786973f26037dc",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 948.48,
+    "end": 952.8
+  },
+  {
+    "text": "remotely knew how to execute on right but I was very passionate about algorithmic reasoning at the time",
+    "uid": "1b717841a1a8a3ae",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 953.36,
+    "end": 959.28
+  },
+  {
+    "text": "as well I still am and I still believe that like building machine learning models they're capable to",
+    "uid": "9133b2da9390ae89",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 959.28,
+    "end": 965.44
+  },
+  {
+    "text": "align to classical computation is going to be really really important to address the shortcomings that are",
+    "uid": "e6df6f7ad70c33d1",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 965.44,
+    "end": 972.08
+  },
+  {
+    "text": "not so easily plugged by just gathering a better dataset like fundamentally some of these things are likely",
+    "uid": "065461cd3d7aa13d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 972.08,
+    "end": 978.16
+  },
+  {
+    "text": "to be restricted to not be able to easily generalize outside of the distribution you're trained them on",
+    "uid": "3cd1f7db859f3fc6",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 978.16,
+    "end": 983.28
+  },
+  {
+    "text": "and especially for reasoning problems that is the case when you think about all of the big scientific advances",
+    "uid": "6f4f778cbcac09ef",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 983.68,
+    "end": 989.2
+  },
+  {
+    "text": "that were done with large language models for example up to this date I would argue most of the ones",
+    "uid": "ba3981947a33e243",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 989.2,
+    "end": 995.2
+  },
+  {
+    "text": "I'm personally familiar with are a result of a careful combination of a large language model and an algorithmic",
+    "uid": "3c09979af4d4d35a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 995.2,
+    "end": 1002.24
+  },
+  {
+    "text": "procedure in the background which actually makes sure to give it robustness properties so think about things like",
+    "uid": "ffcb6d945b737de3",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1002.24,
+    "end": 1007.28
+  },
+  {
+    "text": "fun search like alpha code like alpha geometry all of these systems have discovered new knowledge in computer science",
+    "uid": "8213ae0584a4450b",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1007.28,
+    "end": 1014.56
+  },
+  {
+    "text": "in competitive programming in even geometry problems at the iomol but in all cases you've hooked up",
+    "uid": "0d9c0753bc6ba2d2",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1015.2,
+    "end": 1023.04
+  },
+  {
+    "text": "a language model to either a genetic algorithm or some clustering mechanism or a theorem",
+    "uid": "19955af5a46b327a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1023.04,
+    "end": 1028.48
+  },
+  {
+    "text": "prouver which all have very nice correctness guarantees which then you know if you can run this model for",
+    "uid": "a54e1f0462cbb0b7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1028.48,
+    "end": 1035.04
+  },
+  {
+    "text": "sufficiently many times to kind of correct itself using the algorithm you can end up with really nice solutions",
+    "uid": "0243a0aa1ec0b572",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1035.04,
+    "end": 1040.8
+  },
+  {
+    "text": "the problem with geometric deep learning is that as I said it talks about symmetries so",
+    "uid": "cb9208a98538a95e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1040.8,
+    "end": 1045.36
+  },
+  {
+    "text": "permutations or circular shifts those are generally things that have very specific and rigid behaviors",
+    "uid": "59c3cd8b8c3c7f6f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1045.36,
+    "end": 1051.68
+  },
+  {
+    "text": "in typically one of the things we assume about symmetries is that they are invertible so basically that",
+    "uid": "094bdc418aa5cd29",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1051.68,
+    "end": 1057.36
+  },
+  {
+    "text": "whenever I promote knowledge I can always promote them back I haven't lost any information and usually with",
+    "uid": "8d05dfea60b21e85",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1057.92,
+    "end": 1063.04
+  },
+  {
+    "text": "images when we do shifts we actually pad the image with zeros to make sure that no image data is lost in things like that so",
+    "uid": "924e491907f640b2",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1063.04,
+    "end": 1069.28
+  },
+  {
+    "text": "basically it always assumes that it's still the same input we haven't lost any information now why",
+    "uid": "b8f1b564c3533c60",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1069.36,
+    "end": 1074.96
+  },
+  {
+    "text": "this is a problem for me who is really interested in aligning models to classical algorithmic computation",
+    "uid": "6cff71343fd0aa29",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1074.96,
+    "end": 1080.72
+  },
+  {
+    "text": "well as any computer scientists will know many programs you write will delete some of the data or",
+    "uid": "e43ddcad199d8563",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1080.72,
+    "end": 1087.12
+  },
+  {
+    "text": "destroy some of the data so that is no longer a symmetry you cannot invert it maybe one simple example is",
+    "uid": "e01441e446722b5f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1087.12,
+    "end": 1093.2
+  },
+  {
+    "text": "other than just the you know naive example of I'm going to take a list and delete half of its elements for",
+    "uid": "1deadb26f52ccdce",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1093.2,
+    "end": 1097.52
+  },
+  {
+    "text": "no reason let's start with you know path finding so we talk a lot about algorithms like Dyke",
+    "uid": "da05f924262095a4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1097.6,
+    "end": 1103.12
+  },
+  {
+    "text": "Straurbelman Ford inside a computer science curriculum in short those are algorithms that starting with",
+    "uid": "b381dade6162654e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1103.12,
+    "end": 1108.32
+  },
+  {
+    "text": "the directed way to the graph predict what are the shortest paths lengths inside the graph right",
+    "uid": "23fbaffe0a7fc4c4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1108.32,
+    "end": 1114.32
+  },
+  {
+    "text": "now the thing is there are many many different graphs with different weights that are going to have exactly",
+    "uid": "75dc42bca4360ffd",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1114.88,
+    "end": 1121.12
+  },
+  {
+    "text": "the same shortest paths and potentially even the same shortest path lengths however those graphs are",
+    "uid": "84ddd7e7be42d024",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1121.12,
+    "end": 1126.96
+  },
+  {
+    "text": "and once you've applied the transformations of Dyke Straurbelman Ford algorithm you'll have lost",
+    "uid": "1f16e50da3844b13",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1127.76,
+    "end": 1132.88
+  },
+  {
+    "text": "the information that is contained about the graph in the final output of that algorithm right because many",
+    "uid": "b4e973ace9fa22fe",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1132.88,
+    "end": 1138.4
+  },
+  {
+    "text": "different graphs will be compressed to exactly the same output right so this is not an operation I can",
+    "uid": "4a50d371c27eb1b0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1138.4,
+    "end": 1144.4
+  },
+  {
+    "text": "describe using a symmetry and then this journey gradually like it took me a while to realize how we can",
+    "uid": "87057a0f0593ec65",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1144.4,
+    "end": 1151.68
+  },
+  {
+    "text": "be formal about this how can we try to put some theory on this and even now down the line how can we",
+    "uid": "16e0074f21d304f0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1151.68,
+    "end": 1156.48
+  },
+  {
+    "text": "build some practical models using this and I was fortunate enough to to start chatting with Andrew who is my",
+    "uid": "f960beb3be435bdc",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1156.48,
+    "end": 1162.88
+  },
+  {
+    "text": "colleague at DeepMind who has a category theory background and he's been thinking himself about some of",
+    "uid": "36d6cf960106b299",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1162.88,
+    "end": 1169.28
+  },
+  {
+    "text": "these problems in the past so it was a great match because together with him it was a long way but we managed",
+    "uid": "c236335772bf801e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1169.28,
+    "end": 1176.0
+  },
+  {
+    "text": "gradually relaxed the constraints of what a group is giving us we first looked at removing the",
+    "uid": "b00df4b867188775",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1176.48,
+    "end": 1181.92
+  },
+  {
+    "text": "invertibility part which led us to monoids and then we derived some interesting theory and a synchrony",
+    "uid": "94c5b0596b07425a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1181.92,
+    "end": 1187.04
+  },
+  {
+    "text": "invariance in models using monoids and now we're also looking into removing the second constraint of",
+    "uid": "b893b7d41fac9265",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1187.04,
+    "end": 1194.08
+  },
+  {
+    "text": "groups which is the requirement that every single computation must compose with every other piece of",
+    "uid": "a997beba0d3d250d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1194.08,
+    "end": 1198.56
+  },
+  {
+    "text": "computation as you might also know in computer science you cannot always do that you must make the",
+    "uid": "21f4a010eaf4d47a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1198.56,
+    "end": 1203.52
+  },
+  {
+    "text": "output of your first function match the input type of the second one otherwise the count compose so",
+    "uid": "d79cc993ccbb7fc8",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1203.52,
+    "end": 1210.32
+  },
+  {
+    "text": "this now leads us to categories and well that's what led us now to categorical deep learning things like",
+    "uid": "e4df0709da5054fa",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1210.32,
+    "end": 1215.52
+  },
+  {
+    "text": "intentionality and planning and system 2 and reasoning and stuff like that I think you're placing the",
+    "uid": "bf867c73267e54ca",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1215.52,
+    "end": 1220.16
+  },
+  {
+    "text": "assumption that there's something standard about that yeah exactly I mean and to some extent there is",
+    "uid": "c1ed5ce205cd722f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1220.16,
+    "end": 1228.24
+  },
+  {
+    "text": "because for a lot of these algorithms we have even proofs that they will arrive at optimal solutions",
+    "uid": "0c59a0bbb7f48e0d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1228.24,
+    "end": 1232.64
+  },
+  {
+    "text": "if you give them enough time and put them in the right context and I actually think it's going to",
+    "uid": "ad256ba53328eb56",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1232.64,
+    "end": 1236.96
+  },
+  {
+    "text": "it should be a synergy right because as you said with modern large scale deep learning systems we actually",
+    "uid": "7e3a7f1aa05e32ef",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1236.96,
+    "end": 1243.28
+  },
+  {
+    "text": "stand a chance to map really complicated noisy real world scenarios into a space where those algorithms",
+    "uid": "29dacd478219cf89",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1243.28,
+    "end": 1251.52
+  },
+  {
+    "text": "might become applicable right now the main argument that maybe we are trying to make in some part here is that",
+    "uid": "476812e702466d58",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1251.52,
+    "end": 1258.4
+  },
+  {
+    "text": "asking the model to both do that translation and robustly invoke the algorithm is likely a bit too",
+    "uid": "e7c4f0bba0522314",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1259.28,
+    "end": 1265.44
+  },
+  {
+    "text": "much to ask because among other things you've said fixed computational budget that's already one recipe",
+    "uid": "8bb2a81727d2009f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1265.44,
+    "end": 1270.88
+  },
+  {
+    "text": "for failure as inputs get larger because as you know for example multiplication as I mentioned is an algorithm",
+    "uid": "8e4ecba430abd625",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1270.88,
+    "end": 1277.84
+  },
+  {
+    "text": "which is a problem for which we don't really have a super efficient algorithm yet the best known one is",
+    "uid": "822f38ad44560d2e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1277.84,
+    "end": 1282.64
+  },
+  {
+    "text": "and again and that one relies on like complicated numbers theoretic constructions let's say so most",
+    "uid": "f0687c3e66bebb07",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1282.64,
+    "end": 1288.16
+  },
+  {
+    "text": "people know just the n squared quadratic algorithm for multiplication so the amount of resources that you",
+    "uid": "0d2d816f2d6d3ae6",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1288.16,
+    "end": 1293.36
+  },
+  {
+    "text": "need to reliably multiply two numbers will grow and sometimes super linearly based on the size of those two",
+    "uid": "9b2d228fc30df877",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1293.36,
+    "end": 1301.28
+  },
+  {
+    "text": "numbers and currently our systems can cope with that implicitly if you add things like chain of thought",
+    "uid": "a593c7c153f32767",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1301.28,
+    "end": 1307.28
+  },
+  {
+    "text": "which gives the model more thinking time and so on but fundamentally all of those things are patches",
+    "uid": "306ec15906bd5e55",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1307.28,
+    "end": 1312.4
+  },
+  {
+    "text": "that might help for a particular class of problems but then fail somewhere else just because of the",
+    "uid": "82d58ba1f159501e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1312.4,
+    "end": 1316.32
+  },
+  {
+    "text": "nature of how complicated the entire space of computational problems is right so basically I believe in a",
+    "uid": "d933e172f32e70b4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1316.32,
+    "end": 1323.36
+  },
+  {
+    "text": "future where the neural network will deal with the understanding of the world with the translation of what's",
+    "uid": "41367ad59c41fe8c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1323.36,
+    "end": 1328.64
+  },
+  {
+    "text": "happening in the world into some abstract space which might just be high dimensional embeddings by the way that's also",
+    "uid": "b48fd117e76431af",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1328.64,
+    "end": 1333.68
+  },
+  {
+    "text": "plausible and then there will be some component that we have baked into the system either through priors or through",
+    "uid": "6362e2cd4724756d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1333.68,
+    "end": 1339.28
+  },
+  {
+    "text": "very careful losses or even through combining systems with tools which is already proved really",
+    "uid": "4997b7126cc58018",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1339.36,
+    "end": 1344.16
+  },
+  {
+    "text": "really useful that will actually then execute that computation in a way that we can reason about it and I should",
+    "uid": "af72b648c7e92b6d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1344.16,
+    "end": 1349.2
+  },
+  {
+    "text": "stress by the way what I mean by reasoning is not 100% accuracy on every single impots I find that humans can",
+    "uid": "11e990c02bd9d15e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1349.2,
+    "end": 1355.92
+  },
+  {
+    "text": "reason and humans are not 100% accurate on every single input you give to them right as you can see if you",
+    "uid": "4d6261cf72f5c5cd",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1355.92,
+    "end": 1361.12
+  },
+  {
+    "text": "ask me to multiply two numbers that are like 50 digits long I will definitely make some failures if you ask me to do",
+    "uid": "a69b70a84ddb8169",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1361.12,
+    "end": 1366.88
+  },
+  {
+    "text": "but you know the point is that like what I would like is that a system understands the amount of effort",
+    "uid": "816ab48e847cf995",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1367.36,
+    "end": 1374.32
+  },
+  {
+    "text": "that needs to go into doing some kind of computation and maybe at least to give me some either an estimate of how",
+    "uid": "e8d821200c3510af",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1374.32,
+    "end": 1379.92
+  },
+  {
+    "text": "likely it is to make mistakes or some notion even some notion of I'm sorry the problem you've asked me to do is",
+    "uid": "7218526eeaabc198",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1379.92,
+    "end": 1386.88
+  },
+  {
+    "text": "too computationally large for my capabilities I would like to just back off a non-answer right currently",
+    "uid": "04b6fdcf576f7d08",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1386.88,
+    "end": 1392.16
+  },
+  {
+    "text": "systems are not trained to do that they're trained to always try to give you an answer right which is",
+    "uid": "cb0b4ae707835238",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1392.16,
+    "end": 1395.6
+  },
+  {
+    "text": "very different to that so basically I'm fine with making mistakes but I would really like some awareness",
+    "uid": "f0760979c22e1ee4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1395.6,
+    "end": 1402.8
+  },
+  {
+    "text": "of when mistakes might happen and how big they will be which when you apply algorithms you often have",
+    "uid": "ce7a2e143f0884e3",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1402.8,
+    "end": 1406.8
+  },
+  {
+    "text": "that so you can have correctness guarantees as well as you know convergence guarantees and things like that",
+    "uid": "9851718560928789",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1406.8,
+    "end": 1411.76
+  },
+  {
+    "text": "be you're probably thinking why do we need to use such abstract mathematics in the first place",
+    "uid": "74f03d37cd860f29",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1411.76,
+    "end": 1416.56
+  },
+  {
+    "text": "well this kind of structured thinking can actually help us see what actually matters to introduce",
+    "uid": "9e54837d46f77a11",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1416.56,
+    "end": 1422.88
+  },
+  {
+    "text": "the notion of structuralist mathematics and then the best known example of structure of structuralist",
+    "uid": "d08a7c98f0adccd7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1422.88,
+    "end": 1428.24
+  },
+  {
+    "text": "mathematics category theory I would like to begin with the distinction between analytic mathematics",
+    "uid": "0f3b619a03745fa8",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1428.24,
+    "end": 1434.48
+  },
+  {
+    "text": "and synthetic mathematics and the usual two examples that are given for this is the geometry of",
+    "uid": "7d9c052e6eb084b0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1434.48,
+    "end": 1441.12
+  },
+  {
+    "text": "Descartes versus the geometry of Euclid for Descartes lines are solution sets to equations",
+    "uid": "2fb0bf787bb1805b",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1441.12,
+    "end": 1448.96
+  },
+  {
+    "text": "whereas for Euclid lines are precisely that which is stretched out between two points what's the essential",
+    "uid": "e7f50b7ed4d995ac",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1448.96,
+    "end": 1454.08
+  },
+  {
+    "text": "distinction here in analytic mathematics stuff is made of stuff right there's always some question of okay",
+    "uid": "fafa9aebb4bf8ff7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1454.08,
+    "end": 1461.04
+  },
+  {
+    "text": "I have to have some common foundation from which everything is built and all of my lemma's theorems etc everything",
+    "uid": "0610f5f351799dff",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1461.04,
+    "end": 1468.96
+  },
+  {
+    "text": "eventually boils down to a computation in that more basic substance on the other hand in synthetic mathematics",
+    "uid": "028e1daca51ea43e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1469.2,
+    "end": 1475.52
+  },
+  {
+    "text": "so I don't need to go I don't need to know what like the inside of a line is that doesn't matter the point is",
+    "uid": "5b3484e61e2fdced",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1476.08,
+    "end": 1482.96
+  },
+  {
+    "text": "I only abstract what are the principles by which I can make inference on lines and their relationships to each other",
+    "uid": "17b62541106ad729",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1482.96,
+    "end": 1488.96
+  },
+  {
+    "text": "right the point is you get rid of everything that is inaccessible to your logic right so you get rid of all of this stuff that you",
+    "uid": "d056df0104e22621",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1489.36,
+    "end": 1496.24
+  },
+  {
+    "text": "might call detail but it's not even detail it's noise it does because it doesn't have any content for that which you can know",
+    "uid": "ec1befb2375eb7d4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1496.24,
+    "end": 1501.68
+  },
+  {
+    "text": "Right so therefore it's completely irrelevant so synthetic mathematics gets rid of all of that and focuses just on how you can produce more knowledge",
+    "uid": "74dbfa4e4d7956c7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1502.32,
+    "end": 1508.88
+  },
+  {
+    "text": "Right and so then to explain at least what I mean by a structuralist mathematics I want a synthetic mathematics of structure",
+    "uid": "bd104e95b5f38a8c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1509.52,
+    "end": 1515.52
+  },
+  {
+    "text": "Right what is structure you know in the context of the machine learning we've got lots of notion everyone says structure right the best known at best study",
+    "uid": "50a6341422ee5d86",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1516.32,
+    "end": 1523.44
+  },
+  {
+    "text": "example of that structure is group actions right all of geometric deep learning is about group actions",
+    "uid": "9838bcf25baeba04",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1523.44,
+    "end": 1528.96
+  },
+  {
+    "text": "But that's only one that's like one pin prick and the vault right that's just like one thing",
+    "uid": "0b66e1a49b17d2bb",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1529.6,
+    "end": 1533.6
+  },
+  {
+    "text": "Right there are lots of other things say that come from theoretical computer science the notion of things things being lists",
+    "uid": "be3bf71d12bfa7fd",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1533.84,
+    "end": 1538.64
+  },
+  {
+    "text": "or you know things being trees all of these other various like algebraic structures so you want like a single",
+    "uid": "c1dba9440a696062",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1539.2,
+    "end": 1544.48
+  },
+  {
+    "text": "You know language in which all of these various kinds of structure can be described elegantly",
+    "uid": "51d2511ea284e5af",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1544.88,
+    "end": 1549.76
+  },
+  {
+    "text": "This is exactly why we appeal to category theory in in the simplest possible terms what do you mean by two category right right",
+    "uid": "bfe0b0b4f1daca59",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1549.92,
+    "end": 1556.48
+  },
+  {
+    "text": "If we talk about a category as as a collection of things in relationships between them these relationships are included as something we call morphisms",
+    "uid": "731d57088c02c5e2",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1557.52,
+    "end": 1566.4
+  },
+  {
+    "text": "So these are like a generalized function these are just arrows we draw them as arrows before we go any further",
+    "uid": "5551dc7c7eddeb30",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1566.4,
+    "end": 1571.12
+  },
+  {
+    "text": "Let's ground what weight time actually means",
+    "uid": "397ea74f2345a435",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1571.12,
+    "end": 1573.44
+  },
+  {
+    "text": "Imagine an RNN processing a sentence word by word and every time step it uses the same",
+    "uid": "2257486cfda4f946",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1573.92,
+    "end": 1579.32
+  },
+  {
+    "text": "Your network cell the same weights to process each word that is weight time",
+    "uid": "3bf4746fb4610209",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1579.32,
+    "end": 1584.6
+  },
+  {
+    "text": "Right forcing multiple parts of a computation to share identical parameters",
+    "uid": "125186c0527d8474",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1584.6,
+    "end": 1589.24
+  },
+  {
+    "text": "In traditional machine learning we do just this right we coded up",
+    "uid": "4ea8fa8dc5155a2a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1589.88,
+    "end": 1592.92
+  },
+  {
+    "text": "But there's no formal theory explaining when this is valid or what structure it preserves",
+    "uid": "97f7260f72a9d664",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1593.08,
+    "end": 1597.32
+  },
+  {
+    "text": "I know it sounds abstract but it just means that we can prove when weight tying is correct and",
+    "uid": "e2e475a65bede676",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1597.72,
+    "end": 1602.04
+  },
+  {
+    "text": "DRIVE new architectures where weight tying is guaranteed to preserve the structure that we actually care about",
+    "uid": "a139384be4c665bd",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1602.28,
+    "end": 1608.28
+  },
+  {
+    "text": "But often if we focus on two two objects and look at all the maps between them all these morphisms",
+    "uid": "695fb4357a43fa17",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1608.84,
+    "end": 1613.72
+  },
+  {
+    "text": "So these are a set in a category there's a set of morphisms",
+    "uid": "fc24ddbea3810be0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1614.12,
+    "end": 1616.84
+  },
+  {
+    "text": "But now if you take the ethos of category theory and and not just have a set of things but be tried to relate that set with some",
+    "uid": "ecd78a29ba102057",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1617.16,
+    "end": 1623.32
+  },
+  {
+    "text": "Some ways between them",
+    "uid": "217dfbd90350983b",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1623.72,
+    "end": 1625.08
+  },
+  {
+    "text": "If you look at this set of morphisms between two objects now if we add the notion or or start describing the ways these morphisms could be related",
+    "uid": "8b8b147e381245b6",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1625.32,
+    "end": 1633.0
+  },
+  {
+    "text": "The properties they need to satisfy which is also some kind of composition",
+    "uid": "67a6f2efb4cc3a00",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1633.4,
+    "end": 1636.68
+  },
+  {
+    "text": "Then we get start getting a denotion of a two category which is objects morphisms, but two morphisms as as ways of relating that",
+    "uid": "20e592a9aa95b366",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1637.64,
+    "end": 1645.16
+  },
+  {
+    "text": "Category theory talks about these relationships between",
+    "uid": "f8abcded3118dade",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1645.8,
+    "end": 1648.52
+  },
+  {
+    "text": "Objection or as morphisms, but what about relationships between the morphisms?",
+    "uid": "4ca4a2ee0c9d5a6a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1649.24,
+    "end": 1653.88
+  },
+  {
+    "text": "Right, right, so these are these that we call",
+    "uid": "bad54a4522b918b3",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1654.76,
+    "end": 1657.08
+  },
+  {
+    "text": "Two morphisms or two cells and these are the things we we use to model",
+    "uid": "d6cd922c4aaf5483",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1657.88,
+    "end": 1661.56
+  },
+  {
+    "text": "To model some aspects of neural networks that we deem are important. We shouldn't just think of them as categories. They're not just maps",
+    "uid": "e5bdba11112a3472",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1662.12,
+    "end": 1668.76
+  },
+  {
+    "text": "But they have this higher we can think of them certainly like this, but that",
+    "uid": "33224b1365ce0b4e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1669.4,
+    "end": 1672.2
+  },
+  {
+    "text": "That does not encode a lot of the interesting things we want to have about them and this is I think the idea of higher categories where you start modeling something with purely categories in your real eyes",
+    "uid": "01159e00500d10dd",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1673.0,
+    "end": 1681.48
+  },
+  {
+    "text": "I will all along I have been forgetting about this other important thing so you start putting more stuff into your theory",
+    "uid": "996661eb289d9682",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1682.12,
+    "end": 1687.4
+  },
+  {
+    "text": "Well still trying to make it consistent and the particular way we encode these higher morphisms or what they what we use them for",
+    "uid": "4e756badb6b94a67",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1687.72,
+    "end": 1693.72
+  },
+  {
+    "text": "I think the most important thing is way shared",
+    "uid": "f01efcc9ebc5ef51",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1693.72,
+    "end": 1696.12
+  },
+  {
+    "text": "So we got a comprehensive theory of how to do way sharing in a way that's that's not particularly tied to smooth spaces",
+    "uid": "7bb157725d4209ac",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1696.36,
+    "end": 1702.92
+  },
+  {
+    "text": "You know vectors vectors spaces that can it's it's one that works for manifolds. It's also one that works",
+    "uid": "de257d6efcf69838",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1702.92,
+    "end": 1707.96
+  },
+  {
+    "text": "That we have now used you know me and my collaborators in my PhD that we have used to connect to game theory",
+    "uid": "4d07f440936bd98d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1708.52,
+    "end": 1714.52
+  },
+  {
+    "text": "Where we talk about economic agents that the half-on strategies and if you want to to",
+    "uid": "af05e8902655f6d4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1714.52,
+    "end": 1718.52
+  },
+  {
+    "text": "Agents to operate with the same strategy we do way sharing there",
+    "uid": "b05a987b3746e21c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1718.52,
+    "end": 1721.64
+  },
+  {
+    "text": "So there's all these different fields where you can specify what these are and the level of abstraction of a two to sell is the one",
+    "uid": "2e038b88c139b32a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1721.88,
+    "end": 1728.2
+  },
+  {
+    "text": "Which really gets to the essence of that without having any specificity about the kind of thing you're studying built in you could",
+    "uid": "93b46aeb05be1a87",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1728.76,
+    "end": 1735.96
+  },
+  {
+    "text": "Prismably just go to the third order and to the fourth order and I mean even with them with self-attention transformers",
+    "uid": "f29128df29d1d2b4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1735.96,
+    "end": 1741.72
+  },
+  {
+    "text": "They um model these two tuples",
+    "uid": "dfe06a8968444e39",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1742.04,
+    "end": 1744.84
+  },
+  {
+    "text": "You know, which is like a second you know like a first order relationship",
+    "uid": "7a855601f1f75468",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1745.48,
+    "end": 1748.2
+  },
+  {
+    "text": "But you could have third order four four to and so on is is two more phisms enough for should we go deeper than that?",
+    "uid": "03e0834ed8e501ab",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1748.2,
+    "end": 1754.84
+  },
+  {
+    "text": "Well depending on who you ask you will get very opinion answers, but generally you know",
+    "uid": "c7992d697d6fae10",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1755.4,
+    "end": 1760.12
+  },
+  {
+    "text": "It's when I started learning category. I was like well",
+    "uid": "56daffd749c8540c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1760.12,
+    "end": 1762.84
+  },
+  {
+    "text": "I'm never gonna go to two categories that seems complicated now",
+    "uid": "2f1beafaabcf4fa2",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1762.84,
+    "end": 1765.32
+  },
+  {
+    "text": "I say I'm never gonna go higher than two categories because that seems to complicated",
+    "uid": "bebb611ff5f4eeda",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1765.32,
+    "end": 1768.84
+  },
+  {
+    "text": "But people do three categories infinity categories and and you can release start building up these relationships higher and higher and get this really",
+    "uid": "36d1e28908664f67",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1768.84,
+    "end": 1775.96
+  },
+  {
+    "text": "Comprehensive theory that that becomes a very different beast in some ways",
+    "uid": "6d04e0b7d1195614",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1775.96,
+    "end": 1779.8
+  },
+  {
+    "text": "There is a school of thought that our brain works in this way",
+    "uid": "dc78ef781a6d8a86",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1780.28,
+    "end": 1782.92
+  },
+  {
+    "text": "So we think",
+    "uid": "e5d19685595a2c78",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1783.32,
+    "end": 1784.52
+  },
+  {
+    "text": "Using like the the the symbols and these categories and so on and then there's and then there's the notion of the universe is a certain way",
+    "uid": "67c28e69eb4ba979",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1784.52,
+    "end": 1791.56
+  },
+  {
+    "text": "And we understand the universe with that kind of interface",
+    "uid": "bc68062cb70d66c3",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1791.56,
+    "end": 1794.12
+  },
+  {
+    "text": "So it's almost like the driver for this is here's an interface. Here's how we think is how the universe works",
+    "uid": "ef4b50caec3aaebd",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1794.12,
+    "end": 1799.48
+  },
+  {
+    "text": "Let's program computers in that way. That's that's that's a big question",
+    "uid": "bbaeb55e06b2201d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1799.8,
+    "end": 1804.28
+  },
+  {
+    "text": "What happens with these things is that when we start adding more levels right more is different and that's the thing we start seeing in higher categories when we add",
+    "uid": "1eff71d28e135a73",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1808.6,
+    "end": 1816.28
+  },
+  {
+    "text": "Different kinds of relationships and morphism you start seeing these things that can be perhaps more most",
+    "uid": "c1e66419644355fc",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1816.92,
+    "end": 1821.64
+  },
+  {
+    "text": "Athletic described as emergent effects",
+    "uid": "7fbf084ccc34bc18",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1821.64,
+    "end": 1823.64
+  },
+  {
+    "text": "Right because if you have two things and you want to study",
+    "uid": "f42ab030d6ed75aa",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1823.96,
+    "end": 1827.48
+  },
+  {
+    "text": "They're behavior as a composite, but you can either study their behavior individually and look at",
+    "uid": "b9797ba66862c8b6",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1827.72,
+    "end": 1831.96
+  },
+  {
+    "text": "The joint behavior or you can compose the systems and look at the behavior of the composite and what we often found is these are not the same",
+    "uid": "d2dbaeeb1191ce4a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1832.28,
+    "end": 1838.2
+  },
+  {
+    "text": "In many compositional cases these are are some orfleet, but often there's a map going one way, but not the other",
+    "uid": "b75e48fba2660d2e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1838.2,
+    "end": 1842.8
+  },
+  {
+    "text": "So you have to track you start to track",
+    "uid": "74e21c1d10ccf615",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1842.8,
+    "end": 1844.8
+  },
+  {
+    "text": "Since this isn't an equality anymore, we have to start tracking this higher self",
+    "uid": "2386ab1b7ca88948",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1845.32,
+    "end": 1848.76
+  },
+  {
+    "text": "But now this itself might be a part of another system that gives rise to this platform levels and levels of emergent effects",
+    "uid": "b9dec5847fe89ca9",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1848.76,
+    "end": 1855.08
+  },
+  {
+    "text": "So that's one of the problems with higher category theories that it's just so hard for us for our complexity of minds to do this",
+    "uid": "d6310d065363e3f6",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1855.08,
+    "end": 1861.72
+  },
+  {
+    "text": "So it's certainly an open question of what is the best substrate how to encode these things and people have done a lot of work in programming language theory of encoding",
+    "uid": "c7292ab8d8779f41",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1862.6,
+    "end": 1869.8
+  },
+  {
+    "text": "Not just data structures and algorithms, but but type theories that these algorithms are hosted in some category",
+    "uid": "b1102e4faa91e95c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1870.36,
+    "end": 1877.64
+  },
+  {
+    "text": "If people who believe in strong emergence think that there is no reductionism, but even with basic weaker emergence",
+    "uid": "140546d26ca580b4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1878.2,
+    "end": 1884.44
+  },
+  {
+    "text": "The analytical shortcut between the theories at different scales are",
+    "uid": "dac743bf3a5a02f7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1884.6,
+    "end": 1888.84
+  },
+  {
+    "text": "Computationally in tractables very difficult to go between them, but we want to have some kind of a theoretical framework that captures the whole thing",
+    "uid": "c3d7cb1a1c6912bb",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1889.96,
+    "end": 1896.84
+  },
+  {
+    "text": "Right, you know captures the the the emergent organization as well as what's going on underneath so so this is one of the goals that you could see is one of the goals of category theories to find",
+    "uid": "973985331d4b4421",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1896.84,
+    "end": 1906.6
+  },
+  {
+    "text": "Some fundamental abstractions that give rise to these very simple principles often when you look at some systems or some phenomena",
+    "uid": "4e5718438d9f1597",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1907.32,
+    "end": 1912.84
+  },
+  {
+    "text": "It's very complicated, but if you're lucky enough and if you set up the good foundations it's always oh wait",
+    "uid": "bf93af2d662290c2",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1912.84,
+    "end": 1917.32
+  },
+  {
+    "text": "It was very simple all along. I I looked at it the wrong way so I don't know what",
+    "uid": "5c9213b1c5893f26",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1917.32,
+    "end": 1923.08
+  },
+  {
+    "text": "Where this could go, but we're certainly striving to make things as compositional as as they could be and in many of these fields where we have",
+    "uid": "e3bbf45e44a8801e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1923.72,
+    "end": 1931.56
+  },
+  {
+    "text": "A plenty of experimental evidence and lack of good theories category theory has a very good",
+    "uid": "027990d6bf7a6276",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1931.56,
+    "end": 1937.84
+  },
+  {
+    "text": "vantage point in just a lot of",
+    "uid": "9594ded6262a888a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1938.36,
+    "end": 1940.36
+  },
+  {
+    "text": "Practical benefit of let's talk and and see what's the good vantage point here does two more",
+    "uid": "f235abdb3610362c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1941.24,
+    "end": 1946.1
+  },
+  {
+    "text": "Fisms allow us to think about wait time",
+    "uid": "baf2eb69f300b689",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1946.1,
+    "end": 1948.6
+  },
+  {
+    "text": "Absolutely, so if we think about a parametric morphism as as it's a map for me to be with a paramet pee we can off",
+    "uid": "92a332534cfb81e8",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1949.96,
+    "end": 1956.84
+  },
+  {
+    "text": "We often want to change the parameter space we often want to say do the way time which you know in practice means we start from a smaller way space and copy the weights in particular",
+    "uid": "b92a8d5749ce3738",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1956.84,
+    "end": 1965.32
+  },
+  {
+    "text": "So a two more of is I mean the two category of parametric functions is a",
+    "uid": "929259b52e76fa4b",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1966.04,
+    "end": 1971.0
+  },
+  {
+    "text": "Reparametization so it's a map between two parametric morphisms that that is some cocoa somehow coherent",
+    "uid": "6d49a6441b9999dd",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1971.56,
+    "end": 1978.36
+  },
+  {
+    "text": "There's some diagrams that have to decide it's fight by essentially they encode that",
+    "uid": "b090a504b1175878",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1978.36,
+    "end": 1981.64
+  },
+  {
+    "text": "One is obtained by pre composing some way some form of weight time",
+    "uid": "e326ee0f65eaaa65",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1982.04,
+    "end": 1985.72
+  },
+  {
+    "text": "But it doesn't have to be just copied right that's the thing we're finding out it can be arbitrary relationships between the weights",
+    "uid": "258f7f588caf40e5",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1985.72,
+    "end": 1991.36
+  },
+  {
+    "text": "One of the things that these two cells and two morphisms allow us is to see this algebraic structure encoded as",
+    "uid": "7cf8e4daf1d5c59b",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1992.16,
+    "end": 1998.44
+  },
+  {
+    "text": "Relationships between the weights and then that goes again into what category theory is about it's about finding relationships between objects and this so so absolutely",
+    "uid": "d4af0100d4e762be",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 1999.4,
+    "end": 2007.68
+  },
+  {
+    "text": "So here's the key connection to programming in functional languages we define data types like lists recursively",
+    "uid": "6e0fe77a238bd2e8",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2008.64,
+    "end": 2015.08
+  },
+  {
+    "text": "Alistars either empty or it's an element followed by another list",
+    "uid": "da41155db0f16507",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2015.64,
+    "end": 2019.0
+  },
+  {
+    "text": "Categorically this is an algebra for an endo functor the structure map of the algebra packages together all of the constructors of the data type",
+    "uid": "4145dfe3036dbfe0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2019.4,
+    "end": 2028.44
+  },
+  {
+    "text": "And a homomorphism from this algebra is exactly what program is called a fold a",
+    "uid": "5c63acdf5ec11f0f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2028.44,
+    "end": 2033.6
+  },
+  {
+    "text": "Function that consumes the list by recursively applying some operation",
+    "uid": "49088f15718f3481",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2033.84,
+    "end": 2037.72
+  },
+  {
+    "text": "So the framework is",
+    "uid": "08871078aa793541",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2038.08,
+    "end": 2040.08
+  },
+  {
+    "text": "Describing the very structure of recursive computation",
+    "uid": "3f91e60828a8c120",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2040.56,
+    "end": 2044.52
+  },
+  {
+    "text": "When you write code you you encounter syntax errors you're not so much in counter semantics errors",
+    "uid": "c2a6c8cf6b96958d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2045.6,
+    "end": 2051.52
+  },
+  {
+    "text": "So the syntax is really quite grounded in the things that you're actually typing in when you're when you're writing something whether it's an ordinary algorithm",
+    "uid": "548b2b0df62e4a2d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2051.52,
+    "end": 2060.56
+  },
+  {
+    "text": "Whether it's a network architecture, etc",
+    "uid": "fce3a3d77ee51fd5",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2060.56,
+    "end": 2063.04
+  },
+  {
+    "text": "The semantics is much more about like how can programs behave and",
+    "uid": "610eea7ec1712757",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2063.92,
+    "end": 2069.32
+  },
+  {
+    "text": "You know one example of this for",
+    "uid": "26cd0197f7c6b279",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2069.84,
+    "end": 2071.84
+  },
+  {
+    "text": "We have something like list types so lists are defined by a type constructor given a type T you have another type list of T",
+    "uid": "27b3a3136cd7b865",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2072.8,
+    "end": 2080.84
+  },
+  {
+    "text": "So what are the semantics of lists?",
+    "uid": "b425bbb10f38aa71",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2081.2,
+    "end": 2083.2
+  },
+  {
+    "text": "Well the semantics of lists are really things that are foldable sort of foldable types so like",
+    "uid": "6ae006d4cde8d2aa",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2083.2,
+    "end": 2089.64
+  },
+  {
+    "text": "Numbers with addition there are sort of foldable type if I have a list of numbers I can just add them to",
+    "uid": "f9a917cf7964526c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2090.2,
+    "end": 2096.36
+  },
+  {
+    "text": "Sort of remove the list and",
+    "uid": "8b380b162414a7ac",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2096.8,
+    "end": 2098.8
+  },
+  {
+    "text": "Now these these foldable types mathematicians have a very different name for them",
+    "uid": "0d9b22f4174740d7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2099.8,
+    "end": 2104.98
+  },
+  {
+    "text": "Monoids which are a more general kind of group",
+    "uid": "0b23f8e6973659f9",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2104.98,
+    "end": 2108.48
+  },
+  {
+    "text": "But in any case like that's sort of the the semantics of lists and",
+    "uid": "9bc8760bd043b9d9",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2108.88,
+    "end": 2114.2
+  },
+  {
+    "text": "And before I say something about syntax let me say that our paper is really",
+    "uid": "152c6047cfc7e09d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2114.2,
+    "end": 2120.08
+  },
+  {
+    "text": "Mostly exploring things from the semantic angle",
+    "uid": "3d4f0d7003055b0f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2120.44,
+    "end": 2122.96
+  },
+  {
+    "text": "Why is this it's because two different",
+    "uid": "5ff1e496acd8ebca",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2123.84,
+    "end": 2127.32
+  },
+  {
+    "text": "syntaxes can describe the same thing",
+    "uid": "275ccbdfaed049aa",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2127.44,
+    "end": 2129.68
+  },
+  {
+    "text": "You know we could",
+    "uid": "6405196caf290abb",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2132.36,
+    "end": 2134.36
+  },
+  {
+    "text": "Have an arithmetic theory where we have addition and we also have negation or we could instead have subtraction and",
+    "uid": "c23ccbf2fd8d719a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2134.36,
+    "end": 2142.84
+  },
+  {
+    "text": "You can describe the same things in those two different languages, but the languages really are different",
+    "uid": "06e31371a7af0266",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2143.24,
+    "end": 2149.36
+  },
+  {
+    "text": "They give you the same",
+    "uid": "0a01cb4a7f683e70",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2149.36,
+    "end": 2150.36
+  },
+  {
+    "text": "semantics but the syntaxes are different and so when doing mathematical analysis when proving theorems",
+    "uid": "eb23aaa993cd779e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2150.88,
+    "end": 2156.96
+  },
+  {
+    "text": "It's often really beneficial to work",
+    "uid": "6ef0a948592f4b95",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2157.16,
+    "end": 2159.76
+  },
+  {
+    "text": "From a semantic point of view, but it's worth really",
+    "uid": "4564b12fbbf0974f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2160.2,
+    "end": 2163.8
+  },
+  {
+    "text": "Emphasizing that if you want to compare this work to some other work that's done on equivariance and so on",
+    "uid": "700596ca30f7f5e7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2164.2,
+    "end": 2170.92
+  },
+  {
+    "text": "That work is often being done from a syntactic angle so let's pause to state the central claim of categorical deep learning",
+    "uid": "e4dcde077eae740e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2170.92,
+    "end": 2178.56
+  },
+  {
+    "text": "The proposal is basically that a neural network layer should be viewed as a homomorphism between two algebra's for the same",
+    "uid": "d1514a64a6b4f2a8",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2178.94,
+    "end": 2186.44
+  },
+  {
+    "text": "Endo-funkter the endo-funkter describes the kind of computation and network needs to respect",
+    "uid": "945314d617e8d0d0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2186.72,
+    "end": 2192.48
+  },
+  {
+    "text": "be it a group action a",
+    "uid": "ca15507b13a9cd04",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2192.84,
+    "end": 2194.76
+  },
+  {
+    "text": "Listfold or an automaton transition and the algebra's describe how",
+    "uid": "8baafd86732de3bb",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2195.0,
+    "end": 2199.64
+  },
+  {
+    "text": "That computation transforms the specific data the homomorphism is then a function that maps between these two data representations",
+    "uid": "12dc529a4161defe",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2199.64,
+    "end": 2208.12
+  },
+  {
+    "text": "While preserving the computational structure when this homomorphism is a group action",
+    "uid": "c69e81c6c518fff8",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2208.44,
+    "end": 2213.84
+  },
+  {
+    "text": "You recover geometric deep learning, but the framework itself is far more general",
+    "uid": "cdcbbbf2b3a1aeff",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2213.92,
+    "end": 2219.46
+  },
+  {
+    "text": "So what is the syntax for example of of the action of a group?",
+    "uid": "2adbdc899486f614",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2220.52,
+    "end": 2226.32
+  },
+  {
+    "text": "It's really you kind of say well, I want to just think I have like one kind of thing and then each group element",
+    "uid": "ba4b09354ccffc27",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2226.8,
+    "end": 2234.56
+  },
+  {
+    "text": "Takes that thing and makes it sort of sends it back to itself. So I have sort of a single type and then each group action does something to that type",
+    "uid": "9f49676ca73c8cd5",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2235.08,
+    "end": 2244.2
+  },
+  {
+    "text": "So I might have some points in the plane and my group might be rotations and reflections that move those points around",
+    "uid": "4c318a313caf8b19",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2244.2,
+    "end": 2250.48
+  },
+  {
+    "text": "But I'm still in the plane",
+    "uid": "b03b74b9298250ab",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2250.48,
+    "end": 2252.48
+  },
+  {
+    "text": "But it turns out that this one sorted syntax isn't enough to to even capture",
+    "uid": "a7de5ae1301f421a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2253.2,
+    "end": 2259.68
+  },
+  {
+    "text": "Basic type constructors in in computer science. So for example lists you cannot",
+    "uid": "e2c635adb5fcfa18",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2260.76,
+    "end": 2267.44
+  },
+  {
+    "text": "Deal with the syntax of lists using just a single sort you need a multi sorted syntax",
+    "uid": "fab75d2283221466",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2267.8,
+    "end": 2274.16
+  },
+  {
+    "text": "So the way that you can do this is to say well think of we have sort of",
+    "uid": "78937182efc3ddb7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2274.48,
+    "end": 2280.52
+  },
+  {
+    "text": "Zero two poles one two poles two two poles, et cetera and then given",
+    "uid": "04beb92e16adc94f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2281.48,
+    "end": 2286.12
+  },
+  {
+    "text": "K two pole I might be able to make some other kind of tuple and L tuple by",
+    "uid": "eccc1ec8940a0e09",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2286.88,
+    "end": 2291.76
+  },
+  {
+    "text": "Taking elements make of my k tuple and making them into some lists L lists, right?",
+    "uid": "e01d0cb27d8c4ad4",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2292.84,
+    "end": 2297.76
+  },
+  {
+    "text": "So that's that's a syntax in the same way that group elements were a syntax and it does have compositionality",
+    "uid": "a46b5fb32bee5b4c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2298.64,
+    "end": 2307.52
+  },
+  {
+    "text": "if I have a way of packing things in from a tuple into a bunch of lists then I can pack those lists into other tuples of lists",
+    "uid": "e660685f065593d5",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2307.52,
+    "end": 2317.32
+  },
+  {
+    "text": "But it's clear that this is first of all many sorted and then also differs from the group case because all of this is highly non-invertible, right?",
+    "uid": "dc00a5debbeecd74",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2318.96,
+    "end": 2329.08
+  },
+  {
+    "text": "You you can't sort of by packing things more and more and more and more into lists eventually undo the lists, right?",
+    "uid": "c0229ceb6e30f1b9",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2331.08,
+    "end": 2337.28
+  },
+  {
+    "text": "You just get more lists, but we basically construct a model for this syntax and in the case of groups a model in sets means a set acted on by the group",
+    "uid": "5243d37e885c2b5a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2337.28,
+    "end": 2347.56
+  },
+  {
+    "text": "While for example a model in vector spaces would mean a vector representation of the group",
+    "uid": "c2a82ec145c98899",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2348.32,
+    "end": 2353.24
+  },
+  {
+    "text": "Whereas in the case of the syntax for lists",
+    "uid": "691f4b3240bee9dc",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2354.44,
+    "end": 2358.04
+  },
+  {
+    "text": "You just get what I was calling before foldable types or",
+    "uid": "9e46bda00da99cdd",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2358.28,
+    "end": 2362.28
+  },
+  {
+    "text": "Monoids things that are able to perform these syntactic operations in the expected way",
+    "uid": "5ac1fb421bf2ec69",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2362.28,
+    "end": 2369.84
+  },
+  {
+    "text": "like there's just something",
+    "uid": "acfc0a23b9e0ab49",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2370.44,
+    "end": 2372.44
+  },
+  {
+    "text": "Where the mathematical reasoning just works better if you expand your universe of objects a little bit even if you only care about the original objects",
+    "uid": "7030c1062a0b549a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2372.44,
+    "end": 2382.68
+  },
+  {
+    "text": "So this is a lesson that mathematicians have learned many times and it's sort of why a lot of people will prefer to work on the semantic side",
+    "uid": "dfa8786c9e9cef93",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2382.68,
+    "end": 2391.76
+  },
+  {
+    "text": "At least in the first instance it turns out that there's something very very basic in",
+    "uid": "a24cfe5868c52850",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2393.24,
+    "end": 2397.84
+  },
+  {
+    "text": "Mathematics that we all learned in elementary school",
+    "uid": "a94332188729e1b9",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2398.44,
+    "end": 2400.68
+  },
+  {
+    "text": "That has sort of been overlooked in the design of GNs and that's the notion of a carry",
+    "uid": "e72aecc1eb2cc3c3",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2401.92,
+    "end": 2407.72
+  },
+  {
+    "text": "So what exactly is a carry?",
+    "uid": "cd339b1998bb3c85",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2408.0,
+    "end": 2410.32
+  },
+  {
+    "text": "Well, suppose that I am able to implement a device a number wheel",
+    "uid": "b85287a88cc90146",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2410.32,
+    "end": 2415.12
+  },
+  {
+    "text": "that can do",
+    "uid": "24fc22245c6d79e1",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2416.0,
+    "end": 2418.0
+  },
+  {
+    "text": "arithmetic module 10",
+    "uid": "310a76d3c97bda7b",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2418.0,
+    "end": 2420.0
+  },
+  {
+    "text": "So that is zero through nine nine and now I want to build a kind of composite wheel that can do arithmetic modular 100",
+    "uid": "d45c368246824a49",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2420.12,
+    "end": 2427.72
+  },
+  {
+    "text": "So what do I need to do?",
+    "uid": "37ecdf3902a4188f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2428.0,
+    "end": 2429.84
+  },
+  {
+    "text": "I need sort of this little mechanism that when it when the wheel goes from nine to zero",
+    "uid": "a5827fa5a31533ff",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2429.84,
+    "end": 2435.28
+  },
+  {
+    "text": "It turns the next wheel by one and",
+    "uid": "f16a24091487a803",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2435.28,
+    "end": 2437.28
+  },
+  {
+    "text": "This is very simple, but it's extremely at odds with the way that GNNs have been conceived of in the past",
+    "uid": "f6c3f3859dbd309d",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2438.48,
+    "end": 2444.72
+  },
+  {
+    "text": "In the past you generally use send the whole state",
+    "uid": "e2ac03641b5a09a2",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2447.44,
+    "end": 2450.12
+  },
+  {
+    "text": "But there's no information in this state the information is only in the change of the state",
+    "uid": "656381fe038e3501",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2450.64,
+    "end": 2454.9
+  },
+  {
+    "text": "But it's even worse than that even if you sent the change in this state",
+    "uid": "e7ec6727fe031cb3",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2455.92,
+    "end": 2459.44
+  },
+  {
+    "text": "That's not enough information because if I went from nine to zero is it because I added one is it because I added 11 is it because I subtracted nine",
+    "uid": "67952a30413dc52c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2459.44,
+    "end": 2466.24
+  },
+  {
+    "text": "It turns out that it's quite",
+    "uid": "33dcbdffaa8d1a95",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2466.6,
+    "end": 2468.6
+  },
+  {
+    "text": "it's quite subtle",
+    "uid": "dcf92c8a35d0f6f6",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2469.4,
+    "end": 2471.4
+  },
+  {
+    "text": "Get this kind of thing to work in the presence of gradient descent",
+    "uid": "db861d8b71a3bfd5",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2473.24,
+    "end": 2477.4
+  },
+  {
+    "text": "So it's somehow is a very fundamental aspect of how we assemble",
+    "uid": "c436560c09e3f7fb",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2477.84,
+    "end": 2483.24
+  },
+  {
+    "text": "More complicated computational operations from simpler ones. I mean one of the first things that you do if you're describing a CPU is you have to describe an adder",
+    "uid": "355f2474632036fc",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2484.08,
+    "end": 2493.32
+  },
+  {
+    "text": "This is already something that we're struggling to do in in GNN terms",
+    "uid": "b9ae6eb68ea04943",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2494.84,
+    "end": 2499.52
+  },
+  {
+    "text": "It turns out that this behavior is",
+    "uid": "d8c37a80aec6722c",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2499.68,
+    "end": 2502.52
+  },
+  {
+    "text": "easy to get when you do discrete mathematics and very complicated to get when you do continuous mathematics",
+    "uid": "e56df82ba60b4630",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2502.76,
+    "end": 2509.88
+  },
+  {
+    "text": "You can easily give this number wheel example everybody understands it because they know how to do addition",
+    "uid": "8d82eaa15751386b",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2511.0,
+    "end": 2517.12
+  },
+  {
+    "text": "But getting it to happen in a way such that everything is continuous turns out to be",
+    "uid": "c3377c259b866cff",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2517.4,
+    "end": 2523.08
+  },
+  {
+    "text": "the simplest examples of this phenomenon",
+    "uid": "bf40416ff11615fd",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2525.96,
+    "end": 2528.68
+  },
+  {
+    "text": "Don't occur until you're dealing with three-dimensional",
+    "uid": "0076b1bcfdc5b9c0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2529.2,
+    "end": 2532.2
+  },
+  {
+    "text": "Manifolds so you would need to be thinking about things in four-dimensional space and",
+    "uid": "86490c23b3a92ffb",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2532.68,
+    "end": 2537.16
+  },
+  {
+    "text": "The simplest example that we know of is the so-called hop vibration. This is a situation where",
+    "uid": "69c946809a9840bf",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2537.88,
+    "end": 2544.12
+  },
+  {
+    "text": "You can decompose a three-dimensional sphere so that's a sphere in four dimensions",
+    "uid": "283cabd7ecac1e5b",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2545.84,
+    "end": 2550.04
+  },
+  {
+    "text": "You can project it onto a two-dimensional sphere so that all of the preemages are one-dimensional spheres or circles",
+    "uid": "2e745e5f717b02ba",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2551.32,
+    "end": 2558.16
+  },
+  {
+    "text": "And the three-dimensional sphere is very different from the product of the one-and-two-dimensional spheres",
+    "uid": "4a09347940b7cb9f",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2559.0,
+    "end": 2564.28
+  },
+  {
+    "text": "Just the same way that Zmod 100 is very different from the product of Zmod 10 with Zmod 10",
+    "uid": "09ca9b5b2913f5f3",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2564.68,
+    "end": 2570.0
+  },
+  {
+    "text": "And so this is something that I'm personally very excited about right now coming out of this asynchronous work is",
+    "uid": "39b09cc62b355ed2",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2571.24,
+    "end": 2576.6
+  },
+  {
+    "text": "Are there ways to exploit this type of geometric subtlety to create",
+    "uid": "d0a5003cf47c6ae0",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2577.6,
+    "end": 2582.4
+  },
+  {
+    "text": "The phenomenon of carrying and actually properly model this aspect of algorithmic reasoning and and start to build actual",
+    "uid": "9a175033b3310256",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2583.36,
+    "end": 2592.24
+  },
+  {
+    "text": "CPUs in neural networks",
+    "uid": "cd0c08f8f359073a",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2592.72,
+    "end": 2594.72
+  },
+  {
+    "text": "So their claim is quite straightforward at the end of the day deep learning has two languages",
+    "uid": "a88617916cc2ab32",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2594.72,
+    "end": 2599.28
+  },
+  {
+    "text": "Implementation and we lack a single framework that cleanly links them together",
+    "uid": "ebc9882e8a9729c7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2601.44,
+    "end": 2605.88
+  },
+  {
+    "text": "Categorical deep learning produces the bridge right using a universal algebra in a two-categorical",
+    "uid": "3c02f1db556a6e72",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2606.6,
+    "end": 2612.44
+  },
+  {
+    "text": "Parametric maps it recovers geometric deep learning is a special case while naturally expressing things like recursion",
+    "uid": "6751f12da27e46e7",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2612.44,
+    "end": 2618.96
+  },
+  {
+    "text": "Weight tying and non-invertible computation now if you want the formal story go and read to their paper",
+    "uid": "236fab16e2c8a2e2",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2619.4,
+    "end": 2625.2
+  },
+  {
+    "text": "The link is in the description especially the sections on para weight tying and recovering",
+    "uid": "52165fde8580e438",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2625.2,
+    "end": 2630.6
+  },
+  {
+    "text": "Geometric deep learning",
+    "uid": "5ae628b793effd3e",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2631.24,
+    "end": 2633.24
+  },
+  {
+    "text": "Thanks for watching",
+    "uid": "46e2b3c8804fa107",
+    "source": "Machine_Learning_Street_Talk - The_Final_Boss_of_Deep_Learning",
+    "start": 2633.24,
+    "end": 2635.24
+  }
+]
