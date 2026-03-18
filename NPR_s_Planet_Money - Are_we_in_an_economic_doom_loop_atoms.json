@@ -1,0 +1,807 @@
+[
+  {
+    "text": "When you look at the global economy today, it's easy to get the impression that things are bad.",
+    "uid": "a20b21fcf23abf7a",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 2.59,
+    "end": 17.46
+  },
+  {
+    "text": "After all, when you turn on the news and it seems like, oh, you hear about his countries dealing with financial panics.",
+    "uid": "e1d4904c509cb4c0",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 17.46,
+    "end": 24.46
+  },
+  {
+    "text": "Trade wars, soaring inflation, collapsing industries.",
+    "uid": "b3a8e08d87639994",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 24.46,
+    "end": 27.46
+  },
+  {
+    "text": "Yes. Is that our fault?",
+    "uid": "38ff94dcee1d620c",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 27.46,
+    "end": 29.46
+  },
+  {
+    "text": "Well, remember we did a sentimental analysis, we're slightly cheery than the average financial news source.",
+    "uid": "9c2c3039d02da430",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 29.46,
+    "end": 35.46
+  },
+  {
+    "text": "So, you know, maybe like half guilty as charged.",
+    "uid": "e0ee05bc133f914e",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 35.46,
+    "end": 39.46
+  },
+  {
+    "text": "Each war person is a little different though. He's an optimist by nature and he's also professor of economics and trade policy at Cornell University.",
+    "uid": "c0e04d97debf496c",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 39.46,
+    "end": 47.46
+  },
+  {
+    "text": "When he sat down to write his most recent book about the global economy, he wanted to focus on the positive.",
+    "uid": "c22dac206116da94",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 47.46,
+    "end": 53.46
+  },
+  {
+    "text": "Sure, he thought the world seems like it's in turmoil right now, but when he's zoom out, there's a more optimistic story to tell.",
+    "uid": "a1242a1c547cfe71",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 53.46,
+    "end": 60.46
+  },
+  {
+    "text": "One could argue and I was going to argue that they're just in a transitional period where there is a lot of volatility, but everything is going to settle down.",
+    "uid": "be7f45da17ff283a",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 60.46,
+    "end": 67.46
+  },
+  {
+    "text": "But the more research he did, the more convincing was that the future for our global economy actually is quite Blake and actually a lot of bleakers that he originally thought.",
+    "uid": "0edbd705b12d66c6",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 67.46,
+    "end": 77.46
+  },
+  {
+    "text": "You know, my heart was pulling me in one direction, which was the optimistic thesis and my head was pulling me in the completely different direction.",
+    "uid": "e873a51a5f95e2ff",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 77.46,
+    "end": 85.46
+  },
+  {
+    "text": "So, each war wrote a very different book than he planned.",
+    "uid": "6d9d2dcca0aaf5ba",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 85.46,
+    "end": 88.46
+  },
+  {
+    "text": "At this month, it is called The Doom Loop.",
+    "uid": "f66a233c9bee7fdd",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 88.46,
+    "end": 91.46
+  },
+  {
+    "text": "Why the world economic order is spiraling into disorder.",
+    "uid": "3d0f9a7b8f1956ee",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 91.46,
+    "end": 95.46
+  },
+  {
+    "text": "Okay, so maybe I like slightly chiff a delivery might want to have some more sunbatones.",
+    "uid": "22ea98cd9d1bbcbf",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 95.46,
+    "end": 103.46
+  },
+  {
+    "text": "This is the indicator from Planet Money. I'm Daryne Woods.",
+    "uid": "2d0e9a0bc2f5025b",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 103.46,
+    "end": 107.46
+  },
+  {
+    "text": "And I made Rian Ma. Today on the show, each war argues how forces meant to make the global economy more stable and prosperous.",
+    "uid": "bb40beb9e4d37fd4",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 107.46,
+    "end": 114.46
+  },
+  {
+    "text": "Have actually been doing the opposite.",
+    "uid": "882518a6e9188a97",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 114.46,
+    "end": 117.46
+  },
+  {
+    "text": "And if you'll talk about what it will take to get out of a tomb loop.",
+    "uid": "85920c07c8ae7ecf",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 117.46,
+    "end": 121.46
+  },
+  {
+    "text": "Support for NPR and the following message come from Edward Jones.",
+    "uid": "6f22ca364d8e98d5",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 121.46,
+    "end": 130.64
+  },
+  {
+    "text": "What does it mean to live a rich life? Maybe it's full of brave first leaps.",
+    "uid": "efd7760699f23222",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 130.64,
+    "end": 135.64
+  },
+  {
+    "text": "Tereful goodbyes and everything in between.",
+    "uid": "b9e9df646ab475ca",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 135.64,
+    "end": 138.64
+  },
+  {
+    "text": "And with over 100 years of experience, your Edward Jones financial advisor can help.",
+    "uid": "e7a86972f241a2ee",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 138.64,
+    "end": 144.64
+  },
+  {
+    "text": "Edward Jones member SIPC.",
+    "uid": "252fe370e69d2a32",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 144.64,
+    "end": 146.64
+  },
+  {
+    "text": "This message comes from ADP.",
+    "uid": "82f2f079c9b2df4e",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 147.64,
+    "end": 149.64
+  },
+  {
+    "text": "ADP knows any new technology, any old competitor, any trendy thing, even a trendy thing that everyone knows is an a great idea.",
+    "uid": "fbec25d486785b7d",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 149.64,
+    "end": 158.64
+  },
+  {
+    "text": "But management just wants us to give it a try for a bit.",
+    "uid": "f49228a3b6ba7b7e",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 158.64,
+    "end": 161.64
+  },
+  {
+    "text": "Can change the world of work.",
+    "uid": "9141aaee7d4b34d8",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 161.64,
+    "end": 163.64
+  },
+  {
+    "text": "So, whether it's a last minute policy change or adding a new company holiday,",
+    "uid": "c3a6af8adad2920e",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 163.64,
+    "end": 169.64
+  },
+  {
+    "text": "ADP designs forward thinking solutions to help businesses take on the next anything.",
+    "uid": "e408b15b00e33927",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 169.64,
+    "end": 176.64
+  },
+  {
+    "text": "ADP always designing for people.",
+    "uid": "37e248323bee50bd",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 176.64,
+    "end": 179.64
+  },
+  {
+    "text": "This message comes from Charles Schwab.",
+    "uid": "5cde7b5e55f933b3",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 179.64,
+    "end": 182.64
+  },
+  {
+    "text": "When it comes to managing your wealth, Schwab gives you more choices, like full service wealth management and advice when you need it.",
+    "uid": "d721bea6274e5e01",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 182.64,
+    "end": 188.64
+  },
+  {
+    "text": "You can also invest on your own and trade on Think or Swim. Visit Schwab.com to learn more.",
+    "uid": "f679a38c71ee5382",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 188.64,
+    "end": 194.64
+  },
+  {
+    "text": "So, what is a tomb loop?",
+    "uid": "079699e35c4a597a",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 194.64,
+    "end": 196.64
+  },
+  {
+    "text": "According to Eshwar for a sad, it's a cycle where economic conditions, domestic politics and international geofolistics feed off each other in a negative way.",
+    "uid": "b9b1198e9b046a14",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 197.64,
+    "end": 207.64
+  },
+  {
+    "text": "And in his book, Eshwar provides a number of examples of the doom loop at work.",
+    "uid": "976321122e571515",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 207.64,
+    "end": 211.64
+  },
+  {
+    "text": "Today, we're going to focus on just three of them.",
+    "uid": "11c3806fcc0a004e",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 211.64,
+    "end": 214.64
+  },
+  {
+    "text": "Globalization, institutions and technology.",
+    "uid": "7426c158fc99ce47",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 214.64,
+    "end": 218.64
+  },
+  {
+    "text": "All of these things were supposed to make the global economy more harmonious and stable,",
+    "uid": "0820a648b513c057",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 218.64,
+    "end": 223.64
+  },
+  {
+    "text": "but each one argues they're actually doing the opposite.",
+    "uid": "9efc69c23ad87a8d",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 223.64,
+    "end": 226.64
+  },
+  {
+    "text": "Let's start with globalization.",
+    "uid": "0abdb88eb1f28806",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 226.64,
+    "end": 228.64
+  },
+  {
+    "text": "This trend that's been playing out in the last few decades towards more interconnected economies.",
+    "uid": "692d1badb7299e1a",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 228.64,
+    "end": 233.64
+  },
+  {
+    "text": "It's led to cheaper goods and decreased poverty in a lot of developing countries.",
+    "uid": "3f5a4e4ad1ff7a65",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 233.64,
+    "end": 238.64
+  },
+  {
+    "text": "And there are in fact huge benefits, but the problem is that these benefits were not very evenly distributed.",
+    "uid": "0ba7d441ee92d197",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 238.64,
+    "end": 244.64
+  },
+  {
+    "text": "So, this created a class of disaffected people within countries.",
+    "uid": "0dda3e4447880ef8",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 244.64,
+    "end": 248.64
+  },
+  {
+    "text": "And there was a sense that the economic and political elite were walking away with many of the benefits of globalization,",
+    "uid": "ead9dcd4ac3a0b45",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 248.64,
+    "end": 255.64
+  },
+  {
+    "text": "and they were able to capture the political system.",
+    "uid": "25d72691bee8fe0f",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 255.64,
+    "end": 258.64
+  },
+  {
+    "text": "Eshwar says this economic discontent created by globalization has created an opening for what he calls the politics of resentment.",
+    "uid": "229db00e31f26056",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 258.64,
+    "end": 266.64
+  },
+  {
+    "text": "He says you can see it in politicians like Jair Balsonaro of Brazil, Victor Orban in Hungary or Donald Trump in the US.",
+    "uid": "5ee01c10a2a65093",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 266.64,
+    "end": 274.64
+  },
+  {
+    "text": "Politicians who claimed to be populist who claimed to have the interest of the common man or woman at heart,",
+    "uid": "da7d2b1555049801",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 275.64,
+    "end": 282.64
+  },
+  {
+    "text": "essentially are able to say that the problems that people are facing are because of the other.",
+    "uid": "9530249c874728b0",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 282.64,
+    "end": 287.64
+  },
+  {
+    "text": "And that other could be elites or immigrants or entire other countries like Mexico, China or Venezuela.",
+    "uid": "28a67a5c8daaeecd",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 287.64,
+    "end": 296.64
+  },
+  {
+    "text": "And this politics of resentment in the hands of skillful politicians can be a very powerful force.",
+    "uid": "4f7fc40784ef0e20",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 296.64,
+    "end": 302.64
+  },
+  {
+    "text": "It doesn't necessarily end up making common people better off, but it gives people the sense that they have to blow up the system in order for any change.",
+    "uid": "e2209291b6586285",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 302.64,
+    "end": 312.64
+  },
+  {
+    "text": "And that gives leaders political room to demonize minorities or start beefs with other countries, which you've probably seen in the news lately.",
+    "uid": "419f3fbc81e24ab8",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 312.64,
+    "end": 320.64
+  },
+  {
+    "text": "A second example of doomed loop dynamics involves institutions, international organizations like the United Nations, the World Bank, the international monetary fund.",
+    "uid": "d15b538911a971fe",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 320.64,
+    "end": 330.64
+  },
+  {
+    "text": "These were originally created to foster economic cooperation between countries.",
+    "uid": "01368103b16bc40c",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 330.64,
+    "end": 336.64
+  },
+  {
+    "text": "They did underpin global stability and prosperity for a long time, but what has happened right now is the United States because of the doomed loop dynamics is beginning to walk away from some of these institutions,",
+    "uid": "e73f1c27a46e7d9a",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 336.64,
+    "end": 348.64
+  },
+  {
+    "text": "especially the United Nations, because it feels that these institutions don't serve US interests,",
+    "uid": "dd9352c0e32035d6",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 348.64,
+    "end": 354.64
+  },
+  {
+    "text": "and they don't really define that much anymore. At the same time, the emerging market countries like China and India feel that institutions like the international monetary fund and the World Bank",
+    "uid": "0fe73046d72d26cf",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 354.64,
+    "end": 364.64
+  },
+  {
+    "text": "are really only protecting the interests of the richer countries rather than their interests.",
+    "uid": "a3687b7c8f985ac7",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 364.64,
+    "end": 369.64
+  },
+  {
+    "text": "So what has happened is that many of these emerging market countries, led by China, have started setting up their own institutions.",
+    "uid": "6fad45f267797f8b",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 369.64,
+    "end": 376.64
+  },
+  {
+    "text": "For example, the Asian infrastructure investment bank or the new development bank which has been set up by the major emerging market economies.",
+    "uid": "46eebfd5e87b620a",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 376.64,
+    "end": 384.64
+  },
+  {
+    "text": "So basically China was like, we don't like your little clubs rules, so we're going to start our own club.",
+    "uid": "1744d3bd9df13de1",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 384.64,
+    "end": 389.64
+  },
+  {
+    "text": "And it's not just emerging economies. President Trump has created his own global institution.",
+    "uid": "b32d83c15fdc307a",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 389.64,
+    "end": 394.64
+  },
+  {
+    "text": "So it's called Board of Pays. So now rather than having a common set of rules that everybody can agree upon, we have fragmentation and that is the recipe for instability rather than stability.",
+    "uid": "2d5345c5f74e0873",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 394.64,
+    "end": 407.64
+  },
+  {
+    "text": "Is the implication here that instability economically makes conflict between countries more likely?",
+    "uid": "38f9aea79e61f1c7",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 407.64,
+    "end": 415.64
+  },
+  {
+    "text": "That's correct. You know, trade used to be seen not just as a bridge between countries, but essentially as one that would keep cooperation between countries on an even keel.",
+    "uid": "53195db818746c6d",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 415.64,
+    "end": 425.64
+  },
+  {
+    "text": "Persistent instability is going to mean much more strife within countries, but also between countries.",
+    "uid": "2d4cbd572e166fee",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 425.64,
+    "end": 432.64
+  },
+  {
+    "text": "So we've covered how the forces of globalization and institutions play into the dream life. Let's do one more example. Technology.",
+    "uid": "a37369b2020123d4",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 432.64,
+    "end": 440.64
+  },
+  {
+    "text": "So in the cheerful version of the book technology was going to be the answer to everything. You know, I'm a technology optimist. I think many of the technologies around us are creating wonderful elements of economic progress, creating ways to improve our lives in many ways.",
+    "uid": "b9ce5c29e863f2fa",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 440.64,
+    "end": 456.64
+  },
+  {
+    "text": "And in the book I focus in particular on AI on digital currencies and on social media. All of these can bring us together, but technology has a dark side.",
+    "uid": "8b33705538c30d05",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 456.64,
+    "end": 467.64
+  },
+  {
+    "text": "So he says take digital currencies, for example.",
+    "uid": "7c044a3f152f4a64",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 467.64,
+    "end": 470.64
+  },
+  {
+    "text": "There are these cryptocurrencies called stable coins which have stable value because they are backed up by the US dollar.",
+    "uid": "8cbfb95328f8ed56",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 470.64,
+    "end": 476.64
+  },
+  {
+    "text": "They're going to be much more trusted than the currencies of small countries that don't have credible central bank secretable currencies.",
+    "uid": "5854a90eb4d359ba",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 476.64,
+    "end": 483.64
+  },
+  {
+    "text": "So those currencies could basically vanish because of this direct competition.",
+    "uid": "3e846055bf978da2",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 483.64,
+    "end": 489.64
+  },
+  {
+    "text": "Or he says, look at the rise of AI.",
+    "uid": "591e3c82f0a6b41e",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 489.64,
+    "end": 492.64
+  },
+  {
+    "text": "We are seeing that AI is leading to, you know, some very wealthy people getting much wealthier and it's not clear how broadly these benefits are going to be shared.",
+    "uid": "b548f12d93946988",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 492.64,
+    "end": 502.64
+  },
+  {
+    "text": "So I'm worried again that for all its promise and for all the technology is giving us in terms of overall progress under the surface it is going to create even more tensions that intensify the doom loop.",
+    "uid": "d2bab2af12cf8cd4",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 502.64,
+    "end": 515.64
+  },
+  {
+    "text": "So this is a pretty dire prognosis. Is there a way out of the doom loop?",
+    "uid": "cd2a04cefcc4fd98",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 515.64,
+    "end": 522.64
+  },
+  {
+    "text": "There is a way out and I do point to this in the last chapter of my book because after all I did want to give my reader some light at the end of it all.",
+    "uid": "5eef3a6fbe16fdfa",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 522.64,
+    "end": 531.64
+  },
+  {
+    "text": "What it's going to take is a combination of all of us as citizens, you know, seeing ourselves, not just as citizens of our countries, but for communities and the world at large and recognizing that a better future requires one of shared prosperity among all of us.",
+    "uid": "dd6eed2b43aa0e79",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 531.64,
+    "end": 544.64
+  },
+  {
+    "text": "Second it's going to take leaders at all levels, community, business, national leaders who can, you know, help us see beyond a short term interest and prejudices and we need better institutions.",
+    "uid": "d02203dbd914d02a",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 544.64,
+    "end": 559.64
+  },
+  {
+    "text": "It does sound like a very tall order.",
+    "uid": "4ef1c6325dfec066",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 559.64,
+    "end": 561.64
+  },
+  {
+    "text": "Like do you really believe that all that can happen?",
+    "uid": "94ab7c61679f6874",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 561.64,
+    "end": 565.64
+  },
+  {
+    "text": "That is my fervent hope for us and also the future generations to come.",
+    "uid": "ab47545233a9be68",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 565.64,
+    "end": 569.64
+  },
+  {
+    "text": "We really need to work to change this reality, but man it's going to be a hard slog to get back to a better world.",
+    "uid": "c7cc7a9a78d3fce8",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 569.64,
+    "end": 577.64
+  },
+  {
+    "text": "Eight Darym Woods here, very excited to possibly see you in person in New York, April 6.",
+    "uid": "456e7dbfe1125b81",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 577.64,
+    "end": 586.84
+  },
+  {
+    "text": "Come see me and Mary Charles and Amanda Aroncek from Planet Money.",
+    "uid": "1ff52a6b6e43a5b4",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 586.84,
+    "end": 590.84
+  },
+  {
+    "text": "We're going to perform a live, never heard before, Planet Money show.",
+    "uid": "abb660811b4188ea",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 590.84,
+    "end": 594.84
+  },
+  {
+    "text": "We'll also hear from Emily Oster, who is an economist.",
+    "uid": "15c61cee809082ee",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 594.84,
+    "end": 597.84
+  },
+  {
+    "text": "Most famous for letting mothers to be know that they can drink coffee.",
+    "uid": "dc79e8b9b7f49a74",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 597.84,
+    "end": 600.84
+  },
+  {
+    "text": "This is all part of Planet Money's book tour.",
+    "uid": "68a340d61b6bfa3c",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 600.84,
+    "end": 603.84
+  },
+  {
+    "text": "You'll get a tour tote bag with your tickets while supplies last.",
+    "uid": "6dbcb7e221105c3c",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 603.84,
+    "end": 606.84
+  },
+  {
+    "text": "And we're also going to a dozen cities.",
+    "uid": "d50f583391017eda",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 606.84,
+    "end": 609.84
+  },
+  {
+    "text": "Each staff is a little different with different hosts.",
+    "uid": "487e48ead7a39b1d",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 609.84,
+    "end": 612.84
+  },
+  {
+    "text": "I'll also be into Ronto.",
+    "uid": "caf0c82e1c8e6318",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 612.84,
+    "end": 614.84
+  },
+  {
+    "text": "Find out more with links to get tickets at Planet Money Book.com.",
+    "uid": "6fab825c57f498af",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 614.84,
+    "end": 618.84
+  },
+  {
+    "text": "This episode was produced by Cory Bridges and engineered by Robert Rodriguez.",
+    "uid": "48412706f32c75f3",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 618.84,
+    "end": 622.84
+  },
+  {
+    "text": "It was fact checked by Sierra Juarez.",
+    "uid": "6b54a74f5bc526a4",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 622.84,
+    "end": 623.84
+  },
+  {
+    "text": "Kicking candidates are editor and the indicators are production of NPR.",
+    "uid": "76bff3580f71f4f5",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 623.84,
+    "end": 627.84
+  },
+  {
+    "text": "Support for NPR and the following message come from Washington, Wise.",
+    "uid": "666b8ca8890c9501",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 627.84,
+    "end": 633.57
+  },
+  {
+    "text": "Decisions made in Washington can affect your portfolio every day.",
+    "uid": "0da57d66ef77f919",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 633.57,
+    "end": 637.57
+  },
+  {
+    "text": "Washington lies from Charles Schwab is an original podcast that unpacks the stories making news in Washington.",
+    "uid": "3005fa9978243f6d",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 637.57,
+    "end": 643.57
+  },
+  {
+    "text": "Listen at Schwab.com slash Washington, Wise.",
+    "uid": "276048f3977f2bd9",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 643.57,
+    "end": 647.57
+  },
+  {
+    "text": "This message comes from Capella University.",
+    "uid": "7f3172ca1d8f43e4",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 647.57,
+    "end": 650.57
+  },
+  {
+    "text": "Matt Spark, you feel?",
+    "uid": "0a15720b1d3b300f",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 650.57,
+    "end": 651.57
+  },
+  {
+    "text": "That's your drive for more.",
+    "uid": "4c400ac857fe10eb",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 651.57,
+    "end": 653.57
+  },
+  {
+    "text": "Capella University's Flex Path Learning format lets you earn your degree at your pace.",
+    "uid": "796798d826aa280a",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 653.57,
+    "end": 658.57
+  },
+  {
+    "text": "Without putting life on pause, learn more at Capella.edu.",
+    "uid": "8a22a9cd1540b6f5",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 658.57,
+    "end": 662.57
+  },
+  {
+    "text": "This message comes from NPR Sponsor Charles Schwab with its original podcast on investing.",
+    "uid": "65f13096d75360b9",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 662.57,
+    "end": 668.57
+  },
+  {
+    "text": "Each week, you'll get thoughtful in-depth analysis of both the stock and the bond markets.",
+    "uid": "79d2c5bba437d9e7",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 668.57,
+    "end": 674.57
+  },
+  {
+    "text": "Listen today and subscribe at Schwab.com slash on investing or wherever you get your podcasts.",
+    "uid": "9a85a0b79a57fa36",
+    "source": "NPR_s_Planet_Money - Are_we_in_an_economic_doom_loop",
+    "start": 674.57,
+    "end": 681.57
+  }
+]
