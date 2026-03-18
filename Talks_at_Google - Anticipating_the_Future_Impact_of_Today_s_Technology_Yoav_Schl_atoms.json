@@ -1,0 +1,3292 @@
+[
+  {
+    "text": "Thanks for being here.",
+    "uid": "abffc006490669da",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 12.03,
+    "end": 14.15
+  },
+  {
+    "text": "Today, I am talking about the Ethical OS,",
+    "uid": "066c5a525c1e773e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 14.15,
+    "end": 18.87
+  },
+  {
+    "text": "the Ethical Operating System, or if you want to call it,",
+    "uid": "0998cda7475035a9",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 18.87,
+    "end": 22.99
+  },
+  {
+    "text": "a guide to anticipating the future impact of today's technology.",
+    "uid": "75d7c57a6617456d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 22.99,
+    "end": 27.11
+  },
+  {
+    "text": "We'll talk a lot more about what that means.",
+    "uid": "74939ed4f13afcd8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 27.11,
+    "end": 29.87
+  },
+  {
+    "text": "But for now, let's just say that this talk",
+    "uid": "da1b24567941d46f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 29.87,
+    "end": 33.47
+  },
+  {
+    "text": "is about how not to regret the things that you will build.",
+    "uid": "30c78c19cee46d65",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 33.47,
+    "end": 37.03
+  },
+  {
+    "text": "And the ways, the tools, the foresight, the frameworks",
+    "uid": "890d1f6a483add0f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 37.03,
+    "end": 40.67
+  },
+  {
+    "text": "that we can bring to the process of developing new technologies,",
+    "uid": "a881dd4cf3e5fe6d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 40.67,
+    "end": 44.11
+  },
+  {
+    "text": "to ensure that we have in mind from the outset,",
+    "uid": "633d85099ae1927b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 44.11,
+    "end": 49.03
+  },
+  {
+    "text": "the user, the societies, the communities",
+    "uid": "5de4c5e45e2f4e3c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 49.03,
+    "end": 52.19
+  },
+  {
+    "text": "that will be impacted by the products that we actually build",
+    "uid": "13a64d3c6b0cc836",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 52.19,
+    "end": 55.47
+  },
+  {
+    "text": "and ultimately ship.",
+    "uid": "ed2a69cfd3e3aea2",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 55.47,
+    "end": 57.11
+  },
+  {
+    "text": "So as I already mentioned, I am, you know,",
+    "uid": "12e7789a0192ba4b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 57.11,
+    "end": 60.75
+  },
+  {
+    "text": "if there's my Twitter handle, if you want to tag me,",
+    "uid": "81bf5e426bc40855",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 60.75,
+    "end": 65.83
+  },
+  {
+    "text": "I have been doing this work and thinking pretty deeply about how we build",
+    "uid": "887b04311bb3c39e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 65.83,
+    "end": 70.23
+  },
+  {
+    "text": "more innovative yet responsible products for a while at Omedia Network.",
+    "uid": "80e2fab4abbf6538",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 70.23,
+    "end": 75.67
+  },
+  {
+    "text": "And let me tell you a little bit about what Omedia Network is",
+    "uid": "a83edf66446cbb33",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 75.67,
+    "end": 78.51
+  },
+  {
+    "text": "and what the Tech and Society Solutions Lab is",
+    "uid": "cd61905a25233a45",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 78.51,
+    "end": 81.39
+  },
+  {
+    "text": "to give a little context.",
+    "uid": "55888cf4d4579cab",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 81.39,
+    "end": 82.83
+  },
+  {
+    "text": "So this is my boss's boss's boss, Pierre Omedia,",
+    "uid": "feecc63dcfe44e0b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 82.83,
+    "end": 87.31
+  },
+  {
+    "text": "who was the founder of eBay.",
+    "uid": "245c964558b2a0af",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 87.31,
+    "end": 89.43
+  },
+  {
+    "text": "And from the earliest days at eBay, Pierre had a vision",
+    "uid": "4797575effe032ea",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 89.43,
+    "end": 93.51
+  },
+  {
+    "text": "for tech as a great distributor of opportunity in the world",
+    "uid": "1777bf6437e2492e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 93.51,
+    "end": 97.99
+  },
+  {
+    "text": "and a great tool for empowering people",
+    "uid": "66e6482336bffcd1",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 97.99,
+    "end": 100.95
+  },
+  {
+    "text": "to really lift themselves up.",
+    "uid": "64403ab99fcc13ac",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 100.95,
+    "end": 104.35
+  },
+  {
+    "text": "If you think about eBay as a marketplace where everyone could be a buyer",
+    "uid": "f4eb8153f0b8844c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 104.35,
+    "end": 107.43
+  },
+  {
+    "text": "and a seller, it was at the core a project in that idea of empowerment.",
+    "uid": "6fa8503e3b14a4aa",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 107.43,
+    "end": 112.87
+  },
+  {
+    "text": "And so when eBay, IPO, Pierre took much of the wealthy accumulated",
+    "uid": "63bb8c7b662c2590",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 112.87,
+    "end": 116.87
+  },
+  {
+    "text": "and rolled it into Omedia Network,",
+    "uid": "f9aa286ddeb18b8b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 116.87,
+    "end": 118.95
+  },
+  {
+    "text": "as well as our sister institutions,",
+    "uid": "3be1ecee41c0b684",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 118.95,
+    "end": 122.55
+  },
+  {
+    "text": "to have social impact through for and non-profit investments.",
+    "uid": "39c23ef9ace74b98",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 122.55,
+    "end": 126.79
+  },
+  {
+    "text": "And so for the last 14 or so years, Omedia Network has been making investments",
+    "uid": "692b60718c765d04",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 126.79,
+    "end": 131.75
+  },
+  {
+    "text": "globally in things like financial inclusion, citizen engagement, education,",
+    "uid": "64e3fe073afa4cb7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 131.75,
+    "end": 137.55
+  },
+  {
+    "text": "property rights, digital identity, a whole range of things",
+    "uid": "1dae6faca28a21c8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 137.55,
+    "end": 140.71
+  },
+  {
+    "text": "with this central thesis of empowering people around the world.",
+    "uid": "f43406ec7148c323",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 140.71,
+    "end": 144.79
+  },
+  {
+    "text": "In about 2016 or so, we like everyone else kind of ran into a brick wall.",
+    "uid": "f9a59b2c9e47e1bc",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 144.79,
+    "end": 152.51
+  },
+  {
+    "text": "And we're talking about a lot of work that's happening.",
+    "uid": "31091fc36735bbeb",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 152.51,
+    "end": 155.31
+  },
+  {
+    "text": "And I think for a lot of us around Brexit, and for many of us around the 2016 elections",
+    "uid": "3a4100515c460e57",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 155.31,
+    "end": 159.47
+  },
+  {
+    "text": "and some what happened through the 2016 elections in terms of manipulation",
+    "uid": "23232c1865df57fe",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 159.47,
+    "end": 163.47
+  },
+  {
+    "text": "of our democratic process, et cetera, when we all kind of collectively woke up",
+    "uid": "d11ebc1ff4b39037",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 163.47,
+    "end": 166.99
+  },
+  {
+    "text": "and said, oh, wait a second, that tech that we thought was just going to solve",
+    "uid": "eaac63dee0268076",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 166.99,
+    "end": 170.83
+  },
+  {
+    "text": "all of the world's problems actually has some pretty deep problems and challenges",
+    "uid": "d10758d9451e5852",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 170.83,
+    "end": 176.27
+  },
+  {
+    "text": "that we actually need to address as well.",
+    "uid": "efb54a74dbf2a126",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 176.27,
+    "end": 178.19
+  },
+  {
+    "text": "And so we had a mid-yard network being thinking about, okay,",
+    "uid": "7a699058b665e464",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 178.19,
+    "end": 180.91
+  },
+  {
+    "text": "we've had this techno optimism for so long.",
+    "uid": "3e10e6772142e0b1",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 180.91,
+    "end": 183.47
+  },
+  {
+    "text": "How do we actually ensure that the tech that we are developing is actually good for people?",
+    "uid": "949132ace0b6de85",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 183.47,
+    "end": 188.67
+  },
+  {
+    "text": "So not just thinking about tech in its application for good, but actually tech that at its core is good.",
+    "uid": "a5394b1a6390d6d5",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 188.67,
+    "end": 194.75
+  },
+  {
+    "text": "And so we stood up the tech and society solutions lab, which aims at our core to help",
+    "uid": "3e4af22ea6959bd3",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 194.75,
+    "end": 201.23
+  },
+  {
+    "text": "technologists to mitigate, to prevent, to correct the downsides of technology, to ensure that it",
+    "uid": "582300d2cfb2d684",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 201.23,
+    "end": 208.19
+  },
+  {
+    "text": "can live up to its potential as that positive force for good in the world.",
+    "uid": "981b94e957782e2d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 208.19,
+    "end": 212.35
+  },
+  {
+    "text": "And so we're doing that by co-creating and supporting the creation of solutions to advanced",
+    "uid": "e22ac7204417bea2",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 212.35,
+    "end": 217.95
+  },
+  {
+    "text": "these goals. There's been a lot of talk about the problems.",
+    "uid": "7fc18171079ab76c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 217.95,
+    "end": 221.31
+  },
+  {
+    "text": "We'll do a little bit of that in a few minutes, but at the core we're focused on what are the solutions",
+    "uid": "1bb2ecaa84bca688",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 221.31,
+    "end": 226.99
+  },
+  {
+    "text": "to those challenges. And ethical OS is one of the tools that we've built in order to address some",
+    "uid": "bdac4fe8242c5333",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 226.99,
+    "end": 233.47
+  },
+  {
+    "text": "of those challenges. So what brings us here today?",
+    "uid": "e7e244e45a5d1677",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 233.47,
+    "end": 237.07
+  },
+  {
+    "text": "There's been a lot of talk about the challenges that tech has created for people.",
+    "uid": "c55dcfc5d055d1a9",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 239.07,
+    "end": 244.91
+  },
+  {
+    "text": "And these are just a few that are appearing. Challenges around transparency, opacity,",
+    "uid": "6f8b5927abfcb89b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 245.71,
+    "end": 251.55
+  },
+  {
+    "text": "about how decisions are made around tech and what decisions are being made beyond or control and beyond",
+    "uid": "f4ad1f48cfd9cddd",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 252.59,
+    "end": 257.71
+  },
+  {
+    "text": "they're understanding. How algorithms are developed in the biases that they might be perpetuating,",
+    "uid": "2c3e6f5d03670271",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 257.71,
+    "end": 264.35
+  },
+  {
+    "text": "how privacy and security are built or not in the products, how text monoculture might be perpetuating",
+    "uid": "2345d16b28c86db4",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 264.35,
+    "end": 270.83
+  },
+  {
+    "text": "many of these things, ranging all the way down to environmental impacts of the tech we're building",
+    "uid": "9ce230a728cd9679",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 270.83,
+    "end": 276.99
+  },
+  {
+    "text": "and rising social inequality and economic inequality. So whole range of issues that bring us to the",
+    "uid": "5359644a35be0a16",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 276.99,
+    "end": 284.27
+  },
+  {
+    "text": "table in thinking about how we build more responsible products. So here's an analogy I like to use.",
+    "uid": "7f17fcc7d8bc5f3b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 284.27,
+    "end": 291.47
+  },
+  {
+    "text": "And this is with all credit to the folks at Santa Clara University and their tech ethics practice.",
+    "uid": "45adffa65c802e29",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 291.47,
+    "end": 297.79
+  },
+  {
+    "text": "But foresight issues, if you will, ethical issues are like birds.",
+    "uid": "f2e52c8581851f5f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 298.83,
+    "end": 303.39
+  },
+  {
+    "text": "First, they're everywhere. Some are ordinary, some are rare, some are big, some are small,",
+    "uid": "415a3c6bf10f1dd2",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 304.67,
+    "end": 310.67
+  },
+  {
+    "text": "some are local, some are exotic, some are ubiquitous, but there are birds everywhere.",
+    "uid": "b322207f87a41b57",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 310.67,
+    "end": 315.15
+  },
+  {
+    "text": "But it's actually really easy to go through life surrounded by them and not see the middle.",
+    "uid": "86ec7306ac71e6bf",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 315.95,
+    "end": 321.95
+  },
+  {
+    "text": "Right? They just sort of are in the background and if you're not paying attention,",
+    "uid": "052f5ca4c347155b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 323.07,
+    "end": 326.91
+  },
+  {
+    "text": "you won't even notice the birds. Getting good at seeing them is a skill. Only built by practice.",
+    "uid": "84b9ac06e21c3eda",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 327.79,
+    "end": 335.71
+  },
+  {
+    "text": "And practice makes it finding them easier and actually more rewarding. So when you're practice at seeing",
+    "uid": "ed3be2aa72df9e18",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 336.27,
+    "end": 341.31
+  },
+  {
+    "text": "the birds, it becomes a daily ritual. It becomes part of what you do as you navigate through the",
+    "uid": "89011a31d28f098c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 341.39,
+    "end": 347.47
+  },
+  {
+    "text": "world. It becomes that much more rewarding. Skilled watchers learn how to see them and where and when they're",
+    "uid": "4c9d889f6dfbee67",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 347.47,
+    "end": 355.39
+  },
+  {
+    "text": "most likely to turn up. Right? So when you are a bird watcher, it becomes, oh, I know that if I had to this forest,",
+    "uid": "2b6ff6a5cb87d233",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 355.39,
+    "end": 363.47
+  },
+  {
+    "text": "I'm likely to see these types of birds. Right? And actually, certain types are found more in some",
+    "uid": "9c1ae6660404d111",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 363.47,
+    "end": 370.35
+  },
+  {
+    "text": "landscapes than others. Some are not found anywhere at all. Right? You can sort of predict with",
+    "uid": "6261eb983258ac45",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 370.35,
+    "end": 375.39
+  },
+  {
+    "text": "some degree of sort of dude about where those birds may appear. And it's actually easier to spot them with",
+    "uid": "d68ed1f84b5a6820",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 375.39,
+    "end": 382.51
+  },
+  {
+    "text": "help. So if you have a bird watching buddy next to you, you're doubling your capacity to actually",
+    "uid": "4a452b9d252a58ef",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 382.51,
+    "end": 389.39
+  },
+  {
+    "text": "spot the birds on the landscape. And finally, you may need special lenses, actually to see those birds.",
+    "uid": "d86b7e0a1153b473",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 389.39,
+    "end": 396.91
+  },
+  {
+    "text": "Your own eyes may limit your ability to actually spot the bird on the horizon. And so a special",
+    "uid": "75f2cc71f127fc2e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 396.99,
+    "end": 404.27
+  },
+  {
+    "text": "lens like ethical OS or any other framework helps you to spot them. So if you just replace the",
+    "uid": "125914b4e2051574",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 404.27,
+    "end": 411.71
+  },
+  {
+    "text": "word birds with ethical issues or foresight issues, I think you understand how this analogy actually plays out.",
+    "uid": "2dd79abd8e43c2cb",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 411.71,
+    "end": 417.47
+  },
+  {
+    "text": "And so we've built the ethical OS to actually aid in just doing this very thing. And we built it",
+    "uid": "c3af2393ec479955",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 418.27,
+    "end": 423.71
+  },
+  {
+    "text": "alongside the Institute for the Future and nonprofit group in Pat Basin, Palo Alto who think deeply",
+    "uid": "ce8238608a9386a0",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 423.71,
+    "end": 430.59
+  },
+  {
+    "text": "about these issues of foresight, how we think about consequences, future technologies, et cetera. And together,",
+    "uid": "ac339d7629d63b73",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 430.59,
+    "end": 437.79
+  },
+  {
+    "text": "we decided that if you can't predict the future you're in the wrong business. Just kidding. But at the core,",
+    "uid": "1b5086e918bb8562",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 437.79,
+    "end": 445.87
+  },
+  {
+    "text": "one of the things that we are interested in doing is thinking about those consequences of technology. And when",
+    "uid": "e5ea71c45c65969c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 445.87,
+    "end": 451.31
+  },
+  {
+    "text": "we think about the consequences of human systems that are sped up, amplified, or disrupted by those",
+    "uid": "60d42b68447a2f1f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 451.31,
+    "end": 457.95
+  },
+  {
+    "text": "technologies. So we know actually that no one can predict what tomorrow will bring. And so until we get a",
+    "uid": "391ef59eaa92a141",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 457.95,
+    "end": 465.55
+  },
+  {
+    "text": "crystal ball app, the best we can hope to do is to build the muscle of anticipating long-term social impacts,",
+    "uid": "2572a88fb1cafc5d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 465.55,
+    "end": 473.63
+  },
+  {
+    "text": "which is essentially what ethical OS is meant to do. And so it's actually not necessary that we predict the",
+    "uid": "9755df97526ec22a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 473.63,
+    "end": 478.19
+  },
+  {
+    "text": "future. It's just that we get better at practicing the skill of bird watching, right, which I will now",
+    "uid": "a0f71657e15063ef",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 478.19,
+    "end": 485.55
+  },
+  {
+    "text": "introduce you to. So ethical OS is designed to help makers of tech product managers, engineers, and others",
+    "uid": "c5256b87e874b177",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 485.55,
+    "end": 493.87
+  },
+  {
+    "text": "get in front of problems before they happen. So it's actually been designed to facilitate bed or product",
+    "uid": "7d28610dfe5a54be",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 493.87,
+    "end": 499.87
+  },
+  {
+    "text": "development faster deployment and more impactful innovation. So we have this thing as technologists,",
+    "uid": "fdf4cd236c478994",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 499.87,
+    "end": 507.15
+  },
+  {
+    "text": "right where we imagine that the products we build will solve all the world's problems and actually it will",
+    "uid": "2bd9c5caba47e6c7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 507.15,
+    "end": 512.83
+  },
+  {
+    "text": "all change the world for the better. And that to a large extent is true, right? But it is also useful at",
+    "uid": "a0817ced1573377a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 512.83,
+    "end": 521.55
+  },
+  {
+    "text": "times to think of the glass as half empty. If we're always seeing the glass as half full or entirely full,",
+    "uid": "eccc3b4c7ff4e26a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 521.55,
+    "end": 529.71
+  },
+  {
+    "text": "we will not be spotting the risks before they happen. So here are the three questions, really,",
+    "uid": "74b8c3fde0416a45",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 529.79,
+    "end": 537.15
+  },
+  {
+    "text": "that this is designed to ask that there are many more embedded. If the technology you're building right now",
+    "uid": "0bb4b8d22684b771",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 537.79,
+    "end": 545.15
+  },
+  {
+    "text": "will someday be used in unexpected ways, what can you do to prepare for it? What new categories of risks",
+    "uid": "9aead970cb56418e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 545.15,
+    "end": 552.67
+  },
+  {
+    "text": "should you be paying attention to? And lastly, what choices can you make that would actively safeguard",
+    "uid": "85477ced0f76ed75",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 552.67,
+    "end": 558.75
+  },
+  {
+    "text": "users, communities society and your company? In this case, Google, but any company from future risks.",
+    "uid": "e3de003faf176b97",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 558.75,
+    "end": 565.55
+  },
+  {
+    "text": "So we build three different tools in the ethical OS. I'll introduce you to each of those tools as a way",
+    "uid": "d698832082da90f5",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 565.55,
+    "end": 570.11
+  },
+  {
+    "text": "of exercising this four-site muscle. And the first is a set of scenarios to consider that just sort of",
+    "uid": "0ac5e0837ad3ff08",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 570.11,
+    "end": 578.19
+  },
+  {
+    "text": "start pumping the juices. Think of it as a warm-up for your run, right? This is just getting the blood flowing",
+    "uid": "975a3121f5410f11",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 578.19,
+    "end": 585.31
+  },
+  {
+    "text": "thinking about the potential risks of technologies with some specific scenarios. So,",
+    "uid": "0916eee7b9de2c1b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 585.31,
+    "end": 593.47
+  },
+  {
+    "text": "you know, some questions to ask about each of these scenarios is, what's your greatest worry? When you",
+    "uid": "26685d5bfbafb3db",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 593.47,
+    "end": 600.27
+  },
+  {
+    "text": "imagine this future, how many different users be affected differently by this future? What actions",
+    "uid": "67d71154f2bd6e5a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 600.27,
+    "end": 608.11
+  },
+  {
+    "text": "would you take if you could foresee those impacts down the road? And what could we together be doing",
+    "uid": "25faf7ba1fc3c7e1",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 608.11,
+    "end": 614.51
+  },
+  {
+    "text": "differently to prepare for that risky future? So, this is a little black mirrory apologies for that.",
+    "uid": "795a241b4ca47d19",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 614.51,
+    "end": 621.87
+  },
+  {
+    "text": "In fact, some of the scenarios that we built in the ethical OS have now been played out on episodes of",
+    "uid": "a9636b0f94e79495",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 621.87,
+    "end": 629.07
+  },
+  {
+    "text": "black mirror as well as actually in the world. We've seen some of them, so we built a scenario around",
+    "uid": "8b2d577d839c2d76",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 629.07,
+    "end": 634.91
+  },
+  {
+    "text": "smart toilets, which we actually couldn't have imagined would be demoed at CES this past January.",
+    "uid": "4c0d2620dd8dc93a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 634.91,
+    "end": 641.07
+  },
+  {
+    "text": "So, it's the muscle of predicting some of these things is actually really useful to exercise and here",
+    "uid": "d6a89bf00e4d9293",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 641.07,
+    "end": 648.67
+  },
+  {
+    "text": "are a couple of the scenarios we built. So, are you ready for a future where conversation bots have been",
+    "uid": "492235702fae9247",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 648.67,
+    "end": 655.79
+  },
+  {
+    "text": "trained to imitate specific people? So, not just people in general and you know, any generic user or customer",
+    "uid": "59acd53aa8f6b803",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 655.79,
+    "end": 664.19
+  },
+  {
+    "text": "service representative, but your grandmother or a celebrity using data sets collected from public social",
+    "uid": "5c31090323231db4",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 664.27,
+    "end": 670.75
+  },
+  {
+    "text": "media posts and those bots are deployed across networks, email, and text messages and super targeted,",
+    "uid": "8274033cc9bcff77",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 670.75,
+    "end": 676.99
+  },
+  {
+    "text": "super personal as propaganda campaigns. And they are as a result highly effective in changing opinions",
+    "uid": "b4e2dd5d2c5df685",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 676.99,
+    "end": 684.03
+  },
+  {
+    "text": "and driving action, right? As these messages appear to be from your family and friends. What are you worried",
+    "uid": "34a21392f20ad6ca",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 684.03,
+    "end": 691.63
+  },
+  {
+    "text": "about? What can we do to prevent this future? How would people be disproportionately impacted by a",
+    "uid": "b020d3fd3073d918",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 692.43,
+    "end": 696.91
+  },
+  {
+    "text": "future in which this happens? You know, in response to growing concerns over tech addiction and",
+    "uid": "3238f29709da14b8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 696.91,
+    "end": 701.95
+  },
+  {
+    "text": "anticipating government regulation as a possible future, several popular social media and game companies",
+    "uid": "c317ebd918a85cc2",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 701.95,
+    "end": 709.23
+  },
+  {
+    "text": "decide to voluntarily enforce timelines. Sounds like a good idea, right? So, adults might be limited to two",
+    "uid": "d9f0f00190aea03a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 709.23,
+    "end": 717.15
+  },
+  {
+    "text": "hours a day, kids might be limited to one hour a day, and actually whether a platform is limited or",
+    "uid": "58e60568475fb96d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 717.15,
+    "end": 722.99
+  },
+  {
+    "text": "unlimited becomes a major selling point for them. You can imagine that world in which an unlimited",
+    "uid": "de8d46439f3277b2",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 722.99,
+    "end": 728.83
+  },
+  {
+    "text": "platform is much hotter as a consumer good and people, but some people at the same time prefer having",
+    "uid": "069d97cfbd5c83f4",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 728.83,
+    "end": 736.51
+  },
+  {
+    "text": "hard limits that prevent them from becoming too addicted. So, again, who is affected? There was actually",
+    "uid": "dc316854a970d206",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 736.51,
+    "end": 744.59
+  },
+  {
+    "text": "just an article in the New York Times, I think last week about how in some measure personal human interaction",
+    "uid": "dc8dc9229717cb69",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 744.59,
+    "end": 750.11
+  },
+  {
+    "text": "is becoming a luxury good, as those with lesser opportunities are more engaged with screens,",
+    "uid": "d2827554ad1b89c7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 750.11,
+    "end": 758.99
+  },
+  {
+    "text": "right? So, you can think about the disparate impacts of this kind of future.",
+    "uid": "8a97fc244e0abb6a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 758.99,
+    "end": 764.11
+  },
+  {
+    "text": "Fortune 500 human resource departments, subscribe to a smart employer service that evaluates a person's",
+    "uid": "931e38cca0adf564",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 765.31,
+    "end": 771.87
+  },
+  {
+    "text": "suitability for your culture and the stress associated with that culture using social media posts.",
+    "uid": "9e43f678d8688b54",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 771.87,
+    "end": 779.15
+  },
+  {
+    "text": "We already kind of do this, people trolling Facebook, Instagram, etc., to understand who the potential",
+    "uid": "3a21cf56f534d550",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 779.15,
+    "end": 786.59
+  },
+  {
+    "text": "employee is, but you can imagine being this being automated through artificial intelligence. So,",
+    "uid": "b4fb64bc33c56e0b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 786.59,
+    "end": 790.91
+  },
+  {
+    "text": "all algorithms can actually identify individuals suffering from mental illness or depression. You could",
+    "uid": "936f0307b2a063ad",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 790.91,
+    "end": 798.03
+  },
+  {
+    "text": "the service could actually develop symptoms of, you could predict the development of mental illness",
+    "uid": "3e9c1380960a1456",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 798.03,
+    "end": 804.11
+  },
+  {
+    "text": "in the future based on trends in the individuals' postings. Again, you can imagine the impacts",
+    "uid": "d85694529e6fff99",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 804.11,
+    "end": 810.03
+  },
+  {
+    "text": "that that would have on workforce, on future of work, on hiring, on, and again, disparate impacts",
+    "uid": "0afe0b4e24fd6a07",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 810.03,
+    "end": 816.75
+  },
+  {
+    "text": "on different groups of people. A major social network company in the future could purchase a top-US bank",
+    "uid": "df88d7343f8e4987",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 816.75,
+    "end": 823.31
+  },
+  {
+    "text": "and become a first of its kind social credit provider. It could base mortgage loans, loan approvals,",
+    "uid": "772a5ae3018a2c3e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 823.31,
+    "end": 830.27
+  },
+  {
+    "text": "credit access, on deep data collected from its social platform, and could take into consideration credit",
+    "uid": "02f9182fb2e2cc49",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 830.27,
+    "end": 836.51
+  },
+  {
+    "text": "histories of your friends and family, as well as the locations you visited. So, imagine if you visited",
+    "uid": "c05b1c453911cb57",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 836.51,
+    "end": 844.19
+  },
+  {
+    "text": "a bar or a legal marijuana dispensary figuring into your social credit and the credit that your bank",
+    "uid": "3bcd5bbc30baa112",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 844.19,
+    "end": 851.07
+  },
+  {
+    "text": "might provide, and they could actually also do some anticanalysis of your messages and photos",
+    "uid": "7716730569e05461",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 851.07,
+    "end": 856.03
+  },
+  {
+    "text": "to actually decide whether you are generally happy, angry, anxious, or depressed, figure that into",
+    "uid": "b8a0a173aa55e75f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 856.03,
+    "end": 861.63
+  },
+  {
+    "text": "whether you get a loan as well. 25% of online orders are delivered by drone. Sounds great. It comes",
+    "uid": "219c69ef4ec353e3",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 861.63,
+    "end": 870.91
+  },
+  {
+    "text": "right to your door, but actually these drones are fitted with cameras and sensors to collect data as",
+    "uid": "c9cbc474459da6ec",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 870.91,
+    "end": 875.79
+  },
+  {
+    "text": "they fly over neighborhoods, which actually provides the drone company with additional revenue for",
+    "uid": "9d5e34fb33c2bbf0",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 875.79,
+    "end": 881.15
+  },
+  {
+    "text": "their shippers and merchants. Some individuals can actually opt out for free unlimited drone delivery",
+    "uid": "77fedccae35c556f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 881.15,
+    "end": 887.71
+  },
+  {
+    "text": "by paying, and they consent the collection of their data by doing that for the drones that fly over,",
+    "uid": "89b39826ebeb693f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 889.15,
+    "end": 894.91
+  },
+  {
+    "text": "but actually neighborhoods where the drone delivery is legally permitted or subject to the same",
+    "uid": "7248575c2ca1d9c8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 894.91,
+    "end": 899.23
+  },
+  {
+    "text": "data collection activities, even though not all of their residents or households have explicitly",
+    "uid": "7e497c772787a23d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 899.23,
+    "end": 903.95
+  },
+  {
+    "text": "consented. Again, who is impacted? What could we do to prevent this future if you think about it?",
+    "uid": "0f9a01905e829cc8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 903.95,
+    "end": 911.31
+  },
+  {
+    "text": "So, one of the tools that you can use to think about these impacts of a tech product you're building before it",
+    "uid": "fdd36c303769f3fd",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 911.31,
+    "end": 916.75
+  },
+  {
+    "text": "happens is called a futures wheel. And if you take one thing from this talk, I hope you take a lot of things",
+    "uid": "7f04b6a3641a6c51",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 916.75,
+    "end": 925.31
+  },
+  {
+    "text": "from this talk. But if you take one thing from this talk, the futures wheel is incredibly powerful tool for",
+    "uid": "790d43b2e12bcb7d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 925.31,
+    "end": 930.03
+  },
+  {
+    "text": "thinking these things through. So, put at the center your product, your change, the idea you have.",
+    "uid": "514fc7e2e73bdc47",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 930.11,
+    "end": 936.91
+  },
+  {
+    "text": "Let's go to the last example, drone delivery of orders, right, of online orders. And spin out from that,",
+    "uid": "606af2b3eb60f4b5",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 937.79,
+    "end": 944.59
+  },
+  {
+    "text": "the consequences that might happen. First order consequences. And then from each of those first order",
+    "uid": "fd14fdfc8be1242c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 944.59,
+    "end": 950.51
+  },
+  {
+    "text": "consequences, think okay, and then what happens, and then what happens, and then what happens, and then",
+    "uid": "c50ef4f5cb6d84ba",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 950.51,
+    "end": 955.63
+  },
+  {
+    "text": "what happens from each of these nodes on the futures wheel. So, I'll give you just two quick examples",
+    "uid": "35c72b5265f26477",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 955.71,
+    "end": 962.35
+  },
+  {
+    "text": "that I easily pulled actually from the web by just Googling futures wheel. So, the first is that there are",
+    "uid": "499caf515e3ac634",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 962.35,
+    "end": 970.99
+  },
+  {
+    "text": "increased choices for renewable energy, which sounds like an incredibly positive development in the world,",
+    "uid": "efbeb84bfce1e551",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 970.99,
+    "end": 980.03
+  },
+  {
+    "text": "right. And we would all likely think, well, increase choices for renewable energy as positive as a",
+    "uid": "a92ed29646e29e26",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 980.03,
+    "end": 987.63
+  },
+  {
+    "text": "positive development. So, put that in the center of your futures wheel. And then spin out the first order",
+    "uid": "edae1b22f2120aa1",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 987.63,
+    "end": 992.67
+  },
+  {
+    "text": "consequences of that. So, you can imagine new companies emerging in the energy marketplace, oil prices,",
+    "uid": "daf890a81a47d943",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 992.67,
+    "end": 998.83
+  },
+  {
+    "text": "falling, monopolies being dismantled, and technologies being developed based on geography and politics.",
+    "uid": "a9d5bbfe7752d164",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 998.83,
+    "end": 1005.47
+  },
+  {
+    "text": "Again, those all sound really positive as first order consequences. But when you spin some of those out,",
+    "uid": "30b2862ce1b75770",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1005.55,
+    "end": 1011.79
+  },
+  {
+    "text": "you actually get to some negative consequences now on the second order. Right. So, if oil prices fall,",
+    "uid": "e3fd260dd882b7f8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1012.67,
+    "end": 1017.87
+  },
+  {
+    "text": "jobs can disappear in the oil industry. And some poor countries can actually become oil dependent,",
+    "uid": "e42dfeeaf10cec9c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1018.99,
+    "end": 1024.99
+  },
+  {
+    "text": "right, because oil is now cheaper. So, poor countries can access more oil rather than renewables,",
+    "uid": "74adc1dbd7fb1e2a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1024.99,
+    "end": 1030.51
+  },
+  {
+    "text": "and they become oil dependent as a result. Right. And actually you can imagine also on loss of monopolies",
+    "uid": "e50eba3400aee214",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1030.51,
+    "end": 1037.07
+  },
+  {
+    "text": "that actually were in poverty could result for countries who are not competitive in the marketplace.",
+    "uid": "fbb0ac6c91a91b4f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1037.07,
+    "end": 1042.43
+  },
+  {
+    "text": "Right. So, it takes this tool of figuring out first order, then second order, third order consequences.",
+    "uid": "f1b71df788405669",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1043.15,
+    "end": 1049.63
+  },
+  {
+    "text": "And in order sometimes to see the negative impacts. So, again, we imagine renewables good,",
+    "uid": "5bb01f18fe598165",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1049.63,
+    "end": 1054.75
+  },
+  {
+    "text": "first order good. When we get to second and third order, oftentimes on the horizon,",
+    "uid": "8ab03849c5e0c47b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1055.31,
+    "end": 1059.55
+  },
+  {
+    "text": "you can see potential risks out ahead. Here's another one. Sorry if this is a legible. Again,",
+    "uid": "4fd23bde79511c39",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1059.63,
+    "end": 1067.55
+  },
+  {
+    "text": "I just pulled it from the web. At the center of this future's wheel is open source technology.",
+    "uid": "4700aefb37b72682",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1067.55,
+    "end": 1073.47
+  },
+  {
+    "text": "And generally, you know, popular sentiment is that open source technology is a net good. It's",
+    "uid": "2ff412ee1bcd85e0",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1074.67,
+    "end": 1081.15
+  },
+  {
+    "text": "positive development, et cetera. I'm not going to go through this entire future's wheel, but I just want to",
+    "uid": "08b82d5bf8fc7708",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1081.15,
+    "end": 1085.55
+  },
+  {
+    "text": "highlight a few things further out on the degrees of consequence and impacts here. So, if you get",
+    "uid": "b8a649354adeeab0",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1085.55,
+    "end": 1091.79
+  },
+  {
+    "text": "out far enough, you have, you know, untraceable terrorism. You have companies failing. You have,",
+    "uid": "40cc7f247c70f8dc",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1091.79,
+    "end": 1100.83
+  },
+  {
+    "text": "you know, loss of jobs. You have lack of attribution of product development. You have some potential",
+    "uid": "ba2de3bc91e7d7a4",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1101.39,
+    "end": 1106.99
+  },
+  {
+    "text": "negative impacts from open source technology that might not have been expected right at the outset.",
+    "uid": "2241853a242c5a4b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1106.99,
+    "end": 1113.63
+  },
+  {
+    "text": "So, again, just a useful tool and starting to think through future impacts.",
+    "uid": "8dfb2c1fefc09193",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1113.71,
+    "end": 1117.63
+  },
+  {
+    "text": "Second tool, risk scanning. So, we created eight risk zones to look at when thinking about your products.",
+    "uid": "0753fdfe0b28443a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1119.79,
+    "end": 1129.23
+  },
+  {
+    "text": "And I'm going to go through each of these in some detail, but just to highlight them here.",
+    "uid": "dc832d5e1df2741f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1129.23,
+    "end": 1133.07
+  },
+  {
+    "text": "Risk zone one, truth, disinformation and propaganda, two, addiction and the dopamine economy. Three",
+    "uid": "0dc35f43fc226df7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1133.07,
+    "end": 1139.71
+  },
+  {
+    "text": "economic and asset inequalities. Four machine ethics and algorithmic bias. Five, the surveillance state.",
+    "uid": "1641b128f1cd986f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1139.79,
+    "end": 1146.91
+  },
+  {
+    "text": "Six, data control and monetization. Seven implicit trust and user understanding and eight",
+    "uid": "0ea6ce9723377ba5",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1146.91,
+    "end": 1153.31
+  },
+  {
+    "text": "hateful and criminal actors. So, by dividing into these eight risk zones, we could sort of identify spaces",
+    "uid": "c0cb6f77747342d3",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1153.31,
+    "end": 1160.75
+  },
+  {
+    "text": "where hard to anticipate and unwelcome consequences are most likely to emerge, say, over the next 10 years.",
+    "uid": "3707cfdeca0e3af5",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1160.75,
+    "end": 1168.11
+  },
+  {
+    "text": "Now, I want to stipulate, we did not include every area where things might go wrong. Right? So,",
+    "uid": "d85fbd800bbd0564",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1168.19,
+    "end": 1175.07
+  },
+  {
+    "text": "you'll notice here environmental impacts are not included. Again, this was meant to be the intersection",
+    "uid": "3787e87ce0121ca7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1175.47,
+    "end": 1180.11
+  },
+  {
+    "text": "of both on hard anticipate and unwelcome. We actually know that environmental impacts are likely to come.",
+    "uid": "d0c632a43f619b99",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1180.11,
+    "end": 1187.71
+  },
+  {
+    "text": "So, that's not hard to anticipate. These risk zones are really just meant to represent those hard",
+    "uid": "8981adad7fc72d69",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1187.71,
+    "end": 1192.51
+  },
+  {
+    "text": "anticipate areas. So, let's talk about risk zone one. Truth information and propaganda. And in this",
+    "uid": "0bc77f1c69985830",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1192.59,
+    "end": 1199.79
+  },
+  {
+    "text": "future, shared facts are under attack. And the primary mode of attacking today, these kinds of shared facts,",
+    "uid": "a2630f471cadcca4",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1199.79,
+    "end": 1212.43
+  },
+  {
+    "text": "has been fake video. Right? So, this is a signal that we see on the landscape that says this is a",
+    "uid": "7387da471dc6a577",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1213.07,
+    "end": 1221.23
+  },
+  {
+    "text": "potential risk zone in the near term. Right? So, everything from fake news to bots that spread",
+    "uid": "5fb42edf751b6835",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1221.23,
+    "end": 1228.83
+  },
+  {
+    "text": "propaganda and deep fakes, which are highly convincing video that's algorithmically altered,",
+    "uid": "da111d919e715361",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1228.83,
+    "end": 1236.27
+  },
+  {
+    "text": "that replaces people's speech and facial expressions and identities creates fake proof of actions or",
+    "uid": "d0b1cdedd0161cfc",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1236.27,
+    "end": 1242.27
+  },
+  {
+    "text": "speech that actually never happened. Right? So, individuals today are highly motivated to subvert the truth",
+    "uid": "68ee4ccc2879eade",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1242.27,
+    "end": 1248.91
+  },
+  {
+    "text": "that massive scale, especially for political lens and new technologies will make it easier to spread,",
+    "uid": "039c68646a64f18f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1248.91,
+    "end": 1255.63
+  },
+  {
+    "text": "lies, and undermine trust. So, over the next decade, what else could be faked via new technologies?",
+    "uid": "0581a154fb93b9bf",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1255.63,
+    "end": 1262.75
+  },
+  {
+    "text": "So, if this is the risk zone you're scanning for, what questions should you be asking? First,",
+    "uid": "9e517658fb2e87c4",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1263.95,
+    "end": 1269.47
+  },
+  {
+    "text": "what type of data do users expect you to accurately share a measure or collect? Two, how could bad",
+    "uid": "25616e47e0eacaf8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1270.43,
+    "end": 1277.39
+  },
+  {
+    "text": "actors use your tech to subvert or attack the truth? What could become the equivalent of fake news",
+    "uid": "e9d9adef7748b6dd",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1277.39,
+    "end": 1284.27
+  },
+  {
+    "text": "or deep fakes on your platform? How could someone use your technology to undermine trust in social",
+    "uid": "5fc61526a6400f89",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1284.27,
+    "end": 1290.43
+  },
+  {
+    "text": "institutions? And lastly, if you can imagine the form that that misinformation might take on your platform,",
+    "uid": "18a6bfadc22b7f50",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1290.43,
+    "end": 1298.03
+  },
+  {
+    "text": "even if your tech is apolitical, how could it be politicized? In some way, to destabilize",
+    "uid": "4e423b4b51d22c30",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1298.75,
+    "end": 1305.31
+  },
+  {
+    "text": "a government, a community, a regime, etc. So, this is just, again, checklist, thinking about your product,",
+    "uid": "caf534e764906e78",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1305.31,
+    "end": 1312.27
+  },
+  {
+    "text": "questions to ask in risk zone number one. Risk zone number two, addiction in the dopamine economy. So,",
+    "uid": "192d3f55051e11e9",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1313.15,
+    "end": 1321.15
+  },
+  {
+    "text": "in this risk zone, we all have sort of come to understand that time spent online, maximize this profits over",
+    "uid": "b89c2148384a9458",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1321.15,
+    "end": 1328.19
+  },
+  {
+    "text": "well-being. And you can see that in things like research by common sense media, which shows that",
+    "uid": "31b040b25820eafb",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1328.19,
+    "end": 1335.07
+  },
+  {
+    "text": "actually now the average teenager spends nine hours a day using some form of social media.",
+    "uid": "14d211b9a5c6a315",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1335.07,
+    "end": 1341.31
+  },
+  {
+    "text": "And actually, at the same time, studies show that people achieve their maximal intended use of an app,",
+    "uid": "c2c8baf2ff3d731b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1343.31,
+    "end": 1350.11
+  },
+  {
+    "text": "like Instagram or Snapchat, after 11 minutes. And actually, after 11 minutes, overall happiness,",
+    "uid": "7722951babce56b7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1350.11,
+    "end": 1357.87
+  },
+  {
+    "text": "decreases. So, how can you actually design tools to advocate for user happiness?",
+    "uid": "51e08899ece7d82b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1358.27,
+    "end": 1364.11
+  },
+  {
+    "text": "Half-line and online, over keeping eyes glued to the screen. And so, the questions in risk zone number two,",
+    "uid": "183843c95bb141ed",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1364.75,
+    "end": 1371.15
+  },
+  {
+    "text": "that you probably want to be asking, are does your business model you maximize user attention and engagement?",
+    "uid": "69c81671499bed65",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1371.15,
+    "end": 1379.31
+  },
+  {
+    "text": "You know, essentially, the more the better. And if so, is that good for people?",
+    "uid": "e37eee7db8293d48",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1380.03,
+    "end": 1384.91
+  },
+  {
+    "text": "What does extreme use look like? And how would you know moderate versus extreme use?",
+    "uid": "625db39e35296287",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1385.47,
+    "end": 1391.47
+  },
+  {
+    "text": "How could you design a system that actually encourages moderate use? And lastly, is there potential",
+    "uid": "89c1ff590ec76633",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1391.87,
+    "end": 1399.79
+  },
+  {
+    "text": "actually for negative material, for toxic material, to actually increase and drive levels of engagement",
+    "uid": "7e4874d6923a118a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1399.79,
+    "end": 1407.55
+  },
+  {
+    "text": "to maximize time spent on the platform? For questions to ask around addiction and the dopamine and",
+    "uid": "f9114a7e4682efa6",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1407.55,
+    "end": 1414.59
+  },
+  {
+    "text": "come in, I'm going to roll through these a little more quickly now for each of these just so that I can",
+    "uid": "828fbee5265c1343",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1414.59,
+    "end": 1419.79
+  },
+  {
+    "text": "introduce all of the eight risk zones. So, economic and asset inequalities, right? Where new technology can",
+    "uid": "d5e6b15bea56bb3d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1419.79,
+    "end": 1427.79
+  },
+  {
+    "text": "democratize access, but it can obviously also exacerbate inequality. In this world,",
+    "uid": "b02acebf81b5698c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1427.79,
+    "end": 1434.75
+  },
+  {
+    "text": "you can get cheaper insurance by being white, right? In 2017, Oxfam International showed that eight",
+    "uid": "da651db293239ef9",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1435.39,
+    "end": 1443.07
+  },
+  {
+    "text": "people owned as much wealth as the entire bottom half of the world's population. Right? So, wealth concentration",
+    "uid": "bc629ca7354aa1c6",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1443.07,
+    "end": 1449.55
+  },
+  {
+    "text": "distribution is an issue and this new technology can provide income opportunity and balance distribution,",
+    "uid": "daef9bed83034be3",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1449.55,
+    "end": 1456.99
+  },
+  {
+    "text": "but it can also cater only to high income groups and eliminate low income jobs. So, what questions should",
+    "uid": "67ffe8d27bf8b458",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1456.99,
+    "end": 1463.63
+  },
+  {
+    "text": "you be asking? Which groups are disproportionately impacted? How might workers be impacted on your platform",
+    "uid": "f76a9f4d298ec39f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1463.71,
+    "end": 1474.03
+  },
+  {
+    "text": "by virtue of the type of form or contract that they are given, contractors versus full-time employees?",
+    "uid": "b7d9105b65809794",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1474.03,
+    "end": 1481.15
+  },
+  {
+    "text": "How might communities with fewer resources actually not be able to access your platform or be",
+    "uid": "36368197510dc0b6",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1481.15,
+    "end": 1488.43
+  },
+  {
+    "text": "to have too much access to your platform, right? To think about how distribution of wealth is impacting",
+    "uid": "d6a7c20b268fcc12",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1488.43,
+    "end": 1495.07
+  },
+  {
+    "text": "both the halves and the half-notes. In risk zone four, we're looking at machine ethics and algorithmic bias,",
+    "uid": "6db5fe869f39e088",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1495.07,
+    "end": 1502.91
+  },
+  {
+    "text": "right? So, in this world, human bias is amplified through artificial intelligence, as in the case recently,",
+    "uid": "aa24f1aef4007b30",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1502.91,
+    "end": 1509.79
+  },
+  {
+    "text": "where Amazon scrapped its HR recruiting tool that actually said if you had the word women appearing",
+    "uid": "f526e623e62f96a7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1509.79,
+    "end": 1518.03
+  },
+  {
+    "text": "anywhere on your resume, you were actually thinking it was 27 times less likely to receive an interview",
+    "uid": "6bd5ec8cc4b0afa5",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1518.11,
+    "end": 1526.59
+  },
+  {
+    "text": "than if that word did not appear as a keyword on the resume. The AI trained itself.",
+    "uid": "44d9d7bbec4fc17b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1526.59,
+    "end": 1531.23
+  },
+  {
+    "text": "But actually, the application of AI in critical domains like welfare and education, employment and",
+    "uid": "07793e17385f39e8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1533.23,
+    "end": 1539.87
+  },
+  {
+    "text": "criminal justice, criminal justice has intensified. Right? So, the idea that technology is neutral",
+    "uid": "a2e4deaba721d84f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1539.87,
+    "end": 1546.83
+  },
+  {
+    "text": "and that this is not a product of human action is no longer really acceptable because we actually",
+    "uid": "dce11570a1238eba",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1546.91,
+    "end": 1551.31
+  },
+  {
+    "text": "sort of know that human decisions are being used to make the models. Human decisions are using to categorize",
+    "uid": "5688777ae4552743",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1551.31,
+    "end": 1557.15
+  },
+  {
+    "text": "the data. Human decisions are being used and the algorithm, you can't blame the algorithm any longer.",
+    "uid": "d1d160e6bad2457f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1557.15,
+    "end": 1566.91
+  },
+  {
+    "text": "So, at the core of the questions you want to be asking are, you know, do use deep data and machine learning",
+    "uid": "f1b21f0efe67a6ef",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1566.91,
+    "end": 1574.99
+  },
+  {
+    "text": "and are their gaps in the data that historical biases might actually be biasing the technology. So,",
+    "uid": "e3f2c22b9cf74902",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1574.99,
+    "end": 1580.91
+  },
+  {
+    "text": "for example, the Compass Criminal Justice Profiling System was sentencing black defendants far more frequently",
+    "uid": "40557335611e89a2",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1580.91,
+    "end": 1589.95
+  },
+  {
+    "text": "than white defendants into much more severe sentences because it was using a data set that showed,",
+    "uid": "aa04fa6306e4fa89",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1589.95,
+    "end": 1594.91
+  },
+  {
+    "text": "you know, that black defendants were more likely to commit crimes again in the future. Well, it turns out",
+    "uid": "ace6bae76f0cc245",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1596.67,
+    "end": 1602.67
+  },
+  {
+    "text": "that if you're using historical data about crime and its incidents, right, and you're using that",
+    "uid": "448f79d5a76830eb",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1602.75,
+    "end": 1610.27
+  },
+  {
+    "text": "to project future, you're actually just reinforcing the bias of what has happened historically as opposed",
+    "uid": "540ca2ff5de45ed0",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1610.27,
+    "end": 1616.19
+  },
+  {
+    "text": "to countering that bias by understanding that actually past is not future. Does that make sense? Right?",
+    "uid": "076141b5ad487fbc",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1616.19,
+    "end": 1623.71
+  },
+  {
+    "text": "Like black defendants, yes, have typically had higher recidivism rates because of historical,",
+    "uid": "68336dbbae20cb2d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1624.67,
+    "end": 1632.91
+  },
+  {
+    "text": "deeply entrenched economic and sociopolitical inequality, right? But if you use that to predict",
+    "uid": "ecdfd802fd480f05",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1632.91,
+    "end": 1639.95
+  },
+  {
+    "text": "future and sentence people accordingly, you're just reinforcing that bias. Have you seen instances of",
+    "uid": "9b26c8454bc574e6",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1639.95,
+    "end": 1647.31
+  },
+  {
+    "text": "that bias actually enter your products algorithms? Is it actually amplifying that bias and who's",
+    "uid": "23b6cf3176619f0b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1647.31,
+    "end": 1654.91
+  },
+  {
+    "text": "responsible for it? Do you have a diverse team that can spot those risks early enough to understand that",
+    "uid": "44d5eb2ae4f63308",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1654.91,
+    "end": 1662.27
+  },
+  {
+    "text": "you may be perpetuating those biases? And actually, how will you push back against the blind preference",
+    "uid": "ebca423c3287d6e9",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1662.27,
+    "end": 1668.35
+  },
+  {
+    "text": "for AI-developed systems and do you have transparency into that system? And is there actual recourse",
+    "uid": "c44daba377d7bfb8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1668.35,
+    "end": 1674.43
+  },
+  {
+    "text": "for people who feel like they've been negatively impacted? In Rick's Zone 5, we've got a surveillance",
+    "uid": "3d05a5bd275b392a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1674.43,
+    "end": 1680.35
+  },
+  {
+    "text": "state set of issues where surveillance tools and facial recognition, right, today are empowering the",
+    "uid": "2cbcbbd68fa84485",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1680.35,
+    "end": 1686.83
+  },
+  {
+    "text": "powerful at the expense of the powerless. So recent examples of social bots being co-opted by",
+    "uid": "be6f5f62aa5f1638",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1686.83,
+    "end": 1693.55
+  },
+  {
+    "text": "governments and militaries for use in attacking their opposition, armies of automated software-driven",
+    "uid": "6a3e08b426556e51",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1693.55,
+    "end": 1699.87
+  },
+  {
+    "text": "profiles are used to target journalists and activists and citizens using Western surveillance tools.",
+    "uid": "05c3704dbe2997c2",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1699.87,
+    "end": 1705.71
+  },
+  {
+    "text": "So in this risk zone, you need to be asking about your product how might a government or military body",
+    "uid": "f0770b0d68cc89e3",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1706.91,
+    "end": 1712.99
+  },
+  {
+    "text": "use this technology to increase their capacity of surveillance citizens? Who besides the government",
+    "uid": "3672f926d2c9311c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1712.99,
+    "end": 1719.55
+  },
+  {
+    "text": "of the military might actually have access to those tools and want to increase the surveillance of",
+    "uid": "411ca76c17eb2570",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1719.55,
+    "end": 1723.55
+  },
+  {
+    "text": "its citizens as well? Who would they track and why? Are you creating data? That actually could follow",
+    "uid": "ac1a6f8a02b72d5c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1723.55,
+    "end": 1729.87
+  },
+  {
+    "text": "people throughout their lifetimes and actually, well, the data your tech is generating, have long-term",
+    "uid": "0eb2c8160775829c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1729.87,
+    "end": 1735.63
+  },
+  {
+    "text": "consequences for the freedom of reputation of those individuals? And who would you not want to use",
+    "uid": "8774f8de9fd53a62",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1735.63,
+    "end": 1741.63
+  },
+  {
+    "text": "your data to surveil? And what can you do to proactively protect that data from being accessible to those",
+    "uid": "f47a2132fe2f2a14",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1741.63,
+    "end": 1748.35
+  },
+  {
+    "text": "malicious actors who might not want to have access to it? In risk zone six, we're talking about",
+    "uid": "b73ce9361417cb61",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1748.99,
+    "end": 1754.19
+  },
+  {
+    "text": "data controlling monetization where users actually lack the control to share, monetize, and benefit",
+    "uid": "d8a820607caf7e0e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1754.19,
+    "end": 1760.19
+  },
+  {
+    "text": "from their data alongside the tech companies that create and use it. Right, so we've seen this actually",
+    "uid": "96552cf03bc9785d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1760.19,
+    "end": 1766.99
+  },
+  {
+    "text": "and we understand that users expect access to tools now for acquiring, sharing, interpreting and",
+    "uid": "a2c5578ca6cd0120",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1766.99,
+    "end": 1774.35
+  },
+  {
+    "text": "verifying their information that's been collected about them. And we expect that there will be an",
+    "uid": "41a925075d24f731",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1774.35,
+    "end": 1782.43
+  },
+  {
+    "text": "increasing level of agency around data from users in the future. So if you're creating a product that",
+    "uid": "c27c85fece31a7ea",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1782.43,
+    "end": 1790.19
+  },
+  {
+    "text": "collects data and that's just about every product these days, what are the questions you want to be asking?",
+    "uid": "379ddbcd2a4d085c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1790.19,
+    "end": 1795.87
+  },
+  {
+    "text": "What data are you actually collecting? Do you need to collect it or would you just like to collect it?",
+    "uid": "cddd4dbcf000ec2f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1797.07,
+    "end": 1802.03
+  },
+  {
+    "text": "Are you selling it? And if you're selling it to who and how might they go about using it?",
+    "uid": "60fe49b2d137244b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1802.03,
+    "end": 1806.75
+  },
+  {
+    "text": "To your users have the right to access the data you're collecting on them and could you build a way into",
+    "uid": "65010ab09c8edf80",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1806.75,
+    "end": 1812.19
+  },
+  {
+    "text": "your platform or product to give them the right to capture, share, or monetize their data independently",
+    "uid": "84a4e49e29a13fbb",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1812.19,
+    "end": 1817.87
+  },
+  {
+    "text": "outside from you? What could bad actors do with this data if they had access to it? What could a government do with the",
+    "uid": "8f1cb698692da3c5",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1817.87,
+    "end": 1824.83
+  },
+  {
+    "text": "data if they were granted access to it? These are actually questions that we've seen come along on the",
+    "uid": "92ae977d7d5f29b7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1824.83,
+    "end": 1830.51
+  },
+  {
+    "text": "landscape recently, particularly with access to people's phones or other types of requests from the government for",
+    "uid": "e7a09357d006ca0e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1830.51,
+    "end": 1838.59
+  },
+  {
+    "text": "people's data. In Vizzo 7 we're talking about implicit trust and user understanding where",
+    "uid": "c25cc0ed91ff2975",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1838.59,
+    "end": 1845.23
+  },
+  {
+    "text": "misuse of data is a serious problem actually because users don't trust companies.",
+    "uid": "508794d05560b04c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1845.23,
+    "end": 1849.95
+  },
+  {
+    "text": "With opaque terms of service and the inability for users to actually understand how a popular",
+    "uid": "7034790dc910d1f7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1850.51,
+    "end": 1862.03
+  },
+  {
+    "text": "apper platform is working, how they're engaged when it's optimized, what's being tracked and collected.",
+    "uid": "9dd9555173422663",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1862.03,
+    "end": 1866.67
+  },
+  {
+    "text": "It's really hard for users to have clarity on what are the terms and companies can expect backlash.",
+    "uid": "709dec4cefda8588",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1866.67,
+    "end": 1876.03
+  },
+  {
+    "text": "Actually, from the users of their products and from employees actually when those terms of service",
+    "uid": "aa0ce4451fb19c7d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1876.03,
+    "end": 1882.91
+  },
+  {
+    "text": "are violated as in the case here with Uber. So the questions to ask, does the technology your building",
+    "uid": "7c04ca9737d816ec",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1882.91,
+    "end": 1890.35
+  },
+  {
+    "text": "have a clear code of rights and are your terms of service easy to read access and understand? Is there a version of",
+    "uid": "fce183feff2c47b5",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1890.35,
+    "end": 1897.87
+  },
+  {
+    "text": "your product that's available to users if they don't want to sign the user agreement? And could you",
+    "uid": "f6bf0b3588f063fc",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1897.87,
+    "end": 1902.59
+  },
+  {
+    "text": "imagine building a product that would do that? Does your technology actually do anything you don't even know about?",
+    "uid": "f3c7635b1cde029b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1902.59,
+    "end": 1908.43
+  },
+  {
+    "text": "It's hard to imagine but this is actually the case and actually",
+    "uid": "fe06a10963a3a9fd",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1909.63,
+    "end": 1914.03
+  },
+  {
+    "text": "if users object to the idea of their actions being monetized is a possible to create a sustainable model that builds trust",
+    "uid": "8d7419772ce3c37b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1916.03,
+    "end": 1922.67
+  },
+  {
+    "text": "with them and are all users treated equally. So could you handle consumer demands or government regulations that",
+    "uid": "3aea133135360b7d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1922.67,
+    "end": 1930.59
+  },
+  {
+    "text": "require all users to be treated equally or at least transparently could your product or platform actually do that?",
+    "uid": "3461a06b8975ee83",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1930.67,
+    "end": 1938.35
+  },
+  {
+    "text": "And lastly, Resilinate hateful and criminal actors, where online tools enabled global dissemination",
+    "uid": "6c266e279a25e10e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1939.07,
+    "end": 1946.91
+  },
+  {
+    "text": "of terrorism, hate, bullying, radicalization, trolling, doxing and much more. We saw this very",
+    "uid": "eca1908b8e4aaa76",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1946.91,
+    "end": 1952.75
+  },
+  {
+    "text": "unfortunately most recently with the massacre in New Zealand where social media platforms were used to",
+    "uid": "163ad281fabd04e8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1952.75,
+    "end": 1959.15
+  },
+  {
+    "text": "disseminate terrorist activities and used to radicalize the shooter in the first place.",
+    "uid": "6b2870bd3c8112d3",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1959.15,
+    "end": 1963.71
+  },
+  {
+    "text": "So using platforms to actually perpetuate these kinds of behaviors globally and there's a responsibility as a",
+    "uid": "9760f8318e497900",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1964.75,
+    "end": 1973.71
+  },
+  {
+    "text": "foresight tool to be thinking about those possibilities before they happen. So how could someone use your",
+    "uid": "c51ff0ee8760146d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1973.71,
+    "end": 1980.67
+  },
+  {
+    "text": "technology to bully stalker harass people? What kinds of ransomware theft financial crimes or fraud",
+    "uid": "ecc0038eaa79a63d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1980.75,
+    "end": 1989.63
+  },
+  {
+    "text": "could come around by use of your platform? Do you, as a technology maker, have an ethical responsibility",
+    "uid": "1622baf8e9f8ef8f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1989.63,
+    "end": 1997.95
+  },
+  {
+    "text": "to make it for bad actors to make it harder for bad actors to act on your platform? How could",
+    "uid": "6c4565fa18839047",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 1997.95,
+    "end": 2003.71
+  },
+  {
+    "text": "organize hate groups use your technology to spread hate or recruit others? And lastly,",
+    "uid": "76645f43d9706114",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2003.71,
+    "end": 2010.35
+  },
+  {
+    "text": "what are the risks of your technology being weaponized? What responsibility do you have to prevent it?",
+    "uid": "47712a582fff27e8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2011.71,
+    "end": 2017.31
+  },
+  {
+    "text": "So if you go through those eight risk zones and there's a lot more embedded in each of them, you can download",
+    "uid": "b342c23200e35a43",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2018.11,
+    "end": 2023.47
+  },
+  {
+    "text": "this full tool kit from ethicalos.org. There's a lot more embedded in each of those risk zones, but if you go",
+    "uid": "2fda17ec127d3cdc",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2023.47,
+    "end": 2030.99
+  },
+  {
+    "text": "through that, here's three things to do. Share it with your team. Go through this as an exercise with",
+    "uid": "c738af97ec974833",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2030.99,
+    "end": 2037.39
+  },
+  {
+    "text": "your team, go through the risk zones, understand the impact of your technology at your team level. You could",
+    "uid": "10cece12e228350f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2037.39,
+    "end": 2043.95
+  },
+  {
+    "text": "consider adding some of those top questions to your product requirements, document or any other",
+    "uid": "6f7de70a7cef0290",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2044.67,
+    "end": 2049.55
+  },
+  {
+    "text": "document that you set out at the beginning of the development cycle to think about which questions you",
+    "uid": "a4a01fb809a2096d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2049.55,
+    "end": 2054.75
+  },
+  {
+    "text": "should be asking all along the way as you develop and before you ship. And lastly, you should scan",
+    "uid": "5c23bba542a05a17",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2054.75,
+    "end": 2060.03
+  },
+  {
+    "text": "the horizon actually as an ongoing exercise for additional information about the risk zones. And if you're",
+    "uid": "86b154ebf7abebda",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2060.03,
+    "end": 2066.67
+  },
+  {
+    "text": "doing that, you're doing the work of the ethical OS and thinking about the consequences of the tech",
+    "uid": "35231d8f4481ec31",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2066.67,
+    "end": 2071.63
+  },
+  {
+    "text": "before you ship. The last tool we built in ethical OS is actually just some ideas for how to do some",
+    "uid": "e051c7385802447f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2071.63,
+    "end": 2079.71
+  },
+  {
+    "text": "alternative ways of future proofing. So thinking about best practices that could help the tech",
+    "uid": "97e78c4adbb3adec",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2079.71,
+    "end": 2085.55
+  },
+  {
+    "text": "community mitigate risk at scale. So these are some ideas for industry wide efforts to create products that",
+    "uid": "22dc177bf2aa59bb",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2085.55,
+    "end": 2093.55
+  },
+  {
+    "text": "you know have a company and humanities best interests in mind. So these are just kind of pie in the sky",
+    "uid": "36a45e0212560028",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2093.55,
+    "end": 2099.87
+  },
+  {
+    "text": "ideas. There's a lot more actually in the ethical OS, but here are a few to consider. So one is, you know,",
+    "uid": "14bbe3f1c96735ae",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2099.87,
+    "end": 2107.92
+  },
+  {
+    "text": "a hypocrotic oath for data workers. So you could imagine a world where anyone working with data took an oath",
+    "uid": "963b7aaf36d848ad",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2107.92,
+    "end": 2114.24
+  },
+  {
+    "text": "to protect the data of its users. So if you were going to develop such a thing, what commitments would",
+    "uid": "ef7501004a888c05",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2114.24,
+    "end": 2120.4
+  },
+  {
+    "text": "it include, what rituals would be associated with taking the oath in the first place. It's actually a",
+    "uid": "483e661561eb3ac7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2120.4,
+    "end": 2127.28
+  },
+  {
+    "text": "beautiful ceremony for civil engineers in Canada that called the order of the iron ring. And when you",
+    "uid": "298824582e8b6a10",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2127.28,
+    "end": 2134.0
+  },
+  {
+    "text": "become a civil engineer in Canada, you're presented a ring that is apocryphly made from the metal",
+    "uid": "1958f253cf25aa25",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2134.0,
+    "end": 2140.32
+  },
+  {
+    "text": "of a collapsed bridge. And you're meant to wear the ring on your right hand, your drafting hand, so that all",
+    "uid": "79abeeb22b5aa5c5",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2140.32,
+    "end": 2146.32
+  },
+  {
+    "text": "along the way through your work as a civil engineer you keep in mind the ethical responsibility to the people",
+    "uid": "e21ff3b4b78e6c99",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2146.32,
+    "end": 2151.76
+  },
+  {
+    "text": "who will be crossing your bridges or living in your buildings. And so you can imagine building rituals like",
+    "uid": "ca5ccfc9371de9fd",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2151.76,
+    "end": 2157.36
+  },
+  {
+    "text": "this for a hypocrotic oath for data scientists or data workers more generally. Second, tech companies",
+    "uid": "d6aa4a28fe0c318f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2157.36,
+    "end": 2163.68
+  },
+  {
+    "text": "have bounties for bugs. If you find a bug for Microsoft, they will pay you to have found that bug.",
+    "uid": "2bd218969a68e242",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2163.68,
+    "end": 2169.52
+  },
+  {
+    "text": "Could you imagine actually building ethical bounties as well for identifying risks in these",
+    "uid": "f669ebdbaa84d13e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2169.52,
+    "end": 2175.6
+  },
+  {
+    "text": "risks zones or any others? How would somebody claim that bounty? What should they be paid?",
+    "uid": "0d2583fb743d632e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2175.6,
+    "end": 2181.6
+  },
+  {
+    "text": "And actually who in the company would be responsible for assessing whether that risk identified",
+    "uid": "88224187dd23ae97",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2182.56,
+    "end": 2187.6
+  },
+  {
+    "text": "was actually a risk that needed to be mitigated in the first place? You could imagine also a list for employees",
+    "uid": "64f8f564e7d0d5ee",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2187.6,
+    "end": 2195.04
+  },
+  {
+    "text": "within a company of red flags that absolutely required running up the flagpole or pulling the metaphorical",
+    "uid": "470899b13d302d1b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2195.04,
+    "end": 2200.88
+  },
+  {
+    "text": "red handle. So what could go on that list? Who would create it and update it? And would it be shared",
+    "uid": "8d34a1d831af058b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2200.88,
+    "end": 2209.36
+  },
+  {
+    "text": "across a company? Would it be public? Would it be proprietary? Would each company have it?",
+    "uid": "6ca3c3b191892e30",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2209.36,
+    "end": 2214.16
+  },
+  {
+    "text": "You know, these are questions to think about as we think about resilience building actually as a",
+    "uid": "34f825662f336829",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2214.16,
+    "end": 2218.08
+  },
+  {
+    "text": "system of companies and product makers and developers etc. Now last idea we had was just, you know,",
+    "uid": "e0dd97e6d5027664",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2218.08,
+    "end": 2225.2
+  },
+  {
+    "text": "creating a natural licensure for technologists. So, you know, you could as lawyers and doctors and a whole",
+    "uid": "73d03713bfe0fa9b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2225.2,
+    "end": 2232.32
+  },
+  {
+    "text": "bunch of other professions have licensed to operate. And actually if you behave unethically,",
+    "uid": "ebfd3ad43dea90ce",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2232.32,
+    "end": 2237.04
+  },
+  {
+    "text": "you can be stripped of that license and no longer be able to access the privileges of that profession,",
+    "uid": "8eceb54151ea4713",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2237.04,
+    "end": 2243.44
+  },
+  {
+    "text": "could you develop a similar thing for technologists? And if you did, what kinds of things would actually",
+    "uid": "43ebca1975a289c4",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2243.44,
+    "end": 2250.08
+  },
+  {
+    "text": "cause you to lose a license? Medical medical medical medical medical medical practice causes you to lose a",
+    "uid": "f50dc751c5b50fe4",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2250.08,
+    "end": 2255.44
+  },
+  {
+    "text": "license if you're a doctor, what would cause you to lose your license as a technologist? So all of this to wrap up",
+    "uid": "16781594ed21afbe",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2255.44,
+    "end": 2262.8
+  },
+  {
+    "text": "is a way of thinking about what's hot and what's not in ethics with credit to my friend Jake",
+    "uid": "8260a9ca7295afab",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2262.88,
+    "end": 2272.0
+  },
+  {
+    "text": "Metcalf for this list. So what's hot? Show us your work. Show us how you got to this decision with",
+    "uid": "7960d478cf40bd40",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2272.0,
+    "end": 2280.72
+  },
+  {
+    "text": "transparency and what's not is follow our principles blindly. What's hot is global adaptability",
+    "uid": "f51a3801e4fc0585",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2280.72,
+    "end": 2286.96
+  },
+  {
+    "text": "and interoperability of platforms as opposed to adherence to Western canon only as thinking about ethics.",
+    "uid": "9c6598be8c63be6d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2286.96,
+    "end": 2293.92
+  },
+  {
+    "text": "And instead of thinking about Western canon of ethics, thinking about societal impact more broadly.",
+    "uid": "b2332d8c862dcb7a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2293.92,
+    "end": 2297.92
+  },
+  {
+    "text": "What's hot is defining the due diligence that process of discernment, the process of thinking through",
+    "uid": "81ae798db1506b19",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2298.72,
+    "end": 2304.16
+  },
+  {
+    "text": "those consequences for second and third order. What's not is an inflexible framework that doesn't",
+    "uid": "aa2041ada22c04b7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2304.16,
+    "end": 2309.6
+  },
+  {
+    "text": "allow you to spot those risks in the first place. Not hot is close community thinking about these things",
+    "uid": "87700a0c53ac8446",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2309.6,
+    "end": 2316.32
+  },
+  {
+    "text": "in silos. What is hot is open source open dialogue tools that enable us all to get better at this in the first place.",
+    "uid": "e12eb295bb969fc6",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2316.4,
+    "end": 2323.36
+  },
+  {
+    "text": "Hot ethics is a process. It is actually labor. It requires sustained effort to identify",
+    "uid": "37f9fd2d68e9143d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2325.12,
+    "end": 2332.08
+  },
+  {
+    "text": "track, mitigate, and improve the consequences for the things that we value as human beings. And it is not PR.",
+    "uid": "cb5163ce824bd71e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2332.08,
+    "end": 2338.48
+  },
+  {
+    "text": "It actually matters because it impacts people in their lives. And lastly, what is hot is actually,",
+    "uid": "f590eaec1051230b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2339.2,
+    "end": 2345.12
+  },
+  {
+    "text": "ethics doing this work as a signable task. You can be the owner of this on your team.",
+    "uid": "f196a02817ee012d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2345.6,
+    "end": 2352.8
+  },
+  {
+    "text": "It can be parceled out by a product manager, by a team manager, etc. with responsibilities for different",
+    "uid": "835b6c4bccc1eb04",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2352.8,
+    "end": 2358.88
+  },
+  {
+    "text": "people to spot and bring these risks to the table. And what is not hot about doing this is where",
+    "uid": "d4f1ed7a679a1804",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2358.88,
+    "end": 2364.96
+  },
+  {
+    "text": "ethics is a black hole expense, where there's no accountability built into the framework. Finally,",
+    "uid": "baa313f417daa2a5",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2364.96,
+    "end": 2371.92
+  },
+  {
+    "text": "one last thing I'm going to make a plug for a new podcast, which if you haven't listened to it,",
+    "uid": "ddeb941d90535c5d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2371.92,
+    "end": 2376.96
+  },
+  {
+    "text": "you should. It's hosted by Katarina Fake, who is the co-founder of Flickr. And since become of",
+    "uid": "92a1a3589b315221",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2376.96,
+    "end": 2383.84
+  },
+  {
+    "text": "intercapitalist, she has a new podcast called Should This Exist, which I ask a lot of these same questions",
+    "uid": "28389e40bf6bbc4b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2383.84,
+    "end": 2391.28
+  },
+  {
+    "text": "of early stage entrepreneurs and inventors and start up founders, where she brings them on with a new",
+    "uid": "a4789101e021fffe",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2391.28,
+    "end": 2397.12
+  },
+  {
+    "text": "product idea onto her show and ask these questions. Is the product you're building fundamentally",
+    "uid": "3e5e0c6c889b3091",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2397.12,
+    "end": 2402.0
+  },
+  {
+    "text": "good for people? What negative consequences unintended impacts might you imagine about this product?",
+    "uid": "4ea4b6bef90425fd",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2402.0,
+    "end": 2407.92
+  },
+  {
+    "text": "How can you mitigate them? Have you thought about all of these first, second, third or consequences?",
+    "uid": "ea2a8bdc7d9b3804",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2407.92,
+    "end": 2412.8
+  },
+  {
+    "text": "So that's at the core, the ethical OS. It's a way of bringing foresight about unintended consequences,",
+    "uid": "32879cf0b89debf4",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2413.28,
+    "end": 2421.12
+  },
+  {
+    "text": "or unanticipated consequences, or consequences actually that you probably could have foreseen",
+    "uid": "14977b1b81f051ab",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2421.12,
+    "end": 2426.64
+  },
+  {
+    "text": "if you'd asked the right sets of questions in the first place to the activity of building something new.",
+    "uid": "3d5cd4fbeb94a774",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2426.64,
+    "end": 2432.0
+  },
+  {
+    "text": "And to the activity of adding a feature, to the activity of building new code, to the activity of",
+    "uid": "f302b5605bca122c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2432.0,
+    "end": 2439.68
+  },
+  {
+    "text": "fundamentally building things that we imagine will be good for people, but we might be not imagining",
+    "uid": "fe3b79c028495441",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2439.68,
+    "end": 2446.64
+  },
+  {
+    "text": "the ways that it might be bad as well, the bit that class, half empty. So with that, I will",
+    "uid": "d9b04bbc6af3a688",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2446.64,
+    "end": 2453.52
+  },
+  {
+    "text": "take it to questions. So thank you so much for coming. This has been such an enlightening talk.",
+    "uid": "8bd7e29c71290e46",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2454.48,
+    "end": 2460.88
+  },
+  {
+    "text": "I noticed that this product seems to generally be based for future events, our future occurrences.",
+    "uid": "b2d4445c2dec39cc",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2460.88,
+    "end": 2468.0
+  },
+  {
+    "text": "Could you reapply these to current companies now and kind of revamp this way there's systems flowing now? Do you think?",
+    "uid": "b882c0dd8aa7d73e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2468.0,
+    "end": 2473.84
+  },
+  {
+    "text": "Yeah, I think absolutely. I think at the core of these questions are meant to identify negative impacts.",
+    "uid": "2cc8815876aeef47",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2473.84,
+    "end": 2479.92
+  },
+  {
+    "text": "Right? And you could absolutely be asking the same set of questions about a current existing product.",
+    "uid": "0b65c9c7a4044c6a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2479.92,
+    "end": 2484.96
+  },
+  {
+    "text": "How is it doing this now? Are we building a product that currently is being used in this way?",
+    "uid": "4b61d2a37b0ed89d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2484.96,
+    "end": 2490.88
+  },
+  {
+    "text": "And how might we actually just mitigate the current risks, not just anticipate those future risks?",
+    "uid": "5ddae810de7c497d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2490.88,
+    "end": 2497.84
+  },
+  {
+    "text": "So I think it absolutely has application for current products and again, most products",
+    "uid": "5796b68041098163",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2498.0,
+    "end": 2502.88
+  },
+  {
+    "text": "living in the world today go through multiple iterations. There's very few products that ship and are done.",
+    "uid": "f71b967964241cfe",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2502.88,
+    "end": 2510.0
+  },
+  {
+    "text": "And so with each iteration, with each new feature, with each tweak to the code, with each tweak to the platform,",
+    "uid": "c7b844153874cd22",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2510.64,
+    "end": 2516.64
+  },
+  {
+    "text": "as we go through the evolution of a product too, it's also useful to all even along the way there.",
+    "uid": "15c369299aef2412",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2516.64,
+    "end": 2522.96
+  },
+  {
+    "text": "I would say that it's not meant to be a one-and-done activity.",
+    "uid": "7000cd8187d4e450",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2522.96,
+    "end": 2528.08
+  },
+  {
+    "text": "It's not meant to just be asked one time and then say, okay, well, we asked the set of questions and now we don't have to worry about it.",
+    "uid": "0483d4c957d70f20",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2528.08,
+    "end": 2534.48
+  },
+  {
+    "text": "But building that process of discernment that all along the way, we're asking these questions with frequency that we're able to spot.",
+    "uid": "92fe1c2a87782ad2",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2534.48,
+    "end": 2542.72
+  },
+  {
+    "text": "And great if we answer, no, nothing's changed. And that risk that we anticipated has no longer an issue.",
+    "uid": "6b23d62e4415621f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2542.72,
+    "end": 2549.84
+  },
+  {
+    "text": "And it continues no longer being an issue. But at the point of which it becomes an issue again, let's surface it and let's think about ways to change the behavior,",
+    "uid": "6964a336d109af41",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2549.84,
+    "end": 2557.6
+  },
+  {
+    "text": "change the product, change the way we're doing business.",
+    "uid": "9eb5d59117e37b62",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2557.6,
+    "end": 2559.92
+  },
+  {
+    "text": "So do you know any companies that have already started this? Anyone reported back to you saying, yes, we've had a week long meeting to go through all of these steps.",
+    "uid": "7db7df150b0131fe",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2561.36,
+    "end": 2569.68
+  },
+  {
+    "text": "We do know companies that are using this. And we have actually also had some degree of success in",
+    "uid": "6bfb7613ad88fdc8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2570.8,
+    "end": 2577.52
+  },
+  {
+    "text": "embedding this in incubators and accelerators as well. So we're able to sort of get a class of early stage founders or startups thinking about these issues from the outset.",
+    "uid": "04292228a4955ca3",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2577.52,
+    "end": 2589.6
+  },
+  {
+    "text": "I can't speak specifically about any particular companies. A lot of companies on this necessarily want to be public about their use of tools like this.",
+    "uid": "915487d54b7a7704",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2590.64,
+    "end": 2600.0
+  },
+  {
+    "text": "I think that's becoming less the case as more companies are embracing their responsibility and their ethics.",
+    "uid": "cdc9ffbc7d7c022c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2600.0,
+    "end": 2608.16
+  },
+  {
+    "text": "As someone I heard recently said, ethics is now the hottest product in Silicon Valley.",
+    "uid": "321919f4ea8c2e44",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2608.8,
+    "end": 2612.8
+  },
+  {
+    "text": "So I think a lot of people are actually starting to be proud of their use of tools like this and not shy away from it.",
+    "uid": "367a8d06642290d4",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2613.52,
+    "end": 2618.96
+  },
+  {
+    "text": "But yeah, this is definitely in process. And if not this other frameworks for having these conversations, right?",
+    "uid": "2d3cc1b1946d3d3b",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2619.2,
+    "end": 2624.8
+  },
+  {
+    "text": "There's a design agency and Seattle called Artifact Group which designed terocards of tech.",
+    "uid": "9a22dcfd0198d432",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2624.8,
+    "end": 2630.88
+  },
+  {
+    "text": "Which is a card deck which actually asks a lot of the same questions. And so really just thinking about, wow, what are the tools for asking these questions?",
+    "uid": "c32389d2ebceeec4",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2631.44,
+    "end": 2638.72
+  },
+  {
+    "text": "And it doesn't need to be ethical OS. These questions could also just be asked by anybody on the team who's empowered to do so.",
+    "uid": "c3b5d44bd8c0e458",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2638.72,
+    "end": 2645.2
+  },
+  {
+    "text": "Any team leader, any manager, anybody at any level should be able to ask these questions.",
+    "uid": "45766c4a91ceb0af",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2645.2,
+    "end": 2651.04
+  },
+  {
+    "text": "Whether through ethical OS or just because they care.",
+    "uid": "25cd5b51c0065dee",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2651.84,
+    "end": 2654.08
+  },
+  {
+    "text": "So ethics is not an exact science. How do you decide what is termed ethical and not ethical largely opinions?",
+    "uid": "26e2ac13727cdef6",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2656.35,
+    "end": 2662.99
+  },
+  {
+    "text": "Yeah, I get that question a lot.",
+    "uid": "d74af7765f9aa1c0",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2664.51,
+    "end": 2666.19
+  },
+  {
+    "text": "So if it's not helpful to use the term ethics, I say, do away with the term ethics.",
+    "uid": "1c1f6f0ebc4a7c8a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2668.86,
+    "end": 2674.54
+  },
+  {
+    "text": "Because at the core, which I hope came through in this presentation, when we're talking about ethics, I'm talking less about",
+    "uid": "228ac7c377094492",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2675.34,
+    "end": 2682.46
+  },
+  {
+    "text": "sort of structured and rigorous frameworks for Western ethics, right?",
+    "uid": "03c5a7dee8b1ad39",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2683.98,
+    "end": 2688.46
+  },
+  {
+    "text": "Deontological versus consequentialists versus utilitarian frameworks dissecting conferences, mill and really, right?",
+    "uid": "6653b019ad20d5fe",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2688.46,
+    "end": 2696.14
+  },
+  {
+    "text": "I don't find that exercise particularly helpful actually.",
+    "uid": "8b7426db5752febe",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2696.14,
+    "end": 2700.14
+  },
+  {
+    "text": "I find the exercise of thinking about ethics as this responsibility for mitigating harm as the core activity of doing ethical thinking.",
+    "uid": "d54cecfa77855132",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2700.14,
+    "end": 2709.18
+  },
+  {
+    "text": "Right? So in that case, I think that that issue of ethical relativism becomes less of an issue.",
+    "uid": "00754aabdb8dd185",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2709.42,
+    "end": 2717.58
+  },
+  {
+    "text": "Because really, if we're asking these specific questions, who is negatively impacted by the tech?",
+    "uid": "70628898747351ff",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2718.06,
+    "end": 2723.34
+  },
+  {
+    "text": "And you don't need to care. You could say, right, we know that some people are being negatively impacted by this and we're okay with that.",
+    "uid": "51d5d7f254e65af6",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2723.98,
+    "end": 2732.54
+  },
+  {
+    "text": "That's fine. The only thing I think I'm advocating through the use of a tool like this is go through the process.",
+    "uid": "b53cb0f4e1c2406d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2732.54,
+    "end": 2738.94
+  },
+  {
+    "text": "Ask the questions and answer them thoughtfully to certain the potential outputs out comes impacts.",
+    "uid": "f34c238b34cdc77e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2739.66,
+    "end": 2746.14
+  },
+  {
+    "text": "And then say, how do we trade off our values against those potential futures?",
+    "uid": "ce10ca8421181247",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2746.14,
+    "end": 2751.74
+  },
+  {
+    "text": "And those values get to be defined by your team, by your company, follow your values.",
+    "uid": "7ca2daa041b2b592",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2751.74,
+    "end": 2757.1
+  },
+  {
+    "text": "Those don't need to be defined by anyone else. Those you get to define.",
+    "uid": "dde45540b5e304b6",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2757.82,
+    "end": 2761.18
+  },
+  {
+    "text": "And then make the trade-offs once you've asked the questions between the impacts you might occur.",
+    "uid": "5b931c680e113acc",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2761.18,
+    "end": 2766.78
+  },
+  {
+    "text": "Or the ways your tech is behaving or the ways that users are using your product, et cetera.",
+    "uid": "709bc21d85aaf8ce",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2767.74,
+    "end": 2772.22
+  },
+  {
+    "text": "And say, how do we square our values with those impacts?",
+    "uid": "06bb6ea6a9caf4e3",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2772.22,
+    "end": 2776.22
+  },
+  {
+    "text": "What comes next? I think for Omadir and beyond the ethical OS toolkit, can you have any comments about what you guys have in the pipe?",
+    "uid": "5ff6ba472a619eac",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2778.3,
+    "end": 2788.38
+  },
+  {
+    "text": "Yeah, so I think at the core there's a need more broadly for ethical infrastructure,",
+    "uid": "00cdd91882074655",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2789.02,
+    "end": 2799.18
+  },
+  {
+    "text": "if you will that actually supports this activity in the first place. If you plant a healthy tree in a",
+    "uid": "f0071a9e8c14c57f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2799.18,
+    "end": 2808.22
+  },
+  {
+    "text": "withering orchard, it's unlikely that that healthy tree will resurrect all of the dead trees in the orchard.",
+    "uid": "28a460dc45978a7f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2808.22,
+    "end": 2816.14
+  },
+  {
+    "text": "And it's unlikely that that healthy tree will flourish if the soil is poisonous.",
+    "uid": "07eb8feee77e13d8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2816.14,
+    "end": 2821.26
+  },
+  {
+    "text": "So building ethical infrastructure and ethical culture is a necessary piece of the puzzle that supports the use of a thing like ethical OS at scale.",
+    "uid": "b98819ec58766805",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2821.98,
+    "end": 2833.02
+  },
+  {
+    "text": "Right, so I think one of the things we're trying to puzzle through is how do you actually build the kinds of things that scaffold ethics all along the way.",
+    "uid": "598cfd1e83507b8f",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2833.82,
+    "end": 2844.38
+  },
+  {
+    "text": "Right, so you've got training of future technologists and how are they exposed to the behaviors and mindsets of asking these questions,",
+    "uid": "decf8fe6f53e48b6",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2844.38,
+    "end": 2854.22
+  },
+  {
+    "text": "actually all along the way as they learn the activity of coding if they're at computer scientists or engineers.",
+    "uid": "9bc2163d54b95a13",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2854.22,
+    "end": 2859.66
+  },
+  {
+    "text": "How are employees onboarded and trained once they enter a company to think through these issues?",
+    "uid": "70a1a26bc812c942",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2859.66,
+    "end": 2865.98
+  },
+  {
+    "text": "And then what kinds of supports exist for them to raise red flags? Are there chief ethics officers or ethical ombits men that support that activity?",
+    "uid": "227d6e6d4c7e51d8",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2865.98,
+    "end": 2874.78
+  },
+  {
+    "text": "How do venture capitalist funders institutional or otherwise set KPIs and metrics for companies that actually support their activity of doing ethics better?",
+    "uid": "0b1678623bd6a2c7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2874.78,
+    "end": 2886.86
+  },
+  {
+    "text": "And having more mission online values driven companies than the first place rather than just incentivizing growth over all else.",
+    "uid": "8c9c0566dc4bbc4d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2886.86,
+    "end": 2893.58
+  },
+  {
+    "text": "What kinds of consumer awareness needs to be built in order for consumers to have more active voice in the kinds of products they want to use?",
+    "uid": "fdf5af866e002feb",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2894.38,
+    "end": 2902.86
+  },
+  {
+    "text": "How are employee voices harnessed on the issues that employees care about?",
+    "uid": "82e07d1ff16240fe",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2902.94,
+    "end": 2906.78
+  },
+  {
+    "text": "We've seen a tremendous amount of employee activism recently in companies large and small about the kinds of ethical issues that they see.",
+    "uid": "9e7e8d67f9ac815c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2906.78,
+    "end": 2915.02
+  },
+  {
+    "text": "Right, so all of that speaks to kind of ethical culture and ethical infrastructure and we're thinking about that broad ecosystem.",
+    "uid": "ceeae8339b73507a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2915.02,
+    "end": 2921.82
+  },
+  {
+    "text": "So not just tools like ethical OS, which is a really important piece and tools are absolutely necessary, but also what are the supporting mechanisms to enable that behavior.",
+    "uid": "7d670906bb8c04ec",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2921.82,
+    "end": 2930.7
+  },
+  {
+    "text": "Just as a follow up to that question regarding the infrastructure needed.",
+    "uid": "c0e33d8bb090dab7",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2931.66,
+    "end": 2934.7
+  },
+  {
+    "text": "I guess like here in the US there's probably a lot of skepticism with regard to the ability of maybe like our federal government to be able to provide that sort of infrastructure.",
+    "uid": "896bfb6002475678",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2935.5,
+    "end": 2945.1
+  },
+  {
+    "text": "So to what extent are you optimistic regarding our ability to actually put those mechanisms in place?",
+    "uid": "3c718288049f12e0",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2945.1,
+    "end": 2951.66
+  },
+  {
+    "text": "And if that doesn't happen then to what extent are you optimistic that the market or, you know, some other actors can do it in the absence of that.",
+    "uid": "e279e3cbffee0d4c",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2952.14,
+    "end": 2961.82
+  },
+  {
+    "text": "I am not necessarily optimistic about our government catching up.",
+    "uid": "021f1b74b7b75c8e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2962.22,
+    "end": 2966.22
+  },
+  {
+    "text": "I mean, if you see the recent tech hearings unfortunately our members of Congress do not demonstrate extremely high level of proficiency or fluency around products in the way they are built in their impacts.",
+    "uid": "6f9502c4db43a582",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2966.54,
+    "end": 2981.58
+  },
+  {
+    "text": "And yet we are seeing this really interesting trend of now some large companies actually asking for regulation of certain things.",
+    "uid": "82d9c4fa2233c534",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2983.1,
+    "end": 2991.1
+  },
+  {
+    "text": "Now there are lots of reasons they might be doing that, but I think there is a growing awareness that regulation will probably be necessary.",
+    "uid": "29cf86dd57e363cb",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2991.1,
+    "end": 2999.82
+  },
+  {
+    "text": "And I am not bullish on the idea that that will catch up very quickly knowing unfortunately the dysfunction of our current government and the system of passing legislation.",
+    "uid": "4a9b1d0fdf425250",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 2999.82,
+    "end": 3009.9
+  },
+  {
+    "text": "I think at the local level it's actually probably more likely at the city and state level we might see more interesting regulation coming out especially from California and a few other places that are thinking about these things.",
+    "uid": "84b85633e8d14f5a",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 3009.9,
+    "end": 3021.9
+  },
+  {
+    "text": "If at the core your question is about so then to what degree will companies self regulate as it's called right in order to do this better if the government can't actually assert itself in terms of legislation and regulation of these things.",
+    "uid": "6bb331e876ee6d78",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 3022.62,
+    "end": 3035.9
+  },
+  {
+    "text": "I think there is a competitive advantage to be built from doing this particularly well and building user trust around security and data about thinking responsibly about the products that are built.",
+    "uid": "6aa624f838c3b822",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 3035.9,
+    "end": 3050.9
+  },
+  {
+    "text": "I oftentimes come back to the example in the automobile industry of Volvo which created the safest car on the road.",
+    "uid": "4ac1e4c84e48f37e",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 3050.9,
+    "end": 3060.9
+  },
+  {
+    "text": "And every person who was going to put their teenager into a car knew to get them a Volvo because it was destined to crash at some point and you just wanted to protect your kid right.",
+    "uid": "ab0680d2d109bfcf",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 3060.9,
+    "end": 3070.9
+  },
+  {
+    "text": "And so it was actually competitive advantage to be built around being the safest car on the road.",
+    "uid": "c63af4589d3bb27d",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 3070.9,
+    "end": 3075.9
+  },
+  {
+    "text": "And so I think that we I am perhaps naively optimistic that we may be moving in a direction for the tech industry as well where there is a competitive advantage to be built based on doing this well and in that case I think that we may see a race to the top for it.",
+    "uid": "ea3dbd0f0ca30259",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 3075.9,
+    "end": 3090.9
+  },
+  {
+    "text": "Again that might be naive but you asked me to my degree of optimism and so I will say that I am naively optimistic about it.",
+    "uid": "653ba545e23db563",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 3091.9,
+    "end": 3099.9
+  },
+  {
+    "text": "Thank you very much you all for coming today to speak and thank you for your time and for taking all these questions.",
+    "uid": "9254e8ae7993d829",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 3099.9,
+    "end": 3105.9
+  },
+  {
+    "text": "Thanks for having me.",
+    "uid": "f23af3b361659701",
+    "source": "Talks_at_Google - Anticipating_the_Future_Impact_of_Today_s_Technology_Yoav_Schl",
+    "start": 3105.9,
+    "end": 3106.9
+  }
+]
