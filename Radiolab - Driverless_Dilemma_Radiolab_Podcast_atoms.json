@@ -1,0 +1,2963 @@
+[
+  {
+    "text": "Hey, it's a lot of death.",
+    "uid": "7eb560206c9de48d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1.74,
+    "end": 3.74
+  },
+  {
+    "text": "Feels like all anyone is talking about these days is AI.",
+    "uid": "2396fc0ee33cdda6",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 3.74,
+    "end": 9.58
+  },
+  {
+    "text": "We have a few new AI stories in the pipeline that I'm excited about, but in the meantime,",
+    "uid": "02acc4eba5cd047e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 9.58,
+    "end": 15.7
+  },
+  {
+    "text": "I wanted to play you this one.",
+    "uid": "0bc334241ff69cc3",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 15.7,
+    "end": 18.86
+  },
+  {
+    "text": "It's a rerun from the old, jad and robber days, but it's actually not just a rerun.",
+    "uid": "adf265f00f2ea41c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 18.86,
+    "end": 25.7
+  },
+  {
+    "text": "It's a rerun embedded in another rerun, which sounds confusing.",
+    "uid": "d547ce77e55ad2cc",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 25.7,
+    "end": 31.42
+  },
+  {
+    "text": "But it's actually fascinating because in addition to all the baseline interesting stuff in the",
+    "uid": "40fb45039f75b3dc",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 31.9,
+    "end": 36.86
+  },
+  {
+    "text": "episode about ethics and human nature, the experience of hearing these stacked reruns,",
+    "uid": "f17adb6a8b7d9a58",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 36.86,
+    "end": 45.42
+  },
+  {
+    "text": "actually helps you feel the speed of technology, like how fast, newfangled things become old",
+    "uid": "43a6f0053ef80581",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 46.38,
+    "end": 56.14
+  },
+  {
+    "text": "hat and then how despite that, despite all of that rapid technological change, how the things",
+    "uid": "dbc8c2f0e2841c51",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 56.22,
+    "end": 65.66
+  },
+  {
+    "text": "we all need to think about, the fundamental questions that we struggle with as humans",
+    "uid": "315945a0c9af2739",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 65.66,
+    "end": 72.38
+  },
+  {
+    "text": "pretty much stayed the same.",
+    "uid": "f0887524ba6979d3",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 74.22,
+    "end": 75.5
+  },
+  {
+    "text": "I don't know how that's sort of interesting to hear.",
+    "uid": "1e3f1da1f368ee8d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 77.74,
+    "end": 81.5
+  },
+  {
+    "text": "It's pretty humbling actually.",
+    "uid": "ddae0864d8e6d375",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 81.5,
+    "end": 83.74
+  },
+  {
+    "text": "Take a listen.",
+    "uid": "29d3c7c260c54b7a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 85.02,
+    "end": 85.74
+  },
+  {
+    "text": "I hope you enjoy this episode is called the driverless dilemma.",
+    "uid": "638deacf63a02619",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 85.74,
+    "end": 91.58
+  },
+  {
+    "text": "I'm just listening to radio lab.",
+    "uid": "c5bd5da87c70fc75",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 91.58,
+    "end": 100.62
+  },
+  {
+    "text": "Radio from WNYC.",
+    "uid": "f0acf9d46800966e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 100.62,
+    "end": 103.98
+  },
+  {
+    "text": "I'm Robert Crollowich and you know what this is?",
+    "uid": "f485b972d8841cb0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 111.38,
+    "end": 113.38
+  },
+  {
+    "text": "It's radio lab.",
+    "uid": "52d2e494a5a92a8a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 113.38,
+    "end": 114.58
+  },
+  {
+    "text": "Okay, so we're going to play you a little bit of tape first just to set up the what we're going to do today.",
+    "uid": "d570fd36c69903e0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 114.58,
+    "end": 119.38
+  },
+  {
+    "text": "About a month ago we were doing the thing about the fake news.",
+    "uid": "ae3edce35f9926b1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 119.38,
+    "end": 122.02
+  },
+  {
+    "text": "Yeah, we're worried about a lot of fake news.",
+    "uid": "51b213c382a01764",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 122.02,
+    "end": 124.02
+  },
+  {
+    "text": "A lot of people are, but in the middle of doing that reporting, we were talking with a fellow from Vanity Fair.",
+    "uid": "b49add03d43e499b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 124.02,
+    "end": 129.22
+  },
+  {
+    "text": "My name is Nick Dilt and I'm a special correspondent for Vanity Fair.",
+    "uid": "7ed4028f4e49f686",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 129.22,
+    "end": 132.02
+  },
+  {
+    "text": "And in the course of our conversation, Nick, in this had nothing to do with what we're talking about.",
+    "uid": "46c2a25bd70cf9fa",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 132.02,
+    "end": 135.62
+  },
+  {
+    "text": "By the way, Nick just got into a sort of, well, he went into a kind of a nervous, reverie, I'd say.",
+    "uid": "854ab673473552c1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 135.62,
+    "end": 142.5
+  },
+  {
+    "text": "Yeah, he was like, you know, you guys want to talk about fake news, but that's not actually what's eating at me.",
+    "uid": "a11e80c0a2fe7f7b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 142.5,
+    "end": 147.3
+  },
+  {
+    "text": "The thing that I've been pretty obsessed with lately is actually not fake news, but it's automation and artificial intelligence and",
+    "uid": "a8866db79d11dd13",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 147.3,
+    "end": 153.54
+  },
+  {
+    "text": "and drive-in as cars because it's going to have a larger effect on society than any technology that I think has ever been created in the history of mankind.",
+    "uid": "3e64b31716bfee48",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 153.86,
+    "end": 164.58
+  },
+  {
+    "text": "I know that's kind of a bold statement, but quite bold.",
+    "uid": "3922e3f1aa59406b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 164.58,
+    "end": 168.1
+  },
+  {
+    "text": "But you've got to imagine that, you know, that there will be in the next 10 years,",
+    "uid": "5b2c9728e61cb3d9",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 168.1,
+    "end": 173.14
+  },
+  {
+    "text": "20 to 50 million jobs that will just vanish to automation.",
+    "uid": "c54fb12852d17487",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 174.1,
+    "end": 177.86
+  },
+  {
+    "text": "You've got, you know, million truckers that will lose their jobs.",
+    "uid": "cc23b4592c2cc3e4",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 178.18,
+    "end": 181.78
+  },
+  {
+    "text": "But it's not, we think about like automation and drive-in as cars and we think about the fact that",
+    "uid": "2466eaa23f120884",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 183.46,
+    "end": 188.42
+  },
+  {
+    "text": "they are going to, the people that just drive the cars, like the taxi drivers and the truckers are going to lose their jobs.",
+    "uid": "2cbfdc679c422f7c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 189.3,
+    "end": 195.38
+  },
+  {
+    "text": "What we don't realize is that there are entire industries that are built around just cars.",
+    "uid": "47c9cb1da2723ac2",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 195.38,
+    "end": 201.54
+  },
+  {
+    "text": "So for example, if you're not driving the car, why do you need insurance?",
+    "uid": "875d2c2b2ae0f472",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 201.7,
+    "end": 205.94
+  },
+  {
+    "text": "There's no parking tickets because your driver's car knows where it can and cannot park and goes and finds a spot and moves and so on.",
+    "uid": "1a6037127e4f635a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 205.94,
+    "end": 211.62
+  },
+  {
+    "text": "If there are truckers that are no longer using rest stops because driver's cars don't have to stop and pee or take a nap,",
+    "uid": "a1e0f3663a31b540",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 211.62,
+    "end": 217.94
+  },
+  {
+    "text": "then all of those little rest stops all across America are affected.",
+    "uid": "9b2e57f90a1871e6",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 217.94,
+    "end": 222.66
+  },
+  {
+    "text": "People aren't stopping to use the restrooms are not buying burgers. They're not staying in these hotels and so on and so forth.",
+    "uid": "8ceff187d528fa3b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 222.66,
+    "end": 228.34
+  },
+  {
+    "text": "And then you look at drivers cars to a next level, the whole concept of what a car is is going to change.",
+    "uid": "4e840c0c5d47d772",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 228.82,
+    "end": 234.5
+  },
+  {
+    "text": "So for example, right now a car has five seats in a wheel, but if I'm not driving,",
+    "uid": "52e181b49de2e22b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 234.5,
+    "end": 239.62
+  },
+  {
+    "text": "well, what's the point of having five seats in a wheel, you could imagine that you take different cars.",
+    "uid": "d86e51a231fdc1e2",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 239.62,
+    "end": 244.26
+  },
+  {
+    "text": "And maybe when I was on my way here to this interview, I wanted to work out. So I called a driver's gym cart",
+    "uid": "b2b7bd0672da8f52",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 244.26,
+    "end": 250.66
+  },
+  {
+    "text": "or I have a meeting out in Santa Monica after this and it's an hour. So I call a movie car to watch a movie on the way out there",
+    "uid": "4a790229bbbad40c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 250.66,
+    "end": 256.18
+  },
+  {
+    "text": "or an office car and I pick up someone else and we have a meeting on the way.",
+    "uid": "8cf6bab2146f9448",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 256.18,
+    "end": 260.18
+  },
+  {
+    "text": "And all of these things are going to happen, not in a vacuum, but simultaneously, this pizza delivery driver is going to replace",
+    "uid": "be09e229e68f1181",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 260.18,
+    "end": 266.42
+  },
+  {
+    "text": "by robots that will actually cook your pizza on the way to your house in a little box and then deliver it.",
+    "uid": "c3107757971af528",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 266.42,
+    "end": 271.62
+  },
+  {
+    "text": "And so kind of a little bit of a long way to answer, but I truly do think that it's going to have a massive massive effect on society.",
+    "uid": "88883bb6ff54195e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 271.62,
+    "end": 279.3
+  },
+  {
+    "text": "Am I stressing you guys out? Are you having heart palpitations over there?",
+    "uid": "fcc4d987e2cf6929",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 280.42,
+    "end": 283.62
+  },
+  {
+    "text": "I'm glad I got that. So that's a fairly compelling description of a very dangerous future.",
+    "uid": "6c7ddbc644f734cd",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 283.62,
+    "end": 291.22
+  },
+  {
+    "text": "Yes. But you know what? It's funny. One of the things that I mean, we couldn't use that tape initially at least,",
+    "uid": "1b1a43810cbb6fce",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 291.22,
+    "end": 296.9
+  },
+  {
+    "text": "but we kept thinking about it because it actually weirdly points us back to a story we did about a decade ago.",
+    "uid": "c7a2ab56a8db76e9",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 296.9,
+    "end": 303.94
+  },
+  {
+    "text": "The story of a moral problem that's about to get totally reimagined.",
+    "uid": "7a1326211a7bca97",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 303.94,
+    "end": 309.62
+  },
+  {
+    "text": "It may be that what Nick is worried about, and what we were worried about 10 years ago,",
+    "uid": "9cbe3167df252a62",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 309.62,
+    "end": 314.5
+  },
+  {
+    "text": "have now come dangerously close together.",
+    "uid": "43223be9ffb13c5c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 314.5,
+    "end": 317.22
+  },
+  {
+    "text": "So what we thought we would do is we were going to play you the story as we did it then, sort of the full segment.",
+    "uid": "74d4b3e14437df1f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 317.22,
+    "end": 324.66
+  },
+  {
+    "text": "And then we're going to amend it on the back end. And by way of just disclaiming, this was at a moment in our",
+    "uid": "460197497ab1356f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 324.66,
+    "end": 329.38
+  },
+  {
+    "text": "development where there's just like way too many sound effects. Just go to it as we have to apologize for that.",
+    "uid": "934e765f2f9ea4f3",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 329.38,
+    "end": 334.1
+  },
+  {
+    "text": "No, I'm going to apologize because there's just too much to do much.",
+    "uid": "4dd8d525bcb9c557",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 334.1,
+    "end": 338.26
+  },
+  {
+    "text": "And also like we talked about the FMRIM machine, like it's just like amazing thing when it was,",
+    "uid": "1ac247e743a5cccf",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 338.26,
+    "end": 344.18
+  },
+  {
+    "text": "it's sort of commonplace now. Anyhow, it doesn't matter. We're going to play it for you. And then",
+    "uid": "57fd8fbd146d484f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 344.18,
+    "end": 348.74
+  },
+  {
+    "text": "talk about it on the back end. This is, we start with a description of something called the trolley problem.",
+    "uid": "07729c2989453253",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 348.74,
+    "end": 354.74
+  },
+  {
+    "text": "You ready? Yep. All right, you're near some train tracks.",
+    "uid": "16b7bb2c0ff939f1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 356.42,
+    "end": 358.98
+  },
+  {
+    "text": "Go there and you're mind. Okay. There are five workers on the tracks working.",
+    "uid": "0d377ccc4d7331e3",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 360.66,
+    "end": 365.46
+  },
+  {
+    "text": "They've got their backs turned to the trolley, which is coming in the distance.",
+    "uid": "ee3643188095b817",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 365.46,
+    "end": 368.82
+  },
+  {
+    "text": "I mean, they're repairing the track. They are repairing the track.",
+    "uid": "a3307d9d868558bb",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 369.86,
+    "end": 372.02
+  },
+  {
+    "text": "Just unbeknownst to them, the trolley is approaching. They don't see it. You can't shout to them.",
+    "uid": "4d62d94f28f63191",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 372.02,
+    "end": 376.26
+  },
+  {
+    "text": "Okay. And if you do nothing, here's what'll happen.",
+    "uid": "582f806a815a7eed",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 376.26,
+    "end": 379.86
+  },
+  {
+    "text": "Five workers will die. God, I was a horrible experience. I don't want that to happen. No, you don't. But you have a choice.",
+    "uid": "5bc9aa5c35a33ccb",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 384.11,
+    "end": 390.75
+  },
+  {
+    "text": "You can do a nothing or b. It so happens next to you is a lever.",
+    "uid": "8824c1f8bc21e21c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 391.71,
+    "end": 396.67
+  },
+  {
+    "text": "Pull the lever and the trolley will jump onto some side tracks where there is only one person working.",
+    "uid": "749ff3591b546af8",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 397.39,
+    "end": 402.83
+  },
+  {
+    "text": "So if it, so the trolley goes on the second track, it will kill the one guy.",
+    "uid": "8eaf31813c465938",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 403.55,
+    "end": 409.47
+  },
+  {
+    "text": "Yes, so there's your choice. Do you kill one man by pulling a lever or do you kill five men by doing nothing?",
+    "uid": "f5241094ede2e058",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 409.47,
+    "end": 416.99
+  },
+  {
+    "text": "Well, I'm going to pull the lever.",
+    "uid": "f791aba943070271",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 417.07,
+    "end": 418.99
+  },
+  {
+    "text": "Naturally. Right. Here's part two.",
+    "uid": "99850b8ab23f74f5",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 419.15,
+    "end": 421.79
+  },
+  {
+    "text": "You stand in here some train tracks. Five guys are in the tracks just before. And there is the trolley coming.",
+    "uid": "266b70c487be78d9",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 422.83,
+    "end": 429.07
+  },
+  {
+    "text": "The same five guys are working. Same in the track.",
+    "uid": "1e0dd32b32d11a61",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 429.07,
+    "end": 430.91
+  },
+  {
+    "text": "Back to the train. They can't see it. Yeah, exactly. However, in a make couple changes,",
+    "uid": "f18b89db2a667158",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 430.91,
+    "end": 434.75
+  },
+  {
+    "text": "now you're standing on a footbridge. The pass is over the tracks. You're looking down onto the tracks.",
+    "uid": "3c4664ca58740aba",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 434.75,
+    "end": 440.91
+  },
+  {
+    "text": "There's no lever anywhere to be seen. Except next to you, there is a guy.",
+    "uid": "bb9ade1298700f28",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 440.91,
+    "end": 444.67
+  },
+  {
+    "text": "What do you mean is a guy? A large guy, large individual standing next to you on the bridge looking down with you over the tracks.",
+    "uid": "5eba8a65049e8929",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 444.67,
+    "end": 450.51
+  },
+  {
+    "text": "And you realize, wait, I can save those five workers. If I push this man, give a little tap.",
+    "uid": "6bf9a2254af0e028",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 450.51,
+    "end": 455.71
+  },
+  {
+    "text": "He'll land on the tracks and...",
+    "uid": "e5e6c2ebbee2d434",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 460.3,
+    "end": 461.98
+  },
+  {
+    "text": "Stop the train. Right. Oh, yeah, I'm not going to do that. I'm not going to do that. But surely you realize the math is the same.",
+    "uid": "fcdbae1b6069fa71",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 462.62,
+    "end": 469.1
+  },
+  {
+    "text": "You mean I'll save four people this way? Yeah, but I'm this time I'm pushing the guy. Are you insane?",
+    "uid": "f847b0a187f49506",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 469.66,
+    "end": 474.86
+  },
+  {
+    "text": "Right, here's the thing. If you ask people these questions and we did starting with the first.",
+    "uid": "9ab8efaaaefe7a31",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 476.06,
+    "end": 479.58
+  },
+  {
+    "text": "Is it okay to kill one man to save five using a lever? Nine out of ten people will say?",
+    "uid": "d7cd2d392f2fa5b9",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 479.58,
+    "end": 484.78
+  },
+  {
+    "text": "Yes. Yes. Yes. Yeah. But if you ask them, is it okay to kill one man to save five by pushing the guy?",
+    "uid": "26838fe138289095",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 484.78,
+    "end": 491.82
+  },
+  {
+    "text": "Nine out of ten people will say? No, never, never, never. No. It is practically universal.",
+    "uid": "69038e10acfe6b6d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 492.62,
+    "end": 499.26
+  },
+  {
+    "text": "And the thing is, if you ask people, why is it okay to murder?",
+    "uid": "70a1e0cacc9bf54f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 499.66,
+    "end": 504.46
+  },
+  {
+    "text": "That's what it is. Murder a man with a lever and not okay to do it with your hands.",
+    "uid": "b2171c53cc9175ad",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 504.54,
+    "end": 508.86
+  },
+  {
+    "text": "People don't really know. Pulling the lever to save the five. I don't know. That feels better than pushing the one to save the five.",
+    "uid": "be4c64679aac9f05",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 509.9,
+    "end": 518.3
+  },
+  {
+    "text": "But I don't really know why. So that's a good... There's a good moral, cool, and brave warrior.",
+    "uid": "b74a81dd36172834",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 518.94,
+    "end": 524.14
+  },
+  {
+    "text": "And if having a moral sense is a unique and special human quality, then maybe we, we",
+    "uid": "b8df2aed63faa94d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 528.32,
+    "end": 534.48
+  },
+  {
+    "text": "us two humans anyway, you and me, should at least inquire us to why this happens.",
+    "uid": "00d20dc8b396d311",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 534.64,
+    "end": 539.12
+  },
+  {
+    "text": "And I happen to have met somebody who has a hunch.",
+    "uid": "37afa190a6cc8399",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 539.68,
+    "end": 542.4
+  },
+  {
+    "text": "He's a young guy at Princeton University, wild, curly hair, but in Miss Chiffin, his name is Josh Green.",
+    "uid": "74a042a958ece0d9",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 544.72,
+    "end": 551.52
+  },
+  {
+    "text": "And he spent the last few years trying to figure out where this inconsistency comes from.",
+    "uid": "5692f09e7cb466af",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 553.2,
+    "end": 558.16
+  },
+  {
+    "text": "How do people make this judgment? Forget whether or not these judgments are right or wrong,",
+    "uid": "667d84d5ccbeab2b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 558.16,
+    "end": 562.0
+  },
+  {
+    "text": "just what's going on in the brain that makes people distinguish so naturally and intuitively",
+    "uid": "fa540945009ec061",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 562.0,
+    "end": 566.88
+  },
+  {
+    "text": "between these two cases, which from an actuarial point of view are very, very, very, very similar if not.",
+    "uid": "f56dc75806fe5e32",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 566.88,
+    "end": 573.04
+  },
+  {
+    "text": "Josh is, by the way, a philosopher and a neuroscientist, so this gives him special powers. He doesn't sort of sit back",
+    "uid": "d0fcc2dc7491b430",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 574.8,
+    "end": 581.52
+  },
+  {
+    "text": "in a chair, smoke a pipe, and think, now why do you have these differences? He says, no, I would like to look inside people's heads,",
+    "uid": "aa9a35926368fbc5",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 581.52,
+    "end": 588.96
+  },
+  {
+    "text": "because in our heads, we may find clues as to where these feelings of revulsion or acceptance come from.",
+    "uid": "9791956e6d59c9ab",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 589.12,
+    "end": 595.52
+  },
+  {
+    "text": "In our brain. So we're here in the control room. We basically just see and just so happens.",
+    "uid": "9c9ca7c23ddfff42",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 596.8,
+    "end": 602.32
+  },
+  {
+    "text": "In the basement of Princeton, there was this, yeah, yeah. Well, the circular thing. Yeah,",
+    "uid": "dacdf43db0ecf064",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 602.32,
+    "end": 608.24
+  },
+  {
+    "text": "it looks kind of like an airplane in 180,000 pound brain scan. I'll tell you a funny story.",
+    "uid": "9b0f536d166304e6",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 608.24,
+    "end": 615.28
+  },
+  {
+    "text": "You can't have any metal in there because the magnet. So we have this long list of questions that we ask people to make sure they can go in.",
+    "uid": "d597c7382b4f9189",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 616.16,
+    "end": 622.56
+  },
+  {
+    "text": "Do you have a pacemaker, if you ever work with metal, blah, blah, blah, blah. Yeah, because you can have little flex of metal in your eyes,",
+    "uid": "062690f4ba8a6950",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 622.56,
+    "end": 629.84
+  },
+  {
+    "text": "that you would never even know where they're from having done metal work is. And one of the questions is whether or not you wear a wig or anything like that,",
+    "uid": "ea9a709e338bad2a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 629.84,
+    "end": 635.6
+  },
+  {
+    "text": "because they often have metal wires and with that. And there is this very nice woman who does brain research here who's Italian, and she's asking her subjects",
+    "uid": "f6a8636ea287e71c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 635.6,
+    "end": 643.36
+  },
+  {
+    "text": "over the phone all these screening questions. And so I have this person over to dinner. She said, yeah, you know, I ended up",
+    "uid": "60e8d1d0cb48184c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 643.6,
+    "end": 648.56
+  },
+  {
+    "text": "giving this study, but it's asking you the weirdest questions. This woman's like, do you have a hair piece? And",
+    "uid": "92ba10feb01bcbca",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 648.56,
+    "end": 654.0
+  },
+  {
+    "text": "I'm like, what does it have to do with the five herpes or not? Anyway, and she said, you know, she asked,",
+    "uid": "e959d545b8e8922f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 654.8,
+    "end": 661.36
+  },
+  {
+    "text": "you said do you have a hair piece? But she said, so now she asked people if you wear a wig or whatever.",
+    "uid": "98916d8b397293aa",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 661.36,
+    "end": 665.92
+  },
+  {
+    "text": "You really have what Josh does is he invites people into this room, has them lie down and what is essentially a",
+    "uid": "d0e4ed30edb890b1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 665.92,
+    "end": 671.36
+  },
+  {
+    "text": "cut on rollers and he rolls them into the machine. Their heads are braised so they're sort of stuck in there.",
+    "uid": "dad1a3cd89671d7b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 671.36,
+    "end": 677.92
+  },
+  {
+    "text": "You ever done this? Oh yeah, yep, several times. And many tells them stories. He tells them the same to, you know,",
+    "uid": "9570e9d3ed78e598",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 677.92,
+    "end": 683.52
+  },
+  {
+    "text": "Charlie tales that you told before. And then at the very instant that they're deciding whether I should push the lever,",
+    "uid": "1db7eda41681a269",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 683.52,
+    "end": 689.28
+  },
+  {
+    "text": "whether I should push the man, that instant, the scanner snaps pictures of their brains. And what he found in those pictures was",
+    "uid": "0ae9d97538270cd8",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 689.28,
+    "end": 697.52
+  },
+  {
+    "text": "frankly it was startling. He showed us some. I'll show you some stuff. Okay,",
+    "uid": "0946e19cfd254126",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 698.08,
+    "end": 705.2
+  },
+  {
+    "text": "the picture that I'm looking at is this sort of a, it's a brain looked, I guess from the top down.",
+    "uid": "17cf5818881e09f2",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 707.04,
+    "end": 712.0
+  },
+  {
+    "text": "Yeah, it's topped out and it's sort of sliced, you know, like a like a, like a deli slicer. And the first slide that",
+    "uid": "d17e89f7c5fb89ef",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 712.0,
+    "end": 717.04
+  },
+  {
+    "text": "he showed me was a human brain being asked the question, would you pull the lever and the answering most",
+    "uid": "c32ec6190f2bfd70",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 717.04,
+    "end": 722.4
+  },
+  {
+    "text": "case with yes, but pull the lever. When the brain saying yes, you'd see little kind of peanut shaped",
+    "uid": "2d0d398b64f2dc1e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 722.4,
+    "end": 728.08
+  },
+  {
+    "text": "spots of yellow. This little guy right here and these two guys right there. The brain was being active in these places.",
+    "uid": "7b777906c4e86c3c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 728.08,
+    "end": 734.24
+  },
+  {
+    "text": "And oddly enough, whenever people say yes, yes, yes, yes. To the lever question, the very same pattern.",
+    "uid": "bbed3b979062ad9b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 734.24,
+    "end": 740.56
+  },
+  {
+    "text": "They any showed me another slide. This was a side of a brain saying no, no, I would not push the man.",
+    "uid": "12a8714cb9f499bf",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 741.6,
+    "end": 746.88
+  },
+  {
+    "text": "I will not push the large man. And in this picture, this one we're looking at here. This,",
+    "uid": "1546d550c4808b87",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 746.88,
+    "end": 752.08
+  },
+  {
+    "text": "it was a totally different constellation of regions that lit up. This is the no, no, no, no,",
+    "uid": "823b0c6c08cabcfb",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 752.08,
+    "end": 757.12
+  },
+  {
+    "text": "crowd. I think this is part of the no, no, no, no, crowd. So when people answer yes to the lever question,",
+    "uid": "6547c191d7d7476e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 757.12,
+    "end": 762.96
+  },
+  {
+    "text": "there are there are places in their brain which grow, but when they answer no, I will not push the man,",
+    "uid": "ec057194ee1e08cc",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 762.96,
+    "end": 767.76
+  },
+  {
+    "text": "then you get a completely different part of the brain lighting up. Even though the questions are basically the same.",
+    "uid": "43cad09829cbcb13",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 767.76,
+    "end": 772.32
+  },
+  {
+    "text": "What does that mean? And what does Josh make this? Well, he has a theory about this. The theory,",
+    "uid": "48f8eba39a2751c0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 773.36,
+    "end": 778.72
+  },
+  {
+    "text": "not proven, but I think this is what I think the evidence suggests. He suggests that the human brain",
+    "uid": "76a259a3eb3fc584",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 778.72,
+    "end": 783.28
+  },
+  {
+    "text": "doesn't hum along like one big unified system. It says maybe in your brain and every brain,",
+    "uid": "d5de796f6f6bc6d0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 783.28,
+    "end": 788.72
+  },
+  {
+    "text": "you'll find little, but worrying tribes, little subgroups, one that is sort of doing a logical,",
+    "uid": "26c495db01cc75a6",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 788.72,
+    "end": 794.96
+  },
+  {
+    "text": "sort of counting kind of thing. You've got one part of the brain that says,",
+    "uid": "cc9bc169e2a54646",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 794.96,
+    "end": 800.64
+  },
+  {
+    "text": "huh, five lives versus one life, when it'd be better to say five versus one. And that's the part that",
+    "uid": "300809a5cbdad6a5",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 800.64,
+    "end": 805.44
+  },
+  {
+    "text": "would glow when you answer yes, I'd pull the lever. Yeah, pull the lever. But there's this other",
+    "uid": "76b36206519951a1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 805.44,
+    "end": 810.48
+  },
+  {
+    "text": "part of the brain, but it really doesn't like personally killing another human being. It gets very upset that",
+    "uid": "5f65974cb41e53a8",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 810.48,
+    "end": 816.08
+  },
+  {
+    "text": "the fat man case ends and shouts and effect. No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.",
+    "uid": "cc3f8e02f3389fff",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 816.08,
+    "end": 828.8
+  },
+  {
+    "text": "Instead of having sort of one system that just sort of turns out the answer in Bing, we have multiple systems",
+    "uid": "a0e997b1f6304d1a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 828.8,
+    "end": 834.0
+  },
+  {
+    "text": "that give different answers and they do get out and hopefully out of that competition comes morality.",
+    "uid": "6b4b20153c99326e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 834.0,
+    "end": 839.6
+  },
+  {
+    "text": "This is not a trivial discovery that you struggle to find right and wrong, depending upon what part of",
+    "uid": "60ef0000229df122",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 844.72,
+    "end": 851.36
+  },
+  {
+    "text": "your brain is shouting the loudest. This is like bleachers morality. Do you buy this?",
+    "uid": "7bff87ba77081c7d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 851.36,
+    "end": 857.52
+  },
+  {
+    "text": "You know, I just don't know. I've always kind of suspected that a sense of right and wrong",
+    "uid": "4ce27e4658760829",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 860.48,
+    "end": 867.52
+  },
+  {
+    "text": "is mostly stuff that you get from your mom and your dad and from experience that it's culturally",
+    "uid": "966f3d81b33dedb7",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 867.52,
+    "end": 873.28
+  },
+  {
+    "text": "learned for the most part. Josh is kind of a radical in this respect. He thinks it's biological. I mean,",
+    "uid": "c62690fbcdfd42cd",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 873.28,
+    "end": 878.4
+  },
+  {
+    "text": "deeply biological that somehow we inherit from the deep past, a sense of right and wrong that's already in",
+    "uid": "28d2223e79463895",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 878.4,
+    "end": 884.08
+  },
+  {
+    "text": "our brains from the get go before mom and dad. Our our primate ancestors before we were full-blown humans",
+    "uid": "91d5fb39783c7fdd",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 884.08,
+    "end": 892.32
+  },
+  {
+    "text": "had intensely social lives. They have social mechanisms that prevent them from doing all the nasty",
+    "uid": "e2b8ca5c6fe94614",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 892.32,
+    "end": 898.88
+  },
+  {
+    "text": "things that they might otherwise be interested in doing. And so deep in our brain, we have what you might",
+    "uid": "dfd59bf0924735c9",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 898.88,
+    "end": 903.6
+  },
+  {
+    "text": "call basic primate morality. And basic primate morality doesn't understand things like tax evasion,",
+    "uid": "dd8556258a2d0a41",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 903.6,
+    "end": 910.24
+  },
+  {
+    "text": "but it doesn't understand things like pushing your body off of a cliff. So you're thinking them",
+    "uid": "fb7dd41ce505f83d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 910.24,
+    "end": 915.6
+  },
+  {
+    "text": "at the man on the bridge that I'm on the bridge next to the large man. And then I have hundreds of",
+    "uid": "af0bc4b264fe61b4",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 915.6,
+    "end": 921.76
+  },
+  {
+    "text": "thousands of years of training in my brain that says don't murder the large man. Right. Whereas even if I'm",
+    "uid": "54ec9d5762dc5a32",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 921.76,
+    "end": 928.56
+  },
+  {
+    "text": "thinking if I murder the large man I'm going to save five lives and only kill the woman, but there's",
+    "uid": "14ab9bfd4ab975f6",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 928.56,
+    "end": 932.48
+  },
+  {
+    "text": "something deeper down that says don't murder the large man. Right. Now that case I think it's a pretty",
+    "uid": "93fb6759ce6353ce",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 932.48,
+    "end": 937.12
+  },
+  {
+    "text": "easy case. Even though it's five versus one in that case people just go with what we might call",
+    "uid": "c572cf49658fb3f1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 937.12,
+    "end": 942.8
+  },
+  {
+    "text": "the inner chimp. But there are other, but there are a chimp is your unfortunately of describing an",
+    "uid": "92b78f9545063018",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 942.8,
+    "end": 948.8
+  },
+  {
+    "text": "act of deep goodness. Well that's that's what's interesting. Ten commandments for God's inner",
+    "uid": "c328a97b420bdb0a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 948.8,
+    "end": 954.48
+  },
+  {
+    "text": "chimp. Right. Well what's interesting is that we think of a basic human morality as being handed down from",
+    "uid": "30095cbc21ae8392",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 954.48,
+    "end": 960.0
+  },
+  {
+    "text": "on high. And it's probably better to say that it was handed up from below that are most basic core moral values",
+    "uid": "e7f48d7c8db9e9d1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 960.0,
+    "end": 967.44
+  },
+  {
+    "text": "are not the things that we humans have invented but the things that we've actually inherited from",
+    "uid": "7be838db99d5da6e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 967.44,
+    "end": 973.04
+  },
+  {
+    "text": "other people. The stuff that we humans have invented are the things that seem more peripheral and variable.",
+    "uid": "795f4b12a236d34f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 973.04,
+    "end": 977.6
+  },
+  {
+    "text": "But something as basic as thou shalt not kill, which many people think was handed down,",
+    "uid": "498b36a243dd8e5e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 977.6,
+    "end": 984.64
+  },
+  {
+    "text": "in tablet form from a mountaintop from God directly to humans, no chimp's involved, right.",
+    "uid": "c29bd3a0fd634351",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 984.64,
+    "end": 990.4
+  },
+  {
+    "text": "You're suggesting that hundreds of thousands of years of on the ground training have gotten our",
+    "uid": "98bfb20d5b596ba1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 991.04,
+    "end": 996.0
+  },
+  {
+    "text": "brains to think don't kill your kin. That should be your default response. I mean certainly",
+    "uid": "ddff745a27f78f83",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 996.0,
+    "end": 1004.4
+  },
+  {
+    "text": "chimpans, these are extremely violent and they do kill each other but they don't do it as a matter",
+    "uid": "2a9c7904e0634824",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1004.4,
+    "end": 1009.28
+  },
+  {
+    "text": "of course. They so to speak have to have some context sensitive reason for doing so.",
+    "uid": "5c6df809576c04bc",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1009.28,
+    "end": 1013.92
+  },
+  {
+    "text": "So how are we getting to the rub of it? You think that profound moral positions",
+    "uid": "a2c4278648c146e1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1013.92,
+    "end": 1019.84
+  },
+  {
+    "text": "may be somehow embedded in brain chemistry? Yeah. And Josh thinks there are times when these",
+    "uid": "7387f1ceda24e949",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1019.92,
+    "end": 1029.52
+  },
+  {
+    "text": "different moral positions that we have embedded inside of us in our brains when they can come into conflict",
+    "uid": "3fbedd629f3af54a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1029.52,
+    "end": 1036.16
+  },
+  {
+    "text": "and in the original episode we went into one more story. This one you might call the crying baby",
+    "uid": "271abb4b415052b5",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1036.8,
+    "end": 1042.48
+  },
+  {
+    "text": "The situation is somewhat similar to the last episode of mash for people who are familiar with that",
+    "uid": "f88b62e037258450",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1043.36,
+    "end": 1049.84
+  },
+  {
+    "text": "but the way we told the story it goes like this. It's wartime. It's an antipotrol coming down the road.",
+    "uid": "097716cfbba76de8",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1049.84,
+    "end": 1054.72
+  },
+  {
+    "text": "You are hiding in the basement with some of your fellow villagers. Let's kill those lights.",
+    "uid": "2e717e940d0d2975",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1054.72,
+    "end": 1058.72
+  },
+  {
+    "text": "And the enemy soldiers are outside. They have orders to kill anyone that they find.",
+    "uid": "8d84e62d8d5d1776",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1060.0,
+    "end": 1064.72
+  },
+  {
+    "text": "Quiet. Nobody. Make a sound until they've passed us. So there you are. You're huddled in the basement",
+    "uid": "bbf365430bda43e9",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1064.72,
+    "end": 1071.28
+  },
+  {
+    "text": "all around your enemy troops and you're holding your baby in your arms. You're baby with a cold",
+    "uid": "a52b57b0f7d5881d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1071.84,
+    "end": 1080.32
+  },
+  {
+    "text": "a bit of a sniffle and you know that your baby could cough at any moment. If they hear your baby",
+    "uid": "a83a67d51c0a3583",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1080.32,
+    "end": 1088.0
+  },
+  {
+    "text": "they're going to find you and the baby and everyone else and they're going to kill everybody.",
+    "uid": "b3d62ee12472e497",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1088.0,
+    "end": 1091.12
+  },
+  {
+    "text": "And the only way you can stop this from happening is to cover the baby's mouth. But if you do that",
+    "uid": "5bb506dc42c351ec",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1092.0,
+    "end": 1096.96
+  },
+  {
+    "text": "the baby's going to smother and die. If you don't cover the baby's mouth soldiers are going to find",
+    "uid": "9395504ca8bf60d0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1096.96,
+    "end": 1101.44
+  },
+  {
+    "text": "everybody and everybody's going to be killing including you including your baby.",
+    "uid": "e13d13063339f6e5",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1101.52,
+    "end": 1104.56
+  },
+  {
+    "text": "And you have to choice. Would you smother your own baby to save the village? Or would you like your baby",
+    "uid": "9597346a7b47931d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1105.28,
+    "end": 1112.72
+  },
+  {
+    "text": "cough knowing the consequences? And this is a very tough question. People take a long time to think about it",
+    "uid": "207065a58e6e334d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1112.72,
+    "end": 1122.0
+  },
+  {
+    "text": "and some people say yes and some people say no. The children are less than going to get from God and we do not",
+    "uid": "a264d0e01391d66b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1122.56,
+    "end": 1128.48
+  },
+  {
+    "text": "do that to children. Yes. I think I would help my baby to save everyone else and myself. No, I would not",
+    "uid": "3fbe7741450ea0af",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1128.48,
+    "end": 1135.2
+  },
+  {
+    "text": "kill a baby. I feel because it's my baby I have the right to terminate the life. I'd like to say that I",
+    "uid": "92679229cb62100c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1135.2,
+    "end": 1141.04
+  },
+  {
+    "text": "would kill the baby but I don't know if I'd have the inner strength. No. If it comes down to killing my own child,",
+    "uid": "1f151363c898ecc8",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1141.04,
+    "end": 1145.84
+  },
+  {
+    "text": "my own daughter and my own son then I choose that. Yeah if you have to because it was done and where a war",
+    "uid": "786771cbf42756b7",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1145.84,
+    "end": 1151.28
+  },
+  {
+    "text": "too when the Germans were coming around it was a mother that had a baby that was crying and",
+    "uid": "df6c2f0276913afc",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1151.28,
+    "end": 1156.8
+  },
+  {
+    "text": "pradets would be found she actually suffocated the baby but the other people lived. Sounds like an old",
+    "uid": "b0dbc38df2461003",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1156.8,
+    "end": 1162.24
+  },
+  {
+    "text": "mask they know you do not kill your baby. In the final mash episode the Korean woman who's a character in this piece",
+    "uid": "953c0234f5c626de",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1162.24,
+    "end": 1171.92
+  },
+  {
+    "text": "she murders her baby. She killed it. She killed it. Oh my god. Oh my god. I didn't mean for a to kill it.",
+    "uid": "f21d6f32a722fd3f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1174.18,
+    "end": 1191.68
+  },
+  {
+    "text": "I just wanted to be quiet. It was a baby. She keeps mothered around baby. What Josh did is he asked",
+    "uid": "c233c4a7e5ac9125",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1192.24,
+    "end": 1212.88
+  },
+  {
+    "text": "people the question would you murder your own child while they were in the brain scan and it just",
+    "uid": "94b7da0c1429938a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1212.88,
+    "end": 1221.6
+  },
+  {
+    "text": "the moment when they were trying to decide what they would do he took pictures of their brains.",
+    "uid": "9bad6ad3ddb45718",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1221.6,
+    "end": 1227.12
+  },
+  {
+    "text": "And what he saw the contest we described before was global in the brain. It was like a world war.",
+    "uid": "c96904f2c6f39bc7",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1230.06,
+    "end": 1237.34
+  },
+  {
+    "text": "That gang of accountants that had part of the brain was busy calculating how old the",
+    "uid": "68159195abdfd832",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1238.14,
+    "end": 1242.62
+  },
+  {
+    "text": "leg could die. But the older and deeper reflex also was lit up shouting don't kill the baby. No no",
+    "uid": "65363f253990234e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1242.62,
+    "end": 1250.38
+  },
+  {
+    "text": "don't kill the baby. Inside the brain was literally divided to the calculation. Don't kill the",
+    "uid": "c55cbdf1a414fb7b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1250.38,
+    "end": 1255.98
+  },
+  {
+    "text": "whole of the calculation. Two different tribes in the brain literally tried to shout each other out.",
+    "uid": "6dede2b36fe803c0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1255.98,
+    "end": 1261.26
+  },
+  {
+    "text": "And Chad this was a different kind of contest than the ones we talked about before. Remember before",
+    "uid": "3a907a6d7cc33e32",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1262.06,
+    "end": 1266.94
+  },
+  {
+    "text": "when people were pushing a man off of a bridge over well only their brains yelled no no don't push the man",
+    "uid": "0fad98763b7f5318",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1266.94,
+    "end": 1273.5
+  },
+  {
+    "text": "and when people were pulling the lever over well. Yeah yeah pull the lever. Right there it was distinct here.",
+    "uid": "ad8f0cd3d40c1ab5",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1273.5,
+    "end": 1279.18
+  },
+  {
+    "text": "I don't think really anybody wins. Well who breaks the time and they had to answer something right?",
+    "uid": "717aea2c407e1266",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1279.26,
+    "end": 1284.22
+  },
+  {
+    "text": "Yeah that's a good question. And now is there a you what happens is that just two cries that fight each other out",
+    "uid": "b896e1efbb7fc3b6",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1284.22,
+    "end": 1293.58
+  },
+  {
+    "text": "or is there a judge? Well that's an interesting question and that's one of the things that we're looking at.",
+    "uid": "0fb7e2159420cf50",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1293.58,
+    "end": 1298.38
+  },
+  {
+    "text": "When you are in this moment with parts of your brain contesting there are two brain regions.",
+    "uid": "67567c87741097d0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1298.38,
+    "end": 1304.78
+  },
+  {
+    "text": "These two areas here towards the front right behind your eyebrows left and right that light up.",
+    "uid": "79e3dc81fbc06bbf",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1304.78,
+    "end": 1309.98
+  },
+  {
+    "text": "And this is particular to us. He showed me a slide. It's those sort of areas that are very highly developed",
+    "uid": "e4ac7005f1e61ec0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1311.98,
+    "end": 1317.66
+  },
+  {
+    "text": "in humans as compared to other species. So when we have a problem that we need to deliberate over",
+    "uid": "be72c823b1e9a8db",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1317.66,
+    "end": 1323.18
+  },
+  {
+    "text": "the light the front of the brain this is above my eyebrow sort of. Yeah right about there. And there's two of them",
+    "uid": "b3c8b90ca41726cc",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1323.74,
+    "end": 1330.46
+  },
+  {
+    "text": "one on the left and one on the right. Biolateral. And they are the things that monkeys don't have as much of",
+    "uid": "bdf252b75c2831ba",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1330.54,
+    "end": 1336.38
+  },
+  {
+    "text": "that we have. Certainly these parts of the brain are more highly developed in humans. So looking at these two",
+    "uid": "060a0ebf1f4a1b8c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1336.38,
+    "end": 1341.5
+  },
+  {
+    "text": "flashes of like at the front of a human brain you could say we are looking at what makes a special.",
+    "uid": "25b0dde431c963b9",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1341.5,
+    "end": 1347.5
+  },
+  {
+    "text": "That's a fair statement. A human being wrestling with a problem. That's what that is. Yeah where it's both",
+    "uid": "cbbbb882cb0da658",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1348.94,
+    "end": 1354.94
+  },
+  {
+    "text": "emotional but there's also a sort of a rational attempt to sort of sort of sort of sort of through those",
+    "uid": "303ecd31cbd41ac8",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1354.94,
+    "end": 1358.46
+  },
+  {
+    "text": "those are the cases that are showing more activity in that area. So in those cases when these dots above",
+    "uid": "f2f65a377dfe9c5f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1359.1,
+    "end": 1364.54
+  },
+  {
+    "text": "our eyebrows become active what are they doing? Well he doesn't know for sure but what he found is in these",
+    "uid": "1c75abf9abcb0dbd",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1364.54,
+    "end": 1370.46
+  },
+  {
+    "text": "close contexts whenever those nodes are very very active. It appears that the calculating section of the brain",
+    "uid": "52136bf6e13715ec",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1370.46,
+    "end": 1379.26
+  },
+  {
+    "text": "gets a bit of a boost and the visceral inner chimp section of the brain is kind of muffled. Oh,",
+    "uid": "541eec5dde36401f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1379.26,
+    "end": 1385.98
+  },
+  {
+    "text": "the people who chose to kill their children who made what is essentially a logical decision over and",
+    "uid": "dc756a6c6afa5453",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1388.86,
+    "end": 1395.66
+  },
+  {
+    "text": "over those subjects had brighter glows in these two areas and longer glows in these two areas. So there",
+    "uid": "6c2bcd2e155499cc",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1395.66,
+    "end": 1403.82
+  },
+  {
+    "text": "is a definite association between these two dots above the eyebrow and the power of the logical brain",
+    "uid": "07241de5a4d3c5a0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1403.82,
+    "end": 1410.46
+  },
+  {
+    "text": "over the inner chimp or the visceral brain. Well you know that's the hypothesis. So it's going to",
+    "uid": "6112aae21a30fb29",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1410.46,
+    "end": 1415.18
+  },
+  {
+    "text": "take a lot of more research to sort of tease apart what these different parts of the brain are doing",
+    "uid": "0113915f37af12fc",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1415.18,
+    "end": 1419.82
+  },
+  {
+    "text": "or if some of these are just sort of activated an incidental kind of way. I mean we really don't know.",
+    "uid": "204dac3fc02faecf",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1419.82,
+    "end": 1424.22
+  },
+  {
+    "text": "It's all very new. Okay so that was the story we put together many many many years ago about a decade ago",
+    "uid": "cf9d49cd464eb22c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1424.22,
+    "end": 1438.06
+  },
+  {
+    "text": "and at that point the whole idea of thinking of morality is kind of purely a brain thing. It's relatively new.",
+    "uid": "9ada46e375010413",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1439.02,
+    "end": 1444.7
+  },
+  {
+    "text": "And certainly the idea of philosophers working with FMRI machines that was super new but now here we are",
+    "uid": "0805d4726fbdc6be",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1445.5,
+    "end": 1450.46
+  },
+  {
+    "text": "10 years later and some updates. First of all Josh Green. So in the long, long stream of times",
+    "uid": "3ea9a6281140aa83",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1450.46,
+    "end": 1456.54
+  },
+  {
+    "text": "I assume now you have three giraffes, two bops or hats and children. Yeah, so two kids and we're close to adding a cat.",
+    "uid": "c89478cafb833a02",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1456.54,
+    "end": 1464.94
+  },
+  {
+    "text": "We talked to him again. He has started a family. He switched labs from Princeton to Harvard.",
+    "uid": "c36bcae1ba5c609f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1464.94,
+    "end": 1470.14
+  },
+  {
+    "text": "But that whole time that interim decade he has still been thinking and working on the trolley problem.",
+    "uid": "b7eced622fdc0856",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1470.86,
+    "end": 1476.22
+  },
+  {
+    "text": "Do you ever write the story differently? Absolutely. For years he's been trying out different",
+    "uid": "98ae572708ee84d5",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1476.3,
+    "end": 1480.22
+  },
+  {
+    "text": "permutations of the scenario on people. Like okay. Instead of pushing the guy off the bridge with your hands, what if you did it?",
+    "uid": "ea1d5ab870a5d8ab",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1480.22,
+    "end": 1488.51
+  },
+  {
+    "text": "But not with your hands. So in one version we asked people about hitting a switch that opens a trap door on the foot bridge and drops the person",
+    "uid": "382af7d19395922b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1488.51,
+    "end": 1496.03
+  },
+  {
+    "text": "in one version of that the switch is right next to the person in another version the switch is far away.",
+    "uid": "71a6295d11e19602",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1496.59,
+    "end": 1501.55
+  },
+  {
+    "text": "And in yet another version you're right next to the person and you don't push them off with your hands",
+    "uid": "9a5d91fde764d910",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1502.03,
+    "end": 1506.59
+  },
+  {
+    "text": "but you push them with a pole. And to cut to the chase what Josh has found is that the basic results that we",
+    "uid": "9558a8320ab60f52",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1506.59,
+    "end": 1514.67
+  },
+  {
+    "text": "talked about. That's roughly held up. Still the case that people would like to save the most number of lives but not if it",
+    "uid": "8c77d1ccc6891a07",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1514.67,
+    "end": 1520.91
+  },
+  {
+    "text": "means pushing somebody with their own hands or with a pole for that matter. Now here's something kind of interesting.",
+    "uid": "dc5bc188e1913906",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1520.91,
+    "end": 1526.59
+  },
+  {
+    "text": "He and others have found that there are two groups that are more willing to push the guy off the bridge.",
+    "uid": "cc254ed184fd668c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1527.23,
+    "end": 1533.63
+  },
+  {
+    "text": "They are Buddhist monks and psychopaths. I mean some people just don't care very much about hurting other people and they don't have that kind of",
+    "uid": "c0d3774f06675574",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1534.35,
+    "end": 1541.95
+  },
+  {
+    "text": "an emotional response. They would be the psychopaths. Whereas the Buddhist monks presumably are really good at",
+    "uid": "997ee9d86272812a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1541.95,
+    "end": 1547.39
+  },
+  {
+    "text": "shushing their inner chimpanzee called it and just saying to themselves, you know, I'm aware that",
+    "uid": "b8d1c0f02538aae0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1547.47,
+    "end": 1553.07
+  },
+  {
+    "text": "this is that killing somebody is a terrible thing to do and I feel that but I recognize that this is done for a",
+    "uid": "086dbfdf78d5d304",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1553.07,
+    "end": 1558.51
+  },
+  {
+    "text": "noble reason and therefore it's it's it's okay. So there's all kinds of interesting things you can say about the",
+    "uid": "611dfc0ae431951f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1558.51,
+    "end": 1564.59
+  },
+  {
+    "text": "trolley problem as a thought experiment but at the end of the day it's just that it's a thought experiment.",
+    "uid": "24ef03af96cd84f4",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1564.59,
+    "end": 1569.71
+  },
+  {
+    "text": "What got us interested in revisiting it is that it seems like the thought experiment is about to get",
+    "uid": "2706ccb3feca1d21",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1569.71,
+    "end": 1577.23
+  },
+  {
+    "text": "real. That's coming up right after the break. Jad Robert Radial app okay so where we left it is at the",
+    "uid": "c3e89734ccbbba46",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1577.31,
+    "end": 1604.0
+  },
+  {
+    "text": "trolley problems about to get real. Here's how Josh Green put it. You know now as we're entering the age",
+    "uid": "0cbe4d297681c4be",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1604.0,
+    "end": 1609.36
+  },
+  {
+    "text": "of self-driving cars. This is like the trolley problem now finally come to life.",
+    "uid": "c24fa1ba37135da7",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1609.36,
+    "end": 1614.4
+  },
+  {
+    "text": "Oh there's cars coming. Oh the future of the automobile is here. Oh there's cars. Oh my god.",
+    "uid": "320ff051c99701e2",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1614.4,
+    "end": 1621.36
+  },
+  {
+    "text": "vehicles. It's here. First self-driving Volvo would be offered to customers in 2021.",
+    "uid": "8a0225ff9115cecb",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1621.76,
+    "end": 1629.2
+  },
+  {
+    "text": "This legislation is the first of this kind focused on the car of the future that is more of a",
+    "uid": "fe613747ebe6f277",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1632.8,
+    "end": 1637.44
+  },
+  {
+    "text": "super computer on wheels. Okay so self-driving cars unless you've been living under a muffler they are",
+    "uid": "bad86a1fdb18ba61",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1637.44,
+    "end": 1645.68
+  },
+  {
+    "text": "coming it's going to be a little bit of an adjustment for some of us. It's a great set of price.",
+    "uid": "82cd720eee508e62",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1645.68,
+    "end": 1651.36
+  },
+  {
+    "text": "But what Josh meant when he said it's the trolley problem come to life is basically this.",
+    "uid": "51a17918c4ed8058",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1651.36,
+    "end": 1655.92
+  },
+  {
+    "text": "Imagine this scenario. The self-driving car now is headed towards a bunch of pedestrians in the road.",
+    "uid": "293c12da4109d074",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1656.96,
+    "end": 1663.84
+  },
+  {
+    "text": "The only way to save them is to swear about it the way but that will run the car into a concrete wall and",
+    "uid": "65b55d9ff24b71f5",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1663.84,
+    "end": 1668.56
+  },
+  {
+    "text": "it will kill the passenger in the car. What should the car do? Should the car go straight and run",
+    "uid": "a6fffcb7c68b35a2",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1668.56,
+    "end": 1673.68
+  },
+  {
+    "text": "over say those five people or should it swear of an an an and killed the one person? That suddenly",
+    "uid": "c6ba11bfd61fcfd6",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1673.68,
+    "end": 1680.24
+  },
+  {
+    "text": "is a real world question. If you ask people in the abstract like what theoretically should a car in this",
+    "uid": "4d197dede3071294",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1680.24,
+    "end": 1690.88
+  },
+  {
+    "text": "situation do? They're much more likely to say I think you should sacrifice one for the good of the many.",
+    "uid": "e100ce0f81c86338",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1690.88,
+    "end": 1696.16
+  },
+  {
+    "text": "They should just try to do the most good or avoid the most harm. So if it's between one driver and five",
+    "uid": "c3f06152dc2906b7",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1696.16,
+    "end": 1700.8
+  },
+  {
+    "text": "pedestrians logically it would be the driver. I'm driving. Be selfless. I think it should kill the driver.",
+    "uid": "16837c0aa9564ce0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1700.8,
+    "end": 1706.4
+  },
+  {
+    "text": "But when you ask people forget the theory would you want to drive in a car that would potentially",
+    "uid": "517afc0b2541ba23",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1707.92,
+    "end": 1714.08
+  },
+  {
+    "text": "sacrifice you to save the lives of more people in order to minimize the total amount of harm they say no.",
+    "uid": "0a846a0783c72756",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1714.08,
+    "end": 1718.4
+  },
+  {
+    "text": "I wouldn't buy it. No, absolutely not. That would kill me in it. No.",
+    "uid": "0adda96924d9d837",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1718.4,
+    "end": 1724.48
+  },
+  {
+    "text": "So I'm not going to I'm not going to buy a car that's going to purposey kill me.",
+    "uid": "dce64aeb0a342ddf",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1724.48,
+    "end": 1727.92
+  },
+  {
+    "text": "How no. I wouldn't buy it.",
+    "uid": "1f90e59ee080afff",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1727.92,
+    "end": 1730.24
+  },
+  {
+    "text": "For sure no. I sell it by one bite.",
+    "uid": "62e9abafd1db4801",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1731.52,
+    "end": 1735.36
+  },
+  {
+    "text": "I'm very much happy.",
+    "uid": "6914c52ab5bd981c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1736.32,
+    "end": 1737.52
+  },
+  {
+    "text": "So there's a problem. People would sell a car and an idea of moral reasoning that they themselves wouldn't buy",
+    "uid": "644f223fed2ba225",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1737.52,
+    "end": 1745.2
+  },
+  {
+    "text": "and last fall in exact at Mercedes-Benz face planted right into the middle of this contradiction.",
+    "uid": "69422df76b3607f9",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1746.0,
+    "end": 1757.6
+  },
+  {
+    "text": "Welcome to Paris. One of the most beautiful cities in the world and welcome to the 2016 Paris Motor Show.",
+    "uid": "8df46ce2115887bd",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1757.6,
+    "end": 1762.32
+  },
+  {
+    "text": "Okay October 2016 Paris Motor Show you had something like a million people coming in over the course of",
+    "uid": "ad135023f51c4f60",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1763.28,
+    "end": 1771.28
+  },
+  {
+    "text": "a few days all the major car makers were there. Here is Ferrari. You can see the La Ferrari",
+    "uid": "d72b67a004a9c11f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1771.28,
+    "end": 1776.16
+  },
+  {
+    "text": "Apeata and of course the new GT4 C Lousseau T. Everybody was debut in their new cars.",
+    "uid": "369a30ec6c279488",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1776.16,
+    "end": 1782.16
+  },
+  {
+    "text": "And one of the big presenters in this whole fair was this guy. In the future you'll have cars",
+    "uid": "84d6541adf0218ac",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1782.16,
+    "end": 1787.28
+  },
+  {
+    "text": "but you don't even have to have your hands on the steering wheel anymore but maybe you",
+    "uid": "2284eb224e13c082",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1787.28,
+    "end": 1790.88
+  },
+  {
+    "text": "watch a movie on the head up display or maybe you want to do your emails.",
+    "uid": "d7dd6e3239da339c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1790.88,
+    "end": 1794.56
+  },
+  {
+    "text": "That's really what we are striving for. This is Christoph on Hugo, a senior safety manager at Mercedes-Benz.",
+    "uid": "0d8401d708c11b7a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1794.56,
+    "end": 1800.08
+  },
+  {
+    "text": "He was at the show sort of demonstrating a prototype of a car that could sort of self drive its way through traffic.",
+    "uid": "a4e33f1234f64478",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1800.08,
+    "end": 1806.16
+  },
+  {
+    "text": "In this E-Class today for example you've got a maximum of comfort and support systems.",
+    "uid": "75865e1e354bb298",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1806.16,
+    "end": 1810.56
+  },
+  {
+    "text": "You'll actually look forward to being stuck in traffic jams when you...",
+    "uid": "3cfad37861099122",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1810.56,
+    "end": 1813.68
+  },
+  {
+    "text": "Oh, of course of course.",
+    "uid": "4f1158dcc3b86258",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1813.68,
+    "end": 1815.36
+  },
+  {
+    "text": "He was doing dozens and dozens of interviews through the show and in one of those interviews,",
+    "uid": "83c0ad37622bd253",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1815.36,
+    "end": 1818.4
+  },
+  {
+    "text": "and fortunately this one we don't have on tape. He was asked, what would your driverless car do",
+    "uid": "f3428a31c7d72cc9",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1818.4,
+    "end": 1824.48
+  },
+  {
+    "text": "in a trolley problem type dilemma? Or maybe you have to choose between one or many and he answered,",
+    "uid": "081564409d5e67d0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1824.48,
+    "end": 1830.72
+  },
+  {
+    "text": "quote, if you know you can save one person, save that one person.",
+    "uid": "06c0213fb8611401",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1831.44,
+    "end": 1840.48
+  },
+  {
+    "text": "Save the one in the car. This is Michael Taylor, correspondent for Car and Driver magazine.",
+    "uid": "9f4212f684681b77",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1840.48,
+    "end": 1845.36
+  },
+  {
+    "text": "He was the one that Christoph on Hugo said that too.",
+    "uid": "1ee18ddb38e39ac8",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1845.36,
+    "end": 1848.4
+  },
+  {
+    "text": "If you know, Christ can be prevented in that show.",
+    "uid": "d573bb6ed50d3ca6",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1848.4,
+    "end": 1855.6
+  },
+  {
+    "text": "Now when he said this to you, this producer man, Aronchek, did it seem controversial at all in the moment?",
+    "uid": "d1f98a0ce2a14a53",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1855.6,
+    "end": 1861.36
+  },
+  {
+    "text": "He wanted to seem incredibly logical.",
+    "uid": "c8bd71cb15f6c1cd",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1861.36,
+    "end": 1864.0
+  },
+  {
+    "text": "I mean, all he's really doing is saying what's on people's minds, which is that...",
+    "uid": "d4d25a5f08bc2d13",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1864.0,
+    "end": 1869.12
+  },
+  {
+    "text": "No, I wouldn't buy it. Who's going to buy a car?",
+    "uid": "dbaa5b89e647b74b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1869.12,
+    "end": 1871.68
+  },
+  {
+    "text": "The chooses somebody else over them.",
+    "uid": "a7339269102deefc",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1872.56,
+    "end": 1874.48
+  },
+  {
+    "text": "Anyhow, he makes that comment, Michael prints it and...",
+    "uid": "75b4c18dc4d0f960",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1875.68,
+    "end": 1879.2
+  },
+  {
+    "text": "a kerfuffle in sues.",
+    "uid": "4b69160e75ff3821",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1881.04,
+    "end": 1883.12
+  },
+  {
+    "text": "Save the one in the car that's Christoph Von Hugo from Mercedes.",
+    "uid": "f6de5c9d53b93b8b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1883.12,
+    "end": 1886.64
+  },
+  {
+    "text": "But then when you let the questions you sound like a bit of a heel because you want to save yourself",
+    "uid": "5bca49c8c3b46c7d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1886.64,
+    "end": 1890.72
+  },
+  {
+    "text": "as opposed to the pedestrian. Doesn't it ring though of just privilege?",
+    "uid": "334908dbc5de06a1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1890.72,
+    "end": 1895.44
+  },
+  {
+    "text": "It does. Yeah, it does. What would you do?",
+    "uid": "88b7d0736daa5ca2",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1895.44,
+    "end": 1898.16
+  },
+  {
+    "text": "It's you or a pedestrian?",
+    "uid": "1b80ff9536db3a75",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1898.16,
+    "end": 1899.84
+  },
+  {
+    "text": "And it's just, you know, I don't know anything about this pedestrian.",
+    "uid": "bfdcd5a3171f3a09",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1899.84,
+    "end": 1902.24
+  },
+  {
+    "text": "It's just you or a pedestrian. Just a regular guy walking down the street.",
+    "uid": "fb15160a25433bd6",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1902.24,
+    "end": 1905.04
+  },
+  {
+    "text": "A screw everyone who's not in a Mercedes.",
+    "uid": "9d59bbecf25eeca7",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1905.04,
+    "end": 1907.76
+  },
+  {
+    "text": "And there was this kind of uproar about that.",
+    "uid": "2b69401a9dc2cbb8",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1907.76,
+    "end": 1910.48
+  },
+  {
+    "text": "How dare you drive these selfish, you know, make these selfish cars.",
+    "uid": "0b52cfabb46c1f72",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1910.88,
+    "end": 1913.76
+  },
+  {
+    "text": "And then he walked it back and he said, no, no, what I mean is that just the...",
+    "uid": "6367e0293c0f8a9d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1914.48,
+    "end": 1918.72
+  },
+  {
+    "text": "We have a better chance of protecting the people in the car. So we're going to protect them because they're",
+    "uid": "2b37d3a772fdd048",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1919.44,
+    "end": 1923.44
+  },
+  {
+    "text": "easier to protect. But of course, you know, there's always going to be trade-offs.",
+    "uid": "52380e7f68fc8b21",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1923.44,
+    "end": 1927.6
+  },
+  {
+    "text": "Yeah. And those trade-offs could get really, really tricky.",
+    "uid": "1c8969b826a046ff",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1927.6,
+    "end": 1931.76
+  },
+  {
+    "text": "And subtle. Because obviously these cars have sensors. Sensors like cameras, radar, lasers,",
+    "uid": "24229d70dd460fe2",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1934.66,
+    "end": 1943.02
+  },
+  {
+    "text": "and ultrasound sensors. This is Raj Raj Kumar. He's a professor at Carnegie Mellon.",
+    "uid": "433c99e5514008c4",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1943.1,
+    "end": 1947.66
+  },
+  {
+    "text": "Time the code director of the GMCMU connected an autonomous driving collaborative research lab.",
+    "uid": "30f71f6683266a61",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1947.66,
+    "end": 1953.18
+  },
+  {
+    "text": "He is one of the guys that is writing the code that will go inside GM's driverless car.",
+    "uid": "c5adfb5b9a3cbe33",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1953.18,
+    "end": 1958.38
+  },
+  {
+    "text": "He says, yeah, the sensors at the moment on these cars still evolving. Pretty basic.",
+    "uid": "e5b80da9b1ec8b49",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1958.38,
+    "end": 1963.26
+  },
+  {
+    "text": "We are very happy if today we can actually detect a pedestrian.",
+    "uid": "01a080cb7f8f7b2c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1963.26,
+    "end": 1967.42
+  },
+  {
+    "text": "We can detect a bicyclist and more cyclists. Different vehicles have different shapes, sizes and colors.",
+    "uid": "2a8b5134bd01b77a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1967.42,
+    "end": 1972.14
+  },
+  {
+    "text": "But he says it won't be long before. We can actually ignore a lot more about who these people are.",
+    "uid": "79a9614c65574605",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1972.14,
+    "end": 1977.34
+  },
+  {
+    "text": "Eventually they will be able to detect people of different sizes, shapes and colors.",
+    "uid": "96876dceda5987ae",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1977.34,
+    "end": 1981.42
+  },
+  {
+    "text": "Like, oh, that's a skinny person that's a small person tall person, black person, white person.",
+    "uid": "acdab98c5ac922f0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1981.42,
+    "end": 1985.9
+  },
+  {
+    "text": "That's a little boy. That's a little girl. So forget that basic moral math.",
+    "uid": "fceb8d168d74881f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1985.9,
+    "end": 1989.26
+  },
+  {
+    "text": "Like, what does a car do if it has to decide, oh, do I save this boy or this girl?",
+    "uid": "5531203397ac5041",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1989.26,
+    "end": 1993.82
+  },
+  {
+    "text": "But about two girls versus one boy and an adult. But a cat versus a dog. A 75-year-old guy and a suit versus",
+    "uid": "168f26dbc64c6513",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1993.82,
+    "end": 1999.66
+  },
+  {
+    "text": "that person over there who might be homeless. You can see where this is going.",
+    "uid": "b36eb2cb98836dc0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 1999.66,
+    "end": 2003.34
+  },
+  {
+    "text": "And it's conceivable the cars will know our medical records and back at the car show.",
+    "uid": "071d44baa2402efb",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2003.34,
+    "end": 2008.54
+  },
+  {
+    "text": "We've also had that time call to call communication.",
+    "uid": "556a8ac4dd0f5a20",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2008.54,
+    "end": 2011.34
+  },
+  {
+    "text": "Well, that's also one of the enabling technologies in highly automated driving.",
+    "uid": "96215485ff95ab75",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2011.34,
+    "end": 2016.06
+  },
+  {
+    "text": "Mercedes-Guy basically said in a couple years the cars will be networked.",
+    "uid": "d2d262a34531b1ff",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2016.06,
+    "end": 2019.66
+  },
+  {
+    "text": "They'll be talking to each other.",
+    "uid": "ce66d22791a21f1b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2019.66,
+    "end": 2021.02
+  },
+  {
+    "text": "So just imagine a scenario where like cars are about to get into accidents and write it the decision point.",
+    "uid": "abfd7bd497ebeb06",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2021.02,
+    "end": 2025.5
+  },
+  {
+    "text": "They're like conferring, well, who do you have in your car?",
+    "uid": "5150c88f1350dadc",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2025.5,
+    "end": 2027.66
+  },
+  {
+    "text": "Me, I got a 70-year-old Wall Street guy, makes eight figures. How about you?",
+    "uid": "48001675e38c19a3",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2027.66,
+    "end": 2030.78
+  },
+  {
+    "text": "Huh? I'm a bus, full of kids. Kids have more years left. You need to move.",
+    "uid": "64c185b6fe7ec69d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2030.78,
+    "end": 2034.3
+  },
+  {
+    "text": "Well, hold up. I see that your kids can't perform their rhythm. Have asthma.",
+    "uid": "a494a573f5c74bdd",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2034.3,
+    "end": 2037.5
+  },
+  {
+    "text": "So I don't know.",
+    "uid": "3000f3065c97e468",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2037.5,
+    "end": 2038.7
+  },
+  {
+    "text": "So you can basically tie yourself up and not rap yourself around an axle.",
+    "uid": "623a8ba673b4afa9",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2038.7,
+    "end": 2043.66
+  },
+  {
+    "text": "We do not think that any programmer should be given this major burden of deciding who survives and who gets",
+    "uid": "e222c913e141fd21",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2043.66,
+    "end": 2050.78
+  },
+  {
+    "text": "I think these are very fundamental deep issues that society has to decide at large.",
+    "uid": "c5a018682e14cb99",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2051.02,
+    "end": 2059.26
+  },
+  {
+    "text": "I don't think programmer eating pizza and sipping cooks should be making the call.",
+    "uid": "bc42753c84dd94f6",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2059.26,
+    "end": 2063.98
+  },
+  {
+    "text": "How does society decide? I mean, help me imagine that.",
+    "uid": "a670a0480e9cc5b7",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2065.58,
+    "end": 2068.78
+  },
+  {
+    "text": "I think it really has to be an evolutionary process, I believe.",
+    "uid": "c6097b4dff0a3319",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2068.78,
+    "end": 2071.58
+  },
+  {
+    "text": "Raj told us two things basically need to happen. First, we need to get these robot cars on the road.",
+    "uid": "63b79a38ce4dd8e5",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2071.58,
+    "end": 2075.74
+  },
+  {
+    "text": "Get more experience with how they interact with us. Human drivers and how we interact with them.",
+    "uid": "442bdd12c5861dca",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2075.74,
+    "end": 2080.54
+  },
+  {
+    "text": "And two, they're going to be like industry-wide summits.",
+    "uid": "16afc12b057c7e77",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2080.54,
+    "end": 2085.02
+  },
+  {
+    "text": "No one company is going to solve that.",
+    "uid": "b83a08aecd3e45cf",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2085.02,
+    "end": 2087.34
+  },
+  {
+    "text": "This is Bill Ford Jr. of the Ford company giving a speech in October of 2016 at the Economic Club of DC.",
+    "uid": "e8a60cda87f79a26",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2087.34,
+    "end": 2094.22
+  },
+  {
+    "text": "And we have to have, because you can imagine if we had one algorithm and Toyota had another and",
+    "uid": "4a7db890ed0aba6d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2094.22,
+    "end": 2099.9
+  },
+  {
+    "text": "General Motors had another. I mean, it would be, I mean, I see couldn't do that.",
+    "uid": "65f14a3f0396e0cb",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2099.9,
+    "end": 2103.34
+  },
+  {
+    "text": "Because like, what if the Tibetan cars make one decision in the American cars make another?",
+    "uid": "94d7782e3483d89a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2103.34,
+    "end": 2107.58
+  },
+  {
+    "text": "So we need to have a national discussion on ethics, I think, because we've never had to think",
+    "uid": "24b5b9fabe43e738",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2107.58,
+    "end": 2113.82
+  },
+  {
+    "text": "of these things before, but the cars will have the time and the ability to do that.",
+    "uid": "fee08e142a494bd4",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2113.82,
+    "end": 2118.22
+  },
+  {
+    "text": "Leave a colleague, who is the sponsor?",
+    "uid": "54f5de1fd16bf6c4",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2118.22,
+    "end": 2121.82
+  },
+  {
+    "text": "So far, Germany is the only country that we know of that has tackled this head on.",
+    "uid": "3e2577436fee05d1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2121.82,
+    "end": 2126.86
+  },
+  {
+    "text": "One of the most significant points, the ethics commission made, is that autonomous and connected driving",
+    "uid": "5dcc71aa3f01b4a7",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2128.38,
+    "end": 2134.62
+  },
+  {
+    "text": "isn't ethical imperative.",
+    "uid": "56f9ce041586fbb2",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2134.7,
+    "end": 2136.14
+  },
+  {
+    "text": "They, the government, is released a code of ethics that says, among other things, self-driving cars,",
+    "uid": "8a20348bcd5bb101",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2136.14,
+    "end": 2141.58
+  },
+  {
+    "text": "are forbidden to discriminate between humans in almost any way, not on race, not on gender, not on age,",
+    "uid": "a6092be43b0efcc8",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2141.58,
+    "end": 2148.54
+  },
+  {
+    "text": "nothing. These shouldn't be programmed into the cars.",
+    "uid": "eb42e54401f6dfe1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2148.54,
+    "end": 2151.42
+  },
+  {
+    "text": "One can imagine a few classes being added in the Geneva Convention, if you were,",
+    "uid": "fc7ceaced3c7974b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2151.42,
+    "end": 2157.82
+  },
+  {
+    "text": "of what these automotive vehicles should do, a globally accepted standard if you were.",
+    "uid": "ddebb54e1c02a39b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2157.82,
+    "end": 2162.14
+  },
+  {
+    "text": "How we get there to that globally accepted standard is anyone's guess.",
+    "uid": "89780126c9d57959",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2162.14,
+    "end": 2166.78
+  },
+  {
+    "text": "And what it will look like, whether it'll be a coherent set of rules or like,",
+    "uid": "b69f0c63f2316576",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2166.78,
+    "end": 2171.42
+  },
+  {
+    "text": "right with the kind of contradictions we see in our own brain, that also remains to be seen,",
+    "uid": "a33e0ee1098ecda2",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2171.42,
+    "end": 2176.94
+  },
+  {
+    "text": "but one thing is clear.",
+    "uid": "3447c9f3e0caea3c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2177.66,
+    "end": 2179.18
+  },
+  {
+    "text": "Oh, there's cars coming. Oh, there are cars coming.",
+    "uid": "16df7b1a2f63806a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2179.18,
+    "end": 2187.31
+  },
+  {
+    "text": "Build this with their questions.",
+    "uid": "67b6ccd7ee2b84a8",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2187.31,
+    "end": 2188.83
+  },
+  {
+    "text": "Back for me, control it. Oh, dear Jesus. I could never.",
+    "uid": "61427ef903a17855",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2189.47,
+    "end": 2194.11
+  },
+  {
+    "text": "Oh, where's it going?",
+    "uid": "1c0f54a7e04279be",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2195.95,
+    "end": 2197.47
+  },
+  {
+    "text": "Do you feel?",
+    "uid": "e1a10c05b9735dd1",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2198.75,
+    "end": 2199.55
+  },
+  {
+    "text": "Okay, we do need to caveat all this by saying that the moral dilemma we're talking about in the case of these",
+    "uid": "77b357d1f5fc1bbc",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2201.73,
+    "end": 2206.77
+  },
+  {
+    "text": "driverless cars is going to be super rare. Mostly what'll probably happen is that like the plain",
+    "uid": "6c3ed1e6a8ae7b9b",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2206.77,
+    "end": 2214.69
+  },
+  {
+    "text": "loads full of people that die every day from car accidents. Well, that's just going to hit the floor.",
+    "uid": "5eb694f64bbc3d84",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2214.77,
+    "end": 2221.17
+  },
+  {
+    "text": "And so you have to balance the few cases where a car might make a decision you don't like against the",
+    "uid": "f2a3964ee5fc1783",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2221.17,
+    "end": 2227.25
+  },
+  {
+    "text": "massive number of life saved. I was thinking actually a different thing. I was thinking,",
+    "uid": "eba3fa987f79ca18",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2227.25,
+    "end": 2231.73
+  },
+  {
+    "text": "even though you dramatically bring down the, the number of bad things that happen on road,",
+    "uid": "e332fec55aee7f61",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2232.61,
+    "end": 2239.73
+  },
+  {
+    "text": "you dramatically bring down the collisions, you dramatically bring down the mortality,",
+    "uid": "95beebe26a0b4fdf",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2239.73,
+    "end": 2243.49
+  },
+  {
+    "text": "you dramatically lower the number of people who are drunk coming home from a party and just",
+    "uid": "3f7abf5ee8652b28",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2244.37,
+    "end": 2249.33
+  },
+  {
+    "text": "ram some one sideways and killing three of them and injuring two of them for the rest of their lives.",
+    "uid": "8db4dabd3cb97574",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2249.33,
+    "end": 2253.81
+  },
+  {
+    "text": "Those kinds of things go way down. But the ones that remain are engineered, like they are calculated,",
+    "uid": "82b0d8726daeb20e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2253.81,
+    "end": 2261.89
+  },
+  {
+    "text": "almost with foresight. So here's the difference. And this is just an interesting difference. Like,",
+    "uid": "b50dc9bbad027755",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2262.85,
+    "end": 2268.53
+  },
+  {
+    "text": "oh damn, that's so sad that happened that I could drunk and that maybe you could go to jail.",
+    "uid": "c6ee4ea003948f10",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2269.41,
+    "end": 2274.77
+  },
+  {
+    "text": "But you mean that the society engineered this in, that is a big difference. One is operatic and seems like",
+    "uid": "7ea7fd85c0464629",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2275.49,
+    "end": 2283.81
+  },
+  {
+    "text": "the forces of destiny. And the other seems mechanical and free thought through.",
+    "uid": "0729007ae34fabe8",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2283.81,
+    "end": 2289.49
+  },
+  {
+    "text": "Three meditated. And there's something dark about a premeditated",
+    "uid": "6feff8a3c7a91876",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2289.49,
+    "end": 2293.25
+  },
+  {
+    "text": "expected death. And I don't know what you do about it. Everybody's on the one side.",
+    "uid": "30b764e1a6aef068",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2294.21,
+    "end": 2298.29
+  },
+  {
+    "text": "In the particulars, in the particulars, it feels dark. It's a little bit like when, you know,",
+    "uid": "57c0bb5b4bd2383e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2298.29,
+    "end": 2302.53
+  },
+  {
+    "text": "should you kill your own baby to save the villas? Like in the particular instance of that one child, it's dark.",
+    "uid": "35be5b7db1066b4d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2302.53,
+    "end": 2307.65
+  },
+  {
+    "text": "But against the backdrop of the life saved, it's just a tiny pin prick of darkness. That's all about it.",
+    "uid": "1082467e659ff656",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2307.65,
+    "end": 2311.81
+  },
+  {
+    "text": "You know how humans are. If you argue back,",
+    "uid": "debc6de6d0b9987a",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2311.81,
+    "end": 2314.53
+  },
+  {
+    "text": "yes, a bunch of smarty pantses can cock to the mathematical formula, which meant that some people",
+    "uid": "fc2f444311fdbb63",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2316.13,
+    "end": 2321.17
+  },
+  {
+    "text": "had to lie in here. They are. There are many fewer than before. A human being just like Josh would tell you,",
+    "uid": "21519ab9f833927d",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2321.41,
+    "end": 2328.13
+  },
+  {
+    "text": "would have a roar of feeling and of anger and saying, how dare you engineer this in? No, no, no, no, no,",
+    "uid": "d58b2b681b7e9b69",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2328.13,
+    "end": 2334.69
+  },
+  {
+    "text": "and that human being needs to meditate like the monks to silence that feeling because the feeling in that",
+    "uid": "40204a363913de31",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2334.69,
+    "end": 2340.93
+  },
+  {
+    "text": "case is just getting in the way. Yes, and no. And that may be impossible, unless you're a monk for God's",
+    "uid": "bebcb709d9636eaa",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2340.93,
+    "end": 2346.93
+  },
+  {
+    "text": "music. See we're right back where we started now.",
+    "uid": "6243f0b0315930b3",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2347.73,
+    "end": 2350.37
+  },
+  {
+    "text": "All right, we should go. Chad, you have to thank some people, no? Yes, this piece was produced by Amanda",
+    "uid": "927c560f545ce22c",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2352.85,
+    "end": 2357.57
+  },
+  {
+    "text": "Arancheck with help from Bethlehem Habtay. Special thanks to E. Ad Ruan, Edmund Award, and Sidney Levine",
+    "uid": "0dcd7d7a79a0a183",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2357.57,
+    "end": 2363.65
+  },
+  {
+    "text": "from the Moral Machine Group at MIT. Also, thanks to SirTech, Karaman, Shinshang, and Robo Race for",
+    "uid": "4736bffd2838644f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2363.65,
+    "end": 2369.73
+  },
+  {
+    "text": "all their help. And I guess we should go now. Yeah. I'm Chad, I'm Rod. I'm not coming into your car.",
+    "uid": "b5406d8a3be8d1d0",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2369.73,
+    "end": 2377.09
+  },
+  {
+    "text": "We don't mind. Just take my own. I'm going to rig up an autonomous vehicle to the bottom of your bed.",
+    "uid": "b702f6160002a856",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2378.69,
+    "end": 2383.81
+  },
+  {
+    "text": "So you're going to go to bed and suddenly find yourself on the highway driving you wherever I want.",
+    "uid": "20893d7a57b4fe5f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2385.65,
+    "end": 2390.13
+  },
+  {
+    "text": "There you are. Anyhow, okay, we should go. I'm Chad, I'm Rod. I'm Robo Goge. Thanks for listening.",
+    "uid": "61b8f919a71fa2bb",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2391.73,
+    "end": 2397.97
+  },
+  {
+    "text": "It was created by Chad Avumrod and is edited by Sorin Wheel, Jeremy Bloom,",
+    "uid": "c0066bf1bb4227d6",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2398.05,
+    "end": 2423.57
+  },
+  {
+    "text": "Joe Cusik, a Kettie Foster Keys, W. Harry for Tuna, David Gable, Sindoon, Yana Samba.",
+    "uid": "e598c3481493f8a2",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2423.57,
+    "end": 2433.58
+  },
+  {
+    "text": "Matt Kilti, Amy McEwan, Alex Niesin, Sarcari, Anna Ruskwitt, Pause, Alyssa Jong, Harry, Sarah Sambaq,",
+    "uid": "0ab68e35494aff27",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2433.98,
+    "end": 2442.38
+  },
+  {
+    "text": "Aryan Wack, with help from Timmy Brotter. Our backchekers are dying Kelly, Emily Krieger, and that.",
+    "uid": "15d60fdf756211de",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2442.38,
+    "end": 2450.83
+  },
+  {
+    "text": "I'm Erica and Yonkers. Leadership support for radio labs science programming is provided by the",
+    "uid": "b614b6e49a85161e",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2450.83,
+    "end": 2460.83
+  },
+  {
+    "text": "Gordon and Betty Moore Foundation, Science Sandbox, a Simon Foundation initiative, and the John Templeton Foundation.",
+    "uid": "cfd952f90c01a273",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2460.83,
+    "end": 2468.91
+  },
+  {
+    "text": "Foundation support for radio labs was provided by the Alfred P. Sloan Foundation.",
+    "uid": "27b4620e434ff82f",
+    "source": "Radiolab - Driverless_Dilemma_Radiolab_Podcast",
+    "start": 2469.63,
+    "end": 2476.91
+  }
+]
