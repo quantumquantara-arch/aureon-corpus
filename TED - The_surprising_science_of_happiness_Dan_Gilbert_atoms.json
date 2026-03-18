@@ -1,0 +1,2193 @@
+[
+  {
+    "text": "When you have 21 minutes to speak, 2 million years seems like a really long time, but evolutionarily 2 million years is nothing.",
+    "uid": "d69b15ec35286eba",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 0.0,
+    "end": 23.06
+  },
+  {
+    "text": "And yet in 2 million years, the human brain has nearly tripled in mass, going from the 1 and a quarter pound brain of our ancestor here,",
+    "uid": "24a06df87ad035c4",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 23.06,
+    "end": 32.36
+  },
+  {
+    "text": "haveless to the almost three pound meatloaf that everybody here has between their ears.",
+    "uid": "f7bed1178e0c9025",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 32.36,
+    "end": 38.56
+  },
+  {
+    "text": "What is it about a big brain that nature was so eager for everyone to have one?",
+    "uid": "51e385a3818e7f02",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 38.56,
+    "end": 45.56
+  },
+  {
+    "text": "Well, it turns out when brains triple in size, they don't just get three times bigger, they gain new structures.",
+    "uid": "719f123024f5f80e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 45.56,
+    "end": 51.56
+  },
+  {
+    "text": "And one of the main reasons that our brain got so big is because it got a new part called the frontal lobe,",
+    "uid": "64bcfa351f870faa",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 51.56,
+    "end": 57.56
+  },
+  {
+    "text": "and particularly a part called the prefrontal cortex.",
+    "uid": "6b4610cd7f5e34d6",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 57.56,
+    "end": 60.56
+  },
+  {
+    "text": "Now, what does a prefrontal cortex do for you that should justify the entire architecture,",
+    "uid": "7f49e1294a07619b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 60.56,
+    "end": 65.56
+  },
+  {
+    "text": "or overhaul of the human skull in the blink of evolutionary time?",
+    "uid": "66e504c95334b5e6",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 65.56,
+    "end": 69.56
+  },
+  {
+    "text": "Well, turns out the prefrontal cortex does lots of things, but one of the most important things it does is it is an experience simulator.",
+    "uid": "ae9eed1126dbe29b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 69.56,
+    "end": 78.56
+  },
+  {
+    "text": "You know, pilots practice in flight simulators so that they don't make real mistakes and planes.",
+    "uid": "687cc6de0727530f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 78.56,
+    "end": 84.56
+  },
+  {
+    "text": "Human beings have this marvelous adaptation that they can actually have experiences in their heads before they try them out in real life.",
+    "uid": "3ac5781b665a9276",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 84.56,
+    "end": 93.56
+  },
+  {
+    "text": "This is a trick that none of our ancestors could do that no other animal can do quite like we can.",
+    "uid": "4029b2d868c5a37b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 93.56,
+    "end": 99.56
+  },
+  {
+    "text": "It's a marvelous adaptation.",
+    "uid": "2ccb06e58e96c433",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 99.56,
+    "end": 100.56
+  },
+  {
+    "text": "It's up there with opposable thumbs and standing upright in the language as one of the things that got our species out of the trees and into the shopping mall.",
+    "uid": "64c81001e49412ee",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 100.56,
+    "end": 109.56
+  },
+  {
+    "text": "Now, all of you have done this.",
+    "uid": "119d59a3a3b70381",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 109.56,
+    "end": 113.56
+  },
+  {
+    "text": "I mean, you know, Ben and Jerry's doesn't have liver in onion ice cream, and it's not because they whip some up, try it and went yuck.",
+    "uid": "35d7095af13855dd",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 113.56,
+    "end": 120.56
+  },
+  {
+    "text": "It's because from without leaving your armchair, you can simulate that flavor and say,",
+    "uid": "35e1c86cc92d04df",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 120.56,
+    "end": 126.56
+  },
+  {
+    "text": "yuck before you make it.",
+    "uid": "a369b673cb4c971e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 126.56,
+    "end": 128.56
+  },
+  {
+    "text": "Let's see how your experience simulators are working.",
+    "uid": "3005549f63d13e91",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 128.56,
+    "end": 133.1
+  },
+  {
+    "text": "Let's just run a quick diagnostic before I proceed with the rest of the talk.",
+    "uid": "90edef4f826cf35e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 133.1,
+    "end": 137.1
+  },
+  {
+    "text": "Here's two different futures that I invite you to contemplate and you can try to simulate them and tell me which one you think you might prefer.",
+    "uid": "671802e99ddff622",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 137.1,
+    "end": 145.1
+  },
+  {
+    "text": "One of them is winning the lottery.",
+    "uid": "cb1aeb5293fca1f3",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 145.1,
+    "end": 148.1
+  },
+  {
+    "text": "This is about $314 million and the other is becoming paraplegic.",
+    "uid": "245a2ffd3ea987be",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 148.1,
+    "end": 153.1
+  },
+  {
+    "text": "So just give it a moment of thought.",
+    "uid": "22d109b0fa15b22f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 153.1,
+    "end": 156.1
+  },
+  {
+    "text": "You probably don't feel like you need a moment of thought.",
+    "uid": "e5900f1db44388aa",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 156.1,
+    "end": 159.1
+  },
+  {
+    "text": "And interestingly, there are data on these two groups of people.",
+    "uid": "125003a4828d1d39",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 159.1,
+    "end": 163.1
+  },
+  {
+    "text": "Data on how happy they are.",
+    "uid": "66fa48c383a7ea2f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 163.1,
+    "end": 165.1
+  },
+  {
+    "text": "And this is exactly what you expected, isn't it?",
+    "uid": "25f6d5626dbd57c3",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 165.1,
+    "end": 168.1
+  },
+  {
+    "text": "But these aren't the data.",
+    "uid": "408ec4faba0a3976",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 168.1,
+    "end": 170.1
+  },
+  {
+    "text": "I made these up.",
+    "uid": "0e1ee115d9c00c23",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 170.1,
+    "end": 171.1
+  },
+  {
+    "text": "These are the data.",
+    "uid": "a863899210105ffc",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 171.1,
+    "end": 172.1
+  },
+  {
+    "text": "You failed the pop quiz in your hardly five minutes into the lecture.",
+    "uid": "21ab636f56292a67",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 172.1,
+    "end": 176.1
+  },
+  {
+    "text": "Because the fact is that a year after losing the use of their legs and a year after winning the lotto,",
+    "uid": "62449977460cc531",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 176.1,
+    "end": 182.1
+  },
+  {
+    "text": "lottery winners and paraplegics are equally happy with their lives.",
+    "uid": "d0ccd6d6c55443e0",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 182.1,
+    "end": 187.1
+  },
+  {
+    "text": "Now, don't feel too bad about failing the first pop quiz because everybody fails all of the pop quiz.",
+    "uid": "a0275eee6bb0a76b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 187.1,
+    "end": 192.1
+  },
+  {
+    "text": "But all of the pop quiz is all of the time.",
+    "uid": "0b2077b44efaec5c",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 192.1,
+    "end": 195.1
+  },
+  {
+    "text": "The research that my laboratory has been doing that economists and psychologists around the country have been doing",
+    "uid": "fe9328971344d440",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 195.1,
+    "end": 200.1
+  },
+  {
+    "text": "have revealed something really quite startling to us.",
+    "uid": "b47167b87fb00608",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 200.1,
+    "end": 203.1
+  },
+  {
+    "text": "Something we call the impact bias, which is the tendency for the simulator to work badly.",
+    "uid": "e5913a609bd74d70",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 203.1,
+    "end": 208.1
+  },
+  {
+    "text": "For the simulator to make you believe that different outcomes are more different than in fact they really are.",
+    "uid": "eb1186265ae57c89",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 208.1,
+    "end": 215.1
+  },
+  {
+    "text": "From field studies to laboratory studies, we see that winning or losing an election, gaining or losing a romantic partner.",
+    "uid": "28c0515206e32fee",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 215.1,
+    "end": 221.1
+  },
+  {
+    "text": "Getting or not getting a promotion passing or not passing a college test on and on, have far less impact, less intensity and much less duration than people expect them to have.",
+    "uid": "c1fce3da876df5c1",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 221.1,
+    "end": 234.1
+  },
+  {
+    "text": "In fact, a recent study, this almost floors me.",
+    "uid": "ca8bb49a22537827",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 234.1,
+    "end": 237.1
+  },
+  {
+    "text": "A recent study showing how major life traumas affect people, suggests that if it happened over three months ago with only a few exceptions,",
+    "uid": "9fa83c96374470cd",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 237.1,
+    "end": 246.1
+  },
+  {
+    "text": "it has no impact whatsoever on your happiness.",
+    "uid": "5df57eb10d5236d7",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 246.1,
+    "end": 249.1
+  },
+  {
+    "text": "Because happiness can be synthesized.",
+    "uid": "8570b3f242708fd0",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 252.1,
+    "end": 256.1
+  },
+  {
+    "text": "Sir Thomas Brown wrote in 1642, I am the happiest man alive.",
+    "uid": "1cbef744d4137bab",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 256.1,
+    "end": 260.1
+  },
+  {
+    "text": "I have that in me that can convert poverty to riches, adversity to prosperity.",
+    "uid": "a5221976762c7646",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 260.1,
+    "end": 265.1
+  },
+  {
+    "text": "I am more invulnerable than a kille's fortune, half-not one place to hit me.",
+    "uid": "5e5314927d6d6d0d",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 265.1,
+    "end": 270.1
+  },
+  {
+    "text": "Kind of remarkable machinery does this guy have in his head.",
+    "uid": "03d7e033b0e19526",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 270.1,
+    "end": 273.1
+  },
+  {
+    "text": "Well, it turns out it's precisely the same remarkable machinery that all of us have.",
+    "uid": "12bea74106c809f6",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 273.1,
+    "end": 278.1
+  },
+  {
+    "text": "Human beings have something that we might think of as a psychological immune system, a system of cognitive processes,",
+    "uid": "464246bc7804d67e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 278.1,
+    "end": 287.1
+  },
+  {
+    "text": "largely non-conscious cognitive processes that help them change their views of the world so that they can feel better about the worlds in which they find themselves.",
+    "uid": "0dd313b7840fdaa6",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 287.1,
+    "end": 298.1
+  },
+  {
+    "text": "Like Sir Thomas, you have this machine unlike Sir Thomas, you seem not to know it.",
+    "uid": "236a1b976a309fb5",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 298.1,
+    "end": 305.1
+  },
+  {
+    "text": "We synthesize happiness but we think happiness is a thing to be found.",
+    "uid": "4810d64d6d0a729b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 305.1,
+    "end": 310.1
+  },
+  {
+    "text": "Now, you don't need me to tell you give you two examples of people synthesizing happiness.",
+    "uid": "c25ac242596d2b82",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 310.1,
+    "end": 315.1
+  },
+  {
+    "text": "I suspect that I'm going to show you some experimental evidence.",
+    "uid": "060573de18e65e3c",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 315.1,
+    "end": 318.1
+  },
+  {
+    "text": "You don't have to look very far for evidence.",
+    "uid": "df7bc6cc06d5d59f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 318.1,
+    "end": 320.1
+  },
+  {
+    "text": "I, as a challenge to myself since I say this once in a while in lectures,",
+    "uid": "5ed6a839e7e90b2b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 320.1,
+    "end": 324.1
+  },
+  {
+    "text": "I took a copy of the New York Times and tried to find some instances of people synthesizing happiness.",
+    "uid": "48201ae8ea438f22",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 324.1,
+    "end": 329.1
+  },
+  {
+    "text": "And here are three guys synthesizing happiness.",
+    "uid": "620bb0b5417d590e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 329.1,
+    "end": 331.1
+  },
+  {
+    "text": "I'm so much better off physically financially emotionally and almost every other way, mentally almost every other way.",
+    "uid": "a34d4937ca72ff11",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 331.1,
+    "end": 336.1
+  },
+  {
+    "text": "And I want to admit it's regret.",
+    "uid": "ca99ae2150eec055",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 336.1,
+    "end": 338.1
+  },
+  {
+    "text": "It was a glorious experience.",
+    "uid": "9470c5c8313057c9",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 338.1,
+    "end": 339.1
+  },
+  {
+    "text": "I believe it turned out for the best.",
+    "uid": "68d65c019bf7df15",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 339.1,
+    "end": 341.1
+  },
+  {
+    "text": "Who are these characters who are so damn happy?",
+    "uid": "d09bbb9da7efd968",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 341.1,
+    "end": 343.1
+  },
+  {
+    "text": "Well, the first one is Jim Wright, some of you are old enough to remember.",
+    "uid": "9b64836d775c321e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 343.1,
+    "end": 346.1
+  },
+  {
+    "text": "He was the chairman of the House of Representatives.",
+    "uid": "70f1e74dc29f6ca2",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 346.1,
+    "end": 349.1
+  },
+  {
+    "text": "And he resigned in disgrace when this young Republican named New Green Rich found out about a shady book.",
+    "uid": "8028f11f1b6d1509",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 349.1,
+    "end": 354.1
+  },
+  {
+    "text": "Deal he had done.",
+    "uid": "3142b11e61b3fa6e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 354.1,
+    "end": 355.1
+  },
+  {
+    "text": "He lost everything.",
+    "uid": "3e246311a736be42",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 355.1,
+    "end": 356.1
+  },
+  {
+    "text": "He lost powerful Democrat in the country, lost everything.",
+    "uid": "b3264c2ac814c86f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 356.1,
+    "end": 359.1
+  },
+  {
+    "text": "He lost his money, lost his power.",
+    "uid": "e8ed1773e8178b9d",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 359.1,
+    "end": 361.1
+  },
+  {
+    "text": "What does he have to say all these years later about it?",
+    "uid": "e6c48b94c73b3c5f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 361.1,
+    "end": 363.1
+  },
+  {
+    "text": "I am so much better off physically financially mentally and almost every other way.",
+    "uid": "357315c52e4eb9bf",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 363.1,
+    "end": 368.1
+  },
+  {
+    "text": "What other way would there be to be better off?",
+    "uid": "9bb2aa0270d2fd20",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 368.1,
+    "end": 370.1
+  },
+  {
+    "text": "Vegetably, mineraly, animaly.",
+    "uid": "59aabe1f59576ca3",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 370.1,
+    "end": 373.1
+  },
+  {
+    "text": "He's pretty much covered in there.",
+    "uid": "129c308e2eeb10ee",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 373.1,
+    "end": 375.1
+  },
+  {
+    "text": "Maurice Bickham is somebody you've never heard of.",
+    "uid": "5c834a5ab7e8d58a",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 375.1,
+    "end": 377.1
+  },
+  {
+    "text": "Maurice Bickham uttered these words upon being released.",
+    "uid": "1a481d069a4025bf",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 377.1,
+    "end": 380.1
+  },
+  {
+    "text": "He was 78 years old.",
+    "uid": "cd702e48711db4c0",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 380.1,
+    "end": 381.1
+  },
+  {
+    "text": "He spent 37 years in Louisiana State Penitentiary for crime.",
+    "uid": "3babf43077e32e3e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 381.1,
+    "end": 385.1
+  },
+  {
+    "text": "He didn't commit.",
+    "uid": "759e66f7314bd809",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 385.1,
+    "end": 386.1
+  },
+  {
+    "text": "He was ultimately exonerated at the age of 78 through DNA evidence.",
+    "uid": "351a23bd97e4a661",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 386.1,
+    "end": 390.1
+  },
+  {
+    "text": "And what did he have to say about his experience?",
+    "uid": "626da303a4deb65c",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 390.1,
+    "end": 392.1
+  },
+  {
+    "text": "I don't have one minute, so I read it was a glorious experience.",
+    "uid": "30cd44e5e33a89a2",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 392.1,
+    "end": 394.1
+  },
+  {
+    "text": "This guy is not saying, why are some nice guys that are Jim?",
+    "uid": "af437b68f29cdc48",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 395.1,
+    "end": 398.1
+  },
+  {
+    "text": "So word we usually reserve for something like a religious experience.",
+    "uid": "609e985d677f2128",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 399.1,
+    "end": 403.1
+  },
+  {
+    "text": "Harry is Langerman, uttered these words.",
+    "uid": "25a436be5e1268aa",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 403.1,
+    "end": 406.1
+  },
+  {
+    "text": "And he's somebody you might have known but didn't.",
+    "uid": "7c6720a44d9269f9",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 406.1,
+    "end": 408.1
+  },
+  {
+    "text": "Because in 1949 he read a little article in the paper about a hamburger stand",
+    "uid": "032030e6ede49185",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 408.1,
+    "end": 412.1
+  },
+  {
+    "text": "owned by these two brothers named McDonald's.",
+    "uid": "a49e1b83e25b27d6",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 412.1,
+    "end": 414.1
+  },
+  {
+    "text": "And he thought that's a really neat idea.",
+    "uid": "8cfc18d7ee2e635a",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 414.1,
+    "end": 416.1
+  },
+  {
+    "text": "So he went to find them.",
+    "uid": "4782604e41539871",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 416.1,
+    "end": 418.1
+  },
+  {
+    "text": "They said we'd give you a franchise on this for 3,000 bucks.",
+    "uid": "dc84e92124a38262",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 418.1,
+    "end": 420.1
+  },
+  {
+    "text": "Harry went back to New York.",
+    "uid": "6b7f04a538aedafc",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 420.1,
+    "end": 422.1
+  },
+  {
+    "text": "As his brother, who was an investment banker, to loan him the $3,000.",
+    "uid": "94e8edc0f4ce1d4c",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 422.1,
+    "end": 425.1
+  },
+  {
+    "text": "And his brother's immortal words were, you would eat nobody eats hamburgers.",
+    "uid": "fa2140d01fe0ac1a",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 425.1,
+    "end": 428.1
+  },
+  {
+    "text": "He wouldn't land in the money.",
+    "uid": "cdb84b71d4761c26",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 428.1,
+    "end": 430.1
+  },
+  {
+    "text": "And of course, six months later, Ray Crock had exactly the same idea.",
+    "uid": "b7f155b8a85d3937",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 430.1,
+    "end": 433.1
+  },
+  {
+    "text": "It turns out people do eat hamburgers and Ray Crock for a while,",
+    "uid": "51d1432c41c8ffc4",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 433.1,
+    "end": 437.1
+  },
+  {
+    "text": "became the richest man in America.",
+    "uid": "cc03f358ed9d2c3f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 437.1,
+    "end": 439.1
+  },
+  {
+    "text": "Oh, and then finally, you know, the best of all possible world.",
+    "uid": "e9a76d53024e0cdf",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 439.1,
+    "end": 442.1
+  },
+  {
+    "text": "Some of you recognize this young photo of Pete Best,",
+    "uid": "9caad01c0458440f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 442.1,
+    "end": 445.1
+  },
+  {
+    "text": "who was the original drummer for the Beatles.",
+    "uid": "d5bd5cbcefddd0c7",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 445.1,
+    "end": 448.1
+  },
+  {
+    "text": "Until they, you know, kind of like sent him out on an air-end and snuck away",
+    "uid": "4c610b211b650dba",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 448.1,
+    "end": 451.1
+  },
+  {
+    "text": "and picked up a ringo on a tour.",
+    "uid": "193dc055f7d3eaf3",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 451.1,
+    "end": 453.1
+  },
+  {
+    "text": "Well, in 1994 when Pete Best was interviewed, yes, he's still a drummer.",
+    "uid": "5dcbfab1449b59a0",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 453.1,
+    "end": 457.1
+  },
+  {
+    "text": "Yes, he's a studio musician.",
+    "uid": "c99d34acc7aad63a",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 457.1,
+    "end": 459.1
+  },
+  {
+    "text": "He said, this to say, I'm happier than I would have been with the Beatles.",
+    "uid": "e432257718ed0fb0",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 459.1,
+    "end": 463.1
+  },
+  {
+    "text": "There's something important to be learned from these people.",
+    "uid": "2d300fef8b14d178",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 464.1,
+    "end": 466.1
+  },
+  {
+    "text": "And it is the secret of happiness.",
+    "uid": "9bf938c6bf3edba9",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 466.1,
+    "end": 468.1
+  },
+  {
+    "text": "Here it is, finally, to be revealed.",
+    "uid": "e0cf2ddce2b2577e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 468.1,
+    "end": 470.1
+  },
+  {
+    "text": "First, a crew wealth power and prestige then losing.",
+    "uid": "4c83512f44b5177b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 470.1,
+    "end": 474.1
+  },
+  {
+    "text": "Second, spend as much of your life in prison as you possibly can.",
+    "uid": "0a094819e207de6e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 474.1,
+    "end": 480.1
+  },
+  {
+    "text": "Third, make somebody else really, really rich and finally never ever joined the Beatles.",
+    "uid": "14e9cacf7c14a357",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 480.1,
+    "end": 487.1
+  },
+  {
+    "text": "Now, I, like Z-Franck, can predict your next thought, which is, yeah, I've right.",
+    "uid": "8ccd6064dead48da",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 489.1,
+    "end": 495.1
+  },
+  {
+    "text": "Because when people synthesize happiness as these gentlemen seem to have done,",
+    "uid": "f3c538fff41248ce",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 495.1,
+    "end": 499.1
+  },
+  {
+    "text": "we all smile at them, but we kind of roll our eyes and say, yeah, right.",
+    "uid": "20ab40cb3d4409e9",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 499.1,
+    "end": 504.1
+  },
+  {
+    "text": "You never really wanted the job.",
+    "uid": "67652ea4b70c122b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 504.1,
+    "end": 506.1
+  },
+  {
+    "text": "Oh, yeah, right.",
+    "uid": "685246efc880eb4f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 506.1,
+    "end": 507.1
+  },
+  {
+    "text": "She, you really didn't have that much in common with her.",
+    "uid": "308871556adc5d9e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 507.1,
+    "end": 510.1
+  },
+  {
+    "text": "And you figured that out just about the time she threw the engagement ring in your face.",
+    "uid": "1bdc1b57353d0fbe",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 510.1,
+    "end": 514.1
+  },
+  {
+    "text": "We snurke because we believe that synthetic happiness is not of the same quality as what we might call",
+    "uid": "9aa6a07f31a5a5b8",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 514.1,
+    "end": 520.1
+  },
+  {
+    "text": "What are these terms?",
+    "uid": "f532104d75a723b9",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 522.1,
+    "end": 523.1
+  },
+  {
+    "text": "Natural happiness is what we get when we get what we wanted and synthetic happiness is what we make when we don't get what we wanted.",
+    "uid": "c61d0fbd08b3a5ba",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 523.1,
+    "end": 531.1
+  },
+  {
+    "text": "In an our society, we have a strong belief that synthetic happiness is of an inferior kind.",
+    "uid": "e4d6a6cc43d4ac76",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 531.1,
+    "end": 538.1
+  },
+  {
+    "text": "Why do we have that belief?",
+    "uid": "01fc49b8fe797e13",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 538.1,
+    "end": 539.1
+  },
+  {
+    "text": "Well, it's very simple.",
+    "uid": "f930e254fdf12e6e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 539.1,
+    "end": 541.1
+  },
+  {
+    "text": "What kind of economic engine would keep turning if we believe that not getting what we want could make us just as happy as getting it?",
+    "uid": "dcc2489fe1ac3d6c",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 541.1,
+    "end": 551.1
+  },
+  {
+    "text": "With all apologies to my friend Mattu Ricard, a shopping mall full of Zen monks is not going to be particularly profitable because they don't want stuff enough.",
+    "uid": "a59a336682d9a39e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 551.1,
+    "end": 562.1
+  },
+  {
+    "text": "I want to suggest to you that synthetic happiness is every bit as real and enduring as the kind of happiness you stumble upon when you get exactly what you're aiming for.",
+    "uid": "89c03bddb240f676",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 562.1,
+    "end": 573.1
+  },
+  {
+    "text": "Now I'm a scientist, so I'm going to do this not with a rhetoric, but by marinating you in a little bit of data.",
+    "uid": "cfd7dff2018c3b28",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 573.1,
+    "end": 578.1
+  },
+  {
+    "text": "Let me first show you an experimental paradigm that is used to demonstrate the synthesis of happiness among regular old folks.",
+    "uid": "af89b8aa2f961cdb",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 578.1,
+    "end": 586.1
+  },
+  {
+    "text": "This isn't mine, there's a 50 year old paradigm called the free choice paradigm.",
+    "uid": "a59d2761c9464885",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 586.1,
+    "end": 590.1
+  },
+  {
+    "text": "It's very simple.",
+    "uid": "6774f1ad75b0dca1",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 590.1,
+    "end": 591.1
+  },
+  {
+    "text": "You bring in, say, six objects.",
+    "uid": "1fdb545ed7caef62",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 591.1,
+    "end": 593.1
+  },
+  {
+    "text": "And you ask a subject to rank them from the most to the least like.",
+    "uid": "849224016fd1aae2",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 593.1,
+    "end": 597.1
+  },
+  {
+    "text": "In this case, because the experiment I'm going to tell you about uses them, these are Monet prints.",
+    "uid": "3c294f5883ea169d",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 597.1,
+    "end": 601.1
+  },
+  {
+    "text": "So everybody can rank these Monet prints from the one they like the most to the one they like the least.",
+    "uid": "c81ea1945efd98b1",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 601.1,
+    "end": 606.1
+  },
+  {
+    "text": "Now we give you a choice.",
+    "uid": "f81f4b9471004e7d",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 606.1,
+    "end": 608.1
+  },
+  {
+    "text": "We happen to have some extra prints in the closet and we're going to give you one as your prize to take home.",
+    "uid": "8920e1b761e8ec47",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 608.1,
+    "end": 613.1
+  },
+  {
+    "text": "We happen to have number three and number four. We tell the subject.",
+    "uid": "726a5c58408f2735",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 613.1,
+    "end": 617.1
+  },
+  {
+    "text": "There's a bit of a difficult choice because neither one is preferred strongly to the other, but naturally people tend to pick number three because they like the little better than number four.",
+    "uid": "08cd0e442ed2823b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 617.1,
+    "end": 627.1
+  },
+  {
+    "text": "Sometime later, it could be 15 minutes, it could be 15 days.",
+    "uid": "4161907439317f33",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 627.1,
+    "end": 631.1
+  },
+  {
+    "text": "The same stimuli or put before the subject and the subject is asked to re-rank the stimuli.",
+    "uid": "d65b3f5ea540da14",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 631.1,
+    "end": 636.1
+  },
+  {
+    "text": "Tell us how much you like them now.",
+    "uid": "5a86d0726ad16ad2",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 636.1,
+    "end": 638.1
+  },
+  {
+    "text": "Watch this happiness is synthesized.",
+    "uid": "27cc6c847f9fc852",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 639.1,
+    "end": 641.1
+  },
+  {
+    "text": "This is the result that has been replicated over and over again.",
+    "uid": "444c841b2990b528",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 641.1,
+    "end": 644.1
+  },
+  {
+    "text": "You're watching happiness be synthesized.",
+    "uid": "b8c5d871f228378a",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 644.1,
+    "end": 646.1
+  },
+  {
+    "text": "Would you like to see it again?",
+    "uid": "c1576e5e5c8b2fdd",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 646.1,
+    "end": 648.1
+  },
+  {
+    "text": "The one I got is really better than I thought.",
+    "uid": "f3147c4ffb9009f4",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 650.1,
+    "end": 652.1
+  },
+  {
+    "text": "That other one I didn't get sucks.",
+    "uid": "b40799e3b95b056f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 652.1,
+    "end": 655.1
+  },
+  {
+    "text": "That's the synthesis of happiness.",
+    "uid": "7b489c1711b82aff",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 655.1,
+    "end": 657.1
+  },
+  {
+    "text": "Now, what's the right response to that?",
+    "uid": "e408409550ba255b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 657.1,
+    "end": 660.1
+  },
+  {
+    "text": "Now, here's the experiment we did and I hope this is going to convince you that yeah, right was not the right response.",
+    "uid": "0459771573450d07",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 662.1,
+    "end": 669.1
+  },
+  {
+    "text": "We did this experiment with a group of patients who had interrogate amnesia.",
+    "uid": "39fb71044f82c74f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 669.1,
+    "end": 673.1
+  },
+  {
+    "text": "These are hospitalized patients.",
+    "uid": "c9d037da49b6bba3",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 673.1,
+    "end": 675.1
+  },
+  {
+    "text": "Most of them have course-accof syndrome, a polyneurotic psychosis that they drank way too much and they can't make new memories.",
+    "uid": "f2686612c9478512",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 675.1,
+    "end": 683.1
+  },
+  {
+    "text": "They remember their childhood, but if you walk in and introduce yourself and then leave the room when you come back, they don't know who you are.",
+    "uid": "5acb2e676563ac06",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 683.1,
+    "end": 691.1
+  },
+  {
+    "text": "We took our mone prints to the hospital and we asked these patients to rank them from the one they like the most to the one they like the least.",
+    "uid": "eecf9dff628faa75",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 691.1,
+    "end": 701.1
+  },
+  {
+    "text": "We then gave them the choice between number three and number four.",
+    "uid": "cef74f491fa174ac",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 701.1,
+    "end": 705.1
+  },
+  {
+    "text": "Like everybody else, they said, gee, thanks doc, that's great.",
+    "uid": "2bbade5e9569b1cb",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 705.1,
+    "end": 708.1
+  },
+  {
+    "text": "I can use a new print.",
+    "uid": "946695a8c2957777",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 708.1,
+    "end": 710.1
+  },
+  {
+    "text": "I'll take number three.",
+    "uid": "e943c9ecc4b72d5c",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 710.1,
+    "end": 711.1
+  },
+  {
+    "text": "We explained we would have number three mailed to them.",
+    "uid": "01bdd5bfe37faafa",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 712.1,
+    "end": 715.1
+  },
+  {
+    "text": "We gathered up our materials and we went out of the room and counted to a half hour.",
+    "uid": "6605bf3360a1bfc8",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 715.1,
+    "end": 720.1
+  },
+  {
+    "text": "Back into the room, we say, hi, we're back.",
+    "uid": "e6549457454081ae",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 720.1,
+    "end": 724.1
+  },
+  {
+    "text": "The patients bless them, say, oh doc, I'm sorry.",
+    "uid": "a1d769cbe69d5c01",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 724.1,
+    "end": 727.1
+  },
+  {
+    "text": "I kind of memory problems.",
+    "uid": "9e9b9e61490badb7",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 727.1,
+    "end": 729.1
+  },
+  {
+    "text": "Why I'm here if I've met you before I don't remember.",
+    "uid": "6b4b46f7577977f7",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 729.1,
+    "end": 732.1
+  },
+  {
+    "text": "Really, Jim, you don't remember.",
+    "uid": "0c0b38a586c4bb2e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 732.1,
+    "end": 733.1
+  },
+  {
+    "text": "I was just here with the mone prints.",
+    "uid": "e307207c0d414ed1",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 733.1,
+    "end": 735.1
+  },
+  {
+    "text": "Sorry doc, I just don't have a clue.",
+    "uid": "bbcd46cf3ad600d0",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 735.1,
+    "end": 738.1
+  },
+  {
+    "text": "No problem, Jim.",
+    "uid": "500c049a5d31b77b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 738.1,
+    "end": 739.1
+  },
+  {
+    "text": "All I want you to do is rank these for me from the one you like the most to the one you like the least.",
+    "uid": "03853e51be462a1e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 739.1,
+    "end": 745.1
+  },
+  {
+    "text": "What do they do?",
+    "uid": "27938e975cee648d",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 745.1,
+    "end": 746.1
+  },
+  {
+    "text": "Well, let's first check and make sure they're really amnesic.",
+    "uid": "a3a726f44292436f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 746.1,
+    "end": 749.1
+  },
+  {
+    "text": "We asked these amnesic patients to tell us which one they own, which one they chose last time, which one is theirs?",
+    "uid": "56fbcbd462c0a365",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 749.1,
+    "end": 757.1
+  },
+  {
+    "text": "And what we find is, how music patients just guess.",
+    "uid": "72fd6289d10d0693",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 757.1,
+    "end": 760.1
+  },
+  {
+    "text": "These are normal controls.",
+    "uid": "12ac2170b15ded08",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 760.1,
+    "end": 761.1
+  },
+  {
+    "text": "If I did this with you, all of you would know which print you chose.",
+    "uid": "eadcaf8879af9ab3",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 761.1,
+    "end": 764.1
+  },
+  {
+    "text": "But if I do this with amnesic patients, they don't have a clue.",
+    "uid": "b2adf50f7a50bcaf",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 764.1,
+    "end": 768.1
+  },
+  {
+    "text": "They can't pick their print out of a lineup.",
+    "uid": "d40b58013a230a2d",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 768.1,
+    "end": 771.1
+  },
+  {
+    "text": "Here's what normal controls do.",
+    "uid": "5ed728e0bc39a943",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 771.1,
+    "end": 774.1
+  },
+  {
+    "text": "They sent the size happiness, right?",
+    "uid": "51ff69b65d5671ec",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 774.1,
+    "end": 776.1
+  },
+  {
+    "text": "This is the change in liking score.",
+    "uid": "5ff9d15df946cc8a",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 776.1,
+    "end": 778.1
+  },
+  {
+    "text": "The change from the first time they ranked to the second time they ranked.",
+    "uid": "83d59f7115d052b8",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 778.1,
+    "end": 781.1
+  },
+  {
+    "text": "Normal controls show that was the magic I showed you.",
+    "uid": "6dae79d521e9f9af",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 781.1,
+    "end": 784.1
+  },
+  {
+    "text": "Now I'm showing you to you graphical form.",
+    "uid": "6456535a1a4c2e18",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 784.1,
+    "end": 786.1
+  },
+  {
+    "text": "The one I own is better than I thought the one I didn't own.",
+    "uid": "3c19ed7a892f2cbc",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 786.1,
+    "end": 789.1
+  },
+  {
+    "text": "The one I left behind is not as good as I thought.",
+    "uid": "388b316ac7ab0061",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 789.1,
+    "end": 793.1
+  },
+  {
+    "text": "And these are just exactly the same thing.",
+    "uid": "0a972219ca18354b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 793.1,
+    "end": 796.1
+  },
+  {
+    "text": "Think about this result.",
+    "uid": "35ef1c33a2dee208",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 796.1,
+    "end": 798.1
+  },
+  {
+    "text": "These people like better than the one they own, but they don't know they own it.",
+    "uid": "d19ff8621f985945",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 798.1,
+    "end": 803.1
+  },
+  {
+    "text": "Yeah, right, is not the right response.",
+    "uid": "07f846ec107a00ce",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 803.1,
+    "end": 808.1
+  },
+  {
+    "text": "What these people did when they synthesized happiness is they really, truly changed their affective,",
+    "uid": "a67a0e58d33a73d6",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 808.1,
+    "end": 815.1
+  },
+  {
+    "text": "hedonic aesthetic reactions to that poster.",
+    "uid": "3ef3c532843e9f85",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 815.1,
+    "end": 819.1
+  },
+  {
+    "text": "They're not just saying it because they own it.",
+    "uid": "9c2e14fef2ce6d0b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 819.1,
+    "end": 822.1
+  },
+  {
+    "text": "Because they don't know they own it.",
+    "uid": "e6f5b89c03a6163e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 822.1,
+    "end": 826.1
+  },
+  {
+    "text": "Now when psychologists show you bars, you know that they are showing you averages of lots of people.",
+    "uid": "c34879676906ad5a",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 826.1,
+    "end": 833.1
+  },
+  {
+    "text": "And yet all of us have this psychological immune system, this capacity to synthesize happiness,",
+    "uid": "6f9ffc52fc540040",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 833.1,
+    "end": 839.1
+  },
+  {
+    "text": "but some of us do this trick better than others.",
+    "uid": "24e3bc17fbc4b039",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 839.1,
+    "end": 842.1
+  },
+  {
+    "text": "And some situations allow anybody to do it more effectively than other situations do.",
+    "uid": "15b1a8b813ab9cc7",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 842.1,
+    "end": 849.1
+  },
+  {
+    "text": "And it turns out that freedom, the ability to make up your mind and change your mind,",
+    "uid": "e349a8a51428e2ab",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 849.1,
+    "end": 856.1
+  },
+  {
+    "text": "is the friend of natural happiness.",
+    "uid": "5c687ac8386e43b6",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 856.1,
+    "end": 859.1
+  },
+  {
+    "text": "Because it allows you to choose among all those delicious futures that,",
+    "uid": "e06cd7c6c3445df2",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 859.1,
+    "end": 863.1
+  },
+  {
+    "text": "and find the one that you would most enjoy, but freedom to choose to change and make up your mind is the enemy of synthetic happiness.",
+    "uid": "ecd469a9b715d2b5",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 863.1,
+    "end": 871.1
+  },
+  {
+    "text": "And I'm going to show you why.",
+    "uid": "bce60ae2b9543977",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 871.1,
+    "end": 873.1
+  },
+  {
+    "text": "Dilbertarity knows of course, you're reading the cartoon as I'm talking.",
+    "uid": "a82df2e28927515f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 873.1,
+    "end": 876.1
+  },
+  {
+    "text": "Dogboards tech support, how come I abuse you?",
+    "uid": "408bedf37e053e72",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 876.1,
+    "end": 878.1
+  },
+  {
+    "text": "My printer prints a blank page after every document.",
+    "uid": "f4a3ce121152a703",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 878.1,
+    "end": 881.1
+  },
+  {
+    "text": "Why would you complain about getting free paper free?",
+    "uid": "4df9066d780595ce",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 881.1,
+    "end": 883.1
+  },
+  {
+    "text": "Are you just giving my own paper?",
+    "uid": "eeca084af0306497",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 883.1,
+    "end": 885.1
+  },
+  {
+    "text": "He got mad.",
+    "uid": "c3c10b0d2ca00810",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 885.1,
+    "end": 886.1
+  },
+  {
+    "text": "Look at the quality of the free paper.",
+    "uid": "8a3bbe366a96c13b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 886.1,
+    "end": 887.1
+  },
+  {
+    "text": "Compared to your lousy regular paper, only a fuller liar would say that they look the same.",
+    "uid": "1df23af9eb1723e9",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 887.1,
+    "end": 891.1
+  },
+  {
+    "text": "Now that you mentioned it, it does seem a little so clear.",
+    "uid": "21877764ec023837",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 891.1,
+    "end": 894.1
+  },
+  {
+    "text": "What are you doing?",
+    "uid": "8bea6629eaf33ea1",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 894.1,
+    "end": 896.1
+  },
+  {
+    "text": "I'm helping people accept the things they cannot change.",
+    "uid": "e0af2d6c8cc06716",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 896.1,
+    "end": 899.1
+  },
+  {
+    "text": "The psychological immune system works best when we are totally stuck when we are trapped.",
+    "uid": "51c2161eadaa7244",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 900.1,
+    "end": 905.1
+  },
+  {
+    "text": "This is the difference we're dating in marriage.",
+    "uid": "d542db99198c3394",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 905.1,
+    "end": 908.1
+  },
+  {
+    "text": "You go out on a date with a guy and he picks his nose.",
+    "uid": "2f4fd7ea9d552526",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 908.1,
+    "end": 911.1
+  },
+  {
+    "text": "You don't go out on another date.",
+    "uid": "9b6006de6bee334a",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 911.1,
+    "end": 912.1
+  },
+  {
+    "text": "You're married to a guy and he picks his nose.",
+    "uid": "23fb6984b2b97686",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 912.1,
+    "end": 914.1
+  },
+  {
+    "text": "He has a heart of gold.",
+    "uid": "db5eeb62d5fa9ca7",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 914.1,
+    "end": 916.1
+  },
+  {
+    "text": "Don't touch the fruit cake.",
+    "uid": "7cf401f999e787b9",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 916.1,
+    "end": 917.1
+  },
+  {
+    "text": "You find a way to be happy with what's happening.",
+    "uid": "21710b349cd5af4b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 917.1,
+    "end": 921.1
+  },
+  {
+    "text": "Now, what I want to show you is that people don't know this about themselves and not knowing this can work to our supreme disadvantage.",
+    "uid": "9bc0b3d96d13caa1",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 921.1,
+    "end": 930.1
+  },
+  {
+    "text": "Here's an experiment we did at Harvard.",
+    "uid": "2c0e9c2df8598bf6",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 930.1,
+    "end": 932.1
+  },
+  {
+    "text": "We created a photography course, a black and white photography course, and we allowed students to come in and learn how to use a dark room.",
+    "uid": "5e82fe1abb7f2386",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 932.1,
+    "end": 938.1
+  },
+  {
+    "text": "So we gave them cameras.",
+    "uid": "fc343b8193407c9c",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 938.1,
+    "end": 940.1
+  },
+  {
+    "text": "They went around campus.",
+    "uid": "04f4d0868b08f546",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 940.1,
+    "end": 941.1
+  },
+  {
+    "text": "They took 12 pictures of their favorite professors in their dorm room and their dog and all the other things they wanted to have.",
+    "uid": "9838555e48f2c34e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 941.1,
+    "end": 947.1
+  },
+  {
+    "text": "They wanted to have heard their memories of.",
+    "uid": "bf88500a07a9b30e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 947.1,
+    "end": 949.1
+  },
+  {
+    "text": "They bring us the camera.",
+    "uid": "3ebe06964ffba76f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 949.1,
+    "end": 950.1
+  },
+  {
+    "text": "We make up a contact sheet.",
+    "uid": "b0787ec80ae736f9",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 950.1,
+    "end": 951.1
+  },
+  {
+    "text": "They figure out which are the two best pictures.",
+    "uid": "d1206d33bd968984",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 951.1,
+    "end": 953.1
+  },
+  {
+    "text": "We now spend six hours teaching them about dark rooms.",
+    "uid": "6fa320e41152565a",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 953.1,
+    "end": 956.1
+  },
+  {
+    "text": "They blow two of them up and they have two gorgeous eight by ten embossies of meaning.",
+    "uid": "4e9faf810cc13d6e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 956.1,
+    "end": 960.1
+  },
+  {
+    "text": "They're getting things to them and we say which one would you like to give up?",
+    "uid": "d00059196ccb96d0",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 960.1,
+    "end": 964.1
+  },
+  {
+    "text": "I have to give one up.",
+    "uid": "0ab91df4cf0617e1",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 964.1,
+    "end": 965.1
+  },
+  {
+    "text": "Oh yes, we need one is evidence of the class project.",
+    "uid": "2893f880acadf0ef",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 965.1,
+    "end": 968.1
+  },
+  {
+    "text": "So you have to give me one.",
+    "uid": "7c33b9423d58fa6d",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 968.1,
+    "end": 970.1
+  },
+  {
+    "text": "You have to make a choice.",
+    "uid": "be5141dc80a2ba25",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 970.1,
+    "end": 971.1
+  },
+  {
+    "text": "You get to keep one and I get to keep one.",
+    "uid": "4cf158bddc2524a3",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 971.1,
+    "end": 974.1
+  },
+  {
+    "text": "Now, there are two conditions in this experiment.",
+    "uid": "b87afd82d527a237",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 974.1,
+    "end": 977.1
+  },
+  {
+    "text": "In one case, the students are told, but you know, if you want to change your mind,",
+    "uid": "b4d7f31f0fe644f7",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 977.1,
+    "end": 981.1
+  },
+  {
+    "text": "I'll always have the other one here.",
+    "uid": "b688ebaedcd7b054",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 981.1,
+    "end": 983.1
+  },
+  {
+    "text": "And in the next four days before I actually mail it to headquarters,",
+    "uid": "3dc47ce23e025a85",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 983.1,
+    "end": 988.1
+  },
+  {
+    "text": "I'll be glad to headquarters.",
+    "uid": "57aee726490460d8",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 988.1,
+    "end": 990.1
+  },
+  {
+    "text": "I'll be glad to swap it out with you.",
+    "uid": "645d9b3f4df98fba",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 990.1,
+    "end": 992.1
+  },
+  {
+    "text": "In fact, I'll come to your dorm room and give just give me an email better yet.",
+    "uid": "bf2f235d7b0d4efc",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 992.1,
+    "end": 996.1
+  },
+  {
+    "text": "I'll check with you.",
+    "uid": "a907699e7f0da524",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 996.1,
+    "end": 997.1
+  },
+  {
+    "text": "You ever want to change your mind.",
+    "uid": "1ad21b873f475325",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 997.1,
+    "end": 999.1
+  },
+  {
+    "text": "It's totally returnable.",
+    "uid": "0b3166ff5d360561",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 999.1,
+    "end": 1000.1
+  },
+  {
+    "text": "The other half of the students are told exactly the opposite.",
+    "uid": "198af6056a27244e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1000.1,
+    "end": 1003.1
+  },
+  {
+    "text": "Make your choice and by the way, the mail is going out.",
+    "uid": "d73b9a19a72ebf56",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1003.1,
+    "end": 1006.1
+  },
+  {
+    "text": "Gosh, in two minutes to England, your picture will be weighing its way over the Atlantic.",
+    "uid": "990dac5d7b0fff64",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1006.1,
+    "end": 1010.1
+  },
+  {
+    "text": "You will never see it again.",
+    "uid": "8bb9b3fedb78c4eb",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1010.1,
+    "end": 1012.1
+  },
+  {
+    "text": "Now, half of the students in each of these conditions are",
+    "uid": "6da37eeda72ba649",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1012.1,
+    "end": 1016.1
+  },
+  {
+    "text": "estimate predictions about how much they're going to come to like the picture that they",
+    "uid": "c58903eac8a34216",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1016.1,
+    "end": 1020.1
+  },
+  {
+    "text": "keep in the picture they leave behind.",
+    "uid": "3ad796512a83408b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1020.1,
+    "end": 1022.1
+  },
+  {
+    "text": "Other students are just sent back to their little dorm rooms and they are measured over the next",
+    "uid": "3eaa3810d496aac7",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1022.1,
+    "end": 1027.1
+  },
+  {
+    "text": "six to three to six days on their liking satisfaction with the pictures.",
+    "uid": "65c45b4252efecdb",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1027.1,
+    "end": 1032.1
+  },
+  {
+    "text": "Look at what we find.",
+    "uid": "e9c33be65f63cad5",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1032.1,
+    "end": 1033.1
+  },
+  {
+    "text": "First of all, here's what students think is going to happen.",
+    "uid": "fdd585188e7465ca",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1033.1,
+    "end": 1036.1
+  },
+  {
+    "text": "They think they're going to maybe come to like the picture they chose a little more than",
+    "uid": "9198917805b34352",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1036.1,
+    "end": 1041.1
+  },
+  {
+    "text": "the one they left behind.",
+    "uid": "33638b5fcf757d94",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1041.1,
+    "end": 1043.1
+  },
+  {
+    "text": "But, these are not statistically significant differences.",
+    "uid": "916e144743ea5220",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1043.1,
+    "end": 1046.1
+  },
+  {
+    "text": "It's really, it's a very small increase and it doesn't much matter whether they were in the",
+    "uid": "bf75431efe87644e",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1046.1,
+    "end": 1051.1
+  },
+  {
+    "text": "reversible or irreversible condition wrong.",
+    "uid": "c98944f359d73317",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1051.1,
+    "end": 1053.1
+  },
+  {
+    "text": "Because here's what's really happening.",
+    "uid": "1a4b4f1b40cf1e01",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1055.1,
+    "end": 1057.1
+  },
+  {
+    "text": "Both right before the swap and five days later, people who are stuck with that picture who have no choice",
+    "uid": "38b1e773d5f18642",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1057.1,
+    "end": 1064.1
+  },
+  {
+    "text": "who can never change their mind like it.",
+    "uid": "2bf2baa5ef40f4c0",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1064.1,
+    "end": 1067.1
+  },
+  {
+    "text": "And people who are deliberating should I return it?",
+    "uid": "8344a9742268d1f2",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1068.1,
+    "end": 1071.1
+  },
+  {
+    "text": "Have I gotten the right one?",
+    "uid": "97c5f25bf6528279",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1071.1,
+    "end": 1072.1
+  },
+  {
+    "text": "Maybe this isn't the good one.",
+    "uid": "222d917e449278d8",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1072.1,
+    "end": 1073.1
+  },
+  {
+    "text": "Maybe I left the good one.",
+    "uid": "4f2a02729311afb6",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1073.1,
+    "end": 1074.1
+  },
+  {
+    "text": "Have killed themselves.",
+    "uid": "b6f811054b21419b",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1074.1,
+    "end": 1076.1
+  },
+  {
+    "text": "They don't like their picture.",
+    "uid": "28a0eefcb4b656ef",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1076.1,
+    "end": 1077.1
+  },
+  {
+    "text": "And in fact, even after the opportunity to swap is expired, they still don't like their picture.",
+    "uid": "32ddb56fd3d9ec32",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1077.1,
+    "end": 1083.1
+  },
+  {
+    "text": "Because the irreversible condition is not conducive to the synthesis of happiness.",
+    "uid": "b41437961ce6cf82",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1084.1,
+    "end": 1090.1
+  },
+  {
+    "text": "So here's the final piece of this experiment.",
+    "uid": "1da191cc13565087",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1090.1,
+    "end": 1093.1
+  },
+  {
+    "text": "We bring in a whole new group of naive Harvard students and we say, you know, we're doing a photography course and we can do it one a two way.",
+    "uid": "11e98d838db0cdad",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1093.1,
+    "end": 1102.1
+  },
+  {
+    "text": "We could do it so that when you take the two pictures, you'd have four days to change your mind.",
+    "uid": "22de1ad528a2d8f1",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1102.1,
+    "end": 1107.1
+  },
+  {
+    "text": "We're doing another course where you take the two pictures and you make up your mind right away and you can never change it.",
+    "uid": "0f13fb8df474fbef",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1107.1,
+    "end": 1112.1
+  },
+  {
+    "text": "Which course would you like to be in the 66% of the students?",
+    "uid": "cd879c1df2c38e70",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1112.1,
+    "end": 1117.1
+  },
+  {
+    "text": "Two thirds prefer to be in the course where they have the opportunity to change their mind.",
+    "uid": "281f99185731d0c2",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1117.1,
+    "end": 1122.1
+  },
+  {
+    "text": "Hello, 66% of the students choose to be in the course in which they will ultimately be deeply dissatisfied with the picture.",
+    "uid": "59c394e6db682d95",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1122.1,
+    "end": 1130.1
+  },
+  {
+    "text": "Because they do not know the conditions under which synthetic happiness grows.",
+    "uid": "1274fefe4c6112ea",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1130.1,
+    "end": 1137.1
+  },
+  {
+    "text": "The barred said everything best, of course, and he's making my point here, but he's making him hyperbolicly.",
+    "uid": "302dd7c2629f50e9",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1137.1,
+    "end": 1144.1
+  },
+  {
+    "text": "It is nothing good or bad, but thinking makes it so.",
+    "uid": "37a0a7862f1793b9",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1144.1,
+    "end": 1147.1
+  },
+  {
+    "text": "It's nice poetry, but that can't exactly be right.",
+    "uid": "4acdf98da6050f84",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1147.1,
+    "end": 1150.1
+  },
+  {
+    "text": "Is there really nothing good or bad?",
+    "uid": "a31db923a307772c",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1150.1,
+    "end": 1152.1
+  },
+  {
+    "text": "Is it really the case that gallbladder surgery and a trip to Paris are just the same thing?",
+    "uid": "a00fb196f904e60d",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1152.1,
+    "end": 1158.1
+  },
+  {
+    "text": "Yeah, that seems like a one question I can't test.",
+    "uid": "604918952062ea9a",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1158.1,
+    "end": 1163.1
+  },
+  {
+    "text": "They can't be exactly the same.",
+    "uid": "23720df7ec239721",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1163.1,
+    "end": 1165.1
+  },
+  {
+    "text": "In more turd and prose, but closer to the truth was the father of modern capitalism Adam Smith.",
+    "uid": "990209a3e8118058",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1165.1,
+    "end": 1171.1
+  },
+  {
+    "text": "And he said this, this is worth contemplating.",
+    "uid": "acdf011f34e3aa59",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1171.1,
+    "end": 1173.1
+  },
+  {
+    "text": "The great source of both the misery and disorders of human life seems to arise from overrating the difference between one permanent situation and another.",
+    "uid": "668b7d566863c28f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1173.1,
+    "end": 1183.1
+  },
+  {
+    "text": "Some of these situations may know doubt deserve to be preferred to others.",
+    "uid": "94ebfa8bcdf9ebe1",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1183.1,
+    "end": 1188.1
+  },
+  {
+    "text": "But none of them can be deserved.",
+    "uid": "12efe8c7b0b4e925",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1188.1,
+    "end": 1191.1
+  },
+  {
+    "text": "None of them can deserve to be pursued with that passionate ardor, which drives us to violate the rules either of prudence or of justice or to corrupt the future tranquility.",
+    "uid": "866bacb07a29bf58",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1191.1,
+    "end": 1202.1
+  },
+  {
+    "text": "The future tranquility of our minds, either by shame from the remembrance of our own folly or by remorse for the horror of our own injustice.",
+    "uid": "712903c3711af3e6",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1202.1,
+    "end": 1212.1
+  },
+  {
+    "text": "In other words, yes, some things are better than others.",
+    "uid": "8ef8406e575d1e87",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1212.1,
+    "end": 1217.1
+  },
+  {
+    "text": "We should have preferences that lead us into one future over another.",
+    "uid": "732b16ff17c0cdf6",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1217.1,
+    "end": 1222.1
+  },
+  {
+    "text": "But when those preferences drive us too hard and too fast because we have overrated the difference between these futures, we are at risk.",
+    "uid": "3455f24a98992434",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1222.1,
+    "end": 1231.1
+  },
+  {
+    "text": "When our ambition is bounded, it leads us to work joyfully.",
+    "uid": "62ccba27be9f0588",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1231.1,
+    "end": 1235.1
+  },
+  {
+    "text": "When our ambition is unbounded, it leads us to lie, to cheat, to steal, to hurt others, to sacrifice things of real value.",
+    "uid": "7deedb9f9b14a927",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1235.1,
+    "end": 1243.1
+  },
+  {
+    "text": "When our fears are bounded, we're prudent, we're cautious, we're thoughtful when our fears are unbounded and overblown, we're reckless and we're cowardly.",
+    "uid": "377098207092b613",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1243.1,
+    "end": 1255.1
+  },
+  {
+    "text": "The lesson I want to leave you with from these data is that our longings and our worries are both to some degree overblown because we have within us the capacity to manufacture the very commodity we are constantly chasing when we choose experience.",
+    "uid": "11141e5a68f0ba2f",
+    "source": "TED - The_surprising_science_of_happiness_Dan_Gilbert",
+    "start": 1255.1,
+    "end": 1273.1
+  }
+]
