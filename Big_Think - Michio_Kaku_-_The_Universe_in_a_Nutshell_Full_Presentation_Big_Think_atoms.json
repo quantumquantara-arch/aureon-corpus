@@ -1,0 +1,3292 @@
+[
+  {
+    "text": "My name is Professor Michio Kaku.",
+    "uid": "41dd55e9c142b015",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 0.0,
+    "end": 13.36
+  },
+  {
+    "text": "I'm a professor of theoretical physics",
+    "uid": "854b2610a4f6439b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 13.36,
+    "end": 15.36
+  },
+  {
+    "text": "at the City University of New York,",
+    "uid": "a794314f4a72814e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 15.36,
+    "end": 17.8
+  },
+  {
+    "text": "and I specialize in something called string theory.",
+    "uid": "1dfe95acf67bd685",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 17.8,
+    "end": 24.21
+  },
+  {
+    "text": "I'm a physicist.",
+    "uid": "58a678934bddc1d7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 24.21,
+    "end": 25.31
+  },
+  {
+    "text": "And some people ask me the question,",
+    "uid": "dd721cbf73ecc9a9",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 25.31,
+    "end": 27.27
+  },
+  {
+    "text": "what does physics done for me lately?",
+    "uid": "290b3f4eacf0cfa7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 27.27,
+    "end": 29.63
+  },
+  {
+    "text": "I mean, do I get better at color television?",
+    "uid": "34411b59063137cf",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 29.63,
+    "end": 32.03
+  },
+  {
+    "text": "Do I get better internet reception with physics?",
+    "uid": "be79981b109041d8",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 32.03,
+    "end": 34.75
+  },
+  {
+    "text": "And the answer is yes.",
+    "uid": "bdad926ada3cf0e2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 34.75,
+    "end": 36.87
+  },
+  {
+    "text": "You see, physics is at the very foundation",
+    "uid": "18abbc2f5987a843",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 36.87,
+    "end": 39.35
+  },
+  {
+    "text": "of matter and energy.",
+    "uid": "083776d8276f6af9",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 39.35,
+    "end": 41.19
+  },
+  {
+    "text": "We physicists invented the laser beam.",
+    "uid": "725eaf6230cf8667",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 41.19,
+    "end": 44.15
+  },
+  {
+    "text": "We invented the transistor.",
+    "uid": "e09bef6a76c91ce6",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 44.15,
+    "end": 46.07
+  },
+  {
+    "text": "We helped to create the first computer.",
+    "uid": "6d2fd30f5f59ee64",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 46.07,
+    "end": 48.55
+  },
+  {
+    "text": "We helped to construct the internet.",
+    "uid": "dc6e553cc530a964",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 48.55,
+    "end": 50.83
+  },
+  {
+    "text": "We wrote the World Wide Web.",
+    "uid": "5bc302b0817bde80",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 50.83,
+    "end": 53.35
+  },
+  {
+    "text": "In addition, we also helped to invent television.",
+    "uid": "dc5bc469c843d9b6",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 53.35,
+    "end": 56.87
+  },
+  {
+    "text": "Radio, radar, microwaves, not to mention MRI scans,",
+    "uid": "3dd62f3c0c154a91",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 56.87,
+    "end": 62.27
+  },
+  {
+    "text": "pet scans, x-rays.",
+    "uid": "4c3631c3aa0d5f56",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 62.27,
+    "end": 64.19
+  },
+  {
+    "text": "In other words, almost everything you see in your living room.",
+    "uid": "111b05ee1265e96a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 64.19,
+    "end": 68.59
+  },
+  {
+    "text": "Almost everything you see in a modern hospital",
+    "uid": "b549590a5cbd6f37",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 68.59,
+    "end": 71.43
+  },
+  {
+    "text": "had some point where other can be traced to a physicist.",
+    "uid": "857a1faea88b0b23",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 71.43,
+    "end": 75.55
+  },
+  {
+    "text": "Now, I got interested in physics when I was a child.",
+    "uid": "b80e5509e7046093",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 75.55,
+    "end": 78.99
+  },
+  {
+    "text": "When I was eight, a great scientist had just died.",
+    "uid": "1a0932526b8c6316",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 78.99,
+    "end": 82.59
+  },
+  {
+    "text": "I still remember my elementary school teacher",
+    "uid": "b9a50dcb0d89ff26",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 82.59,
+    "end": 84.67
+  },
+  {
+    "text": "coming into the room and announcing that",
+    "uid": "bda7092ca29d4f57",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 84.67,
+    "end": 87.15
+  },
+  {
+    "text": "the greatest scientist of our era has just passed away.",
+    "uid": "a23ce2e0597788f0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 87.15,
+    "end": 91.23
+  },
+  {
+    "text": "And that day, every newspaper published a picture",
+    "uid": "dbef88ff4035c8f2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 91.23,
+    "end": 95.63
+  },
+  {
+    "text": "of his desk.",
+    "uid": "c24b93fab7699543",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 95.63,
+    "end": 97.19
+  },
+  {
+    "text": "The desk of Albert Einstein.",
+    "uid": "29ab45098ee53f42",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 97.19,
+    "end": 100.39
+  },
+  {
+    "text": "And the caption said, I'll never forget,",
+    "uid": "d22e52c044fee0c0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 100.39,
+    "end": 103.11
+  },
+  {
+    "text": "the unfinished manuscript of the greatest work",
+    "uid": "92d82634f366a6f5",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 103.11,
+    "end": 106.91
+  },
+  {
+    "text": "of the greatest scientist of our time.",
+    "uid": "b1553ce977cee43c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 106.91,
+    "end": 109.47
+  },
+  {
+    "text": "And I said to myself, why couldn't he finish it?",
+    "uid": "c3d5c12211ba125f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 109.47,
+    "end": 112.59
+  },
+  {
+    "text": "I mean, what's so hard?",
+    "uid": "f1a61f8c2e00970f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 112.59,
+    "end": 114.71
+  },
+  {
+    "text": "It's a homework problem, right?",
+    "uid": "2f46b6e278ec5c28",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 114.71,
+    "end": 116.43
+  },
+  {
+    "text": "Why didn't he ask his mother?",
+    "uid": "10ad2a30360f88b3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 116.43,
+    "end": 118.11
+  },
+  {
+    "text": "Why can't he finish this problem?",
+    "uid": "48d530935dba1734",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 118.11,
+    "end": 120.31
+  },
+  {
+    "text": "So, as a child debate, I decided to find out,",
+    "uid": "2471eb62648059c0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 120.31,
+    "end": 122.79
+  },
+  {
+    "text": "what was this problem?",
+    "uid": "34d8c47d515082d6",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 122.79,
+    "end": 124.43
+  },
+  {
+    "text": "Years later, I began to realize",
+    "uid": "6cf778679a20a776",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 124.43,
+    "end": 126.59
+  },
+  {
+    "text": "that it was the theory of everything,",
+    "uid": "0470bd20d8ed3c0c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 126.59,
+    "end": 130.31
+  },
+  {
+    "text": "the unified field theory, an equation",
+    "uid": "122bb78a9530573d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 130.31,
+    "end": 133.99
+  },
+  {
+    "text": "that would summarize all the physical forces in the universe.",
+    "uid": "00b083e7730759c7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 133.99,
+    "end": 138.59
+  },
+  {
+    "text": "An equation like E equals MC squared.",
+    "uid": "27f3395e171c6ec1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 138.59,
+    "end": 142.47
+  },
+  {
+    "text": "That equation is half-initialong,",
+    "uid": "0522ce3b7cbd6288",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 142.47,
+    "end": 144.87
+  },
+  {
+    "text": "and that equation unlocks a secret of the stars.",
+    "uid": "bd4a95cc777b648e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 144.87,
+    "end": 148.27
+  },
+  {
+    "text": "Why do the stars shine?",
+    "uid": "1f71b506e709b6b8",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 148.27,
+    "end": 150.27
+  },
+  {
+    "text": "Why does the galaxy light up?",
+    "uid": "adf60d8cf18f3e56",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 150.27,
+    "end": 152.03
+  },
+  {
+    "text": "Why do we have energy on the earth?",
+    "uid": "5ca661957694c3ba",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 152.03,
+    "end": 154.95
+  },
+  {
+    "text": "But then there was another thing that happened to me",
+    "uid": "ca0f3c1e12ef403d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 154.95,
+    "end": 157.03
+  },
+  {
+    "text": "when I was around eight years old.",
+    "uid": "aefc9e2e39e55e32",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 157.03,
+    "end": 159.11
+  },
+  {
+    "text": "I got hooked on the Saturday morning TV shows,",
+    "uid": "0a006e8f8fe168d1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 159.11,
+    "end": 162.75
+  },
+  {
+    "text": "in particular, Flash Gordon.",
+    "uid": "bf00ea55bdde69cf",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 162.75,
+    "end": 165.75
+  },
+  {
+    "text": "And I was hooked.",
+    "uid": "602dbdd8d249dcdd",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 165.75,
+    "end": 167.35
+  },
+  {
+    "text": "I mean, every Saturday morning,",
+    "uid": "f6398abe63600bbf",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 167.35,
+    "end": 169.27
+  },
+  {
+    "text": "watching programs about alien from out of space,",
+    "uid": "66db65c5eceedfa0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 169.27,
+    "end": 172.47
+  },
+  {
+    "text": "starships, ray guns, invisibility shields,",
+    "uid": "e0884dc9119a91ea",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 172.47,
+    "end": 176.47
+  },
+  {
+    "text": "cities in the sky.",
+    "uid": "2952433b060f6e16",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 176.47,
+    "end": 178.47
+  },
+  {
+    "text": "That was for me.",
+    "uid": "5d443e2ed878fb6e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 178.47,
+    "end": 179.99
+  },
+  {
+    "text": "But after a few years, I began to notice something.",
+    "uid": "abf4789342a62a1e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 179.99,
+    "end": 183.07
+  },
+  {
+    "text": "First of all, I began to notice that,",
+    "uid": "f080887def312286",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 183.07,
+    "end": 184.71
+  },
+  {
+    "text": "I didn't have blonde hair and blue eyes.",
+    "uid": "310d985d790c07f8",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 184.71,
+    "end": 187.07
+  },
+  {
+    "text": "I didn't have muscles like Flash Gordon,",
+    "uid": "1fb650d055d5c1b2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 187.07,
+    "end": 189.99
+  },
+  {
+    "text": "but it was a scientist who made the series work.",
+    "uid": "d89c4fa41b8391e9",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 189.99,
+    "end": 193.23
+  },
+  {
+    "text": "In particular, a physicist.",
+    "uid": "691926bb2a1ae782",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 193.23,
+    "end": 196.67
+  },
+  {
+    "text": "He was the one who discovered the ray gun, the starships.",
+    "uid": "a0714570c31225ec",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 196.67,
+    "end": 200.83
+  },
+  {
+    "text": "He was the one who created the invisibility shield.",
+    "uid": "dbfe9f5535a4e257",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 200.83,
+    "end": 203.55
+  },
+  {
+    "text": "And then I relay something else.",
+    "uid": "6347ccac73ba63aa",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 203.55,
+    "end": 205.59
+  },
+  {
+    "text": "If you want to understand the future,",
+    "uid": "d1c1addbca661f59",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 205.59,
+    "end": 207.95
+  },
+  {
+    "text": "you have to understand physics.",
+    "uid": "a5b7015ac88d8b7e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 207.95,
+    "end": 210.99
+  },
+  {
+    "text": "Physics is at the foundation of all the gadgetry,",
+    "uid": "a0c2b5361f2f07f9",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 210.99,
+    "end": 214.99
+  },
+  {
+    "text": "the wizardry, all the marbles of the technological age.",
+    "uid": "0a62e7366ac9759b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 214.99,
+    "end": 219.83
+  },
+  {
+    "text": "All of it can be traced to the work of a physicist.",
+    "uid": "5d19ded13c6d0563",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 219.83,
+    "end": 225.5
+  },
+  {
+    "text": "Most of science fiction is, in fact,",
+    "uid": "ef8bc39f51a522de",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 225.5,
+    "end": 227.42
+  },
+  {
+    "text": "well within the laws of physics,",
+    "uid": "57c4cc2cc51b6b77",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 227.42,
+    "end": 229.3
+  },
+  {
+    "text": "but possible within maybe a hundred years.",
+    "uid": "739ae10f594a3586",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 229.3,
+    "end": 232.26
+  },
+  {
+    "text": "And then we have impossibilities that may take a thousand years",
+    "uid": "38765996addec6f2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 232.26,
+    "end": 236.5
+  },
+  {
+    "text": "That includes time travel, warp drive, higher dimensions,",
+    "uid": "2c95ff1b4b37cfd5",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 237.78,
+    "end": 242.66
+  },
+  {
+    "text": "portals through space and time, star gates, wormholes.",
+    "uid": "a3689cff32df8d90",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 242.66,
+    "end": 247.66
+  },
+  {
+    "text": "If you were to meet your great grandparents",
+    "uid": "e4546e90f865d141",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 247.66,
+    "end": 250.06
+  },
+  {
+    "text": "of the year 1900, they were dirt farmers back then.",
+    "uid": "3aff76158d1364ed",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 250.06,
+    "end": 254.46
+  },
+  {
+    "text": "They didn't live much beyond the age of 40 on average.",
+    "uid": "3ae56bed17580248",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 254.46,
+    "end": 258.22
+  },
+  {
+    "text": "Long distance communication in the year 1900",
+    "uid": "1f6793b1d4dd62a2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 258.22,
+    "end": 261.02
+  },
+  {
+    "text": "was yelling at your neighbor.",
+    "uid": "7eed057204f55950",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 261.02,
+    "end": 263.26
+  },
+  {
+    "text": "And yet if they could see you now with iPads",
+    "uid": "1be9e2a5132466ea",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 263.26,
+    "end": 267.3
+  },
+  {
+    "text": "and iPads and satellites and GPS and laser beams,",
+    "uid": "f027226e3c924460",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 267.3,
+    "end": 271.3
+  },
+  {
+    "text": "how would they view you?",
+    "uid": "bb5d500ab15168c2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 271.3,
+    "end": 272.9
+  },
+  {
+    "text": "They would view you as a wizard or sorcerer.",
+    "uid": "496567dc122b45b4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 272.9,
+    "end": 276.7
+  },
+  {
+    "text": "However, if we can now meet our grandkids of the year 2,100,",
+    "uid": "3130a3a2f85e37ac",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 276.7,
+    "end": 282.1
+  },
+  {
+    "text": "how would we view them?",
+    "uid": "e6515d57206b271c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 282.1,
+    "end": 284.82
+  },
+  {
+    "text": "We would view them as gods, like in Greek mythology.",
+    "uid": "968ae99557f7d5db",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 284.82,
+    "end": 290.3
+  },
+  {
+    "text": "Zeus could control objects around him by pure thought.",
+    "uid": "b7631ea1dba3695a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 290.3,
+    "end": 294.34
+  },
+  {
+    "text": "Materialized objects just by thinking.",
+    "uid": "2d2ef1a3eaf79743",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 294.34,
+    "end": 297.22
+  },
+  {
+    "text": "And there perks being a Greek god, Venus had a perfect body,",
+    "uid": "0fecf89599434e32",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 297.22,
+    "end": 301.98
+  },
+  {
+    "text": "a timeless body, and we are beginning",
+    "uid": "099ee878fe1c7e3b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 301.98,
+    "end": 304.62
+  },
+  {
+    "text": "not to unravel the genetics at the molecular level",
+    "uid": "ce8fa3ba85df6287",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 304.62,
+    "end": 308.62
+  },
+  {
+    "text": "of the aging process.",
+    "uid": "8fc99fee7bfa8643",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 308.62,
+    "end": 310.62
+  },
+  {
+    "text": "And then Apollo, he had a chariot that he could write across the heavens.",
+    "uid": "e48eb1592e0c5a8d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 310.62,
+    "end": 314.98
+  },
+  {
+    "text": "We will finally have that flying car",
+    "uid": "0888aad0e5e56b34",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 314.98,
+    "end": 317.3
+  },
+  {
+    "text": "that we've always wanted to have in our garage.",
+    "uid": "3caa000a25ecd141",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 317.3,
+    "end": 319.5
+  },
+  {
+    "text": "By the year 2,100, we will have the power of the gods.",
+    "uid": "8a40fbdb62c85a43",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 319.5,
+    "end": 324.22
+  },
+  {
+    "text": "To paraphrase Arthur C. Clark,",
+    "uid": "18440dcb37d8f258",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 324.22,
+    "end": 326.46
+  },
+  {
+    "text": "any sufficiently advanced technology",
+    "uid": "cd3aabb0c6b4d46d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 326.46,
+    "end": 329.18
+  },
+  {
+    "text": "is indistinguishable from divinity.",
+    "uid": "fd1af0536a84d235",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 329.18,
+    "end": 334.53
+  },
+  {
+    "text": "So let's now begin our story.",
+    "uid": "bd0438aab533d713",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 334.53,
+    "end": 338.53
+  },
+  {
+    "text": "The history of physics is the history of modern civilization.",
+    "uid": "36de0455f8e3c9c2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 338.53,
+    "end": 343.73
+  },
+  {
+    "text": "Before Isaac Newton, before Galileo,",
+    "uid": "e939a009f52aecb1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 343.73,
+    "end": 347.05
+  },
+  {
+    "text": "we were shrouded with the mysteries of superstition.",
+    "uid": "cdf25aef22afe019",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 347.05,
+    "end": 351.45
+  },
+  {
+    "text": "People believed in all sorts of different kinds of spirits and demons.",
+    "uid": "f98b9f775db54a4c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 351.45,
+    "end": 357.73
+  },
+  {
+    "text": "What made the planets move?",
+    "uid": "15ea90fdb1c8e12f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 357.73,
+    "end": 359.77
+  },
+  {
+    "text": "Why do things interact with other things?",
+    "uid": "509608cc85de177d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 359.77,
+    "end": 362.37
+  },
+  {
+    "text": "It was a mystery.",
+    "uid": "e80604a421fd9286",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 362.37,
+    "end": 364.21
+  },
+  {
+    "text": "So back in the Middle Ages, for example,",
+    "uid": "4f64d0f5613e6a5b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 364.21,
+    "end": 366.97
+  },
+  {
+    "text": "people read the works of Aristotle.",
+    "uid": "c817a5d06d9b53d3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 366.97,
+    "end": 369.13
+  },
+  {
+    "text": "In Aristotle, as the question,",
+    "uid": "25e66fd421daf4d4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 369.13,
+    "end": 371.33
+  },
+  {
+    "text": "why do objects move toward the earth?",
+    "uid": "25403388335f14bd",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 371.33,
+    "end": 374.17
+  },
+  {
+    "text": "And that's because he said, objects,",
+    "uid": "b15a5dcceeb4be06",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 374.17,
+    "end": 376.29
+  },
+  {
+    "text": "you're in, you're in to be united with the earth.",
+    "uid": "784e8c9da91153c8",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 376.29,
+    "end": 380.01
+  },
+  {
+    "text": "And why do objects slow down when you put them in motion?",
+    "uid": "d406a208bfbfa2dd",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 380.01,
+    "end": 383.45
+  },
+  {
+    "text": "Objects in motion slow down because they get tired.",
+    "uid": "0b252fa47be3a256",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 383.45,
+    "end": 388.45
+  },
+  {
+    "text": "These are the works of Aristotle,",
+    "uid": "aefa881fac8221b1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 388.45,
+    "end": 391.01
+  },
+  {
+    "text": "which held sway for almost 2000 years",
+    "uid": "ccce073a7c66da40",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 391.01,
+    "end": 394.77
+  },
+  {
+    "text": "until the beginning of modern physics with Galileo and Isaac Newton.",
+    "uid": "0beeee585a8f58f0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 394.77,
+    "end": 402.54
+  },
+  {
+    "text": "When the ancients looked at the sky,",
+    "uid": "3907ada7fe78626e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 402.54,
+    "end": 405.26
+  },
+  {
+    "text": "the sky was full of mystery and wonder.",
+    "uid": "5a20c6c1a98a31f0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 405.26,
+    "end": 408.22
+  },
+  {
+    "text": "And in the year 1066,",
+    "uid": "8831c41c661c0de1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 408.22,
+    "end": 410.82
+  },
+  {
+    "text": "the most important date on the British calendar,",
+    "uid": "0c551e8f4e608cf5",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 410.82,
+    "end": 414.3
+  },
+  {
+    "text": "there was a comet, a comet,",
+    "uid": "828afb59b0afb155",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 414.3,
+    "end": 416.98
+  },
+  {
+    "text": "which sailed over the battlefield of Hastings.",
+    "uid": "42d429a7f218afe4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 416.98,
+    "end": 420.42
+  },
+  {
+    "text": "It frightened the troops of King Harold,",
+    "uid": "6c1bc0ab0eb95c9c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 420.42,
+    "end": 423.02
+  },
+  {
+    "text": "and a young man from Normandy swept into England",
+    "uid": "c71a9e2acf294bbc",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 423.02,
+    "end": 427.86
+  },
+  {
+    "text": "and defeated King Harold at the Battle of Hastings,",
+    "uid": "7ceeed8bf97abe2f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 427.86,
+    "end": 431.34
+  },
+  {
+    "text": "creating the modern British monarchy.",
+    "uid": "d217a13f8dbae6e1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 431.34,
+    "end": 435.3
+  },
+  {
+    "text": "But the question is, where did the comet come from?",
+    "uid": "a0d0cefdda3965a7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 435.3,
+    "end": 438.66
+  },
+  {
+    "text": "What was this comet that mysteriously paved the way",
+    "uid": "de1d4e96fe1ec956",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 438.66,
+    "end": 442.66
+  },
+  {
+    "text": "for the coming of the British monarchy?",
+    "uid": "9a0c0a2d96dd2a1d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 442.66,
+    "end": 446.3
+  },
+  {
+    "text": "Well, do we better not?",
+    "uid": "7dc332e8d5b1b608",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 446.3,
+    "end": 447.42
+  },
+  {
+    "text": "That same comet, the very same comet",
+    "uid": "eeba47d541b8b80a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 447.42,
+    "end": 451.3
+  },
+  {
+    "text": "that initiated the British monarchy sailed over London,",
+    "uid": "fe24fdc5c9f38b71",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 451.3,
+    "end": 455.26
+  },
+  {
+    "text": "once again in 1682.",
+    "uid": "e9be4b4ffe8561ef",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 455.26,
+    "end": 458.98
+  },
+  {
+    "text": "This time, everyone was asking the question,",
+    "uid": "d7eab07e86cf02c7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 458.98,
+    "end": 462.1
+  },
+  {
+    "text": "where do comets come from?",
+    "uid": "7d024aafb6c4bf5d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 462.1,
+    "end": 464.5
+  },
+  {
+    "text": "Do they signal the death of the King?",
+    "uid": "880ae932c7513aab",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 464.5,
+    "end": 467.38
+  },
+  {
+    "text": "Why do we have messengers from the heavens in the sky?",
+    "uid": "5c8cfed4a1df6ef0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 467.38,
+    "end": 471.74
+  },
+  {
+    "text": "Well, one man dared to penetrate the secrets of comets,",
+    "uid": "5481e2fe32c01e7c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 471.74,
+    "end": 476.18
+  },
+  {
+    "text": "and that was Isaac Newton.",
+    "uid": "dae6c46942e745dc",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 476.18,
+    "end": 477.94
+  },
+  {
+    "text": "In fact, when Isaac Newton was only 23 years old,",
+    "uid": "6a8a3caa81e5bce6",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 477.94,
+    "end": 481.5
+  },
+  {
+    "text": "he stumbled upon the universal force of gravitation.",
+    "uid": "b83abd3f49c10f31",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 481.5,
+    "end": 485.7
+  },
+  {
+    "text": "According to one story, he was walking on his estate in Willsthorpe",
+    "uid": "e5f0cfd0133a76cd",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 485.7,
+    "end": 490.18
+  },
+  {
+    "text": "and he saw an apple fall.",
+    "uid": "34b5737fdc105901",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 490.18,
+    "end": 493.1
+  },
+  {
+    "text": "And then Isaac Newton saw the moon.",
+    "uid": "b7172246846cd9b1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 493.1,
+    "end": 495.58
+  },
+  {
+    "text": "And then he asked the key question,",
+    "uid": "9ee4fd1dc94e5947",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 495.58,
+    "end": 498.06
+  },
+  {
+    "text": "which helped to unlock the heavens.",
+    "uid": "4be7b2acbecd198c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 498.06,
+    "end": 500.66
+  },
+  {
+    "text": "If apples fall, does the moon also fall?",
+    "uid": "f91a79f425e13338",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 500.66,
+    "end": 507.66
+  },
+  {
+    "text": "And the answer was yes.",
+    "uid": "918730077e4695b8",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 507.66,
+    "end": 510.58
+  },
+  {
+    "text": "And that answer overturned thousands of years",
+    "uid": "12f941449ae79d87",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 510.58,
+    "end": 514.1
+  },
+  {
+    "text": "of mystery and speculation about the motions of the heavens.",
+    "uid": "aaa348cd10c34a2d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 514.1,
+    "end": 518.34
+  },
+  {
+    "text": "The moon is in free fall.",
+    "uid": "7a1148a899b1ae04",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 518.34,
+    "end": 522.26
+  },
+  {
+    "text": "Just like an apple, the moon is constantly falling toward the earth.",
+    "uid": "e58f9ca3ab278a3f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 522.26,
+    "end": 528.06
+  },
+  {
+    "text": "It doesn't hit the earth because it spins around the earth",
+    "uid": "47be51f3cc63413e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 528.06,
+    "end": 530.98
+  },
+  {
+    "text": "and the earth is round, but it is acting under a force of force of gravity.",
+    "uid": "cbdc1c78c1f64520",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 530.98,
+    "end": 538.78
+  },
+  {
+    "text": "So Newton immediately tried to work out the mathematics.",
+    "uid": "7b0230bcb6ee96cf",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 538.78,
+    "end": 541.82
+  },
+  {
+    "text": "And he realized that the mathematics of the 1600s",
+    "uid": "a7d3205d10d723df",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 541.82,
+    "end": 545.42
+  },
+  {
+    "text": "was not sufficient to work out the motion of a falling moon.",
+    "uid": "a8128537cc630fce",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 545.42,
+    "end": 550.34
+  },
+  {
+    "text": "So what did Isaac Newton do?",
+    "uid": "dcb46d517c8f3736",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 550.34,
+    "end": 552.7
+  },
+  {
+    "text": "When he was 23 years old, not only did he stumble upon the force of gravity,",
+    "uid": "22541a89e962b62e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 552.7,
+    "end": 557.82
+  },
+  {
+    "text": "but he also created calculus.",
+    "uid": "d384727af68427eb",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 557.82,
+    "end": 560.82
+  },
+  {
+    "text": "In fact, he created calculus at the rate, which you learned",
+    "uid": "e51c86857cdddfc9",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 560.82,
+    "end": 564.78
+  },
+  {
+    "text": "when you were freshman in college.",
+    "uid": "2ba4a95b8ed52087",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 564.78,
+    "end": 567.18
+  },
+  {
+    "text": "And why did he create calculus to calculate the motion of a falling moon?",
+    "uid": "937a3ce75f92717d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 567.18,
+    "end": 573.58
+  },
+  {
+    "text": "The mathematics of this age was incapable of calculating trajectories",
+    "uid": "68ed4d8f97eca9d6",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 573.58,
+    "end": 578.3
+  },
+  {
+    "text": "of objects moving under an inverse square for a field.",
+    "uid": "b84888c039454a3c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 578.3,
+    "end": 581.18
+  },
+  {
+    "text": "And that's what Isaac Newton did.",
+    "uid": "34c3c7d391468f11",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 581.18,
+    "end": 583.82
+  },
+  {
+    "text": "He worked out the motion of the moon.",
+    "uid": "a141b50e82b38f34",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 583.82,
+    "end": 586.86
+  },
+  {
+    "text": "And then he realized that if he understands the moon,",
+    "uid": "4fc3ed0c2fd7939c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 586.86,
+    "end": 590.38
+  },
+  {
+    "text": "he also understands the motion of the planets in the solar system.",
+    "uid": "583724cbd6d9c598",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 590.38,
+    "end": 597.5
+  },
+  {
+    "text": "And Isaac Newton invented a new telescope.",
+    "uid": "5faa61b8dd005c86",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 597.5,
+    "end": 600.62
+  },
+  {
+    "text": "It was the reflecting telescope.",
+    "uid": "8206c303190522cb",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 600.62,
+    "end": 602.38
+  },
+  {
+    "text": "And he was tracking the motion of this common.",
+    "uid": "8254eb5bd4a6ce38",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 602.38,
+    "end": 606.46
+  },
+  {
+    "text": "Well, it turns out that everyone was talking about the comet,",
+    "uid": "7b22a2a60264d279",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 606.46,
+    "end": 609.9
+  },
+  {
+    "text": "including a rather wealthy Englishman by the name of Edmund Haley.",
+    "uid": "fd9974d79da87550",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 609.9,
+    "end": 615.58
+  },
+  {
+    "text": "So Edmund Haley being a wealthy merchant decided to make a trip to Cambridge",
+    "uid": "914c868845e3e9cf",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 615.58,
+    "end": 621.02
+  },
+  {
+    "text": "to talk to England's illustrious scientists, Sir Isaac Newton.",
+    "uid": "a9e30724e55588b7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 621.02,
+    "end": 626.3
+  },
+  {
+    "text": "Well, Edmund Haley asked Newton,",
+    "uid": "2ee73b156c7eec8c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 626.3,
+    "end": 628.7
+  },
+  {
+    "text": "what do you make of this comet?",
+    "uid": "98412ad109d7d258",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 628.7,
+    "end": 630.62
+  },
+  {
+    "text": "No one understands comets.",
+    "uid": "33019199134f7c40",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 630.62,
+    "end": 632.54
+  },
+  {
+    "text": "They're a mystery.",
+    "uid": "46a1581659072d75",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 632.54,
+    "end": 633.9
+  },
+  {
+    "text": "They've been fascinating people for centuries, for millennia.",
+    "uid": "cd77af26d0434d83",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 633.9,
+    "end": 637.82
+  },
+  {
+    "text": "What are your thoughts?",
+    "uid": "b7a1aea71ca54b53",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 637.82,
+    "end": 639.02
+  },
+  {
+    "text": "And then I paraphrase.",
+    "uid": "623ddc33c8b0acc5",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 639.02,
+    "end": 640.62
+  },
+  {
+    "text": "But Isaac Newton said something like this.",
+    "uid": "c093a1e42ba9379f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 640.62,
+    "end": 643.42
+  },
+  {
+    "text": "He said, oh.",
+    "uid": "0b83be2281564c5c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 643.42,
+    "end": 645.42
+  },
+  {
+    "text": "That comet is moving in a perfect ellipse.",
+    "uid": "09925afde1a55511",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 647.26,
+    "end": 650.38
+  },
+  {
+    "text": "It's moving in an in an inverse square force field.",
+    "uid": "58a0588d77a15be5",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 650.38,
+    "end": 653.66
+  },
+  {
+    "text": "I've been tracking it every day with my reflecting telescope",
+    "uid": "cde5e2dd86c0738e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 653.66,
+    "end": 657.34
+  },
+  {
+    "text": "and the path of that comet conforms to my mathematics exactly.",
+    "uid": "a25969725afe7b5f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 657.34,
+    "end": 663.58
+  },
+  {
+    "text": "And of course, we don't know what Edmund Haley's reaction was by paraphrase.",
+    "uid": "29de4f6493474207",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 663.58,
+    "end": 667.66
+  },
+  {
+    "text": "He must have said something like this, for God's sake, man.",
+    "uid": "79b000aa38a07941",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 667.66,
+    "end": 672.94
+  },
+  {
+    "text": "Why don't you publish the greatest work in all of scientific history?",
+    "uid": "b375ec756de3e478",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 672.94,
+    "end": 679.5
+  },
+  {
+    "text": "If correct, you have decoded the secret of the stars.",
+    "uid": "958c0aca067e89e6",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 679.5,
+    "end": 683.66
+  },
+  {
+    "text": "The secret of the heavens.",
+    "uid": "61963eec9ee4b9d3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 683.66,
+    "end": 685.9
+  },
+  {
+    "text": "Nobody understands where comets come from.",
+    "uid": "7defe5c30a66ca36",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 685.9,
+    "end": 688.78
+  },
+  {
+    "text": "And then Newton responded and said, oh, well, it costs too much.",
+    "uid": "69d44eac4d99e07f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 688.78,
+    "end": 693.74
+  },
+  {
+    "text": "I mean, I'm not a wealthy man.",
+    "uid": "d5fed95392ec2f3b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 693.74,
+    "end": 695.9
+  },
+  {
+    "text": "It would cost too much to summarize this calculus that I've invented",
+    "uid": "a4a900df2bd310fa",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 695.9,
+    "end": 699.66
+  },
+  {
+    "text": "and to work at all the motion of the stars.",
+    "uid": "acf7d4d8ee83672f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 699.66,
+    "end": 702.62
+  },
+  {
+    "text": "And then Haley must have said this.",
+    "uid": "3c8a8ac9c8aa4d83",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 702.62,
+    "end": 704.62
+  },
+  {
+    "text": "Mr. Newton, I am a wealthy man.",
+    "uid": "cb73d6b7fa1b056b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 704.62,
+    "end": 708.38
+  },
+  {
+    "text": "I have made my fortune in commerce.",
+    "uid": "d31a1d89c9c287f5",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 708.38,
+    "end": 710.78
+  },
+  {
+    "text": "I will pay for the publication of the greatest scientific work in any language.",
+    "uid": "302a4dd7df882953",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 710.78,
+    "end": 718.14
+  },
+  {
+    "text": "And it was prancepia.",
+    "uid": "7fccdf33eb7ca181",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 718.14,
+    "end": 721.1
+  },
+  {
+    "text": "The principles, the mathematical principles that guide the heavens.",
+    "uid": "17a3203f0309f339",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 721.1,
+    "end": 726.22
+  },
+  {
+    "text": "Believe it or not, this is perhaps one of the most important works",
+    "uid": "00617efd773922d2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 726.22,
+    "end": 730.7
+  },
+  {
+    "text": "ever written by a human being in the 100,000 years since we evolved from Africa.",
+    "uid": "4637600c9333713a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 730.7,
+    "end": 738.54
+  },
+  {
+    "text": "Realize that this book sets into motion a physics of the universe.",
+    "uid": "34c65303d39e25f3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 738.54,
+    "end": 744.3
+  },
+  {
+    "text": "Forces that control the motion of the planets, forces which can be calculated,",
+    "uid": "52a964d96d6b096d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 745.1,
+    "end": 750.54
+  },
+  {
+    "text": "forces which govern the motion of cannonballs, rockets, pebbles, everything that moves, moves",
+    "uid": "52838935b5894a48",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 751.42,
+    "end": 759.58
+  },
+  {
+    "text": "according to the laws of motion and the calculus of Sir Isaac Newton.",
+    "uid": "0f61cbf80ce732b9",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 759.66,
+    "end": 764.46
+  },
+  {
+    "text": "In fact, even today, when we launch our space probes, we don't use Einstein's equations.",
+    "uid": "7b35c03d4aaf08dd",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 765.18,
+    "end": 770.94
+  },
+  {
+    "text": "They only apply when you get near the speed of light or near a black hole.",
+    "uid": "3774feaf52113607",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 770.94,
+    "end": 774.7
+  },
+  {
+    "text": "We use Newton's laws of gravity.",
+    "uid": "ccf1ae758d9e7780",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 774.7,
+    "end": 777.1
+  },
+  {
+    "text": "They are so precise that when we shoot a space probe right past the rings of Saturn,",
+    "uid": "c1ea9d3ae66d5545",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 777.1,
+    "end": 783.02
+  },
+  {
+    "text": "we use exactly the same equations that Isaac Newton unraveled in the 1600s.",
+    "uid": "48db478518b847b2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 783.02,
+    "end": 789.42
+  },
+  {
+    "text": "That's why we were able to unravel the secrets of the solar system,",
+    "uid": "2a7f0c623f834e18",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 789.66,
+    "end": 793.58
+  },
+  {
+    "text": "compliments of the laws of motion of Isaac Newton.",
+    "uid": "d708971c4bf25a1f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 793.58,
+    "end": 797.34
+  },
+  {
+    "text": "So what Newton did was not only did he set into motion the ability to calculate planets.",
+    "uid": "ec9241835cd336ed",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 798.22,
+    "end": 804.46
+  },
+  {
+    "text": "He also set into motion a mechanics.",
+    "uid": "20801dcccdf53584",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 804.46,
+    "end": 807.26
+  },
+  {
+    "text": "Machines now operated upon well-defined laws. Newton's three laws of motion.",
+    "uid": "b3ce1e93bce73ae7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 808.3,
+    "end": 816.06
+  },
+  {
+    "text": "The first law of motion says that objects in motion stay in motion forever,",
+    "uid": "8ce607252143199a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 816.38,
+    "end": 822.54
+  },
+  {
+    "text": "unless acted on by an outside force. You see that in an ice skating ring.",
+    "uid": "2a0368b28efb1782",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 822.54,
+    "end": 826.7
+  },
+  {
+    "text": "You shoot a puck and it goes all the way down forever, unless acted on by an outside force.",
+    "uid": "0353710bba1c117a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 827.1,
+    "end": 833.42
+  },
+  {
+    "text": "That's different from Aristotle's law of motion. Aristotle said,",
+    "uid": "939e75bc355378aa",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 833.42,
+    "end": 838.78
+  },
+  {
+    "text": "objects in motion eventually stop because they get tired.",
+    "uid": "2a55b54464fe5a2d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 838.78,
+    "end": 842.86
+  },
+  {
+    "text": "The second law of motion says, force is mass-timed acceleration and that equation",
+    "uid": "7ad5cb3431ced91c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 843.82,
+    "end": 849.66
+  },
+  {
+    "text": "may possible be industrial revolution. Steam engines, locomotives, batteries, machines,",
+    "uid": "8891f90eef8976bd",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 849.66,
+    "end": 858.78
+  },
+  {
+    "text": "all of a dude to the mechanics set into motion by Isaac Newton's second law of motion,",
+    "uid": "d42e5c70cf445c9c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 858.78,
+    "end": 864.78
+  },
+  {
+    "text": "force is equal to mass-timed acceleration. And then Newton had a third law of motion.",
+    "uid": "44354b88e3b0211a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 864.78,
+    "end": 869.66
+  },
+  {
+    "text": "For every action there's an equal opposite reaction, that's the law of rockets.",
+    "uid": "071eab58711922c5",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 869.74,
+    "end": 875.02
+  },
+  {
+    "text": "That's what we have rockets that can sail into out of space. So the lesson here is,",
+    "uid": "77fb1c5ad02e4617",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 875.02,
+    "end": 879.34
+  },
+  {
+    "text": "when scientists unravel the first force of the universe, gravity, that set into motion the",
+    "uid": "9db1f74d4d24e3f1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 880.3,
+    "end": 888.14
+  },
+  {
+    "text": "industrial revolution, a revolution which topple the kings and queens of Europe, which this place",
+    "uid": "ab03bc4b96fc06f3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 888.14,
+    "end": 895.02
+  },
+  {
+    "text": "feudalism, ushering in the modern age, all because a 23-year-old gentleman looked up and asked",
+    "uid": "2041a6c1193e2681",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 895.02,
+    "end": 903.26
+  },
+  {
+    "text": "the question, does the moon also fall? You know when I was a kid growing up in California,",
+    "uid": "6420bc718735878b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 903.26,
+    "end": 911.34
+  },
+  {
+    "text": "I would see pictures of the Empire State Building. And I said to myself, how could they possibly",
+    "uid": "9517f4991a8f59ae",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 911.34,
+    "end": 916.46
+  },
+  {
+    "text": "build such a big building and not know that it's going to fall? Why doesn't it fall? They didn't",
+    "uid": "4e7129d8b7b8dce3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 916.46,
+    "end": 923.02
+  },
+  {
+    "text": "build scale models of the thing. You couldn't have an Empire State Building that big,",
+    "uid": "d6356f10d6e25131",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 923.02,
+    "end": 926.78
+  },
+  {
+    "text": "the test where it's going to fall or not. How did they know I had a time that that building wouldn't fall?",
+    "uid": "d0489b7049e137a9",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 926.78,
+    "end": 933.9
+  },
+  {
+    "text": "And the answer is Newton's laws of motion. In fact, today I teach Newton's laws of motion",
+    "uid": "57677c7a33d489e6",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 933.9,
+    "end": 940.06
+  },
+  {
+    "text": "and you can actually calculate the forces on every single brick of the Empire State Building,",
+    "uid": "52aa5535a02d8b50",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 940.06,
+    "end": 947.18
+  },
+  {
+    "text": "using Newton's second law of motion force is mass times acceleration. When Newton unraveled the",
+    "uid": "d11924e9688368f1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 947.18,
+    "end": 954.86
+  },
+  {
+    "text": "force of gravity, that was the first force. Now let's take a look at the second force, and even",
+    "uid": "bdc9d1d412def002",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 954.86,
+    "end": 960.38
+  },
+  {
+    "text": "greater force, which is touched all of our lives. And that is the electromagnetic force.",
+    "uid": "8dbf73a9ac5156cf",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 960.38,
+    "end": 966.94
+  },
+  {
+    "text": "Ever since humans saw lightning bolts, light of the sky, ever since they were terrified by the",
+    "uid": "0f2413cee6d13f53",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 968.22,
+    "end": 974.54
+  },
+  {
+    "text": "sound of thunder, they've been asking, do the gods propel lightning bolts and create thunder?",
+    "uid": "d4fa8c88f9ad6677",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 974.54,
+    "end": 981.26
+  },
+  {
+    "text": "Are they angry at us? Scientists begin to realize that the lightning bolts and the thunder can be",
+    "uid": "9434b1d4fca93849",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 981.26,
+    "end": 989.82
+  },
+  {
+    "text": "duplicated on the earth that we can actually create mini lightning bolts using electricity. But it wasn't",
+    "uid": "36780b7fad69815b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 989.82,
+    "end": 997.02
+  },
+  {
+    "text": "until the 1800s, that finally began to unlock the second great force, which rules the universe,",
+    "uid": "0a9812becf12c615",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 997.1,
+    "end": 1004.62
+  },
+  {
+    "text": "the electromagnetic force. Michael Faraday would give Christmas lectures in London,",
+    "uid": "77a39ad1a9e6c9d5",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1004.62,
+    "end": 1010.38
+  },
+  {
+    "text": "fascinating everyone from adults to children, and he would demonstrate the incredible properties of",
+    "uid": "3026b6341e2a5d3a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1010.38,
+    "end": 1017.34
+  },
+  {
+    "text": "electricity. Some people, for example, ask a simple question. If you're in a car or an airplane,",
+    "uid": "3e1cf8c6056c2f61",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1017.34,
+    "end": 1022.86
+  },
+  {
+    "text": "you get hit by light and bolt, why don't you all get electrocuted? Why don't you all die?",
+    "uid": "3c0cbb2a662523be",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1022.86,
+    "end": 1026.94
+  },
+  {
+    "text": "Well, Faraday answered the question. He would create a cage. He would walk into the steel cage,",
+    "uid": "0e296a53ad761979",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1027.82,
+    "end": 1034.54
+  },
+  {
+    "text": "electrify it, and he wouldn't get electrocuted at all. That's called the Faraday cage. And every time",
+    "uid": "6653d6ce92f76c28",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1034.54,
+    "end": 1041.5
+  },
+  {
+    "text": "you walk into a metal structure, you get shielded by this metal object. Well, what Michael Faraday",
+    "uid": "b2d957db79c5025c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1041.5,
+    "end": 1048.06
+  },
+  {
+    "text": "did was he helped to unleash the second great revolution with something called Faraday's Law.",
+    "uid": "fe0289ad56874bcf",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1048.06,
+    "end": 1055.42
+  },
+  {
+    "text": "A moving wire in a magnetic field has his electrons pushed creating an electrical current.",
+    "uid": "a4db434a3092094b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1056.7,
+    "end": 1064.46
+  },
+  {
+    "text": "That simple idea unleashed the electric revolution. And that's why we have hydroelectric generators,",
+    "uid": "a739898529d3a04c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1065.58,
+    "end": 1074.86
+  },
+  {
+    "text": "dams that can produce enormous amounts of power. That's why people build nuclear power plants.",
+    "uid": "c3d8fe6562403171",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1074.94,
+    "end": 1080.22
+  },
+  {
+    "text": "That's why we have electricity in this room right now. On a very small scale, you use that in your",
+    "uid": "c120e627926aa56a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1080.22,
+    "end": 1086.22
+  },
+  {
+    "text": "bicycle. When you put a bicycle lamp on your bicycle, the turning of the wheel spins a magnet. The magnet",
+    "uid": "e51847d6c0a26762",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1086.22,
+    "end": 1093.5
+  },
+  {
+    "text": "then pushes electrons in a wire, and that's why electricity lights up in your bicycle lamp. So in",
+    "uid": "683a916df3ee3f99",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1093.5,
+    "end": 1100.06
+  },
+  {
+    "text": "other words electricity and magnetism were unified into a single force. We once thought that electricity",
+    "uid": "b0dbb948fcbb8d58",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1100.06,
+    "end": 1107.58
+  },
+  {
+    "text": "and magnetism were separate. Now we know they are in fact the same force. So if a moving magnet",
+    "uid": "a8dfa4fac99498c3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1107.58,
+    "end": 1116.78
+  },
+  {
+    "text": "can create an electric field, this means that a moving electric field can create a magnetic field.",
+    "uid": "606d375babc5175c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1117.58,
+    "end": 1124.54
+  },
+  {
+    "text": "But if they can create each other, why can't they oscillate and create a wave?",
+    "uid": "b08e97611dc1a5d2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1125.26,
+    "end": 1131.5
+  },
+  {
+    "text": "So that moving electric fields create magnetic fields, create electric fields, create magnetic fields,",
+    "uid": "bfa0737d53368e55",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1132.38,
+    "end": 1138.22
+  },
+  {
+    "text": "infinite, and create a wave. Well, around the time of the American Civil War, a mathematical",
+    "uid": "213999156804183c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1138.22,
+    "end": 1144.78
+  },
+  {
+    "text": "physicist James Clerk Maxwell calculated using the work of Faraday, the velocity of this wave.",
+    "uid": "a4f8b1969a7e55a3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1144.78,
+    "end": 1151.42
+  },
+  {
+    "text": "In one of the greatest breakthroughs of all time, James Clerk Maxwell calculated the velocity of this",
+    "uid": "cf516e46161903e3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1151.98,
+    "end": 1158.62
+  },
+  {
+    "text": "wave and found out it was the velocity of light. And then he made this incredible discovery. This is",
+    "uid": "6a60729ede879854",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1158.62,
+    "end": 1170.06
+  },
+  {
+    "text": "light. That's what light is. It doesn't by accident travel at the speed of electricity,",
+    "uid": "e4a74ed9a424ebc4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1171.02,
+    "end": 1179.02
+  },
+  {
+    "text": "it is light itself. And the equations were written down by James Clerk Maxwell. Unfortunately,",
+    "uid": "e42d3b0282ae5cbd",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1179.02,
+    "end": 1186.06
+  },
+  {
+    "text": "Michael Faraday himself did not have a formal education. He could not put into mathematical form his own work.",
+    "uid": "7d13d852b3d3cadb",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1186.06,
+    "end": 1192.78
+  },
+  {
+    "text": "James Clerk Maxwell was a theoretical physicist just like myself. He wrote down the mathematical physics",
+    "uid": "d9edd800998fd282",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1192.78,
+    "end": 1199.9
+  },
+  {
+    "text": "of oscillating electric fields and magnetic fields and they are called Maxwell's equations. These equations",
+    "uid": "a2a2cd42a0ee8006",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1199.9,
+    "end": 1206.94
+  },
+  {
+    "text": "have to be memorized by every physicist in grad school. You cannot get your PhD without memorizing",
+    "uid": "31c8511e6518f647",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1206.94,
+    "end": 1214.62
+  },
+  {
+    "text": "these equations. Every engineer who deals with radar and radio has to memorize these equations. And so,",
+    "uid": "4c6a8f4596929476",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1214.62,
+    "end": 1221.26
+  },
+  {
+    "text": "if you go to Berkeley, where I got my PhD, you can buy a t-shirt which says, in the beginning,",
+    "uid": "18bd5954a1a4ccfa",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1221.26,
+    "end": 1226.86
+  },
+  {
+    "text": "God said, the four-dimensional divergence of an anti-symmetric second rank tensor equal zero",
+    "uid": "d469c41f68de7e6b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1227.74,
+    "end": 1233.34
+  },
+  {
+    "text": "and there was light. Ladies and gentlemen, this is the equation for light.",
+    "uid": "fb55c7f37ec4d881",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1234.06,
+    "end": 1240.38
+  },
+  {
+    "text": "The consequences of the electromagnetic revolution touch all of us. This is a picture of the Earth",
+    "uid": "dbe86fdb7dcdb204",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1243.66,
+    "end": 1249.82
+  },
+  {
+    "text": "from outer space. Look at this picture. Europe electrified. You can actually see the fruits of all",
+    "uid": "88c1928ce80c6ee4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1249.82,
+    "end": 1256.78
+  },
+  {
+    "text": "of our efforts to create electricity to energize our lives in one picture, seeing the Earth from outer space.",
+    "uid": "dd1449ab1f62ba91",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1256.78,
+    "end": 1265.66
+  },
+  {
+    "text": "So let's now talk about how ferritate and Maxwell's work touches your life as well.",
+    "uid": "8a01bc997174a479",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1265.74,
+    "end": 1271.74
+  },
+  {
+    "text": "This is the internet. The internet is a simple byproduct of the electromagnetic force. And you can",
+    "uid": "41d9fb308eb5b87c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1272.62,
+    "end": 1277.82
+  },
+  {
+    "text": "see that where there is the internet, there is prosperity. There is science. There is entertainment. There's",
+    "uid": "8b8ab5e227e74bee",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1277.82,
+    "end": 1284.3
+  },
+  {
+    "text": "economic activity where there's no internet. There's poverty. And in the future, the internet will be",
+    "uid": "3bee85f2f8dbee5e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1284.3,
+    "end": 1292.06
+  },
+  {
+    "text": "miniaturized and it will be placed in your glasses. Your glasses will recognize people's faces",
+    "uid": "646d0bf4be20393d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1292.06,
+    "end": 1297.74
+  },
+  {
+    "text": "and display their biography next to the image as you talk to them. And then when they speak Chinese to",
+    "uid": "9d95c8e364410654",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1297.74,
+    "end": 1303.9
+  },
+  {
+    "text": "you, your glasses will translate Chinese into English and print out subtitles right beneath their image.",
+    "uid": "c32d8b3216bcc85d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1303.9,
+    "end": 1311.58
+  },
+  {
+    "text": "So in the future, you will know exactly who you are talking to without even talking to them.",
+    "uid": "4bdeb96fac59b51d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1311.58,
+    "end": 1317.1
+  },
+  {
+    "text": "And this means that in a cocktail party, if you're looking for a job, but you don't know who",
+    "uid": "7a81b6846afe6c07",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1317.66,
+    "end": 1322.46
+  },
+  {
+    "text": "they have a hit or a jar, in the future, you will know exactly who to suck up to. In the future,",
+    "uid": "7e4f05e8792667e5",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1322.46,
+    "end": 1328.7
+  },
+  {
+    "text": "chips will only cause the penny because we can manufacture tinier and tinier transistors. You will have",
+    "uid": "400d5b69c141e4bb",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1328.7,
+    "end": 1335.58
+  },
+  {
+    "text": "ferritate's electromagnetic force inside your body. This is a pill. It has a chip in it. The chip is smaller",
+    "uid": "a810416f29633314",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1335.58,
+    "end": 1343.66
+  },
+  {
+    "text": "than an aspirin pill. It also has a TV camera and a magnet. When you swallow it, the magnet guides",
+    "uid": "5ff8f30f508e7cc4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1343.74,
+    "end": 1350.7
+  },
+  {
+    "text": "the camera taking pictures of your stomach, your intestines because we all know what middle-aged",
+    "uid": "0096c01daa867bd9",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1350.7,
+    "end": 1356.38
+  },
+  {
+    "text": "men fear the most colonoscopies. And this gives new meaning for the expression intel inside.",
+    "uid": "e0988d04b1b42ad3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1356.38,
+    "end": 1363.82
+  },
+  {
+    "text": "Now let's talk about the next great forces which rule the universe. We talked about gravity,",
+    "uid": "63af10472b6d6353",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1365.99,
+    "end": 1372.95
+  },
+  {
+    "text": "which allows us to calculate the motion of the planets, the mechanics created by Newton",
+    "uid": "c3bd90dd07bb5a2c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1372.95,
+    "end": 1378.15
+  },
+  {
+    "text": "helped to unleash the industrial revolution. Michael Faraday worked out the electromagnetic force",
+    "uid": "990f3f605fdc28a2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1378.15,
+    "end": 1384.07
+  },
+  {
+    "text": "which gave us the wonders of the electric age. And now let's talk about the nuclear age,",
+    "uid": "60ae9ccdcc492618",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1384.07,
+    "end": 1389.91
+  },
+  {
+    "text": "the stars and the sun. People have been fascinated by the sun. Apollo was the god that strode across",
+    "uid": "bbac91fb31622e8a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1390.63,
+    "end": 1399.27
+  },
+  {
+    "text": "the heavens and his fiery chariot. But hey, when you calculate how long, coal or oil will burn",
+    "uid": "d001e779e4db3894",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1399.27,
+    "end": 1407.11
+  },
+  {
+    "text": "like the sun, you realize that in just a few hundred years the sun would burn to a crisp. So what could",
+    "uid": "53f219f84c53b9a0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1407.11,
+    "end": 1413.43
+  },
+  {
+    "text": "possibly last for billions of years? There must be a new force on nuclear force. Einstein and others",
+    "uid": "3235dce5ba660e05",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1413.43,
+    "end": 1423.59
+  },
+  {
+    "text": "helped to unravel the secret of the stars. The nuclear force comes in two types, week and strong.",
+    "uid": "c3cfdd7ccfd96fa7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1423.67,
+    "end": 1431.03
+  },
+  {
+    "text": "The week nuclear force governs radioactive decay. The strong nuclear force is one of the strongest",
+    "uid": "1587e66912537af9",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1431.75,
+    "end": 1437.99
+  },
+  {
+    "text": "forces in the entire universe. It's so strong, it holds our protons together ever since Genesis,",
+    "uid": "8e84dbf0c3c40980",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1437.99,
+    "end": 1445.43
+  },
+  {
+    "text": "the beginning of time. The equation which allows for the liberation of energy is Einstein's",
+    "uid": "62880d3b75457205",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1445.43,
+    "end": 1452.07
+  },
+  {
+    "text": "equation, E equals M C squared. What Einstein's showed was that the faster you move, the heavier you get.",
+    "uid": "22e20112a106862d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1452.07,
+    "end": 1461.43
+  },
+  {
+    "text": "So your weight is not a constant. When you move very rapidly you get heavier, something which we measure",
+    "uid": "ac55be107613e8bb",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1462.23,
+    "end": 1468.15
+  },
+  {
+    "text": "every day in the laboratory. Now this means that the energy of motion",
+    "uid": "0771b08fd81384c4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1468.15,
+    "end": 1472.79
+  },
+  {
+    "text": "transformed into mass. Could you get heavier? Now listen carefully. The faster you move,",
+    "uid": "7ccf42ec57d79892",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1473.59,
+    "end": 1482.63
+  },
+  {
+    "text": "the heavier you get, which means the energy of motion E turns into M, your mass. And the relationship",
+    "uid": "7968a8c27be05b01",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1483.27,
+    "end": 1492.87
+  },
+  {
+    "text": "between E and M is very simple. It takes one second to write a Don and a Sheetor paper. It is exactly",
+    "uid": "6a1d76884f859222",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1492.87,
+    "end": 1499.03
+  },
+  {
+    "text": "E equals M C squared. So the nuclear force helped to explain the secret of the Sun,",
+    "uid": "63bb4bd939faac3d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1499.03,
+    "end": 1506.39
+  },
+  {
+    "text": "but it also created a Pandora's box. Because inside the nucleus of the atom are particles.",
+    "uid": "1adfa55c6f0db595",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1506.63,
+    "end": 1514.47
+  },
+  {
+    "text": "And when you smash these particles, what do you get? More particles. And when you smash them,",
+    "uid": "c54f3cba7b3448b0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1515.19,
+    "end": 1520.15
+  },
+  {
+    "text": "when you get more particles. In fact, we are drowning in subatomic particles. Hundreds, thousands of",
+    "uid": "184629ac92136784",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1520.15,
+    "end": 1528.55
+  },
+  {
+    "text": "subatomic particles. Every time we smash atoms. Now we smash atoms using something called",
+    "uid": "5dff5c45296163a7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1528.55,
+    "end": 1534.95
+  },
+  {
+    "text": "atom smashes or particle accelerators. I built my own particle accelerator when I was in high school.",
+    "uid": "b455dc9e4f89e4ab",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1534.95,
+    "end": 1540.63
+  },
+  {
+    "text": "When I was in high school I went to my mom one day and I said, Mom, can I have permission to build a 2.3",
+    "uid": "3d8c06f9f0346b72",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1541.19,
+    "end": 1547.67
+  },
+  {
+    "text": "million electron volt beta-chron particle accelerator in the garage? And my mom said, sure, why not?",
+    "uid": "0c34fcb688953dd4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1547.67,
+    "end": 1555.67
+  },
+  {
+    "text": "And don't forget to take out the garbage. So I went to Westinghouse and as a high school kid, I asked for",
+    "uid": "4ff3bf116e6c481d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1555.83,
+    "end": 1561.67
+  },
+  {
+    "text": "400 pounds of transformer steel. I asked for 22 miles of copper wire. Because I wanted to create a 6",
+    "uid": "c549b974eab45c2b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1561.67,
+    "end": 1567.91
+  },
+  {
+    "text": "kilowatt 10,000 gask magnetic field to energize my atom smash. With 22 miles of copper wire, how could you wind it?",
+    "uid": "78ba7345c875f3aa",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1567.91,
+    "end": 1574.71
+  },
+  {
+    "text": "We did it on the high school football field. I put 22 miles of copper wire on the gold post.",
+    "uid": "4faff55b8e36b25a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1575.11,
+    "end": 1579.99
+  },
+  {
+    "text": "Give it to my mother. She ran to the 50 yard line, unraveling the spool of wire. She gave it to my father",
+    "uid": "1024f1af66dab850",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1580.39,
+    "end": 1587.67
+  },
+  {
+    "text": "who then ran to the gold post and we wound 22 miles of copper wire on the high school football field.",
+    "uid": "b9c770df20126182",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1587.67,
+    "end": 1593.27
+  },
+  {
+    "text": "Well finally, my atom smash was ready. It consumed 6 kilowatt of power. That's every single ounce of",
+    "uid": "b16e22dec7e77bb7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1593.91,
+    "end": 1600.47
+  },
+  {
+    "text": "power that my house could deliver. I plugged my ears. I closed my eyes. I turned on the power. And I heard",
+    "uid": "22bcdd8128a7446a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1600.47,
+    "end": 1609.67
+  },
+  {
+    "text": "this huge crackling sound as 6 kilowatt of power surged through my capacitor bank. And then I heard a",
+    "uid": "0ddbe0b3d19146c9",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1609.67,
+    "end": 1618.15
+  },
+  {
+    "text": "pop-pop sound as I blew out every single circuit breaker in the house. The whole house was plunged in",
+    "uid": "c2967ceb0cbe1381",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1618.15,
+    "end": 1625.35
+  },
+  {
+    "text": "darkness. My poor mom, every time she come home she would see the lights flicker and die. And she must have",
+    "uid": "ab0dedb04b3ad7eb",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1625.67,
+    "end": 1633.27
+  },
+  {
+    "text": "wondered why couldn't I have a son who plays baseball? Why can't he learn basketball? And forgot to say",
+    "uid": "fe7312415c3946d4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1633.27,
+    "end": 1640.95
+  },
+  {
+    "text": "why can't he find a nice Japanese girl? I mean, why do you have to build these machines in the garage?",
+    "uid": "b4caa1329e90df68",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1640.95,
+    "end": 1647.19
+  },
+  {
+    "text": "Well, these machines that I built in my garage earn the attention of a physicist, Edward Teller,",
+    "uid": "4feca2069e69abbb",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1648.07,
+    "end": 1654.71
+  },
+  {
+    "text": "father of the hydrogen bomb. And he arranged for me to get a scholarship to Harvard. And my career",
+    "uid": "eb6e95c92929960e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1654.71,
+    "end": 1660.87
+  },
+  {
+    "text": "got a head start. He knew exactly what I was doing. I didn't have to explain to him that I was experimenting",
+    "uid": "2b04dd413164ca27",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1660.87,
+    "end": 1667.67
+  },
+  {
+    "text": "with anti-matter. I was creating anti-electrons in my mom's garage and using adasmashers to eventually",
+    "uid": "283938f7cc7f8869",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1667.67,
+    "end": 1674.15
+  },
+  {
+    "text": "create beams of anti-matter. Anti-matter is the opposite of matter. It has the opposite charge. So an",
+    "uid": "e4966b00dcbecb10",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1674.15,
+    "end": 1681.67
+  },
+  {
+    "text": "electron has negative charge. The positron or anti-electron has positive charge. This means that you",
+    "uid": "1f57a964b73127fc",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1681.67,
+    "end": 1687.99
+  },
+  {
+    "text": "can now create anti-molecules and anti-adams. Anti-hydrogen was made at Sern outside Geneva, Switzerland,",
+    "uid": "a074540f2b5c8da0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1687.99,
+    "end": 1696.07
+  },
+  {
+    "text": "and also at Fermi-Lav outside Chicago where I have anti-electrons circulating around anti-protons.",
+    "uid": "ac55be03512db316",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1696.07,
+    "end": 1703.19
+  },
+  {
+    "text": "And in Brookhaven, National Laboratory in La Nalan, and just recently, they detected anti-healyam.",
+    "uid": "e15dde7e23d7a751",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1703.19,
+    "end": 1708.55
+  },
+  {
+    "text": "We have two anti-protons with two anti-nutrons to create anti-healyam.",
+    "uid": "fb62ec8a80da3d40",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1709.27,
+    "end": 1715.51
+  },
+  {
+    "text": "For every piece of matter, there's a counterpart which is made out of anti-matter. And one",
+    "uid": "4073eb6e11ccbc1b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1715.51,
+    "end": 1721.11
+  },
+  {
+    "text": "of the two collide, by the way, that releases the greatest energy source in the universe. It is 100%",
+    "uid": "3f2a24c73671b05e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1721.11,
+    "end": 1728.71
+  },
+  {
+    "text": "conversion of matter to energy by Einstein's equations, E equals mc squared. Inside the nucleus of the atom,",
+    "uid": "92df02ed37527c3a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1728.71,
+    "end": 1739.93
+  },
+  {
+    "text": "we have particles upon particles when you smash them apart. In the 1950s, we were drowning in",
+    "uid": "363b30b2be3a2d57",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1740.41,
+    "end": 1747.61
+  },
+  {
+    "text": "subatomic particles. In fact, J. Robert Oppenheimer, the father of the atomic bomb, once made a statement,",
+    "uid": "40c8b54b8c7084a0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1747.61,
+    "end": 1754.33
+  },
+  {
+    "text": "E declared that the Nobel Prize in physics should go to the physicists who does not discover a new",
+    "uid": "9862894dcaf43d7a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1755.21,
+    "end": 1763.37
+  },
+  {
+    "text": "particle this year. That's how many particles were being discovered. So let's talk about the particle's",
+    "uid": "31029125f24c9a00",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1763.37,
+    "end": 1770.81
+  },
+  {
+    "text": "zoo. Right now, we've physicists have unlocked hundreds, thousands of subatomic particles,",
+    "uid": "01214dd362536d48",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1770.81,
+    "end": 1778.17
+  },
+  {
+    "text": "and we've been able to piece them together into a Jigsaw puzzle. It's called a standard model.",
+    "uid": "d91057263b8bfc9c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1778.81,
+    "end": 1783.93
+  },
+  {
+    "text": "It has 36 quarts, 19 free parameters, three generations of quarks, no rhyme, no reason, but this is",
+    "uid": "789e0b3dd58df9a7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1784.57,
+    "end": 1794.65
+  },
+  {
+    "text": "the most fundamental basis of reality that we physicists have been able to construct.",
+    "uid": "e9020f4f061f1627",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1794.65,
+    "end": 1800.65
+  },
+  {
+    "text": "Billions of dollars, 20 Nobel prizes, have gone into the creation of the standard model, and it is the",
+    "uid": "2d9357ac9f1bea3c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1801.37,
+    "end": 1808.89
+  },
+  {
+    "text": "ugliest theory known to science, but it works. There's one piece missing, and that one piece",
+    "uid": "a30c856945f035be",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1808.97,
+    "end": 1816.25
+  },
+  {
+    "text": "that's missing is called the Higgs boson. We expect to find it. We want to create a higher version of this",
+    "uid": "d595eda59a745e25",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1816.25,
+    "end": 1823.29
+  },
+  {
+    "text": "theory, and that theory, we think, is string theory. String theory is based on the simple idea",
+    "uid": "4dbfe35acb174fbc",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1823.29,
+    "end": 1831.69
+  },
+  {
+    "text": "that all the four forces of the universe, gravity, electromagnetic force, and the two nuclear",
+    "uid": "f95c271021822388",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1832.65,
+    "end": 1839.37
+  },
+  {
+    "text": "forces, can be viewed as music. Music of tiny little rubber bands. So if I had a supermarketscope,",
+    "uid": "2dc70b0f826fbb2b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1839.37,
+    "end": 1848.41
+  },
+  {
+    "text": "and I could look right into the heart of an electron, what would I see? I would see a vibrating rubber band.",
+    "uid": "fa685281ecb47daa",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1848.41,
+    "end": 1855.05
+  },
+  {
+    "text": "And if I twang it, it turns into a neutrino. I twang it again, it turns into a quart. I",
+    "uid": "222a7cc69b94cee1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1855.05,
+    "end": 1859.77
+  },
+  {
+    "text": "twang it again, it turns into a Yang mills particle. In fact, by twang it enough times,",
+    "uid": "8aff687170894274",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1859.85,
+    "end": 1864.65
+  },
+  {
+    "text": "I get thousands of subatomic particles that have been cataloged patiently by physicists.",
+    "uid": "5d6b4d67cdbe15e0",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1864.65,
+    "end": 1871.37
+  },
+  {
+    "text": "String theory, we think, is a theory of everything. Now string theory in turn can be summarized in an",
+    "uid": "41a5f2a97fe46d0c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1873.91,
+    "end": 1881.03
+  },
+  {
+    "text": "equation about an inch long. That's my equation. That's is called string field theory, and how will we",
+    "uid": "ff086ea0f843737a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1881.03,
+    "end": 1888.31
+  },
+  {
+    "text": "test it? We are building a machine. The biggest machine of science ever built in the history of",
+    "uid": "c888810f903b3ea1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1888.63,
+    "end": 1897.35
+  },
+  {
+    "text": "the human race outside Geneva, Switzerland. It is the large H.J. on Collider. So if the H.J.",
+    "uid": "e8bfeb693962dbfb",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1897.35,
+    "end": 1905.99
+  },
+  {
+    "text": "Boson, we think, will be created by the large H.J. on Collider. A tube 17 miles into a conference with",
+    "uid": "96cdfbb358720d2d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1905.99,
+    "end": 1912.95
+  },
+  {
+    "text": "two beams of proton circulating in opposite directions, then slanting together creating a shower",
+    "uid": "7fecf2f16616f36e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1912.95,
+    "end": 1919.99
+  },
+  {
+    "text": "of particles. And among these particles, we hope to find the H.J. Boson. But not only that,",
+    "uid": "7f9b09a0c6d86c36",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1919.99,
+    "end": 1925.99
+  },
+  {
+    "text": "we hope to find particles even beyond the H.J. Boson. The next set of particles beyond the H.J. Boson",
+    "uid": "2d5b692700a50eab",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1925.99,
+    "end": 1931.75
+  },
+  {
+    "text": "are particles. The next layer of the Jigsaw puzzle are called particles, super particles,",
+    "uid": "b47b8a8b4d299c7e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1931.75,
+    "end": 1937.35
+  },
+  {
+    "text": "nothing but higher vibrations, higher musical notes, of a vibrating string. And what else",
+    "uid": "a104775412b90c33",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1937.99,
+    "end": 1943.83
+  },
+  {
+    "text": "could we do? We can also unlock the secrets of the Big Bang. You see Einstein's equations break down",
+    "uid": "11cf32495de1c5ff",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1943.83,
+    "end": 1950.95
+  },
+  {
+    "text": "at the instant of the Big Bang and the center of a black hole. The two most interesting places in the",
+    "uid": "e14dc8c45d3066b4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1950.95,
+    "end": 1957.67
+  },
+  {
+    "text": "universe are beyond our reach using Einstein's equations. We need a higher theory, and that's where",
+    "uid": "cc8f80e148e6b13c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1957.67,
+    "end": 1966.31
+  },
+  {
+    "text": "string theory comes in. String theory takes you before the Big Bang, before Genesis itself.",
+    "uid": "58dffc16104608f2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1966.39,
+    "end": 1973.83
+  },
+  {
+    "text": "And what does string theory say? It says that there is a multiverse of universes.",
+    "uid": "4fd40728c4da70e7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1973.83,
+    "end": 1980.63
+  },
+  {
+    "text": "Where do the Big Bang come from? Well, Einstein's equations give us this compelling picture that we are",
+    "uid": "672414634399f539",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1982.31,
+    "end": 1988.31
+  },
+  {
+    "text": "like insects on a soap bubble. A gigantic soap bubble which is expanding.",
+    "uid": "76ca71346b22b9f8",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1988.87,
+    "end": 1995.03
+  },
+  {
+    "text": "And we are trapped like flies on fly paper. We can't escape the soap bubble. And that's called the Big Bang Theory.",
+    "uid": "6da6cef233353fd3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 1995.99,
+    "end": 2002.07
+  },
+  {
+    "text": "String theory says there should be other bubbles out there. In a multiverse of bubbles.",
+    "uid": "9f92a762b68e217c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2003.27,
+    "end": 2010.31
+  },
+  {
+    "text": "When two universes collide, it can form another universe. When a universe splits in half,",
+    "uid": "62cfc543c8580fa1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2011.11,
+    "end": 2018.23
+  },
+  {
+    "text": "it can create two universes. And that we think is the Big Bang. The Big Bang is caused either by the",
+    "uid": "642aa8b4e2e3111d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2018.23,
+    "end": 2026.23
+  },
+  {
+    "text": "collision of universes or by the phygening of universes. If there are other dimensions,",
+    "uid": "6b0cd472d2a21289",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2026.23,
+    "end": 2035.16
+  },
+  {
+    "text": "if there are other universes, can we go between universes? Well, that of course is very hard.",
+    "uid": "96d8baa02f50357c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2035.24,
+    "end": 2042.36
+  },
+  {
+    "text": "However, Alice in Wonderland gives us a possibility that maybe one day we might create a wormhole",
+    "uid": "af483bb74c94b72d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2042.36,
+    "end": 2050.84
+  },
+  {
+    "text": "between universes. This is a wormhole. Think of taking a sheet of paper and putting two dots on it.",
+    "uid": "619ef5192ba36395",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2050.84,
+    "end": 2060.2
+  },
+  {
+    "text": "The shortest distance between two points is a straight line. But if I can fold, if I can",
+    "uid": "729b94900f8a3111",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2061.08,
+    "end": 2067.16
+  },
+  {
+    "text": "fold that sheet of paper, then perhaps I can create a shortcut. A shortcut through space and time.",
+    "uid": "6649af486cf07965",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2067.16,
+    "end": 2075.48
+  },
+  {
+    "text": "Call the wormhole. This is a genuine solution of Einstein's equations. We can actually see this in",
+    "uid": "8d0804ebfea14fbc",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2075.48,
+    "end": 2081.64
+  },
+  {
+    "text": "string theory. The question is how practical is it to go through one of these things? We don't know.",
+    "uid": "3e3e2bea257338fa",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2081.64,
+    "end": 2088.76
+  },
+  {
+    "text": "In fact, there's a debate among physicists today. Stephen Hawking. Many physicists are",
+    "uid": "1962f6a71e594ed3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2088.84,
+    "end": 2093.24
+  },
+  {
+    "text": "jumping into the game. Trying to figure out whether it's physically possible to go all the way through a",
+    "uid": "98290fe93092c7d8",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2093.24,
+    "end": 2100.92
+  },
+  {
+    "text": "wormhole. Because if you could, then you might be able to use this as a time machine. Since string theory",
+    "uid": "400d73d5430b795f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2100.92,
+    "end": 2109.94
+  },
+  {
+    "text": "is a theory of everything. It's also a theory of time. And time machines all are allowed in Einstein's",
+    "uid": "4cdd0ccf47d88b06",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2109.94,
+    "end": 2116.5
+  },
+  {
+    "text": "equations. But to build one is extremely difficult. Far more energy is required than a simple",
+    "uid": "29b6bba88731a41d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2116.58,
+    "end": 2125.46
+  },
+  {
+    "text": "delorean with plutonium. You know, a trillions of years from now, the universe is going to get awfully cold.",
+    "uid": "2e8d2a3a6b62a4f5",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2125.46,
+    "end": 2136.04
+  },
+  {
+    "text": "We think the universe is headed for a big freeze. All the stars will blink out. Stars will cease to",
+    "uid": "405ac2c2d5a052a4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2136.04,
+    "end": 2142.44
+  },
+  {
+    "text": "be so big. It'll be very cold. At that point, all intelligent life in the universe must die.",
+    "uid": "4e3589a51503d00d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2143.32,
+    "end": 2151.96
+  },
+  {
+    "text": "The laws of physics are at death warrant to all intelligent life. There's only one way to escape the death",
+    "uid": "2030fa7aa72d8bbe",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2153.08,
+    "end": 2161.16
+  },
+  {
+    "text": "of the universe. And that is, leave the universe. We are now, of course, entering the realm of science fiction.",
+    "uid": "74df3b0639dd0875",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2161.16,
+    "end": 2169.4
+  },
+  {
+    "text": "But at least we now have equations. The equations of strength theory, which will allow us to",
+    "uid": "6abc68722d7cf4ec",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2169.4,
+    "end": 2174.28
+  },
+  {
+    "text": "calculate if it is possible to go through a wormhole to go to another universe where it's warmer and perhaps",
+    "uid": "de621ec26ca94540",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2174.28,
+    "end": 2182.52
+  },
+  {
+    "text": "we can start all over again. If you were to summarize the March of Physics over the last 10,000 years,",
+    "uid": "dc6320e628588ef4",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2182.52,
+    "end": 2193.38
+  },
+  {
+    "text": "it would be the distillation of the laws of nature into four fundamental forces.",
+    "uid": "bb3d4c3458b62b5b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2194.34,
+    "end": 2199.86
+  },
+  {
+    "text": "Gravity, electricity, magnetism, and the tunucleophoresis. But then the question is, is there a fifth force?",
+    "uid": "a0f8f5945e976c3a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2200.66,
+    "end": 2206.82
+  },
+  {
+    "text": "A force beyond the forces that we can measure in the laboratory. And believe it or not, there are physicists",
+    "uid": "13ce1fb012718937",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2207.38,
+    "end": 2213.78
+  },
+  {
+    "text": "who actually look very carefully for a fifth force. Some people think maybe it's psychic phenomena.",
+    "uid": "a7bd9a91dd950069",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2213.78,
+    "end": 2219.62
+  },
+  {
+    "text": "Maybe it's telepathy. Maybe it's something called siphower. Maybe it's the power of the mind.",
+    "uid": "00bac1c917c0630d",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2220.26,
+    "end": 2225.7
+  },
+  {
+    "text": "Maybe consciousness. Well, I'm a physicist. We believe in testing theories to make sure that they are",
+    "uid": "f00ce271e9a197e1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2225.7,
+    "end": 2233.22
+  },
+  {
+    "text": "falseifiable and reproducible. We want to make sure that on demand your theory works every single time without exception.",
+    "uid": "155ed2e2f3aa11a7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2233.22,
+    "end": 2242.26
+  },
+  {
+    "text": "And if your theory fails, one time is wrong. In other words, Einstein's theory has to work every",
+    "uid": "062299b7a5d191e8",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2242.66,
+    "end": 2249.78
+  },
+  {
+    "text": "single time without exception. One time, Einstein's theory is proven to be wrong. The whole theory is wrong.",
+    "uid": "f933600dda2748f3",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2249.78,
+    "end": 2257.06
+  },
+  {
+    "text": "Well, so far we can reproduce these four physical theories. But a fifth theory cannot be reproduced.",
+    "uid": "560b4d2108376948",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2257.62,
+    "end": 2263.78
+  },
+  {
+    "text": "We've looked for it. Some people think that maybe a fifth force may be short-range, like not over the",
+    "uid": "d4922e76c4de7a0c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2264.66,
+    "end": 2270.02
+  },
+  {
+    "text": "nucleus or the atom, but ranging over several feet. And we can't find any. We physicists in the last",
+    "uid": "430ad8ded5d291e1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2270.1,
+    "end": 2279.29
+  },
+  {
+    "text": "ten years have discovered a new energy source larger than the galaxy itself. Dark energy",
+    "uid": "a69f1a38e89bc1da",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2279.29,
+    "end": 2287.61
+  },
+  {
+    "text": "realized in our universe today, 73% of our universe. The matter of energy, 73% is in the form of dark energy.",
+    "uid": "3206cfcbd054ae43",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2288.01,
+    "end": 2297.29
+  },
+  {
+    "text": "The energy of nothing. That's what's blowing the galaxy's farther and farther apart. That's the",
+    "uid": "a1471392c1bb46a8",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2297.37,
+    "end": 2302.89
+  },
+  {
+    "text": "energy of the big bang itself. Kids ask the question, if the universe banged, then what made it bang?",
+    "uid": "b7e3a78c12636851",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2302.89,
+    "end": 2309.77
+  },
+  {
+    "text": "And the answer is dark energy. 73% of the universe's energy is dark energy. 23% is dark matter.",
+    "uid": "9482506f9370a080",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2309.77,
+    "end": 2318.17
+  },
+  {
+    "text": "Dark matter is invisible matter. If I held it in my hand, who go right through my hand,",
+    "uid": "a26f49c3c0e4c5ad",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2318.17,
+    "end": 2322.65
+  },
+  {
+    "text": "it holds the galaxy together. 23% of the universe is dark matter. Stars made out of hydrogen",
+    "uid": "5e41f898262e5c67",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2322.73,
+    "end": 2329.69
+  },
+  {
+    "text": "and helium make up 4% of the universe. And then what about us? We, the higher elements. We made out of",
+    "uid": "952c2ae67733c25c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2329.69,
+    "end": 2337.69
+  },
+  {
+    "text": "oxygen, carbon, nitrogen, tungsten, iron. We make up 0.03% of the universe. In other words, we are the",
+    "uid": "10007ac7c46e40b8",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2337.69,
+    "end": 2348.81
+  },
+  {
+    "text": "exception. The universe is mainly made out of dark energy. The universe is mainly made out of dark matter,",
+    "uid": "3825cb6e3a3d369c",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2348.89,
+    "end": 2356.17
+  },
+  {
+    "text": "overwhelming the stars, overwhelming the galaxies in fact. Now, what is dark matter, which makes",
+    "uid": "19d42859195a3b29",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2356.17,
+    "end": 2362.17
+  },
+  {
+    "text": "up 23% of the universe. No one knows. String theory gives us a clue, but there's no definitive answer.",
+    "uid": "8e7dd5436fb7e1ff",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2362.17,
+    "end": 2371.05
+  },
+  {
+    "text": "So, in other words, for you, young aspiring physicists out there in the audience. You may be saying to yourself",
+    "uid": "710b0cdc2746322e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2371.05,
+    "end": 2379.98
+  },
+  {
+    "text": "why should I go into physics? Because you guys already have a candidate for the unified field there.",
+    "uid": "3022e20beee64032",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2380.86,
+    "end": 2385.5
+  },
+  {
+    "text": "Just realize that every single physics textbook is wrong. Every single physics textbook on the earth",
+    "uid": "da764ff59c0baca1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2386.46,
+    "end": 2394.38
+  },
+  {
+    "text": "says that the universe is mainly made out of atoms. There it is. The universe is mainly made out of atoms.",
+    "uid": "ac7fc42e6878a83f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2394.38,
+    "end": 2400.3
+  },
+  {
+    "text": "Wrong. In the last 10 years, we have come to the realization that most of the universe is dark.",
+    "uid": "aae38ed98c943ae1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2400.3,
+    "end": 2406.7
+  },
+  {
+    "text": "And there's a whole shelf full of Nobel Prizes for the young people who can figure out the secret",
+    "uid": "74c8d36692df4b6a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2406.86,
+    "end": 2415.5
+  },
+  {
+    "text": "of dark matter and dark energy. Let me get some advice to you if you are a young physicist, perhaps",
+    "uid": "bfb2814706d289fa",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2415.5,
+    "end": 2424.33
+  },
+  {
+    "text": "just getting out of high school, you have dreams of being Einstein, of dreams of working on string theories,",
+    "uid": "8a66d9364d23b18e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2424.33,
+    "end": 2430.73
+  },
+  {
+    "text": "and stuff like that, and then you hit freshman physics. Let me be blunt. We physicists flunk",
+    "uid": "a8ca450869804ebb",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2430.73,
+    "end": 2437.45
+  },
+  {
+    "text": "most students taking elementary physics and were more or less encouraged to do so by the engineering department.",
+    "uid": "e0113669f3c5819f",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2437.45,
+    "end": 2443.69
+  },
+  {
+    "text": "We don't want to train engineers who make bridges that fall down. We don't want to create engineers",
+    "uid": "81dc312b7e9baf60",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2443.69,
+    "end": 2449.45
+  },
+  {
+    "text": "that create skyscrapers that fall over. There's a bottom line. You have to know the laws of mechanics.",
+    "uid": "2eef2d722bbd51d1",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2449.45,
+    "end": 2455.77
+  },
+  {
+    "text": "So before you can work with the laws of Einstein, you have to work with the laws of friction,",
+    "uid": "4efe3a8e8bc2e530",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2455.77,
+    "end": 2460.09
+  },
+  {
+    "text": "levers, polis, and gears. As a consequence, we have a very high-flunker at Rayden Elementary Physics.",
+    "uid": "cb7b9d33461ca646",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2460.09,
+    "end": 2466.25
+  },
+  {
+    "text": "So if you're a young physicist, graduating from high school with stars in your eyes and you encounter",
+    "uid": "39745c49012b197b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2466.25,
+    "end": 2471.53
+  },
+  {
+    "text": "freshman physics for the first time, watch out. If you have a rough time, that's the way it is.",
+    "uid": "61963c447f9a03b2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2471.53,
+    "end": 2477.69
+  },
+  {
+    "text": "I started out my life as an experimental physicist. Then I went to Harvard and then I talked to my",
+    "uid": "23b0cbc562452ed2",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2479.45,
+    "end": 2485.05
+  },
+  {
+    "text": "advisor, one of the world's greatest experimental physicists, Professor Pound, and he told me that maybe",
+    "uid": "4ef267ace1a67af7",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2485.05,
+    "end": 2490.89
+  },
+  {
+    "text": "it's time to give it a rest. He said to me, your skills are much better suited to what you love the most,",
+    "uid": "4a20d656dbaa919e",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2490.89,
+    "end": 2497.53
+  },
+  {
+    "text": "which is theory, mathematics, the world of higher dimensions. And I realized that he was probably right.",
+    "uid": "af531ea8a189a550",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2497.53,
+    "end": 2504.17
+  },
+  {
+    "text": "The thing about physics, or even science that really intrigues me the most, is to find the most",
+    "uid": "e228acba6e3b3789",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2505.05,
+    "end": 2511.21
+  },
+  {
+    "text": "fundamental basis for everything. Rather than trying to massage a theory, or make it",
+    "uid": "d16d7b0c228a760a",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2511.29,
+    "end": 2516.97
+  },
+  {
+    "text": "theory prettier, why not find out why it works, what makes it tick? And that's what I do for a living.",
+    "uid": "a10d207e7543f70b",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2516.97,
+    "end": 2523.05
+  },
+  {
+    "text": "I'm a theoretical physicist. Thank you very much.",
+    "uid": "2bfa65a90502fcdb",
+    "source": "Big_Think - Michio_Kaku_-_The_Universe_in_a_Nutshell_Full_Presentation_Big_Think",
+    "start": 2523.05,
+    "end": 2526.01
+  }
+]
