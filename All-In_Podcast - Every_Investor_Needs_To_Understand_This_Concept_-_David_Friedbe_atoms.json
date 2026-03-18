@@ -1,0 +1,1423 @@
+[
+  {
+    "text": "I pulled some data together, Nick, if you could pull up the basics, I know we talk about",
+    "uid": "d91bc5d3b478904c",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 0.0,
+    "end": 4.32
+  },
+  {
+    "text": "this a lot, but I thought it would be good to show the difference between kind of a normal",
+    "uid": "b8394d80fb638ae6",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 4.32,
+    "end": 7.0
+  },
+  {
+    "text": "distribution and a power law distribution like venture returns or I don't like to call",
+    "uid": "48777f4d2092dd32",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 7.0,
+    "end": 11.16
+  },
+  {
+    "text": "But I do think the returns generally in free markets create value creation in a power law distribution,",
+    "uid": "f959ee616528d20d",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 12.16,
+    "end": 21.76
+  },
+  {
+    "text": "which means that a few of the many accounts for the vast majority of the capital appreciation,",
+    "uid": "769edbad8b4af5fc",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 21.76,
+    "end": 29.64
+  },
+  {
+    "text": "of the value creation.",
+    "uid": "518fcb2648e74bdf",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 29.64,
+    "end": 31.92
+  },
+  {
+    "text": "And that's because of the power of compounding.",
+    "uid": "1cd64b17abc112f8",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 31.92,
+    "end": 34.6
+  },
+  {
+    "text": "If you build a better engine of technology, a better business engine, you will compound and",
+    "uid": "d961e80b7d4e46ac",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 34.6,
+    "end": 39.62
+  },
+  {
+    "text": "that means that over time you will accumulate more and more of the market in an outside",
+    "uid": "5cc1ba9e2c4445f4",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 39.62,
+    "end": 43.8
+  },
+  {
+    "text": "way as you accumulate more of the market that you actually move faster in accumulating",
+    "uid": "6a9be74b3a4e185e",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 43.8,
+    "end": 47.4
+  },
+  {
+    "text": "more of the market and eventually it comes to run away flywheel, no one can catch up.",
+    "uid": "ed8beda332c8fa87",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 47.4,
+    "end": 51.72
+  },
+  {
+    "text": "That's the key return profile in free markets generally speaking.",
+    "uid": "dd41ff9618fb0596",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 51.72,
+    "end": 57.4
+  },
+  {
+    "text": "And a manifestation of that is that is also the return profile in venture in technology",
+    "uid": "910e99b07666d176",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 57.4,
+    "end": 62.64
+  },
+  {
+    "text": "venture investing because when you find that one or two great hit, the Uber that has a great",
+    "uid": "b79c1469ab83cd10",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 62.64,
+    "end": 67.64
+  },
+  {
+    "text": "network effect or the Airbnb or the Google, it has a runaway effect in the market and it accumulates",
+    "uid": "9b8b6f451258e17c",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 67.64,
+    "end": 73.16
+  },
+  {
+    "text": "all the capital and becomes really valuable.",
+    "uid": "25c8ba1b64ab0e65",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 73.16,
+    "end": 75.16
+  },
+  {
+    "text": "And you can see this in the returns.",
+    "uid": "713a243d39759a4b",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 75.16,
+    "end": 76.36
+  },
+  {
+    "text": "If you just pull up this is the latest card data.",
+    "uid": "fcfb724415c06012",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 76.36,
+    "end": 79.16
+  },
+  {
+    "text": "So this shows what the IRR by the vintage that the fund was raised and then also by the size",
+    "uid": "76ed485e442a5be2",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 79.16,
+    "end": 85.4
+  },
+  {
+    "text": "of the fund and by how the fund has performed on a percentile basis.",
+    "uid": "7b3286409c0ec3a8",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 85.4,
+    "end": 89.64
+  },
+  {
+    "text": "Look just at the 2017 row.",
+    "uid": "ee316c95d52e70a9",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 89.64,
+    "end": 92.76
+  },
+  {
+    "text": "So the top desial funds are doing call it 30% versus the median fund being called the market.",
+    "uid": "9cc8e49efeeb2c02",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 92.76,
+    "end": 100.32
+  },
+  {
+    "text": "These are all market.",
+    "uid": "06b04279793b2e6f",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 100.32,
+    "end": 101.32
+  },
+  {
+    "text": "These are all bullshit numbers.",
+    "uid": "a7baa1bd906ffea4",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 102.32,
+    "end": 104.32
+  },
+  {
+    "text": "Okay, fair enough, but I'll make your case in a second here and these are not DTIs.",
+    "uid": "06ed2802db2f6306",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 104.32,
+    "end": 108.16
+  },
+  {
+    "text": "It's not distribution in cash out.",
+    "uid": "03fe0389327c1b72",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 108.16,
+    "end": 110.12
+  },
+  {
+    "text": "This is just marked up value and this is eight years old.",
+    "uid": "30ea7e9856c5ef5f",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 110.12,
+    "end": 112.4
+  },
+  {
+    "text": "It's the 2017 vintage.",
+    "uid": "152a8a239bc0368d",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 112.4,
+    "end": 114.6
+  },
+  {
+    "text": "But just the difference between, you know, call it a 30% IRR and a 10% IRR, that compounds over",
+    "uid": "744617975c032016",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 114.6,
+    "end": 120.44
+  },
+  {
+    "text": "So the multiple difference at the end you should expect is the difference of making 14 times your",
+    "uid": "26fd0c5e663f1df9",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 121.44,
+    "end": 126.56
+  },
+  {
+    "text": "money or 2.6 times your money.",
+    "uid": "3c191f91ab01de5e",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 126.56,
+    "end": 129.0
+  },
+  {
+    "text": "The difference between 10% and 30%.",
+    "uid": "b970ca604ff25885",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 129.0,
+    "end": 131.0
+  },
+  {
+    "text": "And that's kind of what the show is roughly is at the difference between a 15% and a 20% and a 20%",
+    "uid": "788bfaebe679d055",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 131.0,
+    "end": 136.6
+  },
+  {
+    "text": "of the time.",
+    "uid": "0e76fca731a69cc7",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 136.6,
+    "end": 137.6
+  },
+  {
+    "text": "This is Card is product is used by a small number of people for a small number of years.",
+    "uid": "a0e84959c9f72e73",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 137.6,
+    "end": 142.72
+  },
+  {
+    "text": "That's why the other data we showed from Cambridge is much better because the 2018",
+    "uid": "3f06d78da07b03ee",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 142.72,
+    "end": 148.08
+  },
+  {
+    "text": "forward are still in the J curves and to Chamotte's point.",
+    "uid": "1a175f4e47549c9c",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 148.08,
+    "end": 150.96
+  },
+  {
+    "text": "So I know we'll make sure that you out there.",
+    "uid": "759de5b3b1ec4f06",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 151.96,
+    "end": 154.8
+  },
+  {
+    "text": "Okay, I knew we would go down this for Apple.",
+    "uid": "90f6211249732773",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 154.8,
+    "end": 156.28
+  },
+  {
+    "text": "So I shouldn't have sewn that.",
+    "uid": "3c0f9aeeacb37a60",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 156.28,
+    "end": 157.28
+  },
+  {
+    "text": "But like, they're two key points I wanted to make and just pull it up again.",
+    "uid": "b4cfc344206a4503",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 157.28,
+    "end": 161.64
+  },
+  {
+    "text": "The first key point I wanted to make is because of the power law, the job of investing is to",
+    "uid": "55f973abd987a755",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 161.64,
+    "end": 167.12
+  },
+  {
+    "text": "find the power law winners.",
+    "uid": "3b9d533e0823305f",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 167.12,
+    "end": 169.64
+  },
+  {
+    "text": "It is not to buy the index.",
+    "uid": "745ac26d028ae465",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 169.64,
+    "end": 171.52
+  },
+  {
+    "text": "If you buy the index, you are losing to the market even if these numbers are correct, which",
+    "uid": "5097f191d05f4546",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 171.52,
+    "end": 176.2
+  },
+  {
+    "text": "they're not as we talked about.",
+    "uid": "d667e98e4a1afe84",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 176.2,
+    "end": 177.92
+  },
+  {
+    "text": "You're losing to the index if you're just buying the venture index.",
+    "uid": "15742ff6fcdb9992",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 177.92,
+    "end": 180.56
+  },
+  {
+    "text": "It's probably way worse than this.",
+    "uid": "18792130decd4db3",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 180.56,
+    "end": 182.68
+  },
+  {
+    "text": "You have to get the winners.",
+    "uid": "703e39c47abff62e",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 182.68,
+    "end": 184.04
+  },
+  {
+    "text": "And so what this show though is that the smaller the fund, the less diversified it is, which means",
+    "uid": "3feb8e732b6b1f9a",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 184.04,
+    "end": 190.08
+  },
+  {
+    "text": "the more they're likely to capture the winners.",
+    "uid": "46afd44fd9d16a57",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 190.08,
+    "end": 191.88
+  },
+  {
+    "text": "And you can actually see that the smaller funds generally have better performance than the bigger",
+    "uid": "8045323102d336d1",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 191.88,
+    "end": 196.68
+  },
+  {
+    "text": "for sure they do because they're getting in the earlier as well.",
+    "uid": "76e313f9467473ac",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 196.68,
+    "end": 199.08
+  },
+  {
+    "text": "That's what we're going to do.",
+    "uid": "7f0056607c70151b",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 199.08,
+    "end": 200.08
+  },
+  {
+    "text": "And they're paying less value lower valuation.",
+    "uid": "a13a8ddeff645944",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 200.08,
+    "end": 203.08
+  },
+  {
+    "text": "So they're not getting deluded away by the index.",
+    "uid": "7453b78238cccb36",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 203.08,
+    "end": 207.08
+  },
+  {
+    "text": "And the index generally is going to return negative.",
+    "uid": "90c4b63d79313ae5",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 207.08,
+    "end": 209.08
+  },
+  {
+    "text": "It's going to be a negative return.",
+    "uid": "08aabcbd39403036",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 209.08,
+    "end": 210.08
+  },
+  {
+    "text": "I think I told you guys, I went to an LP conference here as a go one of the biggest venture funds.",
+    "uid": "22e02ff240325cb0",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 210.08,
+    "end": 215.96
+  },
+  {
+    "text": "And they showed that 45% of their capital went into flat or down rounds.",
+    "uid": "1743ecaf9b448a72",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 215.96,
+    "end": 220.04
+  },
+  {
+    "text": "And they had a negative net return on that allocation of capital across 13 funds.",
+    "uid": "507f65ecca375681",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 220.04,
+    "end": 224.68
+  },
+  {
+    "text": "If they had put that, if they had never invested in flat or down rounds, then they would have",
+    "uid": "3b0230fa843880de",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 224.68,
+    "end": 228.52
+  },
+  {
+    "text": "doubled their IRR overall as a fund.",
+    "uid": "9c760ccabfaefa2a",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 228.52,
+    "end": 232.2
+  },
+  {
+    "text": "Really important point that the power law matters, which is your job is to just find the winners.",
+    "uid": "940044c4d45da8ad",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 232.2,
+    "end": 237.04
+  },
+  {
+    "text": "Actually, you find the winners.",
+    "uid": "5fe8db08511d5cae",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 237.04,
+    "end": 238.04
+  },
+  {
+    "text": "They're going to compound.",
+    "uid": "dee98c4dcac04b6d",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 238.04,
+    "end": 239.04
+  },
+  {
+    "text": "So that's that trend.",
+    "uid": "6f8e67b7a85c496f",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 239.04,
+    "end": 240.04
+  },
+  {
+    "text": "So go to the next slide, Nick.",
+    "uid": "974730482305defe",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 240.04,
+    "end": 241.52
+  },
+  {
+    "text": "So this is the one that I shared in 2023 that go cool, Roger Ram of published on Twitter.",
+    "uid": "39e3a5865acc2366",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 241.52,
+    "end": 246.44
+  },
+  {
+    "text": "And that's where I first saw this, which is this you buy just the pop 10 companies in the",
+    "uid": "b453b7cbe28897be",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 246.44,
+    "end": 250.52
+  },
+  {
+    "text": "And you just held it.",
+    "uid": "a1bc053b826c6dd0",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 251.92,
+    "end": 253.48
+  },
+  {
+    "text": "You would have made a 24x multiple over a 24 year period versus if you had just bought the NASDAQ.",
+    "uid": "b81e0288a259852b",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 253.48,
+    "end": 260.44
+  },
+  {
+    "text": "So just owning the best companies in the NASDAQ is by far the best way to drive multiple",
+    "uid": "fab5e67c91815205",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 260.44,
+    "end": 266.32
+  },
+  {
+    "text": "Over a 10 year period, you made a 9x multiple.",
+    "uid": "0dd365d133dcf2a1",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 267.36,
+    "end": 271.64
+  },
+  {
+    "text": "9x, just by owning the top 10 companies in the NASDAQ.",
+    "uid": "31189cbafd4f234a",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 271.64,
+    "end": 274.84
+  },
+  {
+    "text": "And this was through roughly the end of 2023.",
+    "uid": "e7eb5ab53c708239",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 274.84,
+    "end": 277.52
+  },
+  {
+    "text": "So now let's pull this up.",
+    "uid": "20905f98c8bc17f3",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 277.52,
+    "end": 279.0
+  },
+  {
+    "text": "I pulled this analysis together this morning for our conversation.",
+    "uid": "b4674ca2d1e3b57c",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 279.0,
+    "end": 282.92
+  },
+  {
+    "text": "And this shows that the venture returns don't stop when you stop being a private company,",
+    "uid": "40660b7e88109a6b",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 282.92,
+    "end": 287.6
+  },
+  {
+    "text": "that the real return in this highlights the point, that most of the value when you find that",
+    "uid": "632785cb4022ba97",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 287.6,
+    "end": 292.04
+  },
+  {
+    "text": "power law winner, most of the value is created when they are a public company.",
+    "uid": "d5dcdcd47e44fae4",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 292.04,
+    "end": 296.92
+  },
+  {
+    "text": "So palentier when public after 17 years and their market cap was 16 billion.",
+    "uid": "9a6b159c4e8da346",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 296.92,
+    "end": 301.72
+  },
+  {
+    "text": "So they created 16 billion of equity value over a 17 year period.",
+    "uid": "fb6c59757299a122",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 301.72,
+    "end": 305.68
+  },
+  {
+    "text": "One safe in public in five years, they're now worth $436 billion.",
+    "uid": "608028df72916b98",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 305.68,
+    "end": 309.76
+  },
+  {
+    "text": "So they've created another $420 billion of equity market value in just the last five years.",
+    "uid": "b1d0270b7db137a1",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 309.76,
+    "end": 316.4
+  },
+  {
+    "text": "Probably a clipsing all venture returns that have been made during that same period of time.",
+    "uid": "f29a290ae2459283",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 316.4,
+    "end": 321.36
+  },
+  {
+    "text": "Airbnb when public after 12 years worth $47 billion, in just five years they added another",
+    "uid": "9a7bb643355fc8f9",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 321.36,
+    "end": 326.68
+  },
+  {
+    "text": "call it roughly $30 billion.",
+    "uid": "e1b725202e7c7199",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 326.68,
+    "end": 328.72
+  },
+  {
+    "text": "Uber went public 75 billion after nine years as a private company.",
+    "uid": "e23db3a5cc38b5a1",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 328.72,
+    "end": 332.8
+  },
+  {
+    "text": "And now they're worth $190 billion.",
+    "uid": "f1000e5e76ea70b7",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 332.8,
+    "end": 334.36
+  },
+  {
+    "text": "And they've added $120 billion of value in just six years since being public.",
+    "uid": "3916afeb46f67472",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 334.36,
+    "end": 339.12
+  },
+  {
+    "text": "And Spotify another good example, 27 billion market cap when they went public after being",
+    "uid": "29c4eca3b3324dc7",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 339.12,
+    "end": 343.64
+  },
+  {
+    "text": "private for 10 years.",
+    "uid": "21c2abbe9970b1b1",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 343.64,
+    "end": 345.52
+  },
+  {
+    "text": "And then they added another $120 billion of value in the seven years they've been public.",
+    "uid": "0138183bc780034f",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 345.52,
+    "end": 350.04
+  },
+  {
+    "text": "And I've got the whole list here.",
+    "uid": "22407132b20e4268",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 350.04,
+    "end": 351.16
+  },
+  {
+    "text": "This is all these companies that have a $100 billion plus market cap.",
+    "uid": "5a1c839e179832b6",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 351.16,
+    "end": 354.4
+  },
+  {
+    "text": "And when you find the power law winner, the value continues to accrete and continues to compound.",
+    "uid": "7c6e1087e1fb84c3",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 354.4,
+    "end": 360.04
+  },
+  {
+    "text": "And you're better off just buying the public stocks.",
+    "uid": "baddd3f3b1b68a57",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 360.04,
+    "end": 363.04
+  },
+  {
+    "text": "And I think that this was my big kind of conclusion as I went through all this data.",
+    "uid": "cbb4331154f703c0",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 363.04,
+    "end": 366.96
+  },
+  {
+    "text": "Like, to mop is exactly right when you're in the venture market, you learn a lot.",
+    "uid": "38af03c68961d418",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 366.96,
+    "end": 372.04
+  },
+  {
+    "text": "And ultimately, I think you probably want to learn a lot to then allocate your capital more wisely.",
+    "uid": "09b2b538fe99b561",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 372.04,
+    "end": 375.76
+  },
+  {
+    "text": "Now into what you've identified are the power law winners.",
+    "uid": "86cbb1e415992304",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 375.76,
+    "end": 379.04
+  },
+  {
+    "text": "We're most of the value continues to accumulate whether they are private or public.",
+    "uid": "cb117b1c53989dd8",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 379.04,
+    "end": 382.72
+  },
+  {
+    "text": "And having an IPO is just a transition area of that for these companies.",
+    "uid": "be6e8da0f40fcb7a",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 382.72,
+    "end": 386.0
+  },
+  {
+    "text": "They're compounding engine will continue as a public company if you've identified them.",
+    "uid": "66fe309067dbed88",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 386.0,
+    "end": 389.8
+  },
+  {
+    "text": "States books such a great example.",
+    "uid": "988face2e6acf52a",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 389.8,
+    "end": 391.24
+  },
+  {
+    "text": "Eight years as a private company, 100 billion market cap at IPO added another two plus trillion dollars in the year since.",
+    "uid": "3a55b77caf641685",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 391.24,
+    "end": 397.4
+  },
+  {
+    "text": "Yeah, I think you.",
+    "uid": "3696a230d02548c5",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 397.4,
+    "end": 398.24
+  },
+  {
+    "text": "The freeberg you've churri picked all the winners in hindsight.",
+    "uid": "87b886f301fe4560",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 398.24,
+    "end": 401.48
+  },
+  {
+    "text": "The biggest winners for that list.",
+    "uid": "6fb4f4b65be831ff",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 401.48,
+    "end": 403.12
+  },
+  {
+    "text": "What if you were just to create a list of every IPO tech IPO and how it's fair it afterwards?",
+    "uid": "9dabbfe0df12378f",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 403.12,
+    "end": 408.2
+  },
+  {
+    "text": "No, it's a fair point.",
+    "uid": "9b2b62445c7c4e71",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 408.56,
+    "end": 409.56
+  },
+  {
+    "text": "There'll be a lot of stinkers in there that you haven't been doing.",
+    "uid": "bd9b55ab132ebc98",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 409.56,
+    "end": 411.56
+  },
+  {
+    "text": "But my point is that it's just find the power law winners.",
+    "uid": "628b1409fc720f65",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 411.56,
+    "end": 414.32
+  },
+  {
+    "text": "And then that's where all the value.",
+    "uid": "4adf54eb8b00daed",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 414.32,
+    "end": 415.88
+  },
+  {
+    "text": "I think that's, well, I mean, that's hard too.",
+    "uid": "23cb663d2922385a",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 415.88,
+    "end": 418.56
+  },
+  {
+    "text": "I think you have to look at how we got here.",
+    "uid": "0e0aac775cd4a2e1",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 420.04,
+    "end": 421.52
+  },
+  {
+    "text": "I started doing this just, you know, my second decade.",
+    "uid": "04ae82406b57404e",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 421.52,
+    "end": 425.28
+  },
+  {
+    "text": "And companies decided to stay private longer.",
+    "uid": "8db2c494e12cda76",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 426.6,
+    "end": 429.12
+  },
+  {
+    "text": "That was the big trend.",
+    "uid": "5b47eff5e5291cf6",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 429.12,
+    "end": 430.4
+  },
+  {
+    "text": "And then there was a lot of reactions to that secondary transaction started occurring.",
+    "uid": "96a6573a9c0b941a",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 430.4,
+    "end": 435.28
+  },
+  {
+    "text": "And then you just couldn't get DPI.",
+    "uid": "583ea8a4c6718af0",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 436.2,
+    "end": 438.12
+  },
+  {
+    "text": "You had to hold it forever.",
+    "uid": "8ca28be58fd25e63",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 438.12,
+    "end": 439.56
+  },
+  {
+    "text": "And now the industry is responding to this.",
+    "uid": "1b27efdd676bed0a",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 440.16,
+    "end": 442.76
+  },
+  {
+    "text": "So now we have something called strip sales.",
+    "uid": "4049cedd969a9c5e",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 442.76,
+    "end": 444.72
+  },
+  {
+    "text": "We have people creating continuation funds.",
+    "uid": "2bbd84803a596756",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 444.88,
+    "end": 447.36
+  },
+  {
+    "text": "Ways to take those early investors and get them out into a new vehicle or to create some liquidity.",
+    "uid": "c283fe42fac74613",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 447.6,
+    "end": 453.56
+  },
+  {
+    "text": "And Shaman's point is really important because you do get so much intelligence.",
+    "uid": "4ebf9b085b890118",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 453.96,
+    "end": 458.52
+  },
+  {
+    "text": "And what I learned having been an investor in Uber and Robinhood when they were five million and 20 million dollar companies.",
+    "uid": "55aff5763ea3b8fb",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 458.52,
+    "end": 464.76
+  },
+  {
+    "text": "I was like first investor into those companies is when they crashed in the market when Uber hit 30,",
+    "uid": "5d6e78ee39eaa4fc",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 464.76,
+    "end": 471.12
+  },
+  {
+    "text": "I bought up a bunch of it as a public investor.",
+    "uid": "cfd7fb623774e197",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 471.12,
+    "end": 473.2
+  },
+  {
+    "text": "Even though I had a ton from when I was an angel investor.",
+    "uid": "e22f7c3f16c18259",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 473.2,
+    "end": 476.32
+  },
+  {
+    "text": "And I did the same for Robinhood and $12.",
+    "uid": "284d2d69d91cf759",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 476.48,
+    "end": 478.28
+  },
+  {
+    "text": "Because I knew the management.",
+    "uid": "d9ad788efbaaf736",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 478.28,
+    "end": 479.2
+  },
+  {
+    "text": "I knew Vlad.",
+    "uid": "1e9c8bf6634db54b",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 479.2,
+    "end": 479.96
+  },
+  {
+    "text": "I knew Travis.",
+    "uid": "64b15893eac0c911",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 480.28,
+    "end": 480.96
+  },
+  {
+    "text": "I knew Dara.",
+    "uid": "c0f255364eea3e57",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 480.96,
+    "end": 481.64
+  },
+  {
+    "text": "And I had that understanding of the market and the same thing I did with Facebook, having listened to",
+    "uid": "bda44348219bfe24",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 481.64,
+    "end": 485.92
+  },
+  {
+    "text": "Chimoff talk about it all these years and Brad Gerser talked about all these years.",
+    "uid": "4f0f244b7761b5f3",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 485.92,
+    "end": 488.88
+  },
+  {
+    "text": "I backed into it when it was ninety two dollars.",
+    "uid": "9c36141ca008e09d",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 489.16,
+    "end": 491.0
+  },
+  {
+    "text": "So what's happening now is what Ruloff did with his continuation fund and holding the private ones is in the theme song of this podcast.",
+    "uid": "508edc982501133c",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 491.0,
+    "end": 500.32
+  },
+  {
+    "text": "Famously when Sachs said, let your winners ride.",
+    "uid": "ea662d0d4d9f8325",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 500.52,
+    "end": 502.6
+  },
+  {
+    "text": "That is the over-arking thing here.",
+    "uid": "49c928f0e1c30dc7",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 502.6,
+    "end": 504.6
+  },
+  {
+    "text": "The industry, the venture industry in massive transition, it's going to start looking a little bit like private equity and a little bit like Gavin or Brad,",
+    "uid": "c61e68c9c114cd22",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 504.8,
+    "end": 512.32
+  },
+  {
+    "text": "where they're private and public market investors.",
+    "uid": "f81d8ef386080090",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 512.32,
+    "end": 514.52
+  },
+  {
+    "text": "And you're seeing buyouts occurs.",
+    "uid": "2647862d7ef11386",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 514.8,
+    "end": 517.12
+  },
+  {
+    "text": "So people are saying, hey, this SaaS companies undervalued, we're just going to buy the company will start operating it.",
+    "uid": "ce91d1d437a0b14d",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 517.12,
+    "end": 523.32
+  },
+  {
+    "text": "So ventures in a massive transition.",
+    "uid": "c2d731e141961077",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 523.32,
+    "end": 525.12
+  },
+  {
+    "text": "But I think what comes out on the other side is something that looks a lot more like public private,",
+    "uid": "3af2ac6006714620",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 525.12,
+    "end": 530.8
+  },
+  {
+    "text": "investing like rule off pioneered at Sequoia.",
+    "uid": "ae4565c0e299345b",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 531.36,
+    "end": 533.64
+  },
+  {
+    "text": "I'm going to talk to him about that.",
+    "uid": "8a95a4c6e6c871d0",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 533.64,
+    "end": 534.88
+  },
+  {
+    "text": "I'll just respond to your last comment and Jay Callett.",
+    "uid": "9dd5520372cb147c",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 534.88,
+    "end": 537.16
+  },
+  {
+    "text": "I appreciate you saying that because yeah, Ruloff is coming to the summit to talk exactly about this,",
+    "uid": "3870dd256b8eb345",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 537.68,
+    "end": 541.28
+  },
+  {
+    "text": "which is going to be great.",
+    "uid": "22473c2e7bc8d9b1",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 541.28,
+    "end": 542.08
+  },
+  {
+    "text": "But that is the job of being an investor here point.",
+    "uid": "8af6cc4d3ded6c2f",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 542.08,
+    "end": 545.2
+  },
+  {
+    "text": "You're like, hey, you know, you cherry pick the winners.",
+    "uid": "b68085abf99c6284",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 545.2,
+    "end": 546.92
+  },
+  {
+    "text": "But I think that's the point.",
+    "uid": "3ffb09be63ae656d",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 546.92,
+    "end": 548.16
+  },
+  {
+    "text": "The point is that the returns accrue to these power law winners and the job of being an investor shouldn't be to index a market.",
+    "uid": "dc8f00aea4c0dfb3",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 548.16,
+    "end": 554.72
+  },
+  {
+    "text": "Anyone can index a market.",
+    "uid": "f5071d3682a82dd0",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 555.04,
+    "end": 556.36
+  },
+  {
+    "text": "The job of being a great investor is to find those winners.",
+    "uid": "58718f6304f83d78",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 556.36,
+    "end": 559.0
+  },
+  {
+    "text": "And the question is how hard that is or easy it is.",
+    "uid": "8dc70632fdbcd679",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 559.24,
+    "end": 563.08
+  },
+  {
+    "text": "And I think your list makes it sound like, oh, all you have to do is wait for these companies to go public.",
+    "uid": "906bbbc8ceb59e18",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 563.08,
+    "end": 569.6
+  },
+  {
+    "text": "No, I think that's the point.",
+    "uid": "8244f1b5e7ddb9a4",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 569.6,
+    "end": 571.24
+  },
+  {
+    "text": "Yeah, that wasn't well.",
+    "uid": "2130f873141543bd",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 571.24,
+    "end": 572.44
+  },
+  {
+    "text": "I got that.",
+    "uid": "af699e0c4841e7a9",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 572.44,
+    "end": 573.24
+  },
+  {
+    "text": "I was just saying that the power law winners continue to accrue.",
+    "uid": "d7b9bfe5b80eeba1",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 574.24,
+    "end": 577.24
+  },
+  {
+    "text": "In fact, not only do they accrue with private companies and then you, if you get one of them,",
+    "uid": "a6aedcd2311cc040",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 577.24,
+    "end": 581.64
+  },
+  {
+    "text": "you have these 14x funds, but as a public company, they continue to accrue.",
+    "uid": "4ce6d1e5ca055b6f",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 581.64,
+    "end": 586.36
+  },
+  {
+    "text": "And so, you know, this isn't just limited to being a venture investor, pretty much anyone has access to the public markets and can make the decision that they've made a bet on a power law winner.",
+    "uid": "db5c37a4fce9ad09",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 586.68,
+    "end": 596.36
+  },
+  {
+    "text": "There were a lot of people who were very vocal supporters of power and gear, very vocal supporters of Uber, of Spotify when these companies went public and a lot of people said, no, they're a lot of people who are doing their naysayers.",
+    "uid": "ed0bff340c818318",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 596.36,
+    "end": 605.68
+  },
+  {
+    "text": "I think the problem that you would have had trying to implement this strategy is if we're not have been clear what you would have been underwriting.",
+    "uid": "0da11aace5f27469",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 605.68,
+    "end": 611.4
+  },
+  {
+    "text": "What would you have been underwriting it in video for, you know, not the last.",
+    "uid": "1fe220129f9a1f3a",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 611.4,
+    "end": 616.12
+  },
+  {
+    "text": "Five years, but the many years before that you would have been underwriting video games.",
+    "uid": "c47955a4e76e659c",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 616.36,
+    "end": 621.64
+  },
+  {
+    "text": "And you would have had this like very odd data center business that didn't make sense that, you know,",
+    "uid": "9b8778c0a4fc81e8",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 622.64,
+    "end": 627.48
+  },
+  {
+    "text": "Jensen took a lot of heat for that he had to defend.",
+    "uid": "6dfa3b0019a5fe77",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 627.48,
+    "end": 631.28
+  },
+  {
+    "text": "And it didn't actually make a lot of financial sense.",
+    "uid": "2fa6794993334b38",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 631.28,
+    "end": 633.96
+  },
+  {
+    "text": "So I'm not sure.",
+    "uid": "dc88f541823242ce",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 633.96,
+    "end": 635.08
+  },
+  {
+    "text": "I will give you a counter to that and I'll call him out and I'll make fun of him now.",
+    "uid": "f9e94c38f0d5094f",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 635.08,
+    "end": 638.84
+  },
+  {
+    "text": "My co-founder at Climate Corp, his name's Sirage, he's probably listening right now.",
+    "uid": "8fab908e5195da04",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 638.84,
+    "end": 642.72
+  },
+  {
+    "text": "He bought in video years ago on the thesis that these GPU chips would eventually be used for AI models,",
+    "uid": "00f3fe8d2b132bbf",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 642.72,
+    "end": 647.76
+  },
+  {
+    "text": "because he did all his work at Stanford and distributed computing.",
+    "uid": "bcb2cfb254c81d0d",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 647.76,
+    "end": 650.36
+  },
+  {
+    "text": "He did early work in AI.",
+    "uid": "9394895a27379a66",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 650.36,
+    "end": 651.76
+  },
+  {
+    "text": "He was very close with that.",
+    "uid": "46da0d6ca7b1684c",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 651.76,
+    "end": 652.76
+  },
+  {
+    "text": "That's different than when he was saying before.",
+    "uid": "257735165535af4b",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 652.76,
+    "end": 654.36
+  },
+  {
+    "text": "I get it.",
+    "uid": "ca93cd5a70dbf610",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 654.36,
+    "end": 654.88
+  },
+  {
+    "text": "He's a smart guy who made a huge winner, but I'm saying, but no, the problem was he sold in the future.",
+    "uid": "f82e58861a154728",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 654.88,
+    "end": 659.76
+  },
+  {
+    "text": "Because he's like, oh, they're not actually, but I'm saying like, there's probably a person that was a smart",
+    "uid": "9b24d43f846f8d6e",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 659.76,
+    "end": 663.76
+  },
+  {
+    "text": "a syragem button to help.",
+    "uid": "38e1f37441feb4a5",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 663.76,
+    "end": 664.76
+  },
+  {
+    "text": "And there was another person that bought AMD like I'm not sure what the point is.",
+    "uid": "b1e501003ad3538e",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 664.76,
+    "end": 668.36
+  },
+  {
+    "text": "Here's the point about Benchut that I think is worth noting.",
+    "uid": "66977c00fa1587d2",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 668.36,
+    "end": 671.24
+  },
+  {
+    "text": "It's an exceptional market that gives the practitioners an incredible edge if you build the business",
+    "uid": "e68175c46f999d8a",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 671.6,
+    "end": 680.52
+  },
+  {
+    "text": "around the information asymmetry that occurs.",
+    "uid": "7f407d780669938c",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 680.52,
+    "end": 682.76
+  },
+  {
+    "text": "Yes, that you can ask after that.",
+    "uid": "04bf6e7c3aa20e17",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 682.76,
+    "end": 686.24
+  },
+  {
+    "text": "The only business model is building an asset gathering machine to generate fees because even the consistency",
+    "uid": "41d346ac8ed5a98b",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 686.96,
+    "end": 694.48
+  },
+  {
+    "text": "of being able to generate these power law distributions in successive funds doesn't exist.",
+    "uid": "974f5ee47b8a887b",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 694.48,
+    "end": 700.96
+  },
+  {
+    "text": "And you can look at all of the data, Cambridge has done this.",
+    "uid": "8bdd6d02e86a0ebe",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 701.2,
+    "end": 703.96
+  },
+  {
+    "text": "A lot of these guys have done this.",
+    "uid": "8474337387eb16dd",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 704.32,
+    "end": 705.56
+  },
+  {
+    "text": "All the big L. P. Fund funds like Worcester,",
+    "uid": "d3d51cebe5d1b4b7",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 705.56,
+    "end": 707.56
+  },
+  {
+    "text": "Bridget on this.",
+    "uid": "351478fb9bb2e23e",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 707.56,
+    "end": 708.36
+  },
+  {
+    "text": "Having a killer fund has zero correlation with your ability to then have a next killer fund as an L. P.",
+    "uid": "8b1178ddfccd86e4",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 709.12,
+    "end": 716.24
+  },
+  {
+    "text": "And I showed these returns on screen, although we blanked out the names.",
+    "uid": "d137fa8ecd4e357b",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 716.24,
+    "end": 719.6
+  },
+  {
+    "text": "And I'm in all of them.",
+    "uid": "d77e3796facf6ccf",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 719.6,
+    "end": 720.52
+  },
+  {
+    "text": "It is really hard to be consistent.",
+    "uid": "cd754a4a824a7240",
+    "source": "All-In_Podcast - Every_Investor_Needs_To_Understand_This_Concept_-_David_Friedbe",
+    "start": 720.6,
+    "end": 722.52
+  }
+]
