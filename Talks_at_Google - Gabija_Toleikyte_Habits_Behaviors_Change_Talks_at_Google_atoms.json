@@ -1,0 +1,2851 @@
+[
+  {
+    "text": "Welcome to our show to this morning. I am thrilled to introduce Dr. Gabia Tolakida, who is a neuroscientist, who recently published a book, it's called Why The F. Can't I Change?",
+    "uid": "f6251ff4d866b4c9",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 7.79,
+    "end": 22.79
+  },
+  {
+    "text": "Fascinating Book. In the book, Dr. Tolakida gets straight to the root cause of why we form certain habits and behaviors and shows how we can realistically stop ourselves from repeating the same mistakes.",
+    "uid": "508338a4225286dc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 22.79,
+    "end": 37.79
+  },
+  {
+    "text": "This book takes us on a journey through the extraordinary human brain, exploring how it deals with the everyday challenges that face us all.",
+    "uid": "7f05c6a202ccdbec",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 37.79,
+    "end": 45.79
+  },
+  {
+    "text": "A little bit about Dr. Gabia, she is a neuroscientist, lecturer, performance and well-being coach. She is currently a lecturer in psychology at Sheffield Hall in the University. She completed her PhD at the University College in London on the neuronal basis of memory and navigation.",
+    "uid": "edfbf12c80e3e528",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 45.79,
+    "end": 64.79
+  },
+  {
+    "text": "Her PhD findings were published in one of the highest impact research journals in the early 2017. Prior to that, she undertook a award-winning academic research on Parkinson's disease at the University of Helsinki.",
+    "uid": "b7ce90614033b38d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 64.79,
+    "end": 79.79
+  },
+  {
+    "text": "During her PhD, Gabia Jauh also qualified as a business coach and coached academics and administrative staff, combining her neuroscience background with coaching.",
+    "uid": "a42a7cf8abd1f95f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 79.79,
+    "end": 89.79
+  },
+  {
+    "text": "Gabia Jauh has started her own consulting company now providing coaching and seminars for organizations and the general public on the subjects including changing habits, productivity, leadership and decision making. It's really important topics for all of us.",
+    "uid": "dac0bd89b0eeeb8f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 89.79,
+    "end": 104.79
+  },
+  {
+    "text": "Gabia Jauh is also a TEDx speaker and her work has been featured in the Guardian.",
+    "uid": "2268c0c2f8aab509",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 104.79,
+    "end": 109.79
+  },
+  {
+    "text": "And just in case you're interested, she has a website which is www.mybrainDuringTheDay.com and a Twitter feed which is at SuperGee Coaching.",
+    "uid": "af0a4b8c3e91c98e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 109.79,
+    "end": 119.79
+  },
+  {
+    "text": "So she's going to start now and I just want to remind you too if you have questions as she talks to poster questions in the YouTube chat window and we'll be talking with her more after her presentation.",
+    "uid": "63c1f00b0f3e4380",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 119.79,
+    "end": 130.79
+  },
+  {
+    "text": "So I'm going to turn it over to her now.",
+    "uid": "b4b88138728eed87",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 130.79,
+    "end": 132.79
+  },
+  {
+    "text": "Hi, thank you so much. It's great to be here. Let me just bring my slides up.",
+    "uid": "15834a30119c75cb",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 132.79,
+    "end": 138.79
+  },
+  {
+    "text": "So of course today's main topic is to discuss why do we form habits and why we act sometimes in the rather weird and irrational ways and can we change? Can we stop repeating past mistakes and get unstuck from the past patterns?",
+    "uid": "a181a5866dfe495c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 138.79,
+    "end": 157.26
+  },
+  {
+    "text": "We'll have about 32 to 35 minutes presentation and then later on I'll answer questions you have. So if during the presentation you have something that you want to dive in deeper just just write that down and we'll handle it later.",
+    "uid": "df0837a8cf4b1508",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 157.26,
+    "end": 173.26
+  },
+  {
+    "text": "So first of all, human brain is not a single unit. It has multiple parts in it which are responsible for different functions.",
+    "uid": "88f95920b7692a3d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 173.26,
+    "end": 185.26
+  },
+  {
+    "text": "Now those parts can be grouped in three major classes based on when they evolved in evolution but also based on the groups of functions they're responsible for.",
+    "uid": "83494da67fc8991c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 185.26,
+    "end": 196.26
+  },
+  {
+    "text": "The oldest areas of the brain can be grouped in so called paleo reptilian complex just at the bottom of the brain who also could less a brain for short.",
+    "uid": "0b5c36e4b547a52a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 196.26,
+    "end": 206.26
+  },
+  {
+    "text": "New addition to it is called paleo mammalian brain or mammal brain is short which is just in the middle of the brain there.",
+    "uid": "b8dbb780fdc264f6",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 207.26,
+    "end": 215.26
+  },
+  {
+    "text": "The newest addition to the brain is this wrinkly wrinkly bit on the outside is called neocortex or the human brain for short.",
+    "uid": "33f75023d13925b6",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 215.26,
+    "end": 224.26
+  },
+  {
+    "text": "Now those three different areas of your brain has kind of different agenda to your life on day to day basis.",
+    "uid": "a3ed5598ca3f1b88",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 225.26,
+    "end": 232.26
+  },
+  {
+    "text": "They sometimes disagree and they focus on completely different things.",
+    "uid": "121849178e429ca7",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 232.26,
+    "end": 236.26
+  },
+  {
+    "text": "Liser brain only cares that your stay alive so you control your breathing heartbeat digestion.",
+    "uid": "5a741742b402d224",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 236.26,
+    "end": 243.26
+  },
+  {
+    "text": "Mammal brain also called the limbic system.",
+    "uid": "5c2517586fba1042",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 243.26,
+    "end": 247.26
+  },
+  {
+    "text": "Once you to stay safe in order to do that it creates habits where you can actually predict the outcome.",
+    "uid": "67d43defadccecb4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 247.26,
+    "end": 254.26
+  },
+  {
+    "text": "So it kind of assumes that the world doesn't change and if you keep repeating things the same old way you'll get the same outcome.",
+    "uid": "688def2637554713",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 254.26,
+    "end": 262.26
+  },
+  {
+    "text": "We know that's not always the case but that's for mammal brain things.",
+    "uid": "81a1365135544ef7",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 262.26,
+    "end": 266.26
+  },
+  {
+    "text": "There is very centers responsible for memory and remembering what the outcomes of certain situations were in the mammal brain system as well.",
+    "uid": "05782710a1afea07",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 266.26,
+    "end": 276.26
+  },
+  {
+    "text": "If mammal brain detects anything that can trigger danger or that can potentially lead lead to good outcome, equates emotions to stay away from it if it detects danger or towards it if it detects pleasure or potential good outcome.",
+    "uid": "794bff5aef64559e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 276.26,
+    "end": 293.26
+  },
+  {
+    "text": "Now mammal brain only cares about your own survival, your own safety.",
+    "uid": "e97484e78727ccf6",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 293.26,
+    "end": 298.26
+  },
+  {
+    "text": "So it can lead to certain selfish behaviors and mammal brain is not quite capable to think about other people's needs.",
+    "uid": "eee0bbb8cac0d6cb",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 298.26,
+    "end": 307.26
+  },
+  {
+    "text": "The newest addition to the brain, human brain only a cortex is the only part of your brain that is willing to change the only part of your brain that's in fact capable to create a deliberate change.",
+    "uid": "6fd719c175679512",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 307.26,
+    "end": 321.26
+  },
+  {
+    "text": "This part wants you to achieve your highest aspirations is aiming for progress development learning.",
+    "uid": "a19b094ce7e53a2b",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 321.26,
+    "end": 328.26
+  },
+  {
+    "text": "It provides us with amazing qualities such as critical thinking, learning creativity, decision making.",
+    "uid": "d57cd9bcbe40dbed",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 328.26,
+    "end": 336.26
+  },
+  {
+    "text": "Also, it needed to form constructed and mutually empowering relationships.",
+    "uid": "cd513a5255c77577",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 336.26,
+    "end": 341.26
+  },
+  {
+    "text": "We need the area as well as it results in collaboration empathy, theory of mind or understanding other people and what they agenda and what they need are.",
+    "uid": "abb6b14efcd3b23d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 341.26,
+    "end": 352.26
+  },
+  {
+    "text": "So as you can see often, human brain and mammal brain can have some more different agenda to a life.",
+    "uid": "d16ad0e41ac17179",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 352.26,
+    "end": 360.26
+  },
+  {
+    "text": "mammal brain absolutely hates change and wants you to keep stuck in the same old patterns as that safe and familiar human brain wants you to grow and develop and sometimes they clashed with one another.",
+    "uid": "16240390b6cecee5",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 360.26,
+    "end": 373.26
+  },
+  {
+    "text": "Now which one is leading the show depends on the energy levels in the brain and body at a given time.",
+    "uid": "0dd27dc8242613ac",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 373.26,
+    "end": 380.26
+  },
+  {
+    "text": "Let me use a metaphor of those really simple vehicles to illustrate how much energy those different centers need.",
+    "uid": "60410e680303dcbc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 380.26,
+    "end": 388.26
+  },
+  {
+    "text": "Imagine the laser brain is like one of those annoying vespas.",
+    "uid": "8921ae9212ab66b6",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 388.26,
+    "end": 392.26
+  },
+  {
+    "text": "It's always active and it doesn't need much energy to be also.",
+    "uid": "2b798a9af76da5e4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 392.26,
+    "end": 397.26
+  },
+  {
+    "text": "Laser brain centers act a day and night to make sure that your vital organs are functioning well.",
+    "uid": "a49b021cd457831e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 397.26,
+    "end": 403.26
+  },
+  {
+    "text": "Mammal brain is like a light car so you need significantly more energy than the laser brain and it's active most of the time during the day and some centers are also active during the night when we sleep as well.",
+    "uid": "ad24c8b16eb74b11",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 403.26,
+    "end": 417.26
+  },
+  {
+    "text": "Well others are resting so so it's kind of it's a bit mixed back really however it's nowhere near as energy expensive as the human brain or neocortex which is like a plane.",
+    "uid": "219858b1df7ad738",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 418.26,
+    "end": 431.26
+  },
+  {
+    "text": "Now with neocortex it can only function if we have enough energy and if it has been replenished enough.",
+    "uid": "1008438c0b03823c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 431.26,
+    "end": 440.26
+  },
+  {
+    "text": "So we can only use it for short period of time during the day.",
+    "uid": "1a5d310f6aab6158",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 440.26,
+    "end": 446.26
+  },
+  {
+    "text": "Okay so now what happens when we tired or stressed or if we are really really hungry.",
+    "uid": "a35b71b8f6b052df",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 446.26,
+    "end": 453.26
+  },
+  {
+    "text": "In fact if we kind of haven't got enough sleep well the the fact is we've referred to the mammal brain driven old habits since they require much less energy and we are then in some sort of like survival mode as opposed to the mode when those.",
+    "uid": "ea5b039041913564",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 453.26,
+    "end": 468.26
+  },
+  {
+    "text": "You know like gerious qualities of empathy and creativity and aspiring to your your biggest desires is needed.",
+    "uid": "ebcf6f260064ece2",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 469.26,
+    "end": 477.26
+  },
+  {
+    "text": "So in that state when we are exhausted like energy or stressed in particular we can't really create the liver change we refer to the old habits.",
+    "uid": "f04c7ac81ff51038",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 477.26,
+    "end": 490.26
+  },
+  {
+    "text": "So we can't quite effectively learn we can be creative and we can't make the best decisions especially if we're trying to change old patterns.",
+    "uid": "71a301b7c65c9de3",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 490.26,
+    "end": 500.26
+  },
+  {
+    "text": "Now let me introduce you to a few avias within one avia within the human brain and one avia within the mammal brain.",
+    "uid": "ec5a7f6d523bdb37",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 500.26,
+    "end": 509.26
+  },
+  {
+    "text": "And the very front if you put your arms on your forehead like that you're covering the smartest avia of your brain called prefrontal cortex or pfc for short.",
+    "uid": "6ac77cc6f7bbb194",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 509.26,
+    "end": 521.26
+  },
+  {
+    "text": "This avia is what makes us humans really.",
+    "uid": "703945b648e8f844",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 521.26,
+    "end": 525.26
+  },
+  {
+    "text": "It's it's crucial part for your cortex or human brain and it creates so called executive functions so rational thinking planning your tasks for the day prioritizing which of them are important.",
+    "uid": "94a6ad91e9502824",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 525.26,
+    "end": 538.26
+  },
+  {
+    "text": "So we can't do this sound rational decisions and problem solving without good functioning of this avia which is can't do those tasks very well.",
+    "uid": "77fffc76013e1c76",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 538.26,
+    "end": 548.26
+  },
+  {
+    "text": "But also crucial parts of your personality are originating this avia such a sense of self will power motivation empathy.",
+    "uid": "62ec34a02e46fa24",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 548.26,
+    "end": 559.26
+  },
+  {
+    "text": "So this avia is very important for multiple aspects of it and we know from multiple brain injuries to that avia.",
+    "uid": "373ee883bd43cb11",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 559.26,
+    "end": 567.26
+  },
+  {
+    "text": "That those qualities get compromised if we damage it physically and this avia is crucial to create a deliberate change.",
+    "uid": "ef7566602ebca489",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 567.26,
+    "end": 579.26
+  },
+  {
+    "text": "Now often this avia is in the battle against the mammal brain avia called amygdala.",
+    "uid": "db4ecdbdf8546ae4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 579.26,
+    "end": 585.26
+  },
+  {
+    "text": "Amygdala is constantly screening the environment for potential dangers.",
+    "uid": "6aaa525789032ffc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 585.26,
+    "end": 591.26
+  },
+  {
+    "text": "And if it detects anything that could be threatening for your survival either physically or in the imaginary sense.",
+    "uid": "2b9d97001b9553b4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 591.26,
+    "end": 600.26
+  },
+  {
+    "text": "So for example if you're if you're cycling or driving a car if the other car is approaching you in the opposite direction amygdala.",
+    "uid": "8e6e6aac1741b1f6",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 600.26,
+    "end": 609.26
+  },
+  {
+    "text": "You know flags that and quates on the side to fear and perhaps anger to warn you about it.",
+    "uid": "b663e8c8adc85c1f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 609.26,
+    "end": 614.26
+  },
+  {
+    "text": "But equally when you look at bank accounts if you see the amount of savings depleting.",
+    "uid": "a95a9521d15bafc0",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 614.26,
+    "end": 620.26
+  },
+  {
+    "text": "We create similar emotions as well.",
+    "uid": "975af2925c7e3831",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 620.26,
+    "end": 623.26
+  },
+  {
+    "text": "Amygdala also keeps track of all what we call emotional trauma.",
+    "uid": "53a7d28d6fbded9b",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 623.26,
+    "end": 628.26
+  },
+  {
+    "text": "Everything what caused you pain in the past.",
+    "uid": "7a00b4aaa7ea88a0",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 628.26,
+    "end": 631.26
+  },
+  {
+    "text": "And it becomes more and more sensitive to those triggers in the future.",
+    "uid": "4e98cecce6d2b22f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 631.26,
+    "end": 636.26
+  },
+  {
+    "text": "So it's that called amygdala sensitization.",
+    "uid": "7d9f5272bac1ec71",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 636.26,
+    "end": 640.26
+  },
+  {
+    "text": "Amygdala absolutely hates uncertainty. He loves safety and familiarity.",
+    "uid": "b5f5bc78748ed268",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 640.26,
+    "end": 645.26
+  },
+  {
+    "text": "However amygdala doesn't quite understand this complex modern world.",
+    "uid": "cf7a568e14588045",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 645.26,
+    "end": 650.26
+  },
+  {
+    "text": "And often it freaks out when there is there is some sort of uncertainty and inability to villain this time.",
+    "uid": "42a05c0380ee4a08",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 650.26,
+    "end": 658.26
+  },
+  {
+    "text": "They ongoing change.",
+    "uid": "45ed46c0cc9e6914",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 658.26,
+    "end": 660.26
+  },
+  {
+    "text": "Now those two avias amygdala and prefrontal cortex are connected with one another.",
+    "uid": "0c0f996eb99c9bb7",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 660.26,
+    "end": 666.26
+  },
+  {
+    "text": "By the special part of prefrontal cortex called ventromedia prefrontal cortex.",
+    "uid": "4508df21019407ea",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 666.26,
+    "end": 671.26
+  },
+  {
+    "text": "It's just on the inside of prefrontal cortex.",
+    "uid": "088350d7d3a239ca",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 671.26,
+    "end": 675.26
+  },
+  {
+    "text": "And this connection is crucial in incorporating emotions and rational thinking together which is very important for sound decision making.",
+    "uid": "57e55eff7fdf8696",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 675.26,
+    "end": 684.26
+  },
+  {
+    "text": "Also for adding moral compass into our decision making but also in being able to make decisions at all when there is any.",
+    "uid": "c8d41c191fab2e73",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 684.26,
+    "end": 695.26
+  },
+  {
+    "text": "And there are too many things to choose from. So it's that connection is very important for us being who we are.",
+    "uid": "7022cb64ac8f37b9",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 695.26,
+    "end": 700.26
+  },
+  {
+    "text": "However, there is a caliotherm that very very strong emotion such as anxiety, fear or anger can temporarily switch off prefrontal cortex and impair our ability to rationally think.",
+    "uid": "4cfa860b009d345a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 700.26,
+    "end": 717.26
+  },
+  {
+    "text": "And that's so called amygdala hijack.",
+    "uid": "e21077275a396032",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 717.26,
+    "end": 720.26
+  },
+  {
+    "text": "If you now imagine the time when you've been really really angry or jealous or scared.",
+    "uid": "c7c9b9933e6e37f3",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 720.26,
+    "end": 726.26
+  },
+  {
+    "text": "Have you ever said or done something in that time that you regretted afterwards?",
+    "uid": "ea503413d55db9eb",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 726.26,
+    "end": 732.26
+  },
+  {
+    "text": "Probably majority of you, who say actually yes, I can recall the event where I felt like I wasn't quite myself.",
+    "uid": "182a2df73364ef4e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 732.26,
+    "end": 739.26
+  },
+  {
+    "text": "And the fact is you weren't quite yourself, you were your mammal brain, you quite your prefrontal cortex wasn't functioning well at that period of time.",
+    "uid": "a5af843ff06bc6fa",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 739.26,
+    "end": 748.26
+  },
+  {
+    "text": "Now that deactivation or amygdala hijack lasts about 15 to 20 minutes.",
+    "uid": "983ccaf33c0ed186",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 748.26,
+    "end": 753.26
+  },
+  {
+    "text": "So it's a good idea when that happens is to actually do amygdala soothing activities and give a chance for your prefrontal cortex to go back online.",
+    "uid": "125ccace7fdd4d2a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 753.26,
+    "end": 766.26
+  },
+  {
+    "text": "Now when amygdala is raging and suppressing prefrontal cortex, it doesn't even need to suppress it to such extreme extent.",
+    "uid": "9ed3f3c3c1b02a51",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 766.26,
+    "end": 774.26
+  },
+  {
+    "text": "If we constantly feel low levels of anxiety or stress, it can actually, somewhat compromised functioning of prefrontal cortex as well.",
+    "uid": "b5ccebf63af62c12",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 774.26,
+    "end": 785.26
+  },
+  {
+    "text": "And it can make us into so called amygdala dominant thinkers.",
+    "uid": "dcaeb33049a0eaf4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 785.26,
+    "end": 789.26
+  },
+  {
+    "text": "When we in that state of mind, we stuck on past experiences.",
+    "uid": "18aac6d4d365bbaa",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 789.26,
+    "end": 795.26
+  },
+  {
+    "text": "We often portray irrational habits.",
+    "uid": "5e09f06e29ed150a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 796.26,
+    "end": 798.26
+  },
+  {
+    "text": "Our behavior is safe to driven and we can be risk-cavers as it's quite fearful.",
+    "uid": "d59fb4caee262ade",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 798.26,
+    "end": 805.26
+  },
+  {
+    "text": "Fierful state of being, we resist novelty and change.",
+    "uid": "70881052bd3570a5",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 805.26,
+    "end": 810.26
+  },
+  {
+    "text": "We quite judgmental and binary things are the good or bad, it's either my way or your way.",
+    "uid": "bf538d601015c501",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 810.26,
+    "end": 818.26
+  },
+  {
+    "text": "We are not capable in making compromises.",
+    "uid": "8de1e88b415ff7fa",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 818.26,
+    "end": 821.26
+  },
+  {
+    "text": "Amygdala dominant thinking distores the reality because amygdala's job is to point out anything that can cause you harm.",
+    "uid": "7a2844091db89428",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 822.26,
+    "end": 829.26
+  },
+  {
+    "text": "So it kind of creates bias, attention to negativity and anything that could be bad or bad.",
+    "uid": "d33bba9f273d6773",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 829.26,
+    "end": 835.26
+  },
+  {
+    "text": "So it creates the kind of ruminating negative mind chatter.",
+    "uid": "8e5d40352a2b33e9",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 835.26,
+    "end": 840.26
+  },
+  {
+    "text": "Okay, so this is just a summary of basically what I was saying on the left hand side with amygdala dominant thinking.",
+    "uid": "3e61b6f84f1be119",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 840.26,
+    "end": 847.26
+  },
+  {
+    "text": "And it creates results in rumination and negative mind chatter.",
+    "uid": "79ba8d6fbd9b2816",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 848.26,
+    "end": 853.26
+  },
+  {
+    "text": "Now with prefrontal cortex dominant thinking.",
+    "uid": "181bae5cedcf1158",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 853.26,
+    "end": 857.26
+  },
+  {
+    "text": "When and is only capable, we capable of that when amygdala is calm.",
+    "uid": "93be93941ce139bd",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 857.26,
+    "end": 862.26
+  },
+  {
+    "text": "When there is nothing bothering amygdala so strongly that it compromises our prefrontal cortex functioning.",
+    "uid": "ea01c87bf57b0555",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 862.26,
+    "end": 869.26
+  },
+  {
+    "text": "In that state, we capable of constant learning and change.",
+    "uid": "be1988ffbe0aa498",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 869.26,
+    "end": 874.26
+  },
+  {
+    "text": "We deliberate, we know why we do things, we don't have those irrational habits, we can't explain why we can't stop doing it.",
+    "uid": "252eadc937e6a102",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 874.26,
+    "end": 882.26
+  },
+  {
+    "text": "We can empathize with others and we can really get into the way of thinking.",
+    "uid": "b08eef615e121c73",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 882.26,
+    "end": 887.26
+  },
+  {
+    "text": "We have a good theory of mind in other words, we can accept the differences.",
+    "uid": "c2f7aea4173e29ca",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 887.26,
+    "end": 891.26
+  },
+  {
+    "text": "We are authentic, we are being ourselves who we are and motivated.",
+    "uid": "85ddcc18326252a2",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 891.26,
+    "end": 895.26
+  },
+  {
+    "text": "We see growth, contribution and understanding.",
+    "uid": "9474f91af7f7abb7",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 895.26,
+    "end": 899.26
+  },
+  {
+    "text": "Our attention is much more objective, we are open minded and our thinking is flexible.",
+    "uid": "59e003b616c309ec",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 899.26,
+    "end": 906.8
+  },
+  {
+    "text": "So what are the ways for us to calm the middala down?",
+    "uid": "d22e882639ba9ca8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 906.8,
+    "end": 910.8
+  },
+  {
+    "text": "One of the quickest ways is to change breathing and in the Q&A session, I can take you through the breathing exercise, which is quite effective to calm your middala down if you like.",
+    "uid": "a722f47ec1b313eb",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 910.8,
+    "end": 920.8
+  },
+  {
+    "text": "Meditation or mindfulness practices also give a chance for middala to calm down.",
+    "uid": "86d37b1af2fa3097",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 920.8,
+    "end": 925.8
+  },
+  {
+    "text": "Physical exercise in particular light, exercise like yoga, walking, jogging, being in nature, soothe is a middala as well.",
+    "uid": "0792fb0581c70a29",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 925.8,
+    "end": 933.8
+  },
+  {
+    "text": "Certain foods, carbs, soothe are middala and that's why often people develop the habits of emotional eating as a soothe is a middala.",
+    "uid": "4d18369855f7097a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 933.8,
+    "end": 944.8
+  },
+  {
+    "text": "Physical contact such as stroking your pet, cutting your child or your partner,",
+    "uid": "9373ae10a8a36b49",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 944.8,
+    "end": 950.8
+  },
+  {
+    "text": "and carrying behaviors, not only being helped by others but helping others as well.",
+    "uid": "a4de2b8788d57a3c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 950.8,
+    "end": 956.8
+  },
+  {
+    "text": "And there is so called in a child healing techniques that can help to calm a middala down.",
+    "uid": "35a2278f0767a9df",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 956.8,
+    "end": 962.8
+  },
+  {
+    "text": "Another way to actually, the soothing middala is to direct your attention to things that are good out there.",
+    "uid": "3e97f3e8129ec89f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 962.8,
+    "end": 969.8
+  },
+  {
+    "text": "Such practices as writing gratitude list or what went well today list changes the focus of a middala on opposite.",
+    "uid": "a26a0adc76739f8a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 969.8,
+    "end": 979.8
+  },
+  {
+    "text": "So you kind of distracts a middala a little bit.",
+    "uid": "19b37205bd945150",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 979.8,
+    "end": 982.8
+  },
+  {
+    "text": "In addition to that we can do prefrontal cortex stimulating activities that would give even bigger effective with you them as well.",
+    "uid": "216c0b40dce2ce45",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 982.8,
+    "end": 991.8
+  },
+  {
+    "text": "So talking things through rational assessing the situation and trying to get rational understanding of why things are as they are.",
+    "uid": "061bfef4aa440443",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 991.8,
+    "end": 998.8
+  },
+  {
+    "text": "In other words cognitive re-aprasal of situation taking frequent breaks and really getting good quality sleep as much as possible.",
+    "uid": "51d8431ebd0a1cc2",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 998.8,
+    "end": 1008.8
+  },
+  {
+    "text": "Learning new things, engaging in the tasks we enjoy naturally stimulates prefrontal cortex and physical exercise in particular running and walking seem to be very effective and increasing the brainplasticity and stimulating prefrontal cortex.",
+    "uid": "08813bdedcc8e7cc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1009.8,
+    "end": 1028.8
+  },
+  {
+    "text": "Now in addition to that when we are trying to change something in our life.",
+    "uid": "65453c5ee1e1d548",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1028.8,
+    "end": 1034.8
+  },
+  {
+    "text": "And if we struggle we need to ask what associations am I linking to this change?",
+    "uid": "18f7f62cc1fe186f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1034.8,
+    "end": 1042.8
+  },
+  {
+    "text": "When I think about for example stopping eating sugar snacks does it associate for me with the reward and pleasure or does it associate with pain or depriting myself of something I enjoy.",
+    "uid": "f5a5e4127bfb946e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1042.8,
+    "end": 1057.8
+  },
+  {
+    "text": "Now based on which associations you have the success of the change would depend on that as well.",
+    "uid": "972895d5ab5bc974",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1058.8,
+    "end": 1066.8
+  },
+  {
+    "text": "If we anticipate pleasure if you say no what if I don't eat those sugar paste trees I would have more energy I wouldn't have sugar crash.",
+    "uid": "151380b0efa724d9",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1066.8,
+    "end": 1074.8
+  },
+  {
+    "text": "Enriding the long list of all the benefits.",
+    "uid": "7db5ebbdd722a8a5",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1074.8,
+    "end": 1078.8
+  },
+  {
+    "text": "Then we release dopamine and dopamine is is a neurotransmitter in the brain which creates pleasure and motivation.",
+    "uid": "d8dba1217be3493b",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1078.8,
+    "end": 1086.8
+  },
+  {
+    "text": "Also if we want to create change especially in relationships and we see a lot of benefits of that change.",
+    "uid": "019af5f9653fc2aa",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1086.8,
+    "end": 1095.8
+  },
+  {
+    "text": "We form emotional attachment trust compassion due to oxytocin but also oxytocin when we do things when joy especially if we have support by other people.",
+    "uid": "0ac72fb24f2ddea4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1095.8,
+    "end": 1108.8
+  },
+  {
+    "text": "It dilates the blood vessels therefore more oxygen and glucose can reach on your cortex which make sure that actually those areas which are really energy hungry are functioning better.",
+    "uid": "adc60e7fac64dbf5",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1108.8,
+    "end": 1121.8
+  },
+  {
+    "text": "But also it increases our resilience as oxytocin negates the negative effects of stress to brain plus to city.",
+    "uid": "15ee43965ee5b374",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1121.8,
+    "end": 1133.8
+  },
+  {
+    "text": "Now in contrast when we associate change with pain or deprification of something we like it actually makes the change much much harder as it naturally triggers the sympathetic nervous system in our brains and bodies.",
+    "uid": "def5ee50c21623df",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1133.8,
+    "end": 1151.8
+  },
+  {
+    "text": "So the chemistry of that is very different we secret adrenaline and cortisol in our adrenal glands but neurotransmitter called nor adrenaline in our brains.",
+    "uid": "905f3fba48169c3d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1151.8,
+    "end": 1162.8
+  },
+  {
+    "text": "It prepares the body for fight of light response and it directs the glucose and oxygen to muscles so if you need to run away or to attack.",
+    "uid": "31a11a50db307a10",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1162.8,
+    "end": 1174.8
+  },
+  {
+    "text": "However it takes the precious energy of prefrontal cortex and in that state we can't be very creative we can't be very resilient we can't physically be complex thinkers.",
+    "uid": "973dbdfa05d459dd",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1174.8,
+    "end": 1189.8
+  },
+  {
+    "text": "So in that state we have very much river back to mammal brain driven driven state.",
+    "uid": "b3508778dab3fca2",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1189.8,
+    "end": 1194.8
+  },
+  {
+    "text": "In addition to that our immune system gets compromised if we experience that too frequently and I just have system as well but from the brain perspective more importantly brain plasticity is blocked when we experience chronic levels of stress and kind of negative emotions related to change so that makes change really really hardly possible.",
+    "uid": "5fbe643798d1e7aa",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1194.8,
+    "end": 1218.8
+  },
+  {
+    "text": "Now last couple points are just basically to explain that actually in addition to good functioning of prefrontal cortex and enough of the positive associations we change we also need to put the work and practice in to strengthen new networks and develop new networks and let me illustrate that with.",
+    "uid": "ed16157394358040",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1218.8,
+    "end": 1247.8
+  },
+  {
+    "text": "Attention networks in the brain so in the brain we have to distinct attention networks goal directed or also go top down system doors lettension network which basically no matter how much noise was around me right now.",
+    "uid": "055a8ca2726923b6",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1247.8,
+    "end": 1263.8
+  },
+  {
+    "text": "Using this network I can still focus on what I'm trying to discuss in this presentation.",
+    "uid": "0b17904be490c19a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1264.8,
+    "end": 1270.8
+  },
+  {
+    "text": "Now ventral attention system would actually do the opposite it would try to steal my attention for anything was going on around me and would distract me.",
+    "uid": "af5a14a52a45f654",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1270.8,
+    "end": 1282.8
+  },
+  {
+    "text": "Now we need both systems so imagine if you're hunting in the world then let's go back to hunter gather at times if you just focused on your goal you can easily become somebody else's.",
+    "uid": "90e7b312fec64584",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1282.8,
+    "end": 1294.8
+  },
+  {
+    "text": "Target but if you focus on your goal when you have to but constantly switching into the noticing what's going on around you as well then your survival is is is much better off in that way.",
+    "uid": "f3bb25c62ce8b538",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1294.8,
+    "end": 1307.8
+  },
+  {
+    "text": "So we need to constantly switch between those two networks but in addition when we talk about productivity if we only focused on the task we're trying to achieve.",
+    "uid": "919c87cccb300ffd",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1307.8,
+    "end": 1317.8
+  },
+  {
+    "text": "We can actually easily.",
+    "uid": "a7d81ebf13bc3492",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1317.8,
+    "end": 1320.8
+  },
+  {
+    "text": "Overwork and struggle to switch off and have other other issues later on our productivity can actually be compromised because we depleting your transmitters of prefrontal cortex and without taking sufficient amount of breaks.",
+    "uid": "affb72e82f0263c3",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1320.8,
+    "end": 1335.8
+  },
+  {
+    "text": "Half way through the day we we already find ourselves in the mammal brain dominant thinking.",
+    "uid": "983212be7886fafc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1335.8,
+    "end": 1341.8
+  },
+  {
+    "text": "If we actually constantly get distracted because of the ventral attention system being dominating we can't just get the task done especially the tasks require prolonged attention on it.",
+    "uid": "5036b2c6f9875139",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1341.8,
+    "end": 1357.8
+  },
+  {
+    "text": "So good balance between both is needed however now if you do the honest you know inventory of yourself.",
+    "uid": "aacbf9a2e42d913e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1357.8,
+    "end": 1366.8
+  },
+  {
+    "text": "Most of people kind of feel oh yeah I need to train my door slight tension system I'm more because I get too distracted.",
+    "uid": "ff682872811d1adc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1366.8,
+    "end": 1373.8
+  },
+  {
+    "text": "All other people you know would say I need to train my ventral attention system because I get so overly focused I forget to drink to take breaks for lunch and sometimes I focus on the task that's not even that important and lose big picture.",
+    "uid": "d397b75f0ad7fa26",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1373.8,
+    "end": 1388.8
+  },
+  {
+    "text": "So we need to help balance between them both so depending on which one you you're assessed that you need to train more.",
+    "uid": "8eceb4896b1a14f1",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1388.8,
+    "end": 1396.8
+  },
+  {
+    "text": "Here are some tips of how to train those attention systems so there is focused attention at stations you could do.",
+    "uid": "a72069b888c1f89c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1396.8,
+    "end": 1403.8
+  },
+  {
+    "text": "I'm reducing the structure the structures in the environment that wouldn't steal the attention and you could focus focus on the task find the best time of the day to work and the location which which is suitable.",
+    "uid": "69478538ac6d3f92",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1403.8,
+    "end": 1416.8
+  },
+  {
+    "text": "Very clear like now majority of us are working from home.",
+    "uid": "d1c7485b125beb39",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1416.8,
+    "end": 1421.8
+  },
+  {
+    "text": "So when working from home I'm going very clear house and team rules on when we can interrupt each other when we can't.",
+    "uid": "fada20728341b8fc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1422.8,
+    "end": 1431.8
+  },
+  {
+    "text": "And having very clear rules before we start working on how often you're going to check your phone email social media.",
+    "uid": "802006c1e530a616",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1431.8,
+    "end": 1439.8
+  },
+  {
+    "text": "Also interestingly, strange physical exercise also helps us to have so called single focus attention on the task so that can help as well actually just just an adult example when I was writing my PhD thesis.",
+    "uid": "246c3b271bc54b2d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1439.8,
+    "end": 1455.8
+  },
+  {
+    "text": "To aid that I was actually doing push ups every time I would start getting distracted I'll just get on the floor and do as many push ups as I could do and that actually really helped me to focus on the task better.",
+    "uid": "1294bfe954c77e15",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1455.8,
+    "end": 1470.8
+  },
+  {
+    "text": "Now, ventral attention system can be trained if you tend to over focus on the tasks with mindfulness meditations setting reminders on the phone to take breaks time in nature walking running and other exercise.",
+    "uid": "8125aa36f959bc82",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1471.8,
+    "end": 1488.8
+  },
+  {
+    "text": "And setting at least 30 minutes for lunch and not allowing yourself to work during it having clear work and break separation also reducing caffeine having very clear working hours and clear cut cut cut of times and using physical activities after work to switch switch off.",
+    "uid": "161f1db9b1bf5824",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1488.8,
+    "end": 1509.8
+  },
+  {
+    "text": "Now, the last point is about why we have bad habits in the first place.",
+    "uid": "a5951c0143279ab7",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1509.8,
+    "end": 1515.8
+  },
+  {
+    "text": "My task may not be like, oh, it's well, but I just still struggle to stop procrastinating.",
+    "uid": "cc4cd9f4675564f1",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1515.8,
+    "end": 1522.8
+  },
+  {
+    "text": "What's wrong with me? You know why the F-cunt I changed and that says, with any habit we meet very important needs.",
+    "uid": "060523fa64ac87bc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1522.8,
+    "end": 1532.8
+  },
+  {
+    "text": "No matter how bad habits seem to us or even to other people, there is something we get out of it.",
+    "uid": "9209e7e56876e775",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1532.8,
+    "end": 1538.8
+  },
+  {
+    "text": "Why repeating it? So we need to assess in order to understand that we need to see when do I do the habit, what's the queue of the habit starting, what's the routine, which is what's the habit and what do I get out of it, what's the reward.",
+    "uid": "19675df596988628",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1538.8,
+    "end": 1555.11
+  },
+  {
+    "text": "I think we have a look at procrastination. Imagine you have no overwhelming tasks, such as writing a book or writing a piece of thesis or creating a software which is rather quite complex like doing my PhD, I was creating software, finalizing my data and I found that quite overwhelming as I was self taught in in Python at that time.",
+    "uid": "2b6da2db82194092",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1555.11,
+    "end": 1579.11
+  },
+  {
+    "text": "What's the routine? Was the, we call bad habits we're trying to get rid of is doing unproductive activities. Now, why do we do them?",
+    "uid": "6ddcb8baaf11f1cc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1580.11,
+    "end": 1589.11
+  },
+  {
+    "text": "Is actually to run away from their motions, we don't like such as anxiety, stress, fear, anger.",
+    "uid": "2cf75c9258657ebe",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1589.11,
+    "end": 1597.11
+  },
+  {
+    "text": "And why doing those other tasks we temporarily direct our attention on something else and we don't feel those emotions.",
+    "uid": "a8868b3d501b9369",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1597.11,
+    "end": 1605.11
+  },
+  {
+    "text": "So emotional relief is actually often at the core of doing certain habits we don't like.",
+    "uid": "46e5414225931047",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1605.11,
+    "end": 1611.11
+  },
+  {
+    "text": "So what we need to do in order to change it, we need to maintain the same queue and exact same reward and replace the routine with something else but we need exact same rewards.",
+    "uid": "3e84dbe9c99ea87d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1611.11,
+    "end": 1625.11
+  },
+  {
+    "text": "In equal, equal measures. Because we simply can't just take the bad habits out.",
+    "uid": "e590b28bd7b20b52",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1625.11,
+    "end": 1632.11
+  },
+  {
+    "text": "That would create a void in some important needs we have. So in this instance, instead of focusing on this, the whole big task, let's imagine writing writing an article book thesis, focusing on time.",
+    "uid": "05a458e549f65268",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1632.11,
+    "end": 1649.11
+  },
+  {
+    "text": "You spend writing as opposed to how much you've written or how much is still left to write. And in this instance, using Pomodoro technique, which I'll discuss more in the next slide.",
+    "uid": "12b742d9066bd2b4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1649.11,
+    "end": 1659.11
+  },
+  {
+    "text": "Can help to create emotional relief because then you're focusing on something, what doesn't cause you stress.",
+    "uid": "d004d03f071bad01",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1659.11,
+    "end": 1666.11
+  },
+  {
+    "text": "So instead of saying, okay, I need to write a thousand words today, you say, I need to focus on writing for 25 minutes.",
+    "uid": "6fb7f121997e2961",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1666.11,
+    "end": 1673.11
+  },
+  {
+    "text": "And then I'll take a break after and then I'll write another 25 minutes. How much I get written in that time? We shall see.",
+    "uid": "c7c76a7c8ec65ca0",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1673.11,
+    "end": 1681.11
+  },
+  {
+    "text": "So with Pomodoro technique, there is alterations between single focused work on specific task and then there is a break, again single focused work and then there is a break.",
+    "uid": "fa5c97ae133fd0bd",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1681.11,
+    "end": 1694.11
+  },
+  {
+    "text": "And we do two or three or four of those. And in fact, that technique dramatically helped me in writing my piece, leafy thesis.",
+    "uid": "a4dce65712813b4e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1694.11,
+    "end": 1703.11
+  },
+  {
+    "text": "And also doing other tasks, which I wasn't particularly keen on such as tax return or other tasks that were quite tedious and required, really single focused attention, but course certain emotional load to it.",
+    "uid": "7826e6f6d8f33e10",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1703.11,
+    "end": 1722.11
+  },
+  {
+    "text": "Okay, so just to summarize, there is the Wisconsin conflict between different centers of the brain and particularly between mammal brains, desire for safety and human human brains strive for change.",
+    "uid": "ec807b213d9addd9",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1722.11,
+    "end": 1738.42
+  },
+  {
+    "text": "Now if triggered, if challenged a mammal brain center called amygdala, can temporarily compromise functioning over the smartest part of the human brain called prefrontal cortex, which is called amygdala hijack, that that last about 15 to 20 minutes.",
+    "uid": "0c039259b7990041",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1739.42,
+    "end": 1756.42
+  },
+  {
+    "text": "But if we do a regular amygdala soothing activities, that wouldn't happen to such an extent.",
+    "uid": "c732403749e36a79",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1756.42,
+    "end": 1763.42
+  },
+  {
+    "text": "And in particular, we need to do them. If we dealing with lots of change and lots of uncertainty. If we associate the change with pleasure, that would increase our motivation and bring plasticity to actually make the change happen.",
+    "uid": "cdd3d8f2be1c22ef",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1763.42,
+    "end": 1779.42
+  },
+  {
+    "text": "We have to distinct networks in the brain for different types of attention. And we need balance activity of both to be productive.",
+    "uid": "8e2d150bdbe4fa39",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1780.42,
+    "end": 1788.42
+  },
+  {
+    "text": "And there's just one example, how actually we need to train specific networks for specific behaviors, but that takes a regular consistent behavior in order to make those networks stronger.",
+    "uid": "05d7caf1a4e974ac",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1788.42,
+    "end": 1803.42
+  },
+  {
+    "text": "We need important needs, even with what we call bad habits. So we need to find better ways to meet those needs if we want to change.",
+    "uid": "ea1e526c4f91e3ab",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1804.42,
+    "end": 1812.42
+  },
+  {
+    "text": "And we can't just simply stop doing bad habits that would create a void and we would revert back to the old habits.",
+    "uid": "73efc76e70c1defc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1812.42,
+    "end": 1820.42
+  },
+  {
+    "text": "Well, that's that's all in terms of presentation. And that's the gist of my book if anyone is interested.",
+    "uid": "0dfded4137eb6b8f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1820.42,
+    "end": 1828.42
+  },
+  {
+    "text": "I'll stop sharing my screen now and go back to the session and read it down.",
+    "uid": "72c9ab1ba67c5746",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1828.42,
+    "end": 1833.42
+  },
+  {
+    "text": "Any questions? You guys have.",
+    "uid": "12396562776ff497",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1833.42,
+    "end": 1836.42
+  },
+  {
+    "text": "Thank you so much. Dr. Kepija, I apologize again for the interruptions. I'm so glad we got to see your slides.",
+    "uid": "851848b00f1fc3aa",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1836.42,
+    "end": 1844.42
+  },
+  {
+    "text": "I have a few years that it wasn't really quite a work. We should probably next time we should have them from the from the actually the sharehold screen thing.",
+    "uid": "608e74fd124358eb",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1844.42,
+    "end": 1854.42
+  },
+  {
+    "text": "Oh, yeah, it's okay. And we'll be able to edit the recording so that they're fixed.",
+    "uid": "d7ebb99682f63b0a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1854.42,
+    "end": 1860.42
+  },
+  {
+    "text": "I have a few questions for you. I received your book and I have been reading it all weekend and it's very interesting to me.",
+    "uid": "e1ced4fd2787a76d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1860.42,
+    "end": 1868.42
+  },
+  {
+    "text": "A lot of really interesting case studies in there as well.",
+    "uid": "5fd4980764329a9d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1868.42,
+    "end": 1872.42
+  },
+  {
+    "text": "In the book, you talk about in an in your lecture, you today, you talked about Andrew and his addiction to sugary sweets.",
+    "uid": "32b780fb4a47c584",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1872.42,
+    "end": 1879.42
+  },
+  {
+    "text": "I think a lot of us have those kinds of bad habits. You talked about some other ones as well.",
+    "uid": "3daf65c59042cb85",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1879.42,
+    "end": 1886.42
+  },
+  {
+    "text": "I'm just I'm curious if you had any bad habits in your own life and you mentioned a few, but that you tackled with these same techniques that you mentioned today.",
+    "uid": "a990a71eb7e9e711",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1886.42,
+    "end": 1897.42
+  },
+  {
+    "text": "Yeah, definitely. Probably the the examples I used in the book probably are somewhat biased to my personal experiences who sugar is one of my favorite things.",
+    "uid": "83c31b3434335cab",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1897.42,
+    "end": 1907.42
+  },
+  {
+    "text": "I love pastries and I think bread like, Harvey.",
+    "uid": "343ee83e85fd3b31",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1907.42,
+    "end": 1911.42
+  },
+  {
+    "text": "And in order to change it, so I needed to do multiple things. So firstly to get really, really clear using my prefrontal cortex.",
+    "uid": "0bbc56ad84250a2a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1911.42,
+    "end": 1921.42
+  },
+  {
+    "text": "Why am I doing it? What am I getting out of it? And finding better ways to meet that. So if it's safety, instead of grabbing a pastry, which would give them pretty relief, I could listen to more soothing some soothing music.",
+    "uid": "d0dcae6d7b4b65a8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1921.42,
+    "end": 1936.42
+  },
+  {
+    "text": "Actually writing down what things are good in my life at the moment and that would create more rational, reinformation of safety.",
+    "uid": "d0025b8208ab65c7",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1936.42,
+    "end": 1944.42
+  },
+  {
+    "text": "Or you know, just go outside to the garden, creating safety in other ways.",
+    "uid": "9e2cd4ac270fea6d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1944.42,
+    "end": 1949.42
+  },
+  {
+    "text": "First step, secondly, getting really clear what are the downsides, what are the drawbacks of me continuing the habit.",
+    "uid": "8826d52308b0fb1a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1949.42,
+    "end": 1956.42
+  },
+  {
+    "text": "And in fact, I took about in the book and some people say it's too much, but writing down 50 drawbacks to you in multiple areas of your life.",
+    "uid": "a07eeb68512b4a63",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1956.42,
+    "end": 1967.42
+  },
+  {
+    "text": "If you continue the habit, so I suffered from really bad migraines. And part of it, it wasn't the whole story, but was part of it was nutritional and having quite unhealthy nutrition at that time.",
+    "uid": "ada97ed731c104b2",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1967.42,
+    "end": 1984.42
+  },
+  {
+    "text": "And in constant sugar, sugar, sugar, sugar, snacks and not enough other nutrition food as a result was part of the story.",
+    "uid": "666aa2ebcdff1d9e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1985.42,
+    "end": 1992.42
+  },
+  {
+    "text": "So that was one of the reasons why I wanted to stop eating a pastry and find a hotel alternatives.",
+    "uid": "d4b1cc26129dbbf0",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1992.42,
+    "end": 1998.42
+  },
+  {
+    "text": "But also, if you want to take it even further, writing down 50 benefits to you in all the areas that are important to you or stopping doing that.",
+    "uid": "bb1e40775be98007",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 1998.42,
+    "end": 2007.42
+  },
+  {
+    "text": "You know, if I have more energy and didn't have more migraines, I can give presentations, better, I can, you know, get more work than during the day, I could be more present with for my loved ones and so on and so forth.",
+    "uid": "57e8185019c003df",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2007.42,
+    "end": 2019.42
+  },
+  {
+    "text": "So this is just a few, a few tips to get started.",
+    "uid": "4166d3919a88cc4f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2019.42,
+    "end": 2023.42
+  },
+  {
+    "text": "But very often when we in a bad place emotionally, also we have more of those habits.",
+    "uid": "daf6c05005b4c498",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2023.42,
+    "end": 2028.42
+  },
+  {
+    "text": "So sometimes we need to be kind of understanding ourselves and where we are at the moment.",
+    "uid": "24d9203468582399",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2028.42,
+    "end": 2033.42
+  },
+  {
+    "text": "And sometimes we have to be sort of, you know, compassionate.",
+    "uid": "954bef4d2be39d90",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2033.42,
+    "end": 2039.42
+  },
+  {
+    "text": "And I think you know what, I developed this habit because it was important for me to survive through quite tricky times.",
+    "uid": "6198b967b33a633a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2039.42,
+    "end": 2047.42
+  },
+  {
+    "text": "But I'm not anymore, I'm a much better place now. So I don't need that habit. I'm in a better place to change it.",
+    "uid": "be4b03808df4745b",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2047.42,
+    "end": 2054.42
+  },
+  {
+    "text": "So self awareness about your emotional state is also a very important and changing habits.",
+    "uid": "dd0c3a54ed6ee318",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2054.42,
+    "end": 2060.42
+  },
+  {
+    "text": "I love that that's compassion. I think it's so important to me.",
+    "uid": "61916f771147b884",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2060.42,
+    "end": 2064.42
+  },
+  {
+    "text": "I'm going to come to ourselves. So thank you for those of you in the audience. I just want to remind you that you can ask questions in the chat stream.",
+    "uid": "720d5fc906692f3e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2064.42,
+    "end": 2072.42
+  },
+  {
+    "text": "I'm going to ask a few more and then we'll turn it over to your questions directly. So I see there's about there's a few coming in. That's great.",
+    "uid": "87acfffd77915ea5",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2072.42,
+    "end": 2080.42
+  },
+  {
+    "text": "I did want to ask you talked about that a little bit in your lecture, the same thing we just talked about compassion.",
+    "uid": "54e08b85256df7d8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2080.42,
+    "end": 2086.42
+  },
+  {
+    "text": "I'm curious how you can identify these unmet needs that are maybe causing that the bad habits that you're identifying.",
+    "uid": "8cc9aa8a78b1d532",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2086.42,
+    "end": 2096.42
+  },
+  {
+    "text": "And then you know, actually get at the root of it and solve it.",
+    "uid": "f9768868db12e3d4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2096.42,
+    "end": 2100.42
+  },
+  {
+    "text": "There was a couple of ways. So first, if you look at the queue, when do you do the habit, what happened if happens before you actually have a desire to do the habit that could give you a queue.",
+    "uid": "b1db241885dc0138",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2100.42,
+    "end": 2113.42
+  },
+  {
+    "text": "So if you're, if you got criticized and suddenly you want a sugary snack right so probably there was something in that criticism that challenged your needs.",
+    "uid": "0e805337cfef1bd3",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2113.42,
+    "end": 2124.42
+  },
+  {
+    "text": "And in brief, there was many ways to categorize needs, but let's use very simple six human needs system.",
+    "uid": "7080e9c8a985d349",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2124.42,
+    "end": 2132.42
+  },
+  {
+    "text": "So one being safety, we all need to feel safe to some extent. Second being variety and novelty. That's also important.",
+    "uid": "2f506e2e3778e5d7",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2132.42,
+    "end": 2140.42
+  },
+  {
+    "text": "And some people procrastinate or have coffee or sugar, other things just to kind of, you know, feel a bit, bring a bit of a variety.",
+    "uid": "2e65f0aa1754fa11",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2140.42,
+    "end": 2149.42
+  },
+  {
+    "text": "The third need is significance. And with criticism, sometimes that's being challenged.",
+    "uid": "86a381898a7f2ea7",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2149.42,
+    "end": 2155.42
+  },
+  {
+    "text": "The fourth need is connection, sometimes with criticism that can be challenged as well.",
+    "uid": "8a74eade4e87dc20",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2155.42,
+    "end": 2160.42
+  },
+  {
+    "text": "And for different people, the same event, which challenge different needs. So it requires self assessments.",
+    "uid": "22bac5d59c23a1df",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2160.42,
+    "end": 2167.42
+  },
+  {
+    "text": "Now, when we meet those first four needs in the constructive ways, we can also meet other needs, such as contribution beyond yourself.",
+    "uid": "35805a7035d7d104",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2167.42,
+    "end": 2178.42
+  },
+  {
+    "text": "And growth. So we all kind of need those those six needs to be met to some extent.",
+    "uid": "1fc9dd8a76361300",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2178.42,
+    "end": 2186.42
+  },
+  {
+    "text": "And what I like to do with my coaching clients, I like to draw them six glasses.",
+    "uid": "e8684712a60bccf0",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2186.42,
+    "end": 2191.42
+  },
+  {
+    "text": "Each need being each glass and assess, okay, how much one to ten, how full is your glass of safety right now, how full is your glass of variety and so on and so forth.",
+    "uid": "d110af9529ec75a8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2191.42,
+    "end": 2200.42
+  },
+  {
+    "text": "And then that could give indication. If some needs are really not being met in constructive ways, it's worthwhile spending some time.",
+    "uid": "0e394ff649fbd9ed",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2200.42,
+    "end": 2208.42
+  },
+  {
+    "text": "And as news of how can I bring more safety or more significance or more connection in my life.",
+    "uid": "69b880b6abf201f8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2208.42,
+    "end": 2214.42
+  },
+  {
+    "text": "And if we start doing that in advance, that would just reduce the desire to meet those needs with those what we call bad habits.",
+    "uid": "bcb218f043843812",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2214.42,
+    "end": 2224.42
+  },
+  {
+    "text": "So that's brilliant. Thank you so much. I'm going to do that right after this.",
+    "uid": "de3b01227f3a77d0",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2224.42,
+    "end": 2229.42
+  },
+  {
+    "text": "Seriously. Okay, I'm going to ask one more question and then we'll turn it over to the audience. This one I'm asking is for selfish reasons.",
+    "uid": "09df798e02bedafa",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2230.42,
+    "end": 2238.42
+  },
+  {
+    "text": "You talked a bit in the book and a little bit today about sleeping.",
+    "uid": "659a8aa551c4b2dc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2238.42,
+    "end": 2243.42
+  },
+  {
+    "text": "And I think it's it's become you also talked about the need to rotate between rest and work and I think you just talked about that in terms of deep focus and then taking breaks.",
+    "uid": "5d201c0e159521e8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2243.42,
+    "end": 2254.42
+  },
+  {
+    "text": "I'm curious if you can specifically address sleeping. I'm a terrible sleeper. I tend to be up at night.",
+    "uid": "98c58c47280c9c5e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2254.42,
+    "end": 2261.42
+  },
+  {
+    "text": "You know, just turning on all the different things that need to be done and worrying about things.",
+    "uid": "a6cae8e9b018d429",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2261.42,
+    "end": 2267.42
+  },
+  {
+    "text": "Curious if you have any advice or tips on how to sort of reprogram yourself for that because it seems a bit harder.",
+    "uid": "8e3a5678c57b477d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2267.42,
+    "end": 2273.42
+  },
+  {
+    "text": "Yeah. So that's what we call sleep hygiene. Now sleep hygiene doesn't start five minutes before you go to bed.",
+    "uid": "1ff3a3cfa6d7d06c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2273.42,
+    "end": 2281.42
+  },
+  {
+    "text": "It starts in the morning. You wake up.",
+    "uid": "c2f2e5ed2539fabf",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2281.42,
+    "end": 2284.42
+  },
+  {
+    "text": "What do you have for breakfast? How much coffee you drink during the day? What are your working habits?",
+    "uid": "49e0b08aec02d35c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2284.42,
+    "end": 2291.42
+  },
+  {
+    "text": "How late do you keep on working? What do you do? But three to four hours before sleep? How much exercise you get that day and so on?",
+    "uid": "2b50d1d27060606e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2291.42,
+    "end": 2299.42
+  },
+  {
+    "text": "So in the book I shared, you know, kind of a bit of a practical advice and self assessment on that.",
+    "uid": "0d98bc8b5d328cf3",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2299.42,
+    "end": 2305.42
+  },
+  {
+    "text": "But if I could give a few quick tips. So taking frequent breaks during the day and not allowing your brain to get really over focused on something is probably a good idea.",
+    "uid": "c5d1be13a37ce615",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2305.42,
+    "end": 2317.42
+  },
+  {
+    "text": "Especially in the second part of the day.",
+    "uid": "096c9a1263a5ba96",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2317.42,
+    "end": 2320.42
+  },
+  {
+    "text": "Secondly, no drinking coffee after lunchtime.",
+    "uid": "e17ffca0056f8fed",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2320.42,
+    "end": 2324.42
+  },
+  {
+    "text": "I mean, if you, you know, that's for normal lunchtime. I know some people eat lunch at 5 p.m. or so. That's about one to two p.m. the latest.",
+    "uid": "c1768f0dd12eb1df",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2324.42,
+    "end": 2333.42
+  },
+  {
+    "text": "With tea is a bit better, but still like if you drink black tea or green tea also cutting that down after about three or four p.m.",
+    "uid": "656c998f6aaf198b",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2333.42,
+    "end": 2344.42
+  },
+  {
+    "text": "In the evenings finding the wind down activities that really help you to come down.",
+    "uid": "3ad507a9ba561576",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2344.42,
+    "end": 2350.42
+  },
+  {
+    "text": "So for example yesterday, I was feeling a little bit anxious actually about today's talk.",
+    "uid": "9096aee2b1e55fc8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2350.42,
+    "end": 2357.42
+  },
+  {
+    "text": "And one thing that really helped me to just come down, which is very good tip for me to listen is taking a hot bath.",
+    "uid": "9ba22d7035fb6da8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2357.42,
+    "end": 2364.42
+  },
+  {
+    "text": "I added lots of bubbles and other, you know, sold another things and actually was just chilling in the hot bath and suddenly I felt sleepy.",
+    "uid": "39de446512bff70f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2364.42,
+    "end": 2372.42
+  },
+  {
+    "text": "The word we went away. So part of it is physiological actually really doing things that help our body to relax and relax as our mind as well.",
+    "uid": "76b84f73fa31c574",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2372.42,
+    "end": 2381.42
+  },
+  {
+    "text": "So the brain and the body are not separate entities. How our body is feeling with effect our brain is feeling.",
+    "uid": "909b02ce6a6341f4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2381.42,
+    "end": 2389.42
+  },
+  {
+    "text": "Also, sometimes we get into the states when we're overthinking and rumenating and really struggle to switch off.",
+    "uid": "5f350a67abb71514",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2389.42,
+    "end": 2397.42
+  },
+  {
+    "text": "For that physical exercise could help the writing down gratitude list or what went well to day list.",
+    "uid": "046fe7047ea196d5",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2397.42,
+    "end": 2406.42
+  },
+  {
+    "text": "You could be watching a funny funny comedy or something that helps to change the physiology of the body and brain could help as well.",
+    "uid": "99e8efb8e70a4fbb",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2406.42,
+    "end": 2413.42
+  },
+  {
+    "text": "But also being around loved ones or with other people we, and it's a bit trickier at these times, but talking to the people we really enjoy talking to can help to do with that.",
+    "uid": "6ed29692fa4231be",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2413.42,
+    "end": 2425.42
+  },
+  {
+    "text": "But in addition to that, a lot of people who struggle with sleep also need to do a middle-assuding activities regularly.",
+    "uid": "b5c66df8a373e034",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2425.42,
+    "end": 2433.42
+  },
+  {
+    "text": "Because if a miglite gets carried away, it creates rumination which is really, we can't just imagine about a miglite's rumination. It's like about a toddler screaming.",
+    "uid": "9999c8080161b880",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2434.42,
+    "end": 2443.42
+  },
+  {
+    "text": "You know, no matter how much if my three or three or three or two years ago, start crying and if I say stop crying, there is nothing to cry about that wouldn't help.",
+    "uid": "2c8b6a859e2aba2b",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2443.42,
+    "end": 2451.42
+  },
+  {
+    "text": "But if I cut a heart and say, what would you like, what shall we do, what's the matter and try to listen that would suit her.",
+    "uid": "b2e111d6a4b72ccd",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2451.42,
+    "end": 2459.42
+  },
+  {
+    "text": "So treating ourselves when we are getting in that amygdala negative mind chat.",
+    "uid": "89c85feb27a23db6",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2459.42,
+    "end": 2466.42
+  },
+  {
+    "text": "As a little toddler whose heart would also probably good, good analogy of it.",
+    "uid": "3cff8c63a589f44d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2466.42,
+    "end": 2473.42
+  },
+  {
+    "text": "Thank you. And you just answered one of the questions that was coming into about dealing with small children when they're having a tender.",
+    "uid": "376e94798f6b3210",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2473.42,
+    "end": 2481.42
+  },
+  {
+    "text": "And they won't listen. So thank you.",
+    "uid": "2b3b7dfa4a4b6757",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2482.42,
+    "end": 2484.42
+  },
+  {
+    "text": "All right. I'm going to start the with the audience questions from the chat.",
+    "uid": "eca0a39fbcf86407",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2484.42,
+    "end": 2489.42
+  },
+  {
+    "text": "So I will, I think they're going to display on the screen in a minute, but I'll ask the first one which is from Ricardo.",
+    "uid": "1c2091e3b6281ecd",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2489.42,
+    "end": 2495.42
+  },
+  {
+    "text": "And he says, so what happens if we remove the amygdala and replace with a dummy, which is always in feel good mode, would we become perfectly rational or close to it?",
+    "uid": "0f43d474ec3c8860",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2495.42,
+    "end": 2505.42
+  },
+  {
+    "text": "I will let me tell you about the patient of American, your scientist Antonio D'Amassio and his wife, Anna D'Amassio, who had the connection between amygdala and prefrontal cortex compromised during the surgery.",
+    "uid": "b818375bef9f4ecb",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2505.42,
+    "end": 2524.42
+  },
+  {
+    "text": "He was very rational. He could still assess all the pros and cons. He was a lawyer or a solicitor.",
+    "uid": "bbf140aadffe7996",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2524.42,
+    "end": 2531.42
+  },
+  {
+    "text": "And he still could could do some, his work to some extent, but he became quite sociopathic. He couldn't incorporate other people's needs into his decision making.",
+    "uid": "ff543471dc2db2c6",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2531.42,
+    "end": 2541.42
+  },
+  {
+    "text": "If you ask him, what would you prefer? He didn't have a, he couldn't incorporate preferences into the decision making.",
+    "uid": "d3606b0975c309db",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2541.42,
+    "end": 2548.42
+  },
+  {
+    "text": "So I'm adding emotions to the irrational thing is very crucial for decision making.",
+    "uid": "dab52c2b7b9d6b7e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2548.42,
+    "end": 2556.42
+  },
+  {
+    "text": "And, and also, what was the more staggering, that he was kind of stuck in the decision, even about trivial decisions, such as if he asked him, what time Antonio asked him, what time do you want to see me again?",
+    "uid": "2ce1fb3c09115219",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2556.42,
+    "end": 2574.42
+  },
+  {
+    "text": "And he was going endlessly for hours and hours, pros and cons for each time and each day, but he couldn't make a choice.",
+    "uid": "341278fa568dd4e5",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2574.42,
+    "end": 2581.42
+  },
+  {
+    "text": "So if we take the amygdala off, we would put ourselves in danger.",
+    "uid": "f118006010ac99be",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2581.42,
+    "end": 2587.42
+  },
+  {
+    "text": "Because when we were driving, you wouldn't be able to react quickly to potential dangers, physical dangers.",
+    "uid": "659f32d212f0b303",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2587.42,
+    "end": 2593.42
+  },
+  {
+    "text": "So amygdala is crucial for that, but also you, you might become a rather unpleasant unpleasant human being both for your own benefit, but others as well.",
+    "uid": "717b6b517feb072a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2593.42,
+    "end": 2602.42
+  },
+  {
+    "text": "And you wouldn't be able to form, carrying and loving, mutually empowering relationships, and you wouldn't be able to make decisions, even when you think rational thinking would be sufficient.",
+    "uid": "6a15cef13692e65d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2602.42,
+    "end": 2613.42
+  },
+  {
+    "text": "So we really need the abygdala.",
+    "uid": "f012ab98bc92e264",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2613.42,
+    "end": 2616.42
+  },
+  {
+    "text": "I mean, you know, I'm going sometimes in my scene.",
+    "uid": "b58990487de84793",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2616.42,
+    "end": 2622.42
+  },
+  {
+    "text": "Okay, next question is from Kate, and she says, how would you go about determining what need the habit is fulfilling when it's not clear?",
+    "uid": "f153cc43785ca7d4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2623.42,
+    "end": 2632.42
+  },
+  {
+    "text": "So that was similar to the question I asked before.",
+    "uid": "36e01cdfec77e1f9",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2632.42,
+    "end": 2634.42
+  },
+  {
+    "text": "Okay, you already answered that.",
+    "uid": "37b3015304d30bc7",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2634.42,
+    "end": 2636.42
+  },
+  {
+    "text": "So let's do Jacqueline's question.",
+    "uid": "ff1978b0df62252b",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2638.42,
+    "end": 2640.42
+  },
+  {
+    "text": "So she says, all this makes sense, but I'm wondering how the habit could be substituted if not a focused attention activity, such as nail, but or if not, yeah such as nail biting.",
+    "uid": "334f74b9894134b9",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2640.42,
+    "end": 2650.42
+  },
+  {
+    "text": "How would you replace that to get the reward?",
+    "uid": "20d3758cb78a3c01",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2650.42,
+    "end": 2653.42
+  },
+  {
+    "text": "So with nail biting and a lot of other habits we do, which kind of we or others might find the knowing such as tapping or so on is usually changing emotional state.",
+    "uid": "2d3f4d0b1f97844e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2655.42,
+    "end": 2666.42
+  },
+  {
+    "text": "So identifying what's happening.",
+    "uid": "28ae467742ff32e9",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2666.42,
+    "end": 2669.42
+  },
+  {
+    "text": "Are you feeling anxious? Are you feeling stressed?",
+    "uid": "7e43e2de9f74f44a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2669.42,
+    "end": 2672.42
+  },
+  {
+    "text": "And brainstorming all the other ways that could reduce that emotion.",
+    "uid": "1458a9c170726663",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2672.42,
+    "end": 2678.42
+  },
+  {
+    "text": "If it's anxiety, maybe breathing exercise and if you guys want to I can take you through breathing exercise.",
+    "uid": "6f986e659c555395",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2678.42,
+    "end": 2684.42
+  },
+  {
+    "text": "Maybe if you feel stressed, what things can help you to reduce stress, maybe you don't push up on the floor as I used to do.",
+    "uid": "211f61842373aed3",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2684.42,
+    "end": 2693.42
+  },
+  {
+    "text": "I could help to deal with that.",
+    "uid": "02d0db14055e5cd4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2694.42,
+    "end": 2696.42
+  },
+  {
+    "text": "But do starting with a few different activities and playing around and seeing which of them would help.",
+    "uid": "b7cceaa0e2fa62d8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2696.42,
+    "end": 2703.42
+  },
+  {
+    "text": "But in addition to that, if the things got that kind of you know really persistent level, you might mean that you're a miglally it is quite active.",
+    "uid": "b10cdec11df196e6",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2703.42,
+    "end": 2714.42
+  },
+  {
+    "text": "Most of the time, so you might need to do a miglously doing a activities in addition to that.",
+    "uid": "45f8b435165e93dd",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2714.42,
+    "end": 2721.42
+  },
+  {
+    "text": "So so to actually take off the level, a bit down, taking frequent breaks and doing breathing exercises, meditation mindfulness, physical exercises.",
+    "uid": "0ba1458d05c6b50c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2721.42,
+    "end": 2731.42
+  },
+  {
+    "text": "Enough time with loved ones and so on and so forth.",
+    "uid": "e8b67f5d426fc04c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2731.42,
+    "end": 2735.42
+  },
+  {
+    "text": "So combination doing those activities that would make those emotional states less likely to occur.",
+    "uid": "e8c17eca1227574e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2735.42,
+    "end": 2741.42
+  },
+  {
+    "text": "But when they occur, having alternatives and choosing one alternative after you try the few and practicing it.",
+    "uid": "028286267b685fc4",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2741.42,
+    "end": 2748.42
+  },
+  {
+    "text": "For long enough, till it becomes a new, no.",
+    "uid": "712fa3ab5c81c2bd",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2748.42,
+    "end": 2752.42
+  },
+  {
+    "text": "Thank you. Somebody asked a related question and just wondered if you have specific advice on.",
+    "uid": "0f607288fcbfadcb",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2752.42,
+    "end": 2758.42
+  },
+  {
+    "text": "Maybe self-harming habits, which are more extreme.",
+    "uid": "500b7d4c04155b94",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2758.42,
+    "end": 2763.42
+  },
+  {
+    "text": "I assure it's the same things, but is there anything extra that you would add for that.",
+    "uid": "f57cc71497ff91f3",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2763.42,
+    "end": 2768.42
+  },
+  {
+    "text": "Yes, so it's the same habit loop and.",
+    "uid": "b228f7d36f3473a8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2768.42,
+    "end": 2773.42
+  },
+  {
+    "text": "It's a bit with eating disorders, self-harming behaviors.",
+    "uid": "e35efe0b2cfa3ef5",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2773.42,
+    "end": 2778.42
+  },
+  {
+    "text": "It has an extra much to it, so it's much harder to change them because it creates.",
+    "uid": "e3d32c2c56f15963",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2778.42,
+    "end": 2788.42
+  },
+  {
+    "text": "It not only distracts from the both, you know, like when people controlling the eating to the extreme or causing themselves physical pain to extreme to get rid.",
+    "uid": "0bfeec6e855de228",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2788.42,
+    "end": 2799.42
+  },
+  {
+    "text": "It distracts the brain from the feeling unpleasant emotions.",
+    "uid": "2f7e18f6a0731f9d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2799.42,
+    "end": 2803.42
+  },
+  {
+    "text": "So requires both dealing with the emotions because often it's people who experience enormous amounts of pain in the past.",
+    "uid": "cf6a20f353fc4125",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2803.42,
+    "end": 2812.42
+  },
+  {
+    "text": "So the trigger, the situation might seem new, not that bad for some people, but because they make accumulated so much trauma.",
+    "uid": "93b89dd20b0b2c23",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2812.42,
+    "end": 2821.42
+  },
+  {
+    "text": "It's, it triggers much more pain in that situation.",
+    "uid": "052f70c8ed8b7949",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2821.42,
+    "end": 2824.42
+  },
+  {
+    "text": "You need to actually sue the negligent and do some deeper in a work to deal with that past trauma.",
+    "uid": "b44fa4e206117b2b",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2824.42,
+    "end": 2830.42
+  },
+  {
+    "text": "In addition to to to you know, replacing replacing habits with other needs.",
+    "uid": "782caa084b4c92b2",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2830.42,
+    "end": 2837.42
+  },
+  {
+    "text": "In those instances, just replacing wouldn't be sufficient.",
+    "uid": "a32c36c3e1679b6c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2837.42,
+    "end": 2840.42
+  },
+  {
+    "text": "We need to de-de-sensitize a McDonald as well.",
+    "uid": "7522faac9b6385a5",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2840.42,
+    "end": 2843.42
+  },
+  {
+    "text": "And that applies by the way for PTSD as well.",
+    "uid": "fe5c8954dd98fe70",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2843.42,
+    "end": 2846.42
+  },
+  {
+    "text": "If somebody's experienced, it does require deep in deeper in a work before the habit can be changed.",
+    "uid": "800862d779c60215",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2846.42,
+    "end": 2852.42
+  },
+  {
+    "text": "Yeah, that's good enough. Thank you.",
+    "uid": "9f9d4d5ee10ad14a",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2853.42,
+    "end": 2855.42
+  },
+  {
+    "text": "All right, so I'm going to take Vashali's question next.",
+    "uid": "20362099bdaf755c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2855.42,
+    "end": 2858.42
+  },
+  {
+    "text": "So Vashali asks us, how do you build on the consistency muscle?",
+    "uid": "b212ec5725f553d2",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2858.42,
+    "end": 2862.42
+  },
+  {
+    "text": "I get on a routine and then for some reason if I drop it, it takes some time for me some times a month to get back to it.",
+    "uid": "eeb6a2a332cc01a6",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2862.42,
+    "end": 2869.42
+  },
+  {
+    "text": "We all do that. That's normal.",
+    "uid": "ad7fe4582aec276e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2869.42,
+    "end": 2872.42
+  },
+  {
+    "text": "And we don't really drop things for no good reason. Other things become more important.",
+    "uid": "6057d768dd91ff97",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2873.42,
+    "end": 2880.42
+  },
+  {
+    "text": "So imagine if you have a list of your priorities, list of values that are truly important to you.",
+    "uid": "69389bc65db3cbb2",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2880.42,
+    "end": 2886.42
+  },
+  {
+    "text": "And when you need certain value to the satisfactory level, that's only that is not as important anymore.",
+    "uid": "57f55fee14041f7f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2886.42,
+    "end": 2892.42
+  },
+  {
+    "text": "The things where the voids are become more important.",
+    "uid": "fa9940b5364a2b43",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2892.42,
+    "end": 2895.42
+  },
+  {
+    "text": "And we fill those voids.",
+    "uid": "50cd7e5598a941c9",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2895.42,
+    "end": 2897.42
+  },
+  {
+    "text": "And then we realized, oh, accumulated some voids where it was okay before and suddenly comes back.",
+    "uid": "bdd200d5c012b446",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2897.42,
+    "end": 2902.42
+  },
+  {
+    "text": "So good example of it is physical exercise. If you feel really good in your body, you might not put as much as much importance in exercising regularly.",
+    "uid": "ef145ac697f74ae3",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2902.42,
+    "end": 2911.42
+  },
+  {
+    "text": "So you might put more focus on your work or on other things.",
+    "uid": "ead9741134598ab0",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2911.42,
+    "end": 2915.42
+  },
+  {
+    "text": "And suddenly you realize, okay, actually I'm not fit in anymore.",
+    "uid": "d33754b5d615a748",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2915.42,
+    "end": 2918.42
+  },
+  {
+    "text": "And then you might get back and put that more important. And that's okay.",
+    "uid": "26d9e43cc91c2f74",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2918.42,
+    "end": 2922.42
+  },
+  {
+    "text": "That's that's how they think naturally and naturally evolve.",
+    "uid": "f6e4a173c7f32539",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2922.42,
+    "end": 2925.42
+  },
+  {
+    "text": "But if you want to avoid that from happening, you need to get really clear how this area links to all the other areas which are important to you as well.",
+    "uid": "e9cfa48d7fb40f71",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2925.42,
+    "end": 2934.42
+  },
+  {
+    "text": "So that would just keep that as a kind of more priority for you.",
+    "uid": "34735a6460710999",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2934.42,
+    "end": 2939.42
+  },
+  {
+    "text": "But it's also realizing that we can't really achieve it all at a given time and being selective with what is exactly the most important for me right now.",
+    "uid": "4adbf1321b1a6743",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2939.42,
+    "end": 2948.42
+  },
+  {
+    "text": "And that's very important in creating change is realizing.",
+    "uid": "7c3b104a5e09c1ab",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2948.42,
+    "end": 2953.42
+  },
+  {
+    "text": "I need to cut down activities and really reduce the focus in order to change that by can't change all at once.",
+    "uid": "117c6e1511ab34ee",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2953.42,
+    "end": 2961.42
+  },
+  {
+    "text": "It's just not physically possible for the brain to do so.",
+    "uid": "aff5d9020550e6bd",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2961.42,
+    "end": 2965.42
+  },
+  {
+    "text": "Right. That's really nice and back to the compassion for yourself that.",
+    "uid": "ad249de4fe2691e2",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2965.42,
+    "end": 2971.42
+  },
+  {
+    "text": "And so the reality to you brain because I think a lot of times the problems are, you know, that we have really unrealistic expectations to this organ.",
+    "uid": "df4d82c31315e195",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2971.42,
+    "end": 2979.42
+  },
+  {
+    "text": "We really expect so much. And therefore I kind of use the neuroscience knowledge to really explain what the brain really is and what the.",
+    "uid": "93ae6c8f72b6b5cb",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2979.42,
+    "end": 2989.42
+  },
+  {
+    "text": "What the limitations and the gifts of it are because if we actually have realistic expectations on the brains.",
+    "uid": "c93a5c23eacadf6f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2989.42,
+    "end": 2996.42
+  },
+  {
+    "text": "Then we are much more likely to be able to create change as opposed to for the illusion and one the brain to be for what it's not.",
+    "uid": "123ea34c87588b27",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 2996.42,
+    "end": 3003.42
+  },
+  {
+    "text": "We will eventually, you know, learn about the reality the hard way.",
+    "uid": "3487a76eb03f6fde",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3003.42,
+    "end": 3008.42
+  },
+  {
+    "text": "Thank you. That's so smart.",
+    "uid": "59f760f6f20169c7",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3009.42,
+    "end": 3011.42
+  },
+  {
+    "text": "We have two questions that came in about the same topic. It's similar, but maybe a little different. So I'll read them.",
+    "uid": "8479044607b391cc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3011.42,
+    "end": 3017.42
+  },
+  {
+    "text": "How do you overcome the feeling of procrastination and more importantly, the mental talk.",
+    "uid": "c61e8290fbec62d0",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3017.42,
+    "end": 3022.42
+  },
+  {
+    "text": "All launch XYZ once I'm ready to ensure that I'm successful.",
+    "uid": "9f4f748dbeac564c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3022.42,
+    "end": 3026.42
+  },
+  {
+    "text": "And then another question from Adam, which is very related.",
+    "uid": "514b75facad7d3b8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3026.42,
+    "end": 3029.42
+  },
+  {
+    "text": "It's a good idea to have a day once in a while when you just let yourself float it flow to round per cascinate whatever bad habits doesn't matter.",
+    "uid": "d49d761c0c291532",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3029.42,
+    "end": 3037.42
+  },
+  {
+    "text": "Does that or does that just reinforce them so yeah. So in fact, I advise having the evenings like that all the time in the breaks, you know when when I spoke about Pomodoro technique.",
+    "uid": "39c7e0150bad8f82",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3037.42,
+    "end": 3050.42
+  },
+  {
+    "text": "During the the time focus for work focusing on the work during the breaks doing what exactly what you want to go on social media, you know playing playing silly game on your phone whatever you want to.",
+    "uid": "4a8d31ccfaa7879d",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3050.42,
+    "end": 3061.42
+  },
+  {
+    "text": "And that's important so we don't deplete our so-called ego depletion, which reduces the well power.",
+    "uid": "b9a0cd9ae05fe784",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3061.42,
+    "end": 3067.42
+  },
+  {
+    "text": "And doing that, especially our will power gets naturally lower in the afternoon and early evenings or evenings in general, but from early evening on being more forgiving to yourself and allowing yourself more will actually is probably a good idea.",
+    "uid": "9fd0ebddaea23a07",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3067.42,
+    "end": 3085.42
+  },
+  {
+    "text": "And sometimes if you prefer to have a day off like that, but probably just having you know that in the evenings and keeping the mornings and day to actually do the tasks you feel are important and building new habits and strengthening the habits you actually want to be there.",
+    "uid": "427938e1a067d92f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3086.42,
+    "end": 3103.42
+  },
+  {
+    "text": "In terms of procrastination in general, not only we meet different needs when we procrastinate, but there is so-called six different procrastinate at times I talk in the productivity chapter.",
+    "uid": "26123cdf9cc7fbdd",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3103.42,
+    "end": 3115.42
+  },
+  {
+    "text": "And some people say I relate to most of them and that's fine and depending on which type of procrastinate you are the tips are different.",
+    "uid": "20e249c54acc9c73",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3115.42,
+    "end": 3123.42
+  },
+  {
+    "text": "So for example, if somebody who is overdue and has too many tasks at hand is procrastinating because the brain just needs time off they actually have completely unrealistic load on their brains.",
+    "uid": "cc3835972f15894e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3123.42,
+    "end": 3134.42
+  },
+  {
+    "text": "Then the tip would be to cut those activities down and learn to say no and prioritize better.",
+    "uid": "7f6a3990b3943ff8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3134.42,
+    "end": 3140.42
+  },
+  {
+    "text": "But if somebody is procrastinating because the perfectionists and they can't let go of the of the results until they are so perfect that is even ridiculous.",
+    "uid": "bf24f8d1e2508f6e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3140.42,
+    "end": 3152.42
+  },
+  {
+    "text": "Then for them getting a perspective of other people and kind of practicing and celebrating success of actually letting go even though things are not perfect and celebrating that is essential.",
+    "uid": "c7566c305272e1f8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3152.42,
+    "end": 3165.42
+  },
+  {
+    "text": "So there is different different people it's the reasons for procrastination and rewards of procrastination are different and they need to be targeted specifically.",
+    "uid": "71f29fffb3decabc",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3165.42,
+    "end": 3177.42
+  },
+  {
+    "text": "There is no kind of one size fits all that.",
+    "uid": "2ca02f3e8ff4199c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3177.42,
+    "end": 3180.42
+  },
+  {
+    "text": "That is so helpful. Thank you so much. I think there are so many of us at Google that suffer from both of those.",
+    "uid": "04a3eebc24a32395",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3180.42,
+    "end": 3186.42
+  },
+  {
+    "text": "So I'm sure there's people enjoy that answer.",
+    "uid": "cd923a6fcfeb1043",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3186.42,
+    "end": 3190.42
+  },
+  {
+    "text": "We have time I think for one more question. So I'm going to ask one from from your book.",
+    "uid": "0e8af0c794d380f1",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3190.42,
+    "end": 3195.42
+  },
+  {
+    "text": "One of the final chapters in the book is about relationships and I thought that one was very very interesting. So highly recommend again the book for anyone that's interested.",
+    "uid": "f0fce590556d00d1",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3195.42,
+    "end": 3205.42
+  },
+  {
+    "text": "You mentioned in there that sometimes people are attracted to the wrong people.",
+    "uid": "388831d96e76148c",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3205.42,
+    "end": 3210.42
+  },
+  {
+    "text": "You talked a little bit about that. I'm wondering if you could just talk about that and give us some advice.",
+    "uid": "81f6f1ab2f0315d3",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3210.42,
+    "end": 3216.42
+  },
+  {
+    "text": "What to be more specific the mammal brain and human brain might be attracted to different people.",
+    "uid": "751eed1525272c22",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3216.42,
+    "end": 3223.42
+  },
+  {
+    "text": "Mammal brain is attracted to familiarity. So it actually creates so-called image of the kind of ideal partner based on your caregivers in the childhood and based on past experiences, which ever caused pain or pleasure in the past.",
+    "uid": "94cb50195c872aaf",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3223.42,
+    "end": 3239.42
+  },
+  {
+    "text": "So it creates like the kind of this this weird thing we naturally drawn to.",
+    "uid": "c25459d3ccf29e3b",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3239.42,
+    "end": 3244.42
+  },
+  {
+    "text": "Now your rational preference of a cortex could have completely different agenda and say, okay I want the person who meets this great TV right.",
+    "uid": "41dc9b94a48415a0",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3244.42,
+    "end": 3253.42
+  },
+  {
+    "text": "And it might be in disagreement and that's why we sometimes feel completely crazy when we're drawn to somebody and say, but I don't want to be with a person like that right.",
+    "uid": "e805ba04fc24739f",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3253.42,
+    "end": 3263.42
+  },
+  {
+    "text": "So in order to change that pattern we need to actually do some inner healing to change mammal brain information, especially if we attracted to people who lay down causes hurt and pain right with whom we can't have mutually empowering relationship and partnership.",
+    "uid": "4ac5b4c1bc7bbcce",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3263.42,
+    "end": 3281.42
+  },
+  {
+    "text": "In order to create a change we can't just completely ignore mammal brain because that's what love and desire and attraction originates.",
+    "uid": "8e358097eff182e8",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3281.42,
+    "end": 3289.42
+  },
+  {
+    "text": "We need to actually create inner healing first. So we attracted to slightly different people but also we heal in relationships.",
+    "uid": "cbf25017ebc5e5c2",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3289.42,
+    "end": 3298.42
+  },
+  {
+    "text": "We can't just say, okay I want date for 10 years, heal and then I date perfect partner is not going to work.",
+    "uid": "05355fe35103e941",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3298.42,
+    "end": 3304.42
+  },
+  {
+    "text": "So it was a subsequent somewhat healthy and healthy relationship friendships count as well by the way and colleagues like you know healthy colleagues count as well.",
+    "uid": "3cf294c101944906",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3304.42,
+    "end": 3313.42
+  },
+  {
+    "text": "The more healthy relationships we have the more healing we do the more likely we are to choose better partners in the future.",
+    "uid": "dd1b1fc6477af112",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3313.42,
+    "end": 3320.42
+  },
+  {
+    "text": "So that's wonderful. Thank you. What a great way to end. I want to thank you so much for your time and all of the wisdom.",
+    "uid": "af44e5f06ad92699",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3320.42,
+    "end": 3327.42
+  },
+  {
+    "text": "I also want to remind everybody of Gabye's website which is www.mybrain during the day.com and our Twitter feed which is at super gcoaching and we will send out the slides.",
+    "uid": "f81e462022d3340e",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3327.42,
+    "end": 3341.42
+  },
+  {
+    "text": "So for those of you that might have missed the initial slides you can take a look there and they will be edited back into the recording if you want to take a look there.",
+    "uid": "ab0ad049869c8a04",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3341.42,
+    "end": 3348.42
+  },
+  {
+    "text": "So thank you again so much for your time. I have to say this has been life changing for me to read your book in here from you and we all really appreciate your time.",
+    "uid": "5a6f54b808d37168",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3348.42,
+    "end": 3357.42
+  },
+  {
+    "text": "Thank you so much. It was great pleasure to be here and hope you know you and the other people learn some valuable insights about your own brain and really get to love and like your own brain for what it is.",
+    "uid": "e01c26293ff66070",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3357.42,
+    "end": 3370.42
+  },
+  {
+    "text": "Thank you. Happy Tuesday and we'll see you next time.",
+    "uid": "5a6f0b921a45bcaf",
+    "source": "Talks_at_Google - Gabija_Toleikyte_Habits_Behaviors_Change_Talks_at_Google",
+    "start": 3370.42,
+    "end": 3375.42
+  }
+]
