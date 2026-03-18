@@ -1,0 +1,3180 @@
+[
+  {
+    "text": "Hey there, it's Steven W.",
+    "uid": "9f1d3d0e96e91a35",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2.42,
+    "end": 4.42
+  },
+  {
+    "text": "One thing I love is going through the Freak and I'm going through your archive and resurfacing",
+    "uid": "df82f19563407ee2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 4.42,
+    "end": 9.22
+  },
+  {
+    "text": "some of our favorite episodes, and some of our favorite people, like Richard Thaler.",
+    "uid": "efeb4e51ec49df95",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 9.22,
+    "end": 15.14
+  },
+  {
+    "text": "The episode you're about to hear was first published in 2021.",
+    "uid": "a5bf242bbf058eef",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 15.14,
+    "end": 18.66
+  },
+  {
+    "text": "We've updated facts and figures as necessary.",
+    "uid": "11e94b0765c9db69",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 18.66,
+    "end": 20.94
+  },
+  {
+    "text": "I hope you enjoy it.",
+    "uid": "be9ba10373bfece2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 20.94,
+    "end": 22.86
+  },
+  {
+    "text": "And if not, you can blame Thaler.",
+    "uid": "d4ad10b8c05fc778",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 22.86,
+    "end": 30.34
+  },
+  {
+    "text": "I know we're talking about Nudge, but I also know that you like what you like, and you",
+    "uid": "098814864fb1a52a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 30.34,
+    "end": 34.9
+  },
+  {
+    "text": "don't like what you don't like.",
+    "uid": "b7c8659417e7abf3",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 34.9,
+    "end": 36.38
+  },
+  {
+    "text": "And you can be a little, no offense, you can be a little touchy sometimes.",
+    "uid": "979498b38a675102",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 36.38,
+    "end": 41.02
+  },
+  {
+    "text": "You call me touchy.",
+    "uid": "cc5c88b6168ab2ab",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 42.02,
+    "end": 44.46
+  },
+  {
+    "text": "No, no, not touchy.",
+    "uid": "2492af87133c9c1e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 44.46,
+    "end": 45.82
+  },
+  {
+    "text": "I don't even know what word you're saying.",
+    "uid": "22a6ad240ee27652",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 47.82,
+    "end": 50.42
+  },
+  {
+    "text": "We could go with sensitive, but maybe the best word to describe the man on the other microphone",
+    "uid": "fb3a1cc6f0c2e0b0",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 53.31,
+    "end": 58.43
+  },
+  {
+    "text": "today is cranky, at least situational cranky.",
+    "uid": "0ce10778b7c9bb2d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 58.43,
+    "end": 63.43
+  },
+  {
+    "text": "He's pleasant enough most of the time, but in certain circumstances, he becomes a bit of",
+    "uid": "be2fbb4d3ed87e0a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 63.43,
+    "end": 68.63
+  },
+  {
+    "text": "a cranky bottomist, especially when something isn't working the way it's supposed to.",
+    "uid": "3098ec877282f860",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 68.63,
+    "end": 73.47
+  },
+  {
+    "text": "Like when you go to pay your taxes or get a mortgage and you're suddenly tossed into a quagmire",
+    "uid": "974e414dabd303cd",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 73.47,
+    "end": 79.27
+  },
+  {
+    "text": "of fine print and red tape.",
+    "uid": "e5beaf552f919fb6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 79.27,
+    "end": 82.07
+  },
+  {
+    "text": "Or think about navigating the healthcare system, or managing your retirement savings.",
+    "uid": "79529c1f8be3ce51",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 82.07,
+    "end": 86.87
+  },
+  {
+    "text": "There's so much low hanging fruit because so many things are done so stupidly.",
+    "uid": "6b2df51e63c100d7",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 87.11,
+    "end": 94.47
+  },
+  {
+    "text": "As you probably tell you the name of the situationally cranky man, it's Richard Failer.",
+    "uid": "b09bdc553b8cc047",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 94.47,
+    "end": 99.35
+  },
+  {
+    "text": "He's an economics professor at the University of Chicago.",
+    "uid": "92916f91a6f8144d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 99.35,
+    "end": 102.79
+  },
+  {
+    "text": "For years, he collaborated with the pioneering psychologists, Danny Connemann, an Amistversky,",
+    "uid": "b90768d165f0e86e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 102.79,
+    "end": 108.63
+  },
+  {
+    "text": "helping create what has come to be called behavior economics.",
+    "uid": "cf582dc3962c6d8d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 108.63,
+    "end": 111.95
+  },
+  {
+    "text": "Connemann was awarded a Nobel Prize in 2002.",
+    "uid": "f308ea88086c7e4c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 112.03,
+    "end": 115.47
+  },
+  {
+    "text": "It would have been shared with Tversky at he not died young.",
+    "uid": "8cb5e72a13fac3dd",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 115.47,
+    "end": 118.91
+  },
+  {
+    "text": "Failer would go on to win his own Nobel Prize in 2017.",
+    "uid": "504508a6ac6d585e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 118.91,
+    "end": 123.87
+  },
+  {
+    "text": "Back in 2008, Failer published a book called Nudge, improving decisions about health, wealth,",
+    "uid": "69a50d4a840e54c9",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 123.87,
+    "end": 130.91
+  },
+  {
+    "text": "It was co-authored with the legal scholar Kess Sunstein.",
+    "uid": "1b07b3a28f205d5a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 132.11,
+    "end": 135.87
+  },
+  {
+    "text": "Nudge proved to be phenomenally popular.",
+    "uid": "f209330f217e3526",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 135.87,
+    "end": 138.63
+  },
+  {
+    "text": "I think something like 2 million people have read Nudge around the world.",
+    "uid": "77cc33b42d19779b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 138.71,
+    "end": 142.47
+  },
+  {
+    "text": "It's also been an influential book, as governments and other institutions rushed to set up so-called",
+    "uid": "94e795ddbe8da41d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 143.11,
+    "end": 149.11
+  },
+  {
+    "text": "Nudge units. They use the tools of behavior economics to get people to consume less energy,",
+    "uid": "222a2c81595226f4",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 149.11,
+    "end": 155.91
+  },
+  {
+    "text": "to save more for retirement, to pay their taxes on time, and pay more attention to their health.",
+    "uid": "e591406ec4a03f09",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 155.91,
+    "end": 161.51
+  },
+  {
+    "text": "The latest count is that there are over 400 such units around the world.",
+    "uid": "7438b059226dd116",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 162.07,
+    "end": 168.39
+  },
+  {
+    "text": "So, somebody thinks that they are useful.",
+    "uid": "5c9946b4dca033f1",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 169.35,
+    "end": 173.03
+  },
+  {
+    "text": "Bat number has now grown to over 600. Nudge theory is built around a relatively simple concept.",
+    "uid": "e7ec616d60820244",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 173.75,
+    "end": 179.67
+  },
+  {
+    "text": "Yeah, the phrase that I like best is choice architecture.",
+    "uid": "af436a9c7b45c985",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 180.31,
+    "end": 185.99
+  },
+  {
+    "text": "And choice architecture means what to you exactly?",
+    "uid": "12a51514cd512701",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 185.99,
+    "end": 188.47
+  },
+  {
+    "text": "It's creating the environment in which people choose.",
+    "uid": "1ae0ff138546ed9a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 188.47,
+    "end": 193.11
+  },
+  {
+    "text": "And who is or is not a choice architect? Are we all choice architects are only some",
+    "uid": "06b1f0e887201b4b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 193.91,
+    "end": 200.63
+  },
+  {
+    "text": "members of the elite, the choice architects?",
+    "uid": "0877e2802a041934",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 200.87,
+    "end": 203.27
+  },
+  {
+    "text": "I mean, if you think about your the choice architect for this episode,",
+    "uid": "9abb48aef6be5bda",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 203.27,
+    "end": 209.51
+  },
+  {
+    "text": "you're asking the questions, and then you're going to dictate to your listeners.",
+    "uid": "d53ff7320fdea34a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 210.39,
+    "end": 218.15
+  },
+  {
+    "text": "Which part do you play? And the really good funny stuff he's left out.",
+    "uid": "f0d0976236ca581d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 219.03,
+    "end": 224.63
+  },
+  {
+    "text": "I can tell you call me and I'll tell you the really good stuff.",
+    "uid": "e8401154e9888196",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 226.39,
+    "end": 229.51
+  },
+  {
+    "text": "Okay, let's move on. What exactly counts as a Nudge?",
+    "uid": "9d5966d0c59e5821",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 231.27,
+    "end": 235.35
+  },
+  {
+    "text": "Imagine you run the cafeteria at a university or hospital and you want to encourage health",
+    "uid": "a2fc2efcda581dff",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 236.23,
+    "end": 243.11
+  },
+  {
+    "text": "you're eating. Here's an excerpt from the book, read by someone we hired who wouldn't sound like such",
+    "uid": "2a0551ad458f044b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 243.19,
+    "end": 249.83
+  },
+  {
+    "text": "a cranky part of us. A Nudge, as we will use the term, is any aspect of the choice architecture",
+    "uid": "e774801d381d3587",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 249.83,
+    "end": 258.06
+  },
+  {
+    "text": "that altars people's behavior in a predictable way without forbidding any options or significantly",
+    "uid": "54e203676318ae31",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 258.06,
+    "end": 263.98
+  },
+  {
+    "text": "changing their economic incentives. To count as a mere Nudge, the intervention must be easy and",
+    "uid": "9bab2906bfeab592",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 263.98,
+    "end": 270.54
+  },
+  {
+    "text": "cheap to avoid. Nudges are not taxes, fines, subsidies, bans, or mandates. Putting the fruit at",
+    "uid": "c8d419c9f18c260a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 270.54,
+    "end": 278.46
+  },
+  {
+    "text": "I level counts as a Nudge. Banting junk food does not. Today on the show, we'll ask how useful",
+    "uid": "cfbc657ec24e2778",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 278.46,
+    "end": 287.22
+  },
+  {
+    "text": "Nudge can be if you want to solve big problems. We can't solve climate change with Nudge, but we can't",
+    "uid": "75391a820c6481e5",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 287.22,
+    "end": 294.18
+  },
+  {
+    "text": "solve it without Nudge. We'll talk about why there are so many big problems to solve. Look,",
+    "uid": "4fbae6c4e40e1e77",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 294.18,
+    "end": 301.22
+  },
+  {
+    "text": "you don't have to be a genius to have thought of this. You have to be an idiot to have created the",
+    "uid": "1f08119cd78b371b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 301.22,
+    "end": 306.98
+  },
+  {
+    "text": "system that needed this fix. And we'll try to figure out what makes Thaler so failure. Yeah, I think",
+    "uid": "a3033a59e85715e9",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 306.98,
+    "end": 317.14
+  },
+  {
+    "text": "that ridiculous. This is Freakonomics Radio, the podcast that explores the hidden side of everything",
+    "uid": "b7f13f91a02ecd36",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 317.14,
+    "end": 338.01
+  },
+  {
+    "text": "with your host Stephen Dubner. I've always argued that Nudge is one of the best written books by",
+    "uid": "aff72e865e7f81c2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 338.01,
+    "end": 351.85
+  },
+  {
+    "text": "academics. I mean, you're an economist and your co-author cast on the scene is a lawyer for",
+    "uid": "53ba02ac95dc6568",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 351.85,
+    "end": 356.65
+  },
+  {
+    "text": "goodness sake. Typically, I would argue that most academics are pretty poor writers. If you agree with that,",
+    "uid": "017982e1f3986017",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 356.65,
+    "end": 365.29
+  },
+  {
+    "text": "why? Well, writing in academic journals, you're almost discouraged from good writing. When I was",
+    "uid": "1cc3bd72c3f7a76e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 365.29,
+    "end": 373.85
+  },
+  {
+    "text": "working on my PhD thesis, which was on the value of a human life, one of my advisors read the first",
+    "uid": "879c0516aeb81b03",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 373.85,
+    "end": 383.45
+  },
+  {
+    "text": "draft and made me take out all of the jokes of which there were perhaps three, right, because it's such a nice",
+    "uid": "c6877ac7844b0776",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 383.45,
+    "end": 394.41
+  },
+  {
+    "text": "light topic, the value of a human life. Well, yeah. And then I started writing these anomalies,",
+    "uid": "2e5b950858a0b6de",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 394.41,
+    "end": 401.77
+  },
+  {
+    "text": "columns in the journal of economic perspectives. I remember around that time thinking of myself",
+    "uid": "4a9996d74a7cdc52",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 401.77,
+    "end": 410.65
+  },
+  {
+    "text": "primarily as a writer and thinking that most academics should think of themselves as writers,",
+    "uid": "5a87c1d6513604a1",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 410.65,
+    "end": 420.25
+  },
+  {
+    "text": "because that's what they do. I mean, there's the teaching part, but the research part, the output is a written",
+    "uid": "62d11e56d7dd2c06",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 421.29,
+    "end": 428.17
+  },
+  {
+    "text": "document, but I'm also really curious to know how the collaboration between the two of you works in",
+    "uid": "6e2265a88e6fa871",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 428.25,
+    "end": 434.17
+  },
+  {
+    "text": "economists and a lawyer writing about what is often not quite economics and not quite law with two guys",
+    "uid": "bd34cb73e43f1bc8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 434.17,
+    "end": 442.41
+  },
+  {
+    "text": "whose output is totally different. Yeah, cast is a much faster writer than I am and a very good writer,",
+    "uid": "f1540e48457079ff",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 442.41,
+    "end": 450.09
+  },
+  {
+    "text": "but certainly writes in a quite different style than I do. How would you describe the difference in",
+    "uid": "1de59688779bc85a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 450.09,
+    "end": 456.01
+  },
+  {
+    "text": "styles? Well, I would say he's more serious, just saying much. There are some toddlers that are more",
+    "uid": "ca71ad505758d45c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 456.89,
+    "end": 465.05
+  },
+  {
+    "text": "serious than me or so my wife would say, but when we sat down to start writing nudge, much of it was",
+    "uid": "2b5146df561db55e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 465.05,
+    "end": 474.49
+  },
+  {
+    "text": "based on research I had done. And he graciously offered that this book should be Thaler and Sunstein,",
+    "uid": "c1bc3363750a4683",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 474.49,
+    "end": 483.69
+  },
+  {
+    "text": "which is out of alphabetical order, but reflected the fact that it was based more on my research",
+    "uid": "eb9d3bb39be69655",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 483.77,
+    "end": 491.77
+  },
+  {
+    "text": "than his, but then it came to writing things up and it was clear that the chapters he wrote",
+    "uid": "bf43e5104aa12c36",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 491.77,
+    "end": 501.05
+  },
+  {
+    "text": "read very different than the ones I did. And so we made a decision that every chapter would be in",
+    "uid": "4be953ed2dfeb00b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 501.05,
+    "end": 508.97
+  },
+  {
+    "text": "my voice because we didn't want the reader to be jarred. So when you and Levitt were writing",
+    "uid": "da6fbf01b240dc35",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 508.97,
+    "end": 517.05
+  },
+  {
+    "text": "economics, it was all dubbed in his voice, right? Because you were the writer. Although I have to say",
+    "uid": "feceb88c2e54b865",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 517.05,
+    "end": 524.73
+  },
+  {
+    "text": "with nudge, there are not whole chapters, but there are passages where I feel like, oh, that's so Thaler.",
+    "uid": "026c4c89a8ab9da1",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 524.73,
+    "end": 532.01
+  },
+  {
+    "text": "And then there are a couple sentences and it's not just because they're a little bit legalisticish,",
+    "uid": "84ce855d0449c221",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 533.13,
+    "end": 538.17
+  },
+  {
+    "text": "but they're a little more sober, but are you saying that everything went through your brain and fingers",
+    "uid": "5d8821fa3641b325",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 538.17,
+    "end": 543.69
+  },
+  {
+    "text": "in the end, every word? Every word went through my word processor. Now every word went through both",
+    "uid": "f7baa1e0708a4e50",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 543.69,
+    "end": 551.37
+  },
+  {
+    "text": "word processors many times, but it was meant to sound like it had been written by one person. There's a lot",
+    "uid": "2328d930d93a6fb8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 551.37,
+    "end": 559.85
+  },
+  {
+    "text": "of sunsteens in there, but it sounds more like me talking. How'd you split the money?",
+    "uid": "2c18e6fe49fb686a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 559.85,
+    "end": 566.49
+  },
+  {
+    "text": "50, 50, that's fair. Here's a quick excerpt from Nudge about the two authors, different styles.",
+    "uid": "4fa227b51733a73f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 566.49,
+    "end": 575.11
+  },
+  {
+    "text": "Thaler loves wine. Sunsteen prefers diet coke. Thaler loves long dinner parties. Sunsteen",
+    "uid": "0d597cecc6c74c04",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 577.43,
+    "end": 585.03
+  },
+  {
+    "text": "dreads them. Sunsteen enjoys philosophical arguments. Thaler avoids them at all costs.",
+    "uid": "2aded4cf1c751a45",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 585.03,
+    "end": 591.51
+  },
+  {
+    "text": "We should also say that Sunsteen is an extremely prolific writer. Thaler, meanwhile,",
+    "uid": "33583ffa29b1a8c3",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 594.09,
+    "end": 600.17
+  },
+  {
+    "text": "admits to being famously lazy. Well, yeah. So in the time that you and I will be talking today,",
+    "uid": "dad707395f292360",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 600.17,
+    "end": 606.73
+  },
+  {
+    "text": "how many books do you think Cess will have written? He's working full time for Homeland Security. So",
+    "uid": "31d77efea028972f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 606.73,
+    "end": 612.33
+  },
+  {
+    "text": "I'm guessing he's down to writing only four books a year. What's he do for Homeland Security?",
+    "uid": "8769a3ddcb4c9bcd",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 612.33,
+    "end": 618.49
+  },
+  {
+    "text": "I could tell you about an F.D. Kill you. Sunsteen is no longer working for Homeland Security.",
+    "uid": "f314295439744385",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 618.57,
+    "end": 626.82
+  },
+  {
+    "text": "He's a professor at Harvard Law School. This seems to have given him even more time to write this past year.",
+    "uid": "2e1615e9dccb5c9d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 626.82,
+    "end": 632.42
+  },
+  {
+    "text": "He published five books. Anyway, back to Thaler. Thaler invented a phrase which describes the not-too-hot,",
+    "uid": "4c8bf3a0acab3079",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 632.42,
+    "end": 639.62
+  },
+  {
+    "text": "not-too-cold nature of nudging. He calls it libertarian paternalism. I asked him how he came up with that phrase.",
+    "uid": "a5d0d8f26d9ca979",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 639.62,
+    "end": 646.5
+  },
+  {
+    "text": "I was presenting a paper at the University of Chicago. And my discussant was Casey Mulligan,",
+    "uid": "9d86902439c094e5",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 647.14,
+    "end": 656.9
+  },
+  {
+    "text": "who's a very Chicago school member of the Chicago economics department. And the data I was presenting",
+    "uid": "13b9a7e9f95022a2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 656.9,
+    "end": 665.3
+  },
+  {
+    "text": "was that we were able to triple people saving rates in three years, not forcing anybody to do anything.",
+    "uid": "91466270c336cddf",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 665.3,
+    "end": 672.02
+  },
+  {
+    "text": "So he grudgingly admitted that this seemed to work. But then he said,",
+    "uid": "c11daa843c05a283",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 672.98,
+    "end": 680.18
+  },
+  {
+    "text": "but isn't this paternalism? Which at the University of Chicago is like saying, aren't you a child",
+    "uid": "c4031a4de5de76b4",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 680.18,
+    "end": 689.22
+  },
+  {
+    "text": "molester or a communist? And I said, well, I'm not sure because there's no coercion here. Normally,",
+    "uid": "3a1eed74ea63a9d8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 689.22,
+    "end": 696.82
+  },
+  {
+    "text": "we think a paternalism has like, you have to buckle your seat belt. And you can't buy pot because",
+    "uid": "7a14b1a531e7e372",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 696.82,
+    "end": 704.98
+  },
+  {
+    "text": "it's not good for you. So I said, I guess if this is paternalism, maybe it's some different flavor of paternalism.",
+    "uid": "492227300bade9dc",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 704.98,
+    "end": 712.42
+  },
+  {
+    "text": "Maybe we could call it libertarian paternalism. So this was an ad lib and kind of a joke.",
+    "uid": "f3968456f9b60c8d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 712.42,
+    "end": 719.62
+  },
+  {
+    "text": "Well, you know, everything with me is kind of a joke. But I kind of liked it. And the next day,",
+    "uid": "b2600972c4f84f73",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 720.26,
+    "end": 727.14
+  },
+  {
+    "text": "I was having my weekly lunch with gas on steam. And that's what led to nudge. But if I were to ask you,",
+    "uid": "361ca693fc9f377d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 727.86,
+    "end": 736.1
+  },
+  {
+    "text": "then or now, hey, failure. Are you libertarian or failure? Are you a paternalist? I'm almost sure",
+    "uid": "7439f367b74b9f0b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 736.82,
+    "end": 744.18
+  },
+  {
+    "text": "you'd say, no to both. Correct. Now, look, the fact that the term seems oxymoronate or maybe just",
+    "uid": "84f84b59153b6d18",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 744.18,
+    "end": 753.78
+  },
+  {
+    "text": "maronic. But some would say, maronic. And the fact that it really annoys libertarians. That was a big plus.",
+    "uid": "b674861bfc384451",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 753.78,
+    "end": 762.26
+  },
+  {
+    "text": "But it's taking two things that are in many instances negatives, or at least have some negative",
+    "uid": "8b4082eb8de8ee15",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 762.26,
+    "end": 768.42
+  },
+  {
+    "text": "connotations and putting them together to make a good thing. It reminds me of when my kids",
+    "uid": "e86f59d56b391e8d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 768.42,
+    "end": 774.02
+  },
+  {
+    "text": "were little, they had a babysitter whose name was Madherin, which was spelled M. A. T. H. U. R. I. I. N. E. So it was",
+    "uid": "3e27eef8e66d54f6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 774.02,
+    "end": 783.62
+  },
+  {
+    "text": "math and urine combined. But she was lovely. Yeah. So look, I would say that it's good that we",
+    "uid": "1c595a316716e849",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 783.62,
+    "end": 795.46
+  },
+  {
+    "text": "called the book Nudge and not libertarian paternalism is not an oxymoron or one click paternalism is",
+    "uid": "1b67d25dd18d097d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 795.46,
+    "end": 804.58
+  },
+  {
+    "text": "you to it. Yeah. I will say also I lost a battle on the subtitle for this book. I wanted",
+    "uid": "6094cbbb45a820d1",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 804.58,
+    "end": 814.02
+  },
+  {
+    "text": "the subtitle to be the gentle power of choice architecture. That's the message of the book. People should",
+    "uid": "15502828a6bf9a19",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 814.02,
+    "end": 822.42
+  },
+  {
+    "text": "understand that they are the recipients of choice architecture in almost every aspect of their life.",
+    "uid": "fe4241e6ee5fd07e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 822.42,
+    "end": 830.66
+  },
+  {
+    "text": "Once you catch onto that, I think it helps. Here's another excerpt from Nudge.",
+    "uid": "103bc75f30c2458c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 831.22,
+    "end": 837.62
+  },
+  {
+    "text": "Perhaps the most basic principle of good choice architecture is our mantra. Make it easy.",
+    "uid": "8712d758cc04b835",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 839.46,
+    "end": 844.5
+  },
+  {
+    "text": "If you want to encourage some behavior, figure out why people aren't doing it already, and eliminate",
+    "uid": "39511a5bdabe8b45",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 845.22,
+    "end": 850.74
+  },
+  {
+    "text": "the barriers that are standing in their way. If you want people to obtain a driver's license or get",
+    "uid": "ddbd6564c7f7eede",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 850.74,
+    "end": 856.42
+  },
+  {
+    "text": "vaccinated, make it simple for them, above all by increasing convenience. Of course, this principle",
+    "uid": "6491e0b343e5f467",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 856.42,
+    "end": 863.7
+  },
+  {
+    "text": "has an obvious corollary. If you want to discourage some behavior, make it harder by creating barriers.",
+    "uid": "987e4415b71ecf93",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 863.7,
+    "end": 870.5
+  },
+  {
+    "text": "If you want to make it harder for people to vote, forbid voting by mail and early voting and reduce",
+    "uid": "83e216a57153487d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 871.22,
+    "end": 876.9
+  },
+  {
+    "text": "the number of polling stations and place them far away from public transportation stops. While you're",
+    "uid": "06ae96181b3f3f07",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 876.9,
+    "end": 882.98
+  },
+  {
+    "text": "at it, try to make people spend hours in line before they can vote. The title of the new edition is",
+    "uid": "26653ac367d9d342",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 883.06,
+    "end": 891.29
+  },
+  {
+    "text": "Nudge, the final edition. I don't know quite how to read that. Are you planning on going somewhere?",
+    "uid": "419a1a453ec5a2c0",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 891.29,
+    "end": 897.93
+  },
+  {
+    "text": "Is it a commitment device that you'll never revise it again? It's exactly a commitment device.",
+    "uid": "9012466f4abba376",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 897.93,
+    "end": 904.01
+  },
+  {
+    "text": "So for your listeners who don't know what that means. Oh, they all know. We've told them before.",
+    "uid": "f4920c1b915b9feb",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 904.57,
+    "end": 910.17
+  },
+  {
+    "text": "Well, probably my most famous story, and I'm a person who's known for having many stories.",
+    "uid": "65b9be387e75df6a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 910.17,
+    "end": 916.97
+  },
+  {
+    "text": "Here we go with the cash use again. I won't repeat the whole story, but. Okay. I'll just take a nap. You tell",
+    "uid": "fdc6bd01c9b1c7dd",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 916.97,
+    "end": 923.21
+  },
+  {
+    "text": "it. It involves taking a bowl of cash use and hiding it in the kitchen so that some",
+    "uid": "9306e0b3765889f5",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 923.21,
+    "end": 930.09
+  },
+  {
+    "text": "dinner guests wouldn't spoil their appetites while having an adult beverage. So that was meant to illustrate",
+    "uid": "0b689b76ebe2f2f1",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 930.09,
+    "end": 936.89
+  },
+  {
+    "text": "our lack of self control, even though we might profess. We want self control. Right. And we were",
+    "uid": "4adccdf34ada7dda",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 936.89,
+    "end": 942.57
+  },
+  {
+    "text": "committing ourselves not to eat any more cash. You're not said least without going to the effort",
+    "uid": "71a2c686a986f821",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 942.57,
+    "end": 948.73
+  },
+  {
+    "text": "of walking 20 meters to the kitchen. So as far as we can tell, no one has been stupid enough to do what we've",
+    "uid": "f94412f664d0d07e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 948.73,
+    "end": 958.97
+  },
+  {
+    "text": "done, which is to take a book that was still selling 50,000 copies a year and just say, oh, yeah,",
+    "uid": "43b1fb20c81c8778",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 959.61,
+    "end": 968.17
+  },
+  {
+    "text": "let's write it again. This wasn't just a little tweak. Some chapters were added. Some were subtracted",
+    "uid": "8fda214dd5e1c87f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 968.17,
+    "end": 977.21
+  },
+  {
+    "text": "and almost all were pretty substantially revised. I'm guessing this is a product of COVID-19. Had you",
+    "uid": "3cd5ced6d625dcf7",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 977.21,
+    "end": 984.01
+  },
+  {
+    "text": "not been cooped up? Yeah, definitely. And the whole thing just felt a bit dated. One of the reasons",
+    "uid": "092c3b4cf141b509",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 984.01,
+    "end": 992.81
+  },
+  {
+    "text": "for taking a Mulligan on this book was that almost everyone thought they knew our view on",
+    "uid": "16e80d067e0bdfbb",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 992.81,
+    "end": 1003.21
+  },
+  {
+    "text": "organizations. Well, to that end, we tweeted to our listeners asked your questions for you. This person",
+    "uid": "c5938bd44afcf963",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1003.21,
+    "end": 1010.65
+  },
+  {
+    "text": "says Reddit, meaning Nudge, but his chapter on Oregon donation freaked me out. The book said",
+    "uid": "2ebc85e227a8c08b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1010.65,
+    "end": 1016.65
+  },
+  {
+    "text": "that to increase Oregon donation numbers, the default should be that you donate your organs",
+    "uid": "ed8b736e6af6539c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1016.65,
+    "end": 1021.53
+  },
+  {
+    "text": "and that you have to opt out. I think the state having the right to take your organs by default is evil.",
+    "uid": "6a62e3784b0e8193",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1021.53,
+    "end": 1027.69
+  },
+  {
+    "text": "Is that what you said? It's just the opposite of what we said. I think the confusion begins and I should",
+    "uid": "29c02cb0a2b2e385",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1027.69,
+    "end": 1033.93
+  },
+  {
+    "text": "say when we started to write that book, we wrote down a list of chapters we would write and that was",
+    "uid": "243a3df0c718c140",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1033.93,
+    "end": 1041.29
+  },
+  {
+    "text": "one because we knew about a famous paper that was written by two friends of ours, Eric Johnson and",
+    "uid": "c701c931c8b7edce",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1041.29,
+    "end": 1049.05
+  },
+  {
+    "text": "Dan Goldstein. You write that it included the most famous graph in social science. Yeah, and what that",
+    "uid": "41d59574887e1454",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1049.05,
+    "end": 1057.13
+  },
+  {
+    "text": "graph shows is that if the default is to agree to be an organ donor, meaning you have to go out of",
+    "uid": "f089d4da34289b4a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1057.21,
+    "end": 1068.41
+  },
+  {
+    "text": "your way to opt out, then hardly anybody opt out. And this is true, say in Austria, whereas if you have to",
+    "uid": "d2153cb7e99b94ba",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1068.41,
+    "end": 1078.25
+  },
+  {
+    "text": "do something to become a donor as you have to do in the United States, then although 75, 80% say,",
+    "uid": "385af31b6587ed74",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1078.25,
+    "end": 1087.21
+  },
+  {
+    "text": "if you ask them would you like to be a donor? They say yes, 40, 50% get around to it. So wow, that's a huge",
+    "uid": "13efc45b82f595e3",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1087.21,
+    "end": 1095.85
+  },
+  {
+    "text": "effect, right? And then we started reading the literature. And here's the crucial mistake that people have",
+    "uid": "8a0049dd7f0f6a95",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1095.85,
+    "end": 1105.29
+  },
+  {
+    "text": "made in thinking about this problem. If having failed to opt out meant that should you have a",
+    "uid": "b2d2b1d17731d2a3",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1105.37,
+    "end": 1114.97
+  },
+  {
+    "text": "fatal automobile crash, that your organs will be automatically harvested, then that would be a very",
+    "uid": "6d4d63cc65475a62",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1114.97,
+    "end": 1125.05
+  },
+  {
+    "text": "attractive policy setting aside for the moment some ethical questions. Like whether as our listener",
+    "uid": "72f66be48d0d4c62",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1125.05,
+    "end": 1133.37
+  },
+  {
+    "text": "wrote in the state can take your organs by default. Correct. And by the way, there's a scene in",
+    "uid": "94f62f549a487087",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1133.45,
+    "end": 1141.85
+  },
+  {
+    "text": "Monti Python where John Cleses and one of the other troops arrived at some guy's door. Yes,",
+    "uid": "5808ba00fec6aa20",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1141.85,
+    "end": 1153.21
+  },
+  {
+    "text": "hello, can we have you all live at? You live at? And I said it's really strange sort of, yeah, yeah,",
+    "uid": "76e95cb421be5f04",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1153.21,
+    "end": 1162.49
+  },
+  {
+    "text": "I know about the tears, but I'm using it. Or she said, I live it on his card.",
+    "uid": "19687422bf56de15",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1162.49,
+    "end": 1170.33
+  },
+  {
+    "text": "I mean, we say more. I think one of the lines is, but this is only in the cause of death. And Cleses,",
+    "uid": "9265e204c4a32f73",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1170.33,
+    "end": 1178.09
+  },
+  {
+    "text": "a sure sim. Now what is ever I don't live a take not my officers. So now there is a policy",
+    "uid": "3672e001d9748f8f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1178.09,
+    "end": 1187.78
+  },
+  {
+    "text": "called routine removal. And it wouldn't be the Monti Python version. What it would be is that",
+    "uid": "f42ec6a48d223618",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1187.78,
+    "end": 1196.9
+  },
+  {
+    "text": "if a patient becomes brain dead, then the transplant teams will automatically take whatever could be used.",
+    "uid": "38b123581f1020a2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1196.9,
+    "end": 1208.9
+  },
+  {
+    "text": "And is that actually practiced anywhere? Essentially nowhere that we know of that we know of.",
+    "uid": "6fb96b45deaf3f81",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1208.98,
+    "end": 1214.58
+  },
+  {
+    "text": "And we have looked high and hard, there are maybe half dozen countries that have that as their law,",
+    "uid": "1456ddba33f2e090",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1214.58,
+    "end": 1223.3
+  },
+  {
+    "text": "but in fact still don't do it. And many of the countries that have switched to what's called",
+    "uid": "0525f64e54f4c482",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1224.1,
+    "end": 1231.22
+  },
+  {
+    "text": "presumed consent explicitly described their policy as soft presumed consent.",
+    "uid": "19f2392f42348450",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1231.3,
+    "end": 1239.38
+  },
+  {
+    "text": "Which means that if a young person who has not opted out is let's say killed in a car crash,",
+    "uid": "64b7667c0230f0ec",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1240.1,
+    "end": 1247.14
+  },
+  {
+    "text": "then the family or the survivors are still consulted as to whether to go ahead. Is that about it?",
+    "uid": "c75ef765025fcb84",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1248.02,
+    "end": 1253.94
+  },
+  {
+    "text": "Yes. And in fact, if they can't get in touch with the family or someone, they don't take the organs.",
+    "uid": "f6327e8c1c87557e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1253.94,
+    "end": 1260.74
+  },
+  {
+    "text": "So this famous chart that showed almost everybody in countries where they have presumed consent for",
+    "uid": "1dd4bcd4c845e2d5",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1261.38,
+    "end": 1268.02
+  },
+  {
+    "text": "organ donation. Yes, everybody's not opted out, but not being opted out doesn't mean that that person's",
+    "uid": "79ce6a4b342446d8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1268.02,
+    "end": 1274.66
+  },
+  {
+    "text": "organs are necessarily donated because there's a whole other level to go through that most people just didn't",
+    "uid": "168b4210bf10fdf9",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1274.66,
+    "end": 1279.62
+  },
+  {
+    "text": "think about. Yeah, that's point one. Point two is that if almost no one is opting out, then",
+    "uid": "67f1f5a60a05431f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1279.62,
+    "end": 1288.66
+  },
+  {
+    "text": "we should not be giving a lot of credence to the fact that you didn't opt out.",
+    "uid": "2294f0547f5a8f63",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1289.3,
+    "end": 1295.94
+  },
+  {
+    "text": "I mean, you have a teenage son. If he failed to fill out some form, how confident would you be",
+    "uid": "e4bd1215b5b012a5",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1297.06,
+    "end": 1307.38
+  },
+  {
+    "text": "that that omission was based on careful thought. Right? Zero. But even you, I'm sure,",
+    "uid": "11749efdda46e1b7",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1308.5,
+    "end": 1317.06
+  },
+  {
+    "text": "can see why someone who has read most of Nudge and gets to the chapter on organ donations and",
+    "uid": "fa6d69d03b00d8b4",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1317.06,
+    "end": 1322.58
+  },
+  {
+    "text": "starts to read about countries like Austria that do have presumed consent. Why they would think, oh, well,",
+    "uid": "a3d438c112815f1b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1322.58,
+    "end": 1328.34
+  },
+  {
+    "text": "that's the answer. Look at that chart. It must work. Yeah. So that was one of the reasons that we decided,",
+    "uid": "3d68506538817380",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1328.34,
+    "end": 1337.7
+  },
+  {
+    "text": "let's tee it up again and see if we at least get the people who read the book to know what our view is.",
+    "uid": "fd026e2bccb6214d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1337.7,
+    "end": 1346.02
+  },
+  {
+    "text": "One major theme of Nudge and this follows directly from the foundational research by Kahneman and",
+    "uid": "e4349de4e20c8610",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1349.7,
+    "end": 1355.46
+  },
+  {
+    "text": "Versaillescape. This has to do with cognitive biases and how they lead to errors in judgment.",
+    "uid": "8b8ad6e608c4530f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1355.46,
+    "end": 1361.22
+  },
+  {
+    "text": "The availability bias, for instance, this can make us overweight, some threat just because it's been",
+    "uid": "29cbd09e9bcbb8aa",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1361.86,
+    "end": 1367.54
+  },
+  {
+    "text": "in the news a lot, a terrorist attack, for instance, and underway a more likely threat, like heart disease.",
+    "uid": "9904f34958c5317f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1367.54,
+    "end": 1374.5
+  },
+  {
+    "text": "Another common blind spot is something called pluralistic ignorance. We think we know what other",
+    "uid": "394e4c898ea67240",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1374.66,
+    "end": 1380.98
+  },
+  {
+    "text": "people are thinking, but often we don't. This can lead us to assume that certain social norms are",
+    "uid": "a95d2c490778d503",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1380.98,
+    "end": 1387.06
+  },
+  {
+    "text": "much stronger than they are. Here's how it's explained in Nudge. A vivid example comes from an experiment",
+    "uid": "8320cf9deab293a9",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1387.06,
+    "end": 1395.54
+  },
+  {
+    "text": "in Saudi Arabia. In that country, there has long been a custom of guardianship, by which husbands",
+    "uid": "edce4d5d495928b1",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1395.54,
+    "end": 1401.86
+  },
+  {
+    "text": "are allowed to have the final word on whether their wives work outside the home.",
+    "uid": "ef1b87cda8680e77",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1401.86,
+    "end": 1405.78
+  },
+  {
+    "text": "Asking a large group of young married men in private, whether they are in favor of female labor force",
+    "uid": "c1b7d52306e3b387",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1407.06,
+    "end": 1412.74
+  },
+  {
+    "text": "participation, economists Leonardo Burston and his colleagues learned that the overwhelming majority",
+    "uid": "c76686087f4e9bbd",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1412.74,
+    "end": 1419.78
+  },
+  {
+    "text": "answered yes. At the same time, they found that those men are profoundly mistaken about the social norm.",
+    "uid": "9440bd38bc49ce9c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1419.78,
+    "end": 1426.66
+  },
+  {
+    "text": "They wrongly think that other similar men, even those in their local community, do not want their",
+    "uid": "6aa4e55c82bb8446",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1427.54,
+    "end": 1433.38
+  },
+  {
+    "text": "wives to join the labor force. Burston and his colleagues randomly corrected the beliefs of",
+    "uid": "f0a21ce8ed566c37",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1433.38,
+    "end": 1438.9
+  },
+  {
+    "text": "half of those young men about what the other young men believed. As a result, they became far more willing",
+    "uid": "5736e3f1cf6d780a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1438.9,
+    "end": 1445.3
+  },
+  {
+    "text": "to authorize their wives to work. Four months after the intervention, the wives of men in the experiment",
+    "uid": "773a33cb7dfcfa6d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1445.3,
+    "end": 1451.46
+  },
+  {
+    "text": "who had received the information about others' beliefs were more likely to have applied an",
+    "uid": "93f401526f1acb06",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1451.46,
+    "end": 1456.5
+  },
+  {
+    "text": "interview for a job. Here's the broader lesson. If people wrongly think that most people are committed",
+    "uid": "df0919db362183a6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1456.5,
+    "end": 1462.82
+  },
+  {
+    "text": "to a longstanding social norm, a small nudge correcting that misperception can inaugurate large-scale change.",
+    "uid": "0fc14646860eef37",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1462.82,
+    "end": 1470.82
+  },
+  {
+    "text": "Coming up after the break, can the climate be nudged? I'm Steven Dubner. This is Freaklin' Emok's Radio. We'll",
+    "uid": "e6eaf5b6ccfc3058",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1473.14,
+    "end": 1479.62
+  },
+  {
+    "text": "be right back. We're talking today with the economist Richard Faylor about his path-breaking book,",
+    "uid": "751516024cce9e5e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1479.62,
+    "end": 1492.82
+  },
+  {
+    "text": "Nudge. It was co-authored by Kess Sunstein, who for three years during the Obama administration,",
+    "uid": "bd5b496fc68125ca",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1492.82,
+    "end": 1499.3
+  },
+  {
+    "text": "ran the office of information and regulatory affairs. It was not a nudge unit per se, like the ones",
+    "uid": "ca6920ea772517c2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1499.3,
+    "end": 1506.82
+  },
+  {
+    "text": "adopted by other governments around the world, but it did bring a bit of nudge theory to the realm of",
+    "uid": "be55584fbcf42a9f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1506.82,
+    "end": 1512.18
+  },
+  {
+    "text": "federal policymaking. The idea was that some nudge might be useful, even with large, complex,",
+    "uid": "a415df989a13dd96",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1512.18,
+    "end": 1519.38
+  },
+  {
+    "text": "and seemingly intractable problems. Climate change, for instance. The revised edition of Nudge has a heavily",
+    "uid": "d61db97389fb78df",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1519.38,
+    "end": 1526.58
+  },
+  {
+    "text": "revised chapter called Saving the Planet. We're quite explicit that we don't think nudging is the answer",
+    "uid": "6c2dd4a135bf71b4",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1526.58,
+    "end": 1535.75
+  },
+  {
+    "text": "and on climate change, we are pro-carbon tax, as is every economist that I know. You got to",
+    "uid": "a50e3430466136c2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1536.63,
+    "end": 1544.87
+  },
+  {
+    "text": "get the prices right. Then, Nudge can help and every 1% helps. But you describe it as a perfect storm.",
+    "uid": "a69dd98d486f070f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1544.87,
+    "end": 1554.79
+  },
+  {
+    "text": "We're all the behaviors that could happen. Do happen essentially. What do you mean by climate change being",
+    "uid": "5afcf9a5ae06e52f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1554.79,
+    "end": 1560.87
+  },
+  {
+    "text": "the perfect storm? Well, it's one big free rider problem. The literal free rider is somebody who",
+    "uid": "cf3637d48999f50c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1560.87,
+    "end": 1568.95
+  },
+  {
+    "text": "gets on the bus and doesn't pay. In economic terms, this term is used for somebody who isn't paying",
+    "uid": "beadb314cddc9f73",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1568.95,
+    "end": 1577.27
+  },
+  {
+    "text": "their fair share or on the flip side is causing more than their share of harm. If you don't clean",
+    "uid": "77fcdc8404bbdfd3",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1577.27,
+    "end": 1587.35
+  },
+  {
+    "text": "your furnace and emit a lot of dirty smoke or you drive a hammer or some other gas-guzzling car,",
+    "uid": "7d8ea9bf2d375b22",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1587.43,
+    "end": 1595.67
+  },
+  {
+    "text": "you're causing harm to everybody and the share of that that you bear is my note. Now, what makes",
+    "uid": "f8c3e9a99843e18c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1596.63,
+    "end": 1607.27
+  },
+  {
+    "text": "that worse is the exact same thing as true for countries. The US and Europe have gotten rich by",
+    "uid": "81367812a567e3e8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1607.27,
+    "end": 1615.75
+  },
+  {
+    "text": "emitting a lot of carbon and now countries like China and India are trying to catch up and we have",
+    "uid": "8fd8c4e2d8e450f4",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1615.75,
+    "end": 1625.19
+  },
+  {
+    "text": "to come to some fair deal and that's difficult. You rate that it helps to think about climate change as a",
+    "uid": "df69177403930ca9",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1625.19,
+    "end": 1633.11
+  },
+  {
+    "text": "global choice architecture problem. The findings of psychology and behavioral economics can help us",
+    "uid": "2cfd5df6c0015cff",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1633.11,
+    "end": 1639.35
+  },
+  {
+    "text": "understand how to make progress. Okay, failure. What do you got then? What are your best",
+    "uid": "fddc7186635c4a26",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1639.35,
+    "end": 1645.11
+  },
+  {
+    "text": "nudge adjacent solutions for this incentive-based problem-solving? Let me explain a little game",
+    "uid": "7c6dec8d0153d480",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1645.11,
+    "end": 1652.87
+  },
+  {
+    "text": "called the public goods game. We get say 10 people in a room and we give them each $5.5 singles.",
+    "uid": "9bf43f4d5fd5b956",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1652.87,
+    "end": 1662.31
+  },
+  {
+    "text": "And we say you can contribute as many as five of those into the public good and we're going to",
+    "uid": "1b2c704385452362",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1662.95,
+    "end": 1671.19
+  },
+  {
+    "text": "take all that money that was contributed and double it and then divvy it up among all 10 of you. So if all",
+    "uid": "efcc2e1bcca56c46",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1671.19,
+    "end": 1678.39
+  },
+  {
+    "text": "50 goes into the pot and you double it to 100 but then divide it back by the 10 of us, I could double my money.",
+    "uid": "f9bae7a7cae6f143",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1678.39,
+    "end": 1684.87
+  },
+  {
+    "text": "I get 10 bucks instead of the five. Exactly. If everybody does it. If everybody does it. So we all",
+    "uid": "c00fe5072ed5ce3f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1684.87,
+    "end": 1691.43
+  },
+  {
+    "text": "contribute everything and we double our money. Now, on the other hand, the problem is that if I put in",
+    "uid": "ab9809b1cf15c469",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1691.43,
+    "end": 1698.47
+  },
+  {
+    "text": "all $5, it becomes 10 but I only got a tenth of that. So that's a bad deal. If the others don't.",
+    "uid": "32ec5dbdd4279abf",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1698.47,
+    "end": 1706.47
+  },
+  {
+    "text": "The early experiments showed that initially when people play this game they cooperate. They put in their",
+    "uid": "20f1ecad07116843",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1707.11,
+    "end": 1713.99
+  },
+  {
+    "text": "money. They're assuming that the others will do the generous thing. Yeah, they are conditional cooperators.",
+    "uid": "c9180f0b03f45ed8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1713.99,
+    "end": 1721.27
+  },
+  {
+    "text": "They will cooperate, assuming others will. But if they see that some people are free writing,",
+    "uid": "a9852b2f3f2cd200",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1721.99,
+    "end": 1730.79
+  },
+  {
+    "text": "then they start to contribute less. But the way the game is played, you don't know what other people are",
+    "uid": "972cb1cb604da5ff",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1730.79,
+    "end": 1736.15
+  },
+  {
+    "text": "going to do, correct? Right. On the first trial, about half the money gets donated. But as you repeat it,",
+    "uid": "11ab57cdb0fc23c9",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1736.15,
+    "end": 1744.31
+  },
+  {
+    "text": "that goes down to something very low. So people learn that other people are jerks. They're learning",
+    "uid": "0d3ee62be94aaaf6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1744.39,
+    "end": 1752.23
+  },
+  {
+    "text": "that free writers are writing free and they don't like it. They want to punish them. Punishment is the key",
+    "uid": "3d8c8b17d8097345",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1752.23,
+    "end": 1757.43
+  },
+  {
+    "text": "word. So two Swiss economists have run an experiment where they allow people to punish bad actors. So",
+    "uid": "e0abd434648169ff",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1757.43,
+    "end": 1768.07
+  },
+  {
+    "text": "if I see that player SD, thanks a lot, is not contributing. Then I can privately pay a dollar",
+    "uid": "34dace6f1c036529",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1768.55,
+    "end": 1779.11
+  },
+  {
+    "text": "to take $2 a way from him. So I lose but he loses more. Right. According to economic theory, I will never do that.",
+    "uid": "ed4709783b171b75",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1779.91,
+    "end": 1787.59
+  },
+  {
+    "text": "Right. Why would I want to lose any of my money for some smell? But people will try to teach people",
+    "uid": "72fa9e0d7639077c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1787.59,
+    "end": 1793.43
+  },
+  {
+    "text": "a lesson. So the first surprising surprising to economists thing is people use this punishment tool,",
+    "uid": "d32c7ae4d8ab9270",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1793.43,
+    "end": 1801.35
+  },
+  {
+    "text": "even though it hurts themselves. And the second surprising thing is it works. The people who've been",
+    "uid": "1b9524e6b155c3d8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1801.35,
+    "end": 1807.51
+  },
+  {
+    "text": "punished say, okay, I guess I'm supposed to cooperate. And how does that relate to the actual climate change",
+    "uid": "630e9aa872e7857d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1807.51,
+    "end": 1815.43
+  },
+  {
+    "text": "situation? So a bill-nord house, a Nobel laureate in economics, has suggested creating what he calls",
+    "uid": "679511f04a1a533d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1815.43,
+    "end": 1823.11
+  },
+  {
+    "text": "climate clubs. I'm not sure that's the best name, but the idea would be it's very much like the Paris",
+    "uid": "59533cf144d227f0",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1823.11,
+    "end": 1830.23
+  },
+  {
+    "text": "accord that countries would agree that we're all going to reduce our emissions and that if anybody doesn't",
+    "uid": "0229215e3034efb8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1830.23,
+    "end": 1840.23
+  },
+  {
+    "text": "live up to their promise, they'll be punished via tariffs. So if country x, which might look a little",
+    "uid": "24578f3b729dabda",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1840.23,
+    "end": 1847.27
+  },
+  {
+    "text": "bit like China, let's say, says we're in but then they don't hold up their end of the bargain.",
+    "uid": "b6a14e6915c2a4f6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1847.27,
+    "end": 1852.55
+  },
+  {
+    "text": "We collectively punish that country by imposing tariffs on the goods that they make. That's the idea.",
+    "uid": "a999cceb358de297",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1853.11,
+    "end": 1857.99
+  },
+  {
+    "text": "Right. Okay, but what if they're not a country that sells a lot of stuff around the world?",
+    "uid": "8b163aad2142c42a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1857.99,
+    "end": 1862.47
+  },
+  {
+    "text": "Well, there may have to be other ways to punish them. Presumably there might be some countries who",
+    "uid": "22dcc05b7b753ff6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1863.03,
+    "end": 1868.79
+  },
+  {
+    "text": "find it cheaper or in their interest to pay the fine, essentially, rather than cooperate by cutting",
+    "uid": "3d1fabc3afdb0ee4",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1868.79,
+    "end": 1876.23
+  },
+  {
+    "text": "emissions so much. Is there anything you can do other than punish them or kick them out?",
+    "uid": "543670277341f887",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1876.23,
+    "end": 1881.43
+  },
+  {
+    "text": "I think that being a member of the global society is pretty valuable. So I think in principle,",
+    "uid": "a7aca43a33e76fbf",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1881.43,
+    "end": 1889.75
+  },
+  {
+    "text": "it's possible we've put sanctions on various countries. Now they don't always work, North Korea say,",
+    "uid": "05e9766bf13ebdfe",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1890.55,
+    "end": 1898.87
+  },
+  {
+    "text": "but I think this is the outline of a solution. It's interesting, though sanctions often fail",
+    "uid": "40ff4f271154a088",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1899.75,
+    "end": 1908.87
+  },
+  {
+    "text": "in the political realm. In other words, we put sanctions on, as you said, North Korea or Iran,",
+    "uid": "72d9dc4bdca30adc",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1908.87,
+    "end": 1914.07
+  },
+  {
+    "text": "and they don't quote, do what we want them to do. Do you have any reason to believe that this kind of",
+    "uid": "2363f3c18137316c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1914.07,
+    "end": 1919.83
+  },
+  {
+    "text": "dynamic would work better in climate change scenario than a geopolitical scenario? Well, I'm hopeful for it.",
+    "uid": "41c30a39d4d6f78f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1919.83,
+    "end": 1928.31
+  },
+  {
+    "text": "It's the best solution I can think of. And the reason is that we are all in this together.",
+    "uid": "15ae6e190f78c87a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1929.19,
+    "end": 1937.27
+  },
+  {
+    "text": "Climate change is going to make things worse for everyone. So there is an incentive for us to",
+    "uid": "104326d1c0a3eec0",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1938.23,
+    "end": 1947.67
+  },
+  {
+    "text": "figure this out. But all the cognitive biases or blind spots we have that you write about in",
+    "uid": "272b974c65ea9619",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1947.67,
+    "end": 1954.63
+  },
+  {
+    "text": "that we only really think about things that are in front of us that are salient. We think about",
+    "uid": "c9620d50856fd780",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1955.59,
+    "end": 1959.91
+  },
+  {
+    "text": "ourselves more than other people. All those seem to inspire to prevent the Kumbayaish solution you're",
+    "uid": "6f27ab84c491b841",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1959.91,
+    "end": 1968.31
+  },
+  {
+    "text": "describing for climate change. That's why we can't solve climate change with nudging, but we can't",
+    "uid": "8069b5c10fdb0adf",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1968.31,
+    "end": 1976.63
+  },
+  {
+    "text": "solve it without nudging. The whole purpose of this climate club thing is to get a global",
+    "uid": "527f6ac251be3ff9",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1976.63,
+    "end": 1983.51
+  },
+  {
+    "text": "carbon tax or the equivalent. All right. Now we've got prices set. And so now it's going to cost",
+    "uid": "285e26891af17899",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1983.59,
+    "end": 1991.51
+  },
+  {
+    "text": "you twice as much to heat and cool your house. Well, we can now use some technology and nudging",
+    "uid": "803659df6de2486f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 1991.51,
+    "end": 2001.59
+  },
+  {
+    "text": "to help you manage that. If there's variable pricing, maybe your thermostat starts to beep",
+    "uid": "81eebc786bd0bf09",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2002.47,
+    "end": 2011.43
+  },
+  {
+    "text": "if the cost of cooling or heating has suddenly gone up or you can program it to automatically",
+    "uid": "446381f27b3792c3",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2012.31,
+    "end": 2021.19
+  },
+  {
+    "text": "adjust. There's lots of possibilities of helping people,",
+    "uid": "8ef4d7c2c4fd06be",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2021.19,
+    "end": 2026.31
+  },
+  {
+    "text": "automatize some of the things they want to do and make it more salient. But we've got to get the prices right",
+    "uid": "0e6829044801a8c6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2027.51,
+    "end": 2035.67
+  },
+  {
+    "text": "Here is a relevant passage from the 2021 edition of Nudge. It addresses the concern that carbon",
+    "uid": "53aa4c48b98c2e22",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2036.63,
+    "end": 2043.03
+  },
+  {
+    "text": "taxes will necessarily hurt the economy. Sweden currently has the highest carbon price in the world",
+    "uid": "830cabf2aa765847",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2043.03,
+    "end": 2049.75
+  },
+  {
+    "text": "about $130 per metric ton. Since the tax was introduced in 1991 at about $28, and gradually",
+    "uid": "210f67b4f17742c6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2049.75,
+    "end": 2058.55
+  },
+  {
+    "text": "increased to its current level, the country has seen an 83% increase in real GDP comparable to that",
+    "uid": "3a521ee0e875186f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2058.55,
+    "end": 2065.91
+  },
+  {
+    "text": "of other OECD member countries and a 27% decrease in emissions. Though the tax increased gasoline prices,",
+    "uid": "9178288ddf770faf",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2065.91,
+    "end": 2073.83
+  },
+  {
+    "text": "the response to the tax promoted significantly larger behavioral changes than would be expected",
+    "uid": "f6b02cfd45207d6a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2073.83,
+    "end": 2079.59
+  },
+  {
+    "text": "under a gasoline price increase alone. There is a general lesson here. If a tax is understood to be responding",
+    "uid": "c635639902611bbc",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2079.59,
+    "end": 2087.51
+  },
+  {
+    "text": "to a serious problem, people might respond even more than they would to the purely economic incentive.",
+    "uid": "74d893a7f3242989",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2087.59,
+    "end": 2093.83
+  },
+  {
+    "text": "In this context, they might hear a signal that it's good to reduce greenhouse gas emissions,",
+    "uid": "4b3d72f12763c665",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2094.71,
+    "end": 2100.31
+  },
+  {
+    "text": "and they might be willing to do that even if it's not in their economic interest. Humans are like that.",
+    "uid": "84e6914e84167d11",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2100.63,
+    "end": 2106.15
+  },
+  {
+    "text": "Coming up after the break, house successful is Nudge and why is there the need for so much",
+    "uid": "346261c962cb6861",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2108.07,
+    "end": 2115.35
+  },
+  {
+    "text": "we should talk about sludge. The epic showdown, Nudge versus sludge, right after this break.",
+    "uid": "8a71bbbb18f15a03",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2116.23,
+    "end": 2123.35
+  },
+  {
+    "text": "A lot of the dissent in the US in particular, especially in the political realm, is based around",
+    "uid": "77a32881b3fca8ad",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2131.54,
+    "end": 2139.46
+  },
+  {
+    "text": "these my way or the highway, black or white choices. And we rarely talk about serious policy things and",
+    "uid": "e338e39f0a2558e4",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2139.46,
+    "end": 2147.86
+  },
+  {
+    "text": "social things as both and versus either or. I'm curious whether this is a tactic that you and",
+    "uid": "75726255ffd61358",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2147.86,
+    "end": 2156.98
+  },
+  {
+    "text": "others have used, is it recent am I late in noticing it and how effective is it?",
+    "uid": "1dfb9b5d08ad3bd2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2156.98,
+    "end": 2162.26
+  },
+  {
+    "text": "My philosophy has been in designing policies to use everything that we know that works. So let me give",
+    "uid": "bd8679ec067adea5",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2163.22,
+    "end": 2174.34
+  },
+  {
+    "text": "you an example and it's this program that my former student Shlomo Ben Arzzi and I created called Save More Tomorrow.",
+    "uid": "2d3b6796a2c4bcf4",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2174.34,
+    "end": 2184.34
+  },
+  {
+    "text": "And the idea was there are some people that are saving too little in their retirement plan.",
+    "uid": "96696d94dc04fd6e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2185.54,
+    "end": 2193.86
+  },
+  {
+    "text": "How can we help them? And fidelity, the big mutual fund company once asked me to come give a talk",
+    "uid": "f16f65064bda6e30",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2193.86,
+    "end": 2201.94
+  },
+  {
+    "text": "and they asked me to talk about this question. I hadn't written anything about it, but I",
+    "uid": "171fdf50f3a402dd",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2202.5,
+    "end": 2207.54
+  },
+  {
+    "text": "thought about it some and created this plan. And we should say they're not unself interested.",
+    "uid": "09d6a951ffe5ef50",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2207.54,
+    "end": 2214.5
+  },
+  {
+    "text": "That's correct for self-serving and other reasons they would like people to be saving more.",
+    "uid": "8cfd1cc12e7e686d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2214.5,
+    "end": 2222.18
+  },
+  {
+    "text": "So we go to people and say, would you like to sign up for a plan where we will increase your retirement",
+    "uid": "f0ad8b770cb334ab",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2222.9,
+    "end": 2232.66
+  },
+  {
+    "text": "saving? Soon, like in a few months. Increase your saving meaning take a little bit larger share out of your",
+    "uid": "ba1c34e6f8424720",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2232.66,
+    "end": 2239.54
+  },
+  {
+    "text": "own check. Right. So let's suppose you're saving 5% of your salary, which is woefully inadequate.",
+    "uid": "056a990683911efb",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2239.54,
+    "end": 2246.42
+  },
+  {
+    "text": "We say, okay, how about when you get your next raise, we increase it by 1 or 2 percentage points.",
+    "uid": "0c15f4040b9c59a6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2247.14,
+    "end": 2254.42
+  },
+  {
+    "text": "And we do that every year until you reach some sensible level of saving. Whatever that might be,",
+    "uid": "8e10b6e8a64339cf",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2254.42,
+    "end": 2262.34
+  },
+  {
+    "text": "10%, 12%. So what does this do? First of all, it's using the fact that we all have",
+    "uid": "a2ae5e5c0650d623",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2263.22,
+    "end": 2271.78
+  },
+  {
+    "text": "more self-control in the future. A saint Augustine said, God give me chastity, but not yet.",
+    "uid": "5e1e3ff4b59147b8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2272.66,
+    "end": 2280.98
+  },
+  {
+    "text": "Many of us are planning diet, starting, say, after the next holiday. So we're asking people whether",
+    "uid": "b3e594dd81218a06",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2281.94,
+    "end": 2290.9
+  },
+  {
+    "text": "they would want to start saving more later. That's why we call save more tomorrow. Which happens to",
+    "uid": "d40518c991cc1085",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2290.9,
+    "end": 2297.46
+  },
+  {
+    "text": "initialize itself to smart, which is a good idea. Then the second thing was we were linking it to raises.",
+    "uid": "e91a4d0cc3fce91b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2297.46,
+    "end": 2305.38
+  },
+  {
+    "text": "And the reason was that we know about loss of version that people are more sensitive to losing than to winning.",
+    "uid": "ef9ab4eef01362e3",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2306.1,
+    "end": 2313.7
+  },
+  {
+    "text": "And we know that people make those calculations not adjusting for inflation. So if they get a 3% raise,",
+    "uid": "b7c8e589a55d945d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2314.42,
+    "end": 2325.22
+  },
+  {
+    "text": "even if inflation is 2%, they're thinking about as 3%. And so if they never see their paycheck go down,",
+    "uid": "42637b962e4cd2a7",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2326.1,
+    "end": 2335.54
+  },
+  {
+    "text": "that's going to help. And so this was throw the kitchen sink at the problem. And that's been my philosophy.",
+    "uid": "ec55f8134af33d94",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2336.74,
+    "end": 2345.14
+  },
+  {
+    "text": "Later on, we realized that the only component of this, that's really crucial,",
+    "uid": "50c519da034be76a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2345.94,
+    "end": 2352.74
+  },
+  {
+    "text": "is making the raises automatic and getting people signed up. So this came to be called auto escalation",
+    "uid": "b698b569b0c95b9b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2353.54,
+    "end": 2362.26
+  },
+  {
+    "text": "and another component of retirement savings that you've promoted and written about is called",
+    "uid": "70f8a0444b9ab58a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2363.06,
+    "end": 2367.86
+  },
+  {
+    "text": "auto enrollment, meaning when I'm an employee at a firm rather than having to fill out 20 pages to get",
+    "uid": "c574c8cdf34c06b4",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2367.86,
+    "end": 2373.54
+  },
+  {
+    "text": "into the retirement savings program, I'm just automatically enrolled unless I choose to opt out. So",
+    "uid": "7862b2e938b0c779",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2373.54,
+    "end": 2378.82
+  },
+  {
+    "text": "to me, these are the great successes. Laws were passed and researched by you and Shlomo Benarzi",
+    "uid": "c09c3684070bb262",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2379.38,
+    "end": 2387.06
+  },
+  {
+    "text": "and others was invoked to really really change the trajectory of the retirement savings of",
+    "uid": "3d7f402ac4ea1b6f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2387.06,
+    "end": 2392.9
+  },
+  {
+    "text": "probably millions and maybe some day billions of people. So that's awesome. That said,",
+    "uid": "ba36a9a9bc672c6b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2392.9,
+    "end": 2398.82
+  },
+  {
+    "text": "I knew there was something coming. And I don't mean to imply that this wasn't a really smart",
+    "uid": "1e9f7f536806f499",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2399.38,
+    "end": 2404.26
+  },
+  {
+    "text": "idea in solution. I think it really was. It shouldn't have taken that in the first place.",
+    "uid": "3da107fe08da8b79",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2404.26,
+    "end": 2409.54
+  },
+  {
+    "text": "It's my skeptics view of it. It should have been made more attractive for people to save more",
+    "uid": "b793127c192412e8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2409.54,
+    "end": 2415.78
+  },
+  {
+    "text": "in the first place rather than having to nudge people into it. You're nudging has done a lot of good in",
+    "uid": "eb952cbb2895c01c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2416.5,
+    "end": 2423.46
+  },
+  {
+    "text": "the world I would argue, but wouldn't it be almost obvated if there was more good design thought",
+    "uid": "c9427a1034443fb2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2423.46,
+    "end": 2430.26
+  },
+  {
+    "text": "that goes into the origin of programs rather than having to fix things that are so entrenched?",
+    "uid": "45f796db4c66df49",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2430.26,
+    "end": 2435.46
+  },
+  {
+    "text": "And I couldn't convince anybody to do that. And one of the reasons was that at a terrible",
+    "uid": "349394ba99981ed3",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2460.74,
+    "end": 2466.74
+  },
+  {
+    "text": "name it was called negative election. Oh yeah, let's get behind my program of negative election.",
+    "uid": "f536388cfec72b9d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2466.74,
+    "end": 2477.14
+  },
+  {
+    "text": "A similar one is reverse mortgages. Now reverse mortgages can have a sleazy part to them,",
+    "uid": "ca6bb5ae841237cd",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2478.1,
+    "end": 2485.06
+  },
+  {
+    "text": "but there are many people who live in places where real estate is going up a lot. Say in California",
+    "uid": "f9940733947c7a5c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2485.7,
+    "end": 2493.78
+  },
+  {
+    "text": "that a reverse mortgage makes a huge amount of sense in that they're sitting on say $2 million worth",
+    "uid": "1ae8609de29951fc",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2494.58,
+    "end": 2504.82
+  },
+  {
+    "text": "of real estate that dwarfs their other assets their cash poor and house rich. And figuring out",
+    "uid": "ce7b5f5e40bd1ff0",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2504.82,
+    "end": 2515.86
+  },
+  {
+    "text": "a way to help people do that is smart. Then calling it a reverse mortgage, it should just be called like",
+    "uid": "86e6412430e2376c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2515.86,
+    "end": 2523.62
+  },
+  {
+    "text": "the biggest piggy bank in the world. Yeah, it should be spend more today. Live a little.",
+    "uid": "cc56c161244ee466",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2523.62,
+    "end": 2529.06
+  },
+  {
+    "text": "Get a life. I mean, you almost can't think of a name worse than reverse mortgage. We should",
+    "uid": "7a9ca2bca04ac008",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2530.02,
+    "end": 2540.58
+  },
+  {
+    "text": "talk about sludge. We will. I promise. And I have a suggestion for an excerpt, which is the sentence we",
+    "uid": "ad06f43084dab2ed",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2540.58,
+    "end": 2550.82
+  },
+  {
+    "text": "snuck in about how painful it was to do the galleys. Okay, I serve at the pleasure of Richard Thaler.",
+    "uid": "4462616cec26ec58",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2550.82,
+    "end": 2562.42
+  },
+  {
+    "text": "Here's the excerpt he wants you to hear from the new edition of Nudge about revising the galleys. That's",
+    "uid": "a680a44bb24b5909",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2562.42,
+    "end": 2568.74
+  },
+  {
+    "text": "the nearly final version of a book that authors are allowed to edit before the book is published.",
+    "uid": "fce5fd9f8fde8936",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2568.74,
+    "end": 2573.94
+  },
+  {
+    "text": "The software are publishers provided when we were proofreading the galleys of this book was so",
+    "uid": "9d124919ba4f11f9",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2576.23,
+    "end": 2581.19
+  },
+  {
+    "text": "sludge written that Sunstein gave up and typed up a list of changes. We couldn't help but wonder whether",
+    "uid": "6467888fc84219cf",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2581.19,
+    "end": 2588.07
+  },
+  {
+    "text": "this bit of sludge was designed to reduce the number of last minute changes we introduced such as this one.",
+    "uid": "5d3eda9d05e5d61c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2588.07,
+    "end": 2594.23
+  },
+  {
+    "text": "Yeah, it's not good. And I almost sure that no one at Penguin knows that sentence is in there.",
+    "uid": "6385fa898ef5d1fb",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2597.11,
+    "end": 2604.63
+  },
+  {
+    "text": "So while we're here, you write it length about the omnipresence of what you call sludge to find that for me.",
+    "uid": "82120c78e14bee20",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2605.19,
+    "end": 2611.75
+  },
+  {
+    "text": "So let's remember what is sludge literally. It's this thick gooey by product of some",
+    "uid": "1723c6e658a2be54",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2612.23,
+    "end": 2619.75
+  },
+  {
+    "text": "industrial process that just gunks up the works. And the prototypical nudge, like automatic enrollment,",
+    "uid": "858fb8e5dbe84551",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2619.75,
+    "end": 2628.31
+  },
+  {
+    "text": "the principle is make it easy. Sludge makes things difficult. And so there's lots of different",
+    "uid": "3f7166fd55e46a41",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2628.79,
+    "end": 2636.71
+  },
+  {
+    "text": "kinds of sludge from massive forms you have to fill out to apply for student aid if you're",
+    "uid": "b7458aad4a56d781",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2636.71,
+    "end": 2645.75
+  },
+  {
+    "text": "going to college. And also business practices that involve sludge. And of course, the fact that it rhymes with",
+    "uid": "8eab07c210bf362e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2646.31,
+    "end": 2654.63
+  },
+  {
+    "text": "nudge is amusing. I'm curious if you can give us any sense of the cost of sludge on a much larger scale,",
+    "uid": "5265be2b30b19cd0",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2654.63,
+    "end": 2662.39
+  },
+  {
+    "text": "the sludge that prevents economic activity or entrepreneurialism. Any sense of the magnitude?",
+    "uid": "550dc4bc854b30bd",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2663.11,
+    "end": 2669.51
+  },
+  {
+    "text": "No, and I don't know how you would even go about it. But once you start to pay attention to it,",
+    "uid": "47ee9b0ac6f2bc6a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2670.31,
+    "end": 2677.91
+  },
+  {
+    "text": "you see it's everywhere. I was running some experiment and had to fill out some compliance form",
+    "uid": "cf677cc26358d545",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2677.91,
+    "end": 2688.87
+  },
+  {
+    "text": "at a well-known university in Cambridge, Massachusetts. I filled out the form. It was three",
+    "uid": "a6f37000a3914405",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2689.43,
+    "end": 2697.91
+  },
+  {
+    "text": "online pages. And I got to the end and clicked finish. And I sent an email to the person who had been",
+    "uid": "078503e0520c9c83",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2697.91,
+    "end": 2707.19
+  },
+  {
+    "text": "pestering me to fill out the damn form and said, I'm done. And the next day I get an email from her saying,",
+    "uid": "e12f49444c793f23",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2707.19,
+    "end": 2713.75
+  },
+  {
+    "text": "no, you're not done. I said, what do you mean? It says, well, actually when you click finish,",
+    "uid": "bcc2d87a6cbacc45",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2713.75,
+    "end": 2719.51
+  },
+  {
+    "text": "you have to then go back to the first page and press submit. Now to me finish, kind of means you're done.",
+    "uid": "cc09b1c7a3acb011",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2720.39,
+    "end": 2729.03
+  },
+  {
+    "text": "So this version is not evil. This is just pure incompetence. Now how much of this do you attribute to",
+    "uid": "dc1c7ffe6b7371e1",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2729.67,
+    "end": 2739.67
+  },
+  {
+    "text": "what you economists call the principal agent problem that the people who are making the decision or",
+    "uid": "369e9cb519ede90b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2739.67,
+    "end": 2745.83
+  },
+  {
+    "text": "the ruler, whatever, not the ones who had benefit or be hurt by it? I'm not sure. I think the much bigger",
+    "uid": "81a40aef90915c55",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2745.83,
+    "end": 2753.27
+  },
+  {
+    "text": "problem is what we call curse of knowledge, which is the idea that once you know something,",
+    "uid": "400a36f0a0038fd3",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2753.27,
+    "end": 2760.95
+  },
+  {
+    "text": "it's hard for you to put yourself into the position of someone who doesn't. It's hard to explain.",
+    "uid": "54f293fada0b7011",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2761.83,
+    "end": 2767.91
+  },
+  {
+    "text": "And people who write code, first of all, are doing it on the next generation computers,",
+    "uid": "a0945799de44ae1e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2768.63,
+    "end": 2776.95
+  },
+  {
+    "text": "super fast. And they know how everything works. The home mortgage market, as you write in",
+    "uid": "d69165abe80297ea",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2777.67,
+    "end": 2784.95
+  },
+  {
+    "text": "Nudge, is highly decentralized and competitive. And therefore, if one reads what economists generally",
+    "uid": "e9393aec5731ce33",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2784.95,
+    "end": 2793.59
+  },
+  {
+    "text": "say about centralization and competition, you'd think that there'd be incentive to make mortgage",
+    "uid": "63eff9e5125fa8ad",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2793.59,
+    "end": 2800.71
+  },
+  {
+    "text": "information transparent and user friendly. But as anyone who's ever gotten a mortgage knows, the process",
+    "uid": "054bccf5cd98d118",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2800.71,
+    "end": 2807.27
+  },
+  {
+    "text": "is not transparent and user friendly. So this is a case where there's tons of sludge. A lot of people",
+    "uid": "51858a8fc8591a7a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2807.27,
+    "end": 2814.31
+  },
+  {
+    "text": "make poor decisions. Why has a decentralized and competitive market not solved a problem like that? I mean,",
+    "uid": "0cf639d19f7ee3d1",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2814.31,
+    "end": 2822.23
+  },
+  {
+    "text": "the cynic in me just says, the lobby is better than the regulators. The lobby is better than",
+    "uid": "3713404718ee0d36",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2822.23,
+    "end": 2828.47
+  },
+  {
+    "text": "the regulators. The cynic in you is right. And even a little bit of monopoly power goes a long way.",
+    "uid": "89545a0aa929fb34",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2828.47,
+    "end": 2836.31
+  },
+  {
+    "text": "On a busy road, if the gas station on the other side of the street is 10 cents cheaper, how much",
+    "uid": "9e56b571a8a8b2f7",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2837.19,
+    "end": 2845.35
+  },
+  {
+    "text": "out of your way are willing to go? Now, if you're my father who is no longer with us, he would drive",
+    "uid": "cf328bb8646a91dd",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2845.35,
+    "end": 2854.47
+  },
+  {
+    "text": "around burning a lot of gas to make sure you got the cheapest price. But if you're not him, you're going",
+    "uid": "8ff59ffff3e07bf0",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2854.47,
+    "end": 2861.99
+  },
+  {
+    "text": "to stop at some point and surrender basically. Right. And so we have proposals along the lines of",
+    "uid": "863146c89162a44d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2861.99,
+    "end": 2871.27
+  },
+  {
+    "text": "smart disclosure of making every feature of a mortgage available online, which would allow you to shop",
+    "uid": "e30d43b2780e6db1",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2871.27,
+    "end": 2881.51
+  },
+  {
+    "text": "more intelligently. And that's the way to fix that. When you write about smart disclosure, one example",
+    "uid": "b529eb994a7e4124",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2881.51,
+    "end": 2887.43
+  },
+  {
+    "text": "you use is that it would make switching banks much easier because if you're allowed to marshal all your",
+    "uid": "24d379ef39238074",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2887.43,
+    "end": 2895.27
+  },
+  {
+    "text": "existing financial information into one place and you control the data and so on. But given the",
+    "uid": "16f4d7a52afeaef3",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2895.27,
+    "end": 2903.03
+  },
+  {
+    "text": "remarkable abilities of cyber criminal these days, isn't that maybe moving in the wrong direction?",
+    "uid": "0e71d286d3e6c593",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2903.03,
+    "end": 2909.51
+  },
+  {
+    "text": "I'm sure you have accounts with some financial services companies, a bank and a brokerage or something.",
+    "uid": "a1c5f38d2523db64",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2909.51,
+    "end": 2919.27
+  },
+  {
+    "text": "Right. You keep your money somewhere. I mean, I have a very large mattress. Yeah. Which rule?",
+    "uid": "2f22146523e356b7",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2919.27,
+    "end": 2924.39
+  },
+  {
+    "text": "Case I happen to be visiting. But so they use two factor authentication and so forth.",
+    "uid": "3621cb111d9608b8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2925.59,
+    "end": 2932.55
+  },
+  {
+    "text": "I don't think they are likely to steal from you that way. Oh, I'm not worried about my institution",
+    "uid": "b25bbc5fb73fc284",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2933.11,
+    "end": 2939.51
+  },
+  {
+    "text": "stealing from me. But if you're talking about how there's so much sludge in the system, whether I'm",
+    "uid": "1ef2aca7758c1351",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2939.51,
+    "end": 2946.15
+  },
+  {
+    "text": "trying to get a mortgage, just have a good financial set up and so on. And that one potential solution",
+    "uid": "a25d6f33e815eccd",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2946.15,
+    "end": 2952.55
+  },
+  {
+    "text": "is to have all my financial information in one place. Oh, no, no, no. I'm not suggesting that. I'm",
+    "uid": "fb690639b23d4da0",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2952.55,
+    "end": 2960.63
+  },
+  {
+    "text": "saying you should just have access to it. In the UK, there was a bill passed that if you want to switch banks,",
+    "uid": "b894462cef55e4d0",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2960.63,
+    "end": 2966.87
+  },
+  {
+    "text": "they have to make it easy. So you can export all your automatic payments, I see. Now that makes banking",
+    "uid": "32c84e37885fbfa5",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2967.59,
+    "end": 2975.03
+  },
+  {
+    "text": "more competitive. Now it turns out people are lazy and there's a lot of inertia. So it hasn't",
+    "uid": "11f58db881b4a388",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2975.11,
+    "end": 2982.95
+  },
+  {
+    "text": "been transformative. But it's the kind of law that I would like. And you know what it's equivalent to.",
+    "uid": "dc2c7c20f3276f4b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2982.95,
+    "end": 2990.31
+  },
+  {
+    "text": "Remember when it used to be that if you wanted to switch cell phone providers, you had to get a new number.",
+    "uid": "38f337b23aa781c2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2991.03,
+    "end": 2997.67
+  },
+  {
+    "text": "So there was a law passed that says you can keep your number. The banking law there says you can keep",
+    "uid": "41ab4623ab381b1e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 2998.31,
+    "end": 3005.27
+  },
+  {
+    "text": "your auto pace with no sludge. Here's one last excerpt from Nudge the final edition.",
+    "uid": "7635bf1a328d83d6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3005.27,
+    "end": 3011.75
+  },
+  {
+    "text": "Governments both create and reduce sludge. In recent years, the United States government has imposed a",
+    "uid": "d7e1ea7a07e9ed8a",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3013.83,
+    "end": 3020.31
+  },
+  {
+    "text": "whopping 11 billion hours in annual paperwork burdens on the American people. This number includes burdens",
+    "uid": "a1aa93dd7692802f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3020.31,
+    "end": 3027.43
+  },
+  {
+    "text": "imposed on hospitals, doctors, and nurses who have to spend a lot of time satisfying",
+    "uid": "2113d9cbfcecd5c5",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3027.43,
+    "end": 3032.31
+  },
+  {
+    "text": "government requirements. On poor people seeking to get benefits to which they're legally entitled.",
+    "uid": "c7370f9f4b58a589",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3032.31,
+    "end": 3037.75
+  },
+  {
+    "text": "On truckers who have to fill out a lot of forms. On students, colleges, and universities,",
+    "uid": "6083653fc15219ff",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3038.31,
+    "end": 3044.07
+  },
+  {
+    "text": "on people who are seeking visas to study your work in the United States. The cost of those 11 billion hours",
+    "uid": "febdb5b8b020630b",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3044.07,
+    "end": 3051.35
+  },
+  {
+    "text": "is not merely time. In many cases, sludge operates as a wall and people cannot find a way to get over it.",
+    "uid": "7f82a445f7698da3",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3051.35,
+    "end": 3058.63
+  },
+  {
+    "text": "As a result, they are blocked from getting permits, licenses, money, health care, or some other kind of",
+    "uid": "ef410f2c4a45ebe8",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3059.35,
+    "end": 3066.07
+  },
+  {
+    "text": "right or assistance. A sludge reduction effort would pay big dividends.",
+    "uid": "593599795f972290",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3066.07,
+    "end": 3070.55
+  },
+  {
+    "text": "Cast Sunstein, failures co-author on Nudge, wrote a book called Sludge. What stops us from getting things",
+    "uid": "41439ba8b94bc750",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3073.5,
+    "end": 3080.22
+  },
+  {
+    "text": "done and what to do about it. We made a two part, Freakonomics Radio series about sludge. The first",
+    "uid": "47d0e1ad2f16593e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3080.22,
+    "end": 3085.58
+  },
+  {
+    "text": "episode is called Sludge Part 1. The world is drowning in it. I want to end this conversation with",
+    "uid": "35e084f1861edef6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3085.58,
+    "end": 3092.14
+  },
+  {
+    "text": "Thaler by hearing whether he thinks the behavioral economics revolution will have legs or if this is",
+    "uid": "521bba81c7681166",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3092.14,
+    "end": 3097.82
+  },
+  {
+    "text": "maybe a fleeting moment. Well, I don't think it's a fleeting moment. I've often said that my goal is for the",
+    "uid": "3ddc46b0eb5a2bbc",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3097.82,
+    "end": 3106.06
+  },
+  {
+    "text": "field of behavioral economics to eventually disappear because economics will just become as behavioral",
+    "uid": "a240f5ec0a823793",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3106.06,
+    "end": 3113.26
+  },
+  {
+    "text": "as it should be. Are we on the way toward that? I think so. And one sign of that is that I see",
+    "uid": "a0909042aeab0076",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3113.26,
+    "end": 3122.06
+  },
+  {
+    "text": "behavioral economics papers being presented by people who don't identify as behavioral economists.",
+    "uid": "418fa2dce213387c",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3122.06,
+    "end": 3130.62
+  },
+  {
+    "text": "A health economist writes a paper about a mistake people are making in choosing health insurance",
+    "uid": "08070c87e2958b30",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3131.58,
+    "end": 3139.18
+  },
+  {
+    "text": "plans. But what I would say is there are opportunities to apply behavioral economics in all kinds of",
+    "uid": "406a05472ca587d2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3139.18,
+    "end": 3150.06
+  },
+  {
+    "text": "domains. And the place I think that's ready for a revolution is human resources. What are some of the",
+    "uid": "8e3471d54c1f0a1e",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3150.06,
+    "end": 3159.98
+  },
+  {
+    "text": "mistakes they're making? Can we start with job interviews? Those are pretty much useless.",
+    "uid": "29c0e2be683404c6",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3159.98,
+    "end": 3165.02
+  },
+  {
+    "text": "Because the relationship between the quality of the conversation and the quality of the worker 0 is almost 0,",
+    "uid": "6308ab2062b708a2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3165.66,
+    "end": 3173.66
+  },
+  {
+    "text": "almost 0. There's a quote from Obama. It's a three word quote in the new edition. Better is good. He said.",
+    "uid": "fa48e72e96a5cba1",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3173.66,
+    "end": 3183.88
+  },
+  {
+    "text": "Can you talk about that for a second? Yeah. So I gather from cast is that this was something he would",
+    "uid": "beab46fb43762841",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3183.88,
+    "end": 3190.52
+  },
+  {
+    "text": "often say if you're having some conversation about some policy that won't solve things. But we'll",
+    "uid": "985e34aa14989511",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3190.52,
+    "end": 3198.6
+  },
+  {
+    "text": "make things better. He would say, well, better is good. We could talk for the rest of the year about",
+    "uid": "98f483be219fe371",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3198.6,
+    "end": 3206.04
+  },
+  {
+    "text": "the problems that the world faces. And in each case, we should do what we can to make incremental changes.",
+    "uid": "21cb631fb13bcebc",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3206.04,
+    "end": 3216.28
+  },
+  {
+    "text": "Do you think that the embrace of incrementalism is something that comes with age?",
+    "uid": "296a2503d1a4328f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3216.92,
+    "end": 3222.2
+  },
+  {
+    "text": "Because when I look at the solutions proposed by people younger than you and younger than me,",
+    "uid": "fe6fa44bffc0a468",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3223.0,
+    "end": 3228.84
+  },
+  {
+    "text": "I do see more of the either or binary. I'm right. You are wrong or vice versa. As opposed to,",
+    "uid": "3e0443df47002402",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3230.12,
+    "end": 3236.76
+  },
+  {
+    "text": "hey, let's improve things two or three percent. If you do that for a bunch of years, you totally flip the",
+    "uid": "a0a22f6285b13b22",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3236.76,
+    "end": 3242.12
+  },
+  {
+    "text": "switch. I think we do start out more idealistic and we think, well, we should just solve this.",
+    "uid": "27a472033b68e45d",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3242.2,
+    "end": 3250.44
+  },
+  {
+    "text": "Right. That should never happen again anywhere. We should ban cruelty. And ban rich people.",
+    "uid": "240b2cdd39e81467",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3251.08,
+    "end": 3257.08
+  },
+  {
+    "text": "Everybody wants to get all their groceries delivered from Amazon, but they don't want Jeff",
+    "uid": "5974e68028a60838",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3257.8,
+    "end": 3264.68
+  },
+  {
+    "text": "to be able to buy that yacht. And how do you explain that sentiment as a behaviorally inclined",
+    "uid": "4af4d5895d2537ab",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3265.56,
+    "end": 3273.0
+  },
+  {
+    "text": "economist? It is the case that there's growing inequality and there's resentment about that.",
+    "uid": "9f8b33d30fb7ddec",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3273.0,
+    "end": 3281.08
+  },
+  {
+    "text": "On the other hand, the companies that have gotten so big like Apple and Google and Amazon",
+    "uid": "197df28a4880ddf2",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3282.2,
+    "end": 3290.92
+  },
+  {
+    "text": "have by and large done it by being better than everybody else. And that is our system.",
+    "uid": "89179f38f0c2b629",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3291.88,
+    "end": 3299.8
+  },
+  {
+    "text": "So we can debate what share, Larry Page and Jeff Bezos ought to get, but the system is creating",
+    "uid": "cf75ee2951d41bee",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3300.44,
+    "end": 3310.04
+  },
+  {
+    "text": "all these wasbang technologies that we all enjoy. What did I fail to ask you that I should have?",
+    "uid": "a0eff33cf0ba2f60",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3310.04,
+    "end": 3321.0
+  },
+  {
+    "text": "How did I get so good looking? I think we've covered that in previous episodes. Yeah, all right.",
+    "uid": "aaba8cedd2fc5b23",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3321.24,
+    "end": 3326.36
+  },
+  {
+    "text": "That again was Richard Thaylor talking about his book, Nudge the Final Edition.",
+    "uid": "007ce6f495214575",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3329.16,
+    "end": 3333.8
+  },
+  {
+    "text": "If you want to hear another show we did with Thaylor some years ago, check out episode 340. It's",
+    "uid": "23796dd3160a5559",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3334.52,
+    "end": 3339.24
+  },
+  {
+    "text": "called People Aren't Dumb. The world is hard. I'd love to know what you thought of this episode.",
+    "uid": "6acb0f1b88d6d124",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3339.24,
+    "end": 3345.0
+  },
+  {
+    "text": "Our email is radioatfreakonomics.com. We will be back very soon with a new episode. Until then,",
+    "uid": "148feebf9f1266d9",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3345.0,
+    "end": 3351.32
+  },
+  {
+    "text": "take care of yourself. And if you can, someone else too. Freakonomics Radio is produced by",
+    "uid": "4deba8216b4d6066",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3351.32,
+    "end": 3356.76
+  },
+  {
+    "text": "Stitcher and Renbud Radio. You can find our entire archive on any podcast app also at Freakonomics.com,",
+    "uid": "b69d66aff2d18fd0",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3356.76,
+    "end": 3363.16
+  },
+  {
+    "text": "where we publish transcripts and show notes. This episode is produced by Brent Katz, an updated by Augusta",
+    "uid": "182d9f97da05fb85",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3363.16,
+    "end": 3369.0
+  },
+  {
+    "text": "Chapman. Special thanks to Julia Nippon for reading the book excerpts. The Freakonomics Radio",
+    "uid": "4464441b84b00ec4",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3369.0,
+    "end": 3374.04
+  },
+  {
+    "text": "Network staff also includes Dalvin Abawaji, Eleanor Osborne, Ellen Franklin, Elsa Hernandez, Gabriel Roth,",
+    "uid": "477483f61a9d1f9f",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3374.04,
+    "end": 3379.72
+  },
+  {
+    "text": "Ellaria Montenacord, Jasmine Klinger, Jeremy Johnston, Taylor Jacobs, and Zach Lepinsky.",
+    "uid": "f33bb83a1e493d71",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3379.72,
+    "end": 3384.36
+  },
+  {
+    "text": "Our theme song is Mr. Fortune by The Hitchhikers. The other music in this episode was composed by",
+    "uid": "6db9066ef4d48578",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3384.36,
+    "end": 3389.64
+  },
+  {
+    "text": "Louis Scara, Michael Riolla and Steven Ulrich. Special thanks to Angela Duckworth, who apparently coined",
+    "uid": "200d34fc408fa4f4",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3389.64,
+    "end": 3395.72
+  },
+  {
+    "text": "the term Crankopotamus. As always, thank you for listening. For your listeners, if you wish to be an",
+    "uid": "a2215c58208bf4d5",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3395.72,
+    "end": 3405.7
+  },
+  {
+    "text": "organ donor and are not, then go to Donate Life and you'll be able to sign up online. It takes a",
+    "uid": "ce5ff1b2c5b962fa",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3405.7,
+    "end": 3415.78
+  },
+  {
+    "text": "minute or two and every person who becomes an organ donor can potentially help five, six people.",
+    "uid": "6e8a627e16ac1185",
+    "source": "Freakonomics_Radio_Network - All_You_Need_Is_Nudge_Update_Freakonomics_Radio",
+    "start": 3415.78,
+    "end": 3425.62
+  }
+]
