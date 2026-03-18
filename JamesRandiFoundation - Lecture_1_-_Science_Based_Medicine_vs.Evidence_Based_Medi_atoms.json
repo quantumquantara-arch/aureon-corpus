@@ -1,0 +1,2396 @@
+[
+  {
+    "text": "Hello and welcome. I'm Dr. Harriet Hall, also known as the Sceptoc.",
+    "uid": "554acd875fc1976b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 7.28,
+    "end": 12.72
+  },
+  {
+    "text": "And this is the first in a series of 10 lectures about science-based medicine.",
+    "uid": "80eaec8b0deea813",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 12.72,
+    "end": 16.88
+  },
+  {
+    "text": "In this first lecture, I'll explain what science-based medicine is, why it's important and how it's",
+    "uid": "17d3441868573583",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 18.08,
+    "end": 24.0
+  },
+  {
+    "text": "different from evidence-based medicine. In the second lecture, I'll talk about medicine. It isn't",
+    "uid": "af34dfc3497ade4f",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 24.0,
+    "end": 29.44
+  },
+  {
+    "text": "based on science. Complimentary and alternative medicine or cam. In lectures 3 through 8,",
+    "uid": "c39b7c97138aa99c",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 29.44,
+    "end": 36.56
+  },
+  {
+    "text": "I'll cover individual topics in cam that claim to be science-based but that are not.",
+    "uid": "e0731e23174af17f",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 36.64,
+    "end": 41.6
+  },
+  {
+    "text": "Character, acupuncture, homeopathy, natureopathy, energy medicine, and miscellaneous others.",
+    "uid": "833dd54e03391460",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 42.32,
+    "end": 48.88
+  },
+  {
+    "text": "In lecture 9, I'll talk about some of the pitfalls in clinical research. Why we can't take every",
+    "uid": "9d5e5a2453e2710a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 49.92,
+    "end": 55.36
+  },
+  {
+    "text": "published study at face value and how to tell if a study is good science. And in the final lecture,",
+    "uid": "1ce84950c0f09c79",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 55.36,
+    "end": 61.44
+  },
+  {
+    "text": "I'll talk about how science-based medicine is misunderstood in the media and in politics.",
+    "uid": "ad3814aa717aa568",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 61.44,
+    "end": 66.32
+  },
+  {
+    "text": "I've prepared a course guide to accompany these lectures. It summarizes the important information",
+    "uid": "e5932a447b42d61a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 67.52,
+    "end": 72.96
+  },
+  {
+    "text": "from each lecture and includes references and suggestions for further reading.",
+    "uid": "455180eb6ec88a77",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 72.96,
+    "end": 76.96
+  },
+  {
+    "text": "Now, the subject to these lectures is science-based medicine, not cam. So why do vote so much",
+    "uid": "9d9c287a736d2ca3",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 77.76,
+    "end": 84.16
+  },
+  {
+    "text": "time to discuss in cam? Well, there's method in my madness. There are two reasons to concentrate on cam.",
+    "uid": "432272d68a088c88",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 84.16,
+    "end": 91.2
+  },
+  {
+    "text": "First, I think that understanding what good science isn't is the best way to understand what good science",
+    "uid": "26d6ca9966b684b0",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 92.0,
+    "end": 98.8
+  },
+  {
+    "text": "is. Most of what I've learned about what constitutes a good scientific study, I learned by studying",
+    "uid": "47256a1ff1a27152",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 98.8,
+    "end": 105.04
+  },
+  {
+    "text": "the flaws and a lot of very bad studies. Bad examples can be very educational. If you haven't",
+    "uid": "0c2c4ffc0221378d",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 105.04,
+    "end": 111.6
+  },
+  {
+    "text": "learned to spot what's wrong in flawed science, how could you ever be sure that something is",
+    "uid": "303659ccc2e051e2",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 111.6,
+    "end": 116.32
+  },
+  {
+    "text": "good science and doesn't have any of those flaws? Have you ever read books about neurologic",
+    "uid": "b8734f52c9f3dae2",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 116.32,
+    "end": 122.32
+  },
+  {
+    "text": "abnormalities like Oliver Sachs book The Man Who Mystic His Wife for a Hat? When part of the brain is",
+    "uid": "0b989368919dca78",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 122.32,
+    "end": 129.2
+  },
+  {
+    "text": "damaged by a stroke or a tumor or trauma, strange things happen. Abnormal behavior and loss of",
+    "uid": "fd171ee9b65af8de",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 129.2,
+    "end": 135.6
+  },
+  {
+    "text": "certain abilities that we take for granted. Those abnormalities are closed to understanding how that",
+    "uid": "08628c5c85a50967",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 135.6,
+    "end": 141.6
+  },
+  {
+    "text": "part of the brain normally works. Studying brain pathology helps us understand normal brain function.",
+    "uid": "6887712b3d9a785b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 141.6,
+    "end": 148.08
+  },
+  {
+    "text": "And the principle of learning about the good by studying the bad works for almost anything,",
+    "uid": "1326103b1c45b5ce",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 149.28,
+    "end": 154.16
+  },
+  {
+    "text": "for instance, if you wanted to learn how to apply makeup, it would be helpful to see examples of people",
+    "uid": "ea98bf5122aafe24",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 154.16,
+    "end": 159.12
+  },
+  {
+    "text": "who used too much makeup for the wrong kind. So that's the first reason. The second reason is that",
+    "uid": "5a24ec36582df2fe",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 159.2,
+    "end": 165.84
+  },
+  {
+    "text": "much of a cam falsely claims to be based on science and we need to understand why mainstream science",
+    "uid": "edaa735c176eae35",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 165.84,
+    "end": 172.24
+  },
+  {
+    "text": "rejects those claims. Ginny McCarthy says, Back Seves Cause Autism. Her autistic son Evan is",
+    "uid": "7269ab5536d142d4",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 172.24,
+    "end": 180.16
+  },
+  {
+    "text": "all the evidence she needs. She says, My science is Evan and he's at home. That's my science.",
+    "uid": "4401bdd14282f65d",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 180.16,
+    "end": 186.32
+  },
+  {
+    "text": "Well, we can easily dismiss claims like that. As Christopher Hitchin's famously said,",
+    "uid": "daaec5009a0f2b59",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 187.04,
+    "end": 192.48
+  },
+  {
+    "text": "assertions made without evidence can be dismissed without evidence. But it's not so easy to dismiss a",
+    "uid": "a8aa6d3a46bbd109",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 192.48,
+    "end": 198.64
+  },
+  {
+    "text": "homeyopath who shows off his evidence in the formal long list of published peer reviewed scientific",
+    "uid": "17f738cd7e2726fb",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 198.64,
+    "end": 204.64
+  },
+  {
+    "text": "studies that he thinks have validated homeyopathy. We need to understand why his evidence doesn't stand up",
+    "uid": "ca436fcf02317e1d",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 204.64,
+    "end": 211.52
+  },
+  {
+    "text": "to scrutiny. By the end of this course, when you encounter someone who is promoting homeyopathy",
+    "uid": "29b742877aba87c8",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 211.6,
+    "end": 219.12
+  },
+  {
+    "text": "or maybe selling a miracle diet supplement through a multi-level marketing, if he throws a scientific",
+    "uid": "db6bda910d599d57",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 219.12,
+    "end": 225.2
+  },
+  {
+    "text": "study at you and says, Here's proof that it works. You'll know why his proof is no such thing,",
+    "uid": "0c411e8bd89bce8e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 225.2,
+    "end": 231.52
+  },
+  {
+    "text": "and you'll have a rational basis for rejecting his claims. Now science is a wonderful thing. It has",
+    "uid": "e75ced044c15ba35",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 231.52,
+    "end": 240.02
+  },
+  {
+    "text": "improved our lives, it's linked in our life's fans, and it's given us reliable tools to",
+    "uid": "195094edc729ba6b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 240.02,
+    "end": 245.06
+  },
+  {
+    "text": "understand how the world works. But for most of human history we had to make do without science.",
+    "uid": "a178760990763e62",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 245.06,
+    "end": 250.42
+  },
+  {
+    "text": "Evolution shaped our ancestors' brains to help them survive in a world without science. A world without",
+    "uid": "938e88c766b1ecbf",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 251.86,
+    "end": 258.1
+  },
+  {
+    "text": "dispeperous books or the internet without even written language. They had only two ways of learning about",
+    "uid": "c604ebb0e0a347ca",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 258.1,
+    "end": 264.9
+  },
+  {
+    "text": "the world, their own experiences and the experiences of others. If you ate an unfamiliar",
+    "uid": "7737629d98884249",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 264.9,
+    "end": 271.3
+  },
+  {
+    "text": "berry and got sick, you'd learn not to eat those berries. If you survived, or a friend might tell you not",
+    "uid": "818c7bc7c6fbfdf5",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 271.3,
+    "end": 278.02
+  },
+  {
+    "text": "to eat them because they made him sick and you might be able to profit from his experience. Sometimes what",
+    "uid": "799b1050c50a413f",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 278.02,
+    "end": 284.74
+  },
+  {
+    "text": "your friend told you might be wrong, but in general paying attention to the stories of your friends",
+    "uid": "b25000c8a54b4a70",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 284.74,
+    "end": 290.34
+  },
+  {
+    "text": "was likely to help you survive. To survive as hunter-gatherers on the African Savannah, our ancestors",
+    "uid": "3fcdc2a78ad6d173",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 290.34,
+    "end": 297.94
+  },
+  {
+    "text": "needed to learn from stories, and they also needed to make fast decisions. So they evolved to be very good",
+    "uid": "df4eea46122d642e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 297.94,
+    "end": 304.74
+  },
+  {
+    "text": "pattern recognition at it jumping to conclusions. Have you ever thought you saw an animal and then",
+    "uid": "f7656aa2e18002e0",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 304.74,
+    "end": 310.42
+  },
+  {
+    "text": "taken a closer look and realized you'd been fooled by a stump or a rock or something? The other day I",
+    "uid": "63859d69740029fb",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 310.42,
+    "end": 316.82
+  },
+  {
+    "text": "thought I saw a dead bird out on our deck, but it turned out to be just a crumpled brown leaf.",
+    "uid": "07fa0be9f156405f",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 316.82,
+    "end": 322.42
+  },
+  {
+    "text": "We look for recognizable patterns, but we can be fooled by objects that have a similar profile.",
+    "uid": "70234ecf172068b2",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 323.78,
+    "end": 328.9
+  },
+  {
+    "text": "Now let's say you're one of our ancestors on the Savannah. You see something over there often the",
+    "uid": "1e7fc0c6b0aa1a70",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 329.86,
+    "end": 335.22
+  },
+  {
+    "text": "distance and the bushes. And it looks sort of lion-shaped, but it might just be an illusion created by",
+    "uid": "449a69c6679dfe66",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 335.22,
+    "end": 343.06
+  },
+  {
+    "text": "branches and shadows. If you see the pattern as a lion and you're wrong, you're run away when you",
+    "uid": "14de4bfd8b42c015",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 343.06,
+    "end": 349.06
+  },
+  {
+    "text": "didn't need to, but there's no real harm done. On the other hand if you miss a real lion your mistake",
+    "uid": "a84bb28ba79be72f",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 349.06,
+    "end": 354.98
+  },
+  {
+    "text": "could be fatal. Richard Wiseman explained the ability to find patterns is so important to your survival",
+    "uid": "5a64565d8d075e8f",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 354.98,
+    "end": 362.42
+  },
+  {
+    "text": "that your brain would rather see a few imaginary patterns than misgenuine instances of claws and",
+    "uid": "8c7c0f182478a667",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 362.42,
+    "end": 367.38
+  },
+  {
+    "text": "effect. That's the price you pay for being so amazing the rest of the time.",
+    "uid": "ca60b51267f6862e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 367.38,
+    "end": 371.86
+  },
+  {
+    "text": "But we see imaginary patterns everywhere. For instance a baseball player notices that he was wearing a certain",
+    "uid": "b4516a73d35916bd",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 373.54,
+    "end": 379.46
+  },
+  {
+    "text": "pair of socks when his team won. So he develops a superstition and he keeps wearing his lucky socks.",
+    "uid": "bb5919b2f565c87a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 379.46,
+    "end": 385.14
+  },
+  {
+    "text": "His team doesn't always win when he wears a socks, but it winds off and enough to reinforce his superstitious belief.",
+    "uid": "93b311a8b3924c03",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 386.34,
+    "end": 392.42
+  },
+  {
+    "text": "Evolution shaped our thinking processes for maximum survival advantage. But it was a mixed blessing.",
+    "uid": "60507c9256ed79ea",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 393.38,
+    "end": 399.86
+  },
+  {
+    "text": "There were advantages to our skills, but there were also downsides. We got very good at pattern recognition",
+    "uid": "0ed3100fe978b5f5",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 399.86,
+    "end": 406.82
+  },
+  {
+    "text": "and that helped us make sense of our environment. It helped us identify threats like a lion in the bushes",
+    "uid": "f79a2c3d5ea986fe",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 406.82,
+    "end": 412.74
+  },
+  {
+    "text": "and it helped us learn the effects of poisonous plants or medicinal plants. But it gave us a tendency to",
+    "uid": "88ef01209fbcec8a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 412.74,
+    "end": 418.58
+  },
+  {
+    "text": "sometimes see patterns that are real and to develop superstitious beliefs about claws and effect.",
+    "uid": "2b9c37881a872c6b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 418.58,
+    "end": 423.78
+  },
+  {
+    "text": "We got very good at making quick decisions. This allowed us to react in time to run away from the lion",
+    "uid": "333dff095d9342f5",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 425.46,
+    "end": 432.34
+  },
+  {
+    "text": "now instead of stopping to think about it. But it made us more likely to jump to conclusions before we",
+    "uid": "f3b2f89ad4009889",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 432.34,
+    "end": 439.22
+  },
+  {
+    "text": "had all the evidence. Evolution equipped us with emotions that were very handy for survival.",
+    "uid": "78ee8888cfffea2a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 439.22,
+    "end": 445.22
+  },
+  {
+    "text": "Fear motivated us to run away from the lion fast, but emotions can interfere with judgment.",
+    "uid": "a24cd29a86b55daf",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 446.1,
+    "end": 452.58
+  },
+  {
+    "text": "For instance, the fear of death can lead cancer patients to grasp its straws and go to Mexico to try",
+    "uid": "2fd64b69691ab9b3",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 453.62,
+    "end": 459.22
+  },
+  {
+    "text": "implausible potentially dangerous treatments like layatrial. Morgan Levy said thinking like a",
+    "uid": "36074689cf41e844",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 459.22,
+    "end": 465.38
+  },
+  {
+    "text": "human is not a logical way to think, but it is not a stupid way to think either. You could say that",
+    "uid": "1b50db75b09f7701",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 465.38,
+    "end": 471.3
+  },
+  {
+    "text": "our thinking is intelligently illogical. Millions of years of evolution did not result in humans",
+    "uid": "bf8b16213ee78be4",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 471.38,
+    "end": 478.34
+  },
+  {
+    "text": "that think like a computer. It is precisely because we think in an intelligently illogical way",
+    "uid": "20d741bba5413767",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 478.34,
+    "end": 484.66
+  },
+  {
+    "text": "that our predecessors were able to survive. So evolution equipped us with minds that kept us alive in a",
+    "uid": "b0d28e20035e81a3",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 484.66,
+    "end": 491.14
+  },
+  {
+    "text": "pre-scientific world by a strategy of paying attention to what others told us of seeing patterns that",
+    "uid": "1b912a11e6c0b7e3",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 491.14,
+    "end": 497.06
+  },
+  {
+    "text": "might not always be real and of jumping to conclusions. Then we discovered science. It what used",
+    "uid": "9293221d7bf9a097",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 497.06,
+    "end": 503.62
+  },
+  {
+    "text": "to be a survival advantage became a handicap. The scientific method is a marvelous set of tools that",
+    "uid": "acdaf6d56d536b38",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 503.62,
+    "end": 509.78
+  },
+  {
+    "text": "allows us to ask specific questions about how the world works and to get reliable answers.",
+    "uid": "e9a7bfa330cd85a7",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 509.78,
+    "end": 514.98
+  },
+  {
+    "text": "And science is a way of correcting for the kinds of mistakes our minds are prone to make.",
+    "uid": "514602cc3eda18c3",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 515.62,
+    "end": 519.78
+  },
+  {
+    "text": "But our minds evolve to help us survive in a world without science. And thinking in a scientific way",
+    "uid": "bdad05cb93c3f44d",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 520.5,
+    "end": 526.5
+  },
+  {
+    "text": "doesn't come naturally. Our minds still work the old way. We prefer stories to studies.",
+    "uid": "6a37709b949f5f8c",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 526.58,
+    "end": 532.82
+  },
+  {
+    "text": "We prefer anecdotes to analyses. If our neighbor had a bad experience with the Toyota,",
+    "uid": "372fbbfcabbb752c",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 532.82,
+    "end": 538.34
+  },
+  {
+    "text": "we're likely to remember his complaints and not by a Toyota even if consumer reports tells us that",
+    "uid": "dbfd05ac4a955214",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 538.34,
+    "end": 543.7
+  },
+  {
+    "text": "their test found that it was the most reliable brand. It isn't logical to value hearsay over data.",
+    "uid": "3c210ac36153ed6e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 543.7,
+    "end": 550.26
+  },
+  {
+    "text": "But we're just doing what comes naturally. It takes a lot of training and discipline to overcome",
+    "uid": "2a0d9a0ee1d925a5",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 550.98,
+    "end": 555.86
+  },
+  {
+    "text": "our natural tendencies. How do we decide if a medical treatment works? We're impressed by anecdotes",
+    "uid": "5c53746e95eb947f",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 555.86,
+    "end": 562.82
+  },
+  {
+    "text": "and we jump to conclusions based on our observations. If your friend says,",
+    "uid": "f885e2a855818963",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 562.82,
+    "end": 567.54
+  },
+  {
+    "text": "homieopathy worked for me, you want to try it. When you try it and your symptoms go away,",
+    "uid": "bea12ea25a5b4729",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 567.54,
+    "end": 573.14
+  },
+  {
+    "text": "it's only natural to assume that it really works. But sometimes we get it wrong. Your symptoms might have",
+    "uid": "06cc8b2a850f9469",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 573.14,
+    "end": 579.46
+  },
+  {
+    "text": "gone away for other reasons that had nothing to do with the treatment. You have no way of knowing whether",
+    "uid": "d67619c18b041b50",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 579.46,
+    "end": 584.66
+  },
+  {
+    "text": "your symptoms might have gone away if you hadn't used any treatment at all. Asumptions can be wrong.",
+    "uid": "431af4eadc622ce8",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 584.74,
+    "end": 591.06
+  },
+  {
+    "text": "We make mistakes and no matter how smart we are, every one of us can be fooled.",
+    "uid": "5493979064f6d4cf",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 591.06,
+    "end": 595.46
+  },
+  {
+    "text": "Patients and doctors alike were fooled for centuries by bloodletting. Everybody knew that it worked.",
+    "uid": "6efb94f3fe5a4993",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 597.38,
+    "end": 604.66
+  },
+  {
+    "text": "The medical textbooks explained how it worked to balance the ubers and everyone knew it saved lives",
+    "uid": "0331293df24d253b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 604.66,
+    "end": 611.06
+  },
+  {
+    "text": "because they'd seen it with their own eyes. But when someone finally thought to compare patients",
+    "uid": "fce5e9e1a35098d9",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 611.06,
+    "end": 617.38
+  },
+  {
+    "text": "treated with and without bloodletting, they discovered they'd been killing more patients than they helped.",
+    "uid": "824ee1e678d97a11",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 617.38,
+    "end": 622.02
+  },
+  {
+    "text": "Big oops. Even modern doctors can be fooled. Not long ago, doctors used to do an operation for",
+    "uid": "dff7821512c9498b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 623.14,
+    "end": 630.98
+  },
+  {
+    "text": "heart disease, where they opened the chest and tied off chest wall arteries to divert more blood flow",
+    "uid": "d8b64d63cc12341a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 630.98,
+    "end": 635.86
+  },
+  {
+    "text": "to the heart. They had an impressive 90% success rate. A doctor named Leonard Cobb was skeptical,",
+    "uid": "2fa41ffa4975c005",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 635.86,
+    "end": 644.26
+  },
+  {
+    "text": "so he did an experiment with a sham surgery control group where he just made the incision in the chest",
+    "uid": "83edd0e859b17a4a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 644.26,
+    "end": 650.74
+  },
+  {
+    "text": "and closed it back up without actually doing anything inside. He discovered that just as many patients",
+    "uid": "0339026ecae907b2",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 650.74,
+    "end": 657.3
+  },
+  {
+    "text": "improved after the fake surgery. In this diagram, the two bars on the left show that chest pain",
+    "uid": "459710d214a6d312",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 657.3,
+    "end": 663.86
+  },
+  {
+    "text": "improved almost as much with the sham surgery, like blue, as with the real surgery, dark blue.",
+    "uid": "2d54feec41eaba22",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 663.86,
+    "end": 669.46
+  },
+  {
+    "text": "And the two bars on the right show that the sham surgery, like blue, reduced the need for",
+    "uid": "ac67bbc9536bbde4",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 670.1,
+    "end": 674.98
+  },
+  {
+    "text": "nitrolycerin pills for pain even more than the real surgery. The differences were in opposite directions",
+    "uid": "65e5c0989a7fb7fa",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 674.98,
+    "end": 681.86
+  },
+  {
+    "text": "and they weren't statistically significant. Essentially, the fake surgery worked the same as the real",
+    "uid": "dd763c3d27e75661",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 681.86,
+    "end": 686.9
+  },
+  {
+    "text": "surgery. So, they thought they had this great operation with a 90% success rate, but they were wrong.",
+    "uid": "1a1cc97dfa16c655",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 687.46,
+    "end": 694.74
+  },
+  {
+    "text": "When they put it to a scientific test, it turned out the operation accomplished and nothing at all,",
+    "uid": "989930db8aae1352",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 695.46,
+    "end": 700.18
+  },
+  {
+    "text": "except maybe to suggest to patients that they would feel better. So, this was another big oops",
+    "uid": "b41dbbff2027f7bf",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 700.82,
+    "end": 707.46
+  },
+  {
+    "text": "and doctor is stopped doing that operation. There are a whole lot of reasons people can come to believe",
+    "uid": "e2a3f54f0b11658f",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 707.46,
+    "end": 713.38
+  },
+  {
+    "text": "an ineffective treatment works. Here are some of them. Don't bother trying to read them all now.",
+    "uid": "52f9f57d52b3743b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 713.38,
+    "end": 718.74
+  },
+  {
+    "text": "I'm going to go over each one of them separately. One, the disease may have run its natural course.",
+    "uid": "89f146bce21d9d58",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 718.74,
+    "end": 726.02
+  },
+  {
+    "text": "A lot of diseases are self-limiting. The body's natural healing processes restore people to help",
+    "uid": "c88018885952fadc",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 726.02,
+    "end": 731.38
+  },
+  {
+    "text": "after a time. Wounds heal. A cold goes away on a week, whether you treated or not. A few years ago,",
+    "uid": "7fe26c98004863bd",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 731.38,
+    "end": 739.38
+  },
+  {
+    "text": "I developed shoulder pain. I was unable to raise my arm without pain and I couldn't reach behind",
+    "uid": "9c68f9c50b0e58cc",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 739.38,
+    "end": 744.9
+  },
+  {
+    "text": "my back to fasten my bra. After about a year, one day I suddenly realized I was back to full function",
+    "uid": "97587b5bf3cd670b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 744.9,
+    "end": 752.18
+  },
+  {
+    "text": "and had no pain at all. My treatment, nothing but tincture of time. Whatever was wrong,",
+    "uid": "b3f8044e574e1219",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 752.98,
+    "end": 760.9
+  },
+  {
+    "text": "it run its natural course and resolved on its own. If I'd been using any treatment at the time,",
+    "uid": "9189b58941e02395",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 760.9,
+    "end": 766.18
+  },
+  {
+    "text": "I would have been fooled into thinking that the treatment had worked. Even serious life-threatening",
+    "uid": "13b873c363982fc4",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 766.18,
+    "end": 771.38
+  },
+  {
+    "text": "diseases can sometimes resolve without treatment. Before we had antibiotics to treat pneumonia,",
+    "uid": "ceec6fe0c3436535",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 771.38,
+    "end": 777.06
+  },
+  {
+    "text": "it wasn't always fatal. Some people survived, so before we could be sure antibiotics worked,",
+    "uid": "73545b8ae7b45662",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 777.06,
+    "end": 782.98
+  },
+  {
+    "text": "we had to compare the survival rate with and without antibiotics. Two, many diseases are cyclical.",
+    "uid": "960f2d4fc81090d5",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 782.98,
+    "end": 790.1
+  },
+  {
+    "text": "The symptoms of any disease fluctuate over time. Fevers go up and down. People with arthritis",
+    "uid": "db836855a936937e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 790.18,
+    "end": 796.26
+  },
+  {
+    "text": "have bad days and good days. The pain gets worse for a while and it gets better for a while.",
+    "uid": "cf9966c1770f4d82",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 796.26,
+    "end": 801.38
+  },
+  {
+    "text": "If you use a remedy when the pain is particularly bad, it was probably about ready to start getting",
+    "uid": "87c0bc4db116be8c",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 801.94,
+    "end": 807.38
+  },
+  {
+    "text": "better anyway, so the remedy gets credited doesn't deserve. That's known as regression to the mean.",
+    "uid": "3c57cdb3c6aa852c",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 807.38,
+    "end": 813.14
+  },
+  {
+    "text": "Here's what happens. Sarah has osteoarthritis pain in her knees. Here's the natural course of",
+    "uid": "2d379c346c115bca",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 813.86,
+    "end": 819.86
+  },
+  {
+    "text": "her pain during a random month. The first few days at this particular month, she has a little or no",
+    "uid": "2beee1824622a951",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 819.86,
+    "end": 825.14
+  },
+  {
+    "text": "pain. As the middle of the month approaches, her pain gets progressively worse and then towards the end of",
+    "uid": "97bcd4e5be529556",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 825.14,
+    "end": 830.9
+  },
+  {
+    "text": "the month, it subsides. Now this is without any treatment. She's not likely to take any pain pills at the",
+    "uid": "a9525982cfefc2c9",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 830.9,
+    "end": 837.46
+  },
+  {
+    "text": "beginning of the month when the pain is minimal, but by the middle of the month, she needs relief. So she starts taking pills.",
+    "uid": "516fc4fb275d4d5d",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 837.46,
+    "end": 843.46
+  },
+  {
+    "text": "And look what happens. As she takes those pills, the pain subsides. It's only natural for her to",
+    "uid": "dfe3c3a28946e133",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 844.02,
+    "end": 851.86
+  },
+  {
+    "text": "assume that the pill's worked. But she doesn't know that she's only looking at the right side of this",
+    "uid": "b41fa27221af59f1",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 851.86,
+    "end": 858.26
+  },
+  {
+    "text": "graph with a left side cut off. Her pain did exactly what it would have done if she hadn't taken any pills.",
+    "uid": "119161e2f09ca8b4",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 858.26,
+    "end": 864.82
+  },
+  {
+    "text": "But she doesn't have any way of knowing that. Three, we're all suggestible. Studies show that we think",
+    "uid": "872e608d564bc165",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 865.38,
+    "end": 872.02
+  },
+  {
+    "text": "wine tastes better if it comes from the bottle with a higher price level. If we're told something is",
+    "uid": "8594e4bf9106134e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 872.02,
+    "end": 877.7
+  },
+  {
+    "text": "going to hurt, it's more likely to hurt. If we're told something is going to make it better, it probably will.",
+    "uid": "3b570b7a20f66589",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 877.7,
+    "end": 883.54
+  },
+  {
+    "text": "Well, no this. That's why we kiss our children's alleys. Anything that distracts us from thinking about our",
+    "uid": "853a47046b6d2667",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 884.1,
+    "end": 889.94
+  },
+  {
+    "text": "symptoms is likely to help. For, the wrong treatment may get the credit. If you took megalose's",
+    "uid": "0be9a1df5c73ff88",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 889.94,
+    "end": 897.78
+  },
+  {
+    "text": "vitamins along with your chemotherapy, you may think it was the vitamins that cured your cancer when",
+    "uid": "3bfc0f0c5ae91128",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 897.78,
+    "end": 902.98
+  },
+  {
+    "text": "it was really the surgery and the chemo. Sometimes the credit is due to something you don't even realize.",
+    "uid": "5744d4bc39551884",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 902.98,
+    "end": 909.3
+  },
+  {
+    "text": "Maybe something changed in your life at the same time. One writer called this the spaghetti factor.",
+    "uid": "5f8364828d3b7f64",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 910.02,
+    "end": 916.18
+  },
+  {
+    "text": "You happen to change brands of spaghetti sauce at about the same time and it was some herb in the",
+    "uid": "c13868b2ef368d3d",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 916.9,
+    "end": 922.18
+  },
+  {
+    "text": "new brand that caused the improvement. Five, the diagnosis may be wrong. You've all heard those claims",
+    "uid": "b07cb79ae45a5546",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 922.18,
+    "end": 929.46
+  },
+  {
+    "text": "that X cured my cancer. When you track down the details of those miracle cancer cure is quite often it turns",
+    "uid": "5d334e571dc08856",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 929.46,
+    "end": 936.26
+  },
+  {
+    "text": "out that they never even had a biopsy, so we can't know if they ever really had a cancer to cure.",
+    "uid": "621a37ecd1fad5ec",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 936.26,
+    "end": 940.98
+  },
+  {
+    "text": "Even if they had a biopsy, the results could have been wrong. Pathologists have been known to make",
+    "uid": "2de75b7a6b157bfb",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 942.58,
+    "end": 947.54
+  },
+  {
+    "text": "mistakes in reading the slides and there could have been a mix up in the lab where the sample was actually",
+    "uid": "5cc0df5f09fa98c8",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 947.62,
+    "end": 952.58
+  },
+  {
+    "text": "from another patient. The prognosis may be wrong. They said I only had six months to live but thanks to",
+    "uid": "fd36e0e92780ffb1",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 952.58,
+    "end": 960.82
+  },
+  {
+    "text": "treatment X. I'm still alive three years later. Doctors can only provide an educated guess about the future and",
+    "uid": "ebb0741adaa617d2",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 960.82,
+    "end": 968.26
+  },
+  {
+    "text": "they may have guessed wrong. All doctors really knew was that the medium life expectancy for that condition was six",
+    "uid": "56a4748bd7b02078",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 968.26,
+    "end": 974.9
+  },
+  {
+    "text": "but that means half of the patients died before six months and half of them live longer than six months.",
+    "uid": "b424ef1c6978e244",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 975.86,
+    "end": 981.38
+  },
+  {
+    "text": "Sometimes much longer. Six, temporary moody improvement may be mistaken for a cure. If a practitioner",
+    "uid": "dc7c0a600e94970a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 981.38,
+    "end": 988.98
+  },
+  {
+    "text": "makes you feel optimistic and hopeful, you may think you feel better when the disease is really unchanged.",
+    "uid": "7a76c1c03115d8cc",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 988.98,
+    "end": 994.42
+  },
+  {
+    "text": "Seven, psychological needs affect behavior and perceptions. When people want to believe badly enough,",
+    "uid": "590712fcdfeab868",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 995.54,
+    "end": 1001.46
+  },
+  {
+    "text": "they can convince themselves that they've been helped. If they've invested time and money,",
+    "uid": "168bd518a95e47c2",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1001.46,
+    "end": 1006.9
+  },
+  {
+    "text": "they don't want to admit that it was wasted. We see what we want to see. We may not remember accurately what",
+    "uid": "2880deba18cd64a0",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1006.9,
+    "end": 1013.14
+  },
+  {
+    "text": "symptoms we had when. We remember things the way we wish they had happened. When a doctor is sincerely",
+    "uid": "3a61eaed25e46cda",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1013.14,
+    "end": 1020.18
+  },
+  {
+    "text": "trying to help a patient, the patient feels a sort of social obligation to please the doctor by getting better.",
+    "uid": "72e72d6dfc7bb700",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1020.18,
+    "end": 1025.94
+  },
+  {
+    "text": "And you may convince himself that he's better when he really isn't. People have been known to",
+    "uid": "359e40f1c6414389",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1026.58,
+    "end": 1031.46
+  },
+  {
+    "text": "deny the facts even to refuse to see that the tumor is still getting visibly bigger. In one case,",
+    "uid": "9aafe5fceac53e7d",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1031.46,
+    "end": 1037.86
+  },
+  {
+    "text": "a patient believed he was cured. His doctor said, look at the x-ray. The tumor is still there.",
+    "uid": "e56df29b9915ae5e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1037.86,
+    "end": 1045.14
+  },
+  {
+    "text": "The patient refused to believe it. He insisted that that was just a shadow where the tumor used to be.",
+    "uid": "cf07e314e79adc89",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1045.86,
+    "end": 1051.14
+  },
+  {
+    "text": "Eight, we confuse correlation with causation. Now, this is a big one. Just because improvement",
+    "uid": "7f82939cd3e60dfa",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1051.14,
+    "end": 1058.9
+  },
+  {
+    "text": "follows a treatment that doesn't necessarily mean that the treatment caused the improvement.",
+    "uid": "2231f9c7ed8a0c5e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1058.9,
+    "end": 1063.3
+  },
+  {
+    "text": "It's called a post-talk or go-propter hawk fallacy. That's Latin for after that, therefore, because of",
+    "uid": "f2e5466b82f38ebe",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1064.5,
+    "end": 1070.74
+  },
+  {
+    "text": "that. The rooster crowed and then the sun came up. Therefore, the rooster made the sun come up.",
+    "uid": "d4a19cecce9b4622",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1070.74,
+    "end": 1076.1
+  },
+  {
+    "text": "Well, it seems you can see what's wrong with that reasoning. But look at this. I took a pill. I got",
+    "uid": "aa1b6a3b642423cd",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1076.1,
+    "end": 1082.18
+  },
+  {
+    "text": "better, therefore the pill made me better. When we take a pill and then we feel better, it seems",
+    "uid": "7b6a0f776dd611b8",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1082.18,
+    "end": 1087.14
+  },
+  {
+    "text": "compellingly obvious to us that it was the pill that made us feel better. And maybe it was the pill.",
+    "uid": "c06533cc57779e81",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1087.14,
+    "end": 1093.06
+  },
+  {
+    "text": "But maybe it was just a mistake, like the rooster. We don't stop to think that we might have felt",
+    "uid": "7956b001c355e0e7",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1093.94,
+    "end": 1099.86
+  },
+  {
+    "text": "better for some other reason. We don't stop to rule out all other possible explanations.",
+    "uid": "049f79153fc0c92a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1099.86,
+    "end": 1105.06
+  },
+  {
+    "text": "We jump to conclusions like the man who trained to flee to dance when it heard music.",
+    "uid": "2d0539089d5c6dda",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1105.54,
+    "end": 1110.26
+  },
+  {
+    "text": "And then he cut the fleas legs off one by one until it stopped dancing. And then he concluded that the",
+    "uid": "e81448695c412e37",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1110.26,
+    "end": 1115.86
+  },
+  {
+    "text": "fleas organs of hearing must be at its legs. Correlation is not causation. People notice that the number of",
+    "uid": "217685d5985dc67a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1115.86,
+    "end": 1124.1
+  },
+  {
+    "text": "autism diagnoses increased about the same time the number of vaccines for infants increased.",
+    "uid": "32337eb33eba0b27",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1124.1,
+    "end": 1129.22
+  },
+  {
+    "text": "They saw a correlation in their assumed causation. Vaccines must cause autism.",
+    "uid": "55dda90b44bc7c31",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1129.94,
+    "end": 1134.9
+  },
+  {
+    "text": "But there was also a correlation with the number of pirates.",
+    "uid": "0518e88614bc9072",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1136.02,
+    "end": 1138.82
+  },
+  {
+    "text": "Science studied vaccines in autism and they didn't find any evidence that vaccines caused autism.",
+    "uid": "00becf9c9bdab0b7",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1139.86,
+    "end": 1145.54
+  },
+  {
+    "text": "Science didn't study pirates to see if they caused autism. I love this graph. It shows",
+    "uid": "649de475a244d52a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1146.66,
+    "end": 1152.58
+  },
+  {
+    "text": "an almost perfect correlation between autism diagnoses and the sales of organic food.",
+    "uid": "840d45410bc98087",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1152.58,
+    "end": 1158.02
+  },
+  {
+    "text": "Does anyone think organic food causes autism? Correlation doesn't equal causation.",
+    "uid": "3249333528b1763b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1158.02,
+    "end": 1163.86
+  },
+  {
+    "text": "To find out if a correlation really indicates a cause, a scientist named Hill came up with this",
+    "uid": "cb189df54bd73fc5",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1165.3,
+    "end": 1170.66
+  },
+  {
+    "text": "list of criteria for determining causation. I don't illustrate with the example of smoking and lung cancer.",
+    "uid": "27486202cdddc815",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1170.66,
+    "end": 1176.98
+  },
+  {
+    "text": "There's no way we could do a randomized control study of smoking. You can't divide people",
+    "uid": "2a309b2377bd226c",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1177.54,
+    "end": 1182.42
+  },
+  {
+    "text": "into two groups and make one group smoke and the other not. You certainly couldn't have a",
+    "uid": "3e1849150aba0e78",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1182.42,
+    "end": 1186.74
+  },
+  {
+    "text": "blinded study because they wouldn't know whether they were smoking. So we had to approach the question",
+    "uid": "91258b0b7cd34be7",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1186.74,
+    "end": 1191.86
+  },
+  {
+    "text": "by other routes. There was a temporal relationship. People smoked first and got lung cancer later.",
+    "uid": "f9f2f024dca42a00",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1191.86,
+    "end": 1198.26
+  },
+  {
+    "text": "Two, there was a strong relationship. Lots more smokers than non-smokers got lung cancer.",
+    "uid": "e2d09d3bda1d9e2c",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1199.22,
+    "end": 1204.42
+  },
+  {
+    "text": "Three, there was a dose response relationship. The more cigarette smoke the higher the rate of lung cancer.",
+    "uid": "e9e691b579abd59e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1205.38,
+    "end": 1211.22
+  },
+  {
+    "text": "Four, the results of various kinds of studies were all consistent.",
+    "uid": "feb063302d9e335a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1212.02,
+    "end": 1215.62
+  },
+  {
+    "text": "Five, the mechanism was plausible. We know there are cancer-causing compounds in cigarette smoke.",
+    "uid": "91569643733a9260",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1216.42,
+    "end": 1221.7
+  },
+  {
+    "text": "Six, alternate explanations were considered to ruled out.",
+    "uid": "1cced5e0a3c31f90",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1222.5,
+    "end": 1225.7
+  },
+  {
+    "text": "Seven, they did experiments where they exposed lab animals to cigarette smoke and animals develop lung cancer.",
+    "uid": "928562bf530f2b85",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1226.5,
+    "end": 1232.58
+  },
+  {
+    "text": "Eight, specificity, cigarettes produce specific kinds of lung cancers.",
+    "uid": "f78148bf40e03862",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1233.7,
+    "end": 1238.74
+  },
+  {
+    "text": "Coherence. The data from different kinds of epidemiologic and lab studies and from all sources",
+    "uid": "4adc9141eacecfdd",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1239.54,
+    "end": 1245.14
+  },
+  {
+    "text": "of information held together in a coherent body of evidence.",
+    "uid": "537813b02c1f5ccb",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1245.14,
+    "end": 1248.34
+  },
+  {
+    "text": "Richard Feynman said, science is what we've learned about how to keep from fooling ourselves.",
+    "uid": "dfd9998c12c22b1e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1250.34,
+    "end": 1254.82
+  },
+  {
+    "text": "We fool ourselves because of the way our brains work. We prefer a story to studies. We have cognitive",
+    "uid": "04b6167193df0192",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1255.54,
+    "end": 1261.54
+  },
+  {
+    "text": "flaws and biases. We have perceptual failings. Just think of optical illusions. In re-influence,",
+    "uid": "dd0b795d0b45a783",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1261.54,
+    "end": 1268.02
+  },
+  {
+    "text": "biomotions and bysychological motivations. Biasism, cognitive error is lead us to faults conclusions",
+    "uid": "e3b217f8d96a4659",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1268.1,
+    "end": 1275.06
+  },
+  {
+    "text": "that we wish to be true. Science is the only method that systematically controls for our biases in cognitive",
+    "uid": "5b0ebed1a1529015",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1275.06,
+    "end": 1282.42
+  },
+  {
+    "text": "errors and allows us to obtain reliable information. The author of this book, a doctor named Drew and Birch,",
+    "uid": "90966e9317231de6",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1282.42,
+    "end": 1289.62
+  },
+  {
+    "text": "has called it Medicine's Beautiful Idea. The idea that no matter how certain we are that a treatment works,",
+    "uid": "e3779b4dd553bbbb",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1289.62,
+    "end": 1296.18
+  },
+  {
+    "text": "no matter how reasonable a belief sounds, we still have to test it.",
+    "uid": "f9eb7be38b1be544",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1296.26,
+    "end": 1300.26
+  },
+  {
+    "text": "Today, eBM stands for Evidence-Based Medicine and it has been defined as the conscientious, explicit,",
+    "uid": "bd1799a9a18086a2",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1301.7,
+    "end": 1307.86
+  },
+  {
+    "text": "and judicious use of current best evidence and making decisions about the care of individual patients.",
+    "uid": "9468f5cd852f6719",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1307.86,
+    "end": 1313.22
+  },
+  {
+    "text": "But it wasn't until 1991 that the term evidence-based medicine first appeared in the medical literature.",
+    "uid": "f677ddfcbf23549b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1313.94,
+    "end": 1320.02
+  },
+  {
+    "text": "Before that, we had other EBMs. First, there was expert-based medicine where we unquestioningly",
+    "uid": "b88da4680f97ac37",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1320.98,
+    "end": 1327.38
+  },
+  {
+    "text": "accepted whatever the expert said. Aristotle said, man had more teeth than women. He was the expert.",
+    "uid": "bd7802aac1e5a8c5",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1327.38,
+    "end": 1335.46
+  },
+  {
+    "text": "In recent years, everyone took his word for it. No one bothered to look in mouths and count teeth.",
+    "uid": "a51e67143aad886e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1336.02,
+    "end": 1341.3
+  },
+  {
+    "text": "And then there was experience-based medicine where a doctor could say, in my experience, this treatment",
+    "uid": "200e5ad2ede42f65",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1342.34,
+    "end": 1348.5
+  },
+  {
+    "text": "has worked well for my patients. Proc entries, doctors had experience with bloodletting",
+    "uid": "92348408c82d26fd",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1348.5,
+    "end": 1354.26
+  },
+  {
+    "text": "to balance the ubers and they were thoroughly convinced that they were saving lives when they were actually",
+    "uid": "4ac6de20cea88991",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1354.26,
+    "end": 1359.06
+  },
+  {
+    "text": "killing patients. My colleague Mark Crislop says that the three most dangerous words in medicine are",
+    "uid": "fb0b3e387d214293",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1359.06,
+    "end": 1365.06
+  },
+  {
+    "text": "in my experience because experience is so very compelling but is so very often wrong.",
+    "uid": "6673e4f72668b5a3",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1365.06,
+    "end": 1370.74
+  },
+  {
+    "text": "So we learned to rely on scientific evidence rather than on expert opinion and experience.",
+    "uid": "370773aecdb35486",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1372.02,
+    "end": 1376.98
+  },
+  {
+    "text": "The first modern clinical trial was done by James Linde of the Royal Navy in 1747.",
+    "uid": "f5b90044acbf27a0",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1377.7,
+    "end": 1383.14
+  },
+  {
+    "text": "Back then, the sailing ships went out for years at a time and sailors had no access to fresh foods.",
+    "uid": "c666103e369cfb22",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1383.78,
+    "end": 1388.82
+  },
+  {
+    "text": "Sailor's developed scurvy. They became weak, unable to work, had internal bleeding, fever,",
+    "uid": "8978e12f8b34d456",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1390.1,
+    "end": 1396.58
+  },
+  {
+    "text": "jaundice, convulsions, bone pain, bleeding gums, their teeth fell out and they died of painful death.",
+    "uid": "342c4d1586098bfa",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1396.58,
+    "end": 1403.14
+  },
+  {
+    "text": "Linde had heard reports of successful treatment with various remedies and he decided to test them to find out",
+    "uid": "c7b214b4572d90db",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1404.1,
+    "end": 1409.94
+  },
+  {
+    "text": "if any other really worked. He divided a group of 12 sick sailors into six groups. He gave each group a different",
+    "uid": "82638794434340ba",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1409.94,
+    "end": 1417.94
+  },
+  {
+    "text": "test remedy. A quart of cider, 25 drops of elixir of vitriol, that's sulfuric acid. I sure hope he",
+    "uid": "f0c065c69c3ed0a9",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1417.94,
+    "end": 1426.5
+  },
+  {
+    "text": "diluted it in water before he gave it to the six spoons of vinegar, half a bite of sea water,",
+    "uid": "6655bb7c6eeae03b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1426.5,
+    "end": 1433.22
+  },
+  {
+    "text": "yuck, two oranges and lemon or a spicy paste plus a drink made from barley. The winter was",
+    "uid": "03f9a9a9495788cc",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1433.22,
+    "end": 1440.5
+  },
+  {
+    "text": "Tada, two oranges and lemon. Linde had shown that such a spirit worked to cure scurvy,",
+    "uid": "e27d41c7df466662",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1441.38,
+    "end": 1448.5
+  },
+  {
+    "text": "but he didn't have any idea how it worked. Today we know that scurvy is due to a deficiency of vitamin C,",
+    "uid": "4bfee64112a726ad",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1449.3,
+    "end": 1456.26
+  },
+  {
+    "text": "but vitamins wouldn't be discovered for another two centuries. Linde thought scurvy was",
+    "uid": "0c0a47c912747e6a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1456.26,
+    "end": 1461.38
+  },
+  {
+    "text": "caused by future faction and he thought such a spruits worked because they acid in the fruit",
+    "uid": "847ef48eb99024e6",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1461.38,
+    "end": 1466.42
+  },
+  {
+    "text": "prevented future faction. He tried sending ships out with bottled juice to save storage space,",
+    "uid": "1abddb37a11ecb32",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1466.42,
+    "end": 1472.26
+  },
+  {
+    "text": "but that didn't work. The bottling process heated the juice and destroyed the vitamin C,",
+    "uid": "4b1832403277602f",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1472.26,
+    "end": 1476.98
+  },
+  {
+    "text": "so they had to go back to using fresh fruit. Anyway, the first clinical trial had found an effective",
+    "uid": "24cde8947a64fab3",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1477.86,
+    "end": 1483.94
+  },
+  {
+    "text": "treatment for scurvy. British sailors became known as Lymees and medical science was often running.",
+    "uid": "936561698078f94a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1483.94,
+    "end": 1490.02
+  },
+  {
+    "text": "Some doctors still think that in my experience is better than evidence. Here's one.",
+    "uid": "06f743d21ddf792d",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1492.24,
+    "end": 1497.44
+  },
+  {
+    "text": "Jay Gordon, pediatrician to the stars. He caters to parents who wanted an excuse to delay or",
+    "uid": "c4104bb06ba0e638",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1498.08,
+    "end": 1504.88
+  },
+  {
+    "text": "omit vaccinations. He says, my very strong impression is that children with the fewest vaccines or",
+    "uid": "902dbc178654e1e8",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1504.88,
+    "end": 1512.32
+  },
+  {
+    "text": "no vaccines at all get sick less frequently and are healthier in general. I truly believe they also",
+    "uid": "120041eeb06a6ca6",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1512.32,
+    "end": 1518.96
+  },
+  {
+    "text": "develop less autism. Well, his personal experience and uncontrolled observations have led him to",
+    "uid": "120dc0d1034de0d5",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1518.96,
+    "end": 1525.6
+  },
+  {
+    "text": "faults beliefs. Control scientific studies have proved that his beliefs are wrong, but he's stubbornly",
+    "uid": "f2764f9f8b604062",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1525.6,
+    "end": 1531.92
+  },
+  {
+    "text": "prefers his own very strong impression to the scientific evidence. Evidence based medicine was a great idea,",
+    "uid": "d1052ec077099b9a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1531.92,
+    "end": 1540.72
+  },
+  {
+    "text": "treat patients according to the evidence from scientific studies whenever possible.",
+    "uid": "ec0ee5c01be2ba8f",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1540.88,
+    "end": 1544.96
+  },
+  {
+    "text": "Unfortunately, the practice wasn't as good as the promise. We coined the term science-based medicine",
+    "uid": "4b6fb621c11a267a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1545.68,
+    "end": 1551.6
+  },
+  {
+    "text": "to point out the flaws in the way evidence-based medicine was being implemented. In 2008,",
+    "uid": "29554d9f6559b20b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1551.6,
+    "end": 1558.0
+  },
+  {
+    "text": "a group of us skeptical doctors started the science-based medicine blog under the leadership of Stephen",
+    "uid": "74d84e0f9873216e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1558.0,
+    "end": 1563.2
+  },
+  {
+    "text": "novella. If you aren't familiar with the blog, I hope you'll check it out.",
+    "uid": "e03b92d308893cc2",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1563.28,
+    "end": 1566.96
+  },
+  {
+    "text": "It's www.sciencebasemedison.org. Science-based medicine is all one word.",
+    "uid": "b12c47e656a154df",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1567.6,
+    "end": 1573.6
+  },
+  {
+    "text": "Here's the published hierarchy for evidence in evidence-based medicine. The quality of evidence increases",
+    "uid": "19916af6a2db5b99",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1574.64,
+    "end": 1580.4
+  },
+  {
+    "text": "as you climb the pyramid. The red bar near the top is the RCT. That's the gold standard of clinical",
+    "uid": "bd7037f92b720190",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1580.4,
+    "end": 1588.32
+  },
+  {
+    "text": "science, the randomized control trial. It uses a placebo control and is double-blind. Typically,",
+    "uid": "51b4fd3a10b39ac8",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1588.32,
+    "end": 1595.92
+  },
+  {
+    "text": "they compare an active drug to an inactive placebo. Maybe a sugar pill. That's the gold standard",
+    "uid": "981827e439ea9e17",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1595.92,
+    "end": 1603.2
+  },
+  {
+    "text": "of clinical science. The randomized control trial. Ideally, it uses a placebo control and is double-blind.",
+    "uid": "f7eb6a08fcbce49a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1603.2,
+    "end": 1611.12
+  },
+  {
+    "text": "Typically, they compare an active drug to an inactive placebo, maybe a sugar pill. The placebo",
+    "uid": "93a7fd149fa24a9a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1612.32,
+    "end": 1618.24
+  },
+  {
+    "text": "as disguise so that it looks exactly like the active test drug.",
+    "uid": "54ab10fd9b016699",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1618.24,
+    "end": 1622.74
+  },
+  {
+    "text": "In a double blind experiment, the patient doesn't know which he's getting and the person",
+    "uid": "ae0d44d70ca38210",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1622.74,
+    "end": 1626.42
+  },
+  {
+    "text": "giving him the pills doesn't know which he's giving.",
+    "uid": "7b1fd94c17fec9d9",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1626.42,
+    "end": 1629.42
+  },
+  {
+    "text": "The pills are prepared by a third party who isn't otherwise involved in the research.",
+    "uid": "0b7dfcb0ecdb4dae",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1629.42,
+    "end": 1634.42
+  },
+  {
+    "text": "They are coated and the code isn't broken until the trial is finished.",
+    "uid": "af75972cb4f8f4e9",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1634.42,
+    "end": 1639.14
+  },
+  {
+    "text": "And the patients are randomly assigned to two equal groups to minimize any influence from",
+    "uid": "b08bdce2a7b52045",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1639.14,
+    "end": 1643.94
+  },
+  {
+    "text": "The results are analyzed to determine if there is a statistically significant difference.",
+    "uid": "39ec54a5aa09b010",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1645.54,
+    "end": 1650.94
+  },
+  {
+    "text": "Even the best RCTs are not definitive.",
+    "uid": "d1fca5e883c24e0b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1650.94,
+    "end": 1654.04
+  },
+  {
+    "text": "There are a lot of things that can go wrong that could lead to false results.",
+    "uid": "d7ad35e6df9b93d9",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1654.04,
+    "end": 1657.84
+  },
+  {
+    "text": "I'll be covering that in lecture 9.",
+    "uid": "7c241e9a85bb3216",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1657.84,
+    "end": 1660.74
+  },
+  {
+    "text": "We should never rely on the results of a single study.",
+    "uid": "561559f34a4f4feb",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1660.74,
+    "end": 1663.64
+  },
+  {
+    "text": "We should wait for confirmation by other studies.",
+    "uid": "2855471e78940ec2",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1663.64,
+    "end": 1667.14
+  },
+  {
+    "text": "The lowest level on the pyramid is in vitro research.",
+    "uid": "200befaae86995d5",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1667.14,
+    "end": 1670.44
+  },
+  {
+    "text": "In vitromines in glass, like test tubes or petri dishes.",
+    "uid": "75ed56949f523f57",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1670.44,
+    "end": 1675.04
+  },
+  {
+    "text": "You can kill cancer cells in the lab with practically anything.",
+    "uid": "3c65e76076fedd62",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1675.04,
+    "end": 1678.54
+  },
+  {
+    "text": "For instance, a bleach or a blotorch.",
+    "uid": "f0d5d1c53daea1fb",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1678.54,
+    "end": 1681.94
+  },
+  {
+    "text": "But what happens to cells in a petri dish doesn't necessarily happen when they're part of a living body.",
+    "uid": "f3bc93f718f0cc41",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1681.94,
+    "end": 1687.54
+  },
+  {
+    "text": "They're using a blotorch on a patient, wouldn't be a good idea.",
+    "uid": "00289b0472957018",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1687.54,
+    "end": 1691.54
+  },
+  {
+    "text": "The next level is animal research.",
+    "uid": "6246a9ab7d4c4264",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1691.54,
+    "end": 1693.54
+  },
+  {
+    "text": "But the results of animal studies may not be applicable to humans.",
+    "uid": "e6cb139a53f5e3c5",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1693.54,
+    "end": 1697.94
+  },
+  {
+    "text": "For instance, aspirin causes birth defects in mice.",
+    "uid": "9a5244fa2af5af95",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1697.94,
+    "end": 1701.54
+  },
+  {
+    "text": "But it doesn't do that in humans.",
+    "uid": "ee286de63db4b691",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1701.54,
+    "end": 1704.54
+  },
+  {
+    "text": "The next level is ideas, editorials, and opinions.",
+    "uid": "dddbeccbb09eb15d",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1704.54,
+    "end": 1708.04
+  },
+  {
+    "text": "Which are basically speculation by people who may be more or less qualified to speculate.",
+    "uid": "20ec9c4d8b540b16",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1708.04,
+    "end": 1716.04
+  },
+  {
+    "text": "Then case reports, descriptions of a single patient.",
+    "uid": "0a31445e9d9a703f",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1716.04,
+    "end": 1719.84
+  },
+  {
+    "text": "Then case series, reports of several patients with the same condition.",
+    "uid": "d91aa72dfe7b9818",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1719.84,
+    "end": 1724.64
+  },
+  {
+    "text": "Then case control studies, for example, where patients with lung cancer are compared to patients who don't have lung cancer,",
+    "uid": "a619896a711cbb0b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1724.64,
+    "end": 1731.24
+  },
+  {
+    "text": "to see whether they're more smokers in the lung cancer group.",
+    "uid": "d82682b2612c223b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1731.24,
+    "end": 1735.24
+  },
+  {
+    "text": "Then the cohort study, where groups of people are followed over time, for instance, groups of smokers and non-smokers,",
+    "uid": "2c6c7d1e99a4947b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1735.24,
+    "end": 1741.74
+  },
+  {
+    "text": "to see which group eventually develops more lung cancer.",
+    "uid": "a5285229d15193d1",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1741.74,
+    "end": 1746.24
+  },
+  {
+    "text": "The EBM hierarchy puts the goal-standard RCT near the top of the pyramid, but there's even higher level.",
+    "uid": "4b7922de9c4ea2a9",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1746.24,
+    "end": 1753.74
+  },
+  {
+    "text": "All too often, different RCTs get conflicting results.",
+    "uid": "eb442bbeb935c28a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1753.74,
+    "end": 1757.74
+  },
+  {
+    "text": "To break the tie, we can do a systematic review or a meta-analysis to combine information from several trials to reach a more accurate conclusion.",
+    "uid": "26dfcf182f634eb3",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1757.74,
+    "end": 1767.24
+  },
+  {
+    "text": "There are the highest level of evidence, but they can only be as good as the individual studies.",
+    "uid": "e310830ca2efdc5c",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1767.24,
+    "end": 1772.74
+  },
+  {
+    "text": "And sometimes they get false conclusions because of gaggle, garbage in, garbage out, and one really well-designed, large study can sometimes trump systematic reviews of lower-quality studies.",
+    "uid": "6d963d8f942b6faa",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1772.74,
+    "end": 1785.74
+  },
+  {
+    "text": "Evidence-based medicine rigorously limits itself to considering only the evidence, but something is missing from this pyramid.",
+    "uid": "1c50f6ff6402bcd0",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1785.74,
+    "end": 1793.74
+  },
+  {
+    "text": "There is no place in this hierarchy for evidence from basic science, showing that a treatment is impossible or highly improbable.",
+    "uid": "aa6eef08a303958b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1793.74,
+    "end": 1802.74
+  },
+  {
+    "text": "It doesn't give any consideration to prior plausibility.",
+    "uid": "6a55ec6c2870fde9",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1802.74,
+    "end": 1806.74
+  },
+  {
+    "text": "They tend to give equal credence to a study of a new antibiotic and a study of a homeopathic remedy.",
+    "uid": "7f996031197352a2",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1806.74,
+    "end": 1812.74
+  },
+  {
+    "text": "They don't seem to care that a homeopathic is incompatible with our knowledge of physics, chemistry, and biology.",
+    "uid": "60ab0e20de2047d1",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1812.74,
+    "end": 1819.74
+  },
+  {
+    "text": "They don't seem to understand that we would need far more evidence than a clinical study before we could accept that a homeopathic remedy was effective.",
+    "uid": "1d7f864c543c9968",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1819.74,
+    "end": 1827.74
+  },
+  {
+    "text": "It would require a massive evidence sufficient to prove that all that other scientific knowledge was wrong.",
+    "uid": "58f491e917e0f964",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1827.74,
+    "end": 1833.74
+  },
+  {
+    "text": "Now, we don't reject new ideas out of hand, but we do have to take prior plausibility into account.",
+    "uid": "f60d11098f5cdc2c",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1833.74,
+    "end": 1840.74
+  },
+  {
+    "text": "We have to require stronger evidence for things that are implausible.",
+    "uid": "c3ca6e8c643a59b6",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1840.74,
+    "end": 1844.74
+  },
+  {
+    "text": "Carl Sagan said it best, extraordinary claims require extraordinary evidence.",
+    "uid": "342151df8279c862",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1844.74,
+    "end": 1849.74
+  },
+  {
+    "text": "If I tell you I saw a robin in my backyard this morning, that's an ordinary claim.",
+    "uid": "4a8f74829bf165b7",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1849.74,
+    "end": 1854.74
+  },
+  {
+    "text": "You'd probably accept a cell phone photo as evidence, or you might just take my word for it.",
+    "uid": "7204ea1545265fe7",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1854.74,
+    "end": 1860.74
+  },
+  {
+    "text": "But if I tell you I saw a fire breathing dragon in my backyard, well, that's an extraordinary claim.",
+    "uid": "fd0b0e7c6c296f1e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1860.74,
+    "end": 1867.74
+  },
+  {
+    "text": "Anyone with a shred of common sense would demand much more proof, not just a picture that might have been a photoshopped, but something more substantial, like dragon scales, or perhaps some dragon poop that could be analyzed for DNA.",
+    "uid": "3d255dc00a7e8aa1",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1867.74,
+    "end": 1881.74
+  },
+  {
+    "text": "If a study shows that a slightly different new version of an old antibiotic works better for pneumonia, that requires an ordinary level of evidence.",
+    "uid": "66b1df906f5ad7b9",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1881.74,
+    "end": 1889.74
+  },
+  {
+    "text": "But if a study shows that standing on your head in whistling Dixie Curious Cancer, that would require a much higher level of evidence.",
+    "uid": "9a0f191cccd9c7d1",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1889.74,
+    "end": 1897.74
+  },
+  {
+    "text": "Evidence-based medicine doesn't work well for cam. It works on a one-tool-fits-all approach.",
+    "uid": "df7ac568495aaa24",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1897.74,
+    "end": 1903.74
+  },
+  {
+    "text": "Evidence-based medicine focuses on clinical trial results. It simply looks at the published clinical research and accepts the findings.",
+    "uid": "0f0d808fa26b8aa4",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1903.74,
+    "end": 1912.74
+  },
+  {
+    "text": "And that works pretty well for a conventional medicine. But it doesn't work well when you're dealing with things that lie outside the scientific paradigm, or when the scientific plausibility ranges from miniscule to non-existent.",
+    "uid": "4bfb90819ccea4ec",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1912.74,
+    "end": 1925.74
+  },
+  {
+    "text": "My colleague David Gorsky said,",
+    "uid": "2b6a889015141c9b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1925.74,
+    "end": 1928.74
+  },
+  {
+    "text": "I suspect that the originator is of evidence-based medicine. Never thought of the possibility of evidence-based medicine being applied to hypotheses as awe-inspiringly implausible as those of cam.",
+    "uid": "947990031d238da3",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1928.74,
+    "end": 1940.74
+  },
+  {
+    "text": "It's simply never recurred to them. They probably assume that any hypothesis that reaches a clinical trial stage must have good pre-tlinical evidence and basic science evidence to support its efficacy.",
+    "uid": "05280b08d7f95fa1",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1940.74,
+    "end": 1954.74
+  },
+  {
+    "text": "Science is a system of inquiry, not a collection of facts and not a belief system.",
+    "uid": "b0aec647040b0626",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1954.74,
+    "end": 1960.74
+  },
+  {
+    "text": "It's not just one single method, but a toolkit of methods to figure out how reality works.",
+    "uid": "132be97470ca1855",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1960.74,
+    "end": 1966.74
+  },
+  {
+    "text": "This diagram shows how the scientific process works. It starts with observations and then a hypothesis is formed that might explain the observations.",
+    "uid": "f338ba65d360ba77",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1966.74,
+    "end": 1976.74
+  },
+  {
+    "text": "If the hypothesis is true, we should be able to use it to make accurate predictions. We test to see if it does.",
+    "uid": "d463ce2d52976e10",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1976.74,
+    "end": 1984.74
+  },
+  {
+    "text": "If we observe that the predictions are not accurate, we have to modify the hypothesis. If the hypothesis does allow us to make accurate predictions, then evidence eventually accumulates and theories can be formed.",
+    "uid": "60d473f4be68f069",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1984.74,
+    "end": 1997.74
+  },
+  {
+    "text": "The word theory is very often misunderstood. In science, a theory doesn't mean a guess or an opinion. A scientific theory is an established body of knowledge like germ theory or the theory of evolution.",
+    "uid": "2280251c72454fb5",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 1997.74,
+    "end": 2011.74
+  },
+  {
+    "text": "Science is a disciplined process for testing hypotheses. It progresses slowly, but inexorably as new discoveries build on oldens.",
+    "uid": "34a9d43b77f64acc",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2011.74,
+    "end": 2020.74
+  },
+  {
+    "text": "It doesn't claim to have the truth. It reaches provisional conclusions based on the best available evidence and it's always ready to change those conclusions if new better evidence comes along.",
+    "uid": "5a8e3ff324aebd06",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2020.74,
+    "end": 2034.74
+  },
+  {
+    "text": "Studies are repeated and they're either confirmed or discredited. A body of evidence gradually accumulates to the point that experts in the field can reach a consensus.",
+    "uid": "f9e4ad6b4f6a0515",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2034.74,
+    "end": 2044.74
+  },
+  {
+    "text": "Science makes mistakes, but a self-correcting system is in place. It's a collaborative effort. Studies are peer reviewed and scientists scrutinize each other's work. Science can be relied on to give us knowledge that works and it can be used to make accurate predictions and to guide medical treatment.",
+    "uid": "33cfd62dbbee2aac",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2044.74,
+    "end": 2063.74
+  },
+  {
+    "text": "By the way, there is no such thing as Western science. There's only one science and it's the same everywhere in the world.",
+    "uid": "24c9b3b1ad8736bf",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2063.74,
+    "end": 2071.74
+  },
+  {
+    "text": "Some people would have us believe that there are other ways of knowing like intuition, tradition, revelation, the stone thinking favored by Andrew Wilde.",
+    "uid": "01d4295d33f08f6b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2071.74,
+    "end": 2081.74
+  },
+  {
+    "text": "Vision's dreams, extrapolation, speculation, and personal anecdotal experience.",
+    "uid": "bd8f06df30087599",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2081.74,
+    "end": 2087.74
+  },
+  {
+    "text": "Well, those other ways of knowing have their place. They're useful when it comes to knowing if you're in love or knowing whether you can trust your neighbor or knowing if a picture is beautiful.",
+    "uid": "bb63ca422ed1522e",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2087.74,
+    "end": 2097.74
+  },
+  {
+    "text": "But when it comes to knowing whether a medical treatment is affected, there's only one reliable way of knowing. Control testing using scientific methods.",
+    "uid": "cbc9a9a348439b1c",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2097.74,
+    "end": 2106.74
+  },
+  {
+    "text": "Those other ways of thinking can lead people to strong beliefs. But we can't trust those beliefs to reflect reality.",
+    "uid": "3052b5247ab2daa9",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2107.74,
+    "end": 2115.74
+  },
+  {
+    "text": "Only the scientific method can give us reliable knowledge. No matter how convincing a claim sounds, it must be tested before we can accept it as true.",
+    "uid": "fb4edbeae015f74d",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2115.74,
+    "end": 2125.74
+  },
+  {
+    "text": "No other way of knowing shows the kind of progress that science does.",
+    "uid": "7e62dfb11d0971b6",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2125.74,
+    "end": 2130.74
+  },
+  {
+    "text": "With new knowledge building on old.",
+    "uid": "a9c358fbac736e1d",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2131.74,
+    "end": 2134.74
+  },
+  {
+    "text": "No other way of knowing leads everyone to agree and no other way of knowing allows us to make accurate predictions.",
+    "uid": "41c9e1078fbd697b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2134.74,
+    "end": 2141.74
+  },
+  {
+    "text": "They say science doesn't know everything, but as the Irish comedian Darrow Brian pointed out, science knows it doesn't know everything.",
+    "uid": "7d6b02dd1228d6a4",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2141.74,
+    "end": 2151.74
+  },
+  {
+    "text": "Otherwise it would stop. And just because science doesn't know everything, doesn't mean you can fill in the gaps with whatever fairy tale most appeals to you.",
+    "uid": "9cda606408a179a2",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2151.74,
+    "end": 2159.74
+  },
+  {
+    "text": "Science works. Science is probably the best thing humans have ever invented.",
+    "uid": "2ef37645213c1eee",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2160.74,
+    "end": 2164.74
+  },
+  {
+    "text": "As Bill Nye, the science guy says, science rules.",
+    "uid": "d410b7b3bc91bbfe",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2164.74,
+    "end": 2169.74
+  },
+  {
+    "text": "In this lecture I've talked about what science based medicine is and why evidence based medicine is not enough.",
+    "uid": "4064392c480a1ece",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2169.74,
+    "end": 2176.74
+  },
+  {
+    "text": "When we set out to evaluate health claims, practices and products, we want to use the best scientific evidence available in the light of our cumulative scientific knowledge from all relevant disciplines.",
+    "uid": "810afaba2f61135b",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2176.74,
+    "end": 2188.74
+  },
+  {
+    "text": "Science based medicine emphasizes that some evidence is better than others.",
+    "uid": "a7b08a87fa0eb1ae",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2189.74,
+    "end": 2192.74
+  },
+  {
+    "text": "It's very aware of all the ways clinical studies can go wrong and can lead to false conclusions, especially when improbable treatments are being tested.",
+    "uid": "cbba1296e24b6f43",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2192.74,
+    "end": 2201.74
+  },
+  {
+    "text": "It considers prior plausibility. It puts clinical trial evidence into context with preclinical research, and it looks for consistency with the rest of the body of scientific knowledge.",
+    "uid": "d369f5604047435a",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2201.74,
+    "end": 2212.74
+  },
+  {
+    "text": "In the next lecture I'll talk about what happens when medicine isn't science based.",
+    "uid": "94f0ffea6b3c5c06",
+    "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi",
+    "start": 2212.74,
+    "end": 2218.74
+  }
+]
