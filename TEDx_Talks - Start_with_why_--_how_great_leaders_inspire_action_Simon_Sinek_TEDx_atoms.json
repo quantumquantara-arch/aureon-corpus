@@ -1,0 +1,1234 @@
+[
+  {
+    "text": "So where do you start when you have a program that's about integrating life's passions?",
+    "uid": "e1e6dc514d70bf3c",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1.55,
+    "end": 7.55
+  },
+  {
+    "text": "Well, you start with why? Why?",
+    "uid": "f299bf331ea58414",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 7.55,
+    "end": 10.55
+  },
+  {
+    "text": "And that kicks us off for the first speaker tonight, Simon Simonsenic,",
+    "uid": "5561999994e7c230",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 10.55,
+    "end": 16.55
+  },
+  {
+    "text": "and his talk, start with why.",
+    "uid": "8e52b7579c8e0bb8",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 16.55,
+    "end": 19.55
+  },
+  {
+    "text": "We assume even, we know why we do what we do.",
+    "uid": "45cdb4d9960f8fc4",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 19.55,
+    "end": 26.7
+  },
+  {
+    "text": "But then how do you explain when things don't go as we assume?",
+    "uid": "512b007f26cf8361",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 26.7,
+    "end": 31.7
+  },
+  {
+    "text": "Or better, how do you explain when others are able to achieve things that seem to defy all of the assumptions?",
+    "uid": "4392fede76abfb50",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 31.7,
+    "end": 38.7
+  },
+  {
+    "text": "For example, why is Apple so innovative?",
+    "uid": "0d55aeae989725c7",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 38.7,
+    "end": 41.7
+  },
+  {
+    "text": "Year after year after year after year, they're more innovative than all their competition.",
+    "uid": "4b69a3450e2a31fb",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 41.7,
+    "end": 46.7
+  },
+  {
+    "text": "And yet they're just a computer company. They're just like everyone else.",
+    "uid": "a82e5019fb5e3169",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 46.7,
+    "end": 50.7
+  },
+  {
+    "text": "They have the same access to the same talent, the same agencies, the same consultants, the same media,",
+    "uid": "e88851535bd0dd15",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 50.7,
+    "end": 55.7
+  },
+  {
+    "text": "then why is it that they seem to have something different?",
+    "uid": "5ee4be2fa60d92a7",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 55.7,
+    "end": 59.7
+  },
+  {
+    "text": "Why is it that Martin Luther King led this little rights movement?",
+    "uid": "c7c58a5c8f9d93e2",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 59.7,
+    "end": 64.7
+  },
+  {
+    "text": "He wasn't the only man who suffered in a presival rights America,",
+    "uid": "c42fa0d6815a7f50",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 64.7,
+    "end": 68.7
+  },
+  {
+    "text": "and he certainly wasn't the only great orator of the day. Why him?",
+    "uid": "16bef45d985c437d",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 68.7,
+    "end": 72.7
+  },
+  {
+    "text": "And why is it that the right brothers were able to figure out controlled powered man flight",
+    "uid": "ab56351469174914",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 72.7,
+    "end": 78.7
+  },
+  {
+    "text": "when there were certainly other teams who were better qualified, better funded,",
+    "uid": "217f2ef445504d06",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 78.7,
+    "end": 82.7
+  },
+  {
+    "text": "and they didn't achieve powered man flight.",
+    "uid": "4d30e3c7d02aad30",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 82.7,
+    "end": 86.7
+  },
+  {
+    "text": "And the right brothers beat them to it.",
+    "uid": "c9c11fb54755d94c",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 86.7,
+    "end": 88.7
+  },
+  {
+    "text": "There's something else that play here.",
+    "uid": "3a41ede1c72788ab",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 88.7,
+    "end": 91.7
+  },
+  {
+    "text": "About three and a half years ago, I made a discovery.",
+    "uid": "b3695afad792d24e",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 91.7,
+    "end": 95.7
+  },
+  {
+    "text": "And this discovery profoundly changed my view on how I thought the world worked,",
+    "uid": "36fb6a2defdcd058",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 95.7,
+    "end": 101.7
+  },
+  {
+    "text": "and it even profoundly changed the way in which I operated it.",
+    "uid": "f53e8482716fd40b",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 101.7,
+    "end": 105.7
+  },
+  {
+    "text": "As it turns out, there's a pattern. As it turns out, all the great and inspiring leaders",
+    "uid": "6cdac2e853e45068",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 105.7,
+    "end": 113.9
+  },
+  {
+    "text": "and organizations in the world, whether it's Apple or Martin Luther King or the right brothers,",
+    "uid": "bf3df29a794b0f7d",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 113.9,
+    "end": 117.9
+  },
+  {
+    "text": "they all think act and communicate the exact same way,",
+    "uid": "3068a8032099bdff",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 117.9,
+    "end": 121.9
+  },
+  {
+    "text": "and it's the complete opposite to everyone else.",
+    "uid": "f29bdce5bf88ad8d",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 121.9,
+    "end": 125.9
+  },
+  {
+    "text": "All I did was codified.",
+    "uid": "ebb6d51a19c34f1a",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 125.9,
+    "end": 127.9
+  },
+  {
+    "text": "And it's probably the world's simplest idea.",
+    "uid": "f9ffb45312b9fa9b",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 127.9,
+    "end": 131.9
+  },
+  {
+    "text": "I call it the Golden Circle. Why? How? What?",
+    "uid": "95f64c2bcb71c98c",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 131.9,
+    "end": 144.9
+  },
+  {
+    "text": "This little idea explains why some organizations and some leaders are able to inspire",
+    "uid": "3730de359a559049",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 144.9,
+    "end": 149.9
+  },
+  {
+    "text": "where others aren't. Let me define the terms really quickly.",
+    "uid": "c5dd89181c45d130",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 149.9,
+    "end": 153.9
+  },
+  {
+    "text": "Every single person, every single organization on the planet knows what they do, 100%.",
+    "uid": "30fb842c1a539b5e",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 153.9,
+    "end": 159.9
+  },
+  {
+    "text": "Some know how they do it, when you call it your differentiating value proposition,",
+    "uid": "3a8f417562fd096c",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 159.9,
+    "end": 163.9
+  },
+  {
+    "text": "or your proprietary processor, a USP, but very, very few people who are organizations know why they do what they do.",
+    "uid": "87dd8c872579b586",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 163.9,
+    "end": 171.9
+  },
+  {
+    "text": "And by why I don't mean to make a profit. That's a result. It's always a result.",
+    "uid": "434d698c3e293097",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 171.9,
+    "end": 175.9
+  },
+  {
+    "text": "By why? I mean, what's your purpose? What's your cause? What's your belief?",
+    "uid": "0531c4ce354d7f4e",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 175.9,
+    "end": 179.9
+  },
+  {
+    "text": "Why does your organization exist? Well, as a result, the way we think, the way we act,",
+    "uid": "eb73e28e47d7d549",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 179.9,
+    "end": 185.9
+  },
+  {
+    "text": "the way we communicate is from the outside in. It's obvious. We go from the clearest thing to the fuzzyest thing.",
+    "uid": "58295b40e64cf210",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 185.9,
+    "end": 190.9
+  },
+  {
+    "text": "But the inspired leaders, the inspired organizations, regardless of their size, regardless of their industry,",
+    "uid": "31f8d9402a711bd4",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 190.9,
+    "end": 198.9
+  },
+  {
+    "text": "all think act and communicate from the inside out. Let me give you an example.",
+    "uid": "ce17836be8e286e6",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 198.9,
+    "end": 204.9
+  },
+  {
+    "text": "I use Apple because they're easy to understand and everybody gets it. If Apple were like everyone else,",
+    "uid": "b847dd7edafd77c7",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 204.9,
+    "end": 210.9
+  },
+  {
+    "text": "a marketing message from them might sound like this. We make great computers. They're beautifully designed, simple to use, and use your friendly.",
+    "uid": "5a2465b5824e81e2",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 210.9,
+    "end": 220.9
+  },
+  {
+    "text": "Wanna buy one? Me? And that's how most of us communicate. That's how most marketing is done, that's how most sales is done,",
+    "uid": "3ee0c6a191f2bfe3",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 220.9,
+    "end": 228.9
+  },
+  {
+    "text": "and that's how most of us communicate in to personally. We say what we do, we say how we're different, how we better,",
+    "uid": "a88c102be5999202",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 228.9,
+    "end": 232.9
+  },
+  {
+    "text": "how we better and we expect some sort of behavior, a purchase of something like that. Here's our new law firm.",
+    "uid": "ff25d734aa4b8b4f",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 232.9,
+    "end": 237.9
+  },
+  {
+    "text": "We have the best lawyers with the biggest clients. We always perform for our clients, do business with us.",
+    "uid": "796b541f8fbb72f2",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 237.9,
+    "end": 242.9
+  },
+  {
+    "text": "Here's our new car. It gets great gas mileage. It has leather seats by our car. But it's uninspiring.",
+    "uid": "58d9ad2cee27369b",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 242.9,
+    "end": 249.9
+  },
+  {
+    "text": "Here's how Apple actually communicates. Everything we do, we believe in challenging the status quo.",
+    "uid": "77a63699be5f1c01",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 249.9,
+    "end": 258.9
+  },
+  {
+    "text": "We believe in thinking differently. The way we challenge the status quo is by making our products beautifully designed,",
+    "uid": "d11054418c4e5a38",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 258.9,
+    "end": 265.9
+  },
+  {
+    "text": "simple to use, and use your friendly. We just happen to make great computers. Wanna buy one?",
+    "uid": "03ff844029c20886",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 265.9,
+    "end": 271.9
+  },
+  {
+    "text": "Totally different, right? You ready to buy a computer for me?",
+    "uid": "b7f019eb00758def",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 271.9,
+    "end": 275.9
+  },
+  {
+    "text": "Well, I did was reverse the order of the information. People don't buy what you do. People buy why you do it. People don't buy what you do.",
+    "uid": "2a2c98de98af40f3",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 275.9,
+    "end": 282.9
+  },
+  {
+    "text": "They buy why you do it. This explains why every single person in this room is perfectly comfortable buying a computer for Apple.",
+    "uid": "f60c88b3ede449ca",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 282.9,
+    "end": 290.9
+  },
+  {
+    "text": "But we're also perfectly comfortable buying an MP3 player for Apple, or a phone for Apple, or a DVR for Apple.",
+    "uid": "a925b060f79aac1b",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 290.9,
+    "end": 297.9
+  },
+  {
+    "text": "But as I said before, Apple is just a computer company. There's nothing that distinguishes them structurally from any of their competitors.",
+    "uid": "3a20415fd996bd33",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 297.9,
+    "end": 303.9
+  },
+  {
+    "text": "Their competitors are all equally qualified to make all of these products. In fact, they tried a few years ago,",
+    "uid": "a59e549b9d25df32",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 303.9,
+    "end": 309.9
+  },
+  {
+    "text": "gateway came out with flat screen TVs. They're eminently qualified to make flat screen TVs. They've been making flat screen monitors for years.",
+    "uid": "c0092e9c37f4e03c",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 309.9,
+    "end": 316.9
+  },
+  {
+    "text": "Nobody bought one.",
+    "uid": "52bbf2e927d7b9f0",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 316.9,
+    "end": 318.9
+  },
+  {
+    "text": "They'll come out with MP3 players and PDAs. And they make great quality products and make perfectly well designed products.",
+    "uid": "764a5f916ac58e33",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 318.9,
+    "end": 326.9
+  },
+  {
+    "text": "And nobody bought one. In fact, talking about it now, we can't even imagine buying an MP3 player from Dell. Why would you buy an MP3 player from a computer company?",
+    "uid": "2b0d9c65962d96a6",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 326.9,
+    "end": 334.9
+  },
+  {
+    "text": "But we do it every day. People don't buy what you do. They buy why you do it.",
+    "uid": "bf7f5bb9fa0c00c0",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 334.9,
+    "end": 339.9
+  },
+  {
+    "text": "The goal is not to do business with anybody with everybody who needs what you have.",
+    "uid": "bfbfe3b362bde5e1",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 339.9,
+    "end": 344.9
+  },
+  {
+    "text": "The goal is to do business with people who believe what you believe.",
+    "uid": "a6a4d7aa2529b2da",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 344.9,
+    "end": 349.9
+  },
+  {
+    "text": "Here's the best part. None of what I'm telling you is my opinion.",
+    "uid": "e220fea0355abba5",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 349.9,
+    "end": 354.9
+  },
+  {
+    "text": "It's all grounded in the tenets of biology, not psychology, biology.",
+    "uid": "5ed48cc25024db19",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 354.9,
+    "end": 359.9
+  },
+  {
+    "text": "If you look at a cross section of the human brain looking from the top down, what you see is the human brain is actually broken into three major components that correlate perfectly with the golden circle.",
+    "uid": "5c99a039ac00a229",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 359.9,
+    "end": 369.9
+  },
+  {
+    "text": "Our newest brain, our homo sapiens brain, our neo cortex, corresponds with the what level. The neo cortex is responsible for all of our rational and analytical thought and language.",
+    "uid": "8db7c1fd42296b90",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 369.9,
+    "end": 381.9
+  },
+  {
+    "text": "The middle two sections make up our limbic brains and our limbic brains are responsible for all of our feelings, like trust and loyalty.",
+    "uid": "dfe2247ac0bb2258",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 381.9,
+    "end": 390.9
+  },
+  {
+    "text": "It's also responsible for all human behavior, all decision making, and it has no capacity for language.",
+    "uid": "35a3d205a5f4942b",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 390.9,
+    "end": 397.9
+  },
+  {
+    "text": "In other words, when we communicate from the outside in, yes, people can understand vast amounts of complicated information like features and benefits and facts and figures, just doesn't drive behavior.",
+    "uid": "e230b455d9ac8252",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 397.9,
+    "end": 408.9
+  },
+  {
+    "text": "When we communicate from the inside out, we're talking directly to the part of the brain that controls behavior and then we allow people to rationalize it with the tangible things we say and do.",
+    "uid": "8606b95d84b9e556",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 408.9,
+    "end": 418.9
+  },
+  {
+    "text": "This is where gut decisions come from.",
+    "uid": "c28e0b14d643137d",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 418.9,
+    "end": 421.9
+  },
+  {
+    "text": "You know, sometimes you can give somebody all the facts and you figures and he says, I know what all the facts and detail say, but it just doesn't feel right.",
+    "uid": "d59094da043fb8a9",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 421.9,
+    "end": 429.9
+  },
+  {
+    "text": "Why would we use that verb? It doesn't feel right. Because the part of the brain that controls decision making doesn't control language.",
+    "uid": "215ede1948d330f0",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 429.9,
+    "end": 435.9
+  },
+  {
+    "text": "And the best we can must interrupt is I don't know it just doesn't feel right.",
+    "uid": "663fefdfd6d8da93",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 435.9,
+    "end": 439.9
+  },
+  {
+    "text": "Or sometimes you say you're leading with your heart or you're leading with your soul.",
+    "uid": "86bca98150681341",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 439.9,
+    "end": 442.9
+  },
+  {
+    "text": "Well, I hate to break it to you. There's other body parts controlling your behavior.",
+    "uid": "3a49834d35317777",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 442.9,
+    "end": 446.9
+  },
+  {
+    "text": "It's all happening here in your limbic brain, the part of the brain that controls decision making and not language.",
+    "uid": "106e6ee763c3c810",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 446.9,
+    "end": 452.9
+  },
+  {
+    "text": "But if you don't know why you do what you do and people respond to why you do what you do, then how will anybody, how will you ever get people to vote for your buy something from you or more importantly, be loyal.",
+    "uid": "e6e936650f7c8917",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 452.9,
+    "end": 464.9
+  },
+  {
+    "text": "And want to be a part of what it is that you do. Again, the goal is not just to sell people who need what you have, the goal is to sell people who believe what you believe.",
+    "uid": "cecb71b985907420",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 464.9,
+    "end": 473.9
+  },
+  {
+    "text": "The goal is not just to hire people who need a job. It's to hire people who believe what you believe.",
+    "uid": "47261296584d82f6",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 473.9,
+    "end": 480.9
+  },
+  {
+    "text": "I always say that, you know, if you, if you, if you, if you hire people just because they can do a job, they'll work for your money.",
+    "uid": "80a82545f9bcd608",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 480.9,
+    "end": 488.9
+  },
+  {
+    "text": "But if you hire people who believe what you believe they work for you with blood and sweat and tears and nowhere else is there a better example of this than with the right brothers.",
+    "uid": "7f715e218598b7f1",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 488.9,
+    "end": 496.9
+  },
+  {
+    "text": "Most people don't know about Samuel Peerpunt Langley and back in the early 20th century, the pursuit of power demand flight was like the dot com of the day everybody was trying it.",
+    "uid": "76b7f9bb99d98d9a",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 496.9,
+    "end": 507.9
+  },
+  {
+    "text": "And Samuel Peerpunt Langley had what we assumed to be the recipe for success.",
+    "uid": "da3567d8055ab38c",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 507.9,
+    "end": 513.9
+  },
+  {
+    "text": "I mean, even now, you asked people why did your product or why did your company fail and people always give you the same permutation of the same three things under capitalized the wrong people bad market conditions.",
+    "uid": "bb3b42253b23f3fa",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 513.9,
+    "end": 525.9
+  },
+  {
+    "text": "It was the same three things. So let's explore that.",
+    "uid": "a46ee8b7351e0500",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 525.9,
+    "end": 528.9
+  },
+  {
+    "text": "Samuel Peerpunt Langley was given $50,000 by the award department to figure out this flying machine money was no problem.",
+    "uid": "9743f99f5e724384",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 528.9,
+    "end": 536.9
+  },
+  {
+    "text": "He held a seat at Harvard and worked at the Smithsonian and was extremely well connected. He knew all the big minds of the day.",
+    "uid": "04f39d17e6f45006",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 536.9,
+    "end": 543.9
+  },
+  {
+    "text": "He hired the best minds money could find and the market conditions were fantastic.",
+    "uid": "a3b62095a40a69aa",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 543.9,
+    "end": 549.9
+  },
+  {
+    "text": "The New York Times followed him around everywhere and everyone was rooting for Langley.",
+    "uid": "c5ccf75bc7f7c0f2",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 549.9,
+    "end": 554.9
+  },
+  {
+    "text": "And how can we've never heard of Samuel Peerpunt Langley?",
+    "uid": "17e405ded1aaf4cc",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 554.9,
+    "end": 558.9
+  },
+  {
+    "text": "A few hundred miles away in Dayton, Ohio, orville and Wilbur Wright.",
+    "uid": "c9864abd2181c58b",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 558.9,
+    "end": 563.9
+  },
+  {
+    "text": "They had none of what we consider to be the recipe for success.",
+    "uid": "3ab4ecc2ca567b70",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 563.9,
+    "end": 567.9
+  },
+  {
+    "text": "They had no money. They paid for their dream with the proceeds from their bicycle shop.",
+    "uid": "f4c805ae5fec8086",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 567.9,
+    "end": 571.9
+  },
+  {
+    "text": "Not a single person on the Wright Brothers team had a college education, not even Orville or Wilbur.",
+    "uid": "2d44a566a6cb1e09",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 571.9,
+    "end": 577.9
+  },
+  {
+    "text": "And the New York Times followed them around nowhere.",
+    "uid": "2f252d6bdf34d2e8",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 577.9,
+    "end": 581.9
+  },
+  {
+    "text": "The difference was Orville and Wilbur were driven by a cause by a purpose by a belief.",
+    "uid": "f88cd440729a7208",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 581.9,
+    "end": 587.9
+  },
+  {
+    "text": "They believed that if they could figure out this flying machine, it'll change the course of the world.",
+    "uid": "9db2310a4706ab94",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 587.9,
+    "end": 594.9
+  },
+  {
+    "text": "Samuel Peerpunt Langley was different. He wanted to be rich and he wanted to be famous.",
+    "uid": "dc2d4320260d122a",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 594.9,
+    "end": 599.9
+  },
+  {
+    "text": "He was in pursuit of the result. He was in pursuit of the riches and low and behold, look what happened.",
+    "uid": "43eed0e2700a085e",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 599.9,
+    "end": 605.9
+  },
+  {
+    "text": "The people who believed in the Wright Brothers dream worked with them with blood and sweat and tears.",
+    "uid": "e79a5791e5575b45",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 605.9,
+    "end": 611.9
+  },
+  {
+    "text": "The others just worked for the paycheck.",
+    "uid": "c7677ff34a701558",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 611.9,
+    "end": 613.9
+  },
+  {
+    "text": "And they tell stories of how every time the Wright Brothers went out, they would have to take five sets of parts,",
+    "uid": "13bee86898994878",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 613.9,
+    "end": 618.9
+  },
+  {
+    "text": "because that's how many times they would crash before they came in for supper.",
+    "uid": "1f7a38d9b1db32dc",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 618.9,
+    "end": 622.9
+  },
+  {
+    "text": "And eventually on December 17, 1903, the Wright Brothers took flight.",
+    "uid": "687f3f96251f6e69",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 622.9,
+    "end": 628.9
+  },
+  {
+    "text": "And no one was there to even experience it. We found out about it a few days later.",
+    "uid": "d3a1b0e8b4d44408",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 628.9,
+    "end": 634.9
+  },
+  {
+    "text": "And further proof that Langley was motivated by the wrong thing,",
+    "uid": "c38fcffe9b1d3870",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 634.9,
+    "end": 638.9
+  },
+  {
+    "text": "the day the Wright Brothers took flight, he quit.",
+    "uid": "0ca81412d4f98b26",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 638.9,
+    "end": 642.9
+  },
+  {
+    "text": "He could have said, that's an amazing discovery, guys.",
+    "uid": "6b05916b53e9bf68",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 642.9,
+    "end": 645.9
+  },
+  {
+    "text": "And I will improve upon your technology. But he didn't. He wasn't first. He didn't get rich. He didn't get famous.",
+    "uid": "05835cf49e0e934a",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 645.9,
+    "end": 651.9
+  },
+  {
+    "text": "So he quit. People don't buy what you do, they buy why you do it.",
+    "uid": "1dca7b5cf6599990",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 651.9,
+    "end": 655.9
+  },
+  {
+    "text": "And if you talk about what you believe, you will attract those who believe what you believe.",
+    "uid": "5b5e054ab93e0cfe",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 655.9,
+    "end": 660.9
+  },
+  {
+    "text": "Why is it important to attract those who believe what you believe?",
+    "uid": "005de43e68f1df3e",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 660.9,
+    "end": 664.9
+  },
+  {
+    "text": "Something called the law of diffusion of innovation. And if you don't know the law, you definitely know the terminology.",
+    "uid": "11b16e97394b284b",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 664.9,
+    "end": 671.6
+  },
+  {
+    "text": "The first 2.5% of our population are our innovators.",
+    "uid": "c3ecf5019b8773b5",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 671.6,
+    "end": 676.6
+  },
+  {
+    "text": "The next 13.5% of our population are our earlier doctors.",
+    "uid": "d5069273cbb924b0",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 676.6,
+    "end": 681.6
+  },
+  {
+    "text": "The next 34% are your early majority, your late majority, and your laggards.",
+    "uid": "910c38e1e8351ca4",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 681.6,
+    "end": 686.6
+  },
+  {
+    "text": "The only reason these people by touch tone phones is because you can't buy rotary phones anymore.",
+    "uid": "f3db4e3049d81e5e",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 686.6,
+    "end": 691.6
+  },
+  {
+    "text": "We all sit at various places at various times on the scale, but with the law of diffusion of innovation tells us,",
+    "uid": "e8416b231d3dcaf0",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 691.6,
+    "end": 699.81
+  },
+  {
+    "text": "is that if you want mass market success or mass market acceptance of an idea, you cannot have it until you achieve this tipping point between 15 and 18% market penetration,",
+    "uid": "0402a1c4e85f46e5",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 699.81,
+    "end": 711.81
+  },
+  {
+    "text": "and then the system tips.",
+    "uid": "c8f3c1bd96094e0a",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 711.81,
+    "end": 714.81
+  },
+  {
+    "text": "And I love asking businesses, what's your conversion on new business?",
+    "uid": "0ceb3f26d2a4fdb1",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 714.81,
+    "end": 717.81
+  },
+  {
+    "text": "And they love to tell you, oh, it's about 10% proudly.",
+    "uid": "20752dae8b21c40a",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 717.81,
+    "end": 719.81
+  },
+  {
+    "text": "Well, you can trip over 10% of the customers. We all have about 10% who just get it. That's how we describe them.",
+    "uid": "d78b4c1fe7cdb7f8",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 719.81,
+    "end": 724.81
+  },
+  {
+    "text": "Right? That's like that gut feeling. Oh, they just get it. The problem is how do you find the ones that just get it before you're doing business with them versus the ones who don't get it?",
+    "uid": "8f27454bab6022fa",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 724.81,
+    "end": 732.81
+  },
+  {
+    "text": "So it's this here, this little gap that you have to close, as Jeffrey Mirko's crossing the chasm.",
+    "uid": "b0cbb6f8ee492a8a",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 732.81,
+    "end": 739.81
+  },
+  {
+    "text": "Because you see the early majority will not try something until someone else has tried it first.",
+    "uid": "6f31ab21e43c60b3",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 739.81,
+    "end": 747.81
+  },
+  {
+    "text": "And these guys, the innovators and the early adopters, they're comfortable making those gut decisions.",
+    "uid": "9fbe5112c3c228f6",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 747.81,
+    "end": 752.81
+  },
+  {
+    "text": "They're more comfortable making those intuitive decisions that are driven by what they believe about the world and not just what product is available.",
+    "uid": "83352fb1cb2297a7",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 752.81,
+    "end": 761.81
+  },
+  {
+    "text": "These are the people who stood online for six hours to buy an iPhone when they first came out.",
+    "uid": "5fb32384dd487e4f",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 761.81,
+    "end": 766.81
+  },
+  {
+    "text": "When you could have just walked into the store the next week in bought one of the shelf. These are the people who spent $40,000 on flat screen TVs when they first came out even though the technology was substandard.",
+    "uid": "84e77629b0274017",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 766.81,
+    "end": 777.81
+  },
+  {
+    "text": "And by the way, they didn't do it because the technology was so great. They did it for themselves.",
+    "uid": "fb6cff617aefdf40",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 777.81,
+    "end": 783.81
+  },
+  {
+    "text": "It's because they wanted to be first. People don't buy what you do, they buy why you do it. And what you do simply proves what you believe.",
+    "uid": "5fab6488c2fe1860",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 783.81,
+    "end": 791.81
+  },
+  {
+    "text": "In fact, people will do the things that prove what they believe.",
+    "uid": "9dec6920b6ad81a1",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 791.81,
+    "end": 795.81
+  },
+  {
+    "text": "The reason that person bought the iPhone on the first six hours, the student in line for six hours, was because what they believed about the world and how they wanted everybody to see them, they were first.",
+    "uid": "5403a3115b7b5e1a",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 795.81,
+    "end": 807.81
+  },
+  {
+    "text": "People don't buy what you do, they buy why you do it.",
+    "uid": "942123e41b351b70",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 807.81,
+    "end": 810.81
+  },
+  {
+    "text": "So let me give you a famous example, a famous failure and a success of the low diffusion of innovation.",
+    "uid": "1daee291e6ca1a96",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 810.81,
+    "end": 816.81
+  },
+  {
+    "text": "First, the famous failure. It's a commercial example.",
+    "uid": "4edc0234a124c372",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 816.81,
+    "end": 820.81
+  },
+  {
+    "text": "As we said before a second ago, the recipe for success is money and the right people and the right market conditions, right? You should have success then.",
+    "uid": "bfb2bf508b06bce4",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 820.81,
+    "end": 827.81
+  },
+  {
+    "text": "Look at TV. From the time TV came out about eight or nine years ago to this current day, they are the single highest quality product on the market. Hands down, there is no dispute.",
+    "uid": "3c16281c43f93a45",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 827.81,
+    "end": 839.81
+  },
+  {
+    "text": "They were extremely well funded. Market conditions were fantastic. I mean, we use TV as a verb. I like TV stuff on my piece of junk time Warner DVR all the time.",
+    "uid": "485cef43a994bcbf",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 839.81,
+    "end": 848.81
+  },
+  {
+    "text": "But TV is a commercial failure. They've never made money.",
+    "uid": "3d61f408fe46308f",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 848.81,
+    "end": 855.46
+  },
+  {
+    "text": "And when they went IPO, their stock was at about thirty or forty dollars and then plummeted and it's never traded above ten.",
+    "uid": "1181a1821c3418c4",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 855.46,
+    "end": 862.46
+  },
+  {
+    "text": "In fact, I don't think, because it's even traded above six except for a couple of little spikes.",
+    "uid": "32b8601f5dec76cc",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 862.46,
+    "end": 866.46
+  },
+  {
+    "text": "Because you see when TV launched their product, they told us all what they had.",
+    "uid": "894aa95291d33a00",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 866.46,
+    "end": 871.46
+  },
+  {
+    "text": "They said, we have a product that pauses live TV, skips commercials, rewinds live TV and memorizes your viewing habits without you even asking.",
+    "uid": "b6447a7fcf12af14",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 871.46,
+    "end": 882.46
+  },
+  {
+    "text": "And the cynical majority said, we don't believe you. We don't need it. We don't like it. You're scaring us.",
+    "uid": "5788e4d0643bb61d",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 882.46,
+    "end": 891.46
+  },
+  {
+    "text": "What if they had said, if you're the kind of person who likes to have total control over every aspect of your life, boy, do we have a product for you?",
+    "uid": "3f8f2b247bed3e8e",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 891.46,
+    "end": 903.46
+  },
+  {
+    "text": "It pauses live TV, skips commercials, memorizes your viewing habits, et cetera, et cetera.",
+    "uid": "8a683891d7a2344b",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 903.46,
+    "end": 908.46
+  },
+  {
+    "text": "People don't buy what you do, they buy why you do it and what you do simply serves as the proof of what you believe.",
+    "uid": "e2d155361d6714a2",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 908.46,
+    "end": 915.46
+  },
+  {
+    "text": "Now let me give you a successful example of the law of diffusion of innovation.",
+    "uid": "57d55d6d477d0b03",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 915.46,
+    "end": 920.46
+  },
+  {
+    "text": "In the summer of 1963, 250,000 people showed up on the Moll and Washington to hear Dr. King speak.",
+    "uid": "974a2a278efcb5b3",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 920.46,
+    "end": 930.46
+  },
+  {
+    "text": "They sent out no invitations and there was no website to check the date. How do you do that?",
+    "uid": "9fdfc63b742802ba",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 930.46,
+    "end": 938.46
+  },
+  {
+    "text": "Well, Dr. King wasn't the only man in America who was a great artist. He wasn't the only man in America who suffered in a presylorects America.",
+    "uid": "fe6deda318dac787",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 938.46,
+    "end": 946.46
+  },
+  {
+    "text": "In fact, some of his ideas were bad, but he had a gift. He didn't go around telling people what needed to change in America.",
+    "uid": "54cb4dad5d97f252",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 946.46,
+    "end": 954.46
+  },
+  {
+    "text": "He went around and told people what he believed. I believe, I believe, I believe he told people.",
+    "uid": "a7f6c6544c889a61",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 954.46,
+    "end": 960.46
+  },
+  {
+    "text": "And people who believed what he believed took his cause and they made it their own and they told people.",
+    "uid": "a55537cdc11a5757",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 960.46,
+    "end": 966.46
+  },
+  {
+    "text": "And some of those people created structures to get the word out even more people.",
+    "uid": "0db125926f2b5a3f",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 966.46,
+    "end": 971.46
+  },
+  {
+    "text": "And lo and behold, 250,000 people showed up on the right day on the right time to hear him speak.",
+    "uid": "fd07b92c3a94fca4",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 971.46,
+    "end": 979.46
+  },
+  {
+    "text": "How many of them showed up for him? Zero. They showed up for themselves.",
+    "uid": "50db05b1454c58fd",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 979.46,
+    "end": 987.81
+  },
+  {
+    "text": "It's what they believed about America that got them to travel in a bus for eight hours to stand in the sun in the middle of August.",
+    "uid": "c001a4549b0f698f",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 987.81,
+    "end": 995.81
+  },
+  {
+    "text": "It's what they believed and it wasn't about black versus white. 25% of the audience was white.",
+    "uid": "a8b6c6a5f570e3e0",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 995.81,
+    "end": 1001.81
+  },
+  {
+    "text": "Dr. King believed that there were two types of laws in this world.",
+    "uid": "9212c598d73f594f",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1001.81,
+    "end": 1005.81
+  },
+  {
+    "text": "Those that are made by a higher authority and those that are made by man.",
+    "uid": "0c56e9f9f9ff601e",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1005.81,
+    "end": 1009.81
+  },
+  {
+    "text": "And not until all the laws that are made by man are consistent with the laws that are made by the higher authority will we live in a just world.",
+    "uid": "2158a6a94b40ba0c",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1009.81,
+    "end": 1016.81
+  },
+  {
+    "text": "It just so happens that the silver rights movement was the perfect thing to help him bring his cause to life.",
+    "uid": "08572442b69244ec",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1016.81,
+    "end": 1023.81
+  },
+  {
+    "text": "We followed him not for him but for ourselves. And by the way, he gave the eye of a dream speech, not the eye of a plan speech.",
+    "uid": "a6ea8095db92392c",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1023.81,
+    "end": 1030.81
+  },
+  {
+    "text": "Listen to politicians now with their comprehensive 12 point plans and not inspiring anybody.",
+    "uid": "54dfedcbfc3d1fea",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1030.81,
+    "end": 1039.49
+  },
+  {
+    "text": "Because there were leaders and there are those who lead.",
+    "uid": "f6e77d1a1abe9c35",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1039.49,
+    "end": 1043.49
+  },
+  {
+    "text": "Leaders hold a position of power or authority. But those who lead inspire us.",
+    "uid": "988e2d36d9934825",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1043.49,
+    "end": 1050.49
+  },
+  {
+    "text": "Whether they're individuals or organizations, we follow those who lead not because we have to, but because we want to.",
+    "uid": "de2664913711f30e",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1051.49,
+    "end": 1059.49
+  },
+  {
+    "text": "We follow those who lead not for them, but for ourselves.",
+    "uid": "03c2e5e3295fd6fb",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1059.49,
+    "end": 1065.49
+  },
+  {
+    "text": "And it's those who start with why.",
+    "uid": "c80676d15b7d84c9",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1065.49,
+    "end": 1068.49
+  },
+  {
+    "text": "That have the ability to inspire those around them or find others who inspire them. Thank you very much.",
+    "uid": "5c78f78486e17151",
+    "source": "TEDx_Talks - Start_with_why_--_how_great_leaders_inspire_action_Simon_Sinek_TEDx",
+    "start": 1068.49,
+    "end": 1077.49
+  }
+]
