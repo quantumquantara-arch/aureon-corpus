@@ -1,0 +1,3635 @@
+[
+  {
+    "text": "Hey everyone, welcome to Talks of Google. I'm Map on Jovi and I'm thrilled to be joined today by Oliver Raider.",
+    "uid": "fbeebdebfb1034ce",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 12.85,
+    "end": 19.25
+  },
+  {
+    "text": "Oliver is a journalist and author who has been a senior writer at 538 and editor of the Riddleur Puzzle Column, a collection of endlessly entertaining math puzzles.",
+    "uid": "42df89339c57d18a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 19.25,
+    "end": 29.05
+  },
+  {
+    "text": "Oliver recently studied artificial intelligence as a Neemin fellow at Harvard University and holds a PhD in economics with a focus on game theory.",
+    "uid": "1b1222eef605ebc6",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 29.05,
+    "end": 37.65
+  },
+  {
+    "text": "Oliver is here with us today to discuss whose newest book, Seven Games, a Human History, which is a biography of Seven Enduring and Beloved Games, from chess to poker to go and a few others.",
+    "uid": "23278d2b66465b6d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 38.45,
+    "end": 49.45
+  },
+  {
+    "text": "In his book Oliver examines the story of why and how we humans play these games, he delves into the delightful arcana of their rules and looks at the interplay between elite champions of these games and the emerging AI players that have come to dominate in several realms.",
+    "uid": "45a475bf9c32bd94",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 49.45,
+    "end": 65.45
+  },
+  {
+    "text": "Now throughout our talk, you might have some great questions pop up in your head and when you do, please go ahead and add them to the chat on the right.",
+    "uid": "c65293fc21097101",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 66.25,
+    "end": 72.25
+  },
+  {
+    "text": "We will have time shortly for Oliver to answer some of these so be sure to get your questions in early.",
+    "uid": "f21d62bac1c9725e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 72.25,
+    "end": 77.25
+  },
+  {
+    "text": "But first, Oliver, thank you so much for being here.",
+    "uid": "94b6f52efa7ba7c3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 77.25,
+    "end": 80.25
+  },
+  {
+    "text": "My pleasure, thank you so much for having me.",
+    "uid": "66e01899a4dcdc59",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 80.25,
+    "end": 83.25
+  },
+  {
+    "text": "So your book does a great job of both looking in depth at these seven games that you present while also being thoughtful on some of the big, almost philosophical questions around gaming.",
+    "uid": "9d8e3ede217b1fe4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 84.25,
+    "end": 94.25
+  },
+  {
+    "text": "One of those questions that I want to start with is why do we play games?",
+    "uid": "6867479733ca8248",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 95.05,
+    "end": 99.05
+  },
+  {
+    "text": "Yes, it's a great question. A natural one. Why did I write a whole book about these things?",
+    "uid": "82b1edd6b0afec4d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 100.25,
+    "end": 104.65
+  },
+  {
+    "text": "Yeah, I think there's a constellation of answers.",
+    "uid": "7ea2fe9f7e61c5aa",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 104.65,
+    "end": 109.05
+  },
+  {
+    "text": "I think the simplest but maybe at least satisfactory answer is that games are fun.",
+    "uid": "b036c1d178f12509",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 109.05,
+    "end": 115.85
+  },
+  {
+    "text": "Games are ways to occupy our time in an enjoyable way.",
+    "uid": "97ca96c030930f59",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 115.85,
+    "end": 121.05
+  },
+  {
+    "text": "But I think there's deeper, more interesting answers as well.",
+    "uid": "f13666868979f8d9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 121.45,
+    "end": 126.25
+  },
+  {
+    "text": "One of these is that games are practice.",
+    "uid": "80bd90a82c3176d0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 127.85,
+    "end": 130.25
+  },
+  {
+    "text": "There's a famous story that I was told many times when I was reporting this book.",
+    "uid": "07c174b42e35b7e0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 131.05,
+    "end": 136.25
+  },
+  {
+    "text": "Imagine that you're a prehistoric human and you have to hunt to gather food.",
+    "uid": "d170d13ca036120d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 136.25,
+    "end": 141.45
+  },
+  {
+    "text": "There's a few ways you could go about this. You could hunt all the time, but this is incredibly dangerous.",
+    "uid": "8d25c5c7d77ca3b2",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 141.85,
+    "end": 147.05
+  },
+  {
+    "text": "You could never hunt, but that's no good either because then you never get any good at hunting.",
+    "uid": "cd45806b22d0bf9c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 148.01,
+    "end": 152.25
+  },
+  {
+    "text": "Or you could invent a game.",
+    "uid": "2aa2b15200c7c996",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 152.65,
+    "end": 153.85
+  },
+  {
+    "text": "Through this rock at that tree, first person to hit it wins.",
+    "uid": "49c3ac369f83b2f0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 154.57,
+    "end": 157.85
+  },
+  {
+    "text": "And the game is a way to sort of practice for the real world.",
+    "uid": "81b39f3c561b882c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 158.41,
+    "end": 162.97
+  },
+  {
+    "text": "And indeed today, instead of rather less violent times, games are still practice.",
+    "uid": "8e9e07e22a12ce7f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 162.97,
+    "end": 168.97
+  },
+  {
+    "text": "They distill elements of the real world.",
+    "uid": "fb33ec164178411f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 168.97,
+    "end": 172.01
+  },
+  {
+    "text": "So a game like chess allows us to practice strategy and planning ahead.",
+    "uid": "05416e043321df56",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 172.01,
+    "end": 177.21
+  },
+  {
+    "text": "A game like backgammon allows us to grapple with the uncertainty of the world,",
+    "uid": "fea56a60ef5549a3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 177.93,
+    "end": 182.09
+  },
+  {
+    "text": "to be the roles of a dice, a game like poker.",
+    "uid": "6960c8873466fdd8",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 182.09,
+    "end": 185.05
+  },
+  {
+    "text": "We're confronted with hidden information and deception and on and on.",
+    "uid": "61d19294269d835b",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 185.93,
+    "end": 190.73
+  },
+  {
+    "text": "So games are sort of a form of practice for the real world.",
+    "uid": "6ce2a712038f064a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 191.29,
+    "end": 194.09
+  },
+  {
+    "text": "The third answer that I would throw into the mix is that games are in art form",
+    "uid": "6c72bd3525baa41d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 195.61,
+    "end": 200.49
+  },
+  {
+    "text": "and that playing games is a form of art appreciation.",
+    "uid": "6ab2e9764287e7cf",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 200.57,
+    "end": 204.41
+  },
+  {
+    "text": "I mean that not in a grand deos way, but in a literal way.",
+    "uid": "feef7fb2fffa466d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 206.33,
+    "end": 210.01
+  },
+  {
+    "text": "So whereas painting captures the visual world and music captures the heard world,",
+    "uid": "41ce7aee4c0d61b3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 210.81,
+    "end": 216.89
+  },
+  {
+    "text": "games capture agency, human agency, these sort of modes of deciding and deliberating and acting.",
+    "uid": "ece3db50c43eed6a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 217.53,
+    "end": 225.93
+  },
+  {
+    "text": "And we humans like art appreciation, I think games are one mode of that.",
+    "uid": "be380e38b3fbc520",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 226.73,
+    "end": 233.93
+  },
+  {
+    "text": "Yeah, that's interesting at that point about agency because it's also, it seems like you can",
+    "uid": "8fa29c3d71962d54",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 234.89,
+    "end": 239.53
+  },
+  {
+    "text": "interact in ways that you wouldn't necessarily in everyday life.",
+    "uid": "c1da005c963c355d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 240.97,
+    "end": 245.53
+  },
+  {
+    "text": "You can create these scenarios where you can exercise a different kind of agency.",
+    "uid": "4f2af56a768865fa",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 245.53,
+    "end": 248.89
+  },
+  {
+    "text": "Yeah, that's right. I mean, it's not often that I get to lead an army",
+    "uid": "41c22e65121d3731",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 250.17,
+    "end": 255.69
+  },
+  {
+    "text": "into battle in the real world, probably for the best, but when I play chess or Stratego or any sort of modern",
+    "uid": "f4a26955aa51fb28",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 255.77,
+    "end": 267.45
+  },
+  {
+    "text": "game that takes place in that milieu, I can do. We get to occupy states of agency that",
+    "uid": "854b8e8a22b6c934",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 268.89,
+    "end": 280.57
+  },
+  {
+    "text": "then are in other ways available to us. I think that's a great point. That's certainly another appeal.",
+    "uid": "3a7b343d22ebdc0e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 280.57,
+    "end": 284.65
+  },
+  {
+    "text": "Yeah, and are you practicing to lead an army somewhere? Is that something we should be concerned about?",
+    "uid": "78daced389e815e5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 285.21,
+    "end": 289.69
+  },
+  {
+    "text": "I'm not at liberty to talk about that. That's good. But I will say that I think that I do think that the",
+    "uid": "fedc0855413d299e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 289.69,
+    "end": 298.17
+  },
+  {
+    "text": "the border between games and real life is a porous one. I think that we do legitimately learn things",
+    "uid": "4b5f1cf73bff4951",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 298.17,
+    "end": 308.33
+  },
+  {
+    "text": "from games and take them to our real lives. I can tell you, give you a personal example which is I used to",
+    "uid": "ba32c527e832c2b6",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 308.33,
+    "end": 313.45
+  },
+  {
+    "text": "be deeply, deeply obsessed with Scrabble. The key dynamic in Scrabble is an inter-temperal one, a trade-off",
+    "uid": "d929385cbfe522a3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 313.45,
+    "end": 323.13
+  },
+  {
+    "text": "between today and tomorrow, or in Scrabble this turn and the next turn. This is the sort of dynamic",
+    "uid": "c2674ac4b1d89b09",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 323.13,
+    "end": 328.17
+  },
+  {
+    "text": "programming problem. Scoring points today, leaving yourself good tiles for next turn. I think I",
+    "uid": "28bdf890a75f7a21",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 328.17,
+    "end": 334.25
+  },
+  {
+    "text": "very legitimately think I learned lessons about saving and being kind to my future self through",
+    "uid": "0f6e4859d4335e1c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 334.49,
+    "end": 341.21
+  },
+  {
+    "text": "my Scrabble obsession. I think this is a real thing, and I'm sure I'm not alone.",
+    "uid": "642b89d3a70e3d24",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 341.21,
+    "end": 347.37
+  },
+  {
+    "text": "Yeah. Yeah, because also with the scope of games, there's that immediate payoff or damage where you're",
+    "uid": "06985d2916f398cf",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 348.17,
+    "end": 353.21
+  },
+  {
+    "text": "like, oh, I should have saved that S until next turn. You don't have to wait the way that you do in",
+    "uid": "b573d4a616fd3ef6",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 353.21,
+    "end": 357.21
+  },
+  {
+    "text": "life sometimes to get hit in the face of your mistake. That's right. The lessons come fast and furious.",
+    "uid": "a7e4495bf71b23d8",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 357.21,
+    "end": 363.21
+  },
+  {
+    "text": "Like I can play a lot of games of Scrabble or a lot of Handsipoker or whatever it is.",
+    "uid": "45056148ae9e6dc4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 363.21,
+    "end": 369.29
+  },
+  {
+    "text": "This sort of is a miniature, crystallized little models of the world. Yeah, definitely.",
+    "uid": "1ee935698e89d6e5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 370.17,
+    "end": 376.33
+  },
+  {
+    "text": "Now from the very earliest days of computing, researchers and programmers have been tinkering with games.",
+    "uid": "895d6c07ef0f5a41",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 377.29,
+    "end": 382.81
+  },
+  {
+    "text": "Why even early on was there this natural marriage between computing and games?",
+    "uid": "234b1a59997a08f4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 382.81,
+    "end": 387.37
+  },
+  {
+    "text": "Well, again, I think there's a few answers. I think one is sort of what we've",
+    "uid": "e9d4092c5e810770",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 387.69,
+    "end": 392.17
+  },
+  {
+    "text": "already been talking about. I think if games are practice for the real world for humans,",
+    "uid": "5faa3263c1934a50",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 392.17,
+    "end": 399.05
+  },
+  {
+    "text": "games are practice for the real world for computers. They're appealing to computer scientists for a number of",
+    "uid": "6b1c78c8623cfdde",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 399.45,
+    "end": 408.57
+  },
+  {
+    "text": "reasons. One is, you know, they're small and manageable. You can, again, just like a humans, you can",
+    "uid": "f067bc331404f328",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 408.57,
+    "end": 414.17
+  },
+  {
+    "text": "play a lot of them in a row. They're very easily measurable. So you can put a computer against",
+    "uid": "1a4970cb9c73c7e1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 414.25,
+    "end": 421.13
+  },
+  {
+    "text": "another computer and games have winners and losers. And that's that's data that you're generating.",
+    "uid": "941f5ec789d3189e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 421.13,
+    "end": 426.17
+  },
+  {
+    "text": "Or you can put a computer versus a human. And if the computer wins well, hey, in this very limited domain,",
+    "uid": "3789b54e0e525d9c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 426.17,
+    "end": 431.61
+  },
+  {
+    "text": "I have very good reasons to suspect this computer is better than the human. And I think closely related to",
+    "uid": "46f43ad475f8fbb9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 431.61,
+    "end": 439.29
+  },
+  {
+    "text": "that is games, chess seemingly chief among them, has long been sort of tied up with the concept of",
+    "uid": "6cd5d900e9346679",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 439.29,
+    "end": 447.21
+  },
+  {
+    "text": "intelligence itself. So if you look back at, you know, the document proposing this famous AI",
+    "uid": "4aef18ee79131915",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 447.21,
+    "end": 455.69
+  },
+  {
+    "text": "symposium at Dartmouth and the 50s. And they said, we envision computers doing, you know, the highest",
+    "uid": "ae0bf9f45d075b7b",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 455.69,
+    "end": 461.69
+  },
+  {
+    "text": "columns of human kind and they list of them. And they was like writing music and proving mathematical",
+    "uid": "056b2e069de07629",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 461.77,
+    "end": 467.45
+  },
+  {
+    "text": "theorems and playing chess. These were like the three things they wanted their AI to be able to do. So",
+    "uid": "5bfc76d17032f1e6",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 467.45,
+    "end": 475.05
+  },
+  {
+    "text": "I think it's practical. On the one hand, it's practical. Games are a very practical thing to unleash your",
+    "uid": "831863b6f6f569ec",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 475.05,
+    "end": 480.65
+  },
+  {
+    "text": "your system on. And two, it's sort of this romantic notion of this high, these higher ideals of",
+    "uid": "5b90f0a237211ab3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 480.65,
+    "end": 487.05
+  },
+  {
+    "text": "humanity. Yeah, yeah, that's an interesting point. And kind of going into some of the earlier AI's",
+    "uid": "c13f8a2b21f7882a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 487.69,
+    "end": 494.17
+  },
+  {
+    "text": "around games, you talk in your book about checkers and some of the early projects around building AI",
+    "uid": "dc69f7b54acdb953",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 494.17,
+    "end": 500.17
+  },
+  {
+    "text": "that can play checkers and win at checkers. Can you tell us a little bit about that?",
+    "uid": "6beb17eb17b4d1cf",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 501.05,
+    "end": 504.17
+  },
+  {
+    "text": "Yeah, I mean, as long as there have been computers, they've played games more or less. I mean, you",
+    "uid": "638cedabb451170c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 505.29,
+    "end": 513.45
+  },
+  {
+    "text": "had, you know, guys like Arthur Samuel on the first big IBM mainframes was testing the IBM machines",
+    "uid": "289050f77062de47",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 513.45,
+    "end": 521.29
+  },
+  {
+    "text": "with his checkers program, hitting two of these, you know, refrigerator-sized things against each other",
+    "uid": "aeb0d71e33fb6ea4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 521.85,
+    "end": 528.65
+  },
+  {
+    "text": "and sleeping in the IBM factory watching these machines play checkers. And checkers, um, checkers is the first",
+    "uid": "baca9c0802c6e21e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 528.65,
+    "end": 535.53
+  },
+  {
+    "text": "checker in in my book and has a really fascinating story. I think checkers gets a real, a real bad",
+    "uid": "c3c24b90740d3ce4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 535.61,
+    "end": 542.65
+  },
+  {
+    "text": "rap as sort of, you know, a child's game, sort of pre chess, sort of, this thing that's, you know,",
+    "uid": "9708efdff47d0008",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 542.65,
+    "end": 549.53
+  },
+  {
+    "text": "limited to what indoor recess when you're in elementary school or whatever. Yeah, but checkers was this first",
+    "uid": "3e83abed952fc4f7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 549.53,
+    "end": 556.01
+  },
+  {
+    "text": "real real test of machines and sort of, um, you know, the computer program I started figuring out,",
+    "uid": "dd75d1f87631dd9c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 556.01,
+    "end": 564.49
+  },
+  {
+    "text": "like, how do I quickly and efficiently like traverse the tree that is a game of checkers? How do I",
+    "uid": "72f375e7d3c79d27",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 564.49,
+    "end": 571.77
+  },
+  {
+    "text": "accurately evaluate positions on this tree once I get to them? And sort of, yeah, checkers was, it was the",
+    "uid": "131dd61292fc6f26",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 572.33,
+    "end": 579.05
+  },
+  {
+    "text": "site of a lot of really seminal computer science and the site of an absolutely fantastic sort of,",
+    "uid": "2bc756b247b528c5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 579.05,
+    "end": 586.49
+  },
+  {
+    "text": "I was about to say human versus machine, but really human versus human, um, battle that I talk about",
+    "uid": "300e4166f6d7d786",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 587.37,
+    "end": 592.97
+  },
+  {
+    "text": "in that first chapter. Yeah. And one of the things that the, um, that you talk about again in the",
+    "uid": "e7ba8671f9f32215",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 593.05,
+    "end": 600.57
+  },
+  {
+    "text": "chapter is that the, uh, AIs were initially able to find certain positions that had potentially, um,",
+    "uid": "2a62bdc35fd7453a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 600.57,
+    "end": 606.97
+  },
+  {
+    "text": "eluded human understanding or not, uh, sort of the human record on on checkers. Can you tell us a bit",
+    "uid": "720ccf3cd8ff4f34",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 608.25,
+    "end": 613.93
+  },
+  {
+    "text": "about, um, the, the term cooks that you have and why those moves were important for the game of checkers.",
+    "uid": "0ce8ecd27e0dc74f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 613.93,
+    "end": 619.61
+  },
+  {
+    "text": "Yeah, cooks is one of these like fantastic, uh, gate pieces of game jargon that I really love. So,",
+    "uid": "c7c7a172d14b99e9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 620.25,
+    "end": 626.49
+  },
+  {
+    "text": "uh, a cook comes, uh, most likely comes from the phrase, um, your goose is cooked as in your,",
+    "uid": "ea96fa9dec3e8dac",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 627.37,
+    "end": 633.45
+  },
+  {
+    "text": "your checkers opponents goose is cooked and checkers like, like, I think every game in my book and,",
+    "uid": "5bfa829d412861e4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 633.45,
+    "end": 639.21
+  },
+  {
+    "text": "and many games has its own literature, sort of, you know, a accumulated human wisdom of how the game",
+    "uid": "35db50284fe81200",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 639.21,
+    "end": 648.09
+  },
+  {
+    "text": "ought to be played, what's, what are good opening moves and what are bad opening moves and so on.",
+    "uid": "6fcaab7a0774531e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 648.09,
+    "end": 651.85
+  },
+  {
+    "text": "In some cases, these books are many volumes long, um, dense with checkers moves and a cook is, uh,",
+    "uid": "a4037789e6e5298f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 652.57,
+    "end": 661.21
+  },
+  {
+    "text": "a good move that is, is not in, in the literature. So a cook is something that you can unleash, um,",
+    "uid": "aa422de0eb2a5a70",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 661.21,
+    "end": 670.25
+  },
+  {
+    "text": "to your opponents, uh, surprise. Um, because the thing about checkers is so, so many games are drawn,",
+    "uid": "7532cbbf272ba672",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 670.25,
+    "end": 677.37
+  },
+  {
+    "text": "even more so at the highest levels than chess, where there's a lot of draws. And one win is hugely",
+    "uid": "38033be333b0fa4e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 677.45,
+    "end": 682.81
+  },
+  {
+    "text": "important in checkers, so you, you spend all your time hunting, hunting down cooks and indeed,",
+    "uid": "fa1db077164edeb0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 682.81,
+    "end": 687.69
+  },
+  {
+    "text": "that's what Jonathan Schafer, a computer scientist, still at the University of Alberta,",
+    "uid": "25600e3fb07408ba",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 688.81,
+    "end": 693.53
+  },
+  {
+    "text": "set his computer program to work doing, hunting down these cooks, these little pieces of checkers",
+    "uid": "fb23ea9c2c134de3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 694.33,
+    "end": 700.81
+  },
+  {
+    "text": "knowledge that that had escaped, um, the accumulated human wisdom. Right. So at the highest level,",
+    "uid": "94688bc7a78feb4d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 700.81,
+    "end": 708.73
+  },
+  {
+    "text": "these, these, these checkers players would have gone through these literature number of times and",
+    "uid": "d1337e4c069461a5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 708.73,
+    "end": 712.73
+  },
+  {
+    "text": "and would know kind of almost intuitively these set of moves that have been done before and, and when",
+    "uid": "5f06def3a3e290a2",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 712.73,
+    "end": 718.17
+  },
+  {
+    "text": "there's something that's completely different, that would be such a strategic advantage in those moments.",
+    "uid": "fc72648c00d646a9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 718.17,
+    "end": 723.21
+  },
+  {
+    "text": "Yeah, that's exactly right. And Mathematicaly speaking, um, checkers are simpler than chess,",
+    "uid": "c8cfabce6f84b21f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 723.21,
+    "end": 730.33
+  },
+  {
+    "text": "of course, but it's top players make up for that difference by by looking deeper into the game.",
+    "uid": "602e1065a43a8633",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 730.41,
+    "end": 737.69
+  },
+  {
+    "text": "20, 30, 40 moves ahead is not uncommon for for a top checkers player to be able to to search",
+    "uid": "a79b65c411fb66e2",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 737.69,
+    "end": 744.33
+  },
+  {
+    "text": "his or herself into the future of the game. So, yeah, so, so much of that tree was was fairly well known",
+    "uid": "dc5df9359196e9fc",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 745.21,
+    "end": 753.53
+  },
+  {
+    "text": "via memorization or study or whatever else, but occasionally, you know, there'd be a branch or a",
+    "uid": "98e3833c0ab344f8",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 753.53,
+    "end": 759.85
+  },
+  {
+    "text": "twig that had escaped, you know, to be labor the metaphor, all the human climbs up this up this tree,",
+    "uid": "9e867d22ddab4ed6",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 759.85,
+    "end": 766.01
+  },
+  {
+    "text": "there would be a path that had been invisible and and eventually someone or or some",
+    "uid": "078126262c79d6b4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 766.01,
+    "end": 771.77
+  },
+  {
+    "text": "machine could discover it. Yeah, yeah, and you mentioned you alluded to that there was this kind of",
+    "uid": "7047bf0902b3666a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 772.65,
+    "end": 778.33
+  },
+  {
+    "text": "face off between the checkers AI and the human story. Can you tell us a little bit about that",
+    "uid": "40abd7ba728d18d7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 778.33,
+    "end": 783.93
+  },
+  {
+    "text": "and specifically what it was like after this, this AI had done battle with the human?",
+    "uid": "1f8a2711aa9d4e24",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 783.93,
+    "end": 791.45
+  },
+  {
+    "text": "Right, so, uh, Shafer Jonathan Shafer's program was called Shinnook, which is named after a wind that",
+    "uid": "4ff79f6db832ccd9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 792.41,
+    "end": 800.41
+  },
+  {
+    "text": "blows through Canada. The reason why I was called that is checkers is in some parts of the world",
+    "uid": "bb5d8ba3fb054534",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 800.41,
+    "end": 806.65
+  },
+  {
+    "text": "called drafts. So, wind draft. And this was his life's project quite literally his professional",
+    "uid": "dce31b130a236833",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 806.73,
+    "end": 816.57
+  },
+  {
+    "text": "life's project for for almost two decades. This was what he did. And as his program,",
+    "uid": "9eb03d966213bcee",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 816.57,
+    "end": 823.45
+  },
+  {
+    "text": "uh, Shinnook got better and better at checkers, um, Shafer wanted to test it against the best human in the",
+    "uid": "1325ed7d2665a579",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 823.45,
+    "end": 830.41
+  },
+  {
+    "text": "world because, you know, what computer scientist wouldn't. And he learned of a man named Mary and Tinsley,",
+    "uid": "eeddbab82dda8188",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 830.41,
+    "end": 837.85
+  },
+  {
+    "text": "who is the best, was the best checkers player in the world. And I would go further and say, I think there's",
+    "uid": "ad658f64b17148af",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 838.41,
+    "end": 846.01
+  },
+  {
+    "text": "a very strong argument that he was the best competitor in a competitive pursuit in the history of the world.",
+    "uid": "f658caadb67f834a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 846.01,
+    "end": 851.93
+  },
+  {
+    "text": "Over a 40 year stretch of play, comprising some 1000 tournament games, Tinsley lost exactly three",
+    "uid": "2439c58a94fb6566",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 852.81,
+    "end": 860.01
+  },
+  {
+    "text": "times. Um, so of course, you know, Shafer wants to beat this guy with Shinnook. And what ensues,",
+    "uid": "99b9b73dbb7897bd",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 860.65,
+    "end": 868.17
+  },
+  {
+    "text": "I won't spoil too much of chapter one, but what ensues is, really triumphant and heartbreaking and devastating",
+    "uid": "c1ca24f1e47baefa",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 868.17,
+    "end": 876.97
+  },
+  {
+    "text": "and heroic sort of friendly battle between the two. And as a chapter in the book, just like kind of",
+    "uid": "0b993a7d8d4d3715",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 876.97,
+    "end": 884.09
+  },
+  {
+    "text": "could not have worked better because, uh, because Mary and Tinsley, uh, while the chapters unfolding",
+    "uid": "0f22766c4c17495d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 884.09,
+    "end": 890.65
+  },
+  {
+    "text": "is growing old, uh, like every human does and he will do what every human does, which is die and, uh,",
+    "uid": "784e058ebae3f0ea",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 890.65,
+    "end": 898.33
+  },
+  {
+    "text": "Shafer is essentially racing against against the clock to beat this aging, um, checkers master.",
+    "uid": "8368ef4896069b01",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 898.33,
+    "end": 904.89
+  },
+  {
+    "text": "Yeah. Yeah. And I think it's what you mentioned there about Tinsley's, um, record is quite impressive,",
+    "uid": "3a40e313a3b4ac86",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 905.85,
+    "end": 910.81
+  },
+  {
+    "text": "but level of dominance that he showed in that game is extraordinary. And I think, again, it's,",
+    "uid": "36e50eb205f2d402",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 910.89,
+    "end": 915.77
+  },
+  {
+    "text": "we think of checkers as this sort of juvenile game, as you mentioned, but to have one person at the highest level,",
+    "uid": "bd16b90a736cb6bd",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 916.81,
+    "end": 921.77
+  },
+  {
+    "text": "being so competitive for so long is quite extraordinary. Yeah. And you see that, you know, you see these",
+    "uid": "551a4ba6b191b27e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 922.65,
+    "end": 928.33
+  },
+  {
+    "text": "sort of, um, super outlying competitors in games and, and some sports from time to time. I think he's really",
+    "uid": "15d0bbc5133d1c7c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 928.33,
+    "end": 935.29
+  },
+  {
+    "text": "an outlier among, among outliers. And I was able to do this. I'm not sure. He had, he had two,",
+    "uid": "8c1eb84d490a9d2e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 935.29,
+    "end": 943.29
+  },
+  {
+    "text": "two great loves in his life. One was checkers and one was, um, God. He was a very devout Christian and,",
+    "uid": "e41ac5038dd312fa",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 943.29,
+    "end": 950.57
+  },
+  {
+    "text": "um, evangelical minister. And these seem to be the things that occupied him entirely. And his devotion",
+    "uid": "bbeac5f35edde79f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 950.57,
+    "end": 957.45
+  },
+  {
+    "text": "to checkers was seem to be just as strong as his devotion to, um, to his Christian religion. And he devoted",
+    "uid": "487740bf7031d6ed",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 957.45,
+    "end": 964.09
+  },
+  {
+    "text": "time as equally faithfully to both and seem to live in breathe kind of both at the same time.",
+    "uid": "53b3e419fd9ebd2f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 964.17,
+    "end": 970.25
+  },
+  {
+    "text": "Yeah. And as those early AIs became competitive, how did the players, uh, in checkers and then other games",
+    "uid": "857386480f3b8f75",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 971.37,
+    "end": 978.57
+  },
+  {
+    "text": "start to utilize, um, AI in their game play? Yeah. I think in most games, you see a pattern that repeats,",
+    "uid": "22a347440fcc9efb",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 978.57,
+    "end": 987.13
+  },
+  {
+    "text": "fairly regularly, fairly regularly game to game, which is at first. The machine is treated with",
+    "uid": "df8a81d7f4f287b7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 987.61,
+    "end": 994.97
+  },
+  {
+    "text": "utter disdain, right? Um, no, no machine says the checkers, uh, player could ever do what I do, right?",
+    "uid": "72dc1109a65644d3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 994.97,
+    "end": 1003.69
+  },
+  {
+    "text": "That fairly, that fairly quickly dissolves, uh, once, once they start losing to the machine. And,",
+    "uid": "4dc42cf03e0c35bc",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1004.57,
+    "end": 1012.57
+  },
+  {
+    "text": "you know, the smart players quickly realize, well, hey, I can learn something from this thing.",
+    "uid": "374f575386fc0777",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1012.89,
+    "end": 1018.33
+  },
+  {
+    "text": "And so for example, Shnook, the checkers playing machine, um, discovered discovered things that weren't",
+    "uid": "81e10f75018c9a24",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1019.13,
+    "end": 1026.49
+  },
+  {
+    "text": "in the human books or discovered things that were wrong in the human books. And imparted these lessons fairly",
+    "uid": "06b6f1006401c517",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1026.49,
+    "end": 1032.89
+  },
+  {
+    "text": "quickly, um, to, to the human players. And I think we see this in, in almost every game. This pretty,",
+    "uid": "bbc0888e0a4995a4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1032.89,
+    "end": 1039.29
+  },
+  {
+    "text": "pretty rapid transition from, you know, what the heck is this machine doing here to, hey,",
+    "uid": "5199a1fef9a76ce3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1039.37,
+    "end": 1044.33
+  },
+  {
+    "text": "can I have that machine so, so that I can learn from it? Yeah. Yeah, it's quite extraordinary. I think",
+    "uid": "c274e494f6de15d8",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1044.33,
+    "end": 1050.49
+  },
+  {
+    "text": "also the, the pace at which change can happen when, um, obviously when it's humans, you have, um,",
+    "uid": "c9fa7db6dc42bdf0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1050.49,
+    "end": 1056.41
+  },
+  {
+    "text": "often centuries or even longer of history of playing this game, but you can only play so much so quickly.",
+    "uid": "0140716406243b9f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1057.77,
+    "end": 1063.61
+  },
+  {
+    "text": "So then when you have this extra piece where you can have, um, this additional knowledge comes",
+    "uid": "c4bca5be59aec5ec",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1063.69,
+    "end": 1067.93
+  },
+  {
+    "text": "so quickly, humans themselves can then, uh, improve quite, quite dramatic rates. Yeah, absolutely.",
+    "uid": "da3a4c94ea9aa1bc",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1067.93,
+    "end": 1074.97
+  },
+  {
+    "text": "And I think this, I think this is one of the most profound effects of AI in the game's context is",
+    "uid": "ac75bddc41800da0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1074.97,
+    "end": 1084.01
+  },
+  {
+    "text": "the democratization of skill in games. And as you say, quite rightly, the acceleration",
+    "uid": "dd619bfcd1c5c147",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1085.69,
+    "end": 1092.49
+  },
+  {
+    "text": "of the dissemination of knowledge about a game. So you can get anyone can get good, whereas maybe before",
+    "uid": "f7290ea70c598789",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1093.21,
+    "end": 1098.49
+  },
+  {
+    "text": "you had to live near a good chess club or have a chess, a good chess teacher around or be able to afford one.",
+    "uid": "4e163b76afb6fa14",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1098.49,
+    "end": 1104.49
+  },
+  {
+    "text": "Now anyone can become become become good and anyone can become good really, really quickly. And I think,",
+    "uid": "124d19d4ab801cb5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1105.37,
+    "end": 1111.93
+  },
+  {
+    "text": "I mean, as a level of games, I think this is wonderful. And I think getting even a little bit good",
+    "uid": "33b398e08cd24806",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1112.65,
+    "end": 1117.13
+  },
+  {
+    "text": "at games just opens that game up so much to you. You can really see what that game is about and increases",
+    "uid": "d322b9e366b88d16",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1118.01,
+    "end": 1124.73
+  },
+  {
+    "text": "enjoyment. So I think, um, I think that's right. The sort of democratization of of skill and just a broad",
+    "uid": "ff3df673c5ff7709",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1125.29,
+    "end": 1132.41
+  },
+  {
+    "text": "based increase in the level of play in internaments and at the competitive level. Yeah, yeah, and one of the",
+    "uid": "0fe2314d8c41e183",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1132.41,
+    "end": 1140.01
+  },
+  {
+    "text": "things you talk about in your book specifically with regards to chess is that not only does it",
+    "uid": "f71a6fd1892a9d4d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1140.01,
+    "end": 1144.81
+  },
+  {
+    "text": "democratize the skill, but it also democratizes the ability to be a fan of the game. And you talk",
+    "uid": "c49b7e922d8fe5a3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1144.81,
+    "end": 1150.97
+  },
+  {
+    "text": "specifically about like chess tournaments that then have this AI-rated indicator of the strength of different",
+    "uid": "82a33fbef3c77163",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1150.97,
+    "end": 1159.05
+  },
+  {
+    "text": "moves. And you can, you can then more easily follow along and understand that, oh, what someone just",
+    "uid": "8aea12904913a3f7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1159.05,
+    "end": 1164.65
+  },
+  {
+    "text": "did is actually a really good move or really bad move without having to be able to see the game the way",
+    "uid": "3a283157330564a9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1164.65,
+    "end": 1169.13
+  },
+  {
+    "text": "that those players do in the depth of the game. Yeah, that's absolutely right. And I think that's a",
+    "uid": "2eac8456251f46b3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1169.13,
+    "end": 1174.65
+  },
+  {
+    "text": "little bit of a double edged sword and I'll explain why, but yeah, it's a sort of set the scene. So I, for",
+    "uid": "83a084335b242b3d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1174.65,
+    "end": 1179.85
+  },
+  {
+    "text": "example, have covered the last three world chess championships for 538 where I used to work. And yeah,",
+    "uid": "baa21daa696630ba",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1179.85,
+    "end": 1187.93
+  },
+  {
+    "text": "I would I would watch along with with the engine as chess, AI's are usually called. And yeah, on the",
+    "uid": "c6dc63661ab87a54",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1187.93,
+    "end": 1194.73
+  },
+  {
+    "text": "side of the little picture of the chessboard on my computer screen is what sort of looks like a",
+    "uid": "b9728e2662a39891",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1194.73,
+    "end": 1198.89
+  },
+  {
+    "text": "thermometer and it will be, you know, if white is winning it fills up more white and if black is winning",
+    "uid": "ced0289284456af6",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1198.89,
+    "end": 1203.93
+  },
+  {
+    "text": "it fills up more black and can twitch back and forth. And this is really wonderful for, you know,",
+    "uid": "5297d0bd6ad6f6c4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1203.93,
+    "end": 1209.29
+  },
+  {
+    "text": "sort of middling novice journalist like me, novice chess. And I can sort of get a sense of what's going on",
+    "uid": "ba0a0c3f238acc4e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1210.65,
+    "end": 1220.81
+  },
+  {
+    "text": "in a sort of snapshot way. The downside I think is it could trick me into thinking I know everything.",
+    "uid": "21b071f97ebe706e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1220.89,
+    "end": 1229.45
+  },
+  {
+    "text": "Right. Oh, I see the thermometer move up, you know, wow, what a terrible move by white or by black,",
+    "uid": "1ea3940eb0a5c225",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1229.45,
+    "end": 1235.61
+  },
+  {
+    "text": "whatever. And I think it's important to sort of use computer analysis as sort of one component of a sort of",
+    "uid": "981cb55d147d25ed",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1235.61,
+    "end": 1243.29
+  },
+  {
+    "text": "menu of tools. Because if you can't explain, you know, if you can explain why the digital thermometer",
+    "uid": "2973928ceee0e9a9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1243.29,
+    "end": 1250.65
+  },
+  {
+    "text": "tick this way or that you might be relying on it to heavily, which I think, you know, that maybe this is",
+    "uid": "a5c9ab7352d7299c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1250.65,
+    "end": 1257.29
+  },
+  {
+    "text": "we don't need to get this is very long answer probably, but this is a big problem with with AI in a lot of",
+    "uid": "b25d527906dd9741",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1257.29,
+    "end": 1263.69
+  },
+  {
+    "text": "contexts in my view is this sort of black box issue where, you know, I see the output, but I don't understand",
+    "uid": "c8f74783847dc0b4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1263.69,
+    "end": 1270.73
+  },
+  {
+    "text": "the reasoning and that crops up here and there in games too. Yeah. Yeah, that explainability issue does come",
+    "uid": "6af74f2b9c8faecf",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1270.73,
+    "end": 1278.09
+  },
+  {
+    "text": "up even in your book a few times with respect to games. I'm curious from the journalist perspective,",
+    "uid": "b6aefefeaa420262",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1278.09,
+    "end": 1282.73
+  },
+  {
+    "text": "you were mentioning that like having that indication of the strength of moves can be this double edge",
+    "uid": "4e2a34df537dd9eb",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1282.73,
+    "end": 1287.13
+  },
+  {
+    "text": "sort. Does it, does that at all influence the importance of like the narrative that you're telling from the",
+    "uid": "41b47b8d54925e25",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1287.13,
+    "end": 1293.29
+  },
+  {
+    "text": "journalistic perspective or does it, do you think it helps or hurts that or makes it more important that",
+    "uid": "e4c003ad2449d19f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1293.29,
+    "end": 1297.69
+  },
+  {
+    "text": "you need to stress the narrative? It's a great question. I think it's a useful tool, but one, one tool of many.",
+    "uid": "5c18c54590f804a2",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1297.69,
+    "end": 1303.77
+  },
+  {
+    "text": "So one, one way we did use that, and I say we, because I was assisted by excellent editors and",
+    "uid": "28da09c56bc137c1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1304.73,
+    "end": 1310.81
+  },
+  {
+    "text": "data viz people, was a sort of timeline of every game moved by move, how this evaluation changed over time",
+    "uid": "c429a7be3a36d1ef",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1310.81,
+    "end": 1319.21
+  },
+  {
+    "text": "as each of what ended up being 11 games in the most recent world championship unfolded. You know,",
+    "uid": "659518fc7d221185",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1320.33,
+    "end": 1326.41
+  },
+  {
+    "text": "and some of them look like the game has flat lines, some of them look like cardiac arrest.",
+    "uid": "d7024959a91cd07c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1326.49,
+    "end": 1332.33
+  },
+  {
+    "text": "And you know, they give this nice snapshot of what the game was like. Was it exciting? Was it, you know,",
+    "uid": "cfe3ceb44d696b0a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1332.33,
+    "end": 1339.53
+  },
+  {
+    "text": "like a winning, winning percentage went dramatically up and down say in NFL weekend recently.",
+    "uid": "9d4d057f2f3e2d55",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1340.09,
+    "end": 1347.13
+  },
+  {
+    "text": "So it's one tool of many, it gives you a snapshot of sort of who's ahead and who's behind very",
+    "uid": "7d74e33333b4e352",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1349.53,
+    "end": 1353.85
+  },
+  {
+    "text": "useful to sort of get your quick bearings. But, you know, as as any, I think, a good journalist in",
+    "uid": "bdd385174a035a6c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1353.93,
+    "end": 1360.25
+  },
+  {
+    "text": "whatever field would do is, you know, you try to talk to folks you listen to the players comments after the game.",
+    "uid": "c1cbfffebb2f4756",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1360.25,
+    "end": 1366.57
+  },
+  {
+    "text": "See if they can explain what they were thinking, talk to other strong grandmasters, get their take on,",
+    "uid": "bf45365765a79de7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1367.13,
+    "end": 1375.13
+  },
+  {
+    "text": "on this mover that. And, yeah, just try to try to assemble a collage and from a lot of different sources.",
+    "uid": "94181f101614dd45",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1375.13,
+    "end": 1382.89
+  },
+  {
+    "text": "And I've been really lucky that a lot of chess players much, much, much stronger than me are willing to sort of hold my hand and walk me through it.",
+    "uid": "e0463fbb4a53c145",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1382.89,
+    "end": 1392.17
+  },
+  {
+    "text": "Yeah. As an aside, I heard that you have played Magnus Carlson before, is that true?",
+    "uid": "665547363552eaa9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1392.89,
+    "end": 1397.77
+  },
+  {
+    "text": "Yeah, it was one of the most traumatic experiences of my life.",
+    "uid": "dde30ec33b556b79",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1397.77,
+    "end": 1401.61
+  },
+  {
+    "text": "Yeah, well, I was going to say, I don't want you to take this long away, but like, how did that go?",
+    "uid": "00339d33bbc9fd24",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1401.61,
+    "end": 1405.05
+  },
+  {
+    "text": "Yeah, it was occurred under sort of mysterious circumstances. I assume they had gotten wind of my,",
+    "uid": "2801aa716882f26d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1406.01,
+    "end": 1413.21
+  },
+  {
+    "text": "of my chess writing and I was invited to the headquarters of the United Nations, which already was a weird day.",
+    "uid": "e7b08e3ddc55c794",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1413.21,
+    "end": 1420.09
+  },
+  {
+    "text": "And it was a, it wasn't just me. It was a simultaneous exhibition. I was one of many victims.",
+    "uid": "f840626a7e0a5b54",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1420.73,
+    "end": 1426.25
+  },
+  {
+    "text": "And if I remember incorrectly, I lasted 29 moves, but that's dramatically overstate. I mean, the game was over.",
+    "uid": "36b6f3a552b194c9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1427.13,
+    "end": 1434.81
+  },
+  {
+    "text": "For my king almost ended up on the entirely opposite side of the board. But I did put Magnus Carlson in check, which is, I think, something,",
+    "uid": "c0f1f4becef20334",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1435.21,
+    "end": 1444.97
+  },
+  {
+    "text": "no one will, will ever be able to take away from me. Yeah, did you just stand up and yell out, check?",
+    "uid": "17494e490bdcc817",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1445.77,
+    "end": 1450.73
+  },
+  {
+    "text": "I wasn't quite, I thought I thought of doing that. I resisted, but I did, I did the loot myself and games are a real fertile",
+    "uid": "979f03255772183b",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1452.33,
+    "end": 1462.01
+  },
+  {
+    "text": "garden of delusion. I did the loot myself for half a second and into thinking, yeah, I'm going to, but of course,",
+    "uid": "3fc4cb2a2459256d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1462.17,
+    "end": 1470.17
+  },
+  {
+    "text": "yeah, there was never an insurance. That's it. So I do want to talk about this most recent world chess championship last month.",
+    "uid": "177a038432544f8e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1470.17,
+    "end": 1476.65
+  },
+  {
+    "text": "One of the things from that is that we saw three of the most accurately played chess games in championship history.",
+    "uid": "25d5c73769400a43",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1477.85,
+    "end": 1483.29
+  },
+  {
+    "text": "What does that mean first from a technical standpoint? And then what does that mean for how chess is played and the game of chess moving forward?",
+    "uid": "401d8807d7234472",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1484.17,
+    "end": 1490.49
+  },
+  {
+    "text": "Right. So that's exactly right. Three of the most accurately played games out of, I think, on the order of a thousand world championship",
+    "uid": "f803e74e6d7e52f4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1491.45,
+    "end": 1500.65
+  },
+  {
+    "text": "games that have been played in history. And yeah, what does this mean? Well, basically the, the engines, the computer players are so good these days that, you know,",
+    "uid": "862c1bd7a191e2b8",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1500.65,
+    "end": 1509.85
+  },
+  {
+    "text": "essentially for these purposes, in distinguishable from perfect. So you run the actual world championship",
+    "uid": "59f1ee3074c39c82",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1509.85,
+    "end": 1515.77
+  },
+  {
+    "text": "games through the engine and the engine spits out something called",
+    "uid": "271494339a469781",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1517.85,
+    "end": 1521.21
+  },
+  {
+    "text": "average centipon loss, where centipon is kind of what it sounds like, a hundredth of a pawn. So they measure",
+    "uid": "02b01e9dc8722cdf",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1522.33,
+    "end": 1528.33
+  },
+  {
+    "text": "how much did your move differ from the optimal computer move in centipons? And I don't remember exactly,",
+    "uid": "54ef3f0aed5a6946",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1528.89,
+    "end": 1537.45
+  },
+  {
+    "text": "but the average centipon losses in these games is something like two or three. Very, very tiny slivers of a pawn.",
+    "uid": "ed9a15d877af4e9e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1537.45,
+    "end": 1544.01
+  },
+  {
+    "text": "And yeah, why were they able to do this? Well, it's because more or less they're mimicking",
+    "uid": "ea29ebcbde923f8f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1545.29,
+    "end": 1551.69
+  },
+  {
+    "text": "the play of the very computer that is adjunct their play in terms of average centipon loss. So humans are",
+    "uid": "69a359557d6d1c2e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1552.65,
+    "end": 1559.37
+  },
+  {
+    "text": "slowly, but surely I think asymptotically kind of approaching this, this computer-driven ideal play.",
+    "uid": "b590e158439d37e6",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1560.33,
+    "end": 1567.69
+  },
+  {
+    "text": "And that's had, that's had a wide variety of effects on the game of chess at the highest levels.",
+    "uid": "ed129eb839d2b154",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1568.57,
+    "end": 1576.57
+  },
+  {
+    "text": "One is, well, it's really, really impressive how good humans play. Like, that's first and foremost,",
+    "uid": "47591df176fbfd04",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1577.77,
+    "end": 1584.25
+  },
+  {
+    "text": "that it's really amazing that they can play play. So well, under the pressure of the world championship",
+    "uid": "8074a711c4cca7f5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1584.25,
+    "end": 1589.85
+  },
+  {
+    "text": "and being, you know, televised and streamed and all that stuff. To, it can this effect, this phenomenon,",
+    "uid": "144a1add77e586d5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1589.85,
+    "end": 1598.01
+  },
+  {
+    "text": "can be fairly frustrating for the viewer and for occasionally for the players themselves.",
+    "uid": "4b61090d65f2a020",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1598.01,
+    "end": 1605.77
+  },
+  {
+    "text": "Why? Well, it has the tendency to lead to a lot of draws. So this is not mathematically proven,",
+    "uid": "7ee0416fc25e74f1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1606.73,
+    "end": 1614.97
+  },
+  {
+    "text": "but many suspect that perfectly played chess is a guaranteed draw. Much like perfectly played",
+    "uid": "854f8caa12c7ebf1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1614.97,
+    "end": 1620.81
+  },
+  {
+    "text": "tiktok-toe or checkers is a guaranteed draw. So two very, very good equally match players lead to a lot of",
+    "uid": "516cdaa6bfa743f1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1620.81,
+    "end": 1627.77
+  },
+  {
+    "text": "draws. Some chess draws can be absolutely fascinating encounters, no doubt about it,",
+    "uid": "e4a71ba7605f0346",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1627.77,
+    "end": 1633.85
+  },
+  {
+    "text": "but many are not. And it's, I think, somewhat difficult to maintain a sort of robust ecosystem of",
+    "uid": "ddd04d55128ecddb",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1633.85,
+    "end": 1641.53
+  },
+  {
+    "text": "viewership and a fandom in a world where many high-level games are drawn in somewhat",
+    "uid": "1dbc1a5601b48630",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1641.53,
+    "end": 1647.21
+  },
+  {
+    "text": "road fashion. Perfect though the play may have been. And for players too, I think this can be frustrating.",
+    "uid": "d192f78e870eb8ab",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1647.29,
+    "end": 1656.17
+  },
+  {
+    "text": "So one thing, if you watch a world chess championship match that you'll often hear the commentators talk",
+    "uid": "8ffcff20d86438fc",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1656.17,
+    "end": 1660.81
+  },
+  {
+    "text": "about is, well, he's still in his prep. Meaning he is still mimicking, moved by move, computer-driven",
+    "uid": "da759dd6188dbb78",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1660.81,
+    "end": 1670.57
+  },
+  {
+    "text": "preparation that he or she did before the match began. So one of the recent world chess",
+    "uid": "e2d0cf118f2091dc",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1670.57,
+    "end": 1678.57
+  },
+  {
+    "text": "championship competitors was Jan Napomlachy, Russian Grandmaster, who said after one game that he had",
+    "uid": "22d4b65f3184f000",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1678.57,
+    "end": 1684.17
+  },
+  {
+    "text": "seen the entire game on his computer in his preparation before he played it. So humans have sort of been",
+    "uid": "f87ff2f9831bc5a9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1684.17,
+    "end": 1692.01
+  },
+  {
+    "text": "transfigured from a performer to sort of not a perfect analogy, but hard drive, sort of",
+    "uid": "e16812e046e24e31",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1692.09,
+    "end": 1701.13
+  },
+  {
+    "text": "essentially memorizing lines that were analyzed and bedded by the computer and then remembering them",
+    "uid": "d6ab9afac60181c4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1702.33,
+    "end": 1707.93
+  },
+  {
+    "text": "and then playing them the next day or later that day on the board. And this has, this has led to",
+    "uid": "c1aebf2c348ea3b4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1707.93,
+    "end": 1715.05
+  },
+  {
+    "text": "frustration, both private and publicly stated. And one, I think side effect of this has been",
+    "uid": "27a6bf6d70e65274",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1715.05,
+    "end": 1723.37
+  },
+  {
+    "text": "Magnus Carlson, who won the World Test Championship announced shortly after he won the World Test",
+    "uid": "123d629d4a43ac42",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1723.37,
+    "end": 1728.17
+  },
+  {
+    "text": "Championship that he might not defend his title. And a lot of this indeed had to do with,",
+    "uid": "45795beae8b03018",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1728.17,
+    "end": 1733.21
+  },
+  {
+    "text": "seemingly with frustration with the format. Right. And just that almost tedious sort of ordeal that",
+    "uid": "9430aa300338a8b8",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1733.77,
+    "end": 1742.89
+  },
+  {
+    "text": "they had to go through to play these matches that ultimately ended a draw. Right. Exactly. And one",
+    "uid": "f60ff465e7a42f1f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1742.97,
+    "end": 1749.45
+  },
+  {
+    "text": "thing that Carlson has advocated for and many other chess players and commentators is, well, you could just",
+    "uid": "06316da8741c504e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1749.45,
+    "end": 1758.01
+  },
+  {
+    "text": "play faster games. Right. In the World Championship they play what's called classical chess, which can",
+    "uid": "3de9245e9f8d517c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1758.01,
+    "end": 1762.81
+  },
+  {
+    "text": "last, I think the longest game of something seven or eight hours. And this allows the players sort of",
+    "uid": "d0dbb7570eedf268",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1762.81,
+    "end": 1768.73
+  },
+  {
+    "text": "ample time to dig through the memory banks and think like what am I supposed to do in this rare",
+    "uid": "0469ba300e59292b",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1768.81,
+    "end": 1773.85
+  },
+  {
+    "text": "line of the Spanish game or whatever. But speed chess is kind of the chest of the moment, chess is",
+    "uid": "df201f3a4c21728a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1773.85,
+    "end": 1780.73
+  },
+  {
+    "text": "having its sort of this blossoming moment online where everybody plays speed chess. And if you're playing",
+    "uid": "9a2d67185042c3d4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1780.73,
+    "end": 1786.09
+  },
+  {
+    "text": "speed chess, you are forced to sort of rely less on your memory and your prep and more on sort of human",
+    "uid": "ef9a9699788b8678",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1786.09,
+    "end": 1795.13
+  },
+  {
+    "text": "intuition and the sort of raw fast-twitch chess skill. So that's one argument, one proposal to",
+    "uid": "8f4bd1bb69519e70",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1795.21,
+    "end": 1801.45
+  },
+  {
+    "text": "sort of shake up the format. And there's more sort of more violent interventions that would decrease",
+    "uid": "fb26d7bc58674bad",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1801.45,
+    "end": 1808.89
+  },
+  {
+    "text": "reliance on memory, which is, for example, there's something called chess 960 or Fisher Random,",
+    "uid": "9c0a729bc55679a2",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1808.89,
+    "end": 1815.21
+  },
+  {
+    "text": "where some of the pieces are randomized before the game even begins. Obviously, lessening the value of",
+    "uid": "fb50ffd26d478513",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1815.21,
+    "end": 1822.41
+  },
+  {
+    "text": "any kind of memorization you might have wanted to do. So the pieces are just when you start then",
+    "uid": "501b96628f3eb55f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1822.41,
+    "end": 1828.49
+  },
+  {
+    "text": "they're in a random order. Yeah, so the ponds all stay the same and all the more major pieces are in",
+    "uid": "a343751f3db06105",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1828.49,
+    "end": 1835.85
+  },
+  {
+    "text": "their same rank. But within that rank, the orders are randomized and the other players' pieces",
+    "uid": "7f0c44aeda97cb4d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1835.85,
+    "end": 1842.17
+  },
+  {
+    "text": "map. So it's still symmetric in that way. And called chess 960 because there are 960",
+    "uid": "306a89f9c72f4f3f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1842.17,
+    "end": 1848.73
+  },
+  {
+    "text": "possible starting positions. Right, that makes sense. And you mentioned there that like,",
+    "uid": "8916850a6b4c4377",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1848.73,
+    "end": 1855.13
+  },
+  {
+    "text": "speed chess has kind of been taken off because it creates this lack of ability to",
+    "uid": "6a324091a48a540e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1855.13,
+    "end": 1861.93
+  },
+  {
+    "text": "search your memory banks and come up with the right moves. And we even saw that in some of the moments",
+    "uid": "8e4127dc172126bd",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1862.97,
+    "end": 1868.73
+  },
+  {
+    "text": "of clock trouble in this world championship showed to be quite interesting moments as well.",
+    "uid": "6789f119250b2519",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1868.73,
+    "end": 1874.09
+  },
+  {
+    "text": "Yeah, that's exactly right. I mean, there was one really, really good game in the world chess championship.",
+    "uid": "16fa6ad7b1407b78",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1874.09,
+    "end": 1879.77
+  },
+  {
+    "text": "And beyond that, all-time classic game. And that was game 6 and why was it good? It was because they were",
+    "uid": "332bb58248dc8699",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1879.77,
+    "end": 1886.01
+  },
+  {
+    "text": "running out of time and making mistakes. Right. Right. Running out of time and making mistakes makes for",
+    "uid": "16c35482a3b765b4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1886.01,
+    "end": 1891.45
+  },
+  {
+    "text": "very interesting viewing as a chess fan. And like, yeah, this other game they played two",
+    "uid": "60495390dc287c07",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1891.53,
+    "end": 1898.97
+  },
+  {
+    "text": "sentipon average loss, but it was not riveting. It was absolutely riveting to watch two of the world's",
+    "uid": "67c5c74da13911a3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1898.97,
+    "end": 1905.53
+  },
+  {
+    "text": "best chess players have less than a minute on their clock. It was relatable. It was exciting. And I think",
+    "uid": "a5a53ebdd2c3e4ec",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1905.53,
+    "end": 1911.69
+  },
+  {
+    "text": "almost a dispositive piece of evidence for playing faster games in the world championship. Yeah.",
+    "uid": "5b4cc698474b1b7c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1912.33,
+    "end": 1918.57
+  },
+  {
+    "text": "And you see it, you were mentioning that kind of like win probability graph almost. And you do see this like",
+    "uid": "8a3af4fdfa661a16",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1918.65,
+    "end": 1923.37
+  },
+  {
+    "text": "shocking turns as moves get played. Yeah. And I don't, I'm certainly not casting any judgment on the",
+    "uid": "93fda1b9d7e33c1f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1924.57,
+    "end": 1930.81
+  },
+  {
+    "text": "grandmasters who would and have destroyed me over the chess board. But yeah, I think we saw, yeah, three or four",
+    "uid": "0045f5a23632727e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1930.81,
+    "end": 1938.25
+  },
+  {
+    "text": "blunders within a four or five sort of move window driven entirely by the time trouble. Yes, and this",
+    "uid": "28a7aca5d8d82952",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1938.25,
+    "end": 1946.01
+  },
+  {
+    "text": "sort of very subtle sort of early end game stuff that was going on that I could not explain to you.",
+    "uid": "38447eabdd05de82",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1946.01,
+    "end": 1952.65
+  },
+  {
+    "text": "Even if you asked me, but yeah, just I think slightly over a simplified explanation is that mistakes are",
+    "uid": "2da75472a9a13e90",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1952.65,
+    "end": 1961.29
+  },
+  {
+    "text": "human and we like and we like to watch that. And as I kind of said at the beginning of our discussion,",
+    "uid": "2e819ad3cbf0e282",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1961.29,
+    "end": 1968.25
+  },
+  {
+    "text": "perfect play is is very, is very impressive and like very easy to appreciate as a as a fellow",
+    "uid": "b53c3e77ea5b9771",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1968.73,
+    "end": 1977.13
+  },
+  {
+    "text": "human, but sort of the mistakes I relate, I relate to a little bit more. Yeah. And it does bring you to the",
+    "uid": "1e128d4936c3f246",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1977.13,
+    "end": 1984.57
+  },
+  {
+    "text": "edge of your seat much quicker. I think then then watching this perfection unfold throughout a long period of time.",
+    "uid": "bafb82a81b2c0fc2",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1984.57,
+    "end": 1989.69
+  },
+  {
+    "text": "So this the mistakes I think is also similar to an element of chance in a game and that's another",
+    "uid": "3ca50508dfb52ce6",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1990.57,
+    "end": 1999.05
+  },
+  {
+    "text": "game that you talk about this backgammon and it introduces something that checkers and chests doesn't have,",
+    "uid": "430895e55c4ff68a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 1999.05,
+    "end": 2003.53
+  },
+  {
+    "text": "which is this this aspect of randomness or this this chance factor. How does that impact the way that",
+    "uid": "34c05f73aae0da82",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2003.53,
+    "end": 2010.97
+  },
+  {
+    "text": "people play the games and the way that people are drawn to the game? Yeah, it's a great question. Backgammon",
+    "uid": "67c95b0e50d1847a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2010.97,
+    "end": 2016.89
+  },
+  {
+    "text": "interesting of the sort of unique of the games in the book where by before I started reporting,",
+    "uid": "c5a36973c8ce7fde",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2017.77,
+    "end": 2023.93
+  },
+  {
+    "text": "I had never really played much backgammon. And now I am utterly obsessed with backgammon. I cannot",
+    "uid": "3fc6c878b6c49e34",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2023.93,
+    "end": 2029.77
+  },
+  {
+    "text": "recommend backgammon to anyone watching enough. I think it's absolutely fantastic game. Yeah, so the",
+    "uid": "f22bb1a59f97d2e7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2029.77,
+    "end": 2038.01
+  },
+  {
+    "text": "games step back just a half step. The games in the book are ordered purposefully and the idea",
+    "uid": "87f093c4987c1873",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2038.01,
+    "end": 2046.41
+  },
+  {
+    "text": "although it's a bit of a rough one is that each chapter and each game adds a sort of feature. So exactly",
+    "uid": "c36b0465acdebab5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2046.41,
+    "end": 2052.65
+  },
+  {
+    "text": "as you say as we move I think from the chapter I'm going to the chapter I'm backgammon we're adding",
+    "uid": "bf2915aa301faf34",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2052.65,
+    "end": 2057.05
+  },
+  {
+    "text": "a random element. When we get to poker we add hidden information and so on. So the random element is",
+    "uid": "9471f27bbf49832e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2057.05,
+    "end": 2062.57
+  },
+  {
+    "text": "this sort of first big big difference from Jackar's chess and Go. And I think that the impact",
+    "uid": "d3e09a4a352bd96a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2062.57,
+    "end": 2072.57
+  },
+  {
+    "text": "of chance is a fixed difference sort of interested parties differently. So there's like the the new",
+    "uid": "a790d556349ecdcb",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2072.57,
+    "end": 2078.57
+  },
+  {
+    "text": "player like me, the elite player like someone named Mochi who's the best player in the world who I",
+    "uid": "e7c5f79443b53ee2",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2078.57,
+    "end": 2086.17
+  },
+  {
+    "text": "talk to for the book. I can talk a little bit about our conversation in a minute and then the machine,",
+    "uid": "21ad7799f54c2177",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2086.17,
+    "end": 2090.81
+  },
+  {
+    "text": "how does it affect the machine? I think for the beginning player in a game like backgammon skill",
+    "uid": "eb3f21213852ec13",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2091.53,
+    "end": 2098.57
+  },
+  {
+    "text": "is the most beautiful part of it. Why? Because it is essentially a democratizing feature. I could play",
+    "uid": "7343c37593e6398c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2098.57,
+    "end": 2107.13
+  },
+  {
+    "text": "against the best player in the world and I could be hammer her. I would have a chance and the luck element",
+    "uid": "a392a42e677c9d02",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2107.13,
+    "end": 2114.09
+  },
+  {
+    "text": "in backgammon is pretty healthy. I'm pulling this number out of the air but maybe I could beat the best",
+    "uid": "7a52c55d2ecdc137",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2114.09,
+    "end": 2118.25
+  },
+  {
+    "text": "player in the world in a single game 30% of the time. Something like that of course that diminishes",
+    "uid": "c5132c4bfded7bdc",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2118.25,
+    "end": 2123.53
+  },
+  {
+    "text": "over the course of a match or whatever. But that allows me sort of entree into backgammon. I'm in with",
+    "uid": "dfb5fc26cba74411",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2123.53,
+    "end": 2131.69
+  },
+  {
+    "text": "a chance. I could never beat the world's best chess player ever. I would get very frustrated and stop playing.",
+    "uid": "7a8cc8f5a3427105",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2131.69,
+    "end": 2136.73
+  },
+  {
+    "text": "And what this means for the beginner is well it's easy to find people to play with like I can teach",
+    "uid": "73fbd578a4865e5c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2137.61,
+    "end": 2142.33
+  },
+  {
+    "text": "my friends who have never played and we can sort of get a group together very quickly. And indeed that's",
+    "uid": "9068f3bbc2224d4e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2142.33,
+    "end": 2150.49
+  },
+  {
+    "text": "what happened when I was reporting the book. I would play with people I met when I was on my fellowship a",
+    "uid": "6e940b827055f598",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2150.49,
+    "end": 2156.33
+  },
+  {
+    "text": "couple years ago. All the fellows played and you know, this became the kind of game of that year because",
+    "uid": "bb9ed27dcbd8c62a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2156.33,
+    "end": 2164.01
+  },
+  {
+    "text": "there was a way in via chance. And obviously I should hasten to add. There's a lot of skill too. There",
+    "uid": "10179d2a9270524f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2164.57,
+    "end": 2169.77
+  },
+  {
+    "text": "has to be skill. And the cocktail there is in backgammon. It's just perfect. I think the breakdown.",
+    "uid": "ebeff63ece9176b8",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2169.77,
+    "end": 2175.85
+  },
+  {
+    "text": "So that's how it affected me. It seemed like this very accessible game. How it affects the top players is I think",
+    "uid": "ead4beb94c791d2b",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2177.13,
+    "end": 2184.09
+  },
+  {
+    "text": "roughly speaking they don't really think about it. Of course they think about the probabilities,",
+    "uid": "c6dedbaae6141a48",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2184.09,
+    "end": 2189.37
+  },
+  {
+    "text": "you know they have to. But they don't think, oh yeah I got unlucky or I got lucky or this chance. It's",
+    "uid": "a812802e60dcdbe9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2189.37,
+    "end": 2194.57
+  },
+  {
+    "text": "just it is what it is. The dice fall, how the dice fall and you make the best move given the dice",
+    "uid": "0403cc8818703440",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2194.57,
+    "end": 2201.05
+  },
+  {
+    "text": "available to you and you move on. And you know I asked Mochi the best player in the world sort of about what's",
+    "uid": "1d1362b77dc4722d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2201.05,
+    "end": 2209.77
+  },
+  {
+    "text": "it like to be a professional player in a game with so much chance. Like how do you operate? It's just I feel like",
+    "uid": "401c6a872ff9c7b0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2209.77,
+    "end": 2217.69
+  },
+  {
+    "text": "I would be paralyzed. And he's you gave me roughly this the same answer as just describing. Like it doesn't",
+    "uid": "090bf034faaa9946",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2217.69,
+    "end": 2224.09
+  },
+  {
+    "text": "matter if you play enough games, you know you have the a lot of large numbers type argument. Like",
+    "uid": "85a6eb9525b5278a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2224.17,
+    "end": 2230.17
+  },
+  {
+    "text": "there is there is no chance. And you know he's like he's Mochi is equivalent to the house at the casino.",
+    "uid": "c6d8b018e0a80206",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2230.17,
+    "end": 2236.97
+  },
+  {
+    "text": "Right the house can lose in the short run. The house is never going to lose in the long run.",
+    "uid": "c23018f8f6114adb",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2237.61,
+    "end": 2241.13
+  },
+  {
+    "text": "And for I think for the machine for the programs, backgammon is pretty interesting. Backgammon is one of",
+    "uid": "9fca2b045fc04139",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2242.25,
+    "end": 2251.37
+  },
+  {
+    "text": "the first really serious and successful applications of neural network ideas.",
+    "uid": "856028da4d1962f8",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2251.45,
+    "end": 2257.85
+  },
+  {
+    "text": "One of the reasons why it appealed to so Gerald Tassaro who's at IBM was one of the first to work on",
+    "uid": "30fe55968c3219b1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2259.61,
+    "end": 2267.53
+  },
+  {
+    "text": "this really seriously. He's still there. I interviewed him for the book. And we were talking early",
+    "uid": "e39f9c64bc4dd662",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2267.53,
+    "end": 2272.81
+  },
+  {
+    "text": "about sort of the tree of a game. The possibilities as it goes up. The branching factor is how",
+    "uid": "c974bce654c4fa4b",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2272.81,
+    "end": 2278.81
+  },
+  {
+    "text": "thickly the tree branches in backgammon is enormous because you can move your pieces",
+    "uid": "84f21b069a5cdcec",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2279.37,
+    "end": 2286.97
+  },
+  {
+    "text": "a bunch of different ways, but you can also roll the dice a bunch of different ways. Six times six",
+    "uid": "bd4e2a497d1f18d2",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2286.97,
+    "end": 2291.61
+  },
+  {
+    "text": "taking out the sort of symmetrical roles that are operationally the same. But the branching factor",
+    "uid": "a8e11d0b6cf6ba3c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2291.61,
+    "end": 2296.81
+  },
+  {
+    "text": "is enormous. So these standards sort of quote unquote old-fashioned search and evaluate techniques.",
+    "uid": "09fbed470fa6a24b",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2296.81,
+    "end": 2303.13
+  },
+  {
+    "text": "We're not very effective. But what turned out to be extremely effective was neural networks which",
+    "uid": "0d6998bae7d4b0cb",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2303.45,
+    "end": 2309.85
+  },
+  {
+    "text": "very loosely speaking are very good at pattern recognition. And that's exactly how strong players play",
+    "uid": "5b83df232499ff5f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2309.85,
+    "end": 2315.05
+  },
+  {
+    "text": "backgammon. Not thinking through every single twig above them but sort of recognizing a sort of broader",
+    "uid": "02b6fe7baeaead85",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2315.05,
+    "end": 2322.57
+  },
+  {
+    "text": "pattern of oh I recognize this part of the tree kind of thing. And the computer turned out to be to be very",
+    "uid": "5fcc34bae39d487d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2322.57,
+    "end": 2328.01
+  },
+  {
+    "text": "good at it. So the injection of just a couple of dice sort of really sort of dramatically",
+    "uid": "772a0e48e120df65",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2328.09,
+    "end": 2333.85
+  },
+  {
+    "text": "dramatic upheaval for kind of the flavor and the nature of again. Yeah, yeah it is interesting",
+    "uid": "0d36762091f1f364",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2335.45,
+    "end": 2341.77
+  },
+  {
+    "text": "that point where we were talking about chess and the computer approaches basically to go through and",
+    "uid": "4f7622655f9d05c4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2341.77,
+    "end": 2347.21
+  },
+  {
+    "text": "tried to find these pieces that are missing from a human knowledge or from a statement from human knowledge.",
+    "uid": "f1711113ee58c1b0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2347.21,
+    "end": 2353.13
+  },
+  {
+    "text": "But backgammon that that's not really an approach that you can take. You have to take this",
+    "uid": "0952f5d9a51da593",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2353.13,
+    "end": 2357.13
+  },
+  {
+    "text": "separate approach which is to develop and understanding of the patterns and the ways of playing.",
+    "uid": "e21439cb9656308d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2357.93,
+    "end": 2363.69
+  },
+  {
+    "text": "And it's effective at both this great. Yeah that's exactly right. So yeah the literature on backgammon",
+    "uid": "d7d630a506c947f1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2364.81,
+    "end": 2370.49
+  },
+  {
+    "text": "looks a lot different than the literature on chess for example. So of course in chess every game",
+    "uid": "69ee4fe9ccac7394",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2370.49,
+    "end": 2375.61
+  },
+  {
+    "text": "starts the same way and there's very well-established ways to open to begin a chess game for example.",
+    "uid": "7dba69ea9776724c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2375.61,
+    "end": 2382.25
+  },
+  {
+    "text": "And sure there's a little bit of opening theory in backgammon but maybe for what the first",
+    "uid": "2a070809bbca057c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2382.41,
+    "end": 2386.73
+  },
+  {
+    "text": "couple moves. But by then the tree has become so wide that one can't really one can't at all",
+    "uid": "234ba5048eeef123",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2386.73,
+    "end": 2393.61
+  },
+  {
+    "text": "exhibit the sort of wrote memorization we were talking about in chess. So you have to rely",
+    "uid": "90c49b194d3ba582",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2394.33,
+    "end": 2398.81
+  },
+  {
+    "text": "on intuition and an experience and experience is a really kind of crucial part of getting good at backgammon.",
+    "uid": "b538519d25fe0dbc",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2400.09,
+    "end": 2409.85
+  },
+  {
+    "text": "So before there were computers the way that sort of pioneering backgammon players got good was",
+    "uid": "1fd61d341e8d73b1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2409.85,
+    "end": 2415.61
+  },
+  {
+    "text": "they started with a position. They rolled the dice, they played it out, they rolled the dice, they played",
+    "uid": "1831a10724264fab",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2415.61,
+    "end": 2420.09
+  },
+  {
+    "text": "out and they started over at the same position all night and they sort of called unsurprisingly rollouts",
+    "uid": "bf9d799036bc1711",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2420.09,
+    "end": 2425.53
+  },
+  {
+    "text": "and they got a they got a feel for okay I have this position how does how does it tend to evolve all",
+    "uid": "430ee4a3a2a4e9eb",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2425.85,
+    "end": 2430.41
+  },
+  {
+    "text": "how did the checkers tend to flow this way in that way around the board how often do I get hit et cetera.",
+    "uid": "a00b3006876d9e60",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2430.41,
+    "end": 2435.69
+  },
+  {
+    "text": "So yeah this sort of experience is a huge component of backgammon training.",
+    "uid": "67a2b944fb625b72",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2436.65,
+    "end": 2443.45
+  },
+  {
+    "text": "Yeah and the other interesting thing that you mentioned in your book about backgammon is that because there's",
+    "uid": "be63d1c7454587fc",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2444.25,
+    "end": 2448.73
+  },
+  {
+    "text": "this element of chance there's also this element of suspicion from people that that AI is cheating that",
+    "uid": "b098cd10a05edeea",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2448.73,
+    "end": 2455.53
+  },
+  {
+    "text": "kind of fludging the dice rolls. Can you talk about that a little bit?",
+    "uid": "6692433804cfe177",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2456.81,
+    "end": 2460.41
+  },
+  {
+    "text": "Yeah this seems to be like an utterly human response to losing to a machine at a game of",
+    "uid": "d7271295a58dc362",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2460.41,
+    "end": 2467.77
+  },
+  {
+    "text": "chance is like it's rigged obviously it's rigged and this is a form of what we were talking about earlier",
+    "uid": "1d2cb88ec31e4033",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2467.77,
+    "end": 2473.61
+  },
+  {
+    "text": "what is this machine doing here it can't it can't do what I do at this game and indeed I am",
+    "uid": "ff05b3a078129be6",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2474.25,
+    "end": 2481.21
+  },
+  {
+    "text": "so the XG extreme gammon is kind of the most popular backgammon AI that you can kind of play play at home",
+    "uid": "da008aa9179b8500",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2481.21,
+    "end": 2489.05
+  },
+  {
+    "text": "and you know I play it constantly on my phone to the detriment of like whatever it is I'm supposed to be doing",
+    "uid": "a0b18e4adbe18681",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2489.77,
+    "end": 2495.37
+  },
+  {
+    "text": "and yeah when I started out it's like this is rigged these dice are rigged and I think you hear that a lot to the point where",
+    "uid": "b5b53e3a9086f487",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2496.01,
+    "end": 2502.81
+  },
+  {
+    "text": "backgammon websites or programs have this glamorous thing like look these we promise we can prove it to you",
+    "uid": "7d1b178deb9c2567",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2503.45,
+    "end": 2511.29
+  },
+  {
+    "text": "and most of them even have settings where sure go ahead and roll your own dice at home enter them into your computer",
+    "uid": "e7e13cead0963e39",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2511.29,
+    "end": 2516.73
+  },
+  {
+    "text": "and go from there if you really really want to so I think this is a natural kind of",
+    "uid": "e3d123949e094e0d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2516.73,
+    "end": 2522.17
+  },
+  {
+    "text": "yeah doubt a glusional response to losing to the machine to take will take any excuse available to us yeah",
+    "uid": "3431d0016ea3e283",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2522.65,
+    "end": 2534.09
+  },
+  {
+    "text": "and I wanted to talk briefly about the game of bridge and because it also has this interesting",
+    "uid": "ea0ff9f82ad7f222",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2536.09,
+    "end": 2542.17
+  },
+  {
+    "text": "thing where so it's a card game where you have a partner and you have to attempt to form a strategy with your partner",
+    "uid": "460a6678d7229145",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2542.17,
+    "end": 2549.53
+  },
+  {
+    "text": "but there's you can't really communicate openly there's some ways some game elements that allow you to communicate",
+    "uid": "f7804f65702a6bd5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2549.85,
+    "end": 2555.13
+  },
+  {
+    "text": "information but compared to these other games it seems like it's like absolutely right for cheating",
+    "uid": "702b92ffcb482d49",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2555.13,
+    "end": 2560.97
+  },
+  {
+    "text": "it seems almost trivial to to cheat at this game how does that impact the way that people see the game",
+    "uid": "e50278e65efc3210",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2561.29,
+    "end": 2567.93
+  },
+  {
+    "text": "and then also the way that AI's could perform in these games yeah it's exactly right it's sort of another very",
+    "uid": "07a484f629956d57",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2567.93,
+    "end": 2574.17
+  },
+  {
+    "text": "very human response is how do I gain an edge in this game I cheat so yeah you're only allowed to",
+    "uid": "f434bad14cadbdac",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2574.17,
+    "end": 2580.01
+  },
+  {
+    "text": "sort of communicate with your partner via the auction this is a very structured thing that takes place before",
+    "uid": "5fed08d97a4f534e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2580.01,
+    "end": 2586.25
+  },
+  {
+    "text": "the card play in a hand and you want to communicate what's your own hand to your partner",
+    "uid": "67edcb8d543faebe",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2586.25,
+    "end": 2590.57
+  },
+  {
+    "text": "but you know you could also do this by coughing in a very specific way or kicking them under the table or",
+    "uid": "fd7887e0ae9c0044",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2591.77,
+    "end": 2597.93
+  },
+  {
+    "text": "saying like some code word that you had come up with and of course this is all very verboten these are like",
+    "uid": "54f330e0bd3f6b14",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2597.93,
+    "end": 2603.05
+  },
+  {
+    "text": "the mortals in of bridge but people find find a way to do them and yeah the bridge world has really",
+    "uid": "8d49adcc35220de4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2603.05,
+    "end": 2611.61
+  },
+  {
+    "text": "been racked into some extent decimated by this ongoing scandal and revelation after revelation of",
+    "uid": "27a164cca3a630f7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2611.61,
+    "end": 2618.49
+  },
+  {
+    "text": "what top pairs were at least alleged to have been cheating the computer occupied sort of an interesting",
+    "uid": "6bac3a17072e4ed0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2618.49,
+    "end": 2627.13
+  },
+  {
+    "text": "space in a world of cheating humans where of course games are often online now we play them online",
+    "uid": "ff9553aa117bef2e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2627.13,
+    "end": 2638.65
+  },
+  {
+    "text": "and but this presents a unique problem for playing sort of honest bridge which is where you know",
+    "uid": "ca79f25ff2de8b86",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2638.65,
+    "end": 2643.93
+  },
+  {
+    "text": "Matt if you and I are partners and we're playing online I can call you on the phone and I can say hey I have",
+    "uid": "74e05b6178defac7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2643.93,
+    "end": 2648.57
+  },
+  {
+    "text": "you know the expates and the king and the whatever and this obviously impossible to check for so a popular",
+    "uid": "4e210ae055ae3756",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2648.57,
+    "end": 2654.33
+  },
+  {
+    "text": "way to play bridge now is you know Matt you partner with a robot and I all of a partner with a robot",
+    "uid": "ea33abe87f679ff0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2654.33,
+    "end": 2662.57
+  },
+  {
+    "text": "and we play a partnership that way so the robots can sort of be proven to you know we can't call the robot up on the",
+    "uid": "57a949f1106126c3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2662.57,
+    "end": 2668.33
+  },
+  {
+    "text": "phone and we can play something that looks like you know a game of contract bridge that we're fairly",
+    "uid": "903e8dfb54c83a88",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2668.33,
+    "end": 2674.01
+  },
+  {
+    "text": "sure is happening about board so this is this was the fate of one of the strongest bridge playing",
+    "uid": "464f5fb29a184fb7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2674.01,
+    "end": 2682.97
+  },
+  {
+    "text": "AI systems now it sort of lives on a bridge playing website and is a partner and available",
+    "uid": "046f31a8715ee289",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2683.45,
+    "end": 2690.33
+  },
+  {
+    "text": "partner for human players that makes sense yeah so we have some great audience questions that I want to jump",
+    "uid": "4f1357052b1c8104",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2690.33,
+    "end": 2697.29
+  },
+  {
+    "text": "to to start with we have Jennifer who asks do you have a favorite game and why",
+    "uid": "948f501cb01c0bb1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2697.29,
+    "end": 2702.97
+  },
+  {
+    "text": "that's a great question I'm going to hedge a little bit because",
+    "uid": "1e4f2e87cb303db5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2705.21,
+    "end": 2708.97
+  },
+  {
+    "text": "well one it changes over time you know it's like asking someone to pick their favorite child",
+    "uid": "03ec4af29ff000ca",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2709.29,
+    "end": 2715.29
+  },
+  {
+    "text": "but it changes over time and I like different games the most in different contexts but on name a few",
+    "uid": "38e7e44296d611f6",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2716.01,
+    "end": 2722.41
+  },
+  {
+    "text": "scrabble was my favorite game for a long time I played far far too much scrabble in graduate school",
+    "uid": "d9f187fd3dd01d52",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2724.09,
+    "end": 2732.01
+  },
+  {
+    "text": "um played sort of the scrabble tournaments scene and and I like it because it's the game that I",
+    "uid": "94f9b87c1c5aaf7e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2732.17,
+    "end": 2738.57
+  },
+  {
+    "text": "personally invest at and sort of understand as a player most deeply so I like it for that reason",
+    "uid": "dcc83e9dc7dfe54f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2738.57,
+    "end": 2745.29
+  },
+  {
+    "text": "as I mentioned before backgammon like really really a love affair between me and backgammon that has sort of",
+    "uid": "6cd23aa733668b34",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2746.73,
+    "end": 2753.61
+  },
+  {
+    "text": "blossomed in a very very short amount of time and it just makes me sad because I wish I had started playing",
+    "uid": "6c2be3f27dee8c28",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2753.61,
+    "end": 2758.97
+  },
+  {
+    "text": "much much earlier and I think it's as I mentioned before like perfectly blended mix of",
+    "uid": "e623a7c33b12604e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2759.61,
+    "end": 2766.01
+  },
+  {
+    "text": "of luck and skill available to anyone who wants to play a perfect example of the sort of minute to learn",
+    "uid": "fb53b39a5cb0a52c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2766.01,
+    "end": 2772.57
+  },
+  {
+    "text": "lifetime to master kind of idea and third um just just as a very sort of nostalgic romantic",
+    "uid": "fc263bfa3e191125",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2772.57,
+    "end": 2782.33
+  },
+  {
+    "text": "um I could pause that place in my brain I'd you have played it since I was a little kid with my",
+    "uid": "48e0745823587ffc",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2783.13,
+    "end": 2789.45
+  },
+  {
+    "text": "grandpa and so it was a game it was a game I grew up on unfortunately never got good never got good but I",
+    "uid": "4d845af00fc866fb",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2789.45,
+    "end": 2796.81
+  },
+  {
+    "text": "have extremely fond memories of playing chess growing up so those are three for for three slightly",
+    "uid": "22ae7ba58edd0ee5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2796.81,
+    "end": 2803.13
+  },
+  {
+    "text": "different reasons yeah and somewhat related we have a question from Elliott who says what do you think",
+    "uid": "5ec78a16b72f0cfb",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2803.13,
+    "end": 2809.05
+  },
+  {
+    "text": "makes great tabletop players so great moving chess pieces playing cards isn't mechanically",
+    "uid": "0b672a63a9e374ee",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2809.13,
+    "end": 2813.53
+  },
+  {
+    "text": "difficult like a golf swing yet there are clear skill gaps even among elite players yeah that's a tough one",
+    "uid": "953c65dd14c9871d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2813.53,
+    "end": 2820.57
+  },
+  {
+    "text": "I mean I think there's there's this two sort of I could break that in the two questions what makes",
+    "uid": "9cb186ba6056a706",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2820.57,
+    "end": 2827.77
+  },
+  {
+    "text": "someone willing to become elite at a game and put in that time and ever and what are the",
+    "uid": "076b5e50efb1035a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2827.77,
+    "end": 2835.21
+  },
+  {
+    "text": "looks sort of much finer distinctions between and among elite players I think you know probably",
+    "uid": "a047e0218dedf328",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2835.21,
+    "end": 2842.57
+  },
+  {
+    "text": "unsatisfactory answers just like you have to really love the game like whatever that means like",
+    "uid": "ee4840e3541d56db",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2842.57,
+    "end": 2847.77
+  },
+  {
+    "text": "that doesn't even mean you like it right you just have to love it like you just have to like be driven to",
+    "uid": "0efb9126f02afc37",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2847.77,
+    "end": 2852.49
+  },
+  {
+    "text": "spend a lot of time and in every game in the book requires just uncountably large number of of",
+    "uid": "84ca190a94a5df04",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2852.49,
+    "end": 2860.01
+  },
+  {
+    "text": "hours devoted to it whether it's learning scrabble words whether it's memorizing chess openings",
+    "uid": "3f2ffa5137d207e7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2860.01,
+    "end": 2865.77
+  },
+  {
+    "text": "or endgame tactics or whatever so just I think it's sort of inexplicable like why did I spend",
+    "uid": "71ddf916148d394f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2865.77,
+    "end": 2872.97
+  },
+  {
+    "text": "you know these 10,000 hour studying scrabble words I have I have no idea",
+    "uid": "9b692853fd84a006",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2874.01,
+    "end": 2877.93
+  },
+  {
+    "text": "as sort of a a meditative thing for me the gradations between the the best players in the world",
+    "uid": "08a10f7e81770f0d",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2878.65,
+    "end": 2884.97
+  },
+  {
+    "text": "I don't know I don't think I have a good answer inexplicable quirks of history and culture and",
+    "uid": "475f52dd026c2fe3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2885.13,
+    "end": 2895.21
+  },
+  {
+    "text": "time usage I don't know a million a million things that I don't think I can untangle but I yeah I will",
+    "uid": "ed5f3495af0750f1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2895.21,
+    "end": 2901.45
+  },
+  {
+    "text": "say I wish I was better at every game in my book and I am yeah that's totally fair so the next question",
+    "uid": "84d58b94e22a27c0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2901.45,
+    "end": 2908.41
+  },
+  {
+    "text": "we have is from here about who asks have you ever explored games played by older civilizations any",
+    "uid": "12ad49df25264b42",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2908.41,
+    "end": 2913.61
+  },
+  {
+    "text": "common ground between games then and now yeah great question thank you I've dug into it",
+    "uid": "be6bd126c59eeab5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2913.69,
+    "end": 2921.69
+  },
+  {
+    "text": "in so far as the a few of the games in my book have very ancient ancestors so for example in",
+    "uid": "7c0c7c5a40b8a094",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2921.69,
+    "end": 2930.81
+  },
+  {
+    "text": "in my back-m and chapter opens with a legion of Egyptologists sort of smashing into this ancient",
+    "uid": "b77ec494565db934",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2932.17,
+    "end": 2941.05
+  },
+  {
+    "text": "burial tomb and finding surprise surprise a backgammon set very very similar to modern backgammon",
+    "uid": "f6c0ceb8f25c4e88",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2941.13,
+    "end": 2947.53
+  },
+  {
+    "text": "chat chess has I think a 1500 year history likely developed this sort of ancient",
+    "uid": "ee5753002b8f2261",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2949.05,
+    "end": 2955.77
+  },
+  {
+    "text": "a miniaturized military exercise that imported with the pieces of the Indian army of that day",
+    "uid": "27a5157a273ccb30",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2955.77,
+    "end": 2962.17
+  },
+  {
+    "text": "go is you know millennia all checkers has millennia old ancestors and it's hard to sort of",
+    "uid": "bbe9565f1d3f3968",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2962.41,
+    "end": 2970.89
+  },
+  {
+    "text": "trace exactly you know the path from my kitchen table back to like ancient Egypt but the",
+    "uid": "82e7fcdb57623da7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2970.89,
+    "end": 2977.69
+  },
+  {
+    "text": "evidences in controversial that ancient people's played games extremely similar to the games that we played",
+    "uid": "3ee0881b4be5e18e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2977.69,
+    "end": 2983.85
+  },
+  {
+    "text": "today so there's a bit of a discussion about that in the book but I think what's most interesting to me",
+    "uid": "85ce9fa6796a6c00",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2983.85,
+    "end": 2991.93
+  },
+  {
+    "text": "about that question is like the games that were played in bagon cities of ruined empires are now",
+    "uid": "9112f32a8a5b1546",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2992.25,
+    "end": 2999.05
+  },
+  {
+    "text": "played by like the most advanced super computers and processors that we've built right like this sort of",
+    "uid": "a729bca998f0c6d5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 2999.05,
+    "end": 3008.17
+  },
+  {
+    "text": "cultural and technological longevity I think games are are unparalleled and I find that like utterly",
+    "uid": "8ae8a592748525ba",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3008.17,
+    "end": 3015.93
+  },
+  {
+    "text": "fascinating sort of thread that that connects humans yeah and the thread of human accomplishment that",
+    "uid": "34e4405036c5a153",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3015.93,
+    "end": 3022.89
+  },
+  {
+    "text": "has led from the creation of this game through to the creation of these systems that can can bring more to",
+    "uid": "1cb32becbd10ef4e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3022.89,
+    "end": 3028.97
+  },
+  {
+    "text": "the game yeah absolutely right and one one point I'm I'm very careful to make in the book is there is no",
+    "uid": "37d4c8e4a8cda109",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3028.97,
+    "end": 3035.37
+  },
+  {
+    "text": "such thing as human versus machine right the it's very important to to remember that humans built these",
+    "uid": "a98d62b2f5df1118",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3035.37,
+    "end": 3042.81
+  },
+  {
+    "text": "machines sometimes at great cost personal cost financial cost time cost and I hope you find in the",
+    "uid": "a2bec44224083687",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3042.81,
+    "end": 3050.81
+  },
+  {
+    "text": "book that some of the most colorful human characters are the technologists the programmers the engineers",
+    "uid": "cd7ae00e2e4507be",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3050.81,
+    "end": 3057.53
+  },
+  {
+    "text": "and I was very careful to sort of to put it exactly like you did these these superhuman games playing",
+    "uid": "2fe5f1081b978532",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3057.53,
+    "end": 3063.85
+  },
+  {
+    "text": "machines are not you know the end of us they're just I think they're emblematic of the the genius of us",
+    "uid": "bc398d6ef02ef566",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3063.85,
+    "end": 3071.69
+  },
+  {
+    "text": "yes so going on from there David asks feelings on text slash trivia games like Jeopardy",
+    "uid": "71e16c4d661eb344",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3072.41,
+    "end": 3080.57
+  },
+  {
+    "text": "I love I love Jeopardy I don't watch it as much as I used to but I've taken the Jeopardy test to",
+    "uid": "f9ca629598502632",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3082.65,
+    "end": 3089.93
+  },
+  {
+    "text": "hand full of times never made it past that so that's always been that's an uncrossed off bucket list item",
+    "uid": "0704b8e0f96685d7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3089.93,
+    "end": 3097.13
+  },
+  {
+    "text": "but of course even there you have a really fascinating human versus human stroke machine story",
+    "uid": "d56ded4bf09af96f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3097.21,
+    "end": 3104.97
+  },
+  {
+    "text": "and indeed Gerald Tissara who worked on back came and also worked on some of the the bidding strategy",
+    "uid": "ff729a5fc780ebb7",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3106.33,
+    "end": 3112.09
+  },
+  {
+    "text": "for Watson which played on Jeopardy and the amazing Jeopardy run which has just come to an end",
+    "uid": "95d15eba3ad2a24a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3112.09,
+    "end": 3118.25
+  },
+  {
+    "text": "yeah I would say I like most of the games in my book I appreciate them very very much but I'm",
+    "uid": "51d24bd9f4277202",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3118.25,
+    "end": 3127.21
+  },
+  {
+    "text": "myself and not I'm not a master of trivia yeah that's it it is interesting like you say that there",
+    "uid": "a7654299ba4a98c9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3128.01,
+    "end": 3133.45
+  },
+  {
+    "text": "has been this element of the strategy that humans employ has changed in the post AI playing back game world",
+    "uid": "d94240bf4f5c2779",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3133.45,
+    "end": 3140.49
+  },
+  {
+    "text": "yeah as I understand that my if my memory serves I had a lot to do with daily double",
+    "uid": "2520ddcfef53e1be",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3140.49,
+    "end": 3146.97
+  },
+  {
+    "text": "daily double wagering and essentially the computer saying you should be a lot more aggressive",
+    "uid": "223def06f5b20d29",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3147.45,
+    "end": 3153.77
+  },
+  {
+    "text": "among other things I think you can go back and indeed I have for a story that I wrote and find out you know",
+    "uid": "bbc3a7283b4ba644",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3153.77,
+    "end": 3159.93
+  },
+  {
+    "text": "where are the daily doubles historically and they tend to obviously be in the lower rows and so on and yeah this",
+    "uid": "58fd7c89ead221df",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3159.93,
+    "end": 3165.77
+  },
+  {
+    "text": "sort of computer yes but also just data analysis driven approach to to the games in my book to Jeopardy",
+    "uid": "4f828a924510adb4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3165.77,
+    "end": 3175.45
+  },
+  {
+    "text": "to baseball to other sports has been really broad based and yeah we I think it's it's really",
+    "uid": "d4b1fd8818a240a0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3175.45,
+    "end": 3184.33
+  },
+  {
+    "text": "interesting to watch this broad based sort of rising tide lifts all boats like skill effect where",
+    "uid": "94b9af37655f0a37",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3184.33,
+    "end": 3190.49
+  },
+  {
+    "text": "it was just getting a lot better and to see how the games change as a result of that like that like basketball",
+    "uid": "46659cb25f7e7923",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3190.49,
+    "end": 3196.09
+  },
+  {
+    "text": "for example looks a lot different now than it did a decade ago or two decades ago whatever definitely",
+    "uid": "b5ec02d8fd5f08f1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3196.09,
+    "end": 3202.97
+  },
+  {
+    "text": "and Morgan has a question that touches on this a bit which is or I'm sorry I'll leave has a question",
+    "uid": "f3aeb0d3e12d9ca2",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3203.45,
+    "end": 3208.49
+  },
+  {
+    "text": "uh what is the difference between games and sports where do they need where do they differ yeah it's",
+    "uid": "08edb55ac11037ca",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3208.49,
+    "end": 3214.49
+  },
+  {
+    "text": "it's a good question and it's one that I frankly I don't I don't really care about like I think and I",
+    "uid": "dee1dd0a168f2be9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3215.53,
+    "end": 3221.69
+  },
+  {
+    "text": "I don't mean any offense to the asker of the question it's a very good question it's important to think about but",
+    "uid": "afd997cf09785128",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3221.69,
+    "end": 3226.73
+  },
+  {
+    "text": "you know it is chess a sport sure like why not is basketball game sure why not and these are very",
+    "uid": "cb0c0afe9e2a9335",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3227.21,
+    "end": 3234.25
+  },
+  {
+    "text": "these are very slippery concepts and sort of the the definition I offer in the book and I sort of",
+    "uid": "5fb6120e68488652",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3234.25,
+    "end": 3241.69
+  },
+  {
+    "text": "introduced this character Bernard suits who is a philosopher sort of a philosopher of games and he",
+    "uid": "280eba19f7d30621",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3241.69,
+    "end": 3247.77
+  },
+  {
+    "text": "called games the voluntary attempt to overcome unnecessary obstacles that was his entire definition so I think",
+    "uid": "5c83ede3bbcb1b6c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3247.77,
+    "end": 3254.65
+  },
+  {
+    "text": "chess fits into that right I could put the queen over here and put you in checkmate but I have to",
+    "uid": "6cadeb94974404f4",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3254.65,
+    "end": 3259.21
+  },
+  {
+    "text": "follow these you know unnecessary rules to do that yeah basketball I could you know run down the court",
+    "uid": "f78f4e71470627a6",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3259.21,
+    "end": 3264.81
+  },
+  {
+    "text": "and knock people out of the way and and dunk the ball but I can't do that because you know there are rules",
+    "uid": "eefb9e3c8eabf303",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3264.81,
+    "end": 3270.57
+  },
+  {
+    "text": "and yeah they're all games they're all sports I think they all as we were just talking about in the last",
+    "uid": "ab7a8be37745de69",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3270.57,
+    "end": 3276.01
+  },
+  {
+    "text": "question you know are these this sort of pocket of human pursuit that sort of shares a lot of characteristics",
+    "uid": "c25b58781bddb51b",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3276.01,
+    "end": 3282.49
+  },
+  {
+    "text": "has sort of evolved as we've as we've gained knowledge about them yes yeah so the question that",
+    "uid": "7f3fdad8dfabd90c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3283.13,
+    "end": 3292.09
+  },
+  {
+    "text": "Morgan has asked me is do you ever play more modern board games what are your thoughts yeah I used to do",
+    "uid": "052b0a2e70fb0f03",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3292.09,
+    "end": 3298.73
+  },
+  {
+    "text": "quite a bit I've been with like reporting and writing the book I've been playing the games in in the book",
+    "uid": "1606350d515c7117",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3299.85,
+    "end": 3305.69
+  },
+  {
+    "text": "I feel like it was important to get a flavor of them as I was writing about them I think if you were you know",
+    "uid": "b6f79e14c19eb82c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3305.69,
+    "end": 3311.05
+  },
+  {
+    "text": "just like if you were writing about vango you'd probably like pin some vango prints to your",
+    "uid": "2e65c1ffc2b3fa63",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3311.13,
+    "end": 3316.25
+  },
+  {
+    "text": "wall or something so I've been really deeply immersed in the games in the book yeah I used to like",
+    "uid": "02b3328ed05920d0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3316.25,
+    "end": 3322.57
+  },
+  {
+    "text": "every other sort of American my age played a lot of settlers of katana for Christmas I received wingspan",
+    "uid": "9dbcfe65e507fa22",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3322.57,
+    "end": 3332.01
+  },
+  {
+    "text": "which I played with my family which is a very popular new board game terraforming Mars another",
+    "uid": "2bd92b74e64c19ab",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3332.01,
+    "end": 3340.41
+  },
+  {
+    "text": "another recent acquisition so I while I haven't played them a ton recently I I appreciate what's",
+    "uid": "30dcf8d3040dd986",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3340.41,
+    "end": 3345.69
+  },
+  {
+    "text": "happening and again over the last what decade or so this this golden age of a board game design that",
+    "uid": "6174d6ef0e0010c8",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3345.69,
+    "end": 3351.77
+  },
+  {
+    "text": "has roughly speaking sort of migrated from from Europe to the US and and I think you know it's probably",
+    "uid": "89695ad2197e7c9a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3351.77,
+    "end": 3358.09
+  },
+  {
+    "text": "unsurprising to hear me say that anything that increases people playing games I think is to the good",
+    "uid": "044ded78ceb528f1",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3358.09,
+    "end": 3363.61
+  },
+  {
+    "text": "without limit so yeah huge fan of developments in that world yeah yeah so we're just about",
+    "uid": "02e19c9eb2c02174",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3363.69,
+    "end": 3371.93
+  },
+  {
+    "text": "out of time I want to wrap up with your thoughts on what it means for us as humans playing games in a",
+    "uid": "53f7840f75823c79",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3371.93,
+    "end": 3377.85
+  },
+  {
+    "text": "world where computers are dominant in the ways that they are in many games yeah fantastic question",
+    "uid": "9b04de5e627cf2c2",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3377.85,
+    "end": 3385.13
+  },
+  {
+    "text": "and and I think on the one hand it doesn't mean much on on the other hand it means it means everything",
+    "uid": "3ef41ec0b34902ec",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3385.13,
+    "end": 3390.81
+  },
+  {
+    "text": "like so I'll try to explain what I mean so there's a bit in the book about you know you say in",
+    "uid": "ed0276c7358d8ad8",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3390.81,
+    "end": 3396.41
+  },
+  {
+    "text": "both doesn't care that there's a race car that's much faster than he is this kind of idea where you know",
+    "uid": "f4b2c509b39bde5f",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3396.41,
+    "end": 3403.85
+  },
+  {
+    "text": "at this point Magnus Carlson probably doesn't care that you know stock fisher alpha zero or whatever it is",
+    "uid": "68f33c992d6cf93b",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3403.85,
+    "end": 3411.29
+  },
+  {
+    "text": "is better than him this is just sort of accepted fact about the way technology works but I think that",
+    "uid": "2faa9e68db405745",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3411.29,
+    "end": 3419.45
+  },
+  {
+    "text": "it means a lot in another sense which is it's extraordinarily is they these collectively are an",
+    "uid": "24eff2abe151ebe8",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3420.33,
+    "end": 3426.73
+  },
+  {
+    "text": "extraordinary extraordinarily impressive technological feat that I think we ought to reflect on an",
+    "uid": "13ce9dc31f17a3a9",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3426.73,
+    "end": 3432.89
+  },
+  {
+    "text": "and beat proud of as human collective of human brains and I think the big question which is more or less",
+    "uid": "480ff681ad2c415e",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3432.89,
+    "end": 3442.89
+  },
+  {
+    "text": "unanswered is well what will these games playing machines program systems etc do in the",
+    "uid": "7c617ac054755306",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3442.97,
+    "end": 3449.61
+  },
+  {
+    "text": "so-called real world right so you had extreme examples like IBM's deep blue which was disassembled right after",
+    "uid": "6a923fcc00b4a67a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3450.41,
+    "end": 3457.69
+  },
+  {
+    "text": "it be Casper of a 97 did literally nothing else but you have these more modern neural network deep learning",
+    "uid": "1ac9112ca7f39e0c",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3457.69,
+    "end": 3464.09
+  },
+  {
+    "text": "techniques that seem to maybe be sort of more adaptable and more sort of extendable to other",
+    "uid": "960b2bbeda00efd5",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3464.09,
+    "end": 3469.29
+  },
+  {
+    "text": "to other domains so I think you know since the 1950s if not before that games have been",
+    "uid": "f163dd828c6b52fe",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3469.77,
+    "end": 3477.21
+  },
+  {
+    "text": "a test bed and a launching pad for AI that has sort of as of yet failed to sort of achieve its promise",
+    "uid": "5f43a5356b117a61",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3477.93,
+    "end": 3487.61
+  },
+  {
+    "text": "but I think that's changing and I think to see what role games play in as a foundation for our future",
+    "uid": "bfbeedc3c22ea3d0",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3487.61,
+    "end": 3494.57
+  },
+  {
+    "text": "will be really fascinating to watch yeah that's excellent so that's all the time that we have",
+    "uid": "e6e8feb2401a8832",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3494.57,
+    "end": 3500.25
+  },
+  {
+    "text": "Oliver I want to thank you again for joining us it's been really a lot of fun having you here thank you so much",
+    "uid": "00ef462ac7ac9cd2",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3500.25,
+    "end": 3504.49
+  },
+  {
+    "text": "for having me Oliver's book seven games a human history is available now wherever books are sold",
+    "uid": "0bc59d44a3f6483a",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3504.49,
+    "end": 3509.77
+  },
+  {
+    "text": "including for your local an independent book seller if you've ever played a game or tabletop game",
+    "uid": "f2a10a212cb88ab3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3509.77,
+    "end": 3514.49
+  },
+  {
+    "text": "I'm going to you like this book so check it out for everyone who joined us today we look forward to seeing",
+    "uid": "83e1a38067454cf3",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3514.49,
+    "end": 3519.13
+  },
+  {
+    "text": "you at our next toxic google event please stay safe and take care",
+    "uid": "d2d1d5ba58cccffd",
+    "source": "Talks_at_Google - Oliver_Roeder_Seven_Games_-_A_Human_History_Talks_at_Google",
+    "start": 3519.13,
+    "end": 3522.09
+  }
+]
