@@ -1,0 +1,3264 @@
+[
+  {
+    "text": "Hey there, it's Steven Dubner.",
+    "uid": "8f3249144bde24c9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1.84,
+    "end": 3.84
+  },
+  {
+    "text": "Most episodes of Freakonomics Radio involve or even built around academic research.",
+    "uid": "66fe980aa5613142",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 3.84,
+    "end": 9.56
+  },
+  {
+    "text": "Obviously we think this research is interesting, even important, but the sad fact is a great",
+    "uid": "367913c46afe1440",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 9.56,
+    "end": 15.12
+  },
+  {
+    "text": "deal of academic research.",
+    "uid": "21fc1d40137e7dee",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 15.12,
+    "end": 16.92
+  },
+  {
+    "text": "Even the best stuff often remains stuck in research land, converting it into policy or behavior",
+    "uid": "7f9096c867f99198",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 16.92,
+    "end": 23.72
+  },
+  {
+    "text": "change is a whole other proposition.",
+    "uid": "81357b0abe28f79f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 23.72,
+    "end": 26.16
+  },
+  {
+    "text": "I've been thinking about this dilemma lately as we are a few months into a new presidential",
+    "uid": "7bec6f3e178d5a94",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 26.16,
+    "end": 30.96
+  },
+  {
+    "text": "administration here in the US.",
+    "uid": "6731e5f37dac1820",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 30.96,
+    "end": 32.64
+  },
+  {
+    "text": "Some of the Biden administration's policy ideas have a political component, but there's",
+    "uid": "46d0da3ba3b1779e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 32.64,
+    "end": 37.96
+  },
+  {
+    "text": "also a lot of proposed policy that's drawn from or at least tightly connected to academic",
+    "uid": "0933d6c191bcf0fe",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 37.96,
+    "end": 44.48
+  },
+  {
+    "text": "research around things like poverty, healthcare, education, wages, energy, so on.",
+    "uid": "944abac1f16fc374",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 44.48,
+    "end": 51.28
+  },
+  {
+    "text": "We will be exploring a lot of that research-based policy over the coming months on the show,",
+    "uid": "bb19a85a52184b2e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 51.28,
+    "end": 56.2
+  },
+  {
+    "text": "but first I wanted to play for you a very relevant episode we made last year.",
+    "uid": "29d6907136018771",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 56.2,
+    "end": 60.64
+  },
+  {
+    "text": "First of all, it is about how rare it is for good academic research to be turned",
+    "uid": "e30a1c1641e879e9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 60.64,
+    "end": 66.4
+  },
+  {
+    "text": "into good policy.",
+    "uid": "26b9d38dcb810bb9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 66.4,
+    "end": 68.72
+  },
+  {
+    "text": "This isn't all about blaming policy makers and politicians.",
+    "uid": "09ff044e1983644d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 68.72,
+    "end": 72.92
+  },
+  {
+    "text": "Some of the failure has to be attributed to the researchers themselves, as we tried to make",
+    "uid": "ec29fd07f3013f1b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 72.92,
+    "end": 77.4
+  },
+  {
+    "text": "clear in the title of this episode.",
+    "uid": "0182baf0782e3490",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 77.4,
+    "end": 79.76
+  },
+  {
+    "text": "It's called policy making is not a science yet, and it starts right now.",
+    "uid": "5e26429b722f924a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 79.76,
+    "end": 85.36
+  },
+  {
+    "text": "Usually when children are born deaf, they call it nerve deafness, but it's really not",
+    "uid": "b09ab95f5466145d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 85.4,
+    "end": 98.38
+  },
+  {
+    "text": "the actual nerve.",
+    "uid": "02d0aa8d1cc98323",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 98.38,
+    "end": 99.7
+  },
+  {
+    "text": "It's little tiny hair cells in the cochlea.",
+    "uid": "a22ee185fe059f17",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 99.7,
+    "end": 103.78
+  },
+  {
+    "text": "Dana Suskin is a physician scientist at the University of Chicago, and more dramatically, she",
+    "uid": "3de7abd746342a0b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 103.78,
+    "end": 109.42
+  },
+  {
+    "text": "is a pediatric surgeon who specializes in cochlear implants.",
+    "uid": "a836080939e928e8",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 109.42,
+    "end": 113.7
+  },
+  {
+    "text": "My job is to implant this incredible piece of technology, which bypasses these defective hair cells",
+    "uid": "4f74d75ebfce9be6",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 113.7,
+    "end": 121.54
+  },
+  {
+    "text": "and takes the sound from the environment, the acoustic sound, and transforms it into electrical",
+    "uid": "4920285891ccfdec",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 121.62,
+    "end": 127.66
+  },
+  {
+    "text": "energy, which then stimulates the nerve.",
+    "uid": "bcc966a8897ee213",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 127.66,
+    "end": 131.54
+  },
+  {
+    "text": "Somebody who is severe to completely profoundly deaf after implantation can have normal levels of hearing,",
+    "uid": "c473a2088f3888a3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 131.54,
+    "end": 140.46
+  },
+  {
+    "text": "and it is pretty phenomenal.",
+    "uid": "5997a70ef350862b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 140.46,
+    "end": 142.5
+  },
+  {
+    "text": "It is pretty phenomenal.",
+    "uid": "c8aa686b7f2380a8",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 142.5,
+    "end": 143.82
+  },
+  {
+    "text": "If you ever need a good cry, happy cry, just type in cochlear implant activation on YouTube.",
+    "uid": "ab6d2ed811c08d0e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 143.82,
+    "end": 150.42
+  },
+  {
+    "text": "You'll see little kids hearing sound for the first time, and their parents flipping out with",
+    "uid": "42a70c334e552a02",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 150.42,
+    "end": 156.34
+  },
+  {
+    "text": "The cochlear implant is a remarkable piece of technology, but really it's just one of many remarkable",
+    "uid": "706ed20b98b6dfe2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 165.18,
+    "end": 186.91
+  },
+  {
+    "text": "advances in medicine and elsewhere, created by devoted researchers and technologists and",
+    "uid": "b79dbf011557be1f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 186.91,
+    "end": 192.75
+  },
+  {
+    "text": "sundry smart people.",
+    "uid": "4ac1dec54bb10680",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 192.75,
+    "end": 195.03
+  },
+  {
+    "text": "You know what's even more remarkable?",
+    "uid": "1ebea48cfaf2aad4",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 195.03,
+    "end": 196.99
+  },
+  {
+    "text": "How often we fail to take advantage of these advances?",
+    "uid": "65db7c45de90c082",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 196.99,
+    "end": 201.03
+  },
+  {
+    "text": "One of the most compelling examples is the issue of hypertension.",
+    "uid": "a433fdd96407a6fe",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 201.03,
+    "end": 206.71
+  },
+  {
+    "text": "About a third of all Americans have high blood pressure.",
+    "uid": "73cf62fc09bfbba4",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 206.71,
+    "end": 210.51
+  },
+  {
+    "text": "First of all, the awareness rate is about only 80 percent of the total amount, only 50 percent",
+    "uid": "3e4f81dee63e3d10",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 210.51,
+    "end": 215.91
+  },
+  {
+    "text": "actually are controlled.",
+    "uid": "b49a2c26ec5bf4c2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 215.91,
+    "end": 217.39
+  },
+  {
+    "text": "We have great drugs, but you can see the cascade of issues when you have to disseminate",
+    "uid": "69137c339b09437b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 217.63,
+    "end": 223.91
+  },
+  {
+    "text": "you have to adhere, etc.",
+    "uid": "82616808de3e8b4f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 223.91,
+    "end": 226.15
+  },
+  {
+    "text": "And the public health ramifications of that.",
+    "uid": "d5e5bdc990cf1cb6",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 226.15,
+    "end": 230.15
+  },
+  {
+    "text": "Prescription adherence is a very difficult not to crack.",
+    "uid": "b618ca9112618cc9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 230.15,
+    "end": 234.23
+  },
+  {
+    "text": "It's John Lists.",
+    "uid": "78b8a1d6332eea15",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 234.23,
+    "end": 235.23
+  },
+  {
+    "text": "He's an economist at the University of Chicago.",
+    "uid": "5a159a39caa67efc",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 235.23,
+    "end": 237.79
+  },
+  {
+    "text": "They actually have to go and get the medicines, which a lot of people have a very hard time",
+    "uid": "de15829c42fb9f10",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 237.79,
+    "end": 243.19
+  },
+  {
+    "text": "doing even though it's sitting next to your bed every night.",
+    "uid": "ce28b4602550bc9c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 243.23,
+    "end": 247.63
+  },
+  {
+    "text": "People don't take it.",
+    "uid": "3f59146ea8571adf",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 247.63,
+    "end": 249.87
+  },
+  {
+    "text": "And they don't take it because they forget they don't take it because the side effect is a",
+    "uid": "6d8b085456b526fc",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 249.87,
+    "end": 256.03
+  },
+  {
+    "text": "lot worse than the benefit they think they're getting.",
+    "uid": "ed8bb207e0122922",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 256.03,
+    "end": 258.95
+  },
+  {
+    "text": "All of these types of problems as humans, including myself, we do a really bad job in trying",
+    "uid": "347de02145d7b66b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 258.95,
+    "end": 265.43
+  },
+  {
+    "text": "All of us, our lives get busy.",
+    "uid": "d68ac50719a6803f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 266.43,
+    "end": 268.67
+  },
+  {
+    "text": "You wouldn't think you'd have an adherence issue with something like the cochlear implant.",
+    "uid": "cf17e29b508b4cc0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 270.63,
+    "end": 274.47
+  },
+  {
+    "text": "It has such an obvious upside.",
+    "uid": "7d94e6a0708f2339",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 274.47,
+    "end": 277.59
+  },
+  {
+    "text": "When I put the internal device in, it stays there.",
+    "uid": "85e42a845488aff1",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 278.59,
+    "end": 282.59
+  },
+  {
+    "text": "But it actually requires an external portion as well, sort of like a hearing aid.",
+    "uid": "d4e700ce0602988f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 282.59,
+    "end": 288.07
+  },
+  {
+    "text": "And that is the part where you see issues related to adherence.",
+    "uid": "a937c414b8c951ae",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 288.07,
+    "end": 294.47
+  },
+  {
+    "text": "Just because I put the internal part doesn't mean that an individual or child will be",
+    "uid": "d89a6b53deaad9a0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 294.47,
+    "end": 299.59
+  },
+  {
+    "text": "wearing the external part.",
+    "uid": "bcab7d2772df2854",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 299.59,
+    "end": 301.51
+  },
+  {
+    "text": "In one study, only half of the participants wore their device full time.",
+    "uid": "07e5bc4c7e1439da",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 301.51,
+    "end": 305.71
+  },
+  {
+    "text": "I mean, we have figured through randomized control trials to understand causation, real impact",
+    "uid": "18d3e3abfcce2f82",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 305.71,
+    "end": 312.79
+  },
+  {
+    "text": "in the small scale.",
+    "uid": "b21f45a22a947522",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 312.79,
+    "end": 314.79
+  },
+  {
+    "text": "But the next step is understanding the science of how to use this science.",
+    "uid": "b4386c43aaba822f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 314.79,
+    "end": 320.51
+  },
+  {
+    "text": "Because, you know, how you do it on the small scale in perfect conditions is very different",
+    "uid": "696c0af03a968f2c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 320.51,
+    "end": 325.83
+  },
+  {
+    "text": "than the messy real world.",
+    "uid": "aea73d01accd1eb2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 325.83,
+    "end": 328.27
+  },
+  {
+    "text": "And that is a very real issue.",
+    "uid": "4241c41baed3aa8c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 328.27,
+    "end": 330.63
+  },
+  {
+    "text": "Today, I'm Freakonomics Radio, what to do about that very real issue?",
+    "uid": "98472e6d565c7039",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 330.63,
+    "end": 334.59
+  },
+  {
+    "text": "Because you see the same thing, not just in medicine, but in education and economic policy and",
+    "uid": "b46ff19fb158a754",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 334.59,
+    "end": 339.31
+  },
+  {
+    "text": "elsewhere, solutions that look foolproof in the research stage are failing to scale up.",
+    "uid": "b55d0bb143231422",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 339.31,
+    "end": 345.55
+  },
+  {
+    "text": "People said, let's just put it out there.",
+    "uid": "a571ce79a05d1386",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 345.55,
+    "end": 347.99
+  },
+  {
+    "text": "And then we quickly realized that that's far more complicated.",
+    "uid": "a821fb4a078e8c61",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 347.99,
+    "end": 351.23
+  },
+  {
+    "text": "There might be something that you think would be great, but it's never going to be able to be",
+    "uid": "e33e9b4fb60d5721",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 351.23,
+    "end": 355.19
+  },
+  {
+    "text": "implemented in the real world.",
+    "uid": "4da8f6f1340e3349",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 355.19,
+    "end": 357.11
+  },
+  {
+    "text": "We need to know what is the magic sauce?",
+    "uid": "131329b7a77f1a16",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 357.11,
+    "end": 360.91
+  },
+  {
+    "text": "We'll go in search of that magic sauce right after this.",
+    "uid": "89fa5583a9961971",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 360.91,
+    "end": 382.17
+  },
+  {
+    "text": "This is Freakonomics Radio, the podcast that explores the hidden side of everything.",
+    "uid": "1abf56dbe5502253",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 382.17,
+    "end": 387.89
+  },
+  {
+    "text": "Here's your host, Stephen Dupner.",
+    "uid": "066df2a62047657b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 387.89,
+    "end": 401.9
+  },
+  {
+    "text": "Homeless is a pioneer in the relatively recent movement to give economic research more",
+    "uid": "5d9f488ee13b4e65",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 401.9,
+    "end": 407.3
+  },
+  {
+    "text": "credibility in the real world.",
+    "uid": "47424c97cf88e7a9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 407.3,
+    "end": 409.66
+  },
+  {
+    "text": "If you turn back the clock to the 1990s, there was a credibility revolution in economics, focusing",
+    "uid": "9738ed60b0bd30aa",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 409.66,
+    "end": 417.34
+  },
+  {
+    "text": "on what data and modeling assumptions are necessary to go from correlation to causality.",
+    "uid": "037232bc0a55aab1",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 417.34,
+    "end": 424.94
+  },
+  {
+    "text": "List responded by running dozens and dozens of field experiments.",
+    "uid": "1138a8d0a9b64b63",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 424.94,
+    "end": 429.1
+  },
+  {
+    "text": "Now my contribution in the credibility revolution was instead of working with secondary",
+    "uid": "4cae8ba740cedc5c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 429.1,
+    "end": 434.1
+  },
+  {
+    "text": "data, I actually went to the world and use a world is my lab in generated new data to test",
+    "uid": "15d6c985d4353043",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 434.1,
+    "end": 441.02
+  },
+  {
+    "text": "theories and estimate program effects.",
+    "uid": "be6d6fc7da650408",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 441.02,
+    "end": 443.86
+  },
+  {
+    "text": "Okay, so you and others moved experiments out of the lab and into the real world, but have you",
+    "uid": "9ff0b78afcae5052",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 443.86,
+    "end": 451.9
+  },
+  {
+    "text": "been able to successfully translate those experimental findings into, let's say, good policy?",
+    "uid": "50c5373a9268bd02",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 451.9,
+    "end": 457.34
+  },
+  {
+    "text": "I think moving our work into policy making circles and having a very strong impact has just",
+    "uid": "d45ceb26c0d74ddc",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 457.34,
+    "end": 465.58
+  },
+  {
+    "text": "not been there.",
+    "uid": "8a9280b7eb5ef164",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 465.58,
+    "end": 467.22
+  },
+  {
+    "text": "And I think one of the most important questions is how are we going to make that natural progression",
+    "uid": "b8e6d8768cd5fe49",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 467.22,
+    "end": 472.5
+  },
+  {
+    "text": "of field experiments within the social sciences to more keenly talk to policymakers, the broader",
+    "uid": "57b0678bfe05b6df",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 472.5,
+    "end": 479.5
+  },
+  {
+    "text": "public and actually the scientific community is a whole.",
+    "uid": "66c13361a9bd2f28",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 479.5,
+    "end": 484.22
+  },
+  {
+    "text": "The way lists Caesar, academics like him work hard to come up with evidence for some intervention",
+    "uid": "0d1e44dae39ec058",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 484.22,
+    "end": 489.1
+  },
+  {
+    "text": "that's supposed to help alleviate poverty or improve education, to help people quit smoking",
+    "uid": "d888cb8d21e1ae23",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 489.1,
+    "end": 494.66
+  },
+  {
+    "text": "or take their blood pressure medicine.",
+    "uid": "d76e92b585be4b11",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 494.66,
+    "end": 497.22
+  },
+  {
+    "text": "The academic then writes up their paper for an incredibly impressive looking academic journal",
+    "uid": "6de93398ec7cf612",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 497.22,
+    "end": 502.66
+  },
+  {
+    "text": "impressively at least to fellow academics, the rest of us it's jargony and indescipherable, but",
+    "uid": "516870c30aaf5463",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 502.66,
+    "end": 508.18
+  },
+  {
+    "text": "then with paper in hand, the academic goes out proselytizing to policymakers.",
+    "uid": "448aee3415ced665",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 508.18,
+    "end": 514.26
+  },
+  {
+    "text": "He might say, you politicians always talk about making evidence based policy, well, here's",
+    "uid": "5b461e84c4383d0b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 514.26,
+    "end": 519.62
+  },
+  {
+    "text": "some new evidence for an effective and cost effective way of addressing that problem, you say",
+    "uid": "235263975b305a19",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 519.62,
+    "end": 525.9
+  },
+  {
+    "text": "you care so much about.",
+    "uid": "ec02c39687b36c96",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 525.9,
+    "end": 528.14
+  },
+  {
+    "text": "And then the policy maker may say, well, the last time we listened to an academic like you,",
+    "uid": "571e3cebf52c587d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 528.14,
+    "end": 532.62
+  },
+  {
+    "text": "we did just what they told us, but it didn't work and it cost three times what they said",
+    "uid": "56bc100676f66763",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 532.62,
+    "end": 537.86
+  },
+  {
+    "text": "it would and we got hammered in the press.",
+    "uid": "63411b23057be516",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 537.86,
+    "end": 541.14
+  },
+  {
+    "text": "And here's the thing, the politician and the academic may both be right.",
+    "uid": "c2493f1d7aab0ba0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 541.14,
+    "end": 547.74
+  },
+  {
+    "text": "John Liss has seen this from both sides now.",
+    "uid": "5ac16a4d44c8684f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 547.74,
+    "end": 550.34
+  },
+  {
+    "text": "Then a past life I worked in the White House advising the president on environmental and",
+    "uid": "5e483f7e81797622",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 550.34,
+    "end": 555.46
+  },
+  {
+    "text": "resource issues with the economics.",
+    "uid": "b6cd0b443c83ecb3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 555.46,
+    "end": 558.1
+  },
+  {
+    "text": "This was in the early 2000s under George W. Bush.",
+    "uid": "1221d0a7ac1d284b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 558.1,
+    "end": 561.18
+  },
+  {
+    "text": "A harsh lesson that I learned was you have to evaluate the effects of public policy as opposed",
+    "uid": "b683911c8aae0090",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 561.18,
+    "end": 566.82
+  },
+  {
+    "text": "to its intentions because the intentions are obviously good.",
+    "uid": "e2376d7ced26ae77",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 566.82,
+    "end": 571.58
+  },
+  {
+    "text": "For instance, improving literacy for grade schoolers or helping low-income high schoolers get",
+    "uid": "ce6d591ab4916241",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 571.58,
+    "end": 576.7
+  },
+  {
+    "text": "When you step back and look at the amount of policies that we put in place that don't work,",
+    "uid": "4b520f398d36c526",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 578.1,
+    "end": 587.74
+  },
+  {
+    "text": "it's just a travesty.",
+    "uid": "13217208819af773",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 587.74,
+    "end": 589.74
+  },
+  {
+    "text": "List has firsthand experience with the failure to scale.",
+    "uid": "2f25605afec33ee7",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 589.74,
+    "end": 593.7
+  },
+  {
+    "text": "So, Don and Chicago Heights, I ran a series of interventions in one of the more powerful",
+    "uid": "2777fbc5319bbb6a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 593.7,
+    "end": 601.38
+  },
+  {
+    "text": "interventions was called the Parent Academy.",
+    "uid": "e735506bc6e728fb",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 601.38,
+    "end": 604.42
+  },
+  {
+    "text": "That was a program that brought in parents every few weeks and we taught them what are the best",
+    "uid": "d0ed3da7106ed199",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 604.42,
+    "end": 611.22
+  },
+  {
+    "text": "mechanisms and approaches that they can use with their three-four and five-year-old children",
+    "uid": "2a9119a8a76f8fd8",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 611.22,
+    "end": 616.54
+  },
+  {
+    "text": "to push both their cognitive skills and their executive function skills, things like self-control.",
+    "uid": "d588a1571f43933e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 616.54,
+    "end": 622.82
+  },
+  {
+    "text": "What we found was within three to six months we can move a child in very short order to have",
+    "uid": "abb87ebc0672af79",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 623.78,
+    "end": 631.06
+  },
+  {
+    "text": "very strong cognitive test scores and very strong executive function skills.",
+    "uid": "2c44908388fa9a49",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 631.06,
+    "end": 637.18
+  },
+  {
+    "text": "So, of course, we're very optimistic after getting this type of result and we want the whole world",
+    "uid": "a09637945e9a22a8",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 637.18,
+    "end": 642.34
+  },
+  {
+    "text": "to now do parent academies.",
+    "uid": "f2486d89028b71b3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 642.34,
+    "end": 645.3
+  },
+  {
+    "text": "The UK approaches us and said we want to roll it out across London and the Burrows around London.",
+    "uid": "a4c632202784092b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 645.3,
+    "end": 652.22
+  },
+  {
+    "text": "What we found is that it failed miserably.",
+    "uid": "6c40d2fb2ed62077",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 652.22,
+    "end": 655.34
+  },
+  {
+    "text": "It wasn't that the program was bad.",
+    "uid": "438da5b0b2289f35",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 655.34,
+    "end": 658.02
+  },
+  {
+    "text": "It failed miserably because no parents actually signed up.",
+    "uid": "92be69bf95930c14",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 658.02,
+    "end": 663.82
+  },
+  {
+    "text": "So if you want your program to work at higher levels, you have to figure out how to get the",
+    "uid": "93f851f43e3a1b0f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 663.82,
+    "end": 671.7
+  },
+  {
+    "text": "right people and all the people, of course, into the program.",
+    "uid": "9c583268a20de018",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 671.7,
+    "end": 676.54
+  },
+  {
+    "text": "If you would ask me to guess all the ways that a program like that could fail, it would have taken",
+    "uid": "754fa55c4d1dd613",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 677.54,
+    "end": 681.46
+  },
+  {
+    "text": "me a while to guess that you simply didn't get parental uptake.",
+    "uid": "e7716902690a4f3b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 681.54,
+    "end": 685.58
+  },
+  {
+    "text": "The main problem is we just don't understand the science of scaling.",
+    "uid": "4e8875f265fa086d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 685.58,
+    "end": 691.1
+  },
+  {
+    "text": "If you had to attach a noun to what this is, the scalability blank, is it a problem, is it a dilemma,",
+    "uid": "a36278273cee04a2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 691.1,
+    "end": 700.62
+  },
+  {
+    "text": "is it a crisis?",
+    "uid": "ced490c20f2e8d76",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 700.62,
+    "end": 702.34
+  },
+  {
+    "text": "I do think it's a crisis in that if we don't take care of it as scientists, I think everything",
+    "uid": "2ff07692a20d2895",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 702.34,
+    "end": 709.1
+  },
+  {
+    "text": "we do can be undermined in the eyes of the policymakers and the broader public.",
+    "uid": "98e71412a77e6724",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 709.1,
+    "end": 714.26
+  },
+  {
+    "text": "We don't understand how to use our own science to make better policies.",
+    "uid": "479bd2f213b00e91",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 714.26,
+    "end": 722.06
+  },
+  {
+    "text": "So John List and Dana Susskind and some other researchers are on a quest to address this scalability",
+    "uid": "1b96d1d07aec75a4",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 722.06,
+    "end": 727.7
+  },
+  {
+    "text": "They've been writing a series of papers.",
+    "uid": "0f562f01633a8277",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 728.7,
+    "end": 730.54
+  },
+  {
+    "text": "For instance, the science of using science towards an understanding of the threats to scaling",
+    "uid": "9506c12ac55c3e89",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 730.54,
+    "end": 736.34
+  },
+  {
+    "text": "A lot of their focus is on early education, since that is a particular passion of Susskinds.",
+    "uid": "058889156ff4b387",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 737.74,
+    "end": 743.46
+  },
+  {
+    "text": "I guess you could say I'm a surgeon by day and social scientist by night.",
+    "uid": "6faef35d38b77d76",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 743.46,
+    "end": 748.58
+  },
+  {
+    "text": "My clinical work is about taking care of one child at a time.",
+    "uid": "3af4fdb6d8241ab0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 748.58,
+    "end": 753.06
+  },
+  {
+    "text": "My research really comes out of the fact that not all children do as well as others after surgery",
+    "uid": "5b39f1d61d5e9601",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 753.06,
+    "end": 759.82
+  },
+  {
+    "text": "and trying to figure out the best ways to allow all my patients and really children born into",
+    "uid": "cfb7a26d7fae1de0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 759.82,
+    "end": 765.78
+  },
+  {
+    "text": "low-income backgrounds to reach their educational potentials.",
+    "uid": "bff6c41e79cea451",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 765.78,
+    "end": 770.22
+  },
+  {
+    "text": "It is kind of like a superhero in reverse.",
+    "uid": "dec4c052b2750fbf",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 770.22,
+    "end": 772.74
+  },
+  {
+    "text": "During the day, you're doing the big dramatic stuff and at night, you're going home to analyze",
+    "uid": "90542a2e7d892ee9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 772.74,
+    "end": 777.86
+  },
+  {
+    "text": "the date and figure out what's happening.",
+    "uid": "93d55b5d6e8f2379",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 777.86,
+    "end": 779.7
+  },
+  {
+    "text": "I think that really the hard part is the night part.",
+    "uid": "c4af95e52b178ebb",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 779.7,
+    "end": 784.22
+  },
+  {
+    "text": "I love doing surgery.",
+    "uid": "ea60b71b83c8f209",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 784.22,
+    "end": 786.22
+  },
+  {
+    "text": "I adore my patients, but it's actually not as hard as many of the complex issues in this world.",
+    "uid": "1c403f8e1f3ed7fa",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 786.22,
+    "end": 794.02
+  },
+  {
+    "text": "Was that a recognition that some kids after the surgery sort of zoomed up the education",
+    "uid": "42de23a7c228f4ef",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 794.02,
+    "end": 800.74
+  },
+  {
+    "text": "ladder and others didn't?",
+    "uid": "d37c4d3d2156a0b9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 800.74,
+    "end": 802.3
+  },
+  {
+    "text": "Yeah, it's not simply about hearing loss, it's because language is the food for the developing",
+    "uid": "f9e109e77fb4aafc",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 802.3,
+    "end": 807.26
+  },
+  {
+    "text": "Before surgery, they all look like they'd have the same potential to, as you say, zoom up the",
+    "uid": "d5fbc9656d6b6b0c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 808.26,
+    "end": 812.5
+  },
+  {
+    "text": "After surgery, they were very different outcomes.",
+    "uid": "a200137973c43931",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 814.3,
+    "end": 817.54
+  },
+  {
+    "text": "Too often that difference fell along socioeconomic lines.",
+    "uid": "c620721e9ed241d2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 817.54,
+    "end": 821.26
+  },
+  {
+    "text": "That made me start searching outside the operating room for understanding why and what I could",
+    "uid": "5976c774a9eec122",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 821.26,
+    "end": 825.94
+  },
+  {
+    "text": "do about it and it has taken me on a journey.",
+    "uid": "b421d60a9d4102df",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 825.94,
+    "end": 828.98
+  },
+  {
+    "text": "So Dana and I met back in 2012 and we were introduced by a mutual friend and we did the usual",
+    "uid": "77758fa6e334b4e4",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 828.98,
+    "end": 836.86
+  },
+  {
+    "text": "ignore each other for a few years because we're too busy and push came to shove.",
+    "uid": "246b7e8c02cf92eb",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 836.86,
+    "end": 843.18
+  },
+  {
+    "text": "Dana and I started to work on early childhood research and after that research turned to love.",
+    "uid": "118b635f784460a3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 843.18,
+    "end": 850.38
+  },
+  {
+    "text": "I always joke that I was rude with spreadsheets and hypotheses.",
+    "uid": "1893173f6c104e29",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 850.38,
+    "end": 859.02
+  },
+  {
+    "text": "Is that true?",
+    "uid": "ac0460a5f7a40fb4",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 859.02,
+    "end": 860.02
+  },
+  {
+    "text": "So in fact, at the reason I decided to marry him was because I wanted this area of scaling to",
+    "uid": "22f39ec1095b65f1",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 861.02,
+    "end": 866.86
+  },
+  {
+    "text": "be a robust area of research for him because it really is a major issue.",
+    "uid": "1a09d97d92c4d68e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 866.86,
+    "end": 876.22
+  },
+  {
+    "text": "Suska started what was then called the 30 million words initiative.",
+    "uid": "eb4823faa77fb3b8",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 876.22,
+    "end": 880.06
+  },
+  {
+    "text": "30 million being an estimate of how many fewer words a child from a low income home will",
+    "uid": "af018c64c3296dde",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 880.06,
+    "end": 885.54
+  },
+  {
+    "text": "have heard than an affluent child by the time they turn four.",
+    "uid": "aa90fa806f3fc9fa",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 885.54,
+    "end": 889.3
+  },
+  {
+    "text": "But these days the project is called the TMW Center for Early Learning and Public Health.",
+    "uid": "6d1895246caa0c3a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 889.3,
+    "end": 895.18
+  },
+  {
+    "text": "We've actually moved away from the term 30 million words because it's such a hot button issue.",
+    "uid": "afec7c52d98528ae",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 895.18,
+    "end": 901.06
+  },
+  {
+    "text": "Hot button because it's so hard to believe that the numbers legit?",
+    "uid": "3d612ba63bf9aedb",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 901.06,
+    "end": 904.38
+  },
+  {
+    "text": "I mean, it's some people say, look, it's a deficit mentality.",
+    "uid": "ebae2c204282b85e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 905.38,
+    "end": 908.38
+  },
+  {
+    "text": "You're talking about what's not there.",
+    "uid": "f8210b7244cd552f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 908.38,
+    "end": 910.78
+  },
+  {
+    "text": "And then the replication somebody did another study that said, oh, it's only 4 million.",
+    "uid": "07bf647f0696b4ca",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 910.78,
+    "end": 916.1
+  },
+  {
+    "text": "And it really isn't actually even the point because it's not even about words.",
+    "uid": "239bd7b9442018eb",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 916.1,
+    "end": 920.1
+  },
+  {
+    "text": "It's about the interaction.",
+    "uid": "f7eabffb8132808d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 920.1,
+    "end": 921.38
+  },
+  {
+    "text": "So I just made the decision.",
+    "uid": "acfb3c495f166db3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 921.38,
+    "end": 923.18
+  },
+  {
+    "text": "I'd rather be focusing on developing the research and fighting a naming battle.",
+    "uid": "4cb994a444a50a90",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 923.18,
+    "end": 928.1
+  },
+  {
+    "text": "So you didn't make TMW stand for something else.",
+    "uid": "6a602a3521744448",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 928.1,
+    "end": 931.82
+  },
+  {
+    "text": "Well, that's what everybody gives me trouble for it.",
+    "uid": "c36a0d3982c0eed0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 931.82,
+    "end": 934.82
+  },
+  {
+    "text": "It stands for 30 million words.",
+    "uid": "8550d6f6ecacad2f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 934.82,
+    "end": 936.42
+  },
+  {
+    "text": "But only I know that.",
+    "uid": "5d005407935029d5",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 936.42,
+    "end": 938.02
+  },
+  {
+    "text": "Okay, now you all know it too.",
+    "uid": "5f68e9549e1dba2c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 938.02,
+    "end": 941.02
+  },
+  {
+    "text": "Anyway, they started the center with this idea.",
+    "uid": "b2fe71e6a48fc503",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 941.02,
+    "end": 944.62
+  },
+  {
+    "text": "With this idea that, you know, we need to take a public health or a population level approach",
+    "uid": "0b1be326b80969a0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 944.62,
+    "end": 950.62
+  },
+  {
+    "text": "during the early years to optimize early foundational brain development.",
+    "uid": "b5a17682a1f49cfc",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 950.62,
+    "end": 954.98
+  },
+  {
+    "text": "Because the research is pretty clear that parent talk and interaction in the first three years of life",
+    "uid": "9129a985495df1c9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 954.98,
+    "end": 961.3
+  },
+  {
+    "text": "are the catalyst for brain development.",
+    "uid": "3a9941c66deb5484",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 961.3,
+    "end": 964.06
+  },
+  {
+    "text": "And so that's basically our work.",
+    "uid": "f2e76e8477f9b0fa",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 964.06,
+    "end": 967.02
+  },
+  {
+    "text": "Okay, so far so good.",
+    "uid": "70529d3d77be7505",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 967.02,
+    "end": 968.62
+  },
+  {
+    "text": "The research is clear that heavy exposure to language is good for the developing brain.",
+    "uid": "5ea3d2b87a62c6a1",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 968.62,
+    "end": 974.34
+  },
+  {
+    "text": "But how do you turn that research finding into action?",
+    "uid": "8c8c6a081ca232d5",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 974.34,
+    "end": 977.54
+  },
+  {
+    "text": "And how do you scale it up?",
+    "uid": "5b2c586920d17abe",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 977.54,
+    "end": 979.18
+  },
+  {
+    "text": "Initially we started with an intensive home visiting program.",
+    "uid": "772b6fa67b542200",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 979.18,
+    "end": 983.26
+  },
+  {
+    "text": "But understanding that to reach population level impact, you need to develop programs both",
+    "uid": "9e13f55a833ce1bf",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 983.26,
+    "end": 989.22
+  },
+  {
+    "text": "with the eye for scaling, as well as an eye for understanding where parents go regularly.",
+    "uid": "00543ff0b2124943",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 989.22,
+    "end": 995.98
+  },
+  {
+    "text": "Because healthcare, unlike the education system, the first three years of life really don't",
+    "uid": "1e160f97d226168d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 995.98,
+    "end": 1001.02
+  },
+  {
+    "text": "have any infrastructure in which to disseminate programs.",
+    "uid": "4e24f5ae38230bf1",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1001.02,
+    "end": 1005.42
+  },
+  {
+    "text": "So we actually expanded our model.",
+    "uid": "3f670f3d9ef6fed2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1005.42,
+    "end": 1007.7
+  },
+  {
+    "text": "We have this multifaceted program that reached parents where they were from maternity wards, into",
+    "uid": "7a32a39da662e5ba",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1007.7,
+    "end": 1014.26
+  },
+  {
+    "text": "pediatric's offices, into the homes as well as group sessions.",
+    "uid": "3547568ceb29ba6a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1014.26,
+    "end": 1018.86
+  },
+  {
+    "text": "Those programs that are most vulnerable to the issues of scale are the complex sort of service delivery",
+    "uid": "f7718e9319fb3fdb",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1018.86,
+    "end": 1024.7
+  },
+  {
+    "text": "You know, anything that takes a human service delivery, scaling is an end.",
+    "uid": "8f0f74b3f7734606",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1025.7,
+    "end": 1031.62
+  },
+  {
+    "text": "It's really just a continuation.",
+    "uid": "8f623b5c11fad015",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1031.62,
+    "end": 1034.06
+  },
+  {
+    "text": "You know, it's a hard one.",
+    "uid": "6b98d57e0564c91e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1034.06,
+    "end": 1040.45
+  },
+  {
+    "text": "That's Patty Chamberlain, science director of the Oregon Social Learning Center.",
+    "uid": "3a07a77d86f944d8",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1040.45,
+    "end": 1045.37
+  },
+  {
+    "text": "And I do research and implementation of evidence-based practices in child welfare, juvenile justice,",
+    "uid": "59cf58bf4fde7440",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1045.37,
+    "end": 1054.73
+  },
+  {
+    "text": "mental health and education systems.",
+    "uid": "2248a5c0851fc8f1",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1054.73,
+    "end": 1057.57
+  },
+  {
+    "text": "Chamberlain also looks at scaling as a process.",
+    "uid": "d0a64af2ad1e0c4b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1057.57,
+    "end": 1061.09
+  },
+  {
+    "text": "So it's almost like there's stages that you have to go through.",
+    "uid": "1c8b1491786aa322",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1061.09,
+    "end": 1064.89
+  },
+  {
+    "text": "And if the first stage is research that involves an RCT, a randomized controlled trial, there's",
+    "uid": "9b1285a1b3c598b4",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1064.89,
+    "end": 1070.37
+  },
+  {
+    "text": "already an important choice to make.",
+    "uid": "b880c0d51634dc01",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1070.37,
+    "end": 1072.85
+  },
+  {
+    "text": "You're far better off to situate your RCT in a real world setting than a university clinic,",
+    "uid": "0ca313a733be7a57",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1072.85,
+    "end": 1080.37
+  },
+  {
+    "text": "so that you're learning from the beginning what's feasible and what's not feasible.",
+    "uid": "a78f0d861dcad5f0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1080.37,
+    "end": 1085.21
+  },
+  {
+    "text": "There might be something that you think would be great, but it's never going to be able",
+    "uid": "e26ac585f7d61d4f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1085.21,
+    "end": 1088.41
+  },
+  {
+    "text": "to be implemented in the real world.",
+    "uid": "e848f3c761dafe4a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1088.41,
+    "end": 1091.09
+  },
+  {
+    "text": "I've been at this now for probably 25 years and I learned through failing.",
+    "uid": "fb22738a4e1c7470",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1091.09,
+    "end": 1099.09
+  },
+  {
+    "text": "One program Chamberlain founded is called Treatment Foster Care Oregon.",
+    "uid": "2baa9f71c61bd80f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1099.09,
+    "end": 1103.69
+  },
+  {
+    "text": "Kids tend to commit crimes together.",
+    "uid": "11f1c2fda02d29d7",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1103.69,
+    "end": 1106.29
+  },
+  {
+    "text": "It's a team sport.",
+    "uid": "b6dd4bd507bc99f6",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1106.29,
+    "end": 1107.85
+  },
+  {
+    "text": "But then oddly, the way that we are set up to deal with kids who, you know, reach the",
+    "uid": "382765a3c9d75798",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1107.85,
+    "end": 1114.77
+  },
+  {
+    "text": "level where they're really being unsafe to themselves and to the community, is we put them",
+    "uid": "e710ec5f79ec3f1f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1114.77,
+    "end": 1119.97
+  },
+  {
+    "text": "in group homes together.",
+    "uid": "3d3fb6a2fc54113a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1119.97,
+    "end": 1121.97
+  },
+  {
+    "text": "We're putting kids in a situation where they're more likely to commit crimes.",
+    "uid": "6d426541b6a5ee9f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1121.97,
+    "end": 1128.61
+  },
+  {
+    "text": "So we decided what if we placed a child singly in a family that was completely devoted to using",
+    "uid": "56738fedd759cadb",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1128.61,
+    "end": 1137.77
+  },
+  {
+    "text": "evidence-based parenting skills to help that child do well with peers in school and in",
+    "uid": "99948462d6c7c766",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1137.77,
+    "end": 1144.61
+  },
+  {
+    "text": "the family setting, what if we gave the parents the biological parents of that kid, the same",
+    "uid": "9b48cc956212bc51",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1144.61,
+    "end": 1151.81
+  },
+  {
+    "text": "kind of skills that the Treatment Foster Care family had, what if we gave the kid individual therapy,",
+    "uid": "65c91e9e20843b25",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1151.81,
+    "end": 1159.33
+  },
+  {
+    "text": "the biological family was getting family therapy, we were giving the kid support at school.",
+    "uid": "ec665d66af1155a0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1159.33,
+    "end": 1164.45
+  },
+  {
+    "text": "So we were basically wrapping all these services around an individual child in a family",
+    "uid": "6537dd6a2bf36be2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1164.45,
+    "end": 1170.01
+  },
+  {
+    "text": "What we found was, yeah, the kids do a lot better.",
+    "uid": "3812fadfcd58857e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1171.49,
+    "end": 1174.33
+  },
+  {
+    "text": "They have a lot fewer rest, they spend less days in institutions, they use fewer drugs and guess",
+    "uid": "d10cf7f3867c619d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1174.33,
+    "end": 1181.25
+  },
+  {
+    "text": "what, it costs a lot less as well.",
+    "uid": "fa834e67bacc1b60",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1181.25,
+    "end": 1184.77
+  },
+  {
+    "text": "Because you do not have a facility, you do not have 24-7 staff that you're paying in shifts,",
+    "uid": "93ae9cbef69225d2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1184.77,
+    "end": 1191.93
+  },
+  {
+    "text": "you do not have all of the stuff that it takes to run an institution.",
+    "uid": "2b1424f76792b221",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1191.93,
+    "end": 1198.13
+  },
+  {
+    "text": "You have a family.",
+    "uid": "eb9091eb70e15f2e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1198.13,
+    "end": 1199.57
+  },
+  {
+    "text": "The success of Chamberlain's program caught the eye of researchers who were working on a program",
+    "uid": "04a8481aef5f3d38",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1199.57,
+    "end": 1203.57
+  },
+  {
+    "text": "for a federal agency called the Office of Juvenile Justice and Delinquency Prevention.",
+    "uid": "14f29ff60a00254a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1203.57,
+    "end": 1209.17
+  },
+  {
+    "text": "And so we got this call saying, we want you to implement your program in 15 sites.",
+    "uid": "eac6d9dd6a733efc",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1209.17,
+    "end": 1217.17
+  },
+  {
+    "text": "The program was successful at one site.",
+    "uid": "7c89bcd253673ca3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1217.17,
+    "end": 1219.85
+  },
+  {
+    "text": "How hard could it be to make it work at 15?",
+    "uid": "2f96b930561285a5",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1219.85,
+    "end": 1222.53
+  },
+  {
+    "text": "I went in thinking that it wouldn't be that hard because we had good outcomes, we showed that",
+    "uid": "3ee70dbfdd42b11a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1222.53,
+    "end": 1228.89
+  },
+  {
+    "text": "we could save money and yet we were absolutely not ready.",
+    "uid": "4a6cd420eec8337e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1228.89,
+    "end": 1234.49
+  },
+  {
+    "text": "It wasn't because we didn't have enough data.",
+    "uid": "d56b2cf65ea9ee79",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1234.49,
+    "end": 1237.69
+  },
+  {
+    "text": "We had at that point plenty of data, but we didn't have the know-how of how to put this thing",
+    "uid": "6c77b66baf8196d5",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1237.69,
+    "end": 1244.45
+  },
+  {
+    "text": "down in the real world.",
+    "uid": "db11fa8b22d5fc80",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1244.45,
+    "end": 1246.81
+  },
+  {
+    "text": "And it blew up.",
+    "uid": "9a751c1d156d3a44",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1246.81,
+    "end": 1248.61
+  },
+  {
+    "text": "One reason systemic complication.",
+    "uid": "cf04b943c29896ed",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1248.61,
+    "end": 1251.45
+  },
+  {
+    "text": "The three systems, child welfare, juvenile justice and mental health all put some money in the",
+    "uid": "07533414c4fd46e3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1251.45,
+    "end": 1258.53
+  },
+  {
+    "text": "pot to fund this implementation.",
+    "uid": "e1cc21b74afaedcb",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1258.53,
+    "end": 1261.05
+  },
+  {
+    "text": "I was completely delighted.",
+    "uid": "aa72b8ebd9396403",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1261.05,
+    "end": 1262.97
+  },
+  {
+    "text": "I thought, oh, this is going to be great because we have all the relevant systems buying",
+    "uid": "7035f78f0232802c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1262.97,
+    "end": 1268.53
+  },
+  {
+    "text": "What happened was when we tried to implement, we ran into tremendous barriers because if",
+    "uid": "1d96db3ed89e994d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1270.53,
+    "end": 1279.49
+  },
+  {
+    "text": "we satisfied the policies and procedures of one system, we were at odds with the policies",
+    "uid": "f7a9399858dbc864",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1279.49,
+    "end": 1285.49
+  },
+  {
+    "text": "and procedures in the other system.",
+    "uid": "97daee749bb1ef32",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1285.49,
+    "end": 1288.85
+  },
+  {
+    "text": "Patty Chamberlain had run up against something that Dana Suskin had come to see as an inherent",
+    "uid": "d8d52a3cf4e9617e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1288.85,
+    "end": 1293.25
+  },
+  {
+    "text": "disconnect when you try to scale up a research finding.",
+    "uid": "067ebc7df608de7f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1293.25,
+    "end": 1296.93
+  },
+  {
+    "text": "There's obviously the implementation, everybody focusing on adherence, but there's also",
+    "uid": "4d2a38d699c8e21a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1297.17,
+    "end": 1301.57
+  },
+  {
+    "text": "sort of the infrastructure delivery mechanism, which I think is an issue whether it's government",
+    "uid": "6edf4197275a69a1",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1301.57,
+    "end": 1307.33
+  },
+  {
+    "text": "or health care that they're just not set up for interventions which are sort of innovations.",
+    "uid": "618d3ec1539f3b56",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1307.33,
+    "end": 1313.33
+  },
+  {
+    "text": "So you've got these researchers who think of themselves as scientific entrepreneurs developing",
+    "uid": "1523f3c07681e38c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1313.33,
+    "end": 1319.01
+  },
+  {
+    "text": "the next best thing, thinking you build it and they will come and then you've got organizations",
+    "uid": "9fdd07e6f58a2090",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1319.01,
+    "end": 1325.65
+  },
+  {
+    "text": "that are sort of built for efficiency rather than effectiveness that can't uptake it.",
+    "uid": "1a57caebc3bb9808",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1325.65,
+    "end": 1330.93
+  },
+  {
+    "text": "If only there were another science, a science to help these scientific entrepreneurs and institutions",
+    "uid": "e9168fb501235774",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1330.93,
+    "end": 1337.01
+  },
+  {
+    "text": "come together to implement this new research.",
+    "uid": "201ee84cd13d1e6e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1337.01,
+    "end": 1340.37
+  },
+  {
+    "text": "Maybe something that could be called implementation science, implementation science, implementation",
+    "uid": "c6c7370ce346325c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1340.37,
+    "end": 1345.53
+  },
+  {
+    "text": "science, implementation science, okay, let's define implementation science.",
+    "uid": "ea649c175e891b1e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1345.53,
+    "end": 1350.65
+  },
+  {
+    "text": "The study of how programs get implemented into practice and how the quality of that implementation",
+    "uid": "366ff7bb8572ff72",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1350.65,
+    "end": 1357.45
+  },
+  {
+    "text": "may affect how well that program works or doesn't work.",
+    "uid": "a002513257a7111b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1357.45,
+    "end": 1361.05
+  },
+  {
+    "text": "That's Lauren Supply. She is the Senior Program Officer at the William T. Grant Foundation,",
+    "uid": "3c883fe1553f9be6",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1361.05,
+    "end": 1366.17
+  },
+  {
+    "text": "which supports research into reducing youth inequality. She previously worked evaluating programs",
+    "uid": "34c02ed3015666f3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1366.17,
+    "end": 1372.41
+  },
+  {
+    "text": "within the federal government, mostly at Health and Human Services. This whole science is maybe",
+    "uid": "58da95442c179867",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1372.41,
+    "end": 1378.17
+  },
+  {
+    "text": "10 or 15 years old. It's really coming out of this movement of evidence-based policy and programs",
+    "uid": "9d1099c5086f013d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1378.17,
+    "end": 1386.25
+  },
+  {
+    "text": "where people said, we have this program. It appears to change important outcomes.",
+    "uid": "5b030be37d7c88b7",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1386.25,
+    "end": 1391.29
+  },
+  {
+    "text": "Let's just put it out there and then we quickly realize that there are a lot of issues and actually",
+    "uid": "1730214a15b4d4c6",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1391.29,
+    "end": 1397.29
+  },
+  {
+    "text": "that put it out there is far more complicated. A lot of the evidence-based programs we have",
+    "uid": "f5b84f308fed9b88",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1397.29,
+    "end": 1402.41
+  },
+  {
+    "text": "were designed by academic researchers who were testing it in the maybe more ideal circumstances",
+    "uid": "98104a53cf7f5f9d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1402.41,
+    "end": 1410.01
+  },
+  {
+    "text": "that they had available to them that might have included graduate students. It might have been a school",
+    "uid": "eaeb0b8fb11ada7a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1410.01,
+    "end": 1415.61
+  },
+  {
+    "text": "district that was very amenable to research. Then you take the results of that and trying to put that into",
+    "uid": "e5f7c2799166db58",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1415.61,
+    "end": 1421.61
+  },
+  {
+    "text": "another location as where the challenge happened.",
+    "uid": "42ae83030a379747",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1421.61,
+    "end": 1424.81
+  },
+  {
+    "text": "So coming up after the break can implementation science really help.",
+    "uid": "fed000638d1338c6",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1429.38,
+    "end": 1433.62
+  },
+  {
+    "text": "You know, I want policy science not to be an option more on. You're listening to",
+    "uid": "862db45b16e92f4e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1434.26,
+    "end": 1438.74
+  },
+  {
+    "text": "Freakonomic radio. I'm Steve Adubner. We will be right back. What randomized control trials tell us about",
+    "uid": "aebe2743b47b46c6",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1438.74,
+    "end": 1456.86
+  },
+  {
+    "text": "an intervention is what that actual intervention does in a particular population and a particular",
+    "uid": "9cb1ca8ec476dc36",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1456.86,
+    "end": 1465.9
+  },
+  {
+    "text": "context. It doesn't mean that it's generalizable. That again is Dana Susskind from the University of Chicago.",
+    "uid": "be8de3b436043adf",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1465.9,
+    "end": 1473.5
+  },
+  {
+    "text": "But you have to continue the science so you can understand how it's going to work in a different place",
+    "uid": "6633be4bdb905ca6",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1473.58,
+    "end": 1477.9
+  },
+  {
+    "text": "in a different context and a different population and have the same effect. And that's part of the",
+    "uid": "7a762a75a580d943",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1477.9,
+    "end": 1482.62
+  },
+  {
+    "text": "the scaling science. The scaling science, that is what Susskind and her economist collaborator John",
+    "uid": "89071f0d58090e76",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1482.62,
+    "end": 1489.34
+  },
+  {
+    "text": "List who's also her husband and other researchers have been working on. They've been systematically",
+    "uid": "f43f3125663c4351",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1489.34,
+    "end": 1494.62
+  },
+  {
+    "text": "examining why interventions that work well in experimental or research settings often fail to scale up.",
+    "uid": "8e30a02b397dd598",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1494.62,
+    "end": 1500.78
+  },
+  {
+    "text": "You can see why this is an important puzzle to solve, scaling up a new intervention,",
+    "uid": "7b5c9fe9648c4e0e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1501.5,
+    "end": 1507.02
+  },
+  {
+    "text": "like a medical procedure or a teaching method, has a potential to help thousands, millions, maybe billions",
+    "uid": "e4e7c0f9262ddac8",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1507.02,
+    "end": 1514.06
+  },
+  {
+    "text": "of people. But what if it simply fails at scale? What if it ends up costing way more than anticipated or",
+    "uid": "1fc8bd6b9e19365d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1514.06,
+    "end": 1521.98
+  },
+  {
+    "text": "create serious unintended consequences? That'll make it that much harder for the next set of researchers",
+    "uid": "7bc6890975f884b9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1522.54,
+    "end": 1528.14
+  },
+  {
+    "text": "to persuade the next set of policymakers to listen to them. So List and Susskind have been looking at",
+    "uid": "708cec13228f61c2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1528.14,
+    "end": 1533.74
+  },
+  {
+    "text": "scaling failures from the past and trying to categorize what went wrong. You can kind of put",
+    "uid": "6a1e194bbf2dc298",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1533.74,
+    "end": 1539.82
+  },
+  {
+    "text": "what we've learned into three general buckets that seem to encompass the failures.",
+    "uid": "d8b9f1c58f2bc43d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1540.38,
+    "end": 1545.58
+  },
+  {
+    "text": "Bucket number one is that the evidence was just not there to justify scaling the program in the first place.",
+    "uid": "8db7bac47200c3ab",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1546.22,
+    "end": 1552.38
+  },
+  {
+    "text": "The Department of Education did this broad survey on prevention programs attempting to",
+    "uid": "aed7c792c2f85b9f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1553.34,
+    "end": 1560.22
+  },
+  {
+    "text": "attenuate youth substance and crime and aspects like that. And what they found is that only 8%",
+    "uid": "18120b7146d98027",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1560.22,
+    "end": 1569.18
+  },
+  {
+    "text": "of those programs were actually backed by research evidence. Many programs that we",
+    "uid": "17cf4ca3d904ade0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1569.18,
+    "end": 1576.14
+  },
+  {
+    "text": "put in place really don't have the research findings to support them. And this is what a scientist",
+    "uid": "1bf6b016b2c1e799",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1577.02,
+    "end": 1583.66
+  },
+  {
+    "text": "would call a false positive. So are we talking about bad research or we talking about cherry picking?",
+    "uid": "bcf26db12bb65c12",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1583.66,
+    "end": 1589.26
+  },
+  {
+    "text": "Are we talking about publication bias? So here we're talking about none of those. We're talking about a",
+    "uid": "6a8890a4a2067a5b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1589.26,
+    "end": 1594.86
+  },
+  {
+    "text": "small scale research finding that was the truth in that finding. But because of the mechanics of statistical",
+    "uid": "025d5ee3e2931475",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1594.86,
+    "end": 1604.38
+  },
+  {
+    "text": "inference in it just won't be right, what you were getting into is what I would call the second bucket",
+    "uid": "90bdcd3e4367d66b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1604.46,
+    "end": 1611.58
+  },
+  {
+    "text": "of why things fail and that's what I call the wrong people were studied. These are studies that have",
+    "uid": "eebd7a12ab8f4916",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1612.22,
+    "end": 1619.26
+  },
+  {
+    "text": "a particular sample of people that shows really large programming exercises. But when you program",
+    "uid": "764cabb211382544",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1620.46,
+    "end": 1629.34
+  },
+  {
+    "text": "is gone to general populations that effect disappears. So essentially we were looking at the wrong",
+    "uid": "d76d4b7934bef7ce",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1629.98,
+    "end": 1636.38
+  },
+  {
+    "text": "people in scaling to the wrong people. And when you say the wrong people the people that are being studied",
+    "uid": "0d284d63e462ba9e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1636.38,
+    "end": 1641.82
+  },
+  {
+    "text": "then are to what? They are the people who are the fraction or the group of people who receive the",
+    "uid": "b0206a732230f2db",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1641.82,
+    "end": 1651.5
+  },
+  {
+    "text": "largest program benefits. So I think some of the experiments that are done on college campuses, right,",
+    "uid": "8432c3ac23b3ddd0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1651.5,
+    "end": 1657.82
+  },
+  {
+    "text": "where there's a professor who's looking to find out something about let's say altruism and",
+    "uid": "b2718f91eba271de",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1657.82,
+    "end": 1663.18
+  },
+  {
+    "text": "the experimental setting is a classroom where 20 college students will come in and they're a pretty",
+    "uid": "66c70850777884f8",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1663.98,
+    "end": 1669.02
+  },
+  {
+    "text": "homogeneous population and they're pretty motivated maybe they're very disciplined and that may not",
+    "uid": "54690b90a3e21cee",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1669.02,
+    "end": 1675.1
+  },
+  {
+    "text": "represent what the world actually is. Is that what you're talking about? That's one piece of it. Another piece",
+    "uid": "26fa790e91a69584",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1675.1,
+    "end": 1682.62
+  },
+  {
+    "text": "is who will sign their kids up for head start or for a program in a neighborhood that advances the",
+    "uid": "984f4452cbc791ff",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1682.62,
+    "end": 1691.5
+  },
+  {
+    "text": "reading skills of the child who's going to be first in line, the people who really care about education",
+    "uid": "90a9a7796771c4a2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1691.5,
+    "end": 1698.06
+  },
+  {
+    "text": "and the people who think their child will receive the most benefits from the program. Now another way to",
+    "uid": "8cb325e38a26f37b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1698.06,
+    "end": 1705.1
+  },
+  {
+    "text": "get it is sort of along the lines that you talked about. It could be the researcher knows something",
+    "uid": "3ddd1417adf7a149",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1705.1,
+    "end": 1711.42
+  },
+  {
+    "text": "about the population that other people don't know. Like I want to give my program it's best shot of working.",
+    "uid": "da572222c46011e5",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1711.42,
+    "end": 1719.34
+  },
+  {
+    "text": "Okay and what's in your third bucket of scaling failures? The third bucket is something that we call",
+    "uid": "392b73be5f91ef80",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1719.9,
+    "end": 1727.98
+  },
+  {
+    "text": "the wrong situation was used and what I mean by that is that certain aspects of the situation change",
+    "uid": "50b70f28cb735293",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1728.7,
+    "end": 1736.54
+  },
+  {
+    "text": "when you go from the original research to the scaled research program. We don't understand what",
+    "uid": "79cccd9ba8bb223a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1737.42,
+    "end": 1744.86
+  },
+  {
+    "text": "properties of the situation or features of the environment will matter. There are a really large group",
+    "uid": "51996a7c3ad35396",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1744.86,
+    "end": 1753.5
+  },
+  {
+    "text": "of implementation scientists who have explored this question for years. Now what they emphasize in",
+    "uid": "2638d018936bbfc9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1753.5,
+    "end": 1762.14
+  },
+  {
+    "text": "focus on is something called voltage drop and voltage drop essentially means I found a really good",
+    "uid": "c7f3427184156f99",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1762.14,
+    "end": 1771.5
+  },
+  {
+    "text": "result in my original research study but then when they do it at scale that voltage drop ends up being",
+    "uid": "e71cc97cde3aec96",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1771.5,
+    "end": 1779.5
+  },
+  {
+    "text": "for example a tenth of the original result or a quarter of the original result. An example of this is",
+    "uid": "dd6bc8ec8887271e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1779.5,
+    "end": 1787.34
+  },
+  {
+    "text": "when you look at head starts home visiting services what they do there is this is an early childhood",
+    "uid": "755733c56a44b27a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1787.74,
+    "end": 1793.26
+  },
+  {
+    "text": "intervention that found huge improvements in both child and parent outcomes in the original study.",
+    "uid": "845b331cb4e912e9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1793.26,
+    "end": 1800.3
+  },
+  {
+    "text": "Except when they tried to scale that up into home visits at a much larger scale what they found",
+    "uid": "0ad9bdf6101dcf9c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1801.02,
+    "end": 1808.14
+  },
+  {
+    "text": "is that for example home visits for at risk families involved a lot more distractions in the house and",
+    "uid": "d903eb6b03b08ed0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1808.86,
+    "end": 1816.06
+  },
+  {
+    "text": "there's less time on child focused activity. So this is sort of the wrong dosage or the wrong",
+    "uid": "0168c238370620b3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1816.06,
+    "end": 1823.5
+  },
+  {
+    "text": "program is given at scale. There are many factors that contribute to this voltage drop including the",
+    "uid": "0945b3ca2639fc2d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1823.5,
+    "end": 1831.13
+  },
+  {
+    "text": "admirably high standards set by the original researchers. When the researcher starts his or her experiment",
+    "uid": "f984bfeb691d67d9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1831.13,
+    "end": 1838.97
+  },
+  {
+    "text": "the inclination is I'm going to get the best tutors in the world so I'm going to be able to show",
+    "uid": "6c60312b9a2fead2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1838.97,
+    "end": 1844.49
+  },
+  {
+    "text": "how effective my intervention is. Dana Suskin again you only need a ten math tutors and you happen",
+    "uid": "58f33b91c4831603",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1844.49,
+    "end": 1850.97
+  },
+  {
+    "text": "to get the PhD students from the University of Chicago and then what happens is you show this tremendous",
+    "uid": "13acc579be29a697",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1850.97,
+    "end": 1856.65
+  },
+  {
+    "text": "effect size and in the scaling all of a sudden you need a hundred or a thousand and you no longer have that",
+    "uid": "22434d3b48cbd918",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1856.65,
+    "end": 1864.57
+  },
+  {
+    "text": "access to those individuals and you go either down the supply chain with individuals who are not",
+    "uid": "d3fca3a63f24803a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1865.29,
+    "end": 1871.69
+  },
+  {
+    "text": "quite as well trained or you end up having to pay a whole lot more money to maintain the trained",
+    "uid": "1bdb61d1c64f570b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1871.77,
+    "end": 1877.29
+  },
+  {
+    "text": "tutor program and one way or the other either the impacts of the intervention go down or your costs",
+    "uid": "b915775a54f765bd",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1877.29,
+    "end": 1885.37
+  },
+  {
+    "text": "go up significantly. Another problem in this third bucket it's a big bucket is when the person who",
+    "uid": "ebeb070ab93c88ba",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1885.37,
+    "end": 1892.25
+  },
+  {
+    "text": "designed the intervention and masterminded the initial trial can no longer be so involved once the program",
+    "uid": "dd5b7a706b36efb7",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1892.25,
+    "end": 1898.33
+  },
+  {
+    "text": "scales up to multiple locations imagine if instead of talking about an educational or medical program",
+    "uid": "bee9c32e4ddd506b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1898.41,
+    "end": 1904.57
+  },
+  {
+    "text": "we were talking about a successful restaurant and the original chef. When you think about the chef if a",
+    "uid": "92167d3458957278",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1904.57,
+    "end": 1910.33
+  },
+  {
+    "text": "restaurant succeeds because of the magical work of the chef and you think about scaling that if you can't",
+    "uid": "75752cc790f22e73",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1910.33,
+    "end": 1921.13
+  },
+  {
+    "text": "scale the magic in the chef that's not scalable now if the magic is because of the mix of ingredients",
+    "uid": "3c46107ef40535e2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1921.21,
+    "end": 1929.69
+  },
+  {
+    "text": "and the secret sauce like dominoes for example the secret sauce or pop at johns is the actual",
+    "uid": "4b46ac30b95580f0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1930.81,
+    "end": 1937.69
+  },
+  {
+    "text": "ingredients then that will be scalable. Now if you are the kind of pizza eater who doesn't think dominoes or",
+    "uid": "48928ff90ac99de3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1937.69,
+    "end": 1948.07
+  },
+  {
+    "text": "pop at johns is good pizza well welcome to the scaling dilemma going big means you have to be many things",
+    "uid": "677dcdc5cd3755fd",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1948.15,
+    "end": 1956.23
+  },
+  {
+    "text": "to many people going big means you will face a lot of trade-offs going big means you'll have a lot of people",
+    "uid": "a5d45eda046db6d7",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1956.23,
+    "end": 1962.39
+  },
+  {
+    "text": "asking you do you want this done fast or do you want it done right once you peer inside these failure",
+    "uid": "56f5af53e6ccdf02",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1962.39,
+    "end": 1969.51
+  },
+  {
+    "text": "buckets that list and suscan describe it's not so surprising that so many good ideas fail to scale up",
+    "uid": "04188c8af7a5bbfb",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1969.51,
+    "end": 1975.67
+  },
+  {
+    "text": "so what do they propose that could help now our proposal is that we do not believe that we should",
+    "uid": "b8938f128ca8be2a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1976.31,
+    "end": 1985.43
+  },
+  {
+    "text": "scale a program until your 95% certain the result is true so essentially what that means is we need the original",
+    "uid": "2feb3d8208472aab",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1985.43,
+    "end": 1997.91
+  },
+  {
+    "text": "research in then three or four well-powered independent replications of the original findings and how",
+    "uid": "1bf27a1a7ef8d0e5",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 1997.91,
+    "end": 2007.19
+  },
+  {
+    "text": "often is that already happening in the real world of let's say education reform research I can't name one",
+    "uid": "76481b1e2a519480",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2007.19,
+    "end": 2014.31
+  },
+  {
+    "text": "how about in the realm of medical compliance research my intuition is that they're probably not far away from",
+    "uid": "14c0d9c6bb8521bd",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2015.27,
+    "end": 2023.35
+  },
+  {
+    "text": "through four well-powered independent replications in the hard sciences in many cases you not only have",
+    "uid": "4fe97bf514ffaea5",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2023.51,
+    "end": 2031.35
+  },
+  {
+    "text": "the original research but you have a first replication also published in science you know the current",
+    "uid": "6e5975ca04452781",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2032.07,
+    "end": 2041.67
+  },
+  {
+    "text": "credibility crisis in science is a serious one that major results are not replicating the reason why",
+    "uid": "32e899c4f2a9c2bf",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2041.67,
+    "end": 2049.51
+  },
+  {
+    "text": "is because we weren't serious about replication in the first place so this sort of puts the onus on",
+    "uid": "d39de7cf12b682da",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2050.47,
+    "end": 2056.95
+  },
+  {
+    "text": "policy makers and funding agencies in a sense of saying we need to change the equilibrium so that suggests",
+    "uid": "66904ef202b4a125",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2056.95,
+    "end": 2065.59
+  },
+  {
+    "text": "that policymakers or decision makers they are being what over eager premature in accepting a",
+    "uid": "6988956f409939cf",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2065.59,
+    "end": 2073.51
+  },
+  {
+    "text": "finding that looks good to them and want to rush it into play or is it that the researchers are",
+    "uid": "b7f2aeb6bcc31af7",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2073.51,
+    "end": 2079.91
+  },
+  {
+    "text": "over confident themselves or maybe pushing this research to hardware is this failure really happening",
+    "uid": "f6e1ef071330cf35",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2079.91,
+    "end": 2086.15
+  },
+  {
+    "text": "well I think it's sort of a mix I think it's fair to say that some policy makers are out looking for evidence",
+    "uid": "099c4d07590c548f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2086.15,
+    "end": 2093.51
+  },
+  {
+    "text": "to base their preferred program on what this will do is slow that down do you have a pet project that",
+    "uid": "5a7d5a50c2459160",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2094.47,
+    "end": 2101.27
+  },
+  {
+    "text": "you want to get through fund the replications and let's make sure the science is correct we think we should",
+    "uid": "ace9cabae94605eb",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2101.27,
+    "end": 2107.91
+  },
+  {
+    "text": "actually be rewarding scholars for attempting to replicate you know right now in my community if I try to",
+    "uid": "f674c1d16b7745a0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2107.91,
+    "end": 2115.67
+  },
+  {
+    "text": "replicate someone else guess what I've just made I've just made a mortal enemy for life if you find a",
+    "uid": "46ce861cd3bf9dbd",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2115.67,
+    "end": 2123.27
+  },
+  {
+    "text": "publishable result what result is that you're refuting previous research now I've doubled down on my",
+    "uid": "963e958437d9575c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2123.27,
+    "end": 2130.47
+  },
+  {
+    "text": "enemy so that's like a first step in terms of rewarding scholars who are attempting to replicate",
+    "uid": "a7585c237224100f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2130.47,
+    "end": 2138.55
+  },
+  {
+    "text": "now to complement that I think we should also reward scholars who have produced results",
+    "uid": "e7c13255a8b9aa7f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2139.59,
+    "end": 2145.99
+  },
+  {
+    "text": "that are independently replicated you know and I'm talking about time 10 year decisions",
+    "uid": "3b31c98aae564511",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2146.79,
+    "end": 2151.59
+  },
+  {
+    "text": "grant money in the like to people who have given us credible research that replicates",
+    "uid": "48fc8c2f1bac9104",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2152.23,
+    "end": 2159.11
+  },
+  {
+    "text": "but replications is just one component of the scaling revolution that list is proposing",
+    "uid": "abd34336f7c114af",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2161.5,
+    "end": 2166.62
+  },
+  {
+    "text": "he also wants to make sure the original research is more robust say I'm doing an experiment in",
+    "uid": "9fd520c8f925f958",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2166.62,
+    "end": 2171.98
+  },
+  {
+    "text": "Chicago Heights on early childhood and I find a great result how confident should I be that when we take",
+    "uid": "3abd1b5fa0863244",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2171.98,
+    "end": 2181.66
+  },
+  {
+    "text": "that result to olive-ele-noi or olive the Midwest or all of America is that result still going to find",
+    "uid": "c5e5d108edfb98c3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2181.74,
+    "end": 2189.26
+  },
+  {
+    "text": "that important benefit cost profile that we found in Chicago Heights we need to know what is the",
+    "uid": "4030af21853b61c2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2190.22,
+    "end": 2197.9
+  },
+  {
+    "text": "magic sauce was it the 20 teachers you hired down in Chicago Heights where if we go nationally we need",
+    "uid": "095f9db2b3885a5d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2197.9,
+    "end": 2206.3
+  },
+  {
+    "text": "20,000 so it should be who of me is an original researcher to say look if this scales up",
+    "uid": "fb89139738f88e1d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2206.3,
+    "end": 2216.22
+  },
+  {
+    "text": "we're going to need many more teachers I know teachers are an important input is the average",
+    "uid": "e58ebc7e1f412dd3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2216.94,
+    "end": 2224.22
+  },
+  {
+    "text": "teacher in the 20,000 the same is the average teacher in the 20 this is the dreaded voltage drop",
+    "uid": "abdaedf18b146e32",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2224.22,
+    "end": 2233.1
+  },
+  {
+    "text": "that implementation scientists talk about and the implementation scientists have focused on",
+    "uid": "85408a8203f600c5",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2233.1,
+    "end": 2238.94
+  },
+  {
+    "text": "fidelity is a core component behind the voltage drop fidelity meaning that the scaled up program reflects",
+    "uid": "21407dfce5c85d36",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2238.94,
+    "end": 2247.1
+  },
+  {
+    "text": "the integrity of the original program measures of fidelity that's a really critical part of the",
+    "uid": "dcf37a6c682dc74c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2247.1,
+    "end": 2253.58
+  },
+  {
+    "text": "implementation process that again is Patty Chamberlain founder of treatment foster care organ",
+    "uid": "6677aff1b9fdcdfd",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2253.58,
+    "end": 2259.02
+  },
+  {
+    "text": "you've got to be able to measure is this thing that's down in the real world the same you know",
+    "uid": "98f1f13fa087d496",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2259.66,
+    "end": 2266.38
+  },
+  {
+    "text": "it doesn't have the same components that produce the outcomes in the RCTs remember it was Chamberlain's",
+    "uid": "879ec026c4c7a3d1",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2266.38,
+    "end": 2272.22
+  },
+  {
+    "text": "good outcomes with young people in foster care that made federal officials want to scale up her program in the",
+    "uid": "e6c9039a829c4fba",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2272.22,
+    "end": 2277.66
+  },
+  {
+    "text": "first place we got this call saying we want you to implement your program in 15 sites",
+    "uid": "3ab40ef43fe7a798",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2277.66,
+    "end": 2284.62
+  },
+  {
+    "text": "she found the scaling up initially very challenging but wasn't the cum bi-a moment that we thought",
+    "uid": "bda2e67683c5ec78",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2285.26,
+    "end": 2291.02
+  },
+  {
+    "text": "it was going to be but in time treatment foster care organ became a very well regarded program it's been",
+    "uid": "5ddd99ff67bdf08d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2291.02,
+    "end": 2297.1
+  },
+  {
+    "text": "around for roughly 25 years now and the model has spread well beyond organ one key to the success has been",
+    "uid": "1316067097e6b40d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2297.1,
+    "end": 2303.98
+  },
+  {
+    "text": "developing fidelity standards so the way that we do it is we have people upload all of their sessions",
+    "uid": "eb36263ad8f85118",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2303.98,
+    "end": 2309.82
+  },
+  {
+    "text": "onto a hippocicure website and then we code those and if they're not meeting the fidelity standards then",
+    "uid": "6036f3a2665f72cd",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2309.82,
+    "end": 2316.06
+  },
+  {
+    "text": "we offer fidelity recovery plan you know we haven't had to drop a site but we have had to have some",
+    "uid": "8a301be51ef50ee5",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2316.06,
+    "end": 2323.02
+  },
+  {
+    "text": "of the people in the site retrained or not continue being able to measure fidelity well from afar",
+    "uid": "5366cfc554e05b3a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2323.02,
+    "end": 2331.26
+  },
+  {
+    "text": "provides another benefit to scaling up it allows the people who developed the original program to",
+    "uid": "4dcbedea24545c24",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2331.26,
+    "end": 2337.42
+  },
+  {
+    "text": "ultimately step back so they don't become a bottleneck which is a common scaling problem there can be",
+    "uid": "468abcfb047370e1",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2337.42,
+    "end": 2343.9
+  },
+  {
+    "text": "sort of an orderly process whereby you step back in increments as people become more and more competent",
+    "uid": "cbb6aeff79e0b8b0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2343.9,
+    "end": 2352.46
+  },
+  {
+    "text": "doing what they're doing and that's what you want because you don't want to have this tied to the",
+    "uid": "c4555819088cc38d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2352.46,
+    "end": 2356.22
+  },
+  {
+    "text": "developer forever otherwise you can't get any kind of reasonable reach that said you also need to",
+    "uid": "2ae0c6bb398f965a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2356.22,
+    "end": 2362.38
+  },
+  {
+    "text": "have some humility when you're scaling up you shouldn't assume your original program was perfect",
+    "uid": "618fb193a9a3a37b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2362.38,
+    "end": 2368.3
+  },
+  {
+    "text": "that it won't need adjustment and you need to be willing to make adjustments for example we",
+    "uid": "344f1c63a728333b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2368.3,
+    "end": 2374.3
+  },
+  {
+    "text": "recognized that when we were in real world communities kids needed something that wasn't therapy per se",
+    "uid": "3da6ef415bb55b2c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2374.3,
+    "end": 2382.46
+  },
+  {
+    "text": "they needed skills because the kids had often been excluded from normal socializing you know sort of",
+    "uid": "9313c95d2cd200dd",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2382.46,
+    "end": 2389.66
+  },
+  {
+    "text": "things like sports teams and clubs and and so we needed what we call a skills coach to help",
+    "uid": "c2f3998a11c57b67",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2389.66,
+    "end": 2397.34
+  },
+  {
+    "text": "those kids learn the moves that they needed to be able to participate in you know these pro social",
+    "uid": "b2741905ae78bfa7",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2397.34,
+    "end": 2403.82
+  },
+  {
+    "text": "activities that that are normal kind of things so you have research you have a theory and then you have",
+    "uid": "7fc2246d84b15905",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2403.82,
+    "end": 2409.42
+  },
+  {
+    "text": "the implementation and that feeds into more research more theory more implementation. Look everybody's",
+    "uid": "e55a61eafa3d50df",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2409.42,
+    "end": 2417.34
+  },
+  {
+    "text": "motivation at the end of the day is about trying to do good for the people they serve.",
+    "uid": "5069561bc52eb3c9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2417.34,
+    "end": 2422.3
+  },
+  {
+    "text": "Dana's suscnd again. There are many children out there and there are a lot of injustices so we need to",
+    "uid": "e04545db1674de89",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2422.3,
+    "end": 2428.62
+  },
+  {
+    "text": "move but I don't know the sciences slower than you'd like people have wanted things before I thought",
+    "uid": "a0b607bb303fbbbb",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2428.62,
+    "end": 2436.06
+  },
+  {
+    "text": "they were ready and finding a way to deal with that dance of people wanting information but also",
+    "uid": "374d2002e7bb56bd",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2436.06,
+    "end": 2443.82
+  },
+  {
+    "text": "wanting to continue to build the evidence I think we can figure out how to do it. I think that's",
+    "uid": "5eee91e770342049",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2443.82,
+    "end": 2448.86
+  },
+  {
+    "text": "exactly right and John Lister again. I think too many times whether it's in public policy whether it's a",
+    "uid": "0c1b001daf56828e",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2448.86,
+    "end": 2458.06
+  },
+  {
+    "text": "for profit or not for profit we tend to only focus on one side of the market when we have problems",
+    "uid": "ba6822615550588f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2458.06,
+    "end": 2465.18
+  },
+  {
+    "text": "and you really need to take a count of both sides because your optimal solutions the best solutions are",
+    "uid": "7078c8aef44e763a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2465.9,
+    "end": 2472.3
+  },
+  {
+    "text": "only going to come when you look at both sides of the market. I'm probably getting the strong at least",
+    "uid": "4388547c3a856d5a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2472.3,
+    "end": 2476.54
+  },
+  {
+    "text": "being way too reductive but to me it sounds like the chief barrier to scaling up programs to help people",
+    "uid": "a1841079532b7e5a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2476.54,
+    "end": 2482.62
+  },
+  {
+    "text": "is people the people are the problem. Yeah so I do think inherently it is about people",
+    "uid": "8ad45bf0dfca69ce",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2483.5,
+    "end": 2491.58
+  },
+  {
+    "text": "that said this is not a fatal flaw that causes us to throw up our arms and say well this isn't",
+    "uid": "34084b2e95a394df",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2492.54,
+    "end": 2502.78
+  },
+  {
+    "text": "physics this isn't chemistry we have to deal with people so we can't use science I think that's wrong",
+    "uid": "d821fe99a1e71743",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2502.78,
+    "end": 2508.86
+  },
+  {
+    "text": "because there are some very very neat advantages of scaling you know think about on the cost side",
+    "uid": "cfadcc7d6f2f4f50",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2508.86,
+    "end": 2516.38
+  },
+  {
+    "text": "economists always talk about you know when things get bigger and bigger guess what happens the per unit",
+    "uid": "5bebc3ae162008ba",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2516.46,
+    "end": 2523.02
+  },
+  {
+    "text": "cost goes down it's called increasing returns to scale the problem that kind of worth thinking about is",
+    "uid": "d2b9781396c5b40b",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2523.02,
+    "end": 2530.94
+  },
+  {
+    "text": "let's make sure that those policymakers who really want to do the right thing in use science let's",
+    "uid": "74e1d65b0c90d03a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2530.94,
+    "end": 2537.58
+  },
+  {
+    "text": "make sure that they have the right programs to implement. So one of your papers includes this quote from",
+    "uid": "916f7adfc8530c52",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2537.58,
+    "end": 2544.22
+  },
+  {
+    "text": "Bill Clinton or at least something that Clinton may have said which is essentially that nearly every",
+    "uid": "fc944b4d91e95472",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2544.3,
+    "end": 2548.94
+  },
+  {
+    "text": "problem has been solved by someone somewhere but we just can't seem to replicate those solutions anywhere else.",
+    "uid": "83fb97bff94788e1",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2548.94,
+    "end": 2555.66
+  },
+  {
+    "text": "So what makes you think that you've got the keys to success here where others may not have been able to do it.",
+    "uid": "df7ec03e04aa6de7",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2557.1,
+    "end": 2563.5
+  },
+  {
+    "text": "You know I view what we've done is put forward a set of modest proposals is only a start to tackle",
+    "uid": "d8bf079c2fb60c70",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2564.38,
+    "end": 2574.06
+  },
+  {
+    "text": "what I think is the most vexing problem in evidence-based policy making which is scaling I think we're just taking",
+    "uid": "96f578a0428dfd2a",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2574.78,
+    "end": 2581.9
+  },
+  {
+    "text": "some small steps theoretically and empirically but I do think that these first set of steps are important because",
+    "uid": "42240aa0554980fe",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2582.7,
+    "end": 2591.74
+  },
+  {
+    "text": "if you go in the right direction what I've learned is that literature will follow that direction",
+    "uid": "11f686cdf3ebc8b9",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2592.54,
+    "end": 2597.74
+  },
+  {
+    "text": "if you go in the wrong direction sometimes the literature follows that wrong direction for several",
+    "uid": "ecf8290e606eaacf",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2598.38,
+    "end": 2604.38
+  },
+  {
+    "text": "years and we really don't have the time right now the opportunity cost of time is very high.",
+    "uid": "d2b77ac12291c3a2",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2604.38,
+    "end": 2611.9
+  },
+  {
+    "text": "You know in the end I want policy science not to be an oxymoron and I think that's what this research",
+    "uid": "baabaa91446c2196",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2614.06,
+    "end": 2619.9
+  },
+  {
+    "text": "agenda is about the way that I would view it is that the world is imperfect because we haven't used",
+    "uid": "5e1f7e233a705e43",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2619.9,
+    "end": 2627.66
+  },
+  {
+    "text": "science and policy making and if we add science to it we have a chance to make an imperfect world",
+    "uid": "2ae69919bfca86f3",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2627.66,
+    "end": 2636.7
+  },
+  {
+    "text": "a little bit more perfect. If you want to read the papers that John List and Dana Susskind and their",
+    "uid": "e3fb65b2b2920c3c",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2637.34,
+    "end": 2646.68
+  },
+  {
+    "text": "collaborators have been working on you will find links on frikonomics.com as well as links to patty",
+    "uid": "ae6219b9b63560d6",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2646.68,
+    "end": 2652.44
+  },
+  {
+    "text": "Chamberlain's work with treatment foster care organ and much more including as always a complete",
+    "uid": "b5c3074817635bb0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2652.44,
+    "end": 2658.04
+  },
+  {
+    "text": "transcript of this episode coming up next time on frikonomics radio as you have probably heard health care",
+    "uid": "dfc29b99df8d7bff",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2658.12,
+    "end": 2664.84
+  },
+  {
+    "text": "in the US can be very expensive we have a three and a half trillion dollar medical system and our best",
+    "uid": "0eefbea8271a1411",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2664.84,
+    "end": 2672.04
+  },
+  {
+    "text": "guess is that a trillion dollars a year is unnecessary does anyone have any ideas for clawing back that",
+    "uid": "4afc0a52db97c304",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2672.04,
+    "end": 2678.76
+  },
+  {
+    "text": "trillion dollars yes they do that's next time until then take care of yourself and if you can someone else too",
+    "uid": "eb8cedb4c85ad5d1",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2678.76,
+    "end": 2686.52
+  },
+  {
+    "text": "frikonomics radio is produced by stichor and rnbud radio we can be reached at radio at frikonomics.com",
+    "uid": "64c5d62d30cf358d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2689.98,
+    "end": 2696.14
+  },
+  {
+    "text": "this episode was produced by Matt Hickey our staff also includes alicing credlow mark mcluskey Greg Rippon",
+    "uid": "581a653a9cd58ef0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2696.62,
+    "end": 2703.02
+  },
+  {
+    "text": "Mary Jadook Zach Lopinski and Emma Terrell we had helped this week from lyric about it our theme song is Mr.",
+    "uid": "743975929eaa8516",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2703.02,
+    "end": 2709.5
+  },
+  {
+    "text": "Fortune by the hitchhikers all the other music was composed by Luis Garra the complete archive of frikonomics radio",
+    "uid": "cc119a92d4207528",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2709.5,
+    "end": 2716.7
+  },
+  {
+    "text": "more than 450 episodes is now available on all podcast apps and you can also hear on many",
+    "uid": "39621067ea322cd8",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2716.7,
+    "end": 2722.86
+  },
+  {
+    "text": "NPR stations across the country as always thanks for listening so you want to talk scaling",
+    "uid": "2d5d0e73bc94fb2d",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2722.86,
+    "end": 2731.61
+  },
+  {
+    "text": "wow is a heavy paper right it's great I thought it was about um scaling fish initially so",
+    "uid": "bb11bcedecf1ffe0",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2731.61,
+    "end": 2737.53
+  },
+  {
+    "text": "that was all my background reading yeah I don't know anything about what we're gonna talk about today",
+    "uid": "04513bda583e2111",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2738.73,
+    "end": 2743.61
+  },
+  {
+    "text": "not otherwise so we can just both wing it the frikonomics radio network it's stichor",
+    "uid": "f9ed2dc60619299f",
+    "source": "Freakonomics_Radio_Network - Policymaking_Is_Not_a_Science_Yet_Freakonomics_Radi",
+    "start": 2743.61,
+    "end": 2756.73
+  }
+]
