@@ -1,0 +1,1570 @@
+[
+  {
+    "text": "Welcome to the Make-and-Sense podcast.",
+    "uid": "3de8f6d69e6409e0",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 6.35,
+    "end": 8.35
+  },
+  {
+    "text": "This is Sam Harris.",
+    "uid": "51dcce810aa0b588",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 8.35,
+    "end": 10.35
+  },
+  {
+    "text": "Just to note to say that if you're hearing this,",
+    "uid": "9b54e97a13dc2a38",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 10.35,
+    "end": 12.35
+  },
+  {
+    "text": "you're not currently on our subscriber feed,",
+    "uid": "2aec611bd39bf992",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 12.35,
+    "end": 14.35
+  },
+  {
+    "text": "and only be hearing the first part of this conversation.",
+    "uid": "9066abada440ecd0",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 14.35,
+    "end": 17.35
+  },
+  {
+    "text": "In order to access full episodes of the Make-and-Sense podcast,",
+    "uid": "200becfac616c2b3",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 17.35,
+    "end": 20.35
+  },
+  {
+    "text": "you'll need to subscribe at SamHarris.org.",
+    "uid": "af4c393b26852b93",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 20.35,
+    "end": 23.35
+  },
+  {
+    "text": "We don't run ads on the podcast,",
+    "uid": "9a3f0b1b919ba501",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 23.35,
+    "end": 25.35
+  },
+  {
+    "text": "and therefore it's made possible entirely through the support of our subscribers.",
+    "uid": "fadbcfe89bc41047",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 25.35,
+    "end": 28.35
+  },
+  {
+    "text": "So if you enjoy what we're doing here, please consider becoming one.",
+    "uid": "38ee12f846476f52",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 28.35,
+    "end": 32.35
+  },
+  {
+    "text": "I am here with Donald Robertson.",
+    "uid": "18b5df1f24d3547e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 32.35,
+    "end": 38.0
+  },
+  {
+    "text": "Donald, thanks for joining me.",
+    "uid": "21b50ea62c5d0433",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 38.0,
+    "end": 39.0
+  },
+  {
+    "text": "I suppose you'll have to be here, Sam.",
+    "uid": "0a7c09f4e64e96f8",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 39.0,
+    "end": 41.0
+  },
+  {
+    "text": "So how would you summarize your background academically intellectually,",
+    "uid": "d1b659567b1d2cf5",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 41.0,
+    "end": 47.0
+  },
+  {
+    "text": "Well, my first degree was in philosophy,",
+    "uid": "d71683d53313d838",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 48.0,
+    "end": 51.0
+  },
+  {
+    "text": "and my master's degree was at an interdisciplinary centre,",
+    "uid": "56ab0f56db9a491e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 51.0,
+    "end": 55.0
+  },
+  {
+    "text": "and I wanted to combine philosophy and psychotherapy.",
+    "uid": "55dd34635c62923f",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 55.0,
+    "end": 59.0
+  },
+  {
+    "text": "That's what I was studying.",
+    "uid": "e6f8f6149af12327",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 59.0,
+    "end": 61.0
+  },
+  {
+    "text": "So I did what a lot of people do.",
+    "uid": "db6521b5ddbbe272",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 61.0,
+    "end": 63.0
+  },
+  {
+    "text": "I had one run at it,",
+    "uid": "831b65e5d6382515",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 63.0,
+    "end": 65.0
+  },
+  {
+    "text": "and then completely changed my mind.",
+    "uid": "ea71d04dd1d96c62",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 65.0,
+    "end": 67.0
+  },
+  {
+    "text": "So I was trying to combine existential philosophy and psychoanalysis.",
+    "uid": "259f6d895045c9c5",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 67.0,
+    "end": 72.0
+  },
+  {
+    "text": "My dissertation was on Jean Paul Saffre,",
+    "uid": "2254ba8ebcbf02fd",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 72.0,
+    "end": 75.0
+  },
+  {
+    "text": "and existential psychoanalysis.",
+    "uid": "44aa9fd651552cf5",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 75.0,
+    "end": 77.0
+  },
+  {
+    "text": "And I decided that it just wasn't working out for me,",
+    "uid": "27b5a7efb08b200b",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 77.0,
+    "end": 80.0
+  },
+  {
+    "text": "so I started again from scratch,",
+    "uid": "aeb75431b616eae0",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 80.0,
+    "end": 82.0
+  },
+  {
+    "text": "and I began looking at stoicism and cognitive behavioral therapy.",
+    "uid": "0ca3aaeac483b11b",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 82.0,
+    "end": 85.0
+  },
+  {
+    "text": "And that's what I've been doing.",
+    "uid": "71375b71314d04eb",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 85.0,
+    "end": 87.0
+  },
+  {
+    "text": "I was a psychotherapist. I pursued a clinical career,",
+    "uid": "bfbb1e7c81d40c8a",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 87.0,
+    "end": 90.0
+  },
+  {
+    "text": "instead of an academic one,",
+    "uid": "274a287e6e67c7c5",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 90.0,
+    "end": 92.0
+  },
+  {
+    "text": "and then I started writing books about it.",
+    "uid": "d697b5031964bb4f",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 92.0,
+    "end": 94.0
+  },
+  {
+    "text": "And somewhere along the lines, stoicism became what the young people call a thing.",
+    "uid": "3f3ba0d2bf57457e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 94.0,
+    "end": 98.0
+  },
+  {
+    "text": "And so I had a moment and became popular.",
+    "uid": "c8b2720a7c08a974",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 98.0,
+    "end": 101.0
+  },
+  {
+    "text": "Yeah, yeah, that was, it's due to people like yourself and Bill Irvin and Ryan Holiday.",
+    "uid": "ac3d4d5dd758520e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 101.0,
+    "end": 107.0
+  },
+  {
+    "text": "I should say you've written a couple of books here.",
+    "uid": "9c8e32a5dc531eee",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 107.0,
+    "end": 109.0
+  },
+  {
+    "text": "You have how to think like a Roman Emperor,",
+    "uid": "e945176f4ab9913f",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 109.0,
+    "end": 112.0
+  },
+  {
+    "text": "which I think I got it in,",
+    "uid": "ebcde9faa8c9a7a0",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 112.0,
+    "end": 114.0
+  },
+  {
+    "text": "it was 2020, 2019, when did that come out?",
+    "uid": "5038ac140bee9cea",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 114.0,
+    "end": 117.0
+  },
+  {
+    "text": "And then also you have one, how to think like,",
+    "uid": "c4d9a1be4d08d3b5",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 119.0,
+    "end": 121.0
+  },
+  {
+    "text": "what the fuck is that?",
+    "uid": "8e0651c7b608246a",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 121.0,
+    "end": 122.0
+  },
+  {
+    "text": "How did you get into stoicism specifically?",
+    "uid": "695b62ba4d21ecf0",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 122.0,
+    "end": 125.0
+  },
+  {
+    "text": "Well, the truth is, long story,",
+    "uid": "340b3e01d5343132",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 125.0,
+    "end": 127.0
+  },
+  {
+    "text": "like I grew up in the West Coast of Scotland,",
+    "uid": "e31a17ae4e0cd974",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 127.0,
+    "end": 130.0
+  },
+  {
+    "text": "and I placed where free masonry is popular,",
+    "uid": "4ddccccd67673223",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 130.0,
+    "end": 134.0
+  },
+  {
+    "text": "because our national barred Robert Burns was a master free mason.",
+    "uid": "6251d24aaef03dd9",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 134.0,
+    "end": 138.0
+  },
+  {
+    "text": "So my father and most of my friends,",
+    "uid": "160db91e6038a5d5",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 138.0,
+    "end": 141.0
+  },
+  {
+    "text": "father, was born to free masonry.",
+    "uid": "9c681271ac5b1fe4",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 141.0,
+    "end": 142.0
+  },
+  {
+    "text": "And it gave them a kind of philosophy of life.",
+    "uid": "52501d361c42f58c",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 142.0,
+    "end": 145.0
+  },
+  {
+    "text": "I looked at my father's books on free masonry",
+    "uid": "0ce9119cfb6aa42c",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 145.0,
+    "end": 148.0
+  },
+  {
+    "text": "when I was about 16 years old.",
+    "uid": "0326b58816f0312b",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 148.0,
+    "end": 150.0
+  },
+  {
+    "text": "And there was all these references to Pythagoras and Plato",
+    "uid": "f7574ac999a7d6a6",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 150.0,
+    "end": 154.0
+  },
+  {
+    "text": "and the four cardinal virtues of Greek philosophy.",
+    "uid": "485e44356a121e59",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 154.0,
+    "end": 157.0
+  },
+  {
+    "text": "So that kind of got me interested in reading about Christy and kind of mysticism,",
+    "uid": "867ac8a41021fe4a",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 157.0,
+    "end": 164.0
+  },
+  {
+    "text": "as a man, and world religions, and Greek philosophy,",
+    "uid": "c12139ff0a3ec466",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 164.0,
+    "end": 168.0
+  },
+  {
+    "text": "then a studied philosophy at university.",
+    "uid": "9ae652d8979e82fe",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 168.0,
+    "end": 171.0
+  },
+  {
+    "text": "And I was looking for something like a western Buddhism, basically.",
+    "uid": "e22a68dda7c5773c",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 171.0,
+    "end": 175.0
+  },
+  {
+    "text": "I gave to life like free masonry had provided my father",
+    "uid": "c80dea3353effe59",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 175.0,
+    "end": 178.0
+  },
+  {
+    "text": "for philosophy of life.",
+    "uid": "d16ee497ee799ebf",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 178.0,
+    "end": 180.0
+  },
+  {
+    "text": "Now I couldn't find it in modern academic philosophy.",
+    "uid": "f6f51ee1742ed8fe",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 180.0,
+    "end": 183.0
+  },
+  {
+    "text": "Now, almost undergraduate philosophy curricula.",
+    "uid": "87b8005169dc0862",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 183.0,
+    "end": 187.0
+  },
+  {
+    "text": "Stoicism isn't covered.",
+    "uid": "5f4e7f9f53723447",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 187.0,
+    "end": 189.0
+  },
+  {
+    "text": "Of course, one of the major skills of the ancient philosophy",
+    "uid": "51cfcb4cec7a4c47",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 189.0,
+    "end": 192.0
+  },
+  {
+    "text": "so I didn't really read the stoics until after I graduated.",
+    "uid": "2c36b8980b69cef4",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 192.0,
+    "end": 196.0
+  },
+  {
+    "text": "And when I did the kind of head in a pephone,",
+    "uid": "632c04ecd4f420eb",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 196.0,
+    "end": 198.0
+  },
+  {
+    "text": "I liked when on, and it felt like I was trying to",
+    "uid": "a2c03cb181416fb7",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 198.0,
+    "end": 201.0
+  },
+  {
+    "text": "to juggle several competing interests.",
+    "uid": "a0c5c12c3c2de63e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 201.0,
+    "end": 203.0
+  },
+  {
+    "text": "So I was into psychotherapy.",
+    "uid": "a3a5e0f144a3f44a",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 203.0,
+    "end": 205.0
+  },
+  {
+    "text": "I was into meditation.",
+    "uid": "08eb869513e5ca7a",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 205.0,
+    "end": 206.0
+  },
+  {
+    "text": "I was into philosophy.",
+    "uid": "37b2bc82dfead45b",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 206.0,
+    "end": 207.0
+  },
+  {
+    "text": "And I was reading loads and loads and loads of different books.",
+    "uid": "6cb31b32f346ea65",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 207.0,
+    "end": 210.0
+  },
+  {
+    "text": "And when I started reading the stoics,",
+    "uid": "39231a031fac6d8f",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 210.0,
+    "end": 212.0
+  },
+  {
+    "text": "some of I have all of that seem to crystallize into one thing.",
+    "uid": "879ce10d786d5771",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 212.0,
+    "end": 215.0
+  },
+  {
+    "text": "I kind of got my effects for all of those things from reading Saneka,",
+    "uid": "40c614977b3c64d8",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 215.0,
+    "end": 218.0
+  },
+  {
+    "text": "And I soon figured out that Stoicism was the inspiration",
+    "uid": "32ad1b32e66f4aed",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 220.0,
+    "end": 224.0
+  },
+  {
+    "text": "for cognitive behavioral therapy.",
+    "uid": "b02ec960f21c89e2",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 224.0,
+    "end": 226.0
+  },
+  {
+    "text": "That Stoicism contains contemplative practices",
+    "uid": "48d9420cbcca2c09",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 226.0,
+    "end": 229.0
+  },
+  {
+    "text": "or meditation techniques, and it provided a kind of workable philosophy of life.",
+    "uid": "6070b31a81e72ae3",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 229.0,
+    "end": 234.0
+  },
+  {
+    "text": "So it really all crystallized for me very quickly.",
+    "uid": "3fcdf9169e1b5dd3",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 234.0,
+    "end": 237.0
+  },
+  {
+    "text": "And that was about 25 years ago.",
+    "uid": "07d163f9e794c6e7",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 237.0,
+    "end": 239.0
+  },
+  {
+    "text": "I love that more than that now.",
+    "uid": "4256a1a82eb07a91",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 239.0,
+    "end": 241.0
+  },
+  {
+    "text": "And I'm still into Stoicism and stuff with me.",
+    "uid": "67175a9e82878005",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 241.0,
+    "end": 244.0
+  },
+  {
+    "text": "Yeah, this, when you read ancient philosophy and when you read Eastern philosophy,",
+    "uid": "8fa957edfc906353",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 244.0,
+    "end": 250.0
+  },
+  {
+    "text": "it's pretty clear that philosophy was always meant to be way of life.",
+    "uid": "6771e07fcd4f29b2",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 250.0,
+    "end": 255.0
+  },
+  {
+    "text": "And there was the implication that if a person was a real philosopher,",
+    "uid": "2c97b51686bd3dd2",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 255.0,
+    "end": 259.0
+  },
+  {
+    "text": "certainly one worth respecting, that would translate into,",
+    "uid": "adc31af454269138",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 259.0,
+    "end": 264.0
+  },
+  {
+    "text": "by definition, some mastery of the art of living.",
+    "uid": "9276c7e6c1d1195e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 264.0,
+    "end": 268.0
+  },
+  {
+    "text": "I mean, some wisdom.",
+    "uid": "a0818c39d3ae63df",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 268.0,
+    "end": 270.0
+  },
+  {
+    "text": "You know, like you couldn't be a florid neurotic and be a great philosopher,",
+    "uid": "facbf97ae0a970c3",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 270.0,
+    "end": 274.0
+  },
+  {
+    "text": "I mean, it would just, or at least you would be living in star contradiction",
+    "uid": "f238172a27219e93",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 275.0,
+    "end": 280.0
+  },
+  {
+    "text": "to your, your stated insights.",
+    "uid": "af981e4cf9f6a305",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 280.0,
+    "end": 284.0
+  },
+  {
+    "text": "Whereas in modern times, and I'm not quite sure when we can date this.",
+    "uid": "5f69a2cc8cc1efa2",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 284.0,
+    "end": 288.0
+  },
+  {
+    "text": "I mean, there's certainly there was a linguistic turn in philosophy in the West,",
+    "uid": "b3e4b21f5042ba1f",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 288.0,
+    "end": 293.0
+  },
+  {
+    "text": "in England and America, in particular, and you have people like Vic and Stein",
+    "uid": "d7a74ebfa842c147",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 293.0,
+    "end": 298.0
+  },
+  {
+    "text": "and others for whom it really becomes a kind of an analysis of language and concepts.",
+    "uid": "dedb3ed2c828dc3d",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 298.0,
+    "end": 304.0
+  },
+  {
+    "text": "And there's really no implication that a person would be wise,",
+    "uid": "839b33eec37f416f",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 304.0,
+    "end": 308.0
+  },
+  {
+    "text": "based on having mastered their area of philosophy.",
+    "uid": "9da0de3519dd3558",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 308.0,
+    "end": 311.0
+  },
+  {
+    "text": "And even with continental philosophy in Europe, and you know,",
+    "uid": "526b9063a8486636",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 312.0,
+    "end": 315.0
+  },
+  {
+    "text": "you have the contributions of someone like Nietzsche, who, for all his gifts,",
+    "uid": "9adf9457fcd6bd55",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 315.0,
+    "end": 319.0
+  },
+  {
+    "text": "was obviously a profoundly unhappy person, and it's nevertheless a much celebrated philosopher.",
+    "uid": "343f7b927a021ffb",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 319.0,
+    "end": 325.0
+  },
+  {
+    "text": "So I'm not sure what, if you can date when this broke down,",
+    "uid": "decb627a2250b1ee",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 325.0,
+    "end": 329.0
+  },
+  {
+    "text": "but it is remarkable that if you go through the front door of a philosophy department and university,",
+    "uid": "7093bdf0416aaf72",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 329.0,
+    "end": 335.0
+  },
+  {
+    "text": "you really can't expect to encounter much wisdom.",
+    "uid": "dbfc3e92295ee52e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 335.0,
+    "end": 339.0
+  },
+  {
+    "text": "Well, there's always been this connection still in 20th century philosophy,",
+    "uid": "3456885345db4f1a",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 339.0,
+    "end": 344.0
+  },
+  {
+    "text": "24th century philosophy with therapy, even back in Spain,",
+    "uid": "52de2100c6e3fde9",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 344.0,
+    "end": 349.0
+  },
+  {
+    "text": "the build philosophy has philosophy to a type of therapy, but not in the way the ancient philosophy was dead.",
+    "uid": "a28eb0cbbc08bff0",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 349.0,
+    "end": 356.0
+  },
+  {
+    "text": "I mean, you know, in the ancient world, people thought that you could often recognize a philosopher",
+    "uid": "a23d5405f7242230",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 356.0,
+    "end": 361.0
+  },
+  {
+    "text": "if you'd passed one in the street, by the way that they were clothed,",
+    "uid": "6f962434f3058f03",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 361.0,
+    "end": 365.0
+  },
+  {
+    "text": "the way they were the beard from their conduct.",
+    "uid": "376f1c865b21cf7d",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 365.0,
+    "end": 369.0
+  },
+  {
+    "text": "They were kind of like Weston Yogis, even though in the ancient world there was kind of always a contrast",
+    "uid": "e88e7f408f2f2bdd",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 369.0,
+    "end": 375.0
+  },
+  {
+    "text": "between the Dorgines, the Sunnic, and Plato, and the two views of philosophy as an activity that they represented.",
+    "uid": "4ec94d9a43c50b1e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 375.0,
+    "end": 384.0
+  },
+  {
+    "text": "Plato definitely had a therapeutic idea of philosophy, but his philosophy was more academic, it was more scholarly,",
+    "uid": "4c5626823c66edba",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 384.0,
+    "end": 390.0
+  },
+  {
+    "text": "whereas the Sunnic's will soon as rejecting logic and rejecting this kind of academic discourse and in much more focused on developing",
+    "uid": "73ab4c779662dc49",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 390.0,
+    "end": 400.0
+  },
+  {
+    "text": "strength of character.",
+    "uid": "5dafd3f97443b63c",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 400.0,
+    "end": 402.0
+  },
+  {
+    "text": "So, in the ancient world there was this dichotomy, but these two opposing ways of interpreting it.",
+    "uid": "553045f8d2d60bb9",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 402.0,
+    "end": 406.0
+  },
+  {
+    "text": "The story is kind of trying to reconcile that a little bit, but the Sunnic in particular can be more different from what we think of as philosophy today.",
+    "uid": "627491a5a08ffdb8",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 406.0,
+    "end": 415.0
+  },
+  {
+    "text": "So, what is the essence of Stelicism in your view?",
+    "uid": "5c8db6c6ae28e3fb",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 415.0,
+    "end": 419.0
+  },
+  {
+    "text": "I think Stelicism fundamentally is an ethic, an ethical worldview, it's a big philosophy.",
+    "uid": "2d9ffc54640765a1",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 419.0,
+    "end": 427.0
+  },
+  {
+    "text": "It flourished for five centuries in the ancient world, it was around for a long time, and it evolved a lot.",
+    "uid": "0fcb414344bc471d",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 427.0,
+    "end": 432.0
+  },
+  {
+    "text": "But essentially, it's based on the doctrine that virtuously only true good, as a cesserrel, for example, characterizes the corner, stelicism.",
+    "uid": "1b1acd89b556d1a4",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 432.0,
+    "end": 441.0
+  },
+  {
+    "text": "That, in a sense, a kind of moral wisdom is the only true good, and that therefore the things that the majority of people deem to be important in life, like wealth and reputation, are indifferent, they're not really intrinsically good.",
+    "uid": "f3f1770ebaae07f9",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 442.0,
+    "end": 458.0
+  },
+  {
+    "text": "They're at most a kind of practical advantage in life.",
+    "uid": "f98a673ea24d0f5d",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 458.0,
+    "end": 462.0
+  },
+  {
+    "text": "And what follows on from that is what Stelicism is perhaps most famous for, which is that if somebody really embraced that ethical worldview, they would be less attached to external possessions and reputation, and so they would develop a kind of emotional resilience in the face of adversity.",
+    "uid": "e1e89d677b462fb1",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 462.0,
+    "end": 481.0
+  },
+  {
+    "text": "And Stelicism today has kind of become a synonym, I guess we could say, for emotional resilience is a consequence of that, but it stems from their ethic, their virtue ethic.",
+    "uid": "8d4dbae843b12368",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 481.0,
+    "end": 490.0
+  },
+  {
+    "text": "Yeah, in reading the Stelics and what we'll get into some of the specific thinkers here, what I've gotten is that it really amounts to a way of thinking that allows for the regulation of negative emotion.",
+    "uid": "4f35cc6916d76428",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 490.0,
+    "end": 505.0
+  },
+  {
+    "text": "There's kind of a master value, I certainly got this from Marcus Relyus, that you don't want above all as to suffer unnecessarily, right?",
+    "uid": "15f0736931b64605",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 505.0,
+    "end": 515.0
+  },
+  {
+    "text": "And the lack of necessity is in how one reacts to the world, reacts to the behavior of other people, and kind of hallucinates the cause of one suffering as being out there in the world, overlooking the fact that there's a reaction that is actually the felt presence of the injustice or the annoyance, and it's in surrendering that reaction, you know, reframing it thinking so is to see the non-necessity of it.",
+    "uid": "57b8527d2823a9ce",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 515.0,
+    "end": 543.0
+  },
+  {
+    "text": "They you become free of these collisions with annoying people, annoying circumstances, inevitable bad luck, etc.",
+    "uid": "583739f141a6fc9b",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 543.0,
+    "end": 552.0
+  },
+  {
+    "text": "Well, I think we can say that probably the most famous quote from Stelicism is from the Ankara de Anohan book of Epictetus, and it says people are distressed, not by events, but by the opinions about events.",
+    "uid": "ce665300e8f7c85f",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 552.0,
+    "end": 567.0
+  },
+  {
+    "text": "And the reason that it became so famous is that that quote is cited extensively in cognitive behavioral therapy, so it became a kind of cliche in a way.",
+    "uid": "b378596e0f598b7c",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 567.0,
+    "end": 577.0
+  },
+  {
+    "text": "But this is a fundamental insight, a story says, and something that makes surprise, less or less, is that, you know, we think of psychotherapy, is being a modern thing, a modern invention, in a sense.",
+    "uid": "be941244e45d5cc1",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 577.0,
+    "end": 590.0
+  },
+  {
+    "text": "I think many people believe that psych therapy began with segment Freud, which is categorically false Freud, trained in psych therapy, but modern psych therapists surround before Freud.",
+    "uid": "9d516a438e4e4f5d",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 590.0,
+    "end": 600.0
+  },
+  {
+    "text": "But psychotherapy existed in the ancient world, in fact at the beginning of the meditations, Marcus really says that one of the most important things that he gained from genius rusticus, who is his main stoic mentor, was therapy, like psychotherapy based on Stelicism basically.",
+    "uid": "34e11109a36ac3ef",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 600.0,
+    "end": 617.0
+  },
+  {
+    "text": "The third head of the stoic school, the most prolific writer in ancient stoicism wrote a, what was once a famous book on therapeutics on stoic psychotherapy, which is lost today, but we have an entire book by Seneca that still survives called on anger, which is all about stoic psychotherapy for the passion of anger.",
+    "uid": "7ae24ee4d2ffff0e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 617.0,
+    "end": 641.0
+  },
+  {
+    "text": "So you're right, it has this kind of therapeutic angle, it's about overcoming the passions or a rational and unhealthy emotions, and the stoic is called that goal apathy, which is kind of mis translated as meaning apathy, but a better translation, a more literal translation would be freedom from pathological desires and emotions.",
+    "uid": "454d4319a8855867",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 641.0,
+    "end": 662.0
+  },
+  {
+    "text": "So what are the primary negative emotions that stoicism is an antidote for?",
+    "uid": "ff05216e0cbef2a6",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 662.0,
+    "end": 668.0
+  },
+  {
+    "text": "Well, desire and the sense of a kind of greed or attachment to external things, but anger also is one of the main emotions that they were particular concerned with, and also a rational fear or sadness.",
+    "uid": "6a6f3a1de45074b7",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 668.0,
+    "end": 686.0
+  },
+  {
+    "text": "The stoics think that any emotion that places too much intrinsic value on external events beyond other direct control, any emotion like that is inherently unhealthy or something not quite right about it, they believe that's the core of the philosophy essentially.",
+    "uid": "b2e0a204bc0463c4",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 686.0,
+    "end": 702.0
+  },
+  {
+    "text": "You said that there's a direction between cognitive behavior of therapy and stoicism, is that historically in the field or is that merely in your practice?",
+    "uid": "700acf59ae47ab0b",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 702.0,
+    "end": 711.0
+  },
+  {
+    "text": "No, that's for real Albert Ellis, who is the original pioneer of cognitive therapy, he developed a thing called rational emotive behavior therapy, which is the earliest form of CBT in the 1950s in New York.",
+    "uid": "81a9b48905ad0de1",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 711.0,
+    "end": 724.0
+  },
+  {
+    "text": "Ellis was originally a psychoanalytic therapist and he got disillusioned with it and gave up and decided he was going to start again from scratch, and he'd read epictetus and Marcus Aurelius when he was a teenager.",
+    "uid": "31170f88c1333b68",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 724.0,
+    "end": 736.0
+  },
+  {
+    "text": "And so he began drawing on stoicism for inspiration, and he describes the stoics as the main philosophical inspiration for his approach to cognitive therapy.",
+    "uid": "3049b2a8ba5ecc09",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 736.0,
+    "end": 746.0
+  },
+  {
+    "text": "Then the next major pioneer of that approach is R&T Beck, Tim Beck, in the 60s and 70s he developed cognitive therapy for depression, and made cognitive therapy much more mainstream.",
+    "uid": "3d8d574ca06a3d1e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 746.0,
+    "end": 758.0
+  },
+  {
+    "text": "And Beck also says that the philosophical origins, he says this repeatedly, of cognitive therapy, lie in ancient stoicism.",
+    "uid": "f7b34b14bd9643d0",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 759.0,
+    "end": 767.0
+  },
+  {
+    "text": "So can you give me an example of the technique of stoicism? How does one put these insights into practice?",
+    "uid": "23d67c648811f47c",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 767.0,
+    "end": 775.0
+  },
+  {
+    "text": "Well, first of all, there's a repertoire of techniques, there are many many techniques.",
+    "uid": "c380bed9e94cf7d8",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 775.0,
+    "end": 780.0
+  },
+  {
+    "text": "The first book that I wrote and stoicism are tried to list as many as I could, and there were about 18 broad strategies, and those can take different forms.",
+    "uid": "0f8ee1768cb45726",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 780.0,
+    "end": 788.0
+  },
+  {
+    "text": "So we can pack several out, but actually I'm going to pick one in particular because I think it might be especially of interest to you, given your interest in mindfulness meditation, but does them.",
+    "uid": "68630af4482a8f89",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 788.0,
+    "end": 798.0
+  },
+  {
+    "text": "The stoics have a practice that they call prosolké, and this term is used by other ancient Greek writers as well, Epicitas as an entire discourse on it.",
+    "uid": "590fa41e0f002442",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 798.0,
+    "end": 807.0
+  },
+  {
+    "text": "Prosolké is a word that you'll see in modern Greece on science, so you'll see signs that say prosolké ski loss, which means the where of the dog.",
+    "uid": "e34854945f6c5290",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 807.0,
+    "end": 816.0
+  },
+  {
+    "text": "So prosolké means be mindful, be aware, watch out, it can be translated as pay attention, and the stoics describe this as a kind of practice of continual attention to the way that we're using our mind.",
+    "uid": "7d209aebdb09b8db",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 816.0,
+    "end": 831.0
+  },
+  {
+    "text": "So you could see it as a kind of stoic mindfulness practice.",
+    "uid": "c7ba9fcd0e5745ad",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 831.0,
+    "end": 834.0
+  },
+  {
+    "text": "They think that we should constantly observe the use we make of impressions, for example, the automatic thoughts that pop into our mind.",
+    "uid": "c0ee599109103060",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 834.0,
+    "end": 843.0
+  },
+  {
+    "text": "Markets are really, as for instance, says we should continually ask ourselves, what use are you making right now of your psyche of your mind, what character does your psyche have right now.",
+    "uid": "e4cfa52538fb75a6",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 843.0,
+    "end": 854.0
+  },
+  {
+    "text": "So we're constantly reflecting on the type of judgments we're making, and in particular, the value judgments that we're making for moment to moment and how those might be affecting our emotions.",
+    "uid": "6a651c0c53c2b44a",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 854.0,
+    "end": 866.0
+  },
+  {
+    "text": "So there's this kind of sort of mindfulness practice that we find in stoicism pretty explicitly.",
+    "uid": "fd594d2139bd265e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 866.0,
+    "end": 872.0
+  },
+  {
+    "text": "And then there's the use of the Socratic method, the Socratic question, which is integral to cognitive therapy.",
+    "uid": "35e969a9b4440b22",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 872.0,
+    "end": 878.0
+  },
+  {
+    "text": "I'll take a step back and say the reason for that is, you know, this idea that it's not things are upset as Europeans about them.",
+    "uid": "d27ea3555e4d6b23",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 878.0,
+    "end": 886.0
+  },
+  {
+    "text": "The stoics had a cognitive model of emotion, so it's very similar, surprisingly similar to the premise of modern cognitive therapy.",
+    "uid": "679d50c9acc15a4c",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 886.0,
+    "end": 896.0
+  },
+  {
+    "text": "And if you believe that your cognition's shape your emotions to greater extent than we normally assume, then you're going to arrive broadly similar conclusions perhaps about what you would do about that.",
+    "uid": "61508f330f91e5c2",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 896.0,
+    "end": 908.0
+  },
+  {
+    "text": "So you might try to identify what the beliefs are that cause your anger for example, and then challenge those beliefs, question them whether they're contradictory, or whether they contain certain logical errors, for example.",
+    "uid": "f6474d07b2ed5e0e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 908.0,
+    "end": 921.0
+  },
+  {
+    "text": "So the stoics use questioning techniques to root out and challenge rationally or philosophically, and a similar way that we do in modern cognitive therapy to help deal with these irrational beliefs.",
+    "uid": "09cbcb83bd85bbc5",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 921.0,
+    "end": 933.0
+  },
+  {
+    "text": "But they also have a variety of other meditation, contemplative practices.",
+    "uid": "88409195f4c09320",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 933.0,
+    "end": 938.0
+  },
+  {
+    "text": "And I think you think parallels to those in eastern traditions like Buddhism.",
+    "uid": "41112ab5658963fd",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 938.0,
+    "end": 943.0
+  },
+  {
+    "text": "So I know in the Buddhist tradition there are meditations that involve contemplating the character of the Buddha and the qualities he possessed.",
+    "uid": "db025a0206663a1b",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 943.0,
+    "end": 952.0
+  },
+  {
+    "text": "When stoicism they have a practice called contemplating the sage or the so-forsing Greek.",
+    "uid": "11099b422c3b7c4e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 952.0,
+    "end": 957.0
+  },
+  {
+    "text": "So the stoics didn't believe that any perfect person had ever existed, but they thought that we're able to imagine what a wise person might look like and how they might act, etc.",
+    "uid": "fdae78b447ce4c11",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 957.0,
+    "end": 969.0
+  },
+  {
+    "text": "And imagine a contemplative exercise. They think we should contemplate our own death, which is also a practice that we find in Buddhism.",
+    "uid": "8e2ee23c8646b0ed",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 969.0,
+    "end": 977.0
+  },
+  {
+    "text": "And they thought we should also try to imagine potential misfortunes that could be follows and prepare ourselves in advance, for them.",
+    "uid": "76ae12b292be0d02",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 977.0,
+    "end": 986.0
+  },
+  {
+    "text": "Imagine, for example, poverty or illness, as if it's happening right now, and then rehearse responding to it with a philosophical attitude, which is kind of similar to practices that we find in modern cognitive behavioral therapy as well.",
+    "uid": "17db55a82f1f6b3e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 986.0,
+    "end": 998.0
+  },
+  {
+    "text": "What we call mental rehearsals a lot. Imagine a exposure exercises in CBT.",
+    "uid": "345d4f1ee4a9ecc2",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 998.0,
+    "end": 1003.0
+  },
+  {
+    "text": "Okay, so let's, I'm going to ask you to help me untangle a very familiar pattern of reaction that I have to, one of the misfortunes in life.",
+    "uid": "5ebb72852e3f7f5f",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1003.0,
+    "end": 1014.0
+  },
+  {
+    "text": "So you mentioned reputation and how one should not put too much stock in it.",
+    "uid": "3a7982cd4984e587",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1014.0,
+    "end": 1020.0
+  },
+  {
+    "text": "I find as, as a writer, podcaster, speaker, I find that the thing I find most annoying on this front is the all two frequent experience of seeing my views misrepresented, right?",
+    "uid": "9e9321b8530edea9",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1020.0,
+    "end": 1035.0
+  },
+  {
+    "text": "So it's not criticism per se, or even just any kind of defamatory attack on me that I care about.",
+    "uid": "3c8f73e5897eb6a4",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1035.0,
+    "end": 1042.0
+  },
+  {
+    "text": "What I care about is to see somebody line or otherwise consciously or unconsciously misrepresenting my views and to see that, you know, at scale, become effective, right?",
+    "uid": "7333445e9f304f53",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1042.0,
+    "end": 1055.0
+  },
+  {
+    "text": "Truly crazy making experience from my point of view is to see vast numbers of people believe that I think things that I have never thought in my life, right?",
+    "uid": "ea951b2395c343ed",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1055.0,
+    "end": 1065.0
+  },
+  {
+    "text": "Much less said out loud. And so how would you, if you're going to be my stock therapist, how would you ask me to interact with that phenomena?",
+    "uid": "c9c56552a73d8ee2",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1065.0,
+    "end": 1074.0
+  },
+  {
+    "text": "Well, first of all, I sympathize and it's going to get worse because he is going to start misrepresenting your views as well.",
+    "uid": "561aa977861016b0",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1074.0,
+    "end": 1079.0
+  },
+  {
+    "text": "And I think that happens or even if you're looking miscreated by AI.",
+    "uid": "1ca1e1f5fc1add54",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1079.0,
+    "end": 1082.0
+  },
+  {
+    "text": "No, AI has me, I someone sent me an ad of where an AI generated version of me or an AI voice overlaid on an actual version of me has me selling some cognitive enhancement that I've never heard of.",
+    "uid": "f88823ad51766f45",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1082.0,
+    "end": 1097.0
+  },
+  {
+    "text": "So I'm pushing pills out there that you shouldn't buy.",
+    "uid": "07c1348a12e7c607",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1097.0,
+    "end": 1100.0
+  },
+  {
+    "text": "That's welcome to the future.",
+    "uid": "bf1d10d7e94be2e0",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1101.0,
+    "end": 1103.0
+  },
+  {
+    "text": "But this was a common problem in the past as well.",
+    "uid": "3006bfa6979d141b",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1104.0,
+    "end": 1106.0
+  },
+  {
+    "text": "So Marcus Aurelius had to deal with his views being misrepresented and parodied and satirized.",
+    "uid": "0b13dd53734febcf",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1106.0,
+    "end": 1114.0
+  },
+  {
+    "text": "That's something that we know that he had to deal with and so did other influential people in the Roman Empire that were into stoicism.",
+    "uid": "b0d754124ef208a7",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1114.0,
+    "end": 1122.0
+  },
+  {
+    "text": "So it's kind of a familiar problem in a way.",
+    "uid": "bd9b92f64fdfc82c",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1122.0,
+    "end": 1124.0
+  },
+  {
+    "text": "And one of the first things you might do is to ask yourself, well, how would somebody else cope with that problem?",
+    "uid": "2abceb6e18e9686a",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1124.0,
+    "end": 1131.0
+  },
+  {
+    "text": "How would someone that we admire for their wisdom and patience and temperance deal with a similar problem?",
+    "uid": "420f3475b2089c68",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1131.0,
+    "end": 1138.0
+  },
+  {
+    "text": "And it could be someone you admire personally, it could be like a colleague or something like that.",
+    "uid": "7e55a9c3e15d465f",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1138.0,
+    "end": 1142.0
+  },
+  {
+    "text": "Or it could even be a fictional character.",
+    "uid": "4a1ae04b2f8c18c7",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1142.0,
+    "end": 1144.0
+  },
+  {
+    "text": "It could be the hypothetical sage, it could be Buddha, like Buddhist views are misrepresented all the time.",
+    "uid": "b10965050db7be84",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1144.0,
+    "end": 1149.0
+  },
+  {
+    "text": "You know how would Buddha respond to that deal with it?",
+    "uid": "9782d39d1b15392c",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1149.0,
+    "end": 1152.0
+  },
+  {
+    "text": "You know how would Socrates deal with his views being misrepresented?",
+    "uid": "5408bae01b813627",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1152.0,
+    "end": 1155.0
+  },
+  {
+    "text": "So that's what we call modeling, cognitive modeling and modern therapy.",
+    "uid": "7546fc77a857d825",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1155.0,
+    "end": 1159.0
+  },
+  {
+    "text": "How would someone else cope well with the same challenge?",
+    "uid": "057dbdd56cef2966",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1159.0,
+    "end": 1163.0
+  },
+  {
+    "text": "Another way of dealing with it and stoicism.",
+    "uid": "0b0af52a08dddb96",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1163.0,
+    "end": 1165.0
+  },
+  {
+    "text": "Before you move on, what I find interesting about that is that it's a method of seeing yourself from the outside.",
+    "uid": "746455bb0602c741",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1165.0,
+    "end": 1172.0
+  },
+  {
+    "text": "You're kind of triangulating on yourself and you, it's a funny feature or really bug of human psychology that there are many things that we recognize.",
+    "uid": "45368ac8a9991b84",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1172.0,
+    "end": 1181.0
+  },
+  {
+    "text": "To be unflattering or otherwise, you know, not admirable in others, but in ourselves when we're in the grip of them, we don't have the perspective on it.",
+    "uid": "5cf445c232703678",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1181.0,
+    "end": 1192.0
+  },
+  {
+    "text": "I mean, this is a good thing.",
+    "uid": "80f2bccd31262082",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1192.0,
+    "end": 1194.0
+  },
+  {
+    "text": "It takes us kind of far field, but to be boastful or to be name dropping.",
+    "uid": "2902ff298e09bae8",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1194.0,
+    "end": 1199.0
+  },
+  {
+    "text": "From the outside, we always notice what is wrong with it, but from the inside, people tend not to notice what is wrong with it.",
+    "uid": "b3eb41bbac6e4b57",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1199.0,
+    "end": 1207.0
+  },
+  {
+    "text": "And so I think that the move of triangulation is quite useful.",
+    "uid": "a38d6ccd3b2aacfd",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1207.0,
+    "end": 1212.0
+  },
+  {
+    "text": "This idea is integral to Greek philosophy, actually, you know, it's in Plato's dialogues, it's integral to stoicism.",
+    "uid": "fe9de7cf5a2e37ba",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1212.0,
+    "end": 1221.0
+  },
+  {
+    "text": "The Gaelan, Marcus A release his physician, has a book called on the diagnosis and cure of the soul's passions.",
+    "uid": "5372556d262ae378",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1221.0,
+    "end": 1229.0
+  },
+  {
+    "text": "So cure on psychology and psychotherapy, where he talks precisely about the problem of this blind spot.",
+    "uid": "dba64f4589b9507e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1229.0,
+    "end": 1235.0
+  },
+  {
+    "text": "And he describes it using one of his up's fables.",
+    "uid": "ad0b88af9c3ad827",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1235.0,
+    "end": 1238.0
+  },
+  {
+    "text": "His up said we're all born with two sacks hanging around on neck.",
+    "uid": "4113f96f7103b405",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1238.0,
+    "end": 1242.0
+  },
+  {
+    "text": "There's a big one that hangs in front of our chest and we can see it everywhere we go, and it contains everybody else's flaws.",
+    "uid": "5ff0a698b3aa3711",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1242.0,
+    "end": 1248.0
+  },
+  {
+    "text": "And then there's a little one that hangs behind the back of our neck that we can never see because there's an our blind spot.",
+    "uid": "d546d33420798de0",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1248.0,
+    "end": 1254.0
+  },
+  {
+    "text": "But everyone else can see it really clearly, and it contains our own flaws.",
+    "uid": "d91033865d870ece",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1254.0,
+    "end": 1258.0
+  },
+  {
+    "text": "So they have a really neat little kind of illustration of this problem and you're right that these kind of perspectives shifting exercises are one way of trying to kind of get outside of that blind spot.",
+    "uid": "f5248ace1d207ec9",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1258.0,
+    "end": 1273.0
+  },
+  {
+    "text": "But the story is also thought that it was important to have a mentor, a teacher, an engaging dialogue with another living human being.",
+    "uid": "8a6c17ac48f2bd47",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1273.0,
+    "end": 1281.0
+  },
+  {
+    "text": "They seem to think that was when a gail in is pretty clear about that he says find an older, wise or mentor, someone that you can be completely transparent with.",
+    "uid": "5c2dcd294a0c6bfb",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1281.0,
+    "end": 1289.0
+  },
+  {
+    "text": "And that's one way of learning to transcend this blind spot because they'll give you an outside perspective, I guess I can.",
+    "uid": "be87b840b070a5d7",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1289.0,
+    "end": 1296.0
+  },
+  {
+    "text": "Councillor or psychotherapist might help people gain perspective today.",
+    "uid": "d72ea7e04d14b5e9",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1296.0,
+    "end": 1300.0
+  },
+  {
+    "text": "Yeah, so I cut you off, you're on to a next method to deal with all the nails me.",
+    "uid": "12a54622bd0e86a9",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1300.0,
+    "end": 1306.0
+  },
+  {
+    "text": "Yeah, we're looking bit doesn't with as bunch of solutions that you know that's a good thing we've got a co-box of tracks.",
+    "uid": "0bd7d46a81d3718e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1306.0,
+    "end": 1311.0
+  },
+  {
+    "text": "So another one, I mean one might just be too repeat what everything he says which is you know it's not these other people.",
+    "uid": "a825180fc59fca59",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1311.0,
+    "end": 1318.0
+  },
+  {
+    "text": "And I'm a havent you're on.",
+    "uid": "4478ea868f8d1b6d",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1318.0,
+    "end": 1320.0
+  },
+  {
+    "text": "If you'd like to continue listening to this conversation, you'll need to subscribe at SamHarris.org.",
+    "uid": "9f80fe6dfa6a1c62",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1320.0,
+    "end": 1326.0
+  },
+  {
+    "text": "Once you do, you'll get access to all full length episodes of the Making Sense Podcast.",
+    "uid": "70cbd52c4f274c03",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1326.0,
+    "end": 1331.0
+  },
+  {
+    "text": "The Making Sense Podcast is ad-free and relies entirely on listener support.",
+    "uid": "4ff047974a84959e",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1331.0,
+    "end": 1336.0
+  },
+  {
+    "text": "And you can subscribe now at SamHarris.org.",
+    "uid": "83fb0cc213c28c95",
+    "source": "Sam_Harris - Stoicism_and_the_Good_Life_Sam_Harris_Donald_Robertson_Making_Sense",
+    "start": 1336.0,
+    "end": 1339.0
+  }
+]
