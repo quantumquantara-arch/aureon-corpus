@@ -1,0 +1,2382 @@
+[
+  {
+    "text": "Hey, I'm Jad Abumron. I'm Robert Crowwich.",
+    "uid": "49f69bbc1f40c239",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 0.27,
+    "end": 2.69
+  },
+  {
+    "text": "Today on Radio Lab?",
+    "uid": "79808f9bbb236bac",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 2.69,
+    "end": 4.17
+  },
+  {
+    "text": "In the story we just heard, we were wrestling with a very difficult question.",
+    "uid": "2c93ba4fd0b9486b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 5.67,
+    "end": 10.17
+  },
+  {
+    "text": "When somebody has a brain injury and then commits a crime,",
+    "uid": "9628e830315b7430",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 10.17,
+    "end": 12.97
+  },
+  {
+    "text": "just how much do we blame them and how much do we blame the brain?",
+    "uid": "58bc113d4c14f4f9",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 12.97,
+    "end": 17.07
+  },
+  {
+    "text": "Yeah. And it turns out this question? Hi.",
+    "uid": "4a6a59c22348ad4e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 17.07,
+    "end": 19.27
+  },
+  {
+    "text": "Hi, this is Jad. Hi, Chad. It's Nita.",
+    "uid": "d7a17450fd0f375d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 19.27,
+    "end": 21.27
+  },
+  {
+    "text": "That question is popping up more and more in court cases,",
+    "uid": "3cf9387729b88266",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 21.27,
+    "end": 24.47
+  },
+  {
+    "text": "where increasingly you will find defendants like heaven, arguing.",
+    "uid": "b3d68c795a6eb486",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 24.47,
+    "end": 27.57
+  },
+  {
+    "text": "Okay, you've convicted me of a crime,",
+    "uid": "9194f6dacfc7e165",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 27.57,
+    "end": 30.07
+  },
+  {
+    "text": "but you should go easier on me because I have these neurological problems.",
+    "uid": "92c6819146c921c7",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 30.07,
+    "end": 34.07
+  },
+  {
+    "text": "So this is Nita Ferrahaani.",
+    "uid": "57ebee70a8ae3b72",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 34.07,
+    "end": 35.37
+  },
+  {
+    "text": "Professor of Law and Philosophy and Professor of Genome Science is in Policy at Duke University.",
+    "uid": "82e25e202bcecaea",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 35.37,
+    "end": 40.37
+  },
+  {
+    "text": "She's been following this whole sort of emerging field of neuroloph,",
+    "uid": "c30aea0276c46fae",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 40.37,
+    "end": 44.57
+  },
+  {
+    "text": "for quite a while and back in 2006, it occurred to her.",
+    "uid": "55dce8a0ccf2d02c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 44.57,
+    "end": 47.57
+  },
+  {
+    "text": "Okay, lots of people are interested in this field, but nobody has any good data.",
+    "uid": "132bf3d9e6f758ee",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 47.57,
+    "end": 51.07
+  },
+  {
+    "text": "So I started counting cases for try to see.",
+    "uid": "0c3663c45f7f3bed",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 51.07,
+    "end": 55.57
+  },
+  {
+    "text": "To try to see how many times does brain science come up in court.",
+    "uid": "e2d19d974e52822f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 55.57,
+    "end": 59.07
+  },
+  {
+    "text": "Now, the only data that she'd get her hands on were written opinions,",
+    "uid": "464f3e4488b27527",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 59.07,
+    "end": 62.57
+  },
+  {
+    "text": "which turns out doesn't happen that often, like,",
+    "uid": "737a8dc4134804ec",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 62.57,
+    "end": 65.07
+  },
+  {
+    "text": "really only happens in like 1% of court cases.",
+    "uid": "3873311fa981437a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 65.07,
+    "end": 67.57
+  },
+  {
+    "text": "But in that 1% of cases, she saw a study increase and, you know,",
+    "uid": "efa46d89b758582f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 67.57,
+    "end": 73.57
+  },
+  {
+    "text": "relatively dramatic. You have a couple of years,",
+    "uid": "0d437239f56427fe",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 73.57,
+    "end": 76.57
+  },
+  {
+    "text": "2005 and six, it had about 100 cases,",
+    "uid": "2656a43e5208ef18",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 76.57,
+    "end": 78.57
+  },
+  {
+    "text": "2007, 8, 9, 200, some cases,",
+    "uid": "4f5fec58cf26a1af",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 78.57,
+    "end": 82.57
+  },
+  {
+    "text": "and then 11, 12, you're in the 300s.",
+    "uid": "1e7172d12b181c6f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 82.57,
+    "end": 85.57
+  },
+  {
+    "text": "Between 2000 and 5 and 2012, it's about 1600 cases.",
+    "uid": "dd05ca10ca9a99eb",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 86.57,
+    "end": 91.57
+  },
+  {
+    "text": "But 1600 cases that are kind of like the Kevin case,",
+    "uid": "779121f6da24b915",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 91.57,
+    "end": 94.57
+  },
+  {
+    "text": "where someone maybe argues, look, it's not entirely my fault.",
+    "uid": "ea21c0550baa2d4e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 94.57,
+    "end": 98.57
+  },
+  {
+    "text": "My brain made me do it.",
+    "uid": "f84ebdbb5eaaec75",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 98.57,
+    "end": 100.57
+  },
+  {
+    "text": "We split a little bit.",
+    "uid": "efec2aa4d6667cf5",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 100.57,
+    "end": 102.57
+  },
+  {
+    "text": "Yeah, and by the way, that number was just in the 1%, she had access to it.",
+    "uid": "78cdf89b345fce6a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 102.57,
+    "end": 105.57
+  },
+  {
+    "text": "So the other 99% of cases may actually have a whole lot more.",
+    "uid": "8bb4f5aaebbee2f0",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 105.57,
+    "end": 110.57
+  },
+  {
+    "text": "Wait a second. Is this a new development?",
+    "uid": "8adb96198daf95b6",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 111.57,
+    "end": 113.57
+  },
+  {
+    "text": "What do you mean?",
+    "uid": "ba4d9f81d7c6c46b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 113.57,
+    "end": 114.57
+  },
+  {
+    "text": "Like, you know, in West Side Story,",
+    "uid": "8796276b6ff6b218",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 114.57,
+    "end": 115.57
+  },
+  {
+    "text": "there's this character, an officer, crumkey, and he goes,",
+    "uid": "4dfef67945dd1533",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 115.57,
+    "end": 118.57
+  },
+  {
+    "text": "and there's these juvenile delinquents,",
+    "uid": "0a6e8aaa68ed16ff",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 118.57,
+    "end": 120.57
+  },
+  {
+    "text": "this is back in the 50s.",
+    "uid": "b1394198c7539c28",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 120.57,
+    "end": 121.57
+  },
+  {
+    "text": "And they're saying everything is someone else's fault.",
+    "uid": "4c04037c1a4213df",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 121.57,
+    "end": 124.57
+  },
+  {
+    "text": "So they have bad parents, and they have poverty,",
+    "uid": "c11c3853c1571204",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 124.57,
+    "end": 128.57
+  },
+  {
+    "text": "and they have passion, and they have youth, and they plead all these things.",
+    "uid": "1c6ceda72565794c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 128.57,
+    "end": 132.57
+  },
+  {
+    "text": "If you just added to the list,",
+    "uid": "bc7c53b55d9df09b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 132.57,
+    "end": 143.57
+  },
+  {
+    "text": "tumor, that's pretty much the same thing.",
+    "uid": "cfe9a23fb5b591b1",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 143.57,
+    "end": 146.57
+  },
+  {
+    "text": "No. There seems to be something more compelling for both judges and jurys.",
+    "uid": "c76874e41c74a294",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 148.57,
+    "end": 152.57
+  },
+  {
+    "text": "When you are able to have actual brain scans, you know,",
+    "uid": "819745b759f1f47e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 152.57,
+    "end": 155.57
+  },
+  {
+    "text": "or EEG, or whatever, because now you can say to the Toffers or Crump,",
+    "uid": "69ce28b0aeea5702",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 155.57,
+    "end": 158.57
+  },
+  {
+    "text": "we look, I know this might sound like an excuse, but check out this spot right here.",
+    "uid": "a32716f0499a0b8b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 158.57,
+    "end": 162.57
+  },
+  {
+    "text": "Here's the proof.",
+    "uid": "f28811c0e7ac0072",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 162.57,
+    "end": 164.57
+  },
+  {
+    "text": "I don't have a normal brain. You know, and I didn't choose not to have a normal brain,",
+    "uid": "7074f8b213c59818",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 164.57,
+    "end": 168.57
+  },
+  {
+    "text": "so how can it be completely my fault?",
+    "uid": "9f8711a7c419a5b0",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 168.57,
+    "end": 170.57
+  },
+  {
+    "text": "Well, I'll don't let sound a little bit like a little too easy.",
+    "uid": "87edaa31c3f48c28",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 170.57,
+    "end": 174.57
+  },
+  {
+    "text": "Maybe. I mean, I guess it depends on the specific case,",
+    "uid": "af579aa5d941109b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 174.57,
+    "end": 176.57
+  },
+  {
+    "text": "but just in the abstract, let me give you the best version that I've ever heard of this argument.",
+    "uid": "d58ab97d4a2869fe",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 176.57,
+    "end": 181.57
+  },
+  {
+    "text": "Okay. This is what, when it made me really stop and take.",
+    "uid": "0da52b0f0b5ea265",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 181.57,
+    "end": 184.57
+  },
+  {
+    "text": "It comes from the, for my psychologist, Kevin Dutton.",
+    "uid": "4470e0b40ca50342",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 184.57,
+    "end": 187.57
+  },
+  {
+    "text": "He was interviewed on the Scientific American podcast, and he gave this hypothetical.",
+    "uid": "3f9302147d9600d9",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 187.57,
+    "end": 191.57
+  },
+  {
+    "text": "Imagine if you got a deaf person, okay?",
+    "uid": "3711587d1d2ac02e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 191.57,
+    "end": 193.57
+  },
+  {
+    "text": "And you've got a child in a burning building, and you've got that child screaming out,",
+    "uid": "cef1b8e6f4a3eae0",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 193.57,
+    "end": 199.57
+  },
+  {
+    "text": "but the deaf person can't hear the screams.",
+    "uid": "a19b7d33e0b8b70a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 199.57,
+    "end": 201.57
+  },
+  {
+    "text": "So you wouldn't necessarily blame. You wouldn't hold that deaf person culpable for that child's death if the child died.",
+    "uid": "308be2db56ff340e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 201.57,
+    "end": 208.57
+  },
+  {
+    "text": "New grease over.",
+    "uid": "0739c497181a86ba",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 208.57,
+    "end": 209.57
+  },
+  {
+    "text": "By the same token, if you are emotionally deaf,",
+    "uid": "36e7f3edc4f2a92f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 210.57,
+    "end": 213.57
+  },
+  {
+    "text": "if you can physically hear the screams, but emotionally, you just don't have that kind of neural kick-up the backside",
+    "uid": "0b4dc4272a824ccf",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 213.57,
+    "end": 220.57
+  },
+  {
+    "text": "to go in and save that child. Isn't that the same thing?",
+    "uid": "47e6a2666a14dabe",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 220.57,
+    "end": 224.57
+  },
+  {
+    "text": "And when you start thinking about that, there's a whole kind of moral conundrum that starts coming out of that,",
+    "uid": "4c00bb0954e4e009",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 224.57,
+    "end": 229.57
+  },
+  {
+    "text": "because damage to the ear is damaged with physical structure.",
+    "uid": "09d2ac47ea67c9f2",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 229.57,
+    "end": 232.57
+  },
+  {
+    "text": "Damage to the brain is also damaged with physical structure.",
+    "uid": "0d12e07864228e31",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 232.57,
+    "end": 236.57
+  },
+  {
+    "text": "So here's the moral conundrum I think he's referring to.",
+    "uid": "bfe41d3d6d07cb6b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 236.57,
+    "end": 239.57
+  },
+  {
+    "text": "If we go along with this idea that we can use brain abnormalities to defend ourselves in court,",
+    "uid": "f9d23781a9dee038",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 239.57,
+    "end": 245.57
+  },
+  {
+    "text": "well that's going to lead us into some pretty weird places.",
+    "uid": "f896aa274ae0390d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 245.57,
+    "end": 248.57
+  },
+  {
+    "text": "As a society, things make it very, very complicated.",
+    "uid": "0880f20933a6e171",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 248.57,
+    "end": 252.57
+  },
+  {
+    "text": "As we learned, we got into a little tussle.",
+    "uid": "21965bc663620646",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 252.57,
+    "end": 255.57
+  },
+  {
+    "text": "With this guy.",
+    "uid": "2aa50bbd4878e788",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 256.57,
+    "end": 257.57
+  },
+  {
+    "text": "Sorry, so you put this on.",
+    "uid": "10be351a4fe9e721",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 257.57,
+    "end": 259.57
+  },
+  {
+    "text": "This is a little chilly in here.",
+    "uid": "4023c941fb3fced3",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 259.57,
+    "end": 261.57
+  },
+  {
+    "text": "This is David Eagman.",
+    "uid": "8b24f9c9294d9de0",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 261.57,
+    "end": 262.57
+  },
+  {
+    "text": "I'm a neuroscientist.",
+    "uid": "433cc9a278d64de0",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 262.57,
+    "end": 263.57
+  },
+  {
+    "text": "He's a regular on our show.",
+    "uid": "661e689f13cc2796",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 263.57,
+    "end": 265.57
+  },
+  {
+    "text": "Are you spirited?",
+    "uid": "65240cdeb1ce7539",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 265.57,
+    "end": 266.57
+  },
+  {
+    "text": "No, here's one of the most interesting parts.",
+    "uid": "6efaecfbc3690a71",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 267.57,
+    "end": 269.57
+  },
+  {
+    "text": "Here's his argument. Think about it technologically.",
+    "uid": "1bb9d59dc27dfd83",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 269.57,
+    "end": 271.57
+  },
+  {
+    "text": "At the moment, our best technologies and neuroscience are very crude.",
+    "uid": "6bf7064a19142534",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 271.57,
+    "end": 275.57
+  },
+  {
+    "text": "We can see when someone has a tumor or damage from traumatic brain injury or neurodegenerative disease,",
+    "uid": "e43bf731673455af",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 275.57,
+    "end": 282.57
+  },
+  {
+    "text": "but it is quite crude still.",
+    "uid": "6ae2980ffb51adce",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 282.57,
+    "end": 283.57
+  },
+  {
+    "text": "The way he puts it, looking for those brain abnormalities now, is sort of like being up in space.",
+    "uid": "67a62cd4797f40dd",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 283.57,
+    "end": 288.57
+  },
+  {
+    "text": "And looking down at the earth.",
+    "uid": "88c38e7689c0e330",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 288.57,
+    "end": 291.57
+  },
+  {
+    "text": "You can't really see what's going on down there, but you can see the big shapes and the colors and",
+    "uid": "918f17c8d23dd303",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 291.57,
+    "end": 295.57
+  },
+  {
+    "text": "every so often you notice something that's not supposed to be there.",
+    "uid": "f4edcd3dfa694fab",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 295.57,
+    "end": 299.57
+  },
+  {
+    "text": "Like, whoa, what is that creator of your day?",
+    "uid": "5af9771ce3c78071",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 299.57,
+    "end": 301.57
+  },
+  {
+    "text": "If you see something that's big enough to see, you take a picture,",
+    "uid": "b970b6b19d1d83db",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 301.57,
+    "end": 304.57
+  },
+  {
+    "text": "back in court, you show it to the judge, and maybe she gives the guy a break.",
+    "uid": "9ee678e7b7708897",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 304.57,
+    "end": 307.57
+  },
+  {
+    "text": "But then, say you're up there and...",
+    "uid": "922456e844463a71",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 307.57,
+    "end": 311.57
+  },
+  {
+    "text": "You don't see anything.",
+    "uid": "e89fcfec3587af4f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 311.57,
+    "end": 315.07
+  },
+  {
+    "text": "Well, then back in court, the judge is going to take a look at your apparently normal brain and say,",
+    "uid": "03119a096031adc2",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 315.07,
+    "end": 320.07
+  },
+  {
+    "text": "Well, that's your fault.",
+    "uid": "5844eb5953a85b7c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 321.07,
+    "end": 322.07
+  },
+  {
+    "text": "It's not a biological problem.",
+    "uid": "cbc8b1519dd54d5b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 322.07,
+    "end": 323.07
+  },
+  {
+    "text": "So we're just going to say, you're blameworthy.",
+    "uid": "7a10809c293f8445",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 323.07,
+    "end": 326.07
+  },
+  {
+    "text": "So that's where we are now.",
+    "uid": "1cfc518aa3c32d67",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 326.07,
+    "end": 327.07
+  },
+  {
+    "text": "We draw the line at what we can see and what we can see is only the big stuff.",
+    "uid": "cf8e45a7a4e2ef8b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 327.07,
+    "end": 332.07
+  },
+  {
+    "text": "But he says, imagine forward.",
+    "uid": "8c58accd7b7a5950",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 332.07,
+    "end": 334.07
+  },
+  {
+    "text": "We'll have new technologies.",
+    "uid": "2d0346314ed7053a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 334.07,
+    "end": 335.07
+  },
+  {
+    "text": "We'll have XMR ions that FMI.",
+    "uid": "279c6266f9681fd5",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 335.07,
+    "end": 337.07
+  },
+  {
+    "text": "And suddenly it's going to be like Google Maps, where instead of being up in space, you can...",
+    "uid": "de99594d95db79ba",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 337.07,
+    "end": 342.07
+  },
+  {
+    "text": "You can zoom in and now you can see everything.",
+    "uid": "8f880ceaefc919ff",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 342.07,
+    "end": 345.07
+  },
+  {
+    "text": "We'll have new names for disorders of the microcircuitary and so on.",
+    "uid": "c4797705c71f307d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 345.07,
+    "end": 349.07
+  },
+  {
+    "text": "We'll certainly never get all the way to the end.",
+    "uid": "5340ae823e2fd972",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 349.07,
+    "end": 352.07
+  },
+  {
+    "text": "But one day, we may be able to say, like, see that little bit of mangled wiring right over there.",
+    "uid": "ad51522b8b9ec92f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 352.07,
+    "end": 357.07
+  },
+  {
+    "text": "That is because his mom didn't love him enough.",
+    "uid": "074168562834b20d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 357.07,
+    "end": 359.07
+  },
+  {
+    "text": "Maybe he got bullied.",
+    "uid": "8d0b1005bbedf87b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 359.07,
+    "end": 360.07
+  },
+  {
+    "text": "Like, we'll be able to see all that stuff almost as well as we can see brain tumors now.",
+    "uid": "b31c4f0f797483b1",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 360.07,
+    "end": 365.07
+  },
+  {
+    "text": "Because there is nothing special about brain tumors except for their visibility.",
+    "uid": "1a5c13d0401d370b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 365.07,
+    "end": 369.07
+  },
+  {
+    "text": "Really what he's saying when you get down to it?",
+    "uid": "86110dd793193af0",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 369.07,
+    "end": 370.07
+  },
+  {
+    "text": "His core belief is that you are your biology.",
+    "uid": "b3f89e74824f8af6",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 370.07,
+    "end": 375.07
+  },
+  {
+    "text": "Which is on some level, kind of like whatever it does.",
+    "uid": "31a49dce0413bcf5",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 375.07,
+    "end": 377.07
+  },
+  {
+    "text": "But he takes it much farther.",
+    "uid": "6127acfef38818ed",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 377.07,
+    "end": 378.07
+  },
+  {
+    "text": "He says that almost everything that you go through in your life.",
+    "uid": "df4bac95d878baba",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 378.07,
+    "end": 381.07
+  },
+  {
+    "text": "All of your experiences, your culture, your history, your neighborhood, all of it.",
+    "uid": "052d1d3709576151",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 381.07,
+    "end": 384.07
+  },
+  {
+    "text": "Is etched into the tissue of your brain.",
+    "uid": "fe66ceb60d71254a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 384.07,
+    "end": 386.07
+  },
+  {
+    "text": "Right? There's nothing separate.",
+    "uid": "bd8ac250ffefda0e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 386.07,
+    "end": 387.07
+  },
+  {
+    "text": "They cart famously suggest that you've got the body, the physical stuff.",
+    "uid": "a80b880bf2e139ca",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 388.07,
+    "end": 391.07
+  },
+  {
+    "text": "And then you've got this extra bit, the soul, the ghost and the machine.",
+    "uid": "3f775d77947b044b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 391.07,
+    "end": 395.07
+  },
+  {
+    "text": "But sort of the inside word on that neuroscience is that,",
+    "uid": "0042e15440edbe2b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 395.07,
+    "end": 400.64
+  },
+  {
+    "text": "No, no, no.",
+    "uid": "f47c27b534e9d47f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 400.64,
+    "end": 401.64
+  },
+  {
+    "text": "It's all the same thing.",
+    "uid": "68eeb630d1d96cfe",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 401.64,
+    "end": 403.64
+  },
+  {
+    "text": "And now that we're beginning to see that, he says,",
+    "uid": "bc9ee6c119e01e89",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 403.64,
+    "end": 406.64
+  },
+  {
+    "text": "Actually, see it.",
+    "uid": "a1b442cbc07dd625",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 406.64,
+    "end": 408.64
+  },
+  {
+    "text": "We are on a slippery slope.",
+    "uid": "84795fa5968efadb",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 408.64,
+    "end": 409.64
+  },
+  {
+    "text": "Because if you start letting people off the hook when you see a tumor,",
+    "uid": "dc71314393610e26",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 409.64,
+    "end": 412.64
+  },
+  {
+    "text": "Well, then you're going to have to keep letting them off the hook when you see something smaller.",
+    "uid": "1e0019cba1c6460c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 412.64,
+    "end": 415.64
+  },
+  {
+    "text": "Or smaller still?",
+    "uid": "726e8176f201b27c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 417.64,
+    "end": 418.64
+  },
+  {
+    "text": "The point is, it cannot be a just legal system that in one decade says,",
+    "uid": "9b01263fcc6b8dca",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 418.64,
+    "end": 424.64
+  },
+  {
+    "text": "Well, you're blameworthy.",
+    "uid": "808267808bc0e27a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 424.64,
+    "end": 426.64
+  },
+  {
+    "text": "Because for the moment, we can't see anything in your brain.",
+    "uid": "c149037f0028cfe2",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 426.64,
+    "end": 428.64
+  },
+  {
+    "text": "And then the next decade says, Oh, you have Schmedley's disease.",
+    "uid": "10c83e5c6254893f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 428.64,
+    "end": 431.64
+  },
+  {
+    "text": "Hey, we can see it now.",
+    "uid": "7c5b925cd68409b1",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 431.64,
+    "end": 432.64
+  },
+  {
+    "text": "And we didn't realize that.",
+    "uid": "c8555c83b3515be7",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 432.64,
+    "end": 433.64
+  },
+  {
+    "text": "So now you were lumping you over here with the people with the brain tumors.",
+    "uid": "ab3a31ed02cd2533",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 433.64,
+    "end": 436.64
+  },
+  {
+    "text": "So they wanted to let everybody off the hook.",
+    "uid": "5822994a21fc90e2",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 436.64,
+    "end": 439.64
+  },
+  {
+    "text": "You know, blameworthiness is the wrong question for a legal system to ask.",
+    "uid": "bebbfc1dfab00b9a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 439.64,
+    "end": 444.64
+  },
+  {
+    "text": "That's the point is that this whole notion about blameworthiness and saying,",
+    "uid": "d936d9f2e4fb9381",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 444.64,
+    "end": 447.64
+  },
+  {
+    "text": "Okay, if we have a biological mitigator, then we'll bring that up and court and we'll say,",
+    "uid": "31013093c6c985e9",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 447.64,
+    "end": 452.64
+  },
+  {
+    "text": "Well, it's not exactly his fault.",
+    "uid": "a97779ae7691b923",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 452.64,
+    "end": 453.64
+  },
+  {
+    "text": "And if we don't have a biological mitigator, we'll say it is his fault.",
+    "uid": "e6b1f10d48a3b5f7",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 453.64,
+    "end": 456.64
+  },
+  {
+    "text": "The reason none of this makes sense nowadays is because saying,",
+    "uid": "100fc32e08d150a6",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 456.64,
+    "end": 460.64
+  },
+  {
+    "text": "Was it the person's fault or was it something about his biology?",
+    "uid": "5aa856454a4aa33d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 460.64,
+    "end": 464.64
+  },
+  {
+    "text": "Doesn't make sense as a question.",
+    "uid": "9c912059a88620a9",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 464.64,
+    "end": 467.64
+  },
+  {
+    "text": "They are inseparable.",
+    "uid": "cb7d24b981f182e8",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 467.64,
+    "end": 468.64
+  },
+  {
+    "text": "I have a version of that question.",
+    "uid": "31bd142120e4135e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 468.64,
+    "end": 470.64
+  },
+  {
+    "text": "How about everybody should know that his brain isn't completely normal in this regard.",
+    "uid": "7dd198accdafc615",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 470.64,
+    "end": 475.64
+  },
+  {
+    "text": "And now the question is proportion.",
+    "uid": "85a74cd8bbd1a5af",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 475.64,
+    "end": 477.64
+  },
+  {
+    "text": "How much do you want to put on the brain and how much do you want to put on his...",
+    "uid": "3510dc56c1429c6f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 477.64,
+    "end": 482.64
+  },
+  {
+    "text": "What else is there?",
+    "uid": "48a965fcc15e8510",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 482.64,
+    "end": 483.64
+  },
+  {
+    "text": "Behavior, which comes from the brain.",
+    "uid": "17f01ceedb97f0b5",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 483.64,
+    "end": 486.64
+  },
+  {
+    "text": "Which is a ability to choose from the brain is choosey part of his brain as opposed to his unchoosey part.",
+    "uid": "bb52654ff53e85bf",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 486.64,
+    "end": 491.64
+  },
+  {
+    "text": "I don't care.",
+    "uid": "f769a87a266bd534",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 493.64,
+    "end": 494.64
+  },
+  {
+    "text": "You're forcing me.",
+    "uid": "04b155ce83835634",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 494.64,
+    "end": 495.64
+  },
+  {
+    "text": "I'm glad you're phrasing it this way because that's exactly the problem with our intuitions.",
+    "uid": "05edd4afdf3842b8",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 495.64,
+    "end": 499.64
+  },
+  {
+    "text": "We have this intuition that, yeah, you're brain might look like this.",
+    "uid": "18a9f9e96f275522",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 499.64,
+    "end": 501.64
+  },
+  {
+    "text": "You have these genes, you have these experiences that makes your biology like this.",
+    "uid": "78e9f1d11579ec34",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 501.64,
+    "end": 504.64
+  },
+  {
+    "text": "Oh, but in the end, that doesn't matter.",
+    "uid": "fc9aac3e1afbfded",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 504.64,
+    "end": 506.64
+  },
+  {
+    "text": "Because you've got this other thing that's independent of the biology.",
+    "uid": "1e185f6449363c78",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 506.64,
+    "end": 511.64
+  },
+  {
+    "text": "But we don't.",
+    "uid": "42491f295943ab17",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 511.64,
+    "end": 512.64
+  },
+  {
+    "text": "You are your brain.",
+    "uid": "4d448947ec215333",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 512.64,
+    "end": 513.64
+  },
+  {
+    "text": "You're brain, however, nevertheless,",
+    "uid": "17effbc493dc425c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 513.64,
+    "end": 515.64
+  },
+  {
+    "text": "helps you decide things.",
+    "uid": "4b7b24ef031781d5",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 515.64,
+    "end": 518.64
+  },
+  {
+    "text": "Brains, help you choose.",
+    "uid": "021f824890c2c4c3",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 518.64,
+    "end": 519.64
+  },
+  {
+    "text": "So the question is, do you want to see that they're helping?",
+    "uid": "4391459fd1eca4b6",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 519.64,
+    "end": 521.64
+  },
+  {
+    "text": "Who's the, your helping, the bearer of the brain, owner of the brain?",
+    "uid": "785685d8382e1f8a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 521.64,
+    "end": 525.64
+  },
+  {
+    "text": "The, the, the, the, the, the, the, the, the.",
+    "uid": "b99eaaa617355875",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 525.64,
+    "end": 526.64
+  },
+  {
+    "text": "And that separate from the brain.",
+    "uid": "ab729d85204e8c9c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 526.64,
+    "end": 527.64
+  },
+  {
+    "text": "Oh, I do keep doing this.",
+    "uid": "69f0ea8ee3484412",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 527.64,
+    "end": 529.64
+  },
+  {
+    "text": "I know that if I have a touchy role in front of me in an M and M, I can choose the M and M.",
+    "uid": "d28e9609d29953df",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 529.64,
+    "end": 534.64
+  },
+  {
+    "text": "So I assume my brain is doing something.",
+    "uid": "d751370ad63f4e32",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 534.64,
+    "end": 536.64
+  },
+  {
+    "text": "And the question I want to.",
+    "uid": "ed782432ecd041f9",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 536.64,
+    "end": 537.64
+  },
+  {
+    "text": "How much am I choosing?",
+    "uid": "13978e5bb4291265",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 537.64,
+    "end": 538.64
+  },
+  {
+    "text": "And how much am I really outside of choosing because something irregular in my brain is choosing for me.",
+    "uid": "2aecf34cda2958a8",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 538.64,
+    "end": 544.64
+  },
+  {
+    "text": "And that seems to me to be a way to do this.",
+    "uid": "ddba9307563e5559",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 544.64,
+    "end": 546.72
+  },
+  {
+    "text": "So this is fascinating, because the way you're phrasing it suggests that there's you,",
+    "uid": "b5c9b7ede52f42b2",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 546.72,
+    "end": 553.16
+  },
+  {
+    "text": "and then there's your brain, and there's things in your brain that might be telling you what",
+    "uid": "0b53d0088f86eeac",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 553.16,
+    "end": 557.6
+  },
+  {
+    "text": "you don't want to do, but it's all one system is the thing.",
+    "uid": "c32bed78ab0f2f57",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 557.6,
+    "end": 560.72
+  },
+  {
+    "text": "So when you're faced with the Tutsi roll versus the whatever else.",
+    "uid": "d0056267747ddd04",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 560.72,
+    "end": 563.96
+  },
+  {
+    "text": "And I'm, I'm, I'm.",
+    "uid": "59e7eee129e6fcdd",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 563.96,
+    "end": 565.2
+  },
+  {
+    "text": "Every thing in your life leading up to that moment from your genetic history, written on",
+    "uid": "7d6958f7c818c406",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 565.2,
+    "end": 569.84
+  },
+  {
+    "text": "and visibly small strands of nucleic acids all the way up to every experience you've ever",
+    "uid": "67e78b28010d12df",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 569.84,
+    "end": 573.76
+  },
+  {
+    "text": "had leads to that choice.",
+    "uid": "f87a6f7e7d5edec4",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 573.76,
+    "end": 575.34
+  },
+  {
+    "text": "What would it even mean to make a choice completely independent of your brain?",
+    "uid": "dd51174d3055d3cc",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 575.34,
+    "end": 579.92
+  },
+  {
+    "text": "Okay, we, I, it like, let me, let me.",
+    "uid": "4186866fecfbb9bb",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 579.92,
+    "end": 583.04
+  },
+  {
+    "text": "Let me, let me, let me, let me, Let me, let me, let me, let me, let me go.",
+    "uid": "4c2e9684beb0108a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 583.04,
+    "end": 586.08
+  },
+  {
+    "text": "What about like the ten commandments?",
+    "uid": "4eee1598ee1ba2ca",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 586.08,
+    "end": 587.64
+  },
+  {
+    "text": "Those are like the, those are like those are okay.",
+    "uid": "56d79a60704186e7",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 587.64,
+    "end": 589.36
+  },
+  {
+    "text": "I'm just gonna jump for a second.",
+    "uid": "3f99b92ff145c6d0",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 589.36,
+    "end": 590.96
+  },
+  {
+    "text": "At this point, things kinda slid off the rails.",
+    "uid": "d2c9cf74d0393d03",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 590.96,
+    "end": 593.52
+  },
+  {
+    "text": "We know what I'm talking about.",
+    "uid": "99d82c975f3cd72d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 593.52,
+    "end": 594.52
+  },
+  {
+    "text": "The ten commandments.",
+    "uid": "541a3c0b00e40ee7",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 594.52,
+    "end": 595.52
+  },
+  {
+    "text": "Dating the question of free will.",
+    "uid": "a5ecf5311988d3da",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 595.52,
+    "end": 596.68
+  },
+  {
+    "text": "If free will exists at all.",
+    "uid": "f88bf28837f88bb9",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 596.68,
+    "end": 598.28
+  },
+  {
+    "text": "It's a really small part of this system.",
+    "uid": "9938fec92576b6dc",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 598.28,
+    "end": 600.42
+  },
+  {
+    "text": "about whether you can overcome your upbringing,",
+    "uid": "dcc3bb4be1bac266",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 601.42,
+    "end": 603.4
+  },
+  {
+    "text": "which obviously you can.",
+    "uid": "d7e69c61d265e02c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 603.4,
+    "end": 604.24
+  },
+  {
+    "text": "Oh gosh, no, you can't.",
+    "uid": "3d7fe207328f4dba",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 604.24,
+    "end": 605.38
+  },
+  {
+    "text": "Sure you can.",
+    "uid": "097153f2db838ee8",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 605.38,
+    "end": 606.22
+  },
+  {
+    "text": "No, you can't.",
+    "uid": "55de2f4d904d536b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 606.22,
+    "end": 607.06
+  },
+  {
+    "text": "I can go to the library and I can't.",
+    "uid": "e05169e59db1612b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 607.06,
+    "end": 608.78
+  },
+  {
+    "text": "Don't we have to make sure that type of person?",
+    "uid": "c2e6a75a22de623c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 608.78,
+    "end": 610.38
+  },
+  {
+    "text": "Anyhow, after an hour, we finally got back",
+    "uid": "6c5ed122ee1996be",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 610.38,
+    "end": 612.66
+  },
+  {
+    "text": "around a David's main point, which is that the legal system",
+    "uid": "f38e737d7eeaee6e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 612.66,
+    "end": 616.06
+  },
+  {
+    "text": "would be a hell of a lot better off, he says.",
+    "uid": "8d4182cdb1d4954f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 616.06,
+    "end": 618.62
+  },
+  {
+    "text": "If we forgot about blame altogether, forget if it's someone's fault,",
+    "uid": "6006ba6f9a46460d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 618.62,
+    "end": 622.62
+  },
+  {
+    "text": "that's a dead end he would say.",
+    "uid": "467eb0a183d3bbf5",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 622.62,
+    "end": 624.86
+  },
+  {
+    "text": "The better way to do it he thinks is to focus on this.",
+    "uid": "68f0eae0486bd324",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 624.86,
+    "end": 629.14
+  },
+  {
+    "text": "Probability of future recitivism.",
+    "uid": "0d51ea84efa8c53e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 629.14,
+    "end": 633.26
+  },
+  {
+    "text": "You mean like, will they do it again?",
+    "uid": "7333a1c709fcd9f9",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 633.26,
+    "end": 634.86
+  },
+  {
+    "text": "That's right, that's exactly it.",
+    "uid": "499858c9834cb7a0",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 634.86,
+    "end": 636.58
+  },
+  {
+    "text": "How would you ever know?",
+    "uid": "495ee190ac0543ab",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 636.58,
+    "end": 637.7
+  },
+  {
+    "text": "You crunch the numbers.",
+    "uid": "f374fe4cbc24b376",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 639.14,
+    "end": 642.32
+  },
+  {
+    "text": "So this has already happened in the world of sex offenders,",
+    "uid": "d09665de047689fd",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 642.32,
+    "end": 644.4
+  },
+  {
+    "text": "where there have been long-term studies following out.",
+    "uid": "369628f2db296239",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 644.4,
+    "end": 647.96
+  },
+  {
+    "text": "Here's the way it already works, he says, which he thinks is model.",
+    "uid": "4c242526a042db3c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 647.96,
+    "end": 650.4
+  },
+  {
+    "text": "When a sex offender comes up for parole,",
+    "uid": "eea48fdbe99f2a9e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 650.4,
+    "end": 652.92
+  },
+  {
+    "text": "somewhere at the corrections office will grab their record",
+    "uid": "2c8ce198e959c75c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 652.92,
+    "end": 655.28
+  },
+  {
+    "text": "and ask a bunch of questions.",
+    "uid": "69ac6e27bd06a05e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 655.28,
+    "end": 656.48
+  },
+  {
+    "text": "What was the victim choice?",
+    "uid": "5f786d0b32a94b80",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 656.48,
+    "end": 657.64
+  },
+  {
+    "text": "Was it somebody they knew or was it somebody outside of their family?",
+    "uid": "09e352b0db99d1ea",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 657.64,
+    "end": 660.2
+  },
+  {
+    "text": "Was it a minor?",
+    "uid": "30159c4d0f3bd185",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 660.2,
+    "end": 662.24
+  },
+  {
+    "text": "Was it victim male or female?",
+    "uid": "b81016425933f112",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 662.24,
+    "end": 663.72
+  },
+  {
+    "text": "Was it somebody their age?",
+    "uid": "b058d7ffbb32cd19",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 663.72,
+    "end": 664.76
+  },
+  {
+    "text": "What was the crime type?",
+    "uid": "35259a2f86b0e00a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 664.76,
+    "end": 666.04
+  },
+  {
+    "text": "All these different questions.",
+    "uid": "461b4e1d7df418f6",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 666.04,
+    "end": 667.04
+  },
+  {
+    "text": "Then the evaluator will take some of the answers",
+    "uid": "f3b8ce1ca02d4dc9",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 667.04,
+    "end": 669.28
+  },
+  {
+    "text": "and give them points.",
+    "uid": "2c9c3a6a4eeb954f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 669.28,
+    "end": 670.36
+  },
+  {
+    "text": "Three, zero, two, one.",
+    "uid": "6855cfc63ad54028",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 670.36,
+    "end": 672.56
+  },
+  {
+    "text": "That psychologist Amy Phoenix, she says,",
+    "uid": "8963aa50b4fc5003",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 672.56,
+    "end": 674.48
+  },
+  {
+    "text": "researchers developed this point system based on years of studies",
+    "uid": "ad466e7dafb56301",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 674.48,
+    "end": 677.36
+  },
+  {
+    "text": "of criminal behavior, massive amount to data.",
+    "uid": "d8d9c1afe8181668",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 677.36,
+    "end": 679.84
+  },
+  {
+    "text": "And once you have all these points,",
+    "uid": "df19461f188b82de",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 679.84,
+    "end": 681.36
+  },
+  {
+    "text": "you can add up a total score.",
+    "uid": "77d5a23a401392fd",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 681.36,
+    "end": 683.76
+  },
+  {
+    "text": "And that score is supposed to tell you,",
+    "uid": "6d8012377a87e38b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 683.76,
+    "end": 685.12
+  },
+  {
+    "text": "is this guy likely to do it again or not?",
+    "uid": "0aa1564328fc79f2",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 685.12,
+    "end": 687.92
+  },
+  {
+    "text": "And here's the bottom line.",
+    "uid": "687d1c356a19e94f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 687.92,
+    "end": 689.24
+  },
+  {
+    "text": "Amy says, if you were to ask a parole officer,",
+    "uid": "ddca81938cca2dfd",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 689.24,
+    "end": 692.0
+  },
+  {
+    "text": "with decades of experience to just use their gut, no numbers,",
+    "uid": "0aed03a628b321d3",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 692.0,
+    "end": 695.56
+  },
+  {
+    "text": "we call that unguided clinical judgment.",
+    "uid": "2461fb181c269195",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 695.56,
+    "end": 697.76
+  },
+  {
+    "text": "If you were to ask them for their unguided,",
+    "uid": "99bc6677ddb4648a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 697.76,
+    "end": 699.32
+  },
+  {
+    "text": "but expert clinical judgment,",
+    "uid": "3ec152b498caf188",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 699.32,
+    "end": 701.04
+  },
+  {
+    "text": "we'll Fred here, recidivator not.",
+    "uid": "e6b30624c7f4d4af",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 701.04,
+    "end": 703.16
+  },
+  {
+    "text": "What's your prediction?",
+    "uid": "87cc07776aede2a1",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 703.16,
+    "end": 704.12
+  },
+  {
+    "text": "According to studies, those experts are correct",
+    "uid": "62f7bb66a3f40068",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 704.12,
+    "end": 706.6
+  },
+  {
+    "text": "about 50% of the time.",
+    "uid": "cb54913648e46c68",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 706.6,
+    "end": 708.96
+  },
+  {
+    "text": "So you may as well flip a coin.",
+    "uid": "93d79d5197288acc",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 708.96,
+    "end": 711.24
+  },
+  {
+    "text": "On the other hand, she says,",
+    "uid": "d8d23c0fea4da1d4",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 711.24,
+    "end": 712.2
+  },
+  {
+    "text": "if you have people just use the point system,",
+    "uid": "458e4bdf2cddbac9",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 712.2,
+    "end": 714.64
+  },
+  {
+    "text": "no gut involved, the predictive accuracy would be about 70%.",
+    "uid": "7767804f45a23c5c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 714.64,
+    "end": 718.84
+  },
+  {
+    "text": "No humans involved.",
+    "uid": "5da3d0bd5a5521e0",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 720.52,
+    "end": 722.36
+  },
+  {
+    "text": "But you just think that sort of gives me pause,",
+    "uid": "ddee4bec32a261f2",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 723.36,
+    "end": 726.2
+  },
+  {
+    "text": "like, in order to get that accurate,",
+    "uid": "80b075eb240f6f3e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 726.2,
+    "end": 728.68
+  },
+  {
+    "text": "you kind of have to turn people into data, you know?",
+    "uid": "84b3a75a5e26cb9a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 728.68,
+    "end": 732.64
+  },
+  {
+    "text": "I know it seems like, oh, where's the humanity in that?",
+    "uid": "c2c3cd578b7df433",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 733.76,
+    "end": 736.92
+  },
+  {
+    "text": "But the question we have to ask is, compared to what?",
+    "uid": "5412d495152580ba",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 736.92,
+    "end": 740.76
+  },
+  {
+    "text": "So the way it currently goes, ugly people get much longer sentences",
+    "uid": "9c9acafc18ae4629",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 740.76,
+    "end": 744.88
+  },
+  {
+    "text": "than attractive people in courts.",
+    "uid": "9d9716823f0aac8a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 744.88,
+    "end": 746.48
+  },
+  {
+    "text": "This is a well-known bias from Jürgen.",
+    "uid": "84d68f400d67fb8e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 746.48,
+    "end": 749.24
+  },
+  {
+    "text": "Is that somehow better than having a scientifically informed",
+    "uid": "150d8f2364aab527",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 749.24,
+    "end": 753.52
+  },
+  {
+    "text": "I have no response to that.",
+    "uid": "9c2837934d904bcc",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 757.26,
+    "end": 758.34
+  },
+  {
+    "text": "I have it.",
+    "uid": "53990425f4053589",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 758.34,
+    "end": 759.18
+  },
+  {
+    "text": "But a lot of it will.",
+    "uid": "61a23364dbe87dd4",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 761.18,
+    "end": 762.38
+  },
+  {
+    "text": "Yes, it's okay that pretty people get better sentences",
+    "uid": "c610ae6bd3f1e7bf",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 766.86,
+    "end": 771.7
+  },
+  {
+    "text": "than ugly people.",
+    "uid": "a83e42edd41ec40d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 771.7,
+    "end": 772.74
+  },
+  {
+    "text": "Because, I don't know, I'm going out of the limousine.",
+    "uid": "f9ca355b172ed73b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 773.58,
+    "end": 774.94
+  },
+  {
+    "text": "What happens when I finish this in?",
+    "uid": "de829e5d910555ef",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 774.94,
+    "end": 776.22
+  },
+  {
+    "text": "But because what we're describing here is humans judging humans,",
+    "uid": "c31af3d7c4da6e41",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 777.06,
+    "end": 783.94
+  },
+  {
+    "text": "not tables, judging humans, not data, judging humans,",
+    "uid": "9561ad7ff1f2162f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 783.94,
+    "end": 787.1
+  },
+  {
+    "text": "but humans judging humans.",
+    "uid": "d1f41870f1adb068",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 787.1,
+    "end": 788.38
+  },
+  {
+    "text": "So you went to do that with certain amount of humanness",
+    "uid": "4faa7e29ec1ed4d6",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 788.38,
+    "end": 792.54
+  },
+  {
+    "text": "and maybe it's not very rational",
+    "uid": "9fbe4ac77c6a7799",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 792.54,
+    "end": 794.66
+  },
+  {
+    "text": "and maybe sometimes it's wrong-headed or unfair.",
+    "uid": "c0d0043086608312",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 794.66,
+    "end": 799.02
+  },
+  {
+    "text": "But if you take the judgment away from the humans",
+    "uid": "29caf14c86d85510",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 799.02,
+    "end": 801.82
+  },
+  {
+    "text": "and you give it to a table, then you invite a different set",
+    "uid": "5e92b9d22b0a4240",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 801.82,
+    "end": 804.98
+  },
+  {
+    "text": "Which is the chance for mercy, which is a very big part",
+    "uid": "91fa739e85d7c5cc",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 806.02,
+    "end": 809.42
+  },
+  {
+    "text": "of justice, is off the table.",
+    "uid": "fb9654b4c651b294",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 809.42,
+    "end": 812.26
+  },
+  {
+    "text": "Because statistics don't have mercy.",
+    "uid": "5c41fb402a7d0b8c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 812.26,
+    "end": 814.58
+  },
+  {
+    "text": "They just have statistics.",
+    "uid": "2f85c77ab46f078b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 814.58,
+    "end": 817.38
+  },
+  {
+    "text": "I'm nicely done.",
+    "uid": "7ea1cf09bac4b8f4",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 818.38,
+    "end": 819.86
+  },
+  {
+    "text": "Please do that.",
+    "uid": "d499fe0bdec1e29d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 820.58,
+    "end": 821.3
+  },
+  {
+    "text": "But let me say, let me say a couple of questions.",
+    "uid": "d6c3cbad63059437",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 821.3,
+    "end": 824.94
+  },
+  {
+    "text": "That is a beautiful question.",
+    "uid": "af5a97302e5d8908",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 824.94,
+    "end": 826.46
+  },
+  {
+    "text": "So the notion of we should be merciful and so on.",
+    "uid": "726e4eafee57c1c7",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 826.46,
+    "end": 829.54
+  },
+  {
+    "text": "Of course that's all true.",
+    "uid": "80bff73032e469e1",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 829.54,
+    "end": 830.74
+  },
+  {
+    "text": "But the questions are we good at it?",
+    "uid": "049e31792764856a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 830.74,
+    "end": 832.06
+  },
+  {
+    "text": "Are we good at it?",
+    "uid": "05ce3a7b43140d3b",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 832.06,
+    "end": 832.26
+  },
+  {
+    "text": "Are we good at knowing who is the right person to be merciful with?",
+    "uid": "7e38c88fdefc25c5",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 832.26,
+    "end": 835.5
+  },
+  {
+    "text": "It ends up usually being the attractive person, right?",
+    "uid": "0867e5e220836270",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 835.5,
+    "end": 837.7
+  },
+  {
+    "text": "And the person who's ugly and is missing teeth,",
+    "uid": "e01af3795b1805b5",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 837.7,
+    "end": 839.42
+  },
+  {
+    "text": "we're usually not as merciful for him.",
+    "uid": "16817adfbacc73cc",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 839.42,
+    "end": 841.22
+  },
+  {
+    "text": "I wish this were.",
+    "uid": "8894eef9d84c58c7",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 841.22,
+    "end": 842.06
+  },
+  {
+    "text": "All right, let me just throw in one more objection to this.",
+    "uid": "0ad58a48ebbddc73",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 842.06,
+    "end": 844.58
+  },
+  {
+    "text": "I mean, obviously he has a point.",
+    "uid": "c376c14f9229838f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 844.58,
+    "end": 845.74
+  },
+  {
+    "text": "I guess so.",
+    "uid": "bf579dc94abef2f6",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 845.74,
+    "end": 846.7
+  },
+  {
+    "text": "But this whole thing that he's advocating for,",
+    "uid": "2c9e2bd781c885ec",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 846.7,
+    "end": 848.34
+  },
+  {
+    "text": "and he's not the only one, of throwing out blame,",
+    "uid": "0194d8a1e0acc01a",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 848.34,
+    "end": 851.46
+  },
+  {
+    "text": "focusing instead on what someone might do.",
+    "uid": "c272aa767b47017e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 851.46,
+    "end": 854.62
+  },
+  {
+    "text": "Is that a world you would want to really live in?",
+    "uid": "cc5713308363a23d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 854.62,
+    "end": 857.38
+  },
+  {
+    "text": "Need a fair honey that Lopfresser put it this way?",
+    "uid": "9c36a7e45830bbc5",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 857.38,
+    "end": 861.02
+  },
+  {
+    "text": "Imagine you do something small.",
+    "uid": "5d03c2bf40c38cb1",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 861.02,
+    "end": 862.7
+  },
+  {
+    "text": "So if I, you know, forge a check.",
+    "uid": "f0fdf3b79a300471",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 862.7,
+    "end": 865.58
+  },
+  {
+    "text": "And in the process of arresting me and convicting me,",
+    "uid": "6c43a007c3533917",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 866.58,
+    "end": 870.66
+  },
+  {
+    "text": "maybe the courts do a brain scan.",
+    "uid": "0b6cacaa446921ea",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 870.66,
+    "end": 872.1
+  },
+  {
+    "text": "Or they do that number crunchy thing.",
+    "uid": "8d72787232ceb2b7",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 872.1,
+    "end": 873.62
+  },
+  {
+    "text": "And they determine actually she has a predilection",
+    "uid": "6feb248879527763",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 874.62,
+    "end": 877.14
+  },
+  {
+    "text": "for far more serious crimes than check forging.",
+    "uid": "f86ef014d457348d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 877.14,
+    "end": 880.34
+  },
+  {
+    "text": "I mean, she hasn't done any of those things yet,",
+    "uid": "f0c8dab2d1dd6ed6",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 880.34,
+    "end": 881.86
+  },
+  {
+    "text": "but she could rob a bank.",
+    "uid": "29981647433e5244",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 881.86,
+    "end": 883.34
+  },
+  {
+    "text": "She could commit a violent crime.",
+    "uid": "f007f676594193cc",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 883.34,
+    "end": 884.98
+  },
+  {
+    "text": "That's what the data shows.",
+    "uid": "48bdbdf604cedc97",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 884.98,
+    "end": 886.58
+  },
+  {
+    "text": "If all you're worried about is what she might do,",
+    "uid": "2d95ec5cc3174975",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 886.58,
+    "end": 888.38
+  },
+  {
+    "text": "then you can keep me in prison forever",
+    "uid": "eb8a566b45594237",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 888.38,
+    "end": 889.82
+  },
+  {
+    "text": "because what you've discovered is that I pose a real",
+    "uid": "a23ece3207e73bcb",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 889.82,
+    "end": 893.42
+  },
+  {
+    "text": "and future danger to society.",
+    "uid": "dd9e7898ec9f4049",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 893.42,
+    "end": 896.18
+  },
+  {
+    "text": "I mean, you could basically convict",
+    "uid": "ef498743f5e469f2",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 896.18,
+    "end": 897.58
+  },
+  {
+    "text": "someone of a crime that hasn't happened yet.",
+    "uid": "7679823ad8ae22a3",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 897.58,
+    "end": 900.14
+  },
+  {
+    "text": "And not only that, if you think about this whole thing",
+    "uid": "54b29490bc0497d3",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 902.02,
+    "end": 903.82
+  },
+  {
+    "text": "from a slightly higher altitude, according to Nina,",
+    "uid": "c7e99a74bb9f71d5",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 903.82,
+    "end": 906.78
+  },
+  {
+    "text": "when you blame somebody for something,",
+    "uid": "bda279d0ecfecef6",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 906.78,
+    "end": 908.18
+  },
+  {
+    "text": "there's a power to that act that goes beyond that one individual.",
+    "uid": "8994bb46fabec945",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 908.18,
+    "end": 912.26
+  },
+  {
+    "text": "There is value to society holding people morally",
+    "uid": "3bcdba63d721d21d",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 912.26,
+    "end": 916.14
+  },
+  {
+    "text": "accountable for wrongdoing.",
+    "uid": "dc8d233478e5963f",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 916.14,
+    "end": 918.02
+  },
+  {
+    "text": "You're upholding this code that is important to all of us.",
+    "uid": "f6e6abb61099bed1",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 918.02,
+    "end": 922.46
+  },
+  {
+    "text": "It's what we've lived by in clung to for thousands of years.",
+    "uid": "ab5458c47985957e",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 922.46,
+    "end": 926.66
+  },
+  {
+    "text": "So you could argue that the act of assigning blame",
+    "uid": "daaa9d58623a8f17",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 927.18,
+    "end": 929.22
+  },
+  {
+    "text": "is sort of reinforcing the scaffolding of society.",
+    "uid": "3bea82899921d484",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 929.22,
+    "end": 932.38
+  },
+  {
+    "text": "It creates norms for people to follow.",
+    "uid": "3dc64a58c71331d8",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 932.38,
+    "end": 935.34
+  },
+  {
+    "text": "That makes perfect sense to me.",
+    "uid": "49e6b6914827b00c",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 935.34,
+    "end": 936.98
+  },
+  {
+    "text": "Otherwise, we would be, well, we would be like,",
+    "uid": "416d49775de95caf",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 936.98,
+    "end": 941.76
+  },
+  {
+    "text": "I don't know what we'd be.",
+    "uid": "d07c9327a51cfe54",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 941.76,
+    "end": 946.55
+  },
+  {
+    "text": "So hey, so you're coming out for the 10 commandments",
+    "uid": "8761f65f5a30edc0",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 946.55,
+    "end": 948.79
+  },
+  {
+    "text": "at the end of the day.",
+    "uid": "e00ed5f079af87e0",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 948.79,
+    "end": 950.27
+  },
+  {
+    "text": "Wait, wait, wait, wait.",
+    "uid": "d12feecac2860a60",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 950.27,
+    "end": 952.07
+  },
+  {
+    "text": "Let's just say he went there and he can't take it back.",
+    "uid": "7558826c1d280088",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 953.75,
+    "end": 956.31
+  },
+  {
+    "text": "Don't draft me onto that team.",
+    "uid": "60159f2cf9873c30",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 956.31,
+    "end": 960.12
+  },
+  {
+    "text": "By all the way.",
+    "uid": "e07125aff499bf85",
+    "source": "keister13 - Radiolab_s_Blame_-_season_12_ep_2_-_Neurolaw",
+    "start": 960.12,
+    "end": 961.12
+  }
+]
