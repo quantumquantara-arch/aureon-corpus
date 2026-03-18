@@ -1,0 +1,2928 @@
+[
+  {
+    "text": "Wait, you're listening.",
+    "uid": "72e439dc8d170d5a",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 0.0,
+    "end": 2.0
+  },
+  {
+    "text": "You're listening to Radio Lab.",
+    "uid": "78f355baa31d5b4c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 6.47,
+    "end": 8.47
+  },
+  {
+    "text": "Radio from Radio.",
+    "uid": "30332d45d9f4939b",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 9.47,
+    "end": 10.47
+  },
+  {
+    "text": "Hey, this is Radio Lab.",
+    "uid": "25d23424dd48f681",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 11.47,
+    "end": 18.9
+  },
+  {
+    "text": "I'm Pat Alters.",
+    "uid": "ccccf27df1cac4c0",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 18.9,
+    "end": 19.9
+  },
+  {
+    "text": "And today we have the fifth episode of our mini series,",
+    "uid": "936d708f14d2996d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 19.9,
+    "end": 23.9
+  },
+  {
+    "text": "Last episode, we had a story from Lulu Miller about eugenics.",
+    "uid": "4c4cd280cfd716a5",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 27.49,
+    "end": 32.49
+  },
+  {
+    "text": "There's all about scientists who were applying the Darwinian idea",
+    "uid": "a62f62cbd9dac653",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 32.49,
+    "end": 35.49
+  },
+  {
+    "text": "that species can be shaped by natural selection to humans to us.",
+    "uid": "70a72aecc239c26b",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 35.49,
+    "end": 40.49
+  },
+  {
+    "text": "Like instead of waiting for nature to choose which individuals of the humans species were most,",
+    "uid": "eb6dc876c880c73d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 40.49,
+    "end": 46.49
+  },
+  {
+    "text": "quote, unquote, fit, they thought they could speed things along.",
+    "uid": "4b2e48f530482253",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 46.49,
+    "end": 50.49
+  },
+  {
+    "text": "And in the process, create like a perfect human race,",
+    "uid": "bc43801cc8e4f204",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 50.49,
+    "end": 54.49
+  },
+  {
+    "text": "which as we got into last time was a disaster.",
+    "uid": "90d2beeb84a3be73",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 54.49,
+    "end": 58.49
+  },
+  {
+    "text": "And at a certain point, Lulu argued that these eugenicists in emphasizing like their one-nero idea",
+    "uid": "b001e17758e85f6c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 58.49,
+    "end": 64.49
+  },
+  {
+    "text": "of perfection over everything else.",
+    "uid": "31f97068663a29d5",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 64.49,
+    "end": 67.49
+  },
+  {
+    "text": "They sort of missed the point of Darwin.",
+    "uid": "40cf0008934129a4",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 67.49,
+    "end": 70.49
+  },
+  {
+    "text": "Darwin talks about one thing.",
+    "uid": "add2dd433204f4c9",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 70.49,
+    "end": 72.49
+  },
+  {
+    "text": "This one ingredient that he marbles at.",
+    "uid": "76f5f333ad3356c7",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 72.49,
+    "end": 75.49
+  },
+  {
+    "text": "He doesn't understand why it's there.",
+    "uid": "48712e6008a6d500",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 75.49,
+    "end": 77.49
+  },
+  {
+    "text": "The thing to which we all, oh, our existence on earth, variation.",
+    "uid": "6c80273383f90ddc",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 77.49,
+    "end": 83.49
+  },
+  {
+    "text": "That like what makes a species resilient is different.",
+    "uid": "f35e2e7b420ae124",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 84.49,
+    "end": 89.49
+  },
+  {
+    "text": "But that's a very selective reading of Darwin.",
+    "uid": "3963100298e55b38",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 89.49,
+    "end": 93.49
+  },
+  {
+    "text": "He turns out not everyone agrees with there.",
+    "uid": "c1bd8cd1c0a053bb",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 93.49,
+    "end": 96.49
+  },
+  {
+    "text": "It is true, of course, that variation is really important to evolution,",
+    "uid": "c66c9889c99f68bf",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 96.49,
+    "end": 99.49
+  },
+  {
+    "text": "but it's variation coupled with selection that actually gives you success.",
+    "uid": "9fa12081a3182fb2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 99.49,
+    "end": 103.49
+  },
+  {
+    "text": "So, you know, I disagree with her interpretation.",
+    "uid": "fe3320d71b8a9f3a",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 103.49,
+    "end": 107.49
+  },
+  {
+    "text": "So, not too long after we talked to Lulu,",
+    "uid": "f0b917c18b19b7b9",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 107.49,
+    "end": 109.49
+  },
+  {
+    "text": "I did an interview with the scientists to take a very different position on all this.",
+    "uid": "924e91b0094812fd",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 109.49,
+    "end": 116.49
+  },
+  {
+    "text": "And he's come into a bit of controversy.",
+    "uid": "fba7aaae32c2e028",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 116.49,
+    "end": 119.49
+  },
+  {
+    "text": "Some people argue that he's taking those old ideas.",
+    "uid": "b0e5d723a3c1bac3",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 119.49,
+    "end": 124.49
+  },
+  {
+    "text": "That certain people can decide which humans are fit enough to exist,",
+    "uid": "8558b65ed3afddf8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 124.49,
+    "end": 128.49
+  },
+  {
+    "text": "and which ones aren't.",
+    "uid": "0fb361acce24cfd8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 128.49,
+    "end": 129.49
+  },
+  {
+    "text": "I think you have to be very careful because nobody here is trying to optimize one specific trait or number.",
+    "uid": "8ac4a6b13e46d35d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 129.49,
+    "end": 136.49
+  },
+  {
+    "text": "What we're doing is identifying outcomes that I think most people agree,",
+    "uid": "e47a5dea7f1c796f",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 136.49,
+    "end": 141.49
+  },
+  {
+    "text": "maybe are not good.",
+    "uid": "626b1972d78f70b7",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 141.49,
+    "end": 143.49
+  },
+  {
+    "text": "And arguably he's walking those ideas into the future.",
+    "uid": "7708d4ae1803dd45",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 143.49,
+    "end": 147.49
+  },
+  {
+    "text": "Okay, to back up a beat.",
+    "uid": "d42ecf43183383bc",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 151.85,
+    "end": 152.85
+  },
+  {
+    "text": "Hi, is this Steve?",
+    "uid": "7954c0f158bcc5ca",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 153.85,
+    "end": 154.85
+  },
+  {
+    "text": "Yes, this is Steve.",
+    "uid": "434d03b155c533c9",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 154.85,
+    "end": 155.85
+  },
+  {
+    "text": "Hi, this is Pat.",
+    "uid": "8487a312f6dfdac8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 155.85,
+    "end": 156.85
+  },
+  {
+    "text": "Hey, Pat, how are you?",
+    "uid": "f718bfc6f8be16ef",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 156.85,
+    "end": 158.85
+  },
+  {
+    "text": "This is Steve Xu.",
+    "uid": "d6a35e302ec77224",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 158.85,
+    "end": 160.85
+  },
+  {
+    "text": "I'm a theoretical physicist who also works in computational genomics.",
+    "uid": "cae72305e6d65e7b",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 160.85,
+    "end": 165.85
+  },
+  {
+    "text": "Steve's in his early 50s has short black hair, little white room glasses,",
+    "uid": "fdec95ff07cde549",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 165.85,
+    "end": 170.85
+  },
+  {
+    "text": "and he says he's been interested in genomics, the power of DNA.",
+    "uid": "06022d015edcf3fa",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 170.85,
+    "end": 175.85
+  },
+  {
+    "text": "Really since he was a kid.",
+    "uid": "f1ff139ce63dd2c3",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 175.85,
+    "end": 176.85
+  },
+  {
+    "text": "So when I was a kid, I watched too much TV.",
+    "uid": "74d4f4762b732a27",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 178.85,
+    "end": 181.85
+  },
+  {
+    "text": "Is that right?",
+    "uid": "7e5f06baa077add3",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 181.85,
+    "end": 182.85
+  },
+  {
+    "text": "Yeah, this is 70s.",
+    "uid": "b6a331a42d97d214",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 182.85,
+    "end": 183.85
+  },
+  {
+    "text": "There was no parenting going on.",
+    "uid": "09af27caead51f24",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 183.85,
+    "end": 185.85
+  },
+  {
+    "text": "Things were so less a fair back then.",
+    "uid": "05a4f4e1958070de",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 186.85,
+    "end": 188.85
+  },
+  {
+    "text": "And so when I went home in the afternoon, the very favorite thing I would watch was",
+    "uid": "1fef239d82601951",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 188.85,
+    "end": 193.85
+  },
+  {
+    "text": "Star Trek, the original Star Trek.",
+    "uid": "a7ebb67a08f49e60",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 193.85,
+    "end": 196.85
+  },
+  {
+    "text": "Captain of Rich with William Shattner, his Kirk, and Spockere.",
+    "uid": "63dc27ca12329ba0",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 196.85,
+    "end": 199.85
+  },
+  {
+    "text": "And in the Star Trek universe in the late 20th century.",
+    "uid": "7950b6e7cdb81d5b",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 200.85,
+    "end": 203.85
+  },
+  {
+    "text": "So it's very genetically engineered intellect that allows us to survive.",
+    "uid": "780f536bc5bda958",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 203.85,
+    "end": 207.85
+  },
+  {
+    "text": "They had the so-called eugenics wars in which some genetic Superman were created.",
+    "uid": "82fa97ef9ee3ec72",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 207.85,
+    "end": 213.85
+  },
+  {
+    "text": "Check out who is his man.",
+    "uid": "60a315dd6cdcd7ef",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 213.85,
+    "end": 215.85
+  },
+  {
+    "text": "A product of late 20th century genetic engineering.",
+    "uid": "53566e7256de43cd",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 217.85,
+    "end": 220.85
+  },
+  {
+    "text": "What do you want with us?",
+    "uid": "eb508c6372b0f87a",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 220.85,
+    "end": 222.85
+  },
+  {
+    "text": "You know, they were smarter and more capable.",
+    "uid": "b55ea1bf3a4f5c06",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 222.85,
+    "end": 224.85
+  },
+  {
+    "text": "And they almost took over the earth.",
+    "uid": "59d83fb937407c21",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 224.85,
+    "end": 226.85
+  },
+  {
+    "text": "And all of that was quite vivid in my mind when I was growing up.",
+    "uid": "7a603c8fa5bcf962",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 226.85,
+    "end": 229.85
+  },
+  {
+    "text": "And he says it also made him wonder.",
+    "uid": "55dcbe0a10f9e262",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 229.85,
+    "end": 231.85
+  },
+  {
+    "text": "Steve, like, lots of kids growing up in the 1970s had to take an IQ test at some point.",
+    "uid": "bf7fc3c184bdc262",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 231.85,
+    "end": 237.85
+  },
+  {
+    "text": "And he says he scored really high, like in the top 99% out.",
+    "uid": "eafe1ef1c5bb9b58",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 237.85,
+    "end": 243.85
+  },
+  {
+    "text": "And he thought to himself, why is that?",
+    "uid": "e228b225a5d491bd",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 243.85,
+    "end": 246.85
+  },
+  {
+    "text": "Am I getting better vitamins?",
+    "uid": "1b3a869125d34a7e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 246.85,
+    "end": 248.85
+  },
+  {
+    "text": "Is it because my mom and dad, you know, make me go to bed early at night?",
+    "uid": "40f93798308fadb3",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 248.85,
+    "end": 251.85
+  },
+  {
+    "text": "Is it environmental causes that are making me different from my peers?",
+    "uid": "7de5d9b950ba4048",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 251.85,
+    "end": 255.85
+  },
+  {
+    "text": "Or is there something different about my DNA?",
+    "uid": "bdd01fd190d26b52",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 255.85,
+    "end": 257.85
+  },
+  {
+    "text": "He says he at one point took this question to his local library.",
+    "uid": "02d03148f3984d67",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 257.85,
+    "end": 261.85
+  },
+  {
+    "text": "I found this whole section where they had book after book about studies done.",
+    "uid": "4db601fecd53c4f1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 261.85,
+    "end": 265.85
+  },
+  {
+    "text": "Identical twins, how they measure IQ, where how they measure cognitive ability.",
+    "uid": "d4755ee1d320c05c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 265.85,
+    "end": 269.85
+  },
+  {
+    "text": "So I just, it was very stark in my mind that something about our DNA could influence the power effectiveness of your brain.",
+    "uid": "e204dcd006220fdc",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 269.85,
+    "end": 278.85
+  },
+  {
+    "text": "This was still the late 1970s, though.",
+    "uid": "a9a094353d5fa6a5",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 278.85,
+    "end": 281.85
+  },
+  {
+    "text": "And at this point, science just wasn't quite ready to tackle those questions in a serious way.",
+    "uid": "919f458ede256252",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 281.85,
+    "end": 286.85
+  },
+  {
+    "text": "At that time, we had no way to actually directly measure DNA.",
+    "uid": "f7f94136aa2614ee",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 286.85,
+    "end": 289.85
+  },
+  {
+    "text": "And even by the time I was in college, we had not, we're nowhere near being able to sequence a human genome.",
+    "uid": "5dd80b8b81a44ae1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 289.85,
+    "end": 295.85
+  },
+  {
+    "text": "So Steve went in a different direction.",
+    "uid": "192453c0c42f2cfe",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 295.85,
+    "end": 298.85
+  },
+  {
+    "text": "He went to grad school for physics.",
+    "uid": "a5c10acbe6dceb18",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 298.85,
+    "end": 300.85
+  },
+  {
+    "text": "Well, I'm going to work on black holes in quantum field theory because, you know,",
+    "uid": "e4b7eba2ca56036e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 300.85,
+    "end": 305.85
+  },
+  {
+    "text": "it would take huge technological breakthroughs for us to make progress on these questions in my lifetime.",
+    "uid": "4a98de29c35bc6d1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 305.85,
+    "end": 311.85
+  },
+  {
+    "text": "But it wouldn't take as long as he thought.",
+    "uid": "86085f22f8817c6f",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 311.85,
+    "end": 317.5
+  },
+  {
+    "text": "Because 15 years later, this is when, roughly.",
+    "uid": "95fcb6e88dbe11e3",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 317.5,
+    "end": 321.5
+  },
+  {
+    "text": "This was 2006, 2000 to be exact.",
+    "uid": "ed480e9e2fa27cc7",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 321.5,
+    "end": 327.5
+  },
+  {
+    "text": "The moment we are here to witness was brought about standing behind a podium in the east room of the White House, President Bill Clinton announced.",
+    "uid": "36f1796f1107265d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 332.0,
+    "end": 339.0
+  },
+  {
+    "text": "We are here to celebrate the completion of the first survey of the entire human genome.",
+    "uid": "e354214e86ee6cbf",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 339.0,
+    "end": 345.0
+  },
+  {
+    "text": "More than a thousand researchers across six nations have revealed nearly all three billion letters of our miraculous genetic code.",
+    "uid": "6921406e43663216",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 345.0,
+    "end": 351.0
+  },
+  {
+    "text": "I saw it come to fruition.",
+    "uid": "2464cc3bc2c166aa",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 351.0,
+    "end": 353.0
+  },
+  {
+    "text": "No, no, no, no, no.",
+    "uid": "8322e883dca8a906",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 355.0,
+    "end": 356.0
+  },
+  {
+    "text": "The huge advances in our capability to read out somebody's DNA.",
+    "uid": "c98e06afa5262489",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 356.0,
+    "end": 362.0
+  },
+  {
+    "text": "And along with all these advances, Steve watched as the price of all this.",
+    "uid": "2d442f21d152df84",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 362.0,
+    "end": 366.0
+  },
+  {
+    "text": "So the first human genome was sequenced at a cost of $1 billion.",
+    "uid": "aa69833df148ecc9",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 366.0,
+    "end": 370.0
+  },
+  {
+    "text": "Today the cost is 10 grams.",
+    "uid": "4951f89f68f59d96",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 372.0,
+    "end": 374.0
+  },
+  {
+    "text": "It's kind of super exponential decrease.",
+    "uid": "7ef53aae6bf4c42c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 374.0,
+    "end": 376.0
+  },
+  {
+    "text": "Genome sequence for the several thousand dollars around about a thousand dollars.",
+    "uid": "9c3034ccd8a897e4",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 376.0,
+    "end": 380.0
+  },
+  {
+    "text": "It costs a genotype.",
+    "uid": "b9df6fdc6cb6eab2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 380.0,
+    "end": 381.0
+  },
+  {
+    "text": "We have a hundred dollars to 50 dollars.",
+    "uid": "8475d81f96864d77",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 381.0,
+    "end": 383.0
+  },
+  {
+    "text": "The cost is going to come down even more.",
+    "uid": "9492b33009be7d1e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 383.0,
+    "end": 385.0
+  },
+  {
+    "text": "And I realize, wow, it is amazing how it is.",
+    "uid": "787cdc234be6d3de",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 385.0,
+    "end": 388.0
+  },
+  {
+    "text": "If this technology is fancy, this rapidly, it will be possible to note the genetic makeup of a baby before it's born.",
+    "uid": "b9e45eb67d831c15",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 388.0,
+    "end": 394.0
+  },
+  {
+    "text": "Or for it's born or even conceived.",
+    "uid": "3351b247b99015cf",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 394.0,
+    "end": 396.0
+  },
+  {
+    "text": "Some of these crazy science fiction ideas about genomics and genetic engineering will come true.",
+    "uid": "4f7bd2d0ca40a7bf",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 396.0,
+    "end": 401.0
+  },
+  {
+    "text": "And if I get to be one of the scientists who makes real some amazing trope from science fiction, that would be the most awesome thing in the world.",
+    "uid": "37a6591a05df315d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 402.0,
+    "end": 411.0
+  },
+  {
+    "text": "And you might be thinking, I wasn't.",
+    "uid": "d96963c660b171d1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 411.0,
+    "end": 414.0
+  },
+  {
+    "text": "Anyway, that maybe Steve missed the point of that Star Trek episode about the genics worse, but that was his interpretation.",
+    "uid": "a4f5f73add382ebc",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 414.0,
+    "end": 422.0
+  },
+  {
+    "text": "So those thoughts were in my mind when I thought, what is it going to take for us to figure out the genetic architecture of human intelligence?",
+    "uid": "f67bfc509da5c8c8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 422.0,
+    "end": 431.0
+  },
+  {
+    "text": "So around 2011, Steve started to pivot from physics to genomics, just hoping to find a particular place in the genome that was influencing your say IQ score.",
+    "uid": "8d4a8590000e873d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 431.0,
+    "end": 444.0
+  },
+  {
+    "text": "But now I'm Diane Sawyer, tonight on 60 minutes.",
+    "uid": "70173ac55a0d3b91",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 444.0,
+    "end": 449.0
+  },
+  {
+    "text": "Steve and his team ran into a problem.",
+    "uid": "acf578255de5cddf",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 449.0,
+    "end": 451.0
+  },
+  {
+    "text": "You mentioned the human genome and all of the things that it was supposed to do.",
+    "uid": "f8600898dc4fe831",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 451.0,
+    "end": 456.0
+  },
+  {
+    "text": "Actually, a lot of people have been disappointed.",
+    "uid": "bf724583ec277d2a",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 456.0,
+    "end": 459.0
+  },
+  {
+    "text": "I should be.",
+    "uid": "61cb4626d34570cd",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 459.0,
+    "end": 460.0
+  },
+  {
+    "text": "Genetics turned out to be way more complicated than a lot of people thought at first.",
+    "uid": "c355867fb7b806b0",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 460.0,
+    "end": 463.0
+  },
+  {
+    "text": "Because right things were promised and it hasn't really happened.",
+    "uid": "df5762a1f69fa7e3",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 463.0,
+    "end": 467.0
+  },
+  {
+    "text": "It was definitely oversold.",
+    "uid": "f0883fe3caf8a3f0",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 468.0,
+    "end": 470.0
+  },
+  {
+    "text": "The initial hope had been, like let's find the one gene that causes this trait and the one mutation that causes that disease.",
+    "uid": "738574b72002f6bd",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 470.0,
+    "end": 477.0
+  },
+  {
+    "text": "And in the early years, scientists found a few of those sort of wonder ones.",
+    "uid": "d30137020b4b3f8d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 477.0,
+    "end": 482.0
+  },
+  {
+    "text": "But only a few.",
+    "uid": "88da6552230a43cc",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 482.0,
+    "end": 484.0
+  },
+  {
+    "text": "They failed to turn up, you know, some of the hidden connections they had expected to find or they turned up stuff, but then they couldn't be replicated.",
+    "uid": "ddd2f8604d464c67",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 484.0,
+    "end": 491.0
+  },
+  {
+    "text": "I mean, they were assigned to same within a decade.",
+    "uid": "9800e7b711ecf8aa",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 491.0,
+    "end": 494.0
+  },
+  {
+    "text": "All human diseases would be cured.",
+    "uid": "ed3b378bf65b0279",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 494.0,
+    "end": 496.0
+  },
+  {
+    "text": "Well, you were a decade, not too many have been done.",
+    "uid": "c8a29145040cf0a4",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 496.0,
+    "end": 498.0
+  },
+  {
+    "text": "That was kind of the first phase.",
+    "uid": "db8b37cd5b90ec1f",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 498.0,
+    "end": 501.0
+  },
+  {
+    "text": "This is Megan Multaney.",
+    "uid": "f4c560f2d85392ed",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 501.0,
+    "end": 502.0
+  },
+  {
+    "text": "I'm a staff writer at Wired.",
+    "uid": "d3c36d6235960b86",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 502.0,
+    "end": 504.0
+  },
+  {
+    "text": "And as she explained to us, what they found was that it quickly became clear that most traits in human being aren't caused by a single gene or even a handful of genes.",
+    "uid": "371c8e178e015ca8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 504.0,
+    "end": 513.0
+  },
+  {
+    "text": "They often arise out of the complex interaction of hundreds, or thousands, or even tens of thousands of genes and other bits of DNA working in concert.",
+    "uid": "882998e7a0f583ea",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 513.0,
+    "end": 523.0
+  },
+  {
+    "text": "So the challenge sort of shifted.",
+    "uid": "50f51bad7a354a6e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 523.0,
+    "end": 525.0
+  },
+  {
+    "text": "It wasn't about finding a single gene or mutation for any one thing.",
+    "uid": "4135957ebdc5a290",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 525.0,
+    "end": 529.0
+  },
+  {
+    "text": "It was about mapping these huge swaths of the genome and looking for variations.",
+    "uid": "098f0adc2cd5b10c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 529.0,
+    "end": 534.0
+  },
+  {
+    "text": "And so we realized we need many, many more genotypes and much, much more data.",
+    "uid": "960eb21436548a25",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 534.0,
+    "end": 540.0
+  },
+  {
+    "text": "And so how they address that was actually began banding together into these big international consortia to pool together data.",
+    "uid": "205e003a299d2eed",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 540.0,
+    "end": 549.0
+  },
+  {
+    "text": "And dial up the statistical power for everyone.",
+    "uid": "745f0584988fa720",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 549.0,
+    "end": 552.0
+  },
+  {
+    "text": "So in 2017, the UK bio bank dumps 500,000 genomes into the public square.",
+    "uid": "708fe06627b4a726",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 552.0,
+    "end": 558.0
+  },
+  {
+    "text": "At 23 and me dot com.",
+    "uid": "7f6dcfb878de092c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 558.0,
+    "end": 559.0
+  },
+  {
+    "text": "At some point 23 and me provides contributions.",
+    "uid": "0372acc858579cdd",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 559.0,
+    "end": 562.0
+  },
+  {
+    "text": "Other researchers throw their data into the mix.",
+    "uid": "f792ce4254397bd4",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 562.0,
+    "end": 564.0
+  },
+  {
+    "text": "And so by the summer of 2018, they're comparing the DNA of 1.1 million people.",
+    "uid": "be3ea1919f85cde2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 564.0,
+    "end": 569.0
+  },
+  {
+    "text": "And do you have this giant data set that essentially launched this next wave of genetic studies?",
+    "uid": "67c1a836e0070f15",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 569.0,
+    "end": 577.87
+  },
+  {
+    "text": "Yes, that is the data set that has been studied to produce predictors.",
+    "uid": "5fa2a809c5be7e96",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 577.87,
+    "end": 581.87
+  },
+  {
+    "text": "And that kind of brings us to, so that kind of brings us to these genome-wide association studies.",
+    "uid": "7c7d14c01ce1acc5",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 581.87,
+    "end": 587.87
+  },
+  {
+    "text": "So explaining these can get pretty complicated, but the basic idea is this.",
+    "uid": "209e504f0ed2e9fa",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 587.87,
+    "end": 591.87
+  },
+  {
+    "text": "Let's say you have a bunch of tall people and you want to find out what makes them tall genetically.",
+    "uid": "917a674fa2efaef1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 591.87,
+    "end": 596.87
+  },
+  {
+    "text": "So you take the genomes of all the tall people, billions and billions of letters,",
+    "uid": "7733f97da08b2c0a",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 596.87,
+    "end": 601.87
+  },
+  {
+    "text": "and you feed that data into a computer.",
+    "uid": "5b656a2f1956100d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 601.87,
+    "end": 603.87
+  },
+  {
+    "text": "The computer then scans all the billions of letters and looks for patterns.",
+    "uid": "21858384efbcaf06",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 603.87,
+    "end": 607.87
+  },
+  {
+    "text": "Like what do these people have in common?",
+    "uid": "11fbaaa02636e44e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 607.87,
+    "end": 610.87
+  },
+  {
+    "text": "And computer might say, like, hmm, a bunch of them have a certain mutation at spot 273,674.",
+    "uid": "14072e37a6dfe160",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 610.87,
+    "end": 617.87
+  },
+  {
+    "text": "And a bunch of them also have mutation in spot 923,672.",
+    "uid": "3c452249e67876a0",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 617.87,
+    "end": 623.87
+  },
+  {
+    "text": "And another mutation in spot 38,479.",
+    "uid": "cc5ad669f0248727",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 623.87,
+    "end": 626.87
+  },
+  {
+    "text": "And on and on and on, I'm just making this up.",
+    "uid": "70a644d3718c3b02",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 626.87,
+    "end": 629.87
+  },
+  {
+    "text": "But Steve actually did this analysis for height and the AI algorithm identified about 20,000 different locations in your genome that determine height, or at least influence height.",
+    "uid": "e29822cc316f70a5",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 629.87,
+    "end": 642.87
+  },
+  {
+    "text": "So 20,000 spots in the genome that have some influence over how tall you are.",
+    "uid": "afa2055b5c92e2cb",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 642.87,
+    "end": 647.87
+  },
+  {
+    "text": "And this is called training the algorithm.",
+    "uid": "4d48661832715489",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 647.87,
+    "end": 651.87
+  },
+  {
+    "text": "And once it's trained, once it's found all of these patterns, once it has figured all that out, it can be said what you can then do is prediction for people that it's never seen before.",
+    "uid": "22be9a2cd7c2bfd8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 652.87,
+    "end": 663.87
+  },
+  {
+    "text": "So what you do is you take the genome of someone who's where we call out of sample data.",
+    "uid": "2755f7d9cd1fe973",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 663.87,
+    "end": 668.87
+  },
+  {
+    "text": "This person is not involved in the training and feed just their genome into the algorithm.",
+    "uid": "4a3122cd4d708f8c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 668.87,
+    "end": 673.87
+  },
+  {
+    "text": "This guy have ARB at this location, how about it at this location, how about it at this location?",
+    "uid": "2ed20e4502d219e6",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 673.87,
+    "end": 676.87
+  },
+  {
+    "text": "You do that 20,000 times and then the thing will predict this guy is going to be 6 with 2.",
+    "uid": "7b5b0e2e8c94082e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 676.87,
+    "end": 683.87
+  },
+  {
+    "text": "And how accurate exactly is this thing?",
+    "uid": "5260cb989cbd263c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 683.87,
+    "end": 686.87
+  },
+  {
+    "text": "Well, so we recently just a year and a half ago succeeded in building a predictor which hasn't accuracy of about plus or minus an inch.",
+    "uid": "fa4c0a23a07a5865",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 686.87,
+    "end": 695.87
+  },
+  {
+    "text": "That's pretty amazing.",
+    "uid": "b2510e718e183d11",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 695.87,
+    "end": 697.87
+  },
+  {
+    "text": "Yeah, and we don't know like what those genetic variations are doing.",
+    "uid": "56b4de4298e462ba",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 697.87,
+    "end": 701.87
+  },
+  {
+    "text": "We just know that the computer said there's something different happening in these places for the taller people than for the other people.",
+    "uid": "554bb2b925ab4b27",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 701.87,
+    "end": 710.87
+  },
+  {
+    "text": "The AI's are almost like black boxes. You train them.",
+    "uid": "f7ae1adf1a4403d8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 711.87,
+    "end": 714.87
+  },
+  {
+    "text": "And then you've got to carefully test them.",
+    "uid": "8d8ed011668ee19c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 714.87,
+    "end": 716.87
+  },
+  {
+    "text": "But once you validate that it's like my God.",
+    "uid": "e3f7de562851adb6",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 716.87,
+    "end": 720.87
+  },
+  {
+    "text": "The Lord or the Martians just came and gave me this black box which does this thing.",
+    "uid": "e9092cc58614c639",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 720.87,
+    "end": 725.87
+  },
+  {
+    "text": "It predicts height.",
+    "uid": "f61a78089250248c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 725.87,
+    "end": 727.87
+  },
+  {
+    "text": "And not just height.",
+    "uid": "29a2f62f0e118b70",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 727.87,
+    "end": 728.87
+  },
+  {
+    "text": "We have a pretty good bone density predictor.",
+    "uid": "e77f243f06bcfffc",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 729.87,
+    "end": 731.87
+  },
+  {
+    "text": "It turns out that's pretty heritable.",
+    "uid": "b82931db8e3401b2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 731.87,
+    "end": 733.87
+  },
+  {
+    "text": "Things like diabetes, atrial fibrillation, breast cancer, prostate cancer.",
+    "uid": "95b88ee516bc0e9d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 733.87,
+    "end": 740.87
+  },
+  {
+    "text": "So you can, you can g-wass like literally anything.",
+    "uid": "4078a64e50e07738",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 740.87,
+    "end": 744.87
+  },
+  {
+    "text": "And so where this gets interesting is that...",
+    "uid": "fbae97c99141b364",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 745.87,
+    "end": 750.87
+  },
+  {
+    "text": "Perhaps, surprisingly, just in the last year or so.",
+    "uid": "adf50aea05c2c4cf",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 750.87,
+    "end": 753.87
+  },
+  {
+    "text": "Steve's who starts wanting to use these genome-wide association studies as a way to predict intelligence.",
+    "uid": "4c2be6284013d77d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 753.87,
+    "end": 763.87
+  },
+  {
+    "text": "Intelligence is a complex trait.",
+    "uid": "4e2bd6b046e97efb",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 763.87,
+    "end": 765.87
+  },
+  {
+    "text": "So we know there are genes involved.",
+    "uid": "1d9600314ebe1698",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 765.87,
+    "end": 767.87
+  },
+  {
+    "text": "We know there are lots of them.",
+    "uid": "737f61b9e18c37c1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 767.87,
+    "end": 768.87
+  },
+  {
+    "text": "But environments. So where you grow up.",
+    "uid": "4d880f96e0c5f41e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 768.87,
+    "end": 771.87
+  },
+  {
+    "text": "Even how much you get to eat like all of that matters too.",
+    "uid": "27fb3b2901562bbe",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 771.87,
+    "end": 774.87
+  },
+  {
+    "text": "But these don't dozens of studies.",
+    "uid": "7eb9c0497b5f0f77",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 774.87,
+    "end": 776.87
+  },
+  {
+    "text": "Lots of them don't on twins.",
+    "uid": "df31c3697e5e21de",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 776.87,
+    "end": 777.87
+  },
+  {
+    "text": "When it comes to intelligence or cognitive ability.",
+    "uid": "a8fc0759c23a7e27",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 777.87,
+    "end": 780.87
+  },
+  {
+    "text": "Basically whatever we want to call what an IQ-to-do.",
+    "uid": "11e70feeca58c125",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 780.87,
+    "end": 782.87
+  },
+  {
+    "text": "What an IQ-to-test measures, which, as we know, has its limitations.",
+    "uid": "7180d5b41103a8f6",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 782.87,
+    "end": 786.87
+  },
+  {
+    "text": "The evidence that we know today suggests the genes are responsible for somewhere between 20% to 50% of how smart people are.",
+    "uid": "62068bac23190ce9",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 786.87,
+    "end": 794.87
+  },
+  {
+    "text": "Or how we can measure what we call intelligence.",
+    "uid": "e41034428dbf9066",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 794.87,
+    "end": 798.87
+  },
+  {
+    "text": "And so that gives you hope that if you had enough data, your AI algorithm could figure out how to crudely predict cognitive performance from your gene type alone.",
+    "uid": "d15a7c9d9b2bc474",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 798.87,
+    "end": 809.87
+  },
+  {
+    "text": "As Steve said out to do this, the first hurdle he and his team ran into was only a fraction of the 1.1 million people in this study had IQ score data available.",
+    "uid": "cbaebc609e20926c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 809.87,
+    "end": 820.87
+  },
+  {
+    "text": "And without that it would be sort of impossible to predict someone's IQ.",
+    "uid": "917a62f22ad94d70",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 820.87,
+    "end": 824.87
+  },
+  {
+    "text": "But but but nearly every GWAS researcher on the planet was collecting educational attainment.",
+    "uid": "6d1fd92449f5eea1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 824.87,
+    "end": 830.87
+  },
+  {
+    "text": "And that's just the number of years that people have been in school.",
+    "uid": "2b3cf26f2e84b9f4",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 830.87,
+    "end": 834.87
+  },
+  {
+    "text": "So from the million plus people, what they did know is like if the person had gotten a high school diploma or a PhD.",
+    "uid": "aae6a3abca18dc2d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 834.87,
+    "end": 841.87
+  },
+  {
+    "text": "And what Steve and actually a bunch of other researchers would eventually figure out is that the genetic pattern that predict educational attainment is actually very good at predicting IQ.",
+    "uid": "f8ea52e13d20f1e8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 841.87,
+    "end": 852.87
+  },
+  {
+    "text": "So it's quite comparable.",
+    "uid": "1cf55afa67d6bcb3",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 852.87,
+    "end": 854.87
+  },
+  {
+    "text": "Flash forward to today. We have predictors for cognitive ability that correlate about 0.3 or 0.4 with actual IQ score.",
+    "uid": "119de7e33a3700db",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 854.87,
+    "end": 865.87
+  },
+  {
+    "text": "So just to put that in context, a correlation of 1 means the computer would be able to predict the IQ score exactly every time based on genetics alone in a correlation of 0 means the computer would basically be guessing at random.",
+    "uid": "378bc302944934a6",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 865.87,
+    "end": 881.87
+  },
+  {
+    "text": "So 0.3 to 0.4 that like that doesn't seem very high to me that actually seems pretty low.",
+    "uid": "a935c8648ccb2ac0",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 881.87,
+    "end": 889.87
+  },
+  {
+    "text": "Well, that analogy let me give it to you this way if you admit a bunch of kids to college and you have their SAT scores.",
+    "uid": "9dd6af13904557de",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 889.87,
+    "end": 897.87
+  },
+  {
+    "text": "You can predict their GPA in college and the correlation between those two variables is also about 0.3 or 0.4.",
+    "uid": "929b8e40a14f9121",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 897.87,
+    "end": 906.87
+  },
+  {
+    "text": "So we're kind of at that level of capability from pure genome.",
+    "uid": "84cbb3bb127e288c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 906.87,
+    "end": 911.87
+  },
+  {
+    "text": "And the way Steve's using that predictive capability at the moment we are starting to use it in multiple clinics around the world.",
+    "uid": "5fb9a115fec22a85",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 911.87,
+    "end": 922.87
+  },
+  {
+    "text": "That's where I start to get kind of freaked out.",
+    "uid": "f31df3b3f0b1f988",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 922.87,
+    "end": 928.6
+  },
+  {
+    "text": "We'll get into all that after a quick break.",
+    "uid": "533f045e8dcb0f08",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 928.6,
+    "end": 932.6
+  },
+  {
+    "text": "Hi, I'm an endless Alex lead the skin and I'm calling from Los Angeles, California.",
+    "uid": "274e16fe1ffc5eb5",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 932.6,
+    "end": 948.6
+  },
+  {
+    "text": "I'm ready to support it in part by the Alfred P. Sloan Foundation enhancing public understanding of science and technology in the modern world more information about Sloan at www. Sloan.org.",
+    "uid": "e0c103ce4b354f4f",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 948.6,
+    "end": 960.6
+  },
+  {
+    "text": "Okay, we're back from break.",
+    "uid": "6c3476ba809e3048",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 960.6,
+    "end": 963.6
+  },
+  {
+    "text": "This is Raydelab's G back to my discussion with Steve Xu.",
+    "uid": "037efe4f0be8e8a6",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 963.6,
+    "end": 968.6
+  },
+  {
+    "text": "So you also have a company.",
+    "uid": "7f9a129e604c8e64",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 968.6,
+    "end": 970.6
+  },
+  {
+    "text": "Yeah, actually it's a tech startup with investors, venture funds and you know wealthy individuals.",
+    "uid": "2fa6d0f6ce31fdcc",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 970.6,
+    "end": 978.6
+  },
+  {
+    "text": "What's your company called again?",
+    "uid": "98b1c694de3c54ce",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 978.6,
+    "end": 980.6
+  },
+  {
+    "text": "It's called genomic.",
+    "uid": "0a867a9971441e77",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 980.6,
+    "end": 982.6
+  },
+  {
+    "text": "And you're starting to apply these things you've discovered to testing.",
+    "uid": "e5e86787dd751c86",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 986.6,
+    "end": 991.6
+  },
+  {
+    "text": "Genetic testing for embryos.",
+    "uid": "6769ec5adb9cf66a",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 991.6,
+    "end": 993.6
+  },
+  {
+    "text": "So first of all, the embryos we're talking about here are the ones that were produced through IVF.",
+    "uid": "a0bff2189a58e412",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 993.6,
+    "end": 998.6
+  },
+  {
+    "text": "Yeah IVF kids.",
+    "uid": "0eca196b491910cc",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 998.6,
+    "end": 999.6
+  },
+  {
+    "text": "You know, basically test tube babies.",
+    "uid": "76622fe4a4d298a0",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 999.6,
+    "end": 1001.6
+  },
+  {
+    "text": "Take a little sperm and egg combine them with petri dish for later transfer.",
+    "uid": "6dd4d25ff2ec76a7",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1001.6,
+    "end": 1006.6
+  },
+  {
+    "text": "So every year about a million babies are born worldwide using IVF.",
+    "uid": "3674a561a92be08d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1006.6,
+    "end": 1012.6
+  },
+  {
+    "text": "I didn't realize it was that high.",
+    "uid": "aa9c9208d8fdd180",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1013.6,
+    "end": 1014.6
+  },
+  {
+    "text": "Yeah, it's about a million worldwide.",
+    "uid": "08f7da5e3c4ab11f",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1014.6,
+    "end": 1016.6
+  },
+  {
+    "text": "And that means there are actually many millions of embryos produced because when you do IVF,",
+    "uid": "482a0d31856c5bae",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1016.6,
+    "end": 1020.6
+  },
+  {
+    "text": "you often produce more embryos than you end up using, which means that oftentimes what IVF couples face is a choice.",
+    "uid": "5960ef4a9c9b7020",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1020.6,
+    "end": 1029.6
+  },
+  {
+    "text": "Which embryos to use and which would be the best to use.",
+    "uid": "a4db5384d103b8fe",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1029.6,
+    "end": 1032.6
+  },
+  {
+    "text": "And so it is now common to do genetic testing on those embryos.",
+    "uid": "89e2da86006283da",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1032.6,
+    "end": 1036.6
+  },
+  {
+    "text": "But typically really basic stuff.",
+    "uid": "d6d35dadfdbd9c3f",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1036.6,
+    "end": 1038.6
+  },
+  {
+    "text": "The most common thing right now is just to test to see whether the number of chromosomes is normal",
+    "uid": "86f27432831ad155",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1038.6,
+    "end": 1043.6
+  },
+  {
+    "text": "to screen against down syndrome.",
+    "uid": "6a2d1f1ee179c8ef",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1043.6,
+    "end": 1045.6
+  },
+  {
+    "text": "Relatively simple test.",
+    "uid": "af6c40859490139c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1045.6,
+    "end": 1046.6
+  },
+  {
+    "text": "That is by far the most common kind of genetic testing that's done.",
+    "uid": "cf3e0f9d1ebe5951",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1046.6,
+    "end": 1049.6
+  },
+  {
+    "text": "But now though, if you think of the technical breakthroughs that I described to you, you can screen against much more than just down syndrome.",
+    "uid": "185bcafabcfe9882",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1049.6,
+    "end": 1057.6
+  },
+  {
+    "text": "And so the company that we started takes the same standard biopsy that's already used to do the chromosome count screening.",
+    "uid": "90e56b07823ef61b",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1057.6,
+    "end": 1064.6
+  },
+  {
+    "text": "But takes it a step further and actually sequences a chunk of the genome of that embryo.",
+    "uid": "0290a7fcea046c8f",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1064.6,
+    "end": 1069.6
+  },
+  {
+    "text": "And we can then apply all of the genomic predictors that I described to you to an embryo.",
+    "uid": "ee33db517c637594",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1069.6,
+    "end": 1075.6
+  },
+  {
+    "text": "So the doc might say, you know embryo number four looks like it's definitely going to have type 1 diabetes.",
+    "uid": "d9f169c0473b4ab2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1075.6,
+    "end": 1081.6
+  },
+  {
+    "text": "And embryo number three has a very strange outlier for heart attack, et cetera, et cetera.",
+    "uid": "fb1a0ce075b34256",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1081.6,
+    "end": 1086.6
+  },
+  {
+    "text": "And you're applying the information you have about intelligence to those embryos in those decisions as well.",
+    "uid": "5fc321b2b3c1b5b9",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1086.6,
+    "end": 1093.6
+  },
+  {
+    "text": "So that's the most challenging question.",
+    "uid": "3a33745037397eec",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1093.6,
+    "end": 1096.6
+  },
+  {
+    "text": "And that's the one that everybody wants to focus on.",
+    "uid": "80c0d88d7f8585f7",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1096.6,
+    "end": 1099.6
+  },
+  {
+    "text": "Because we can do it.",
+    "uid": "9fcdf7a4a851235d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1100.6,
+    "end": 1102.6
+  },
+  {
+    "text": "But you know, whenever a journalist contacts me, even if the person I know has an unhealthy fixation on IQ and doesn't want to talk about all the health positive health things associated with this technology,",
+    "uid": "ba232bec779e4fa8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1102.6,
+    "end": 1114.6
+  },
+  {
+    "text": "and just wants to focus on the one thing that you know, everybody gets heated up about.",
+    "uid": "a671f3a09e5cfda8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1114.6,
+    "end": 1118.6
+  },
+  {
+    "text": "Yeah, I'm still here.",
+    "uid": "f176fe7f63d7f001",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1118.6,
+    "end": 1120.6
+  },
+  {
+    "text": "Yeah, I still want to have the conversation because society needs to understand what is actually going on.",
+    "uid": "af82cfb70d6d4469",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1120.6,
+    "end": 1126.6
+  },
+  {
+    "text": "So our current policy and we arrived this after really a lot of thought and not wanting to get out ahead of where society is on this.",
+    "uid": "e229f8ecce683dc2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1127.6,
+    "end": 1138.6
+  },
+  {
+    "text": "The only thing that we report about the intelligence of the individual embryo is if the embryo is an outlier in risk for, I think the medical term is.",
+    "uid": "368ba62847ce38c5",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1138.6,
+    "end": 1151.6
+  },
+  {
+    "text": "I've got to ask you.",
+    "uid": "facd1661add3fb2e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1151.6,
+    "end": 1152.6
+  },
+  {
+    "text": "What is it?",
+    "uid": "314c8706e1b209c8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1152.6,
+    "end": 1153.6
+  },
+  {
+    "text": "Is it mental disability?",
+    "uid": "a1640af775655454",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1153.6,
+    "end": 1154.6
+  },
+  {
+    "text": "Something like that.",
+    "uid": "539331d9c8580a9c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1154.6,
+    "end": 1155.6
+  },
+  {
+    "text": "I think it's intellectual disability.",
+    "uid": "ee91f6f7fb5ac867",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1155.6,
+    "end": 1157.6
+  },
+  {
+    "text": "And that the predictor would be saying that it's likely that the embryo would have an IQ score below a certain number.",
+    "uid": "9670eacf2b4e2fd6",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1160.6,
+    "end": 1166.6
+  },
+  {
+    "text": "I think intellectual disabilities probably something like IQ of 75 or something like this.",
+    "uid": "afe56d4664ebca59",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1167.6,
+    "end": 1173.6
+  },
+  {
+    "text": "And it would mean that the IVF physician will get a report saying embryo number four has a very,",
+    "uid": "f388237f00087475",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1173.6,
+    "end": 1180.6
+  },
+  {
+    "text": "a very unusually large number of the variants that depress intelligence.",
+    "uid": "7656f4d80c87f771",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1180.6,
+    "end": 1188.6
+  },
+  {
+    "text": "And I think that's a reasonable thing to want to know.",
+    "uid": "7e3c1a0f79dd0089",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1188.6,
+    "end": 1191.6
+  },
+  {
+    "text": "Are there a parallel track happening in your mind?",
+    "uid": "76769be626892c43",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1191.6,
+    "end": 1194.6
+  },
+  {
+    "text": "Because the other people who've gotten excited about making super people besides the science fiction people are like the Nazis.",
+    "uid": "67953388c743b521",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1194.6,
+    "end": 1202.6
+  },
+  {
+    "text": "I know the idea that you would dehumanize some people because they're less able is extremely dangerous.",
+    "uid": "a92efd1fcdff7569",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1204.6,
+    "end": 1213.6
+  },
+  {
+    "text": "But this notion that, oh, we shouldn't do any of this research because there was a guy called Adolf Hitler.",
+    "uid": "484f7b5e303205ad",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1213.6,
+    "end": 1219.6
+  },
+  {
+    "text": "That's kind of crazy to me.",
+    "uid": "2bedd28b635537e7",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1220.6,
+    "end": 1222.6
+  },
+  {
+    "text": "I like how do you, I would say, every technology really powerful technology, whether it's AI or genomics or nuclear energy.",
+    "uid": "3be42b0183226322",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1223.6,
+    "end": 1231.6
+  },
+  {
+    "text": "They have risks.",
+    "uid": "258fc4dcc4988de5",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1231.6,
+    "end": 1233.6
+  },
+  {
+    "text": "That's always the case.",
+    "uid": "117caa20f1ad3a04",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1233.6,
+    "end": 1234.6
+  },
+  {
+    "text": "But I guess I don't trust the IQ part of it.",
+    "uid": "3124044a3290acc3",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1235.6,
+    "end": 1238.6
+  },
+  {
+    "text": "Like, it's pretty well established that IQ score isn't a good way to determine intellectual disability.",
+    "uid": "94ce5435131def87",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1238.6,
+    "end": 1246.6
+  },
+  {
+    "text": "Like, I think it's way more complicated than that.",
+    "uid": "eea51ce5ac138480",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1246.6,
+    "end": 1249.6
+  },
+  {
+    "text": "But keep in mind none of this is a sure thing in the sense that we're not saying that we know embryo three will have IQ below 75.",
+    "uid": "db8118d02b200239",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1250.6,
+    "end": 1258.6
+  },
+  {
+    "text": "If we're not saying that, we're just saying the chances the child will have a lot of difficulty in modern society.",
+    "uid": "c6946ea273ec4c71",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1258.6,
+    "end": 1266.6
+  },
+  {
+    "text": "That probability is elevated.",
+    "uid": "c3cbfbe45589c2b6",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1266.6,
+    "end": 1268.6
+  },
+  {
+    "text": "I guess I think this is maybe where we disagree is that like, I don't, I'm not convinced you can know what the quality of someone's life is going to be like based on.",
+    "uid": "60a80e64cd2d6ba3",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1268.6,
+    "end": 1277.6
+  },
+  {
+    "text": "And when I talk about the, we're not talking about any of that.",
+    "uid": "298d0ccc9a4f5c81",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1277.6,
+    "end": 1279.6
+  },
+  {
+    "text": "We're just saying that conditional on that score.",
+    "uid": "83afd295d6017329",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1279.6,
+    "end": 1282.6
+  },
+  {
+    "text": "If I go out in the population, I look at people with that score.",
+    "uid": "2ceaf2a7e3ec645c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1282.6,
+    "end": 1286.6
+  },
+  {
+    "text": "A lot of them have not had very, you know, I think positive lives.",
+    "uid": "9a9fc91894869f9c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1286.6,
+    "end": 1291.6
+  },
+  {
+    "text": "And I'm pretty sure that most mothers, when they're pregnant, when they go to sleep at night, they're not dreaming about that outcome.",
+    "uid": "dc51bb3e541a8f11",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1291.6,
+    "end": 1297.6
+  },
+  {
+    "text": "They're dreaming about another outcome for their children.",
+    "uid": "8b8d13cb96560043",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1297.6,
+    "end": 1300.6
+  },
+  {
+    "text": "It just feels like a bad idea.",
+    "uid": "587b27921840c6db",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1300.6,
+    "end": 1304.6
+  },
+  {
+    "text": "The only question here is, imagine that your sister is going through IVF.",
+    "uid": "3d9a876d775334ba",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1304.6,
+    "end": 1309.6
+  },
+  {
+    "text": "And you happen to have the genotypes of all the embryos of your sister's potential kids.",
+    "uid": "020a19582f040bf1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1309.6,
+    "end": 1314.6
+  },
+  {
+    "text": "And you find out, hey, embryo four is predicted to be, you know, in less than the first percentile for cognitive ability.",
+    "uid": "f4f5b5c8a7720931",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1314.6,
+    "end": 1323.6
+  },
+  {
+    "text": "But all the other ones are in the normal range or maybe even above average.",
+    "uid": "c383bb9638212e94",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1323.6,
+    "end": 1328.6
+  },
+  {
+    "text": "Would you tell your sister?",
+    "uid": "6eb356a9f4bf230e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1328.6,
+    "end": 1331.6
+  },
+  {
+    "text": "I mean, that's the basic question, right?",
+    "uid": "e393b0dc3630d3f2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1331.6,
+    "end": 1334.6
+  },
+  {
+    "text": "Who anyway, we're going to make some kind of brutal decision.",
+    "uid": "958b58cd6140bc57",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1335.6,
+    "end": 1338.6
+  },
+  {
+    "text": "Like, okay, these two, we implant those eight. We donate to science.",
+    "uid": "312add84bbbaf4ac",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1338.6,
+    "end": 1342.6
+  },
+  {
+    "text": "Right? So it was going to happen anyway to eight of their 10 embryos.",
+    "uid": "d2d31d5f5a45bca9",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1342.6,
+    "end": 1347.6
+  },
+  {
+    "text": "So the thing is, if we can help your sister a little bit, let's help.",
+    "uid": "75913e94c6a364c9",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1347.6,
+    "end": 1352.6
+  },
+  {
+    "text": "That's my attitude.",
+    "uid": "0f52fe8e60e8a729",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1352.6,
+    "end": 1354.6
+  },
+  {
+    "text": "I also want to emphasize that typically the embryologist will actually just look at the shape.",
+    "uid": "ec778d3dfd461c4c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1355.6,
+    "end": 1360.6
+  },
+  {
+    "text": "Like, did the cells grow in a nice symmetrical pattern.",
+    "uid": "0fbb78f39a514d4a",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1360.6,
+    "end": 1363.6
+  },
+  {
+    "text": "They just literally look at the shape of it and say, like, oh, that one looks nice.",
+    "uid": "d5ea95eba94bf03e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1363.6,
+    "end": 1367.6
+  },
+  {
+    "text": "Yeah, would your sister rather go with the gut feeling based on the shape or would she rather go with some genetic evaluation?",
+    "uid": "e265ffd3860889a6",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1367.6,
+    "end": 1376.6
+  },
+  {
+    "text": "Well, I don't, I don't know because, like, it's probably really hard for parents to know, like, to really interpret this information.",
+    "uid": "3a8a2061bac15011",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1376.6,
+    "end": 1384.6
+  },
+  {
+    "text": "They might just hear somebody five and then hear the problem to actually disabled.",
+    "uid": "36c9a1d0dc615d73",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1384.6,
+    "end": 1388.6
+  },
+  {
+    "text": "I don't want that.",
+    "uid": "74c0b4d5ea958ab2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1388.6,
+    "end": 1389.6
+  },
+  {
+    "text": "And that that freaks me out.",
+    "uid": "d45ff5b18423bb17",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1389.6,
+    "end": 1391.6
+  },
+  {
+    "text": "Yeah, I do think that we need really good genetic counseling.",
+    "uid": "1d8832fffd3a1ce6",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1391.6,
+    "end": 1395.6
+  },
+  {
+    "text": "So that people understand the world that we're entering into because, again, no one's saying that embryo four is going to have IQ below 75.",
+    "uid": "121d40bb69156173",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1395.6,
+    "end": 1405.6
+  },
+  {
+    "text": "That's extremely bad.",
+    "uid": "1005af3bb02bbc68",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1405.6,
+    "end": 1407.6
+  },
+  {
+    "text": "That's actually not the message.",
+    "uid": "1ce8ff81fe060efe",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1407.6,
+    "end": 1408.6
+  },
+  {
+    "text": "The message is that the risks are a lot higher than for all your other embryos.",
+    "uid": "c0b73eed7950489e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1408.6,
+    "end": 1412.6
+  },
+  {
+    "text": "That's all we're saying.",
+    "uid": "ff05669c10200688",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1412.6,
+    "end": 1413.6
+  },
+  {
+    "text": "Well, but as for what a lot higher really means.",
+    "uid": "d63d40f868f86dad",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1413.6,
+    "end": 1418.6
+  },
+  {
+    "text": "I mean, there's different ways of quantifying the strength of the prediction.",
+    "uid": "d6d5ff0c50fdb354",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1418.6,
+    "end": 1423.6
+  },
+  {
+    "text": "I think the way to interpret it is it's a good predictor on average.",
+    "uid": "5214475967dd82c1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1423.6,
+    "end": 1430.6
+  },
+  {
+    "text": "And that's what makes it useful in research.",
+    "uid": "c1fcaaf4536b14dd",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1430.6,
+    "end": 1433.6
+  },
+  {
+    "text": "I talked to this guy named Dan Benjamin.",
+    "uid": "d86b2ab9b8be9c6c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1433.6,
+    "end": 1435.6
+  },
+  {
+    "text": "But in general, it's not a good predictor at the individual level.",
+    "uid": "4a84b231199d16d8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1435.6,
+    "end": 1440.6
+  },
+  {
+    "text": "He's a professor of economics at USC and one of the founders of that big consortium of scientists.",
+    "uid": "f08b440699b15224",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1440.6,
+    "end": 1446.6
+  },
+  {
+    "text": "Social science, genetic association consortium that helped both together the million or so genomes that Steve's genetic IQ predictor is effectively built on.",
+    "uid": "0bc3eea800fcc519",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1446.6,
+    "end": 1455.6
+  },
+  {
+    "text": "And he says, think about that comparison.",
+    "uid": "652c93a615db99e0",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1455.6,
+    "end": 1457.6
+  },
+  {
+    "text": "Steve made to the SAT.",
+    "uid": "360f6fcdaa6b82e1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1457.6,
+    "end": 1459.6
+  },
+  {
+    "text": "You know, it's very hard to predict who's going to do well in college.",
+    "uid": "2b11f9f7d35f6899",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1459.6,
+    "end": 1462.6
+  },
+  {
+    "text": "And SAT scores are among the better predictors of that.",
+    "uid": "e29a2c03732cb247",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1462.6,
+    "end": 1466.6
+  },
+  {
+    "text": "Like on average, the kids who score well in the SAT will do well in school.",
+    "uid": "c9d2f6578174eb64",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1466.6,
+    "end": 1472.6
+  },
+  {
+    "text": "But I mean, if you look at a university,",
+    "uid": "c9f05ff0d1eea685",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1472.6,
+    "end": 1475.6
+  },
+  {
+    "text": "you've always seen your grade point average at.",
+    "uid": "47591f16a35778fb",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1475.6,
+    "end": 1477.6
+  },
+  {
+    "text": "There are going to be some pretty poor performers.",
+    "uid": "cc812b6c5f21bbf5",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1477.6,
+    "end": 1480.6
+  },
+  {
+    "text": "It's a lowest on campus.",
+    "uid": "b3a4ca0e2e4508b6",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1481.6,
+    "end": 1483.6
+  },
+  {
+    "text": "And you might ask yourself, why did the school admit those students?",
+    "uid": "fe706615cab8bb15",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1483.6,
+    "end": 1486.6
+  },
+  {
+    "text": "You know what we got to do?",
+    "uid": "242c32c7a2a29a75",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1487.6,
+    "end": 1488.6
+  },
+  {
+    "text": "Shouldn't they have been able to tell those students we're going to do poor.",
+    "uid": "302e4f8f8c9574ac",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1488.6,
+    "end": 1493.6
+  },
+  {
+    "text": "And the answer is they couldn't tell for any individual person,",
+    "uid": "590e8c32b6b2b6fb",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1493.6,
+    "end": 1500.6
+  },
+  {
+    "text": "SAT scores are not a good predictor.",
+    "uid": "65a8728ce86aae0f",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1500.6,
+    "end": 1503.6
+  },
+  {
+    "text": "There are just too many other things that matter.",
+    "uid": "8af6e314f5336168",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1503.6,
+    "end": 1507.6
+  },
+  {
+    "text": "And just to sort of shift away from the SAT back to like using a polygynics score to try to say something about an individual.",
+    "uid": "9e1b71c50b4c7b0d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1507.6,
+    "end": 1514.6
+  },
+  {
+    "text": "If you had to quantify what not a very good prediction means, how would you do that?",
+    "uid": "69ea2d157326b5d2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1514.6,
+    "end": 1520.6
+  },
+  {
+    "text": "Well, if you picked two people randomly in the sample and you asked,",
+    "uid": "1cfb23a8e0e5a0e0",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1520.6,
+    "end": 1526.6
+  },
+  {
+    "text": "how likely is it that the one with the higher polygynics score is actually the one who got more years of schooling?",
+    "uid": "a93a14b335fd96e9",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1526.6,
+    "end": 1537.6
+  },
+  {
+    "text": "The answer is about 60%.",
+    "uid": "7d9ee6d12fd1c0ba",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1537.6,
+    "end": 1540.6
+  },
+  {
+    "text": "There is a 40% chance that you'll get it backwards.",
+    "uid": "676544a2e0d06429",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1542.6,
+    "end": 1545.6
+  },
+  {
+    "text": "And I think more to the point, you know, in the context of embryos selection,",
+    "uid": "6d72eb79c480c160",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1545.6,
+    "end": 1551.6
+  },
+  {
+    "text": "the prediction is less likely to be right.",
+    "uid": "1629ac7af630c348",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1551.6,
+    "end": 1553.6
+  },
+  {
+    "text": "It's going to be something like reducing it from 60% to 55%.",
+    "uid": "08e5cc7d0de72c5f",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1553.6,
+    "end": 1558.6
+  },
+  {
+    "text": "So according to Dan, these predictions can be useful in large groups,",
+    "uid": "a80be9c257c83b3c",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1558.6,
+    "end": 1562.6
+  },
+  {
+    "text": "but on an individual level, they're just a little bit better than a coin toss.",
+    "uid": "f534618e1aaec131",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1562.6,
+    "end": 1566.6
+  },
+  {
+    "text": "So I worry that companies that are offering this service, they're exaggerating the potential gains,",
+    "uid": "726f217e3f65bdeb",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1566.6,
+    "end": 1573.6
+  },
+  {
+    "text": "and also are not being upfront about what the risks are.",
+    "uid": "d6acd1ca24e15dcb",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1573.6,
+    "end": 1579.6
+  },
+  {
+    "text": "Two things on that real quick.",
+    "uid": "5c87f041c0f51483",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1579.6,
+    "end": 1581.6
+  },
+  {
+    "text": "First, Dan says, because we don't really know how the genetic variations that predict IQ score really work.",
+    "uid": "d15258ddb9384a9f",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1581.6,
+    "end": 1588.6
+  },
+  {
+    "text": "If you select against them, you might accidentally be selecting four other stuff, like mental illnesses or certain diseases.",
+    "uid": "d0deeb6e2f33365a",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1588.6,
+    "end": 1595.6
+  },
+  {
+    "text": "There are these risks, and we don't even know what all of the risks are.",
+    "uid": "71b9d795eca9a133",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1595.6,
+    "end": 1598.6
+  },
+  {
+    "text": "And number two, which might even be more disturbing, Dan says the genetic data all of this is based on,",
+    "uid": "b8606e790092e260",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1598.6,
+    "end": 1607.6
+  },
+  {
+    "text": "came only from white people of European descent.",
+    "uid": "a3a50cd8aae73bee",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1607.6,
+    "end": 1610.6
+  },
+  {
+    "text": "That's the only data they could get their hands on.",
+    "uid": "da0a92dc56bf4dc2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1610.6,
+    "end": 1612.6
+  },
+  {
+    "text": "And consequently, if you try to use a test, like Steve Shoes,",
+    "uid": "aa3a9062b7813653",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1612.6,
+    "end": 1617.6
+  },
+  {
+    "text": "on someone who's not a white person of European descent, it pretty much doesn't work.",
+    "uid": "b5af82d77badd43f",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1617.6,
+    "end": 1623.6
+  },
+  {
+    "text": "That correlation drops to the floor.",
+    "uid": "47c892f119256612",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1623.6,
+    "end": 1626.6
+  },
+  {
+    "text": "So even the possibility of doing it is pretty much limited to well off white people at this point.",
+    "uid": "41c03a7c1022543e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1626.6,
+    "end": 1633.6
+  },
+  {
+    "text": "And so instead of just sort of says with this confidence, that the genetic predictor is pretty much like the SAT.",
+    "uid": "fc6821ac44750498",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1633.6,
+    "end": 1642.58
+  },
+  {
+    "text": "That's just not the whole story.",
+    "uid": "8473c2eac32dcd47",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1642.58,
+    "end": 1644.58
+  },
+  {
+    "text": "It's more complicated than that.",
+    "uid": "888e9658b5bb2671",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1644.58,
+    "end": 1646.58
+  },
+  {
+    "text": "And what worries me is that you have guys like Dan Benjamin advocating for this more complex understanding of what this statistics really mean.",
+    "uid": "18a1922219c102c5",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1646.58,
+    "end": 1656.58
+  },
+  {
+    "text": "And saying they're meaningful in big groups, but they're not meaningful in individuals.",
+    "uid": "87b0b72557961105",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1656.58,
+    "end": 1661.58
+  },
+  {
+    "text": "But you know, on the other side, you have Steve's story, which is just so fast straight forward and compelling.",
+    "uid": "59d6df39bb711546",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1661.58,
+    "end": 1669.58
+  },
+  {
+    "text": "And you know, if Steve's story and Dan's story have to face off, I just feel like Steve's will win every time.",
+    "uid": "356ba2845bf7d810",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1669.58,
+    "end": 1677.58
+  },
+  {
+    "text": "You know, because this story is so simple.",
+    "uid": "1fe74debccc74425",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1677.58,
+    "end": 1680.58
+  },
+  {
+    "text": "It does feel like in the end what you're able to tell someone like isn't that much because it isn't a one to one predictor or even really close to that.",
+    "uid": "434b9db1df03720e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1680.58,
+    "end": 1689.58
+  },
+  {
+    "text": "Well, it will get better. I guarantee you as we get more data, the predictive power will get much better.",
+    "uid": "4fd3702bd9d36010",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1689.58,
+    "end": 1695.58
+  },
+  {
+    "text": "And I think it will eventually achieve a kind of capability, kind of like what we can do with height, where you, you know, the the error is about an inch, maybe plus or minus 10 points of IQ.",
+    "uid": "b472e0ad663651ac",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1695.58,
+    "end": 1705.58
+  },
+  {
+    "text": "You know, I will say that once again, Megan Lontini.",
+    "uid": "e2c8f04ed93de723",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1705.58,
+    "end": 1709.58
+  },
+  {
+    "text": "Right now, while he may be an outlier in terms of what he's willing to offer based on kind of where the models are now.",
+    "uid": "4bf0bd99b69e57a8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1709.58,
+    "end": 1718.58
+  },
+  {
+    "text": "I don't think he will be an outlier for long.",
+    "uid": "278b75befee29700",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1718.58,
+    "end": 1722.58
+  },
+  {
+    "text": "The information is going to become available and it's only going to it's only going to get better.",
+    "uid": "52924602ca6ea0f5",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1722.58,
+    "end": 1728.58
+  },
+  {
+    "text": "And of course, there are many ethical things that we have to sort out.",
+    "uid": "64a6ed05a3d3f735",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1728.58,
+    "end": 1732.58
+  },
+  {
+    "text": "And I think different societies will decide different things about how they want to deal with this.",
+    "uid": "13beacecd5f59297",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1732.58,
+    "end": 1736.58
+  },
+  {
+    "text": "And so, you know, if a particular country said, we do not want you to ever report anything about cognitive risks.",
+    "uid": "a2553e8d2e032d35",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1736.58,
+    "end": 1745.58
+  },
+  {
+    "text": "We just don't want you to report that. I would totally respect that.",
+    "uid": "7babc1ca8d3985bc",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1745.58,
+    "end": 1749.58
+  },
+  {
+    "text": "But then I think you have to respect if the nation of Singapore, if they decide this is an important thing to do,",
+    "uid": "af94edb707e0de1b",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1749.58,
+    "end": 1756.58
+  },
+  {
+    "text": "well, you better respect them, too.",
+    "uid": "d8b78d0e6def6167",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1756.58,
+    "end": 1758.58
+  },
+  {
+    "text": "Otherwise, you're some kind of racist colonialist guy who says only my ethics count.",
+    "uid": "65c8ced6e7a66972",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1758.58,
+    "end": 1765.58
+  },
+  {
+    "text": "So I realize, you know, I realize the NPR audience may not like it, but you know, this is the world that we're entering into.",
+    "uid": "998ff7c3914ffabe",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1765.58,
+    "end": 1772.58
+  },
+  {
+    "text": "How people use the tool yet, like has the predicted tool been used by consumers yet?",
+    "uid": "5732348b553faea0",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1772.58,
+    "end": 1778.58
+  },
+  {
+    "text": "So, there are different segments to the product, the full blown thing where you report genetic test scores, polygenic scores for a variety of traits is in the process of being used.",
+    "uid": "bd52363d2ef5f9d8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1778.58,
+    "end": 1795.58
+  },
+  {
+    "text": "What does the process mean?",
+    "uid": "878eccb89c131fd2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1795.58,
+    "end": 1797.58
+  },
+  {
+    "text": "Well, you know, I'm not ready to report the birth of any child or anything, but let's just say sample seven analyzed.",
+    "uid": "ef5293a09b20c220",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1797.58,
+    "end": 1805.58
+  },
+  {
+    "text": "Okay. And it's been that information's been provided to couples?",
+    "uid": "68aa21b96c52f7a2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1805.58,
+    "end": 1812.58
+  },
+  {
+    "text": "I don't know that I can comment on exactly any specifics along those lines. I'd probably have to check with our CEO.",
+    "uid": "63f0f630bab58dfa",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1812.58,
+    "end": 1820.58
+  },
+  {
+    "text": "One last thing, just the other day, as we were finishing the story, Steve wrote to us and said that while the company has provided risk reports to IVF doctors for various diseases like breast cancer and diabetes, they have not, quote,",
+    "uid": "f96d89172e9dc706",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1820.58,
+    "end": 1843.9
+  },
+  {
+    "text": "given a report warning of high risk for intellectual disability.",
+    "uid": "7280c0b00a9639ea",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1843.9,
+    "end": 1848.9
+  },
+  {
+    "text": "Yet, at the end of this, I find myself thinking about the thousands of couples out there who are doing IVF and the thousands more who will do it in the years and decades ahead, and honestly wondering, like,",
+    "uid": "12343387041a5327",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1849.9,
+    "end": 1866.57
+  },
+  {
+    "text": "I'm Rebecca Sikkin.",
+    "uid": "15ab085c2f4c51e1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1866.57,
+    "end": 1867.57
+  },
+  {
+    "text": "I'm Rebecca Gardner, Jill. I'm late, Katie. I would love to just not use anything at all.",
+    "uid": "3d6332b42dd32a83",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1868.57,
+    "end": 1873.57
+  },
+  {
+    "text": "Would they want to know?",
+    "uid": "e6e12f20270993f1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1873.57,
+    "end": 1874.57
+  },
+  {
+    "text": "We just finished our second cycle of IVF.",
+    "uid": "d73bfc95bd7286cf",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1874.57,
+    "end": 1877.57
+  },
+  {
+    "text": "We have one embryo.",
+    "uid": "aa695d69f68d3ead",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1877.57,
+    "end": 1879.57
+  },
+  {
+    "text": "I'm in the early stages of IVF cycle one.",
+    "uid": "fbf97353b30f5ada",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1879.57,
+    "end": 1882.57
+  },
+  {
+    "text": "What's Steve's you can tell of?",
+    "uid": "c8488c1874f7b3ab",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1882.57,
+    "end": 1884.57
+  },
+  {
+    "text": "Kind of makes you feel uncomfortable.",
+    "uid": "d56c4ff7b23e5a96",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1884.57,
+    "end": 1889.1
+  },
+  {
+    "text": "I think I would have a lot of anxiety over that decision when you hear that it's not that accurate.",
+    "uid": "8d351fa3060120b3",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1889.1,
+    "end": 1895.1
+  },
+  {
+    "text": "I'm everybody, once there's you'll be...",
+    "uid": "a5a1989eb1a686c8",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1895.1,
+    "end": 1899.24
+  },
+  {
+    "text": "I don't see what harm it could do to test for the other.",
+    "uid": "1d94348b8948de55",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1899.24,
+    "end": 1906.24
+  },
+  {
+    "text": "There are way too many questions that we would need to ask before we would ever consider that.",
+    "uid": "794eb6b3fe2dccc2",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1906.24,
+    "end": 1911.24
+  },
+  {
+    "text": "I think I would probably want to know.",
+    "uid": "a74b3bb0455e1ec4",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1911.24,
+    "end": 1913.24
+  },
+  {
+    "text": "Do you want to know what's then?",
+    "uid": "2773e717e0fb4efc",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1913.24,
+    "end": 1915.24
+  },
+  {
+    "text": "We're looking at a world where people who have a lot of money just select for the ones who are more intelligent.",
+    "uid": "242f2c47b155ce3b",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1915.24,
+    "end": 1922.24
+  },
+  {
+    "text": "If it were offered to me and it wasn't cost prohibitive, I think I would move forward as a testing.",
+    "uid": "43097f5cab357df4",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1922.24,
+    "end": 1926.24
+  },
+  {
+    "text": "It is something I think we will have to consider for the future of the sport.",
+    "uid": "c0837a9b6224a634",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1926.24,
+    "end": 1930.24
+  },
+  {
+    "text": "Before we do our next round, we probably will do the next step.",
+    "uid": "094bc3133815d6fa",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1930.24,
+    "end": 1934.24
+  },
+  {
+    "text": "I have to think about it. Long and hard. Yeah, it's just a really tough question.",
+    "uid": "5a8268af0e245857",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1934.24,
+    "end": 1939.24
+  },
+  {
+    "text": "This episode was produced by Simon Adler, who also wrote all the music you heard in it.",
+    "uid": "66e70461258098b1",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1939.24,
+    "end": 1961.87
+  },
+  {
+    "text": "With help from Rachel Kiesick and me, our fact-checker is Michelle Harris.",
+    "uid": "3af8f3b40d7aeb76",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1961.87,
+    "end": 1965.87
+  },
+  {
+    "text": "We had engineering help from Jeremy Bloom and special thanks to Katherine Bliss.",
+    "uid": "46e4c816c4150d43",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1965.87,
+    "end": 1971.87
+  },
+  {
+    "text": "RadioLabsG is supported in part by Science Sandbox, a Simon's Foundation initiative dedicated to engaging everyone with the process of science.",
+    "uid": "b8ea4a322dbdd633",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1971.87,
+    "end": 1979.87
+  },
+  {
+    "text": "The plays in this age, Pritz II, a dard of message. This is Megan Multenney calling from the Wired of Poffices in San Francisco.",
+    "uid": "3b2ec9d3144a4a88",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1979.87,
+    "end": 1990.05
+  },
+  {
+    "text": "RadioLabsG created by John Abelrod as produced by Souran Wheeler.",
+    "uid": "4d71d4f88a3cea6d",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1990.05,
+    "end": 1994.05
+  },
+  {
+    "text": "Bill and Seas is our director of Sound Design.",
+    "uid": "49639eba966d208e",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1994.05,
+    "end": 1997.05
+  },
+  {
+    "text": "Do the lectern work in our executive producer.",
+    "uid": "8d16ea82779b69a6",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 1997.05,
+    "end": 2000.05
+  },
+  {
+    "text": "Our staff includes Simon Adler, Becca Bruffler, Rachel Kiesick, David Gebel, vessel hattee, Tracy Hunt, Nora Keller,",
+    "uid": "e130d69e4100ef72",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 2000.05,
+    "end": 2009.05
+  },
+  {
+    "text": "MacKielby, Robert Kowicz, Amy McEwen, Latifnather, Sarah Carrey, Aryan Lack, Pat Walters, and Molly Webster.",
+    "uid": "b9622bbabbba66d9",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 2009.05,
+    "end": 2019.05
+  },
+  {
+    "text": "We've helped from Shima Oliai, W Harry Fortunas, Sarah Sunbach, Melissa O'Donnell, Neil Dinesha, Bruce Samuel, and a Moni Leonard.",
+    "uid": "bb95f944c072c6cf",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 2019.05,
+    "end": 2029.05
+  },
+  {
+    "text": "Our fact-checker is Michelle Harris. Thanks, bye!",
+    "uid": "0fb2f118a422d221",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 2029.05,
+    "end": 2033.05
+  },
+  {
+    "text": "And this message.",
+    "uid": "3211f0972b9fa5ce",
+    "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5",
+    "start": 2033.05,
+    "end": 2035.05
+  }
+]
