@@ -1,0 +1,2718 @@
+[
+  {
+    "text": "Hello and welcome to how I built this resilience edition",
+    "uid": "a1ba5c17c4e6d0df",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 226.26,
+    "end": 230.26
+  },
+  {
+    "text": "This is where we talk with entrepreneurs about the creative ways they're coping with the economics slow down in the window",
+    "uid": "0d6a33625bb6c741",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 230.9,
+    "end": 237.22
+  },
+  {
+    "text": "Next to me is song L'Ran co-founder of the app Squire hello, son",
+    "uid": "dc17eabf321f853a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 237.7,
+    "end": 242.58
+  },
+  {
+    "text": "At Squire if you don't know is a booking and payment platform",
+    "uid": "f73e406bb914318b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 245.02,
+    "end": 248.22
+  },
+  {
+    "text": "It connects people with a barber or a hair stylist",
+    "uid": "d7cff4a3120d3ae8",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 248.58,
+    "end": 251.42
+  },
+  {
+    "text": "The company was launched just five years ago, and it's now raised more than 40 million dollars from investors",
+    "uid": "af0c58f03ff44ccd",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 252.22,
+    "end": 257.42
+  },
+  {
+    "text": "I'm so on welcome to show",
+    "uid": "905f83b575cdb263",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 257.9,
+    "end": 259.9
+  },
+  {
+    "text": "And just remind her if you're watching this on Facebook or YouTube or Twitter we are taking your questions",
+    "uid": "c203c4ac7bc2e07a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 261.66,
+    "end": 267.18
+  },
+  {
+    "text": "We love getting your questions as you only time I get to ask your questions because when I'm doing the podcast",
+    "uid": "8b78c999ad7169dc",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 267.74,
+    "end": 272.22
+  },
+  {
+    "text": "I'm in a studio and there's none of you are there",
+    "uid": "88cd09d1644001de",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 272.22,
+    "end": 274.86
+  },
+  {
+    "text": "I'm just interviewing the person and so this is where I get to ask your questions",
+    "uid": "364ec0ca5a2b9501",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 274.86,
+    "end": 278.22
+  },
+  {
+    "text": "So please keep them coming",
+    "uid": "d6b096363a079596",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 278.22,
+    "end": 280.22
+  },
+  {
+    "text": "First of all, son",
+    "uid": "d91566e88de70bd4",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 280.38,
+    "end": 282.38
+  },
+  {
+    "text": "You're in New York you've been in New York this whole time during this COVID crisis",
+    "uid": "7a67cd6a37ada68d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 282.38,
+    "end": 287.18
+  },
+  {
+    "text": "How are you doing?",
+    "uid": "1555e23e6b5831e1",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 288.38,
+    "end": 290.38
+  },
+  {
+    "text": "Yeah, I'm good. I'm good",
+    "uid": "b2ff80968f15d142",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 290.38,
+    "end": 292.38
+  },
+  {
+    "text": "I've adjusted and had to adapt like I think the whole world has this kind of unexpected",
+    "uid": "8be553ea930cae0c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 294.38,
+    "end": 299.5
+  },
+  {
+    "text": "But York is very resilient and you're seeing that",
+    "uid": "17763e1d6842c3a0",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 302.06,
+    "end": 306.62
+  },
+  {
+    "text": "Cauchasly optimistic I think now in New York as a number is our trending down and we're all kind of hoping to",
+    "uid": "61c14ea7316cb9d1",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 309.18,
+    "end": 313.66
+  },
+  {
+    "text": "I continue but I think like everybody's just taking a day by day",
+    "uid": "43094edf24211fb2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 313.66,
+    "end": 317.42
+  },
+  {
+    "text": "Yeah, so I mentioned a little bit about Squire for people who don't know the app tell us more about it",
+    "uid": "74f313d47d1b93bc",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 318.14,
+    "end": 323.42
+  },
+  {
+    "text": "Yeah, so Squire is a business management and point of sale",
+    "uid": "ad9ddbc1b47f28f9",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 324.62,
+    "end": 329.9
+  },
+  {
+    "text": "software focusing on barber shops",
+    "uid": "db42d63c02dc52d2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 330.38,
+    "end": 332.38
+  },
+  {
+    "text": "so we do",
+    "uid": "0b0deda72c3dd73a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 333.02,
+    "end": 335.02
+  },
+  {
+    "text": "Essentially everything that at barber shop needs to run their business from handling the booking",
+    "uid": "8e2dff152e0f7208",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 335.02,
+    "end": 340.38
+  },
+  {
+    "text": "interface to the back-end",
+    "uid": "d9cc217adae3440e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 340.94,
+    "end": 342.94
+  },
+  {
+    "text": "Point of sale",
+    "uid": "ef65dce23a11cc2e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 343.66,
+    "end": 345.02
+  },
+  {
+    "text": "Inventory it's a full end-to-end system and it's really customized specifically for their barber shop industry",
+    "uid": "696e77313143c5f8",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 345.02,
+    "end": 352.54
+  },
+  {
+    "text": "And then on the consumer side is a client",
+    "uid": "556fbd6c26f02d03",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 352.94,
+    "end": 354.94
+  },
+  {
+    "text": "You can actually find a barber shop a book pay and tip",
+    "uid": "d3c3814aa21e1fa0",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 355.26,
+    "end": 358.7
+  },
+  {
+    "text": "All in the app or on the website",
+    "uid": "c56eb2a11ab56b7a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 359.82,
+    "end": 361.82
+  },
+  {
+    "text": "So it's a little like Zock dock for barber shops, you know Zock dock yeah, yeah, yeah, yeah, yeah, say that yeah",
+    "uid": "b1d7dc195e777e18",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 362.3,
+    "end": 369.82
+  },
+  {
+    "text": "And what's the business model? How do you guys make money through through the business?",
+    "uid": "ca5658fa135a506f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 370.86,
+    "end": 374.86
+  },
+  {
+    "text": "What's your different ways but the main ways from having the payment processing so that that should record our business",
+    "uid": "81f05313c898fdb0",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 376.94,
+    "end": 384.46
+  },
+  {
+    "text": "There's a subscription component",
+    "uid": "3a5212662d8d113e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 384.86,
+    "end": 386.86
+  },
+  {
+    "text": "So the shops that use our platform will pay $100 to $250 a month",
+    "uid": "546b39596a40121f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 386.86,
+    "end": 391.82
+  },
+  {
+    "text": "And then there's our customer booking fee",
+    "uid": "5a08efd0b1b7f6ee",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 392.7,
+    "end": 395.02
+  },
+  {
+    "text": "So if you book and pay on Squire you'll pay about a dollar extra",
+    "uid": "93f890ccc40b45b1",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 395.5,
+    "end": 399.66
+  },
+  {
+    "text": "So in that revenue goes to Squire",
+    "uid": "05407c0b4976bcba",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 400.3,
+    "end": 402.46
+  },
+  {
+    "text": "I mean most people don't know this but but like a lot of barbers are independent contractors you may go to a barber shop and",
+    "uid": "80602b15a213ccf2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 403.9,
+    "end": 410.22
+  },
+  {
+    "text": "They may have a chair there, but they actually are",
+    "uid": "fe95b022409bb123",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 410.62,
+    "end": 413.34
+  },
+  {
+    "text": "Their own business, right?",
+    "uid": "028c7a60e548cd02",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 414.06,
+    "end": 415.26
+  },
+  {
+    "text": "Yeah, so this two",
+    "uid": "ce4893126a79cf8b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 416.22,
+    "end": 418.22
+  },
+  {
+    "text": "Central models for barber shop business models",
+    "uid": "f760cca5795afff0",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 419.34,
+    "end": 421.98
+  },
+  {
+    "text": "One is where you mentioned which we call kind of the central model",
+    "uid": "1a817cea31b6864b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 422.38,
+    "end": 425.26
+  },
+  {
+    "text": "Reach barbers essentially an independent contractor",
+    "uid": "7dd511a4a011a240",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 425.74,
+    "end": 428.3
+  },
+  {
+    "text": "They run their own business they manage their own schedule. They go on come as they please and then they pay rent",
+    "uid": "cff0ad8151ae1347",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 428.78,
+    "end": 433.82
+  },
+  {
+    "text": "True the owner usually on a weekly basis and then the other",
+    "uid": "7aa2979d22d8ad07",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 434.22,
+    "end": 437.66
+  },
+  {
+    "text": "Model is what we call commission model where those barbers are treated a little bit more like employees",
+    "uid": "2c40524892595759",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 438.06,
+    "end": 444.46
+  },
+  {
+    "text": "They have certain hours that they come and in that case",
+    "uid": "1628673817eb3d82",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 445.26,
+    "end": 448.7
+  },
+  {
+    "text": "They split the percentage of the transaction with the shop usually it'll be",
+    "uid": "85705b2193beff7d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 449.58,
+    "end": 455.02
+  },
+  {
+    "text": "64 year or 50 and the owner will get a piece of every of every transaction right",
+    "uid": "9869894c18001e45",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 455.34,
+    "end": 461.02
+  },
+  {
+    "text": "You co-founded this with your friend Dave Salvent five years ago",
+    "uid": "6eea2fbe7f83c6e7",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 462.3,
+    "end": 466.46
+  },
+  {
+    "text": "Tell me how you guys had the idea. I know I mean just for some background for people who don't know you you went",
+    "uid": "3015a54633d9fc8d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 466.86,
+    "end": 471.98
+  },
+  {
+    "text": "To you studied philosophy as an undergrad",
+    "uid": "bd80f80f21004dd8",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 472.46,
+    "end": 474.94
+  },
+  {
+    "text": "And got a lot of degree and then worked in like I think in the tech sector for a couple years and",
+    "uid": "82e9e30aec6048eb",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 475.26,
+    "end": 482.14
+  },
+  {
+    "text": "Dave was an old friend. I guess how did you guys come up with this idea?",
+    "uid": "c6abb5578aa9e177",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 482.54,
+    "end": 485.66
+  },
+  {
+    "text": "Yeah, so I actually",
+    "uid": "7c4a2b244fbf48e7",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 486.7,
+    "end": 488.7
+  },
+  {
+    "text": "Prior found this choir",
+    "uid": "d740330465daab10",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 489.1,
+    "end": 490.94
+  },
+  {
+    "text": "I didn't work in a tech sector. I was at a corporate law firm doing corporate",
+    "uid": "414b1c5a22df792f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 490.94,
+    "end": 495.34
+  },
+  {
+    "text": "I mean a finance type stuff and Dave was actually in business school and both of us wanted to do something more on",
+    "uid": "d539a2b4c6eecaf7",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 495.34,
+    "end": 501.9
+  },
+  {
+    "text": "In rural didn't want to go to corporate",
+    "uid": "da8da25c9d8b5f59",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 501.9,
+    "end": 503.9
+  },
+  {
+    "text": "So we would just brainstorm ideas on the weekend and",
+    "uid": "c2ae9d4a9d8cc785",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 505.5,
+    "end": 508.86
+  },
+  {
+    "text": "We eventually stumbled on the idea of barbershops and the idea came out of our own experience",
+    "uid": "11f5bd615c2a4f09",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 510.3,
+    "end": 516.7
+  },
+  {
+    "text": "I haven't gone to barbershops for decades",
+    "uid": "c467384f126ad494",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 516.7,
+    "end": 519.58
+  },
+  {
+    "text": "Like most people I started going to find that as a kid around six or seven and this was about",
+    "uid": "ed3619425ab2fafd",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 520.06,
+    "end": 525.02
+  },
+  {
+    "text": "two decades later and the experience of going to the barbershop had changed",
+    "uid": "d33b83fd7e964479",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 525.02,
+    "end": 529.82
+  },
+  {
+    "text": "It was essentially still the same",
+    "uid": "b2723aad63f6e0b4",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 530.22,
+    "end": 532.22
+  },
+  {
+    "text": "Very antiquated low-tech industry",
+    "uid": "74f283974d0f43cf",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 533.18,
+    "end": 535.58
+  },
+  {
+    "text": "Cash-based needs a call to make an appointment long wait times so all of those pain points that the really experienced",
+    "uid": "7748e92f913d1619",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 536.3,
+    "end": 543.82
+  },
+  {
+    "text": "Form the basis of why we came up with the idea of this is something that we wanted to work on",
+    "uid": "8c2adc68d7e130d6",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 545.26,
+    "end": 549.66
+  },
+  {
+    "text": "Yeah, just a reminder if you're watching on Facebook or YouTube or Twitter",
+    "uid": "c3e170e4b2c585d5",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 550.06,
+    "end": 553.74
+  },
+  {
+    "text": "Please keep your questions coming for song-luron",
+    "uid": "34a68cb339402126",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 553.74,
+    "end": 556.78
+  },
+  {
+    "text": "We'd love to get them yeah, I mean we were talking about this before we we we went live about like my my barbershop",
+    "uid": "b260330d158b07a5",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 557.02,
+    "end": 563.42
+  },
+  {
+    "text": "They don't take appointments you have to get get there when the doors open at at at at at at 30 and they have a chalkboard",
+    "uid": "94346c7b72f64433",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 564.54,
+    "end": 569.58
+  },
+  {
+    "text": "And there's a usually a line and it's cash only it's 35 bucks and and you can get there at at 30 and you might only get an appointment",
+    "uid": "ffd511ec13e7c626",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 569.98,
+    "end": 579.26
+  },
+  {
+    "text": "Like 1145 and some days all like right my back down there at 830 and then",
+    "uid": "034a8c3657b9cee1",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 579.26,
+    "end": 583.98
+  },
+  {
+    "text": "They only have an appointment at a time where I have a live interview and I can't get an appointment. I can't get a haircut",
+    "uid": "9feebe6dc68012e7",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 584.62,
+    "end": 589.82
+  },
+  {
+    "text": "But you're basically that's that's been the model for forever and ever from for most barbershop",
+    "uid": "263a34fd1de58c17",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 590.46,
+    "end": 595.34
+  },
+  {
+    "text": "Yeah, so the NS best always we're solving",
+    "uid": "7d74f1e3f8a5e12e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 596.7,
+    "end": 599.5
+  },
+  {
+    "text": "Because that's not a really an ideal experience for you as a customary isn't it's not a good experience for the barbers either",
+    "uid": "534a1b390d9f2b66",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 599.82,
+    "end": 606.14
+  },
+  {
+    "text": "In terms of efficiently",
+    "uid": "1545d41ff034d711",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 606.94,
+    "end": 608.94
+  },
+  {
+    "text": "Running their business, but getting a hair a credit such such a great experience and it's such an important part of your life that you're willing to to go through",
+    "uid": "a028e021ed0d9c45",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 608.94,
+    "end": 618.38
+  },
+  {
+    "text": "You know that for our customer experience to get the service",
+    "uid": "f179d24638977b7d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 619.26,
+    "end": 622.86
+  },
+  {
+    "text": "But we don't we think that you know we can make it better than that so yeah",
+    "uid": "9fb3e08f29aebb47",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 623.42,
+    "end": 628.38
+  },
+  {
+    "text": "How have you like how do you approach barbershops? I mean I have to imagine like there are a lot of barbershops",
+    "uid": "af16d8b5ccfda6fa",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 628.94,
+    "end": 634.94
+  },
+  {
+    "text": "Like I know I don't want to I don't want to give up my cash or I don't want to give up you know percentage of my business or a percentage of my",
+    "uid": "ec2ce73f3fffa12d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 634.94,
+    "end": 641.34
+  },
+  {
+    "text": "Incom I mean it's you know it's right right I mean presumably you can get some pushback from",
+    "uid": "e7aaa7814de5cd55",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 641.82,
+    "end": 646.94
+  },
+  {
+    "text": "Potential customers. How do you make the case for people to sign up?",
+    "uid": "c6259acc8297ca2b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 647.98,
+    "end": 650.86
+  },
+  {
+    "text": "Yeah, I mean we",
+    "uid": "586a75f141a8566a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 652.14,
+    "end": 654.14
+  },
+  {
+    "text": "Selt and then is that this is gonna make their lives easier. This is gonna save you time and this is actually gonna",
+    "uid": "d3eea75e3f985839",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 654.46,
+    "end": 659.9
+  },
+  {
+    "text": "And they will then to be better business owners and make more money and we can show them that that's what that's the software the software actually does",
+    "uid": "a8b6a4601390c620",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 660.14,
+    "end": 668.78
+  },
+  {
+    "text": "Early on we did get more pushback from cash only shops",
+    "uid": "2c80289bdf1bbf11",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 670.14,
+    "end": 674.62
+  },
+  {
+    "text": "So our focus was more on shops that are already taking cards",
+    "uid": "109070e9d77b9779",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 675.42,
+    "end": 679.26
+  },
+  {
+    "text": "But that that's really the trend just in the world generally",
+    "uid": "9976d28de9cd821f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 679.74,
+    "end": 683.1
+  },
+  {
+    "text": "Consumers are used to paying for services with cards",
+    "uid": "89b6ecda8f0229dc",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 683.9,
+    "end": 686.78
+  },
+  {
+    "text": "So the shops that are cash only",
+    "uid": "46f0d0460e16a6a9",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 687.58,
+    "end": 689.82
+  },
+  {
+    "text": "There will be some segment that just doesn't want to pay taxes quite frankly",
+    "uid": "d12dad0ad9f0f5b8",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 690.22,
+    "end": 693.66
+  },
+  {
+    "text": "But you know we're saying more and more particularly you know the newer shops that are opening",
+    "uid": "10baec87e20b7d5e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 694.46,
+    "end": 698.86
+  },
+  {
+    "text": "They understand that if they want to meet their consumers and provide a really you know a great experience to the clients that they have to kind of accept cars and",
+    "uid": "017afdf413d61ea1",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 699.1,
+    "end": 706.54
+  },
+  {
+    "text": "It enables them to charge more you know, right?",
+    "uid": "c074001953760c0b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 707.02,
+    "end": 709.34
+  },
+  {
+    "text": "I know that as I said people will pay more on card",
+    "uid": "3bd0a465fcc3175d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 709.34,
+    "end": 711.74
+  },
+  {
+    "text": "Versus cash and if you want to charge $30 a haircut for your other haircut as is the case in many many cities",
+    "uid": "11c1281828794734",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 712.54,
+    "end": 719.5
+  },
+  {
+    "text": "It just makes sense",
+    "uid": "6fa013b99d47f6f9",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 720.14,
+    "end": 722.14
+  },
+  {
+    "text": "I should mention that you are actually",
+    "uid": "a5f1d163b5815f25",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 722.14,
+    "end": 724.14
+  },
+  {
+    "text": "In an office of a barbershop right now in Connecticut",
+    "uid": "becd54b6ae39925c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 725.02,
+    "end": 728.94
+  },
+  {
+    "text": "You can hear a little bit of it behind you",
+    "uid": "7931e696bdc89c4b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 729.66,
+    "end": 732.14
+  },
+  {
+    "text": "No, that's fine",
+    "uid": "f842cba5b630eac1",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 733.42,
+    "end": 735.42
+  },
+  {
+    "text": "So so first of all our barbershops and Connecticut open",
+    "uid": "6b508a6d4abb3a5f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 735.98,
+    "end": 739.58
+  },
+  {
+    "text": "Yes, yes, they are",
+    "uid": "34552ddf080d18e5",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 740.94,
+    "end": 742.94
+  },
+  {
+    "text": "They are open. I think Connecticut is probably faced three or whatever the phases where barbershops and other service space businesses are open",
+    "uid": "7a07d54004f6032c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 743.1,
+    "end": 750.86
+  },
+  {
+    "text": "So yeah, they're open for business and what's the protocol in there the barbers wearing masks and the customer",
+    "uid": "33dbc533287a7223",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 752.22,
+    "end": 757.18
+  },
+  {
+    "text": "Customs barbers wear masks customers wear masks. There's no waiting in the barbershop anymore",
+    "uid": "a03d0e4541000778",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 757.98,
+    "end": 763.9
+  },
+  {
+    "text": "So customers who have to wait outside or in their car until their appointment time",
+    "uid": "0ca1baa5719591e1",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 764.86,
+    "end": 770.7
+  },
+  {
+    "text": "is ready and there's also you know social distancing between shares",
+    "uid": "60e081d11f9dd829",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 771.66,
+    "end": 776.62
+  },
+  {
+    "text": "So that they space right out the shares so that they're you know the servicing less you know fewer customers as it",
+    "uid": "9243d32fadb396b5",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 777.34,
+    "end": 783.74
+  },
+  {
+    "text": "result yeah, but barbers I always say that barbers are probably one of the few",
+    "uid": "5ab8a6d5a3d0986d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 783.74,
+    "end": 789.34
+  },
+  {
+    "text": "Confessionals that are very well equipped in this in this new environment because I actually go to school for this in order to get a barbershop a barber license you have to",
+    "uid": "d945fb27abe91d4b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 790.3,
+    "end": 798.94
+  },
+  {
+    "text": "Study you know disinfecting and taking different precautions so you know unlike you know",
+    "uid": "c3bec8b266b1eb4e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 800.62,
+    "end": 806.38
+  },
+  {
+    "text": "Then you waiters or other types of people who are servicing",
+    "uid": "9bcf9f22fc6e1224",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 806.38,
+    "end": 810.3
+  },
+  {
+    "text": "Providing services I think barbers are one of the few that actually already had to get license and go through education",
+    "uid": "7308e46be1ef8400",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 810.94,
+    "end": 817.26
+  },
+  {
+    "text": "You know to be prepared for this environment so I'm a big component of you know a barbershop",
+    "uid": "69ea156cb1153088",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 817.66,
+    "end": 823.26
+  },
+  {
+    "text": "We're opening yeah, this is that well as as I mentioned earlier before we went live",
+    "uid": "c574975800abcb80",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 823.26,
+    "end": 828.62
+  },
+  {
+    "text": "I'm in California and now barbershops are closed in in most of the state",
+    "uid": "bed9156226208d51",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 828.62,
+    "end": 833.02
+  },
+  {
+    "text": "I'm an alibi the county they've been closed for most of last",
+    "uid": "379f287ccf318d5e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 833.02,
+    "end": 836.06
+  },
+  {
+    "text": "I don't know how many months we've been in this now and and I have to be honest like I'm a little I'm still nervous about I was still being nervous about going you know",
+    "uid": "d543e684e60d149e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 836.62,
+    "end": 843.66
+  },
+  {
+    "text": "I've I've given myself two very bad haircuts over the last six months with with clippers and my kids do",
+    "uid": "1aa8a55a4ceada74",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 843.66,
+    "end": 851.9
+  },
+  {
+    "text": "But what I mean when you go now to a barbershop where it's open",
+    "uid": "6e9dd13dc6a4664d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 853.66,
+    "end": 857.5
+  },
+  {
+    "text": "You know when people are taking precautions what are they doing everyone's everyone's wearing a mask",
+    "uid": "55c9e1da388cbef0",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 858.06,
+    "end": 861.66
+  },
+  {
+    "text": "But are they disinfecting the seats between customers and you know",
+    "uid": "70769311cd676dbf",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 861.66,
+    "end": 865.66
+  },
+  {
+    "text": "Yeah, the disinfecting I mean they already",
+    "uid": "679e5a473f2d6f27",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 866.7,
+    "end": 868.94
+  },
+  {
+    "text": "Happy to disinfect tools between every cut that should be doing that",
+    "uid": "6c2435c8f7c7851d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 869.26,
+    "end": 872.94
+  },
+  {
+    "text": "But now they're also",
+    "uid": "11b496b3168cd3aa",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 873.5,
+    "end": 875.1
+  },
+  {
+    "text": "seating area many of them are using disposable barber tapes or they're using just one per customer so they'll have a",
+    "uid": "e644ecbeea8f321a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 877.1,
+    "end": 885.66
+  },
+  {
+    "text": "Supply you know ready so they're not using the capes and",
+    "uid": "4ee10b569ac98f2c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 886.38,
+    "end": 889.34
+  },
+  {
+    "text": "You know they're taking precautions a lot of them are not doing",
+    "uid": "bf846a657d0be3e7",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 890.54,
+    "end": 894.22
+  },
+  {
+    "text": "Certain services like they want to be able to work but they want to",
+    "uid": "6eeb922da763f0cb",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 894.78,
+    "end": 897.74
+  },
+  {
+    "text": "Shaves anything that will require the client to remove the mask and",
+    "uid": "bfb81c09d2c3bd2e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 898.78,
+    "end": 903.02
+  },
+  {
+    "text": "I you know, I think that there hasn't been a lot of evidence of barbershoping one of the high transmission",
+    "uid": "cbf6cab489987dcd",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 904.38,
+    "end": 910.7
+  },
+  {
+    "text": "Anything that's risk this is risk you know walk out outside",
+    "uid": "e300e4e4e3cd380c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 915.66,
+    "end": 918.86
+  },
+  {
+    "text": "Anything is going to be some risk involved and it's just a matter of you know the balance of how how much you want that service",
+    "uid": "c5af33e3df0d372a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 919.82,
+    "end": 925.5
+  },
+  {
+    "text": "So make sense if you don't yeah, I mean",
+    "uid": "04e6692aca919d83",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 925.66,
+    "end": 927.66
+  },
+  {
+    "text": "There was this article you probably saw it a couple days ago of a hair salon",
+    "uid": "0ccaf7335f3ce59b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 928.7,
+    "end": 932.06
+  },
+  {
+    "text": "Where I'm two of the stylist had",
+    "uid": "096c600d9569b236",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 932.7,
+    "end": 935.02
+  },
+  {
+    "text": "Tested positive a COVID but none of the more than 130 customers that went in that you know over the course of the few days",
+    "uid": "6d72b1301a496718",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 935.26,
+    "end": 941.82
+  },
+  {
+    "text": "Tested positive everybody was wearing masks and it",
+    "uid": "946fd1345d1f10b4",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 942.38,
+    "end": 945.02
+  },
+  {
+    "text": "Surgery suggest that math really do work",
+    "uid": "37f2ab3baf1bfea3",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 945.02,
+    "end": 947.02
+  },
+  {
+    "text": "Mass very to work. Yeah, you know for can only if there's one thing I wish everyone could kind of agree on I think that you know",
+    "uid": "c11d82fdc3b7d9ab",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 947.18,
+    "end": 955.02
+  },
+  {
+    "text": "We get mass work. Yeah, can we can we just say that right now",
+    "uid": "7535a8bae6e9a65b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 955.34,
+    "end": 958.86
+  },
+  {
+    "text": "People who are on the hike that I went on over the weekend who were not wearing masks when you passed by me on the trail",
+    "uid": "5a981125d204a335",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 959.82,
+    "end": 966.38
+  },
+  {
+    "text": "That was this why please were a mask please please please",
+    "uid": "08ae2d2663ca92bd",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 966.38,
+    "end": 970.46
+  },
+  {
+    "text": "All right, let's talk brass tax here song we are in the middle of an economic crisis we've had",
+    "uid": "fa2a617fe36c5d15",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 978.78,
+    "end": 984.14
+  },
+  {
+    "text": "We've had heads of airlines and huge fashion companies and",
+    "uid": "fd5c89c6ce90fb2d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 984.94,
+    "end": 988.38
+  },
+  {
+    "text": "Titans administering on the show talking about how their businesses are really collapsing around them and and also some of the creative ways are trying to keep them afloat",
+    "uid": "c2e030f45dc6bc73",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 989.58,
+    "end": 997.26
+  },
+  {
+    "text": "I have to imagine that bookings are significantly down",
+    "uid": "7c09f82538a977c9",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 997.66,
+    "end": 1000.46
+  },
+  {
+    "text": "I mean just because there's so many states you can't you can't go to a barbershop",
+    "uid": "748a72a477193049",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1001.26,
+    "end": 1005.34
+  },
+  {
+    "text": "Yeah, so bookings definitely took a dip",
+    "uid": "4929823e59575de7",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1007.26,
+    "end": 1011.26
+  },
+  {
+    "text": "When the shutdowns started you know April March April in our revenue",
+    "uid": "a2f3ce2e317bebc5",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1012.46,
+    "end": 1017.26
+  },
+  {
+    "text": "Essentially went to zero and we also decided to wave all of our subscription",
+    "uid": "8911abb016a88ce8",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1018.14,
+    "end": 1023.02
+  },
+  {
+    "text": "Charvis to current and and new customers",
+    "uid": "dd4add532a9a5faf",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1023.5,
+    "end": 1026.14
+  },
+  {
+    "text": "Until October because we we knew that they're married was also when it got easier and we didn't want them to have that overhead",
+    "uid": "4f0630555e7006b9",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1026.46,
+    "end": 1032.46
+  },
+  {
+    "text": "So so as a result, you know, we expected this fire essentially wouldn't be making any money",
+    "uid": "2a41b92d935d3a8d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1033.02,
+    "end": 1037.42
+  },
+  {
+    "text": "But we were okay with that because this is just you know such a different such a difficult time",
+    "uid": "b112eb824267f75f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1037.42,
+    "end": 1041.58
+  },
+  {
+    "text": "What we have seen though is that that shops because our customers are reopening",
+    "uid": "b77fb84ff3dcbf48",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1041.98,
+    "end": 1046.22
+  },
+  {
+    "text": "They are getting booked out",
+    "uid": "17ff5fb1610201ab",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1047.42,
+    "end": 1049.42
+  },
+  {
+    "text": "They're getting booked out relatively fast and then they're in their bookings like continuing to stay",
+    "uid": "29667eac4d0771cc",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1049.98,
+    "end": 1054.14
+  },
+  {
+    "text": "Just you know, it's a consistent and I think that you know that that just kind of speaks to",
+    "uid": "554e94226b3ae9ce",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1055.1,
+    "end": 1059.82
+  },
+  {
+    "text": "How much of a need there was like a pent-up demand from their clients to get haircuts and and I think that there's something about just the barbershop experience and the community",
+    "uid": "a9f1ffe68fda449a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1060.7,
+    "end": 1071.42
+  },
+  {
+    "text": "element of it that",
+    "uid": "be0e8a9e23cee61f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1071.98,
+    "end": 1073.98
+  },
+  {
+    "text": "People you know many particularly",
+    "uid": "02fc67def7ffa326",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1073.98,
+    "end": 1075.98
+  },
+  {
+    "text": "Really look forward to that enormously and to being able to get a haircut and feel very about themselves and",
+    "uid": "6a271012000088ff",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1076.54,
+    "end": 1082.54
+  },
+  {
+    "text": "You know and kind of go back to it in this in this one area feel the way things work they were before COVID",
+    "uid": "ba64a28ee8d21959",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1083.02,
+    "end": 1089.02
+  },
+  {
+    "text": "So we're actually seeing it for the shops that are reopening",
+    "uid": "c197e67e480bd729",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1089.58,
+    "end": 1092.38
+  },
+  {
+    "text": "Higher than usual bookings",
+    "uid": "6015e606f3deeee7",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1093.5,
+    "end": 1095.5
+  },
+  {
+    "text": "And you know we'll see how that trend continues in the months that come so yeah, so we're saying",
+    "uid": "dc18d6125731dfeb",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1096.22,
+    "end": 1101.1
+  },
+  {
+    "text": "I'm not surprising because everybody needs a haircut. It's like",
+    "uid": "19e90045eda4fe41",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1101.9,
+    "end": 1104.54
+  },
+  {
+    "text": "It's like once things get back to some kind of normal see I think everyone's gonna and they feel safe",
+    "uid": "852fe258d8af84b6",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1105.18,
+    "end": 1109.9
+  },
+  {
+    "text": "People are gonna want to go sports games and live events, but but so it's not surprising",
+    "uid": "1b6b71cfcf06d4f0",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1109.98,
+    "end": 1114.94
+  },
+  {
+    "text": "There's something I read that you you would said",
+    "uid": "794dd9bf2ec89ef4",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1115.58,
+    "end": 1117.9
+  },
+  {
+    "text": "You call them a fail pressure which I think is right you know",
+    "uid": "df1d6eafd3484170",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1121.66,
+    "end": 1124.94
+  },
+  {
+    "text": "I think you said look they bring in probably a population",
+    "uid": "a9e93c79b10cb2a0",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1124.94,
+    "end": 1127.98
+  },
+  {
+    "text": "That needs grooming and but",
+    "uid": "70b1a0059ff04701",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1128.7,
+    "end": 1131.42
+  },
+  {
+    "text": "This pandemic which nobody predicted and nobody anticipated has shown that nothing is fail proof right I mean that that",
+    "uid": "fefac96fe4974700",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1131.98,
+    "end": 1139.18
+  },
+  {
+    "text": "Everything can fail even the most resilient ideas so how have the past few months kind of made you rethink your business model",
+    "uid": "a9a6d2610f1644b9",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1139.9,
+    "end": 1148.22
+  },
+  {
+    "text": "It's it's made me",
+    "uid": "fe95000ffda62618",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1151.48,
+    "end": 1153.48
+  },
+  {
+    "text": "Understand that you could never predict the future there's always gonna be an unknown unknown",
+    "uid": "0ee2f037b011f12d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1154.6,
+    "end": 1160.36
+  },
+  {
+    "text": "To your point we we always thought that better a recession was coming at some point right good the grave train can't come off forever",
+    "uid": "17c9c85c1efe3a57",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1161.96,
+    "end": 1170.2
+  },
+  {
+    "text": "You know we knew that the Congress as at some point was slow down and and I always thought that our our business was was with fair relatively well",
+    "uid": "8283546d94b3b52e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1171.24,
+    "end": 1181.56
+  },
+  {
+    "text": "In a downturn because you know people people continue to haircut so we've seen this you know in in the past that",
+    "uid": "9c7cca9c1c5b0b0b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1182.44,
+    "end": 1189.16
+  },
+  {
+    "text": "These types of",
+    "uid": "bf0a1a2388c6ab33",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1189.56,
+    "end": 1190.92
+  },
+  {
+    "text": "Of services you know tend to remain consistent and downturns. I mean this is a total of lack of water right I do yeah",
+    "uid": "1cbe3a225d559d5d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1190.92,
+    "end": 1198.28
+  },
+  {
+    "text": "Yeah, for predicted a pandemic a right scale",
+    "uid": "def17149bd877d86",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1198.28,
+    "end": 1201.16
+  },
+  {
+    "text": "But I think that if anything",
+    "uid": "1c0cbc97a7ba1b19",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1202.44,
+    "end": 1206.44
+  },
+  {
+    "text": "I I this is maybe",
+    "uid": "4eebe5019f2b94a2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1206.44,
+    "end": 1208.44
+  },
+  {
+    "text": "Believe that our business is is even more resilient than I thought before",
+    "uid": "64312ebb6bb2ca0c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1208.44,
+    "end": 1212.68
+  },
+  {
+    "text": "Just seeing how we've been able to kind of adapt to the reality and",
+    "uid": "bfd1f4d606e786d2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1213.56,
+    "end": 1217.32
+  },
+  {
+    "text": "Make changes on the fly",
+    "uid": "aa30db77942fdb1d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1217.88,
+    "end": 1219.88
+  },
+  {
+    "text": "Push features that we know our customers need during this time",
+    "uid": "7f3a54a1effa9ab6",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1220.2,
+    "end": 1224.92
+  },
+  {
+    "text": "There would help them you know they're during this difficult time and as a result",
+    "uid": "ceef1d7dde6cd357",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1225.56,
+    "end": 1231.48
+  },
+  {
+    "text": "What we've seen in the last two months actually more in round and more customer signing up that we ever have in the last with the company",
+    "uid": "01a9245e6aa4c44a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1231.48,
+    "end": 1239.8
+  },
+  {
+    "text": "Yeah, song I know you guys did a you guys had a around that you raised a more than 30 million dollars during this crisis",
+    "uid": "8e051575491c1d1a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1240.84,
+    "end": 1248.04
+  },
+  {
+    "text": "First of all congratulations about that on that",
+    "uid": "4e5b49fbb881f566",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1248.28,
+    "end": 1250.28
+  },
+  {
+    "text": "But I have to imagine that you're trying to keep your cash balance sheet in you know relatively strong and probably are cutting costs and trying to be",
+    "uid": "8409c2e15b7095d1",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1250.84,
+    "end": 1261.8
+  },
+  {
+    "text": "Fairly careful about how you spend cash in case this lasts a long time right you need that cash to last to get you through this economic crisis",
+    "uid": "5d01e360b2dfc029",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1263.08,
+    "end": 1270.52
+  },
+  {
+    "text": "Yes, yes, absolutely",
+    "uid": "2128fdf70686647e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1272.44,
+    "end": 1274.44
+  },
+  {
+    "text": "Try to look at different possible scenarios and you can never know for sure, but when we model",
+    "uid": "217e401415464b0d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1276.76,
+    "end": 1282.6
+  },
+  {
+    "text": "Our make our projections we kind of have like a worst case",
+    "uid": "9e6a6195a8b5d10b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1283.24,
+    "end": 1285.88
+  },
+  {
+    "text": "Base case and a best best case scenario in terms of the impact COVID and how long will last then you know when we started seeing",
+    "uid": "0d19c52034f7110f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1287.08,
+    "end": 1294.84
+  },
+  {
+    "text": "It was a positive sign because I remember to",
+    "uid": "dbacfd3bb8e34fe8",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1297.32,
+    "end": 1299.32
+  },
+  {
+    "text": "Started rebound and relatively quickly infected",
+    "uid": "8c54086c8b1c9e4d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1299.64,
+    "end": 1302.76
+  },
+  {
+    "text": "Man man man man you're an exceeded pre-COVID numbers just because of all the new business that we're bring on",
+    "uid": "f75deed46fd76531",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1304.76,
+    "end": 1310.68
+  },
+  {
+    "text": "So that that kind of showed okay things are trending toward towards best case and and you know we can we can",
+    "uid": "3ef1d65d6e48e731",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1311.4,
+    "end": 1317.96
+  },
+  {
+    "text": "Adjust according and read and",
+    "uid": "deb4decac6412390",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1318.68,
+    "end": 1320.68
+  },
+  {
+    "text": "You know adjust our spending accordingly and then now we're seeing states closing again",
+    "uid": "99e9a72733ef4c8e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1320.68,
+    "end": 1326.2
+  },
+  {
+    "text": "Which we didn't really expect like California is reclosed so this goes a show you can never really know",
+    "uid": "3f7537764cb26ef7",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1326.2,
+    "end": 1332.2
+  },
+  {
+    "text": "But you know it's always safe to us as kind of a scene the worst case they'd be prepared for the worst case",
+    "uid": "b0f8ce470f779530",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1332.2,
+    "end": 1338.6
+  },
+  {
+    "text": "We were prepared to go to go to go to zero revenue for all the 12 months Wow I",
+    "uid": "f76ecce7cbffec57",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1338.6,
+    "end": 1344.04
+  },
+  {
+    "text": "I thought that that was caught you know in the realm of possibility",
+    "uid": "41eea187608585da",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1344.84,
+    "end": 1348.2
+  },
+  {
+    "text": "Well, we're getting a bunch of questions on Facebook from our audience a lot of people are entrepreneurs they're freaking out",
+    "uid": "e78b8707802fef9a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1348.52,
+    "end": 1354.76
+  },
+  {
+    "text": "They're looking for ideas and ways",
+    "uid": "f0df71089e15c639",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1354.76,
+    "end": 1356.76
+  },
+  {
+    "text": "To keep their businesses resilient",
+    "uid": "ddcb8998072a7d4b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1357.4,
+    "end": 1359.4
+  },
+  {
+    "text": "On ask a question from Dante Richardson",
+    "uid": "d2ff05ea48e2eb30",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1360.04,
+    "end": 1362.04
+  },
+  {
+    "text": "Hello Dante, thank you for the shout out on Instagram by the way Dante asks",
+    "uid": "ea43238786ea8849",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1362.44,
+    "end": 1366.92
+  },
+  {
+    "text": "What are what are some principles that you've discovered and executed?",
+    "uid": "243a363c94b32e00",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1367.48,
+    "end": 1371.08
+  },
+  {
+    "text": "Over the course of your entrepreneurial journey that have contributed to your success",
+    "uid": "ae41bb063d163416",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1371.8,
+    "end": 1375.8
+  },
+  {
+    "text": "One of the principles is I believe and",
+    "uid": "19b46ec1e72281e4",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1379.62,
+    "end": 1383.94
+  },
+  {
+    "text": "Bringing the best people into your team and",
+    "uid": "745db4379891d09b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1385.46,
+    "end": 1389.46
+  },
+  {
+    "text": "Really looking for people that can that can complement",
+    "uid": "b2e1e268bcb43d6b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1390.42,
+    "end": 1394.26
+  },
+  {
+    "text": "Your your skill set and and are better than you or what they do and you know as as as an employee",
+    "uid": "2cfa41ef99edf5aa",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1395.7,
+    "end": 1403.54
+  },
+  {
+    "text": "You're an employee out of big company a big corporation",
+    "uid": "5a7503fe7f02aa55",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1404.34,
+    "end": 1407.14
+  },
+  {
+    "text": "You want to be the smartest guy or girl in the room",
+    "uid": "4c02b2a7af7a369e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1408.02,
+    "end": 1410.34
+  },
+  {
+    "text": "You want to you want to excel over other employees so you can kind of move up their ranks and you know that's that's how you're",
+    "uid": "f9bc9c3d26aa5c77",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1411.06,
+    "end": 1417.38
+  },
+  {
+    "text": "You'll be successful as a founder",
+    "uid": "e108122a921ccd06",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1417.94,
+    "end": 1420.66
+  },
+  {
+    "text": "You do not want to be the smartest person",
+    "uid": "bb5efbd4ae5e56f1",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1421.7,
+    "end": 1423.7
+  },
+  {
+    "text": "You want people in the room who are way better than you at what they do so that collectively",
+    "uid": "6fcae49bfa3d0a2b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1424.1,
+    "end": 1431.86
+  },
+  {
+    "text": "You can make the company excel and that will you know in turn make you successful as a founder",
+    "uid": "65208667a4665e51",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1432.26,
+    "end": 1438.42
+  },
+  {
+    "text": "So kind of like a successful founder",
+    "uid": "06d6e9746e224142",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1438.42,
+    "end": 1440.42
+  },
+  {
+    "text": "Is only a successful as a people that they bring in and that that's something that that I that I principle that that I think is really been important and also",
+    "uid": "d277688015b9064c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1440.98,
+    "end": 1449.54
+  },
+  {
+    "text": "I believe you like I don't believe in micro managing",
+    "uid": "1d22fae1eb7973ca",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1451.46,
+    "end": 1453.86
+  },
+  {
+    "text": "I believe in bringing people in and giving them room you know to make mistakes and to and to",
+    "uid": "e0f1f42b860d99a6",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1455.3,
+    "end": 1460.5
+  },
+  {
+    "text": "And also to excel to learn from those mistakes if you have to micro manage",
+    "uid": "0715fc6a6710389a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1461.38,
+    "end": 1465.94
+  },
+  {
+    "text": "People that you hire you probably hire their own person",
+    "uid": "8fa44dbfe42ab2bd",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1467.06,
+    "end": 1469.46
+  },
+  {
+    "text": "And yeah, so those are just two things off the top that that I think are worthwhile",
+    "uid": "79c573692c80beb0",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1470.98,
+    "end": 1476.66
+  },
+  {
+    "text": "I'm gonna go to another question from our audience is from Claire. Marashima hello Claire thank you for being a loyal viewer",
+    "uid": "bf62c088a2e418c3",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1477.7,
+    "end": 1483.86
+  },
+  {
+    "text": "Claire asks you know and and it's",
+    "uid": "1e8a163bc5c699ff",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1484.58,
+    "end": 1486.58
+  },
+  {
+    "text": "Question I had to which is how have you kept your professional relationships during this time?",
+    "uid": "efd65e992b276f38",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1487.38,
+    "end": 1492.5
+  },
+  {
+    "text": "I mean with your team with your co-founder who's at like one of your best friends who's like across the green LA",
+    "uid": "b73292183a5be50c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1492.5,
+    "end": 1498.1
+  },
+  {
+    "text": "Have you been doing that and and making sure that you keep morale up?",
+    "uid": "01285369c288c914",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1498.5,
+    "end": 1501.94
+  },
+  {
+    "text": "Yeah, that's a great question that is is minute challenge",
+    "uid": "02b62c6714ec5211",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1503.62,
+    "end": 1508.34
+  },
+  {
+    "text": "To keep those relationships remotely. I mean we had had a little bit of an advantage because",
+    "uid": "ff0755cba010a95c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1509.94,
+    "end": 1516.82
+  },
+  {
+    "text": "Already somewhat distributed before so we you know we",
+    "uid": "d80dcdbf1dd786da",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1519.86,
+    "end": 1524.1
+  },
+  {
+    "text": "Sorry, so nice is jump. No, that's fine",
+    "uid": "077e24f9e16ac26b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1524.1,
+    "end": 1526.1
+  },
+  {
+    "text": "Because we were somewhat distributed so you know we had an office in Buffalo in New York City",
+    "uid": "9b1caf10890853a2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1530.42,
+    "end": 1535.22
+  },
+  {
+    "text": "Our engine engineer team was was off for it our sales teams off for it out so we were already used to",
+    "uid": "6f2a3bda4f8c5431",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1536.82,
+    "end": 1541.54
+  },
+  {
+    "text": "Collaborating on zoom",
+    "uid": "c09082239aae8be0",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1542.1,
+    "end": 1544.1
+  },
+  {
+    "text": "You know and communicating on slack",
+    "uid": "34f4e4eb238f49a5",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1544.9,
+    "end": 1546.9
+  },
+  {
+    "text": "But this took a draw hole in the level because there's no physical presence anymore",
+    "uid": "5fdc40f108454ec0",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1547.3,
+    "end": 1550.98
+  },
+  {
+    "text": "So we try to do things like incorporate",
+    "uid": "a6beaed460969386",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1551.62,
+    "end": 1554.82
+  },
+  {
+    "text": "You know social",
+    "uid": "a750507c5ace08f2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1555.7,
+    "end": 1557.7
+  },
+  {
+    "text": "virtually so you know what we'll do like",
+    "uid": "454d1653b62f2c2e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1559.7,
+    "end": 1562.74
+  },
+  {
+    "text": "a virtual happy hour where we're everybody will bring their",
+    "uid": "86cc58e6d120d001",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1563.78,
+    "end": 1567.78
+  },
+  {
+    "text": "Reverage of choice and we'll all just kind of you know talking and and drinking and not even talk about business",
+    "uid": "fdc6c0908635e458",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1568.34,
+    "end": 1574.42
+  },
+  {
+    "text": "Things like that help it's not it's never replacing for the physical",
+    "uid": "07132ad4932e2f2e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1574.82,
+    "end": 1578.42
+  },
+  {
+    "text": "You know one-to-one interaction",
+    "uid": "db3fb472fd6cb527",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1578.82,
+    "end": 1580.82
+  },
+  {
+    "text": "But it does help yeah",
+    "uid": "3bfea5baf148a373",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1581.06,
+    "end": 1583.7
+  },
+  {
+    "text": "I want I want to ask you about",
+    "uid": "ff81f83bcd2b20b8",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1584.82,
+    "end": 1586.82
+  },
+  {
+    "text": "I mean you and Dave are black co-founders and in a ten in a tech industry that is",
+    "uid": "acecc6ad2f953900",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1587.54,
+    "end": 1592.5
+  },
+  {
+    "text": "You know that vastly sort of overrepresented by by white and Asian men and",
+    "uid": "bb31c482ec8e84dd",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1593.46,
+    "end": 1598.74
+  },
+  {
+    "text": "You've you've written about this and tweeted about this",
+    "uid": "67112393ed56b275",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1599.78,
+    "end": 1602.34
+  },
+  {
+    "text": "And I wonder whether you think now is actually a good timing that as you probably know song",
+    "uid": "c77a21b1d58244c2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1603.86,
+    "end": 1608.42
+  },
+  {
+    "text": "We've talked about on the on the show black entrepreneurship in America is is declined over the last 30 years also also",
+    "uid": "9025de8b657c0156",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1608.42,
+    "end": 1614.82
+  },
+  {
+    "text": "Entrepreneurship full stop has I mean they were more black owned banks in the 80s and insurance companies in the 80s and they're out today",
+    "uid": "9a2cb567c893d928",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1615.62,
+    "end": 1622.18
+  },
+  {
+    "text": "If you were talking to like a young",
+    "uid": "95ec63e033522dd3",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1622.74,
+    "end": 1624.74
+  },
+  {
+    "text": "Graduate college graduate black",
+    "uid": "dfbe89d59fd4b65c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1625.7,
+    "end": 1627.7
+  },
+  {
+    "text": "Man or woman and they were like hey should I become an entrepreneur today? Would you say now is a good time to",
+    "uid": "840b397bf55e9daa",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1627.7,
+    "end": 1633.46
+  },
+  {
+    "text": "To start a business in this uncertain economic environment",
+    "uid": "03c51c7685ebb1e0",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1634.34,
+    "end": 1638.02
+  },
+  {
+    "text": "That's a tough that's a tough question a bigger question. I do think that",
+    "uid": "b3c2b270bca90be4",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1640.3,
+    "end": 1645.02
+  },
+  {
+    "text": "The tides are changing especially recently with with increase attention",
+    "uid": "b8dd92d42ec2b5e5",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1646.54,
+    "end": 1652.38
+  },
+  {
+    "text": "To the flight of black founders and black people in general",
+    "uid": "4c6bca81674c755a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1653.34,
+    "end": 1656.54
+  },
+  {
+    "text": "So I think that now is probably a better time than ever to be an entrepreneur a black entrepreneur",
+    "uid": "aa8058dc27fd9762",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1657.9,
+    "end": 1662.94
+  },
+  {
+    "text": "That being said it's still you know going to be",
+    "uid": "de57ad26acd1b8ec",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1663.9,
+    "end": 1667.34
+  },
+  {
+    "text": "Challenging to be an entrepreneur period let let alone let alone a black entrepreneur",
+    "uid": "04ef99c9157ca06b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1667.74,
+    "end": 1672.62
+  },
+  {
+    "text": "You know the odds are kind of against you know to be to be frank. So I would encourage them that if",
+    "uid": "f9672d39e494879f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1673.82,
+    "end": 1680.38
+  },
+  {
+    "text": "Authentership is the dream and that's really kind of what they see themselves doing then they have to pursue it",
+    "uid": "bcbd0467f02870f3",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1680.94,
+    "end": 1688.06
+  },
+  {
+    "text": "But I always I always I always encourage",
+    "uid": "7fd8d3341cec855a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1688.54,
+    "end": 1691.58
+  },
+  {
+    "text": "People to take a risk of measure risks. So if you're out of if you're at a big company and you're",
+    "uid": "f7329433512bfb09",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1692.54,
+    "end": 1699.18
+  },
+  {
+    "text": "You know making a decent salary",
+    "uid": "ebc50ee79c0180a2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1699.98,
+    "end": 1701.98
+  },
+  {
+    "text": "Save as much personal run whereas you can before making relief",
+    "uid": "dc30a9de4e7dcd1a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1702.86,
+    "end": 1705.66
+  },
+  {
+    "text": "Understand that you may go six months to 12 months with little to no income and and just know what you're getting yourself into",
+    "uid": "4b347e7b6f5e2439",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1706.62,
+    "end": 1714.06
+  },
+  {
+    "text": "But I do believe that",
+    "uid": "4cd29af4bc36044c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1715.1,
+    "end": 1717.1
+  },
+  {
+    "text": "Entrepreneurship particularly in tech",
+    "uid": "4dc9d6ba41bcf86a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1717.5,
+    "end": 1719.1
+  },
+  {
+    "text": "provides opportunity for wealth creation",
+    "uid": "882107d6dc9054be",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1719.98,
+    "end": 1722.62
+  },
+  {
+    "text": "In an in short period of time that is really on parallel in any in most other industries and",
+    "uid": "3804a1b8d8dd84c4",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1725.74,
+    "end": 1732.38
+  },
+  {
+    "text": "You know it's it's I mean, I'm I believe in it. I believe in entrepreneurship",
+    "uid": "6723662dfa1039ad",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1733.5,
+    "end": 1739.02
+  },
+  {
+    "text": "You know clearly that's that's what I've committed my life to so I would never tell somebody to not pursue it",
+    "uid": "9c4e69690d4efb07",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1739.02,
+    "end": 1743.98
+  },
+  {
+    "text": "But it is risky particularly now",
+    "uid": "35ad67554cf45f1c",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1743.98,
+    "end": 1745.98
+  },
+  {
+    "text": "You you and Dave really launched your your company after",
+    "uid": "80e1f9cb5c402728",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1748.94,
+    "end": 1752.14
+  },
+  {
+    "text": "Sort of before but really we're able to launch it with a",
+    "uid": "7488e03513ee9170",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1753.74,
+    "end": 1756.3
+  },
+  {
+    "text": "Grant that you received after entering into an entrepreneurship contest in in Buffalo, New York you got like more",
+    "uid": "6fdfe6ab74bb2287",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1757.98,
+    "end": 1764.46
+  },
+  {
+    "text": "Bit more than $600,000 to launch the company that was you know several years ago",
+    "uid": "673c8330b3bdcac3",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1764.46,
+    "end": 1769.58
+  },
+  {
+    "text": "Has it been difficult over the years for you for the two of you to raise money?",
+    "uid": "1892c1d111c7762f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1769.58,
+    "end": 1773.74
+  },
+  {
+    "text": "So that if that company is called 43 North and now it actually wasn't a grant it was it was an investment investment",
+    "uid": "dbbd97208c4ff720",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1777.61,
+    "end": 1783.93
+  },
+  {
+    "text": "investment okay, yeah, it was in the rest of the 60th century thousand",
+    "uid": "8a77dd3f45c0a618",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1783.93,
+    "end": 1786.41
+  },
+  {
+    "text": "Because we we want the competition so that's an equity investment in your company. There was an equity",
+    "uid": "7f721e4e0d32c808",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1787.21,
+    "end": 1792.81
+  },
+  {
+    "text": "Yeah, yeah, yeah, it was actually structured the structure doesn't warrant that converted to equity when we raised the price down",
+    "uid": "b75dd7074c0880f7",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1792.81,
+    "end": 1798.57
+  },
+  {
+    "text": "But prior to that",
+    "uid": "c7a492cc85efa13a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1799.45,
+    "end": 1801.45
+  },
+  {
+    "text": "We had we had raised",
+    "uid": "1576cbafaf2b3e16",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1801.45,
+    "end": 1803.45
+  },
+  {
+    "text": "You'll see an angel on the ground and",
+    "uid": "12e37274b4357eaf",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1803.45,
+    "end": 1805.45
+  },
+  {
+    "text": "Yeah, raising money is not is is not easy particularly at first",
+    "uid": "0f5f20b84433c111",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1807.29,
+    "end": 1811.85
+  },
+  {
+    "text": "As a first time on from nowhere as somebody who who doesn't have a you know track record of",
+    "uid": "3cc9fd4e0c58d5ed",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1812.81,
+    "end": 1818.17
+  },
+  {
+    "text": "In tech and didn't have we didn't have the network at that point",
+    "uid": "a90f85c811b597cc",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1819.13,
+    "end": 1823.29
+  },
+  {
+    "text": "Yeah, it was challenging we were fortunate both my co-founder not to have a",
+    "uid": "70660a379cb069d1",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1824.41,
+    "end": 1829.29
+  },
+  {
+    "text": "Pretty decent network of professionals in New York City from my law of finance and you know",
+    "uid": "5133060701d1f11d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1830.09,
+    "end": 1836.25
+  },
+  {
+    "text": "Other kind of like high paying industries and we actually were able to get many of them. I've been American",
+    "uid": "a2a7d4ab3183be40",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1836.65,
+    "end": 1840.73
+  },
+  {
+    "text": "We were able to get some of our early like friends friends no family this friends around her friends and you know",
+    "uid": "bdf0466df101b394",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1841.13,
+    "end": 1848.49
+  },
+  {
+    "text": "Start up a capital that that helped us you know gets the next level, but for us fundraising until we raised",
+    "uid": "7eb1c41bb12b3414",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1850.49,
+    "end": 1856.97
+  },
+  {
+    "text": "Series A and series B was always a real kind of life just a grind you know get it get one check and this",
+    "uid": "c43b99a215b47215",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1857.45,
+    "end": 1864.97
+  },
+  {
+    "text": "You know that would take us a couple months and then go out try to get enough we never really stopped fundraising",
+    "uid": "2635c5990d26882f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1865.69,
+    "end": 1870.25
+  },
+  {
+    "text": "It was a constant thing and we're doing the keep the business afloat and quite a few times",
+    "uid": "c49551c0b812c3ac",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1870.25,
+    "end": 1874.73
+  },
+  {
+    "text": "I mean we came close to you know one month in runway",
+    "uid": "c6f9d48802e50707",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1874.73,
+    "end": 1877.21
+  },
+  {
+    "text": "How how I mean you're you're running a business you're you know you've got a staff of 60",
+    "uid": "76bfe6ff9f182fee",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1880.33,
+    "end": 1887.69
+  },
+  {
+    "text": "You've got to show up and inspire people and be there leader and but also like you are a human and and and and and you know",
+    "uid": "60a476181044219d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1887.69,
+    "end": 1896.97
+  },
+  {
+    "text": "You were in New York in the midst of mass demonstrations against racial injustice which I can't imagine couldn't",
+    "uid": "b1cd98d63c4ed796",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1897.69,
+    "end": 1904.41
+  },
+  {
+    "text": "Was not you know was was was an incredibly emotional time",
+    "uid": "0a42579075b55e80",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1905.05,
+    "end": 1908.17
+  },
+  {
+    "text": "For you and probably some people on your team",
+    "uid": "487a5046a6ee3fb2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1909.13,
+    "end": 1911.61
+  },
+  {
+    "text": "How did you guys",
+    "uid": "c75333e7e487f54a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1912.81,
+    "end": 1914.81
+  },
+  {
+    "text": "Navigate that and cope with that did you talk about it openly with each other and and how did you know or their days where you just didn't",
+    "uid": "edbfd8a785a34890",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1914.81,
+    "end": 1922.01
+  },
+  {
+    "text": "You just didn't want to go and you just didn't want to get on that zoom call yeah, yeah, I mean",
+    "uid": "41b0860031acde36",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1922.65,
+    "end": 1929.54
+  },
+  {
+    "text": "As you said it's",
+    "uid": "1f8618e414baf686",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1931.86,
+    "end": 1933.86
+  },
+  {
+    "text": "One of the things that",
+    "uid": "f448041cce4c6d28",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1933.86,
+    "end": 1935.86
+  },
+  {
+    "text": "Unfortunately you have to learn to do as an entrepreneur is this compartmentalist and",
+    "uid": "c553e9b0b42bc172",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1935.86,
+    "end": 1941.46
+  },
+  {
+    "text": "You know if something can be weighing on you that's outside of your business you kind of have to learn how to put it",
+    "uid": "3bf1f80b5d21a650",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1942.9,
+    "end": 1949.86
+  },
+  {
+    "text": "You know one place in your mind and and",
+    "uid": "9a6ac07ee5888395",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1950.5,
+    "end": 1953.54
+  },
+  {
+    "text": "Focus on things you have to focus and then kind of give it attention when the time is right",
+    "uid": "15021c30aa8f0003",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1954.74,
+    "end": 1958.58
+  },
+  {
+    "text": "Aside from everything that's going on the road just in life that's that's kind of a skill set that",
+    "uid": "5f06ef96fa29c40d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1959.86,
+    "end": 1964.1
+  },
+  {
+    "text": "Many founders national rights have learned that they'd have to develop",
+    "uid": "811394139cc5e861",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1965.06,
+    "end": 1968.98
+  },
+  {
+    "text": "So you know that that was kind of my my approach to it's like you if I unfortunately if I worked to",
+    "uid": "8881d9092f57fd5f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1969.78,
+    "end": 1975.38
+  },
+  {
+    "text": "Stop working every time a black person was killed by the police",
+    "uid": "4cf842e05ea2eddc",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1976.58,
+    "end": 1979.94
+  },
+  {
+    "text": "It would just be such a distraction now we're never very be successful",
+    "uid": "634e53c079978be6",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1981.22,
+    "end": 1984.1
+  },
+  {
+    "text": "Yeah, so so that that's kind of like personally on a person level what what I've had to do but as far as a company goes",
+    "uid": "2ca7b2cd89fe45d9",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1986.74,
+    "end": 1992.5
+  },
+  {
+    "text": "Yeah, we we tried to be very sensitive",
+    "uid": "d8cc64200d360fa8",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1992.5,
+    "end": 1994.5
+  },
+  {
+    "text": "Very sensitive to",
+    "uid": "9cb0df5a68c4da0a",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1995.46,
+    "end": 1997.46
+  },
+  {
+    "text": "I'm flois and what what they're going through you know we communicated to them that you know",
+    "uid": "d25553a0a91255f3",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 1997.46,
+    "end": 2001.3
+  },
+  {
+    "text": "As a company we stand on on on on on on the side of a black lives matter",
+    "uid": "f2d52e74e25fa8c1",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2001.94,
+    "end": 2006.42
+  },
+  {
+    "text": "Of black lives matter and should even be a controversial statement and that",
+    "uid": "d7799013d8a0fc16",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2007.22,
+    "end": 2012.74
+  },
+  {
+    "text": "We really want to give our employees space to to process and we told everyone they could take time off",
+    "uid": "2bdb4ec5139a5179",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2013.38,
+    "end": 2019.14
+  },
+  {
+    "text": "If they needed to they wanted to just you know",
+    "uid": "a86f58b2005f4511",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2019.7,
+    "end": 2021.86
+  },
+  {
+    "text": "Be of their motions or if they wanted to go protest or if they wanted to do wherever they want to do",
+    "uid": "56912c59ba993e6d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2022.02,
+    "end": 2026.18
+  },
+  {
+    "text": "And some of us some of them took us up on it",
+    "uid": "f64271deecb67abc",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2027.14,
+    "end": 2029.14
+  },
+  {
+    "text": "We also made kind of made a statement as a company",
+    "uid": "0b462788fcf02fd2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2029.86,
+    "end": 2033.86
+  },
+  {
+    "text": "You're saying you know our position and and you know we made some public donations",
+    "uid": "f46afe90f117732e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2034.5,
+    "end": 2038.9
+  },
+  {
+    "text": "Just to some nonprofits",
+    "uid": "e12e2f92230d7023",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2039.7,
+    "end": 2041.7
+  },
+  {
+    "text": "So you know as a company those are things that we felt as a right thing to do and you know on an individual basis as a as a",
+    "uid": "369ea6393965829e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2041.7,
+    "end": 2048.42
+  },
+  {
+    "text": "Black man yeah, it is it is it's it's very difficult and",
+    "uid": "970a613d57b82aa3",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2048.66,
+    "end": 2053.62
+  },
+  {
+    "text": "At almost I",
+    "uid": "890ad7daf8987075",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2055.46,
+    "end": 2057.46
+  },
+  {
+    "text": "You want to help you want to do what you can to just kind of support the movement on the other hand you know that",
+    "uid": "dd4a2c7c50b48ba9",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2057.46,
+    "end": 2061.86
+  },
+  {
+    "text": "One of the most",
+    "uid": "42b17438777c33eb",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2063.38,
+    "end": 2065.38
+  },
+  {
+    "text": "Beneficial things you can do is create our successful company and and and be an example of what's possible",
+    "uid": "81149cc4bef24717",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2065.38,
+    "end": 2072.98
+  },
+  {
+    "text": "And hopefully make it easy for",
+    "uid": "484dc0d9800f415e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2073.94,
+    "end": 2075.54
+  },
+  {
+    "text": "easier for Black founders in the future",
+    "uid": "850d52ea8b37f6f9",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2076.02,
+    "end": 2078.34
+  },
+  {
+    "text": "Following your footsteps, so",
+    "uid": "c82281849e179656",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2079.06,
+    "end": 2081.06
+  },
+  {
+    "text": "That's really you know so don't focus on",
+    "uid": "4ef29a8c987cff15",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2081.06,
+    "end": 2083.06
+  },
+  {
+    "text": "So some with this latest funding round",
+    "uid": "67f9a86f51ee3f56",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2083.7,
+    "end": 2087.06
+  },
+  {
+    "text": "Tell me what your ambitions are I mean",
+    "uid": "433cd1fe577e58af",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2088.9,
+    "end": 2090.9
+  },
+  {
+    "text": "You talked about I think in that in that 43 or 42 north",
+    "uid": "d19c16184f4bad3e",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2091.62,
+    "end": 2096.02
+  },
+  {
+    "text": "I think in that pitch competition you talked about",
+    "uid": "657383bec55b1fbe",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2098.58,
+    "end": 2100.58
+  },
+  {
+    "text": "expanding the products going deeper",
+    "uid": "7a48f83c0d32f170",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2101.14,
+    "end": 2103.14
+  },
+  {
+    "text": "Tell me about what that means you like to because right now your barber shops could do imagine expand to salons you imagine being the uber",
+    "uid": "17d66b1dc2630bd2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2104.42,
+    "end": 2110.82
+  },
+  {
+    "text": "like an uber level",
+    "uid": "4a00e205b87d55e7",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2111.38,
+    "end": 2113.38
+  },
+  {
+    "text": "Products and app",
+    "uid": "6d4151982b754af8",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2113.86,
+    "end": 2115.86
+  },
+  {
+    "text": "So like one of one of the things that we've been good at and and that I think any astronaut would need to need to learn it is the power of focus",
+    "uid": "145d8dcf42b40038",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2117.86,
+    "end": 2127.06
+  },
+  {
+    "text": "the power of folks being laser focused on",
+    "uid": "738a902136caadeb",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2127.78,
+    "end": 2130.42
+  },
+  {
+    "text": "Your solutions and your customers and and not being distracted so since since inception",
+    "uid": "b7a04dc824bda811",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2132.42,
+    "end": 2138.66
+  },
+  {
+    "text": "We've always had a lot of",
+    "uid": "24db1ee2b6f2e7db",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2139.38,
+    "end": 2140.82
+  },
+  {
+    "text": "Most investors but a lot of people ask you know why don't you do",
+    "uid": "4c99d453c084664f",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2141.54,
+    "end": 2144.42
+  },
+  {
+    "text": "Slons and nails and spas and you know all the stuff that you could do it's a bigger market and it's been tempting",
+    "uid": "98b3f205ff38d7e6",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2145.22,
+    "end": 2151.7
+  },
+  {
+    "text": "to you know why not",
+    "uid": "71d2eee60072aaca",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2152.26,
+    "end": 2153.62
+  },
+  {
+    "text": "branch out and and you know do that to give more customers yeah, we keep really ourselves back and reminding ourselves that our competitive advantage is that we are so focused",
+    "uid": "dcb8f9a6a66daab8",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2154.26,
+    "end": 2163.78
+  },
+  {
+    "text": "That we are going deeper into into this vertical and provided solutions",
+    "uid": "6f125478ecc57836",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2163.86,
+    "end": 2168.58
+  },
+  {
+    "text": "That that other companies quite frankly aren't interesting doing because they are trying to service so many you know horizontal you know different verticals",
+    "uid": "d53c264bcb1d3d00",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2169.54,
+    "end": 2177.78
+  },
+  {
+    "text": "So that's we're gonna stay on that trajectory least in the near and in the near future",
+    "uid": "90ab96fc23db8db2",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2178.5,
+    "end": 2182.98
+  },
+  {
+    "text": "We know how big this can get with just barbershops because it is such an underserved market",
+    "uid": "d13b104729310ee9",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2183.46,
+    "end": 2187.94
+  },
+  {
+    "text": "You know we're already operational in the US Canada and the UK",
+    "uid": "2c5cdd9ece8e46ea",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2189.06,
+    "end": 2192.98
+  },
+  {
+    "text": "So unless and just those those three markets",
+    "uid": "c25d628f8bf6f322",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2193.62,
+    "end": 2196.1
+  },
+  {
+    "text": "Squire can become a multi multi billion dollar company",
+    "uid": "c21181ffe784eee9",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2197.62,
+    "end": 2201.14
+  },
+  {
+    "text": "So we're we're gonna stay on that path and yeah, we're super excited about",
+    "uid": "f29407dd19572d8b",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2201.46,
+    "end": 2205.06
+  },
+  {
+    "text": "providing more value",
+    "uid": "636476a0e5aa874d",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2206.1,
+    "end": 2208.1
+  },
+  {
+    "text": "offering more features that really speak to their needs yeah",
+    "uid": "58a2c5dc5b2a9d40",
+    "source": "NPR - Pairing_Barbershops_and_Tech_How_I_Built_This_with_Guy_Raz_NPR",
+    "start": 2208.74,
+    "end": 2211.7
+  }
+]
