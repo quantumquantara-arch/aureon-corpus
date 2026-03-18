@@ -1,0 +1,63 @@
+name: Vectorize Corpus
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*_atoms.json'
+      - 'aureon_atom_vectorizer.py'
+      - '.github/workflows/vectorize_corpus.yml'
+  workflow_dispatch:
+    inputs:
+      overwrite:
+        description: 'Overwrite existing vectorized files'
+        required: false
+        default: 'false'
+
+jobs:
+  vectorize:
+    name: Vectorize Speech Atoms
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout corpus
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install numpy
+
+      - name: Run vectorizer
+        run: |
+          OVERWRITE_FLAG=""
+          if [ "${{ github.event.inputs.overwrite }}" = "true" ]; then
+            OVERWRITE_FLAG="--overwrite"
+          fi
+          mkdir -p vectorized
+          python aureon_atom_vectorizer.py process . vectorized $OVERWRITE_FLAG
+
+      - name: Show stats
+        run: |
+          echo "=== Vectorized files ==="
+          ls -la vectorized/ || echo "No vectorized files yet"
+
+
+      - name: Commit vectorized output
+        run: |
+          git config user.name "Nadine Squires"
+          git config user.email "quantumquantara@gmail.com"
+          git add vectorized/
+          git diff --staged --quiet || git commit -m "[auto] Vectorize corpus atoms $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         
