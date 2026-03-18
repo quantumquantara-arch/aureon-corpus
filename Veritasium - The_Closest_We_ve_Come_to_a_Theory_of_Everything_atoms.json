@@ -1,0 +1,2193 @@
+[
+  {
+    "text": "This is a video about a single, simple rule that underpins all of physics.",
+    "uid": "a24778398f08c866",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 0.0,
+    "end": 5.6
+  },
+  {
+    "text": "Every principle from classical mechanics to electromagnetism, from quantum theory to general relativity.",
+    "uid": "11acf3aa1ee834bf",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 5.6,
+    "end": 13.36
+  },
+  {
+    "text": "Right down to the ultimate constituents of matter, the fundamental particles.",
+    "uid": "b90e429ce199dc36",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 13.36,
+    "end": 17.92
+  },
+  {
+    "text": "All of it can be replaced by this single rule.",
+    "uid": "fa2aea64fe97f266",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 19.44,
+    "end": 23.04
+  },
+  {
+    "text": "Feels like we're approaching Spooky Territory.",
+    "uid": "7aa85afa9b4771f5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 23.84,
+    "end": 25.92
+  },
+  {
+    "text": "We're approaching Spooky Territory, I hear you, and I agree.",
+    "uid": "fa782b30bb4cda5b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 26.0,
+    "end": 29.6
+  },
+  {
+    "text": "It may in fact explain the behavior of life itself.",
+    "uid": "fe1b0d6e1f2497ed",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 30.88,
+    "end": 34.08
+  },
+  {
+    "text": "I think I'm stuck in some classical mindset where to me, the local picture,",
+    "uid": "0b2ef299429ddde0",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 34.08,
+    "end": 38.4
+  },
+  {
+    "text": "the differential equation way of thinking about the universe,",
+    "uid": "82fc624ab3b9561c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 38.4,
+    "end": 41.28
+  },
+  {
+    "text": "that that's really what's going on.",
+    "uid": "88aa527f2aaf7cd6",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 41.28,
+    "end": 43.12
+  },
+  {
+    "text": "But I fear that I have it exactly backwards.",
+    "uid": "164a48db4506805f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 46.82,
+    "end": 49.06
+  },
+  {
+    "text": "And it all starts with a simple problem.",
+    "uid": "bbd0b3ce4c2c423c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 51.06,
+    "end": 53.78
+  },
+  {
+    "text": "If you want to slide a mass from 0.8 a point B, what shape of ramp will get it there the fastest?",
+    "uid": "57064e6bbadc639e",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 54.26,
+    "end": 61.78
+  },
+  {
+    "text": "This is known as the problem of fastest descent.",
+    "uid": "3ad152881dbf612e",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 63.14,
+    "end": 66.18
+  },
+  {
+    "text": "You know, common sense, you might say, take the shortest path.",
+    "uid": "89f5962b122fe050",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 66.74,
+    "end": 69.38
+  },
+  {
+    "text": "Straight line for me to B.",
+    "uid": "3a16ade2a4d347ed",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 70.02,
+    "end": 71.38
+  },
+  {
+    "text": "But if you bend the ramp down a bit at the beginning,",
+    "uid": "d30cfbf5acb6f401",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 72.58,
+    "end": 75.38
+  },
+  {
+    "text": "well, the mass accelerates to a higher speed earlier.",
+    "uid": "37d5b7c3b413cd11",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 75.38,
+    "end": 78.34
+  },
+  {
+    "text": "So even though it travels slightly farther, it travels faster, and beats the straight ramp.",
+    "uid": "6df5799eb7649d92",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 78.34,
+    "end": 83.3
+  },
+  {
+    "text": "So the question is, what shape provides the perfect balance of acceleration and path length",
+    "uid": "852232202f2ce2a1",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 84.18,
+    "end": 89.86
+  },
+  {
+    "text": "to minimize travel time?",
+    "uid": "fad04aa08fe5f3af",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 89.86,
+    "end": 91.54
+  },
+  {
+    "text": "According to Galileo, it was the arc of a circle.",
+    "uid": "38fceab820fc36a9",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 92.5,
+    "end": 95.3
+  },
+  {
+    "text": "He showed that this is faster than any polygon, but is it the fastest?",
+    "uid": "42e62c281c67d68a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 96.34,
+    "end": 101.14
+  },
+  {
+    "text": "Nearly 60 years later, in June of 1696, Johann Bernoulli set this problem as a challenge to the best",
+    "uid": "53f0a81cb864b419",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 103.86,
+    "end": 110.42
+  },
+  {
+    "text": "mathematicians in the world.",
+    "uid": "f665d9be4ca0c3bd",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 110.42,
+    "end": 111.86
+  },
+  {
+    "text": "Mainly because he's a big showoff, and he wants to show that he's better than all of them.",
+    "uid": "64afed132c8d6bb0",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 112.58,
+    "end": 116.42
+  },
+  {
+    "text": "He gave everyone 6 months to come up with solutions, but none were submitted.",
+    "uid": "07479e36314387db",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 117.62,
+    "end": 122.58
+  },
+  {
+    "text": "So got freed-lidenets, a friend of Bernoulli's persuaded him to extend the deadline to give foreigners a chance.",
+    "uid": "dbe16054770ea43c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 123.86,
+    "end": 129.78
+  },
+  {
+    "text": "And I think Newton was probably the intended target, because everybody thought of him as the best,",
+    "uid": "c04eb2b8bb962001",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 131.87,
+    "end": 136.59
+  },
+  {
+    "text": "and so Johann would have wanted to show that he was better than Newton.",
+    "uid": "5179a6d71b82b86d",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 136.59,
+    "end": 140.19
+  },
+  {
+    "text": "He was no longer really active mathematician or physicist.",
+    "uid": "51729785f0c695f4",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 141.07,
+    "end": 145.71
+  },
+  {
+    "text": "He was working as the warden of the min, like a big high government position.",
+    "uid": "7d950281877f6ae4",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 145.71,
+    "end": 149.79
+  },
+  {
+    "text": "And on the 29th of January, 1697, Newton returned home after a long day at work to find Bernoulli's",
+    "uid": "569f157b2f4db9de",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 150.67,
+    "end": 157.31
+  },
+  {
+    "text": "challenge in the mail. Eritated, he wrote, I do not love to be done and teased by foreigners about mathematical",
+    "uid": "a46aa990699fc853",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 157.31,
+    "end": 165.07
+  },
+  {
+    "text": "things. But the problem was too enticing.",
+    "uid": "f6a222db9cf0e380",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 165.07,
+    "end": 169.39
+  },
+  {
+    "text": "So Newton spent the rest of the day and night on it. And by 4am, he had come up with a solution.",
+    "uid": "4e407cb83adfbf51",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 169.71,
+    "end": 177.15
+  },
+  {
+    "text": "Something that took Bernoulli two weeks. Newton submitted his solution to the journal Philosophical Transactions.",
+    "uid": "774452f8f10ec6e9",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 177.71,
+    "end": 185.73
+  },
+  {
+    "text": "He sent his solution there, but didn't sign it. And Johann Bernoulli, after seeing the solution,",
+    "uid": "e40ac469737cb234",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 186.85,
+    "end": 193.25
+  },
+  {
+    "text": "is alleged to have said, I recognize the lion by his claw. You know that, okay, you don't need to",
+    "uid": "cd5579e959beed4c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 193.25,
+    "end": 201.33
+  },
+  {
+    "text": "sign it. Newton, I can tell who you are. Well, it could give such a solution.",
+    "uid": "e029444807c28c46",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 201.33,
+    "end": 205.49
+  },
+  {
+    "text": "And while overall Newton dominated Bernoulli, in this instance, Bernoulli's solution actually outshot Newton's,",
+    "uid": "01eaf485cdddb605",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 207.09,
+    "end": 214.69
+  },
+  {
+    "text": "I could see why Johann Bernoulli wanted to challenge everybody, because he came up with a really",
+    "uid": "5388a648d431d6fb",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 216.13,
+    "end": 221.25
+  },
+  {
+    "text": "clever, I would say like a truly creative, beautiful solution. To do it, he took inspiration from a",
+    "uid": "f1e9600415188e35",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 221.25,
+    "end": 228.69
+  },
+  {
+    "text": "problem faced by ancient philosophers. How does light travel from one place to another? This was",
+    "uid": "fe8ebec23fa96431",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 228.69,
+    "end": 236.85
+  },
+  {
+    "text": "contemplated by Hero of Alexandria in the first century AD. He realized that in a single medium like air,",
+    "uid": "a4e1b8ae4537e3b4",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 236.85,
+    "end": 244.21
+  },
+  {
+    "text": "light always follows the shortest path. A consequence is that when light reflects, say, off a lake,",
+    "uid": "be9b2d9caf2b2b7b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 244.21,
+    "end": 250.45
+  },
+  {
+    "text": "the angle of incidence is always equal to the angle of reflection. Any other path between the",
+    "uid": "8fc78a490f6127e8",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 250.45,
+    "end": 256.05
+  },
+  {
+    "text": "start and endpoints would be longer. But when light goes from one medium into another, like from air into water,",
+    "uid": "910cfba575f26b41",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 256.05,
+    "end": 262.93
+  },
+  {
+    "text": "it bends in a peculiar way. It refracts, and it doesn't follow the shortest path.",
+    "uid": "d7aaf835bf8b2e74",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 262.93,
+    "end": 268.45
+  },
+  {
+    "text": "If you've ever dropped something at the bottom of a swimming pool and you look for it through the water.",
+    "uid": "7c324f2bc6c3813a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 269.09,
+    "end": 274.13
+  },
+  {
+    "text": "If you put your hand in there, it's not necessarily where you think it is, because the light has bent away",
+    "uid": "d1f876cd206e7759",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 274.13,
+    "end": 279.33
+  },
+  {
+    "text": "from the flat surface. So what is the guiding principle here? Well, over the next 1600 years,",
+    "uid": "c998b2e5b9dcb7d9",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 279.33,
+    "end": 289.1
+  },
+  {
+    "text": "people slowly figured out that the sign of the angle of incidence divided by the sign of the angle of",
+    "uid": "a10e563fa92c6db8",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 289.1,
+    "end": 294.46
+  },
+  {
+    "text": "reflection is equal to a constant n, which depends on the nature of the two media. This came to be known as",
+    "uid": "c35ba66df4e01b4c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 294.46,
+    "end": 302.54
+  },
+  {
+    "text": "Nell's Law, but no one knew why it worked. That is until 1657. So another great mathematician",
+    "uid": "a0a628f9a95da7dd",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 302.54,
+    "end": 311.1
+  },
+  {
+    "text": "enters our story at this point. This is Pierre Fremont. By day he was a judge, but at night he'd come home",
+    "uid": "6a20389c84e2afda",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 311.1,
+    "end": 317.74
+  },
+  {
+    "text": "and hang out with his wife and kids and then do what he really loved the most, which was work on math for fun.",
+    "uid": "d250991a17787dbd",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 317.74,
+    "end": 323.26
+  },
+  {
+    "text": "He mostly worked in pure math, but at one point he got interested in the question of why does light",
+    "uid": "94cfe1b3912db9ba",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 324.14,
+    "end": 330.22
+  },
+  {
+    "text": "obey this principle of reflection? And he thought maybe hero of Alexandria was on the right track,",
+    "uid": "554940e18800bf7b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 330.3,
+    "end": 337.98
+  },
+  {
+    "text": "but it's not distanced that is being minimized, but rather time. But to see if this was true for",
+    "uid": "c91f39656aa2c6c0",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 337.98,
+    "end": 344.46
+  },
+  {
+    "text": "reflection would be difficult. He would have to work out every possible path like could take by",
+    "uid": "508f71c8d4ee4b3a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 344.46,
+    "end": 350.54
+  },
+  {
+    "text": "varying the point where it intersects the boundary and compute the time for each. And then show that",
+    "uid": "2a944b8521ac08cf",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 350.54,
+    "end": 356.22
+  },
+  {
+    "text": "light takes the path for which the total travel time is the shortest. He doesn't know how to solve it and",
+    "uid": "59a938966087353f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 356.22,
+    "end": 362.06
+  },
+  {
+    "text": "he worries that he's going to come out complicated even if he could solve it. So he's not going to do it.",
+    "uid": "d80fa8e478ca7d8f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 362.06,
+    "end": 367.66
+  },
+  {
+    "text": "I think it's because he wasn't super interested in physics actually. But anyway, years go by,",
+    "uid": "f9c3be40b6a4954d",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 368.94,
+    "end": 375.02
+  },
+  {
+    "text": "he gets interested in a five years later and tries to solve it and then he does solve it and he shows that",
+    "uid": "20eba2edaa024856",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 375.02,
+    "end": 380.14
+  },
+  {
+    "text": "Snell's law actually pops out as the minimizing path for light, you know, under these conditions of",
+    "uid": "155cfc6e51d58120",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 380.14,
+    "end": 386.78
+  },
+  {
+    "text": "moving from one medium with one speed of light to another with another. And that constant end,",
+    "uid": "8c548435ed37c736",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 386.78,
+    "end": 392.3
+  },
+  {
+    "text": "well that's just equal to the speed of light in the first medium divided by the speed of light in the second",
+    "uid": "99aa990f0e19293d",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 392.3,
+    "end": 396.78
+  },
+  {
+    "text": "medium, which allows us to rewrite Snell's law like this. And he says this thing I just want to read",
+    "uid": "5a4647d9d51be7bf",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 396.78,
+    "end": 403.66
+  },
+  {
+    "text": "you a little quote because they love it. He says that this is the most extraordinary, the most",
+    "uid": "3dd5c2f762772c58",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 403.66,
+    "end": 408.38
+  },
+  {
+    "text": "unforeseen and the happiest calculation of his life. See, it's good to do physics.",
+    "uid": "9561828ed53c89fd",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 408.38,
+    "end": 414.22
+  },
+  {
+    "text": "If you use that principle of least time, you can explain everything that was known about light at the time of",
+    "uid": "47e7dd2df1d89aef",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 417.34,
+    "end": 422.86
+  },
+  {
+    "text": "Forma. It's the first time, as far as I know, that anyone shows that nature obeys an optimization principle,",
+    "uid": "0b4b46ea9691429d",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 422.86,
+    "end": 430.7
+  },
+  {
+    "text": "that nature does the best possible thing. In this case that light takes the shortest possible time.",
+    "uid": "a73411a803bcaa58",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 430.7,
+    "end": 436.86
+  },
+  {
+    "text": "Now, Bernoulli knew about Forma's principle of least time and he thought he could use it to solve the",
+    "uid": "78adb9ea3b5e130f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 438.3,
+    "end": 443.9
+  },
+  {
+    "text": "problem a fastest descent. He converted the problem from a mechanics problem about a particle sliding down",
+    "uid": "355bded2a0f9b0c5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 443.9,
+    "end": 450.38
+  },
+  {
+    "text": "a shoot to a problem about optics. Instead of a mass that's accelerated by gravity, he imagined a",
+    "uid": "4765b827d4ca9d71",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 450.38,
+    "end": 458.62
+  },
+  {
+    "text": "ray of light that would go faster and faster as it went into layers of less and less dense media.",
+    "uid": "a2d3d7cd08aadbd5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 458.62,
+    "end": 464.06
+  },
+  {
+    "text": "And if you make the layers thinner and thinner, where Snell's law is obeyed at each interface,",
+    "uid": "3323f6e9b826f34c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 465.02,
+    "end": 470.22
+  },
+  {
+    "text": "you eventually get a continuous curve. Now, the question is, how should the speed of light change",
+    "uid": "ff6127d63f7bcf90",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 470.22,
+    "end": 476.94
+  },
+  {
+    "text": "from one layer to the next so that it accurately models a falling object? You could try to solve the",
+    "uid": "e9b879c2208b494e",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 476.94,
+    "end": 482.86
+  },
+  {
+    "text": "problem by thinking if the particle has to fall from A to B, it's going to be picking up kinetic energy.",
+    "uid": "accf13f15f67b077",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 482.86,
+    "end": 488.38
+  },
+  {
+    "text": "It's going faster and faster as it slides down the shoot. And it's converting the loss in potential",
+    "uid": "c77f2ffc2cf6ef16",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 488.38,
+    "end": 493.82
+  },
+  {
+    "text": "energy into this kinetic energy. If you write down the conservation of energy for that relationship,",
+    "uid": "1db088b2633e314b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 493.82,
+    "end": 499.58
+  },
+  {
+    "text": "you find that the velocity that the particle achieves at any time having fallen a distance, let's say,",
+    "uid": "ad22fb3fc40e7fd9",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 499.58,
+    "end": 505.82
+  },
+  {
+    "text": "why it's velocity squared will be proportional to why the height from the top. So velocity",
+    "uid": "e398a9d480c57bfa",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 505.9,
+    "end": 512.46
+  },
+  {
+    "text": "goes like the square root of y and that'd be sort of like saying, imagine light moving in a way where instead",
+    "uid": "7ce57ceb38a93582",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 512.46,
+    "end": 519.9
+  },
+  {
+    "text": "of a constant speed of light, the speed of light is proportional to the distance from the top.",
+    "uid": "f9341aeab74af0bf",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 519.9,
+    "end": 525.26
+  },
+  {
+    "text": "Now, let's zoom in and look at a single interface. We can plug in our expression for the speed of light",
+    "uid": "87b56f2947995dcd",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 527.02,
+    "end": 532.38
+  },
+  {
+    "text": "in each layer into Snell's law. Then you find that the sign of the first angle divided by the square",
+    "uid": "d90fab7fa5ffb99c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 532.38,
+    "end": 537.58
+  },
+  {
+    "text": "root of y for the first layer is equal to the sign of the second angle divided by the square root of y",
+    "uid": "2f38e2ffdd0b516f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 537.58,
+    "end": 542.54
+  },
+  {
+    "text": "for the second layer. And now here's the key insight. Snell's law also holds for the next layer",
+    "uid": "a2d6b1f5fbf4a92b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 542.54,
+    "end": 548.7
+  },
+  {
+    "text": "and there the in-going angle is simply theta 2. So this is also equal to the sign of the third angle",
+    "uid": "b06cd47428a4b3b3",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 549.26,
+    "end": 555.26
+  },
+  {
+    "text": "divided by the square root of y 3 and the same goes for the next layer and the next and so on.",
+    "uid": "ad3c69b42f4b7fa1",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 555.26,
+    "end": 561.42
+  },
+  {
+    "text": "In other words, this ratio must be equal to some constant, call it k. And this equation,",
+    "uid": "62b91ac4f6f11187",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 562.78,
+    "end": 569.02
+  },
+  {
+    "text": "the story goes, Bernoulli immediately recognized as the equation of a cycloid.",
+    "uid": "f8a23176c8395028",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 569.02,
+    "end": 574.54
+  },
+  {
+    "text": "That is the path traced out by a point attached to the rim of a rolling wheel. This is also known as a",
+    "uid": "151da9cc59ab9a27",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 575.58,
+    "end": 582.06
+  },
+  {
+    "text": "Burkista Crone Curve from the Greek for shortest time. And so the astonishing solution is that the",
+    "uid": "d3238b7e3619d87f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 582.06,
+    "end": 589.02
+  },
+  {
+    "text": "fastest way to get from a to b is to fall an arc of a cycloid, not a circle, a shape called a cycloid.",
+    "uid": "35c9677020a4464b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 589.1,
+    "end": 595.34
+  },
+  {
+    "text": "Now this curve also has another surprising property. No matter where I release the mass from,",
+    "uid": "8449c7859de99f94",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 596.3,
+    "end": 601.74
+  },
+  {
+    "text": "it always reaches the end at the same time. For this reason, it's also known as the Tottacrone Curve,",
+    "uid": "c5ad5ac4ffb23caa",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 601.74,
+    "end": 608.46
+  },
+  {
+    "text": "from the Greek for same time. Upon finding this solution, Bernoulli wrote,",
+    "uid": "407046f4973d82c4",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 608.46,
+    "end": 615.49
+  },
+  {
+    "text": "in this way I have solved at one stroke two important problems, an optical and a mechanical one,",
+    "uid": "f7b9e57e10e607e3",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 615.49,
+    "end": 622.37
+  },
+  {
+    "text": "and have achieved more than I demanded from others. I have shown that the two problems",
+    "uid": "b1929c83f720011f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 622.37,
+    "end": 627.25
+  },
+  {
+    "text": "taken from entirely separate fields of mathematics have the same character.",
+    "uid": "6977baf4a7ac6980",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 627.25,
+    "end": 631.41
+  },
+  {
+    "text": "Little did Bernoulli know? He was onto something much bigger. Around 40 years later, one of his students,",
+    "uid": "e844545c9dfbbd14",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 632.61,
+    "end": 640.21
+  },
+  {
+    "text": "Pierre Louis de Mopper-Touille, also studied the behavior of light and particles. And he noticed",
+    "uid": "0a692f588ecb44bf",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 640.21,
+    "end": 645.41
+  },
+  {
+    "text": "that there are cases where the two behave very similarly. This made him think, what if for Maz Prince",
+    "uid": "5159cf4d33c028fd",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 645.41,
+    "end": 651.65
+  },
+  {
+    "text": "Boulevard least time wasn't the most fundamental? I mean, why should nature care about minimizing time?",
+    "uid": "8d7f2c7e1899873b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 651.65,
+    "end": 658.61
+  },
+  {
+    "text": "Maybe there is a more foundational quantity being minimized when that doesn't only govern light,",
+    "uid": "3f45b755c286ef0e",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 658.61,
+    "end": 664.61
+  },
+  {
+    "text": "but also particles. So in the 1740s he proposed a new quantity which he called the action.",
+    "uid": "5cbbfe6931933144",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 664.61,
+    "end": 671.97
+  },
+  {
+    "text": "It is mass times velocity times distance. His thinking went something like this. The farther",
+    "uid": "c9515e6e3e920ef7",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 672.45,
+    "end": 679.09
+  },
+  {
+    "text": "something travels, the greater the action, the faster it goes, the greater the action. And if it's a particle,",
+    "uid": "a57c0c151e81a485",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 679.09,
+    "end": 685.41
+  },
+  {
+    "text": "then the more massive it is, the greater the action. If there are multiple segments to the journey,",
+    "uid": "0d9493070bb4d143",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 685.41,
+    "end": 691.25
+  },
+  {
+    "text": "then the total action is just the sum of the mass times velocity times distance for each segment.",
+    "uid": "34f1a4f26d25b647",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 691.25,
+    "end": 696.93
+  },
+  {
+    "text": "To see the principal in action, here is a super simple example with no friction or losses.",
+    "uid": "f7603de842826303",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 697.89,
+    "end": 703.65
+  },
+  {
+    "text": "Imagine a 0.5 kilogram ball is rolled over the ground for 6 meters at 3 meters per second. Then that would",
+    "uid": "7d5e410348df531a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 704.69,
+    "end": 711.73
+  },
+  {
+    "text": "be 9 units of action. If the ball then bounces and travels another 6 meters at 3 meters per second,",
+    "uid": "c841fee90ede74fd",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 711.73,
+    "end": 719.01
+  },
+  {
+    "text": "then the action for the whole trip is 9 plus 9 or 18 units of action.",
+    "uid": "924bae8fe8caa32c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 719.01,
+    "end": 724.93
+  },
+  {
+    "text": "Now what Muppertwee claimed is that out of all possible trajectories where the ball bounces off the wall,",
+    "uid": "89bd3d06c24ad1e2",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 725.65,
+    "end": 731.89
+  },
+  {
+    "text": "the path it will follow is the one that minimizes the action. In 1744 he wrote,",
+    "uid": "d8176dc6a9df9e7c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 731.89,
+    "end": 739.76
+  },
+  {
+    "text": "this action is the true expense of nature which he manages to make as small as possible.",
+    "uid": "02bb0f168bfcdfe6",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 739.76,
+    "end": 745.92
+  },
+  {
+    "text": "So what was the response to Muppertwee's revolutionary idea? He was attacked and ridiculed.",
+    "uid": "14c8a3088f451715",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 747.98,
+    "end": 754.7
+  },
+  {
+    "text": "One of his longtime friends, a fellow physicist named Samuel Coneg wrote that not only is your",
+    "uid": "ec4ac6b87e8e4154",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 755.18,
+    "end": 760.22
+  },
+  {
+    "text": "principal wrong, you also stole it from lideness. Full tear, who used to be a close friend of Muppertwee,",
+    "uid": "a2bc736274fd0b0c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 760.22,
+    "end": 766.7
+  },
+  {
+    "text": "accused him of plagiarism, bad physics being stupid, and just about anything else he could think of.",
+    "uid": "07c21a8bfa7195ec",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 766.7,
+    "end": 772.14
+  },
+  {
+    "text": "In fact he wrote a 32 page pamphlet just to mock Muppertwee. Of course this may have been",
+    "uid": "2704f95caeb0c982",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 772.14,
+    "end": 777.82
+  },
+  {
+    "text": "partly due to rumors Voltaire's lover had an affair with Muppertwee. But not everyone attacked him,",
+    "uid": "e117a82253d95082",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 777.82,
+    "end": 784.7
+  },
+  {
+    "text": "some just ignored him. Muppertwee, I've taken a lot of math and physics in my life, I think you're the",
+    "uid": "4a86461cb83a0568",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 785.42,
+    "end": 792.54
+  },
+  {
+    "text": "first person I ever heard pronounced it. He doesn't get much mention. All of this was terribly stressful",
+    "uid": "e3e354bf3b5203de",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 792.54,
+    "end": 800.48
+  },
+  {
+    "text": "from Muppertwee, who was nearing the end of his life, and more than anything he thought the principle",
+    "uid": "f4808e66b54aeaf4",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 800.48,
+    "end": 805.76
+  },
+  {
+    "text": "of least action would be what he was remembered for. That would be his legacy. But now he was attacked,",
+    "uid": "2ff7dc5577fabb82",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 805.76,
+    "end": 813.04
+  },
+  {
+    "text": "mocked, ridiculed, and ignored. Unfortunately this treatment was at least somewhat justified,",
+    "uid": "e2be524e64421d61",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 813.04,
+    "end": 820.64
+  },
+  {
+    "text": "because Muppertwee came up with his principle by kind of just picking it out of thin air.",
+    "uid": "badc57270903c18e",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 820.64,
+    "end": 826.0
+  },
+  {
+    "text": "There was no obvious reason why nature should care about mass times of velocity times distance,",
+    "uid": "1f9143a9b61b55fc",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 826.0,
+    "end": 832.08
+  },
+  {
+    "text": "or even less why that quantity should be minimized, and mathematically the principle of",
+    "uid": "5611cc70e0007fdf",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 832.08,
+    "end": 837.84
+  },
+  {
+    "text": "least action wasn't rigorous either. But there was one man who vehemently defended it.",
+    "uid": "675161662ec18f6a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 837.84,
+    "end": 844.56
+  },
+  {
+    "text": "That man was Leonard Oiler. The first thing Oiler did was he replaced the sum with an integral.",
+    "uid": "12b81258a9826aca",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 845.36,
+    "end": 853.12
+  },
+  {
+    "text": "So you could calculate the action while speed or direction changed continuously, and he used this to",
+    "uid": "26b722a6926a5f5f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 853.12,
+    "end": 859.44
+  },
+  {
+    "text": "find the path of a particle around a central mass, like the orbit of a planet around a star.",
+    "uid": "df43d5f5913a25c3",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 859.44,
+    "end": 864.64
+  },
+  {
+    "text": "Solving this meant that out of every possible path between two points, he would have to find the",
+    "uid": "05aa7fbbb6ec13e3",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 865.76,
+    "end": 870.56
+  },
+  {
+    "text": "one for which the action was the smallest. This is similar to the problem for Muppertwee. Only now,",
+    "uid": "24d140b625d5a0b5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 870.56,
+    "end": 877.36
+  },
+  {
+    "text": "instead of changing one variable, he would have to vary every possible point along the path,",
+    "uid": "eece236aad35e901",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 877.36,
+    "end": 882.4
+  },
+  {
+    "text": "which is infinitely many. Needless to say, this was an arduous task.",
+    "uid": "3922b90a3ee2011c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 882.4,
+    "end": 887.84
+  },
+  {
+    "text": "Mathered not yet developed the tools required to handle such problems. Fortunately, Oiler himself",
+    "uid": "b71facb6a82f44f3",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 887.84,
+    "end": 896.54
+  },
+  {
+    "text": "invented a new method. It was clunky and time-consuming, but it worked. Through this process,",
+    "uid": "3c93eaf5849a4169",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 896.54,
+    "end": 903.34
+  },
+  {
+    "text": "he realized that the principle of least action only works if the total energy is conserved,",
+    "uid": "37a0bb633a244829",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 903.34,
+    "end": 909.1
+  },
+  {
+    "text": "and it is the same for all paths considered. These were two conditions that Muppertwee hadn't",
+    "uid": "e3fe8e7ec5ee36ed",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 909.1,
+    "end": 915.02
+  },
+  {
+    "text": "realized for necessary. So, Oiler improved the mathematical rigor of the principle. He found",
+    "uid": "03a2a99c349d8f13",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 915.02,
+    "end": 920.94
+  },
+  {
+    "text": "two extra conditions, and he provided a specific example of it working. Oiler is an astonishingly powerful,",
+    "uid": "5e8ef43b191e8303",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 920.94,
+    "end": 929.9
+  },
+  {
+    "text": "and not just great mathematician, but appears to be a good guy. As far as we could tell, he was very generous.",
+    "uid": "1f9b26d143f0bab2",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 929.9,
+    "end": 936.38
+  },
+  {
+    "text": "You can still read Oiler, and really understand it. He helps you. He's empathetic. You know, he was,",
+    "uid": "5ebeff9d278d9a70",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 936.38,
+    "end": 943.26
+  },
+  {
+    "text": "like, you are, man. He's trying to explain stuff. But Oiler was still far from a general proof.",
+    "uid": "1059de7a76657a09",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 943.26,
+    "end": 951.34
+  },
+  {
+    "text": "That would have to wait for another legendary mathematician. Joseph Louis Legrage. Joseph Louis Legrage was a",
+    "uid": "c11f23707ab36233",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 951.34,
+    "end": 960.93
+  },
+  {
+    "text": "shy 19-year-old, mostly self-taught. But despite his age, he was already working at the forefront of",
+    "uid": "dc5e1a125f5ee814",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 960.93,
+    "end": 967.33
+  },
+  {
+    "text": "mathematics, including with Oiler's new method. In 1754, he shared his results with Oiler,",
+    "uid": "9ce4eec89c52b1d4",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 967.33,
+    "end": 973.57
+  },
+  {
+    "text": "who replied that Legrage had extoled the theory to the highest summit of perfection, which caused",
+    "uid": "a2d3de7d982b12d4",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 973.57,
+    "end": 979.17
+  },
+  {
+    "text": "him the greatest joy. But besides being world-class mathematicians, the two had another thing in common.",
+    "uid": "ced4a9d5586c2b09",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 979.17,
+    "end": 986.69
+  },
+  {
+    "text": "They were both huge proponents of the principle of least action. And around five years later,",
+    "uid": "62e222b4532d1ec5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 986.69,
+    "end": 992.21
+  },
+  {
+    "text": "just a year after Mopper Twie's death, Legrage succeeded in providing a general proof.",
+    "uid": "fde7944b70075298",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 992.21,
+    "end": 997.65
+  },
+  {
+    "text": "Is there any intuitive way to think about action? I feel like there's an intuitive way to think about",
+    "uid": "a797cd0b4c0e382f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1000.45,
+    "end": 1006.77
+  },
+  {
+    "text": "force, and there's kind of an intuitive way to think about energy. But is there an intuitive way to",
+    "uid": "26571dbab3c67c75",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1006.77,
+    "end": 1011.65
+  },
+  {
+    "text": "think about action? I don't know. I want to watch your show to learn. I hope you'll come up with it,",
+    "uid": "9d06eb0d00c6d954",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1011.65,
+    "end": 1017.65
+  },
+  {
+    "text": "because I don't have a good feeling about action. Now, I want to explain Legrage's proof,",
+    "uid": "839328f3a574dfe9",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1017.65,
+    "end": 1023.49
+  },
+  {
+    "text": "but I don't want to do it the way he did. So instead, we'll go through three steps.",
+    "uid": "51259cfb8a2c7a89",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1023.49,
+    "end": 1028.21
+  },
+  {
+    "text": "First, we'll explain the general approach, Oiler and Legrage came up with. Then we'll rewrite the",
+    "uid": "a8417e89ace19c03",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1028.77,
+    "end": 1033.89
+  },
+  {
+    "text": "principle into its modern form, and finally we'll apply this math to a simple example to show you",
+    "uid": "92b7cc66d3fc79c8",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1033.89,
+    "end": 1039.97
+  },
+  {
+    "text": "why it works. So first, the general approach. If there are infinite possible paths, how do you find the",
+    "uid": "64eb6e8334345d6f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1039.97,
+    "end": 1048.69
+  },
+  {
+    "text": "one with the least action? Well, Oiler and Legrage realized you can do it in a similar way to how you",
+    "uid": "0657dae406b84d48",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1048.69,
+    "end": 1055.01
+  },
+  {
+    "text": "find the minimum of a function. There, you take the derivative and set it equal to zero, and where the slope",
+    "uid": "a90aff46e3e40c4c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1055.01,
+    "end": 1061.57
+  },
+  {
+    "text": "is horizontal, that must be the minimum. So if you took a tiny step to the left or the right, the value",
+    "uid": "f5be5e84120ed701",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1061.57,
+    "end": 1068.77
+  },
+  {
+    "text": "of the function basically doesn't change. And similarly, if you have the path of least action,",
+    "uid": "a0d97f5814ac1837",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1068.77,
+    "end": 1075.25
+  },
+  {
+    "text": "then if you were to change it a little bit by saying adding a tiny bump here or flattening it out there,",
+    "uid": "45d3b8d9367f1548",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1075.33,
+    "end": 1081.33
+  },
+  {
+    "text": "imagine we're just adding a tiny function eta to our path of least action. Well, then the action",
+    "uid": "7a9246e74271b40f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1081.33,
+    "end": 1087.73
+  },
+  {
+    "text": "basically shouldn't change because we're at this really special point, the path of least action.",
+    "uid": "c166e578b61bd722",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1087.73,
+    "end": 1093.89
+  },
+  {
+    "text": "You add a little bit to the minimum path, but the action is still the same. If that is the optimal",
+    "uid": "36fb566a7b37eae9",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1093.89,
+    "end": 1098.45
+  },
+  {
+    "text": "path that has the least action, then any other path must have more action. So the counter dare is like",
+    "uid": "ca468af4499960fd",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1098.45,
+    "end": 1105.33
+  },
+  {
+    "text": "all of this is the first order. So if you're looking at linear terms that are proportional to eta,",
+    "uid": "d040aef778770fdf",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1105.33,
+    "end": 1111.41
+  },
+  {
+    "text": "the deviation, that the first order, the difference in action will be zero. The way you can imagine this,",
+    "uid": "26732a73551f5ece",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1111.41,
+    "end": 1116.37
+  },
+  {
+    "text": "is like let's say you're at the bottom of a bowl, and you're at the minimum, and you make some tiny",
+    "uid": "61289a16d26e00f6",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1116.37,
+    "end": 1121.25
+  },
+  {
+    "text": "step away, and we call that step eta. If that change would be proportional to eta, you would maybe",
+    "uid": "20532724664217ef",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1121.25,
+    "end": 1125.89
+  },
+  {
+    "text": "increase on this side, but decrease on this side, and then this would no longer be a minimum. So",
+    "uid": "679b42155745566a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1125.89,
+    "end": 1130.93
+  },
+  {
+    "text": "the coefficient of eta has to be zero. But since you're at a minimum, it kind of goes like a parabola,",
+    "uid": "0b7aa63806ccfaad",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1130.93,
+    "end": 1137.33
+  },
+  {
+    "text": "so it can be proportional to eta square or potentially some higher order term. So there is a",
+    "uid": "b0eb40196c89e2c5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1137.89,
+    "end": 1142.85
+  },
+  {
+    "text": "tiny deviation in the action, but it's not proportional to eta. So to first order, the change in action",
+    "uid": "57be39e512c9691b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1142.85,
+    "end": 1149.89
+  },
+  {
+    "text": "between the optimal path and some trial path is zero. So what you can write is that the action of",
+    "uid": "ed8819850a17a264",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1149.89,
+    "end": 1157.17
+  },
+  {
+    "text": "this trial path minus the action of the true path is equal to zero to first order. This is a compact way",
+    "uid": "98aa4add15d3520b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1157.17,
+    "end": 1165.41
+  },
+  {
+    "text": "of writing the principle of least action, and it's the general approach you use to solve all these problems.",
+    "uid": "2d588d4a7ccf14e8",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1165.41,
+    "end": 1171.17
+  },
+  {
+    "text": "So with that in hand, let's rewrite the principle into its modern form, starting with",
+    "uid": "66ee89b9e8d7f630",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1172.05,
+    "end": 1177.01
+  },
+  {
+    "text": "Mopper Trees action, which is the sum of mass times velocity times distance. But Euler changes this into an",
+    "uid": "713327aca0245151",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1177.01,
+    "end": 1183.49
+  },
+  {
+    "text": "integral, so it's the integral of mass times velocity integrated over distance. Now the velocity is equal to",
+    "uid": "0a78687f9808ff77",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1183.49,
+    "end": 1190.61
+  },
+  {
+    "text": "ds over dt, which we can rearrange to get ds equals v dt, and plugging this in, we have an integral of",
+    "uid": "08033a6a4f5a59eb",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1190.61,
+    "end": 1197.89
+  },
+  {
+    "text": "mv squared over time. But wait, that's just twice the kinetic energy, and as Euler pointed out,",
+    "uid": "48afd95779e98cef",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1197.89,
+    "end": 1204.37
+  },
+  {
+    "text": "the total energy must be conserved. Total energy is just kinetic plus potential, so we can rewrite",
+    "uid": "7106200019ea4560",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1204.37,
+    "end": 1211.01
+  },
+  {
+    "text": "this as t equals e minus v, and filling this in for the second t gives us the variation of t plus e minus v",
+    "uid": "f900eb57614df7f3",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1211.01,
+    "end": 1220.37
+  },
+  {
+    "text": "integrated over time is equal to zero. Now we can split this integral into two, and since the energy is",
+    "uid": "87811b4d2d98fea6",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1220.37,
+    "end": 1227.49
+  },
+  {
+    "text": "constant, we can integrate this term over time to get this. And we can simplify this even further,",
+    "uid": "8a55137f2fffa52e",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1227.49,
+    "end": 1233.97
+  },
+  {
+    "text": "just like with a normal derivative, we can write the variation of E times t as E times the variation of",
+    "uid": "867e947f12c326a3",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1233.97,
+    "end": 1239.65
+  },
+  {
+    "text": "t plus t times the variation of E. But remember, as Euler found, the energy of different paths has to be the",
+    "uid": "cba91b6b2e0af54e",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1239.65,
+    "end": 1246.37
+  },
+  {
+    "text": "same, so the variation between them is zero, and this term drops out. If we rearrange this like so,",
+    "uid": "27058344932354e5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1246.37,
+    "end": 1253.49
+  },
+  {
+    "text": "then we find that the variation of this integral is equal to minus the energy times the variation of time.",
+    "uid": "cd3493c8bb43a36d",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1253.49,
+    "end": 1260.05
+  },
+  {
+    "text": "This looks a lot like some other minimization principle. If only this was equal to zero,",
+    "uid": "ebe21932c85d6006",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1261.01,
+    "end": 1266.69
+  },
+  {
+    "text": "what we can make this zero by only considering paths that have the same travel time. If you do that,",
+    "uid": "94e3d86f7dc5aed5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1267.33,
+    "end": 1273.49
+  },
+  {
+    "text": "then there's no longer any variation in time and this term drops out. And what we find is that",
+    "uid": "a914453ee3be962a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1273.49,
+    "end": 1279.49
+  },
+  {
+    "text": "Moppertuis principle has changed into another form, where now the variation of kinetic energy minus",
+    "uid": "e3bce3ac38abbf09",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1279.49,
+    "end": 1286.61
+  },
+  {
+    "text": "potential energy in a grid at over time is equal to zero. T minus V can add a energy minus potential",
+    "uid": "0455effe2e903651",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1286.69,
+    "end": 1294.13
+  },
+  {
+    "text": "energy, and then you integrate that along the path that you're traveling from A to B, and then integrate it with",
+    "uid": "9697935263142150",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1294.13,
+    "end": 1300.21
+  },
+  {
+    "text": "respect to time. It's all very strange, and yet that turns out to be the correct thing to integrate.",
+    "uid": "731605f9d0ec3167",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1300.21,
+    "end": 1305.57
+  },
+  {
+    "text": "Now this is a little weird. We started with mass times velocity integrated over distance, and now we have the kinetic",
+    "uid": "5c3d14f64e1d645d",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1306.53,
+    "end": 1312.53
+  },
+  {
+    "text": "energy minus the potential energy integrated over time. And somehow both are ways to write the",
+    "uid": "df104443165c11d3",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1312.53,
+    "end": 1318.37
+  },
+  {
+    "text": "principle of least action. But that also means that this integral here, T minus V, integrated over time,",
+    "uid": "ded4d9f3c12c499e",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1318.37,
+    "end": 1324.37
+  },
+  {
+    "text": "is another way to write the action. The first person to write the principle of least action like this",
+    "uid": "dff67cabbde4c214",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1324.37,
+    "end": 1329.81
+  },
+  {
+    "text": "was William Rowan Hamilton in 1834, and by doing so, he got the principle named after him.",
+    "uid": "9cc2c333bb76f4ad",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1329.81,
+    "end": 1336.69
+  },
+  {
+    "text": "So the principle of least action that we write as integral of L dt, L being the Lagrangian,",
+    "uid": "0a55902354ff9a93",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1336.69,
+    "end": 1343.25
+  },
+  {
+    "text": "the T minus V, the kinetic minus potential energy, they don't call it Lagrangian's principle,",
+    "uid": "68ec9143bad0b607",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1343.25,
+    "end": 1347.81
+  },
+  {
+    "text": "they call it Hamilton's principle. So I guess Hamilton is building on Lagrangian that way. Hamilton's",
+    "uid": "4c996cfc411c82b0",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1347.81,
+    "end": 1354.21
+  },
+  {
+    "text": "principle is the modern way of writing the principle of least action, and the way you find it in",
+    "uid": "a8e16d7caa2c2223",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1354.21,
+    "end": 1359.01
+  },
+  {
+    "text": "almost every physics book. In part, that's because Hamilton's principle tells you how objects move from",
+    "uid": "f3439960587f00ce",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1359.01,
+    "end": 1364.29
+  },
+  {
+    "text": "one place to another, rather than just giving you the shape of the path. To other important",
+    "uid": "8fc6f06bea449756",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1364.29,
+    "end": 1369.97
+  },
+  {
+    "text": "differences between both principles are that the action is now an integral over time instead of space.",
+    "uid": "45b6f5737dab5447",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1369.97,
+    "end": 1375.49
+  },
+  {
+    "text": "And a consequence is that with Hamilton's principle, you now need a start and end point, and also a",
+    "uid": "dd6d2968c94dd31c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1375.49,
+    "end": 1380.77
+  },
+  {
+    "text": "start and end time. The third is that with Mopper Tweet's principle, you need to keep the energy of",
+    "uid": "e72b9313c7a78294",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1380.77,
+    "end": 1386.77
+  },
+  {
+    "text": "different paths the same. But the time can vary, while with Hamilton's principle, the energy's",
+    "uid": "e0a430e63aea973a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1386.77,
+    "end": 1392.45
+  },
+  {
+    "text": "can differ, but the time has to be the same between paths. So now we have our general approach,",
+    "uid": "5f5b82c19a5883f2",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1392.45,
+    "end": 1399.71
+  },
+  {
+    "text": "and the modern way of writing the principle, so let's apply it to a simple example to see why it works.",
+    "uid": "2dc5ce5a99900dc6",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1399.71,
+    "end": 1405.07
+  },
+  {
+    "text": "Let's say I throw this ball straight up in the air. So it goes from some start point to say a different",
+    "uid": "8b6800e319a9126e",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1405.79,
+    "end": 1412.99
+  },
+  {
+    "text": "end point in a certain amount of time. Now if we call the height of the ball y of T, then we can plot",
+    "uid": "bcc85a697c40d329",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1412.99,
+    "end": 1419.71
+  },
+  {
+    "text": "these two points like so. And then we can imagine infinitely many possible trajectories that could",
+    "uid": "77d61c7d1db8a7bc",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1419.79,
+    "end": 1426.19
+  },
+  {
+    "text": "connect these two points. Some go a little higher, some lower, some have wiggles, others don't.",
+    "uid": "954804d098be0e4a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1426.19,
+    "end": 1432.67
+  },
+  {
+    "text": "The only condition is that all paths must have the same start and end point and the same amount of time",
+    "uid": "bfb916cb7b56235b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1432.67,
+    "end": 1438.35
+  },
+  {
+    "text": "elapsed between them. Now to find the real trajectory we proceed as before. We imagine that this is the",
+    "uid": "232f82a96450c029",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1438.35,
+    "end": 1445.47
+  },
+  {
+    "text": "true path y of T, the one with the least action, and then we imagine making small variations to it,",
+    "uid": "20198cbfbebf03b0",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1445.47,
+    "end": 1451.63
+  },
+  {
+    "text": "by pushing it up a little here, down a little there, and so on, making tiny changes at every time step,",
+    "uid": "2613070aec6582b0",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1451.63,
+    "end": 1458.35
+  },
+  {
+    "text": "which we'll call eta of T. So when you add y and eta together you get this new trial path. Let's call it q of T.",
+    "uid": "e7a0f42d364dc2a9",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1458.35,
+    "end": 1465.87
+  },
+  {
+    "text": "And since the variations are small, the difference in action between these two paths is zero.",
+    "uid": "d1fea8a3a6881dd6",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1466.67,
+    "end": 1471.63
+  },
+  {
+    "text": "Our next task is to solve this equation. So we compute the action for each path. For this we need the",
+    "uid": "68b9415e8c90ee90",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1472.43,
+    "end": 1479.71
+  },
+  {
+    "text": "kinetic and potential energy for each, and we write them as a function of y and eta. Plugging that in,",
+    "uid": "ffc58b4feb6e48e6",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1479.71,
+    "end": 1485.87
+  },
+  {
+    "text": "you get the difference in actions is equal to this. But wait, this first integral is just the action of the",
+    "uid": "ff81d745f80905b3",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1485.87,
+    "end": 1492.59
+  },
+  {
+    "text": "true path. So these integrals cancel, and what you're left with is just that. M times dy over dt,",
+    "uid": "f8e5db562ebe470e",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1492.59,
+    "end": 1500.35
+  },
+  {
+    "text": "minus eta times the derivative of the potential, integrated over time, is equal to zero.",
+    "uid": "eae2fe4e608edfdf",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1500.91,
+    "end": 1507.71
+  },
+  {
+    "text": "We can rewrite this further by using integration by parts. That allows us to replace this term with this one.",
+    "uid": "b8f108bb88adf1f1",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1508.43,
+    "end": 1515.47
+  },
+  {
+    "text": "And if we plug that in, we now have some function that when multiplied by eta and integrated over time",
+    "uid": "7e48ef9e71970150",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1516.91,
+    "end": 1522.51
+  },
+  {
+    "text": "has to be equal to zero. But since eta can be just about anything, this can only be true if this part",
+    "uid": "308580c013ef0b7b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1522.51,
+    "end": 1529.79
+  },
+  {
+    "text": "is zero. So what we found is that the action is minimal for the path that satisfies this curious",
+    "uid": "d192e35219f5acdd",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1529.87,
+    "end": 1536.67
+  },
+  {
+    "text": "differential equation. Now it might look complicated, but it's not.",
+    "uid": "bb1c0d05c4d173c7",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1536.67,
+    "end": 1542.43
+  },
+  {
+    "text": "Minus the derivative of the potential is just the force. And the second derivative of height. Well,",
+    "uid": "065f0d2c8fb9ec42",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1542.99,
+    "end": 1549.87
+  },
+  {
+    "text": "that's just acceleration. So if we rearrange this, we find that the path that satisfies the principle of least",
+    "uid": "9e8c5bff15ea35f5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1549.87,
+    "end": 1556.67
+  },
+  {
+    "text": "action is the one that obeys F equals M A. In other words, the principle of least action is equivalent",
+    "uid": "af83fac7e1354add",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1556.67,
+    "end": 1567.31
+  },
+  {
+    "text": "to Newton's second law. But it covers more than just mechanics. For miles principle of least time",
+    "uid": "90fb043cedc45ddb",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1567.31,
+    "end": 1575.82
+  },
+  {
+    "text": "turned out to be nothing more than a special case of the principle of least action.",
+    "uid": "44f26c20570ac927",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1575.82,
+    "end": 1579.74
+  },
+  {
+    "text": "So with this single principle, you could suddenly describe everything from light reflecting and",
+    "uid": "a1227bf1e20d2ce0",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1581.66,
+    "end": 1587.02
+  },
+  {
+    "text": "refracting to the swinging of a pendulum clock to planets orbiting the sun and stars orbiting the",
+    "uid": "3589d68f28bf45b5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1587.1,
+    "end": 1593.66
+  },
+  {
+    "text": "core of the galaxy. What used to be viewed as entirely separate fields of physics were now all unified",
+    "uid": "b2a2329add137ce0",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1593.66,
+    "end": 1600.94
+  },
+  {
+    "text": "under a single, simple rule. The variation of the action is zero. After Euler found out about Lagrangis",
+    "uid": "6b057dc9a69b1ceb",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1600.94,
+    "end": 1609.97
+  },
+  {
+    "text": "proof, he wrote to him, how satisfied would not Mr. Mopper tweet be, where he still alive. If he could",
+    "uid": "27a3a90eb4ddc03d",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1609.97,
+    "end": 1616.29
+  },
+  {
+    "text": "see his principle of least action applied to the highest degree of dignity to which it is susceptible.",
+    "uid": "8a83a4031d7009b9",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1616.29,
+    "end": 1621.81
+  },
+  {
+    "text": "With Lagrangis proof, we now have two ways to solve any mechanics problem. You can either use forces",
+    "uid": "7e746bd0dd013f69",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1621.81,
+    "end": 1634.98
+  },
+  {
+    "text": "and vectors or you can use energies and scalars. It seems like the principle of least action is just way too",
+    "uid": "8f75b2351258a1bb",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1634.98,
+    "end": 1641.94
+  },
+  {
+    "text": "complicated. It is so unnecessary, whoever uses this, you know, when you could just use Newton's second law.",
+    "uid": "f7a7b38e4963fddb",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1641.94,
+    "end": 1647.46
+  },
+  {
+    "text": "It's like that's a piece of cake. Your options are either use all of this or just start with F equals",
+    "uid": "b5fbb9bfccd64c47",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1647.46,
+    "end": 1654.1
+  },
+  {
+    "text": "I may and they give you the same answer. Why ever use the principle of least action? Well that's because",
+    "uid": "410894f9f15e8197",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1654.1,
+    "end": 1659.62
+  },
+  {
+    "text": "Euler and Lagrangis came up with a way to make all of this super, super simple.",
+    "uid": "25d5e261f344fb1a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1659.62,
+    "end": 1663.78
+  },
+  {
+    "text": "If this is the action, then T-minus V is called the Lagrangian. Now let's replace everything we did before",
+    "uid": "334e418bf4edb825",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1664.9,
+    "end": 1672.02
+  },
+  {
+    "text": "with the Lagrangian. Then you see that the principle of least action works whenever this differential",
+    "uid": "57f61c8bc9f3ac11",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1672.02,
+    "end": 1677.94
+  },
+  {
+    "text": "equation is satisfied. So all you have to do now if you want to solve any mechanics problem is you just",
+    "uid": "34784511e6a6ac8c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1677.94,
+    "end": 1684.42
+  },
+  {
+    "text": "write down the kinetic and potential energy and you plug it into this equation and you're done.",
+    "uid": "e36f3f73b64c652f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1684.42,
+    "end": 1689.94
+  },
+  {
+    "text": "And that becomes extremely powerful. I remember thinking, man, forces like hard to get the right answer.",
+    "uid": "c7d0c198de5ceea2",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1690.82,
+    "end": 1698.1
+  },
+  {
+    "text": "You can do it if you're good and people who are good at mechanics can do it. But with the Lagrangian approach,",
+    "uid": "b98181037a950d69",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1698.1,
+    "end": 1703.54
+  },
+  {
+    "text": "you have this machine crank out the principle of least action on it and you get the right equation",
+    "uid": "b69d0ee2298ea167",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1703.54,
+    "end": 1708.82
+  },
+  {
+    "text": "to motion and you don't have to be a good physicist. That was what I took from it. That as a math guy, I can do physics",
+    "uid": "4c701f805af408ae",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1708.82,
+    "end": 1715.14
+  },
+  {
+    "text": "thanks to Lagrangian Euler. And it doesn't just work in one dimension. If you have more dimensions,",
+    "uid": "94b0e334950013a6",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1715.14,
+    "end": 1721.22
+  },
+  {
+    "text": "then you just solve the Euler Lagrangian equation for each coordinate. Another thing that's great is you could",
+    "uid": "85299b6ab31c08c1",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1721.22,
+    "end": 1726.98
+  },
+  {
+    "text": "use weird coordinate systems that might be better suited to the problem. Like if you were doing a",
+    "uid": "d5e422593fd24ec1",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1727.3,
+    "end": 1731.86
+  },
+  {
+    "text": "problem with something rotating, you might want to use polar coordinates instead of Cartesian coordinates.",
+    "uid": "71ad6cf895eec7e5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1731.86,
+    "end": 1737.7
+  },
+  {
+    "text": "And this will give you the correct equations of motion in polar coordinates, which again might be kind of",
+    "uid": "ab51e0f369aa6cba",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1737.7,
+    "end": 1742.9
+  },
+  {
+    "text": "tricky to do with vectors. Like with the double pendulum, trying to solve this using forces is extremely",
+    "uid": "af1a71cb322734ba",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1742.9,
+    "end": 1749.14
+  },
+  {
+    "text": "hard because as one pendulum is swinging, it provides the attachment point for the pendulum hanging",
+    "uid": "8b45542134e37bc7",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1749.14,
+    "end": 1754.66
+  },
+  {
+    "text": "below it. And so that pendulum is in this moving reference frame as it's swinging. It's a very",
+    "uid": "df3880b5a29a8cf7",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1754.66,
+    "end": 1759.7
+  },
+  {
+    "text": "nasty job to write down the correct F equals MA for a double pendulum. But if you write it down with",
+    "uid": "6bebfe81d71a8e9b",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1759.7,
+    "end": 1766.02
+  },
+  {
+    "text": "kinetic and potential energy, it's pretty easy. This is actually how we made this simulation.",
+    "uid": "d2f80f54db096215",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1766.02,
+    "end": 1772.02
+  },
+  {
+    "text": "Now there is one little side note we should give about the principle of least action because the name is a",
+    "uid": "61fe3fcb9e3511e3",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1773.54,
+    "end": 1779.06
+  },
+  {
+    "text": "misleading. Although we often refer to the principle as the principle of least action,",
+    "uid": "aadf3cce0d512efc",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1779.62,
+    "end": 1784.9
+  },
+  {
+    "text": "it's probably good to add a little caveat here that sometimes it's not necessarily the minimum.",
+    "uid": "2eb12177d68c7410",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1786.02,
+    "end": 1791.86
+  },
+  {
+    "text": "Just as when you find in calculus when you set a derivative to zero, that doesn't guarantee you're",
+    "uid": "6719216706e67aec",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1791.86,
+    "end": 1796.58
+  },
+  {
+    "text": "getting the minimum of a function. The principle of least action more properly stated should be the",
+    "uid": "8fa6b6c36fd27c70",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1796.58,
+    "end": 1801.86
+  },
+  {
+    "text": "principle of stationary action that the laws of motion come from demanding a stationary point,",
+    "uid": "cf9652e9dc30618e",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1801.86,
+    "end": 1807.06
+  },
+  {
+    "text": "which is tantamount to this condition of setting a certain derivative to zero and then getting",
+    "uid": "929fd2fa90a3521a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1807.06,
+    "end": 1812.18
+  },
+  {
+    "text": "the oil or will grange equation from that. So very often it is a true minimum, but not always.",
+    "uid": "38dd964b1597682c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1812.18,
+    "end": 1818.58
+  },
+  {
+    "text": "But action is much more fundamental than just classical mechanics. Around the turn of the 20th",
+    "uid": "7d3244e08c524955",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1819.38,
+    "end": 1824.98
+  },
+  {
+    "text": "century, action popped up as the key part of a solution to one of the biggest problems in atomic",
+    "uid": "2d1fbb5b0b81a1ca",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1824.98,
+    "end": 1830.34
+  },
+  {
+    "text": "physics at the time. The UV catastrophe. It's kind of spooky that this breakthrough that starts",
+    "uid": "da4c85e10adc5c7d",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1830.42,
+    "end": 1838.34
+  },
+  {
+    "text": "the ball rolling toward quantum theory brings action in, not energy and not force action.",
+    "uid": "d92df398cf55f4a4",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1838.34,
+    "end": 1844.42
+  },
+  {
+    "text": "Give you a hint. Yeah. But that and much more will have to wait for a separate video. So make",
+    "uid": "2e6524668de9e86d",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1846.26,
+    "end": 1853.7
+  },
+  {
+    "text": "sure you're subscribed to get notified when it comes out. The story of the principle of least action",
+    "uid": "7dbe2e903aa3f50f",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1853.7,
+    "end": 1864.5
+  },
+  {
+    "text": "is the story of how knowledge compounds, growing through steady progress, one step at a time until",
+    "uid": "511a1d15d120a6c0",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1864.5,
+    "end": 1870.34
+  },
+  {
+    "text": "it changes how we see the world completely. And it's not just big scientific discoveries where this happens.",
+    "uid": "7d9b3d9c32536cbe",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1870.34,
+    "end": 1876.34
+  },
+  {
+    "text": "Learning a little everyday compounds over time, making you smarter and a better problem-solver.",
+    "uid": "245d675e73c6109c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1876.34,
+    "end": 1882.18
+  },
+  {
+    "text": "And you can start doing this right now for free with this video's sponsor, Brilliant. Brilliant helps",
+    "uid": "07ed75968dfc5539",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1882.18,
+    "end": 1887.46
+  },
+  {
+    "text": "you get smarter every day while building real practical skills and everything from math and physics to",
+    "uid": "faf8c38851910716",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1887.46,
+    "end": 1893.7
+  },
+  {
+    "text": "data science and programming. Whatever it is that sparks your curiosity. What I love most about",
+    "uid": "ac2f5689d7ed316c",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1893.7,
+    "end": 1899.14
+  },
+  {
+    "text": "Brilliant is that you learn by doing, getting hands on with real problems that help you build intuition.",
+    "uid": "2629b8a6145f5131",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1899.14,
+    "end": 1904.98
+  },
+  {
+    "text": "And since all their lessons are bite-sized, it's easy to take small steps toward",
+    "uid": "5c0ee3892adff23a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1904.98,
+    "end": 1909.38
+  },
+  {
+    "text": "mastering huge topics. Like the language of most of physics, calculus. Brilliant recently updated their",
+    "uid": "8baa70a63ad390e5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1909.38,
+    "end": 1915.86
+  },
+  {
+    "text": "excellent course on calculus, which doesn't just explain the big concepts, it guides you through them",
+    "uid": "0adb769de84759ce",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1915.86,
+    "end": 1921.38
+  },
+  {
+    "text": "interactively one step at a time. That way you don't just memorize concepts, you really understand them",
+    "uid": "a383d635cda013c2",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1921.38,
+    "end": 1928.02
+  },
+  {
+    "text": "in a way that just clicks. Now I truly believe that learning a little bit everyday is one of the best",
+    "uid": "a0fd52e7fc2dac00",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1928.02,
+    "end": 1933.46
+  },
+  {
+    "text": "gifts you can give yourself. And with Brilliant, it's super easy. All it takes is a few minutes.",
+    "uid": "51aec9b87bffb4c5",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1933.46,
+    "end": 1938.82
+  },
+  {
+    "text": "It could be on your commute, on a break, whenever. And before you know it, you're ending each day a bit smarter.",
+    "uid": "bb6586f54b716820",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1938.82,
+    "end": 1945.38
+  },
+  {
+    "text": "So to try everything Brilliant has to offer for free for full 30 days, visit Brilliant.org",
+    "uid": "6eb307d5c89fa97a",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1945.38,
+    "end": 1950.26
+  },
+  {
+    "text": "slash for a tassium, click that link in the description or scan this QR code. And if you sign up,",
+    "uid": "360c59759f91ede8",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1950.26,
+    "end": 1955.46
+  },
+  {
+    "text": "you'll also get 20% off their annual premium subscription. So I want to thank Brilliant for sponsoring",
+    "uid": "44f4f3246a400558",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1955.46,
+    "end": 1960.42
+  },
+  {
+    "text": "this video and I want to thank you for watching.",
+    "uid": "136fbf616f3ac883",
+    "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything",
+    "start": 1960.42,
+    "end": 1963.14
+  }
+]
