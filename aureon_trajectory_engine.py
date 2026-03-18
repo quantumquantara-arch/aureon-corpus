@@ -275,6 +275,8 @@ class HumanSpeechEngine:
         def _load(name, path):
             spec = importlib.util.spec_from_file_location(name, str(path))
             mod = importlib.util.module_from_spec(spec)
+            mod.__name__ = name
+            import sys as _sys; _sys.modules[name] = mod
             spec.loader.exec_module(mod)
             return mod
 
@@ -406,3 +408,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
