@@ -1,0 +1,905 @@
+[
+  {
+    "text": "How do I get an AI tutor in every kid's ear?",
+    "uid": "1be1b8d12973beb8",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 0.14,
+    "end": 5.14
+  },
+  {
+    "text": "How is that a stampede to get kids equipped with those tools?",
+    "uid": "033f2195d1583cae",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 5.26,
+    "end": 10.26
+  },
+  {
+    "text": "So Steven, I've been a huge fan of your books for a long time.",
+    "uid": "79e668d421bf69f9",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 18.66,
+    "end": 21.7
+  },
+  {
+    "text": "Freak and all makes us super-freak and all makes.",
+    "uid": "4532f95ca93b10e3",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 22.3,
+    "end": 23.74
+  },
+  {
+    "text": "And they showed the power of data to upend conventional wisdom.",
+    "uid": "30375e99361e97b3",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 23.74,
+    "end": 29.5
+  },
+  {
+    "text": "And now you're interested in education.",
+    "uid": "0091d34444f1a099",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 29.5,
+    "end": 33.74
+  },
+  {
+    "text": "And do you think there's a lot of need to upend conventional wisdom in education?",
+    "uid": "ddcb3306a6bf66a6",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 33.74,
+    "end": 38.18
+  },
+  {
+    "text": "Oh my god.",
+    "uid": "397776b7e1edd587",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 38.18,
+    "end": 39.54
+  },
+  {
+    "text": "I mean, I think we have layered for hundreds of years we've layered little changes on how",
+    "uid": "674feec3dc1c2ba6",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 39.54,
+    "end": 47.86
+  },
+  {
+    "text": "about our existence.",
+    "uid": "e890d92cb96c39a7",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 47.86,
+    "end": 49.82
+  },
+  {
+    "text": "And I feel like we've just so lost sight of the objective, which is to create a new",
+    "uid": "22708205349cf523",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 49.82,
+    "end": 56.58
+  },
+  {
+    "text": "generation of people who are well-adjusted and curious and excited about the world.",
+    "uid": "16dda507d429860a",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 56.58,
+    "end": 62.54
+  },
+  {
+    "text": "It's an incredibly hard problem and I'm not sure I have any advantages, but I think we",
+    "uid": "8edce97b84db257f",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 62.62,
+    "end": 66.94
+  },
+  {
+    "text": "want something different from our education system.",
+    "uid": "cc447eb5acd1279a",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 66.94,
+    "end": 69.14
+  },
+  {
+    "text": "So I think in the past, people studied something that was going to hold them for all their lives.",
+    "uid": "ce4b23435c12495f",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 69.14,
+    "end": 74.9
+  },
+  {
+    "text": "And now technology has changed, is changing much more rapidly.",
+    "uid": "9ed28fadf47f8986",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 74.9,
+    "end": 78.54
+  },
+  {
+    "text": "So there's a need to adapt to technology.",
+    "uid": "f3b2356f29f78df2",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 78.54,
+    "end": 81.3
+  },
+  {
+    "text": "And you think that that change is also, it seems like that change is fundamentally how education",
+    "uid": "fc0e3fde51c86ef4",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 81.3,
+    "end": 86.18
+  },
+  {
+    "text": "needs to work to create those skills to adapt.",
+    "uid": "93112ef2662c8f20",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 86.18,
+    "end": 89.54
+  },
+  {
+    "text": "Yeah, I'm still in it from one of my podcasts.",
+    "uid": "59cce9d5b236ad13",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 89.86,
+    "end": 92.38
+  },
+  {
+    "text": "I can't remember which one it was, but he talked about Justin Kase learning, which is what we do",
+    "uid": "73c4eb60c847d6b2",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 92.38,
+    "end": 98.3
+  },
+  {
+    "text": "I'm going to teach you about calculus or about geometry or chemistry or Shakespeare, whatever it is.",
+    "uid": "e00b200963f72e3c",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 99.3,
+    "end": 105.94
+  },
+  {
+    "text": "Justin Kase, some moment in your life, 20 years from now, you're going to say, oh my god, I need",
+    "uid": "1296d8326a2d67e6",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 105.94,
+    "end": 110.34
+  },
+  {
+    "text": "to know a right triangle.",
+    "uid": "69ec2d4e72008a3f",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 110.34,
+    "end": 113.06
+  },
+  {
+    "text": "I need to make some calculation about versus Justin time learning, which is something which",
+    "uid": "b687d5efc6616a88",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 113.06,
+    "end": 118.78
+  },
+  {
+    "text": "actually makes sense.",
+    "uid": "9f142c71a68862fc",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 118.78,
+    "end": 119.78
+  },
+  {
+    "text": "So you and I have both the various points in our life faced problems where we didn't know what",
+    "uid": "ac490e3b87e5d4d0",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 119.78,
+    "end": 125.5
+  },
+  {
+    "text": "the answers were and we didn't have the right tools.",
+    "uid": "e49d3569010be674",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 125.5,
+    "end": 128.18
+  },
+  {
+    "text": "And what I do and I assume you do is say, well, I got to go learn those tools and I was equipped",
+    "uid": "3cb963d400390b54",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 128.18,
+    "end": 134.94
+  },
+  {
+    "text": "to have be able to learn those tools.",
+    "uid": "f39f63905dc2d0ec",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 134.94,
+    "end": 137.1
+  },
+  {
+    "text": "So I think you're right, in a world in which you do not know what you'll be doing five years",
+    "uid": "f2227c03d649f345",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 137.1,
+    "end": 142.58
+  },
+  {
+    "text": "from now or 20 years from now, building and a world in which so much knowledge is now at",
+    "uid": "d317d704f26f2cc4",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 142.58,
+    "end": 147.46
+  },
+  {
+    "text": "So I mean, you're head full of facts and formulas is not the answer to managing the",
+    "uid": "250f0b9d56a60627",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 148.46,
+    "end": 153.78
+  },
+  {
+    "text": "It's not even, you know, it's self-eminent thing, but it's hard for the system to catch up and",
+    "uid": "cd13fa990eb69e7a",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 154.78,
+    "end": 159.14
+  },
+  {
+    "text": "part because we, the system is built on a valuation, right, of giving grades and as an educator",
+    "uid": "30d95f221a8050c2",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 159.14,
+    "end": 167.46
+  },
+  {
+    "text": "is teaching at the University of Chicago, look, I'm the worst offender in the world.",
+    "uid": "dc0b3de4c5a05c41",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 167.46,
+    "end": 171.9
+  },
+  {
+    "text": "I need to somehow give some kids a, and that kids b's.",
+    "uid": "932a610a67297b17",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 171.9,
+    "end": 175.14
+  },
+  {
+    "text": "And the easiest way to do that is to teach something that don't matter in ways that are somewhat",
+    "uid": "7962a3e940625ac6",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 175.14,
+    "end": 180.18
+  },
+  {
+    "text": "hard and overcomplicated so that I have a way to separate them out and it's terrible and",
+    "uid": "69d69d6a4d775226",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 180.18,
+    "end": 185.7
+  },
+  {
+    "text": "I'm embarrassed about it, but it's what I do in my room.",
+    "uid": "57d10cecbaaacb6c",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 185.7,
+    "end": 189.3
+  },
+  {
+    "text": "I think students would be lucky to have you as a professor because you're a very engaging storyteller",
+    "uid": "8795ef2c3a747449",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 189.3,
+    "end": 196.78
+  },
+  {
+    "text": "but also ability to convey complex concepts.",
+    "uid": "790b15083db28fd9",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 196.78,
+    "end": 199.74
+  },
+  {
+    "text": "And one thing's I've been thinking about in the context of AR, right?",
+    "uid": "938cc6905b270b04",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 199.74,
+    "end": 201.9
+  },
+  {
+    "text": "How do you bring that?",
+    "uid": "ab71fe71c457c87f",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 201.9,
+    "end": 204.26
+  },
+  {
+    "text": "How do you help students get to those fundamental ideas in any of these disciplines through a process",
+    "uid": "9d61f4b9d784dde1",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 204.26,
+    "end": 210.94
+  },
+  {
+    "text": "of interacting with AI or AI providing other tools that do that?",
+    "uid": "a06cf51bab23faea",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 210.94,
+    "end": 215.54
+  },
+  {
+    "text": "And you know we've got this experiment called Learn LM, which is trying to solve the basic",
+    "uid": "2587e07e8072a3fa",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 215.54,
+    "end": 219.54
+  },
+  {
+    "text": "problems of tutoring because you know there's a lot of evidence that you know tutoring can actually",
+    "uid": "26ebf7e5747d25bc",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 219.54,
+    "end": 225.1
+  },
+  {
+    "text": "help improve outcomes dramatically, right?",
+    "uid": "dae34e9d8f12b997",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 225.1,
+    "end": 227.66
+  },
+  {
+    "text": "But tutoring with a human has certain properties.",
+    "uid": "ec46ab285ebf1277",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 227.66,
+    "end": 231.06
+  },
+  {
+    "text": "AI can be very stiffer than you're writing, and things are that sort.",
+    "uid": "84c43c1d5ea2c8d8",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 231.06,
+    "end": 236.3
+  },
+  {
+    "text": "And so we've been tuning this LM to actually be better about those characteristics that we know",
+    "uid": "4692e587de8d8789",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 236.3,
+    "end": 242.46
+  },
+  {
+    "text": "a true of tutors.",
+    "uid": "1ee41a6fbfc664f7",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 242.46,
+    "end": 243.26
+  },
+  {
+    "text": "So you're starting this school.",
+    "uid": "a8f010cd387d0ace",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 243.26,
+    "end": 248.27
+  },
+  {
+    "text": "So you're thinking about this also from the perspective of kids that get through 12.",
+    "uid": "faffcd4313317c41",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 248.27,
+    "end": 254.79
+  },
+  {
+    "text": "So how are you thinking about that?",
+    "uid": "212e5b26fc736608",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 254.79,
+    "end": 257.79
+  },
+  {
+    "text": "How do you think about dual kids of that sort for the students who learn or you think",
+    "uid": "6a87e1bc84fc2965",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 257.79,
+    "end": 260.99
+  },
+  {
+    "text": "about a conventional curriculum?",
+    "uid": "8c021fffc405f8ea",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 260.99,
+    "end": 262.23
+  },
+  {
+    "text": "The crux of our whole school is that by using technology, bespoke, teaching to kids the",
+    "uid": "8733afd51d783287",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 262.23,
+    "end": 268.43
+  },
+  {
+    "text": "level they are and being able to react to what they know and don't know.",
+    "uid": "8c1d1589947c2fbb",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 268.43,
+    "end": 274.63
+  },
+  {
+    "text": "And so letting them skip the stuff there to know, letting them learn twice.",
+    "uid": "f58d381413e0cce4",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 274.63,
+    "end": 278.23
+  },
+  {
+    "text": "Essentially mastery learned.",
+    "uid": "9d99da557e280d14",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 278.23,
+    "end": 279.87
+  },
+  {
+    "text": "In able to buy technology.",
+    "uid": "03e57b1971628785",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 280.87,
+    "end": 282.79
+  },
+  {
+    "text": "That is such a better way of teaching kids.",
+    "uid": "2bc7c9b3de6b5d0a",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 283.79,
+    "end": 286.71
+  },
+  {
+    "text": "That our whole model is based on the idea that the stuff that they're going to test on the",
+    "uid": "44d5634c6c45cde0",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 286.71,
+    "end": 291.39
+  },
+  {
+    "text": "SAT or the ACT, but we can teach that the kids in about one fourth of the time that it currently",
+    "uid": "20d00965cec67edb",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 291.39,
+    "end": 298.15
+  },
+  {
+    "text": "takes just because there is a better way of teaching that.",
+    "uid": "8b84c7fa1aeca83c",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 298.15,
+    "end": 301.15
+  },
+  {
+    "text": "What I think is much harder to think about, well, not that I've freed up that time in the day.",
+    "uid": "65103ccd56e931ed",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 301.15,
+    "end": 305.19
+  },
+  {
+    "text": "So I've got to say six hours a day that I'm not warehousing kids and using awful old 1800s technologies",
+    "uid": "2c04fd2853b44c60",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 305.19,
+    "end": 312.99
+  },
+  {
+    "text": "trying to get them to learn things about triangles.",
+    "uid": "4ecbac48715e7057",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 312.99,
+    "end": 315.31
+  },
+  {
+    "text": "What I'm going to do with them, that's actually part that I'm really nervous about because",
+    "uid": "b55d889ae22256c3",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 315.31,
+    "end": 318.91
+  },
+  {
+    "text": "am I actually going to be able to deliver them a curriculum that is exciting and engaging.",
+    "uid": "24836b366025cbbc",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 318.91,
+    "end": 325.91
+  },
+  {
+    "text": "Are they particular things that you see there that have been very effective?",
+    "uid": "43adaff1a187682b",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 325.91,
+    "end": 330.23
+  },
+  {
+    "text": "I mean, I already think AI tutors that are, you know, as good as a run of the mill, a human",
+    "uid": "7a2e06734e04fae0",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 330.23,
+    "end": 340.31
+  },
+  {
+    "text": "tutor, probably won't be long.",
+    "uid": "37d5dacc5b802335",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 340.31,
+    "end": 343.31
+  },
+  {
+    "text": "But to me, if I ran the California Department of Education, might thought it would be",
+    "uid": "eaaff287ce66f95e",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 343.31,
+    "end": 350.91
+  },
+  {
+    "text": "how do I get an AI tutor in every kids' ear?",
+    "uid": "3dee095eca595be1",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 350.91,
+    "end": 355.99
+  },
+  {
+    "text": "Because if you told me suddenly I had a grant for $17 billion that would put a tutor a full-time",
+    "uid": "396a5e4f1733b235",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 355.99,
+    "end": 366.43
+  },
+  {
+    "text": "tutor for every kid, I would take it a second.",
+    "uid": "25aa5a44f3eba8b0",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 366.43,
+    "end": 368.75
+  },
+  {
+    "text": "How is it how to stay and paid to get kids equipped with those tools?",
+    "uid": "fb19e27336ed8594",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 368.75,
+    "end": 373.31
+  },
+  {
+    "text": "But I don't think there is.",
+    "uid": "b57667869f7618a3",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 373.31,
+    "end": 374.31
+  },
+  {
+    "text": "AI can act as a tutor, but I also believe there is the role of the human in motivating and how people",
+    "uid": "a0eadec107b8311f",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 374.31,
+    "end": 382.15
+  },
+  {
+    "text": "interact with the technology, the teacher, the student and so on is being evolved.",
+    "uid": "a5fe25773777dbfb",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 382.15,
+    "end": 387.39
+  },
+  {
+    "text": "I feel that we are currently in an era of evolution, a new technology has come and that technology",
+    "uid": "6c25ccc0cae7416c",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 387.39,
+    "end": 393.55
+  },
+  {
+    "text": "itself is evolving rapidly and there are long established institutions that are trying",
+    "uid": "426c331fcc62e88c",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 393.55,
+    "end": 398.95
+  },
+  {
+    "text": "to figure out how to use the technology best and we are trying to work with teachers and so on",
+    "uid": "6113b413107bf77d",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 398.95,
+    "end": 402.55
+  },
+  {
+    "text": "right in school systems to help them and for them to inform us what is working and what is not.",
+    "uid": "84f3234122c55ca7",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 402.55,
+    "end": 407.79
+  },
+  {
+    "text": "Humans are still pretty fundamental, like humans, none because of humans.",
+    "uid": "366e93a9a80e55fb",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 407.79,
+    "end": 411.55
+  },
+  {
+    "text": "How do you think of the humans in the loop in India school?",
+    "uid": "b296e36d31f598d6",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 411.55,
+    "end": 414.31
+  },
+  {
+    "text": "In our school, what we are trying to do is take teachers and turn them in cheerleaders and",
+    "uid": "3c91b0d95620abd5",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 414.31,
+    "end": 421.51
+  },
+  {
+    "text": "kids, people who are helping the kids understand who they are and who they become and trying",
+    "uid": "47dd01ee583136cc",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 421.51,
+    "end": 431.03
+  },
+  {
+    "text": "to get rid of obstacles that are keeping kids from doing that.",
+    "uid": "7d6904f27711d3f4",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 431.03,
+    "end": 435.67
+  },
+  {
+    "text": "Which I think many people go into teaching and imagine that they do.",
+    "uid": "0ace7d96799ac93c",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 435.67,
+    "end": 438.87
+  },
+  {
+    "text": "But then the reality takes it away.",
+    "uid": "8ea63b029e79c925",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 438.87,
+    "end": 440.67
+  },
+  {
+    "text": "I remember how the history teacher in school, very inspirational the Jesuit priest and he would set",
+    "uid": "ec8c652a48caf0a4",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 440.67,
+    "end": 449.98
+  },
+  {
+    "text": "up his tree as like he was a situation.",
+    "uid": "7c28db876a97faee",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 449.98,
+    "end": 452.18
+  },
+  {
+    "text": "Here are the parties.",
+    "uid": "ba1a2061d4159f3a",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 452.26,
+    "end": 454.26
+  },
+  {
+    "text": "What do you think is going to happen?",
+    "uid": "ea2b986c443ff02b",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 454.26,
+    "end": 455.26
+  },
+  {
+    "text": "Now there is no way for us to actually know that.",
+    "uid": "afd7cb3903d88776",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 455.26,
+    "end": 457.42
+  },
+  {
+    "text": "The discussion kept us engaged in a way that I had never been engaged with the history before.",
+    "uid": "9a62e4b243bee468",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 457.42,
+    "end": 461.82
+  },
+  {
+    "text": "Otherwise it was years and dimensions of temples and numbers and dates and stuff like that",
+    "uid": "885f51c37b08e2fa",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 461.82,
+    "end": 467.42
+  },
+  {
+    "text": "and one king after another.",
+    "uid": "d466322ef4c92932",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 467.42,
+    "end": 469.82
+  },
+  {
+    "text": "This suddenly turned into something about human beings and how they interact and so on.",
+    "uid": "7616467f1f2fbae1",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 469.82,
+    "end": 474.98
+  },
+  {
+    "text": "They have leads to that space but you also needed something of what actually happened in history.",
+    "uid": "d0f82d5212a72678",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 474.98,
+    "end": 480.5
+  },
+  {
+    "text": "So the balance seems to be something that seems important.",
+    "uid": "963b3840705bbbee",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 480.5,
+    "end": 486.98
+  },
+  {
+    "text": "So I do think we would benefit a lot from a system in which teachers felt free to be more",
+    "uid": "8eccb27b342f7d3a",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 487.98,
+    "end": 496.5
+  },
+  {
+    "text": "themselves and didn't feel this pressure where like I've got to bomb through these four",
+    "uid": "e5e8acd73c26d88a",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 496.5,
+    "end": 506.18
+  },
+  {
+    "text": "topics today because the state of standards have 472 topics and so I have to click",
+    "uid": "c50609b047225b0d",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 506.18,
+    "end": 511.22
+  },
+  {
+    "text": "off these four and the seventy-two boxes and if I don't someone be mad at me.",
+    "uid": "addcd932d67f3ab6",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 511.22,
+    "end": 514.7
+  },
+  {
+    "text": "I think I totally understand why people respond to those incentives.",
+    "uid": "e463220c546cc190",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 514.7,
+    "end": 518.9
+  },
+  {
+    "text": "I think those are the wrong incentives.",
+    "uid": "e912f5f1d623d89e",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 518.9,
+    "end": 521.3
+  },
+  {
+    "text": "Honestly I think what we're asking teachers to do at our school is to connect with kids.",
+    "uid": "267d8ee2e23adcf6",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 521.3,
+    "end": 529.62
+  },
+  {
+    "text": "I mean apart with that history professor you're talking about did who changed the way",
+    "uid": "41e8833cd7381d2e",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 529.62,
+    "end": 534.06
+  },
+  {
+    "text": "the history was gave you the freedom to actually start to be creative and to think",
+    "uid": "aec1eb70a2cc682e",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 534.06,
+    "end": 539.98
+  },
+  {
+    "text": "in a history context instead of feeling like your only job is to memorize and be a good",
+    "uid": "795ef76d684169f2",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 539.98,
+    "end": 545.98
+  },
+  {
+    "text": "Yeah and I think about like one of the reasons I'm working on learning at Google is things like",
+    "uid": "6ac1919bc022e0fe",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 546.98,
+    "end": 551.74
+  },
+  {
+    "text": "YouTube and search and Gemini and even Google Arts and Culture and people come to the schools",
+    "uid": "e0c8c91a81c87632",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 551.74,
+    "end": 557.62
+  },
+  {
+    "text": "because they want to not because they have to.",
+    "uid": "c61ae03c8ec22dbf",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 557.62,
+    "end": 559.86
+  },
+  {
+    "text": "The creators on YouTube I find like really inspiring so much have learned from them and you",
+    "uid": "21f38dbd12ab3fa6",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 559.86,
+    "end": 564.9
+  },
+  {
+    "text": "know they don't succeed unless people want to come to that education and they learn in a somewhat",
+    "uid": "ce88921a38ac492a",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 564.9,
+    "end": 569.62
+  },
+  {
+    "text": "different way in that want to rather than have to but there are these fields like that are these",
+    "uid": "7b4399a43486d251",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 569.62,
+    "end": 574.98
+  },
+  {
+    "text": "two components of education and hopefully the want to can become larger in this process using",
+    "uid": "d251bf4670031e4a",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 574.98,
+    "end": 582.26
+  },
+  {
+    "text": "some of these tools but you can become more efficient and effective right so those things like",
+    "uid": "bae6609bf119d6ae",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 582.26,
+    "end": 588.58
+  },
+  {
+    "text": "that's bottom what you're trying to achieve in the school.",
+    "uid": "5f80440a7149ee04",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 588.58,
+    "end": 594.47
+  },
+  {
+    "text": "In my own classroom I'm not excited at all you know it's you know I feel like I'm part of the",
+    "uid": "e12a05b06950d2c9",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 594.47,
+    "end": 599.75
+  },
+  {
+    "text": "past and I'm on my own classroom but but here trying to create this is really feels like being",
+    "uid": "3e906abf1c32bf35",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 599.75,
+    "end": 604.55
+  },
+  {
+    "text": "part of the future it's I hope we have a conversation two five ten years from now in which we can",
+    "uid": "17d221047e49a728",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 604.55,
+    "end": 611.59
+  },
+  {
+    "text": "we can both say that we you know that we spend our time well and it was fun and we've created",
+    "uid": "e4c1b1e8d88efd7c",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 611.59,
+    "end": 616.55
+  },
+  {
+    "text": "amazing things for the world yeah that would be wonderful.",
+    "uid": "737ccba163470647",
+    "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_",
+    "start": 616.55,
+    "end": 619.35
+  }
+]
