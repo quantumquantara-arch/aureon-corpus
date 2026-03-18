@@ -1,0 +1,1486 @@
+[
+  {
+    "text": "In this episode of Insights at the Edge, my guest is Sam Harris, and I am so pleased to have this opportunity",
+    "uid": "5e6130f313ba74e1",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 7.57,
+    "end": 16.21
+  },
+  {
+    "text": "Sam to talk with you. You write and talk about a wide range of topics, including the problems with faith,",
+    "uid": "92fe706576849fd1",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 16.21,
+    "end": 24.93
+  },
+  {
+    "text": "morality, free will, secular enlightenment, gun ownership, the dangers of the Islamic religion, and more.",
+    "uid": "b9971e8232edd16f",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 24.93,
+    "end": 37.01
+  },
+  {
+    "text": "And what really impresses me is not so much the wide range, but you're what I would call a stand-up guy.",
+    "uid": "98a95ff8e66d3540",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 37.73,
+    "end": 45.25
+  },
+  {
+    "text": "You stand up for your convictions, and you speak to them truthfully, from your experience,",
+    "uid": "75dc426c5fabe716",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 46.29,
+    "end": 53.65
+  },
+  {
+    "text": "from your knowing and I really respect that. And I'm really excited to have this conversation with you.",
+    "uid": "9447248592c92952",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 53.65,
+    "end": 58.93
+  },
+  {
+    "text": "Let me just tell you a little bit more about Sam. He's the author of five New York Times Best Sellers,",
+    "uid": "c700179207e5ea58",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 59.57,
+    "end": 65.09
+  },
+  {
+    "text": "Neuroscientist Philosopher, host of the widely acclaimed Making Sense podcast, and he's the creator of the",
+    "uid": "446a565d38885409",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 65.09,
+    "end": 74.69
+  },
+  {
+    "text": "waking up app for people who want to learn to meditate in a modern scientific context. Sam, welcome.",
+    "uid": "78ac1bc3cf252ec3",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 74.69,
+    "end": 82.53
+  },
+  {
+    "text": "Thank you. Thank you. It's great to meet you. Happy to be here.",
+    "uid": "076ff224a2cae8aa",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 83.49,
+    "end": 86.05
+  },
+  {
+    "text": "Wonderful to meet you too. I'm surprised that it's taken so long for our",
+    "uid": "146ed33f259d962b",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 87.17,
+    "end": 91.65
+  },
+  {
+    "text": "life paths to converge for right here this moment, but I'm so happy that we're on.",
+    "uid": "104d78074828b065",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 92.37,
+    "end": 97.97
+  },
+  {
+    "text": "Well, I heard your voice somewhere. I think it was probably on your own podcast, and I thought this is",
+    "uid": "fb3ec9c52bc774c4",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 99.17,
+    "end": 103.73
+  },
+  {
+    "text": "if ever there was a great podcast in voice. This is a voice I have to meet. So",
+    "uid": "9f5bff6a56beb6a7",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 104.29,
+    "end": 108.69
+  },
+  {
+    "text": "you really, you can't be the first time you've heard this, but you've just got this amazing",
+    "uid": "d9f8e6019bdb47a9",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 109.49,
+    "end": 114.29
+  },
+  {
+    "text": "ready time. Let's ready a voice. So congratulations. Thank you.",
+    "uid": "7dfc806849a67882",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 115.01,
+    "end": 119.25
+  },
+  {
+    "text": "Came with the body and everything. Yeah. With it. So about 10 years ago, I hosted a 23-part interview",
+    "uid": "67db84bddc5237aa",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 120.29,
+    "end": 130.08
+  },
+  {
+    "text": "series called Waking Up. What does it really mean? And the thing that astonished me the most after",
+    "uid": "d3f66d6f6ba845c4",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 130.08,
+    "end": 138.08
+  },
+  {
+    "text": "doing 23 interviews is that people didn't answer the same way. I was shocked. I was like,",
+    "uid": "dbe528bcd53123ff",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 138.08,
+    "end": 145.68
+  },
+  {
+    "text": "wow, people use the same word, waking up, spiritual awakening, and they mean different things by it.",
+    "uid": "294afad8c17b65bb",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 145.68,
+    "end": 152.56
+  },
+  {
+    "text": "So I wanted to start there and hear precisely what Sam Harris means by waking up.",
+    "uid": "d5bfdc6d27bb2575",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 152.56,
+    "end": 159.28
+  },
+  {
+    "text": "Yeah. Well, it can mean a few things. I think the center of the bull's eye for me, and this is",
+    "uid": "fd63bf68c15e0008",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 161.28,
+    "end": 166.96
+  },
+  {
+    "text": "the direct influence of non-doll teachings in Buddhism and the Indian tradition on May. This is",
+    "uid": "d40e974decf3e512",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 167.76,
+    "end": 174.8
+  },
+  {
+    "text": "you a really zo-chan and Advaita. It's not that those two schools think they teach precisely the same thing,",
+    "uid": "6c8630195fee16ac",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 174.8,
+    "end": 182.24
+  },
+  {
+    "text": "but I basically think they do. You know, you all be at the methods are different. But I think the goal is the",
+    "uid": "eb320a29d91539ad",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 182.24,
+    "end": 188.4
+  },
+  {
+    "text": "same. And the goal is really to recognize that the sense of self, the sense that there's a subject",
+    "uid": "b90478e494af34bf",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 188.4,
+    "end": 194.96
+  },
+  {
+    "text": "in the middle of experience that to whom experience refers, that there's an eye that is appropriate",
+    "uid": "fc017532975e8d47",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 195.52,
+    "end": 203.6
+  },
+  {
+    "text": "in experience. It's not identical to experience, but it's kind of on the edge of it or in the middle of it.",
+    "uid": "dd0153fc5e4c8524",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 203.6,
+    "end": 208.24
+  },
+  {
+    "text": "The subject in the head, that's an illusion. So you're waking up from the dream of subject object perception",
+    "uid": "7c805583f27e0ab2",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 208.8,
+    "end": 217.68
+  },
+  {
+    "text": "and especially when you're talking about the mechanics of psychological suffering, you're waking",
+    "uid": "2affde2ce45652cf",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 218.48,
+    "end": 224.4
+  },
+  {
+    "text": "up from the dream of identification with thought. The sense that this next or rise in thought",
+    "uid": "bea78fd939759518",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 224.4,
+    "end": 231.2
+  },
+  {
+    "text": "is what you are subjectively. This is not something that people would necessarily assert",
+    "uid": "f8bb59f994ed862f",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 231.92,
+    "end": 238.8
+  },
+  {
+    "text": "conceptually. Most people are educated people in the West. People believe that we've understood",
+    "uid": "3b07fa1b68cbada6",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 238.8,
+    "end": 245.28
+  },
+  {
+    "text": "something scientifically about the nature of ourselves. They're not going to think that they're",
+    "uid": "a761c8d8293cadc7",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 245.28,
+    "end": 250.0
+  },
+  {
+    "text": "really are identical to their thoughts. They're going to think that identical to their bodies",
+    "uid": "e9a69b89bad5c701",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 250.96,
+    "end": 254.64
+  },
+  {
+    "text": "probably. And if they're religious in any sense, they think that they're identical to their souls,",
+    "uid": "84197dc400a54f1c",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 254.64,
+    "end": 259.76
+  },
+  {
+    "text": "you know, inside their bodies very likely. But there's this sense of a feeling identical to thought",
+    "uid": "54f0b154d3a9ebc4",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 259.76,
+    "end": 269.04
+  },
+  {
+    "text": "that really is the default state for most of us. You just see the thoughts sneak up upon us",
+    "uid": "6e4265adefe79f61",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 269.76,
+    "end": 275.6
+  },
+  {
+    "text": "on a wares and they inhabit us. And when you obviously, in meditation, you learn to recognize them",
+    "uid": "0f1c8495e88d9fc4",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 275.68,
+    "end": 283.84
+  },
+  {
+    "text": "as appearances and consciousness, but unrecognized strangely, this next piece of language or this",
+    "uid": "2b6f65f0112110e5",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 283.84,
+    "end": 290.88
+  },
+  {
+    "text": "next image, this next memory, this next judgment, this next, you know, Kindlein opinion, just feels like me,",
+    "uid": "efbd59f158f912b1",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 290.88,
+    "end": 298.88
+  },
+  {
+    "text": "right? It just feels like, oh, this is, you know, there's no distance. There's no, there's no,",
+    "uid": "0f526691ded5e4cd",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 298.88,
+    "end": 302.64
+  },
+  {
+    "text": "there's a subjective distance between me and the voice in my head, which is thinking this next thought.",
+    "uid": "4bc4e4869c5e2c57",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 302.64,
+    "end": 308.96
+  },
+  {
+    "text": "I mean, that's the default state. And that really is in many ways deeply analogous to be in a sleep and",
+    "uid": "7bbad1f372c12f01",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 308.96,
+    "end": 316.32
+  },
+  {
+    "text": "dreaming and not knowing that you're dreaming. You know, when we go to sleep, we fall into a dream state.",
+    "uid": "b5ffa339b6638265",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 316.32,
+    "end": 321.28
+  },
+  {
+    "text": "I think the most remarkable thing about dreams is that we're totally unsurprised to suddenly find",
+    "uid": "35d66d0f518a33db",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 322.24,
+    "end": 327.6
+  },
+  {
+    "text": "ourselves in this new condition, right? You're safely in your bed. You fall asleep and then",
+    "uid": "b452e0dc7977098d",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 327.6,
+    "end": 332.16
+  },
+  {
+    "text": "however many minutes later, in subjective time, it's more or less instantaneous, you're somewhere else,",
+    "uid": "9ef327d229c2a528",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 332.8,
+    "end": 339.68
+  },
+  {
+    "text": "you know, you're worse around a by other people. People you've never met or famous people or dead people or",
+    "uid": "d1061e32bddbdacf",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 339.68,
+    "end": 344.08
+  },
+  {
+    "text": "and unless it's a lucid dream, unless you have some reality testing going on that that links it to your",
+    "uid": "82bc81ebe7388fc2",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 344.64,
+    "end": 351.36
+  },
+  {
+    "text": "waking state, the most remarkable thing is that we don't even notice this transition. I mean, we have no",
+    "uid": "ea61e90edcf5af44",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 351.44,
+    "end": 356.64
+  },
+  {
+    "text": "sense that the laws of physics have been suspended for us that are, you know, our psychological continuity has",
+    "uid": "32f859abfb75e271",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 357.36,
+    "end": 364.8
+  },
+  {
+    "text": "been, has been interrupted. We're just ready to feel that we are this subject in the next circumstance.",
+    "uid": "be3ec01309eae77e",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 364.8,
+    "end": 374.0
+  },
+  {
+    "text": "Something like that happens with thought, more or less every moment of our waking lives. We just",
+    "uid": "8bd850324d432cab",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 375.04,
+    "end": 379.68
+  },
+  {
+    "text": "are born away by this voice in our hands, or by the stream of imagery and it totally defines",
+    "uid": "1ea0aef7b04fabde",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 379.68,
+    "end": 387.36
+  },
+  {
+    "text": "our sense of being in the world. I mean, you think a thought of self-hatred, or you think a thought of a",
+    "uid": "2e37714fb392f5e2",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 388.08,
+    "end": 394.24
+  },
+  {
+    "text": "grat, or you think of the person who died, who you deeply miss, you know, you have no perspective on those thoughts.",
+    "uid": "6e9b016f218b1425",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 394.24,
+    "end": 401.84
+  },
+  {
+    "text": "All of a sudden that is you, that is your emotional state, that is your life. And it's very strange that",
+    "uid": "d406392df7dcfcaa",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 401.84,
+    "end": 408.72
+  },
+  {
+    "text": "thought has this kind of power over us. I'm not saying that thought is something we want to get rid of.",
+    "uid": "7debc8607c30c676",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 408.8,
+    "end": 412.4
+  },
+  {
+    "text": "Obviously, thought is quite necessary for our functioning as human beings, but it is that the mechanism that delivers",
+    "uid": "81c7b7adebe81ea0",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 413.44,
+    "end": 420.8
+  },
+  {
+    "text": "virtually all of our psychological suffering and meditation offers a way to break that spell.",
+    "uid": "c024f3b0a82c9c08",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 421.52,
+    "end": 427.68
+  },
+  {
+    "text": "Sam Harris is not the thinker. You're waking up from something. I get that from identification with",
+    "uid": "1bbfa935cd7877a1",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 431.39,
+    "end": 441.31
+  },
+  {
+    "text": "and with being the thinker. So there's a waking up from, but what about the waking up too?",
+    "uid": "945160976f1df64e",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 441.79,
+    "end": 448.43
+  },
+  {
+    "text": "What do you discover you are? How would you language that?",
+    "uid": "59c4b616719b796d",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 449.15,
+    "end": 453.07
+  },
+  {
+    "text": "Well, I tend to use the word consciousness or awareness. I use those synonym",
+    "uid": "6ceb95d1b12459ba",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 455.23,
+    "end": 460.83
+  },
+  {
+    "text": "for what remains when you're not a shattering experience with concepts. The really is just consciousness",
+    "uid": "7d61c4b298134951",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 461.79,
+    "end": 470.03
+  },
+  {
+    "text": "and its contents. And the contents are in some basic sense indivisible from consciousness itself.",
+    "uid": "689b652c9574fcb5",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 470.59,
+    "end": 477.55
+  },
+  {
+    "text": "This is a very traditional view in in advice or in so-called, or in Mahamudra, or even Zan,",
+    "uid": "0423d40be6d22b68",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 477.55,
+    "end": 484.75
+  },
+  {
+    "text": "I mean any non-dual school would give you some version of this where you have a",
+    "uid": "fc44a05484324f73",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 484.75,
+    "end": 489.47
+  },
+  {
+    "text": "this condition that is the basis of all experience, all subjectivity, that the feeling that it's",
+    "uid": "f1888e4e69120d3b",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 490.67,
+    "end": 497.23
+  },
+  {
+    "text": "like something to be what you are is consciousness. And this would be no less true even if",
+    "uid": "d075858f04c839bd",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 497.23,
+    "end": 504.35
+  },
+  {
+    "text": "you were radically confused about everything. Even if this is all a dream, even if this is all an illusion,",
+    "uid": "440381bf513aa469",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 505.23,
+    "end": 510.59
+  },
+  {
+    "text": "even if nothing is as it seems, there is this seeming, there is this experience of something and",
+    "uid": "60f0aa4de76229fe",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 510.59,
+    "end": 517.87
+  },
+  {
+    "text": "for lack of a better word, many of us call that consciousness or awareness. And everything you can",
+    "uid": "c295c7c67d84efd9",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 519.63,
+    "end": 525.71
+  },
+  {
+    "text": "experience is appearing in that space. And I should be clear, I'm not making any metaphysical",
+    "uid": "ac23f9dd4401ec2f",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 525.71,
+    "end": 532.83
+  },
+  {
+    "text": "claims about this. I'm not saying that the consciousness is the foundation of all reality that",
+    "uid": "d054459fe2c2b649",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 532.83,
+    "end": 540.43
+  },
+  {
+    "text": "it preceded the big bang, say, I'm not saying that insight into non-duality teaches you anything about",
+    "uid": "35661b4895d7cfae",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 540.43,
+    "end": 547.07
+  },
+  {
+    "text": "cosmology, it clearly doesn't. I think we can bracket all of those metaphysical questions about",
+    "uid": "08b95c354d729176",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 547.07,
+    "end": 552.35
+  },
+  {
+    "text": "how consciousness relates to the brain or the physical universe. I was very interested in",
+    "uid": "72c2d75d12ae5383",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 552.35,
+    "end": 556.83
+  },
+  {
+    "text": "I get their consequential for certain questions and we haven't figured all of that out yet, obviously,",
+    "uid": "6f9a9e00da7273ab",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 559.31,
+    "end": 563.71
+  },
+  {
+    "text": "but it really doesn't matter for the claims of making about the possibilities of experience and about the",
+    "uid": "1252e4f8acf47f50",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 563.71,
+    "end": 569.55
+  },
+  {
+    "text": "nature of human suffering. So you can bracket the metaphysics I'm happy to talk about it if it",
+    "uid": "4b476ca3c704c2b1",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 569.55,
+    "end": 575.23
+  },
+  {
+    "text": "interests you, but I just want to be clear that I am talking about the nature of experience and",
+    "uid": "98db25ac9f44ff15",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 575.23,
+    "end": 580.91
+  },
+  {
+    "text": "what can be realized from the first person's side if you simply pay close attention to what it's",
+    "uid": "4a827c9502dea821",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 580.91,
+    "end": 587.55
+  },
+  {
+    "text": "like to be you. Right, but here's where I'd love to understand a little bit more from your perspective.",
+    "uid": "d1ad42b55bbef02e",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 587.55,
+    "end": 595.98
+  },
+  {
+    "text": "In the waking up process, there's this discovery of consciousness or awareness that isn't touched",
+    "uid": "104e0a0d8c5f41f7",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 598.3,
+    "end": 605.34
+  },
+  {
+    "text": "by the contents that come and go. And yet you're over there, wherever you are, what geography or you",
+    "uid": "c74e1b40b4bcdc83",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 605.42,
+    "end": 613.98
+  },
+  {
+    "text": "in, I'm over here, we have different experiences, perspectives, there's a uniqueness of Sam Harris,",
+    "uid": "88259cb72b70e6f9",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 613.98,
+    "end": 623.74
+  },
+  {
+    "text": "the stand-up guy that I mentioned and Tammy Simon with the radio voice. How do you understand that?",
+    "uid": "b68c6ce6e30f25c1",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 623.74,
+    "end": 629.74
+  },
+  {
+    "text": "Well, I think that, it's obvious that the consciousness of contents and our minds is",
+    "uid": "3d96089b5df2be63",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 630.54,
+    "end": 640.62
+  },
+  {
+    "text": "these things, these phenomena are in some unavoidable sense of body and our entanglement with the world.",
+    "uid": "9d15c868a54d00d0",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 643.26,
+    "end": 656.46
+  },
+  {
+    "text": "Right, I mean, so I don't think you can be a, again, I would like to bracket the metaphysics",
+    "uid": "2d5eb799ed264589",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 656.46,
+    "end": 664.7
+  },
+  {
+    "text": "because I'm somewhat agnostic about the kind of the final answers here, it's pretty clear we don't know them.",
+    "uid": "8c17550b995b93ee",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 664.7,
+    "end": 670.38
+  },
+  {
+    "text": "So, consciousness for me is distinct from mind in the sense that it still remains a mystery",
+    "uid": "6ad3daca94f8a765",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 670.38,
+    "end": 678.7
+  },
+  {
+    "text": "as to how it relates to neurophysiology. Mind itself, right, the functions of human mind,",
+    "uid": "b6ea5bae4312671c",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 678.7,
+    "end": 684.46
+  },
+  {
+    "text": "the, our ability to process language, our ability to map the physical world onto and our",
+    "uid": "37b26a4e05ece0fc",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 684.54,
+    "end": 692.14
+  },
+  {
+    "text": "visual field onto our visual cortex, right? I mean, all of that is clearly based on what the brain",
+    "uid": "2a6a27ecdcc4dd9d",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 692.14,
+    "end": 701.18
+  },
+  {
+    "text": "is doing, right? We know through, through, through, through, now about 150 years of neurology",
+    "uid": "b4b6ecdb69281e35",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 701.18,
+    "end": 707.26
+  },
+  {
+    "text": "and emerging neuroscience and psychology that the mind as such isn't independent of the brain,",
+    "uid": "7fea8db91554d120",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 708.06,
+    "end": 716.06
+  },
+  {
+    "text": "right? So, this is the information processing of the brain really is creating a lot of the phenomenon",
+    "uid": "aa1fd204061d4c0c",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 716.06,
+    "end": 723.66
+  },
+  {
+    "text": "that we can be conscious of, right? So, that this is a, again, slightly confusing, but I would hold",
+    "uid": "708b1a35f21f335e",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 723.66,
+    "end": 729.1
+  },
+  {
+    "text": "consciousness itself aside. The fact that it's like something to have a mind, the fact that it's like",
+    "uid": "67ad7c0249988a2c",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 729.1,
+    "end": 733.98
+  },
+  {
+    "text": "something to be what you are. I would hold that aside as still a remaining mystery, but as to the phenomenon,",
+    "uid": "f7024cce0ed6395a",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 733.98,
+    "end": 741.02
+  },
+  {
+    "text": "you know, what it's like to be you is is powerfully dependent upon you as a physical system over there,",
+    "uid": "b69b9766e1541031",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 742.06,
+    "end": 751.66
+  },
+  {
+    "text": "wherever you are, right? And so it is for me, right? So, the fact that I don't wake up with your memories",
+    "uid": "f86a077d89b91a9b",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 751.66,
+    "end": 756.94
+  },
+  {
+    "text": "and you don't wake up with mind, that's not a mystery from my point of view. I mean, your memories are",
+    "uid": "0f55893e0f43176c",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 757.5,
+    "end": 763.34
+  },
+  {
+    "text": "encoded in the the neural substrate of your brain, right? Now, whether we could copy them onto the",
+    "uid": "e55e2a2204477a58",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 764.22,
+    "end": 769.5
+  },
+  {
+    "text": "hard drive of some future computer, that's, that's an open question, right? This is, this is all interesting",
+    "uid": "7adce7fca22e78a1",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 769.5,
+    "end": 774.62
+  },
+  {
+    "text": "and and questions about progress in AI come here and, and if, in fact, consciousness is just an",
+    "uid": "0813730259f6f6b7",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 774.62,
+    "end": 783.18
+  },
+  {
+    "text": "immersion property of information processing on some level, then, you know, questions of conscious AI will",
+    "uid": "719403b73ad0adc6",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 783.18,
+    "end": 787.82
+  },
+  {
+    "text": "one day be something we have to entertain. And, but again, that's still not yet known. So from my",
+    "uid": "3addf1c7f20b54e1",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 787.9,
+    "end": 796.06
+  },
+  {
+    "text": "point of view, consciousness itself is, in some ways deeply impersonal because the thing that would",
+    "uid": "57e7152ace90f334",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 796.06,
+    "end": 802.78
+  },
+  {
+    "text": "make it personal is the, is the specifics of, of its contents, right? My, my consciousness is,",
+    "uid": "1364cd1f65be20aa",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 802.78,
+    "end": 809.58
+  },
+  {
+    "text": "I would imagine totally identical to yours except for the fact that over here,",
+    "uid": "69248a00115797f4",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 810.54,
+    "end": 816.3
+  },
+  {
+    "text": "it's populated by my memories and my pains and pleasures, I add it to, et cetera. So, um, and that",
+    "uid": "a1afafdf51d21c05",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 817.34,
+    "end": 826.38
+  },
+  {
+    "text": "again is not a mystery because the only place, you know, but my particular pain and my knee can appear",
+    "uid": "079935b6313dd9b3",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 826.38,
+    "end": 833.1
+  },
+  {
+    "text": "is over here where my knee is, right? And, and, and in the nervous system that is, you know,",
+    "uid": "6376a8a34fdfe0b9",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 833.9,
+    "end": 839.42
+  },
+  {
+    "text": "mapping the inputs to my knee, you know, you, you, in my, in the physical, in the cortex of my brain, right? So,",
+    "uid": "e8be85b03883e66d",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 839.42,
+    "end": 846.06
+  },
+  {
+    "text": "and it certainly seems that not every part of the human brain is producing conscious experience, right?",
+    "uid": "c9649a739981c857",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 848.06,
+    "end": 854.22
+  },
+  {
+    "text": "I mean, again, this is, this is another mystery, it's still not entirely mapped, and it's, I can't",
+    "uid": "80d9ff8da64f4bca",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 854.22,
+    "end": 860.54
+  },
+  {
+    "text": "be entirely confident of this, I mean, it's possible that parts of the, the brain that we think",
+    "uid": "72ceff6865534d83",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 860.54,
+    "end": 864.86
+  },
+  {
+    "text": "are consciously dark, may in fact be conscious in ways that, that would surprise us, but, um,",
+    "uid": "8ebc5ea45825e0c4",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 864.86,
+    "end": 870.22
+  },
+  {
+    "text": "it's certainly at the gross level, it seems that the totality of what I can be conscious of as a mind",
+    "uid": "48add4d080f583fe",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 872.38,
+    "end": 878.06
+  },
+  {
+    "text": "is a subset of the neural activity that's occurring in my brain, and, and perhaps a, a, a small-ish",
+    "uid": "9690bee24966cf77",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 878.86,
+    "end": 885.5
+  },
+  {
+    "text": "subset, right? I mean, there's a lot that my brain is doing that, that I can't inspect consciously,",
+    "uid": "5463d16c9a5dbd5a",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 885.5,
+    "end": 891.34
+  },
+  {
+    "text": "and it's true this, as a matter of my conscious experience, I can't even tell that I have a brain,",
+    "uid": "f13154b3862d73a4",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 891.34,
+    "end": 897.74
+  },
+  {
+    "text": "right? That's a pretty big, blind spot, right? I mean, there's not no experience you're going to have in",
+    "uid": "1e44a316b6805767",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 897.74,
+    "end": 902.06
+  },
+  {
+    "text": "meditation that is going to deliver the details of neurophysiology, and it won't even deliver the fact",
+    "uid": "b323c5571a1844be",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 902.06,
+    "end": 911.34
+  },
+  {
+    "text": "that your brain exists, or as, as, as, as really plays any role at all in, in, in driving your experience.",
+    "uid": "85042a156622b123",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 911.34,
+    "end": 917.9
+  },
+  {
+    "text": "So, we're, we're not, we don't, we don't, subjectively, we don't have a perfect concept of what we are in,",
+    "uid": "fdc0a5afd6dc28b5",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 917.9,
+    "end": 923.02
+  },
+  {
+    "text": "in our totality, but I would argue that, again, that doesn't really matter for, when we're,",
+    "uid": "0f47ff5b14d0ae7f",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 923.02,
+    "end": 930.78
+  },
+  {
+    "text": "we're talking about the promise of, of meditation, and the, and the, and the, um, the nature of the self,",
+    "uid": "c4bd4e454db5f88c",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 930.78,
+    "end": 936.94
+  },
+  {
+    "text": "the kinds of illusions we're taken in by and the way in which they produce suffering for us.",
+    "uid": "cfe9d960b2750831",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 936.94,
+    "end": 941.18
+  },
+  {
+    "text": "Okay, let me ask you a few direct questions here. You kind of comes to my, am I avoiding the top of the",
+    "uid": "150111d660a55a0e",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 942.22,
+    "end": 946.94
+  },
+  {
+    "text": "channel? No, no, but I want to generate greater clarity for myself. When it comes to meditating in a",
+    "uid": "b61f492efdc1bddc",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 946.94,
+    "end": 955.74
+  },
+  {
+    "text": "quote, unquote, rational or scientific context, a couple of times, you've used the word mystery,",
+    "uid": "ccaac6163cc2f7b9",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 955.74,
+    "end": 962.22
+  },
+  {
+    "text": "and I'm wondering from your perspective, what exists in the realm of mystery that we don't know the",
+    "uid": "c497529dec085c05",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 962.38,
+    "end": 969.02
+  },
+  {
+    "text": "answers to when it comes to 21st century secular and light, we just don't know, that's a mystery, even though we're",
+    "uid": "ed9ae6491bd46c76",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 969.02,
+    "end": 976.06
+  },
+  {
+    "text": "being very rational here. Well, so there, um, hopefully I would give you two different types of mystery,",
+    "uid": "266341339ca1b526",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 976.06,
+    "end": 982.38
+  },
+  {
+    "text": "and, um, one, I think we never get rid of, right? So, there, there, there are ordinary mysteries where",
+    "uid": "f38a4673c1010899",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 983.1,
+    "end": 990.38
+  },
+  {
+    "text": "it really is a statement, as you just made of us just not having the right information. We don't",
+    "uid": "94d6f4f8b0ef1456",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 991.18,
+    "end": 997.34
+  },
+  {
+    "text": "understand something conceptually and we will one day understand it. You know, there was a time where we had no",
+    "uid": "897bd3fb7692e3e0",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 997.34,
+    "end": 1002.06
+  },
+  {
+    "text": "idea how people got sick. We didn't know about viruses, we didn't know about bacteria, and then we learned",
+    "uid": "970dd20a416da939",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1002.06,
+    "end": 1007.82
+  },
+  {
+    "text": "something about that, you know, the germ theory of disease and, you know, wash your hands before surgery, etc.",
+    "uid": "9ec04da271acf45f",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1007.82,
+    "end": 1013.82
+  },
+  {
+    "text": "And we made progress, and so certain mysteries got resolved there, and they get further ones, you know,",
+    "uid": "4fe72f5c2b2a7128",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1014.54,
+    "end": 1020.14
+  },
+  {
+    "text": "that we need to resolve. Um, that kind of mystery for the topic of this conversation relates to",
+    "uid": "834b9ab87b048e4f",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1020.14,
+    "end": 1028.3
+  },
+  {
+    "text": "consciousness itself, the fact that there's something that is like to be what we are, right? The fact that",
+    "uid": "02c3d998dc0bf862",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1030.46,
+    "end": 1036.14
+  },
+  {
+    "text": "the lights are on in any sense, how that is emerging, out of information processing in the brain or any",
+    "uid": "8d2c82c906b02cdc",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1036.14,
+    "end": 1041.26
+  },
+  {
+    "text": "of the physical system, that, that is, or even the fact that it is emerging, it made it's possible that",
+    "uid": "340a658c8031db47",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1041.26,
+    "end": 1047.02
+  },
+  {
+    "text": "it goes deeper than information processing. It's possible that there's something that is like to",
+    "uid": "10322533b9958f9f",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1047.74,
+    "end": 1051.1
+  },
+  {
+    "text": "be an electron, and we just don't know that, right? Um, that's a genuine mystery. We don't understand",
+    "uid": "f4c22ae6f4dae8a9",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1051.1,
+    "end": 1057.58
+  },
+  {
+    "text": "the so-called neural correlates of consciousness. We haven't, you know, there are theories about this.",
+    "uid": "155241ce82a4e666",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1058.62,
+    "end": 1063.58
+  },
+  {
+    "text": "Some don't make a lot of sense even at first glance, but, um, none are persuasive enough at this point",
+    "uid": "54910d6893f3f96e",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1064.94,
+    "end": 1072.46
+  },
+  {
+    "text": "for me to say, you know, as a neuroscientist, sort of philosopher of mind, that we are confident that we know",
+    "uid": "11586c3bc72d133f",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1072.46,
+    "end": 1079.1
+  },
+  {
+    "text": "how consciousness relates to the brain or or to any physical system. And this has certain consequences,",
+    "uid": "34c0bd74db144c24",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1079.1,
+    "end": 1086.54
+  },
+  {
+    "text": "for instance, I think we will build increasingly advanced AI, we will eventually build, you know, truly",
+    "uid": "72a629dfb9e00ce6",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1086.54,
+    "end": 1092.78
+  },
+  {
+    "text": "humanoid robots that, that strike us as, as, as, as, as, as utterly compelling, and we will design them in such a",
+    "uid": "f1e30e73b7a1690a",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1092.78,
+    "end": 1100.94
+  },
+  {
+    "text": "way so it's to seem conscious. And if we haven't figured out how consciousness actually relates to",
+    "uid": "4f9c6d77d2c44e86",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1100.94,
+    "end": 1106.22
+  },
+  {
+    "text": "information processing, we won't know whether they're conscious. And I think this is a very interesting",
+    "uid": "438bf1a6d6af32d2",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1106.22,
+    "end": 1111.26
+  },
+  {
+    "text": "and but potentially ethically fraught situation that we were going to find ourselves in, I think",
+    "uid": "fab81c5462b7c1b9",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1111.9,
+    "end": 1116.94
+  },
+  {
+    "text": "and it probably a few short years, I mean, maybe 10 years or, you know, 15 years at the outside. So",
+    "uid": "7f50f59b6dce4c06",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1116.94,
+    "end": 1123.5
+  },
+  {
+    "text": "so consciousness, we just how it arises is a mystery. But I would argue that there are other sorts of",
+    "uid": "da4eb557565cd7fb",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1123.66,
+    "end": 1134.94
+  },
+  {
+    "text": "mysteries or there are another principle of mystery that we really never dispel in science and it",
+    "uid": "94a00a4f1a039d39",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1134.94,
+    "end": 1140.46
+  },
+  {
+    "text": "relates to the nature of just what it's like to be conscious from the first person side and it's that",
+    "uid": "babfd974ae1b4809",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1140.46,
+    "end": 1146.14
+  },
+  {
+    "text": "on some basic level are conceptual understanding of things doesn't really reach into the core of",
+    "uid": "d0f6b5c34c549cd7",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1146.78,
+    "end": 1156.46
+  },
+  {
+    "text": "experience and dispel mystery. Right. And so you can look at any ordinary object, you can look at your hand",
+    "uid": "bb7616fc35df8ce0",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1156.46,
+    "end": 1163.1
+  },
+  {
+    "text": "or you can look at a cup on your desk, right? And, and if you just pay close attention to it and",
+    "uid": "5fb7ad7e3ebf7354",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1163.66,
+    "end": 1171.34
+  },
+  {
+    "text": "ask yourself, what is it, right? Just if you just, you know, as those seen it for the first time,",
+    "uid": "2aeeb9e7cb754286",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1172.06,
+    "end": 1179.98
+  },
+  {
+    "text": "gaze upon this object and ask yourself, what is it, you'll find that you have a lot of language you can",
+    "uid": "ba4e7f5a6f973dee",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1180.7,
+    "end": 1186.54
+  },
+  {
+    "text": "throw at it, right? You can begin thinking about how this thing relates to other things. You have a name for it.",
+    "uid": "9b3bb02077cdd39c",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1186.54,
+    "end": 1192.7
+  },
+  {
+    "text": "You can keep reiterating that name in your mind. You can say hand and hand over and over again,",
+    "uid": "5f542cb5a96d8084",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1192.7,
+    "end": 1198.7
+  },
+  {
+    "text": "but that doesn't really reach in to the thing itself. There's a kind of suchness to any experience,",
+    "uid": "0f1ce4e5d07d123b",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1199.5,
+    "end": 1204.94
+  },
+  {
+    "text": "even the most ordinary experience that is intrinsically mysterious. There's this mystery of being that",
+    "uid": "f9c02efe392ce5e8",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1204.94,
+    "end": 1211.02
+  },
+  {
+    "text": "begins to shine through everything and that is itself the mystery of consciousness. The mystery that",
+    "uid": "321299badb0f11b6",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1211.02,
+    "end": 1216.06
+  },
+  {
+    "text": "anything is appearing at all. I would say the mystery of consciousness is presents us in every moment",
+    "uid": "e26f1c7589af94e9",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1216.06,
+    "end": 1225.18
+  },
+  {
+    "text": "with the subject of version of the fundamental mystery of the cosmos, which is, you know,",
+    "uid": "8234548c1fce848f",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1225.74,
+    "end": 1232.86
+  },
+  {
+    "text": "why is there something rather than nothing? Why is anything here? Why are there laws of nature?",
+    "uid": "e1e095394a18e6d8",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1232.86,
+    "end": 1239.1
+  },
+  {
+    "text": "It's not enough to say, okay, we have we begin to understand the laws of nature and they have produced",
+    "uid": "6a191433a59799c4",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1239.1,
+    "end": 1244.54
+  },
+  {
+    "text": "everything that we can be aware of. Well, but why is there anything, including the laws of nature?",
+    "uid": "b35765ddaa296ce9",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1245.74,
+    "end": 1250.62
+  },
+  {
+    "text": "That's a, I think, an irreducible mystery. I do think consciousness,",
+    "uid": "d4350665003b1285",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1251.42,
+    "end": 1256.7
+  },
+  {
+    "text": "you know, why is there anything that it's like to be what you are?",
+    "uid": "c6297f5f04b3626a",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1257.42,
+    "end": 1261.5
+  },
+  {
+    "text": "Presents say the subject of version of that mystery. It's just it is irreducibly mysterious that the",
+    "uid": "1aac967fc7238d79",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1262.22,
+    "end": 1266.62
+  },
+  {
+    "text": "lights are on. I don't think, you know, even if we understand consciousness conceptually,",
+    "uid": "4a26de9829636203",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1266.62,
+    "end": 1271.82
+  },
+  {
+    "text": "I don't think, you know, that this is the so-called hard problem of consciousness and philosophy",
+    "uid": "5b0ceb69b5b475e7",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1273.34,
+    "end": 1277.66
+  },
+  {
+    "text": "of mind. I think it will always seem like a miracle to us. I don't think, I don't think there's a way",
+    "uid": "4c2e03d69ff66899",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1277.66,
+    "end": 1284.46
+  },
+  {
+    "text": "of of describing unconscious complexity and the, and the, and the, and the, that some pattern there",
+    "uid": "158d24d984759dd5",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1284.46,
+    "end": 1292.78
+  },
+  {
+    "text": "produces consciousness that is going to, that's going to be self-explanatory. That's going to seem",
+    "uid": "2c776391005a5a50",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1292.78,
+    "end": 1297.1
+  },
+  {
+    "text": "like it, it should, it should have been intuitively obvious that, okay, well, that's, that is,",
+    "uid": "06f4e3dce3952356",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1298.06,
+    "end": 1305.26
+  },
+  {
+    "text": "that explains consciousness. Now I get it, right? I don't think we're going to have that experience.",
+    "uid": "88e143eea1086209",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1305.34,
+    "end": 1309.02
+  },
+  {
+    "text": "And it's important to point out that this, for that purpose, consciousness is unlike any other phenomenon",
+    "uid": "9e501ea251d7ee73",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1309.98,
+    "end": 1315.9
+  },
+  {
+    "text": "we've ever sought to explain scientifically. I mean, there are a lot of the, there are things that we thought we would never",
+    "uid": "21d66e0e571f638c",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1315.9,
+    "end": 1323.18
+  },
+  {
+    "text": "explain and we've explained them things like life, right? People thought, you know, the life just, you can't explain",
+    "uid": "2bc4223870027418",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1323.18,
+    "end": 1329.82
+  },
+  {
+    "text": "life, right? And then there was a point where we had this notion of an elan vitale, you know, a life essence,",
+    "uid": "f035dd7370ce8dbf",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1329.82,
+    "end": 1336.62
+  },
+  {
+    "text": "or life spirit, that would, it would differentiate, you know, an inanimate, an inanimate object from an",
+    "uid": "ed8d2c3c99c9f845",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1336.62,
+    "end": 1345.1
+  },
+  {
+    "text": "inanimate one or a, or a dead organism from a live one. But now we know that life it can be defined in terms of",
+    "uid": "03a4a6a2636ad4db",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1345.1,
+    "end": 1353.66
+  },
+  {
+    "text": "of how systems function, right? And whether they metabolize energy, whether they grow, whether they",
+    "uid": "ddd10f18bc3e5ebf",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1353.74,
+    "end": 1361.26
+  },
+  {
+    "text": "etc, whether they reproduce, right? We have all these, these extrinsic criteria that, that, that",
+    "uid": "0ba399e16f144785",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1361.26,
+    "end": 1366.3
+  },
+  {
+    "text": "demarcate living systems from dead ones. And there are certain cases where it's, it's kind of arbitrary,",
+    "uid": "b0bed079308680d2",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1366.3,
+    "end": 1372.38
+  },
+  {
+    "text": "and we're not even sure whether something's alive or not, like, in the case of a virus, you know, it's, I don't",
+    "uid": "c606d89106e65294",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1372.38,
+    "end": 1377.26
+  },
+  {
+    "text": "think we've decided whether we think viruses are alive or not, really, they're kind of at the boundary.",
+    "uid": "877da883c7a41e15",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1377.34,
+    "end": 1381.18
+  },
+  {
+    "text": "But consciousness is intrinsically what it is from its own side, right? Consciousness is, it's not defined,",
+    "uid": "0f4d14fc41a50916",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1383.34,
+    "end": 1390.54
+  },
+  {
+    "text": "and I would argue it cannot be defined from the outside. I mean there's no evidence of consciousness in",
+    "uid": "ceb80ea609fdd1bc",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1391.42,
+    "end": 1396.06
+  },
+  {
+    "text": "brains. There's no evidence of consciousness in the universe apart from the fact that we know it to",
+    "uid": "79f2e19b87344c09",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1396.06,
+    "end": 1402.38
+  },
+  {
+    "text": "exist from its own side in our direct experience. And so I would say that even if we're confused about",
+    "uid": "2b7149e3598731be",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1402.38,
+    "end": 1407.98
+  },
+  {
+    "text": "everything, consciousness is the one thing in this universe that can't be an illusion, right? Because even",
+    "uid": "1d55c1669a1d8bf2",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1407.98,
+    "end": 1414.86
+  },
+  {
+    "text": "if everything isn't illusory, even if we're, you know, if we're in the matrix, right, or if we're",
+    "uid": "2c68e6e85e2b9189",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1414.86,
+    "end": 1419.9
+  },
+  {
+    "text": "brains and vats, and we're just totally confused about what we, what we are, this seeming appearance",
+    "uid": "48b4c05560b1c19d",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1419.9,
+    "end": 1426.22
+  },
+  {
+    "text": "demonstrates the reality of consciousness as much as any vertical appearance good. So I mean we're",
+    "uid": "59cb972a2f1f45ef",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1426.86,
+    "end": 1431.5
+  },
+  {
+    "text": "consciousness is the ground truth of our, of our being, moment to moment. And again, I'm not",
+    "uid": "ebc26fe4d3814182",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1432.06,
+    "end": 1437.1
+  },
+  {
+    "text": "making metaphysics out of that, but I think it's just, it is the, from a point of view of our flourishing as,",
+    "uid": "785f6792ac84a8ab",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1437.1,
+    "end": 1445.66
+  },
+  {
+    "text": "as, you know, conscious creatures, I think, realizing this and experiencing it more deeply is the most",
+    "uid": "243428e7c50cbaaa",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1445.66,
+    "end": 1453.9
+  },
+  {
+    "text": "important thing we can learn to do. Sounds true. Brej here with Sam Harris, waking up the world.",
+    "uid": "8de738bcbdebff63",
+    "source": "Sounds_True - The_Science_of_Self-Discovery_from_Sam_Harris_Insights_at_the_Edge",
+    "start": 1453.9,
+    "end": 1460.38
+  }
+]
