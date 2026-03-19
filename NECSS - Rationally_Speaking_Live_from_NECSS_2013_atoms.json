@@ -1,0 +1,4503 @@
+[
+  {
+    "text": "Welcome to rationalist speaking, the podcast where we explored the board of the lands between reason and nonsense.",
+    "uid": "b5d668f873e40ef7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 4.85,
+    "end": 9.85
+  },
+  {
+    "text": "I'm your host, Massimo Pilucci, and with me as always is my co-host Julia Gelliff.",
+    "uid": "ba4dc3045784ffec",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 9.85,
+    "end": 14.85
+  },
+  {
+    "text": "Julia, I wonder what we can't talk about today.",
+    "uid": "ac5041746813af48",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 14.85,
+    "end": 17.85
+  },
+  {
+    "text": "Well, Massimo, we are here again live at the Northeast Convents and Science and Scepticism.",
+    "uid": "88314f7891a2418e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 17.85,
+    "end": 23.85
+  },
+  {
+    "text": "Give everyone a home around and plus.",
+    "uid": "371683667b3fde41",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 23.85,
+    "end": 25.85
+  },
+  {
+    "text": "See what you're missing?",
+    "uid": "374a07079cef3651",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 26.85,
+    "end": 28.85
+  },
+  {
+    "text": "And I'm very excited to welcome our special guest today.",
+    "uid": "4a4070272fee5a65",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 29.85,
+    "end": 34.85
+  },
+  {
+    "text": "Jim Holt is a science writer and author.",
+    "uid": "16f11ea9980484a4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 34.85,
+    "end": 38.85
+  },
+  {
+    "text": "He's published several books including a history of jokes.",
+    "uid": "31916bb4e63dfdc6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 38.85,
+    "end": 41.85
+  },
+  {
+    "text": "And in 2012, a book called Why Does The World Exist?",
+    "uid": "7b8446c3d63c2edc",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 41.85,
+    "end": 45.85
+  },
+  {
+    "text": "An existential detective story, which we're going to talk about today.",
+    "uid": "34235c2c07c43bbb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 45.85,
+    "end": 49.85
+  },
+  {
+    "text": "Jim has also published many articles for publications like The New Yorker, New York Times,",
+    "uid": "f2c61892843f3887",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 49.85,
+    "end": 54.85
+  },
+  {
+    "text": "Harper's, New York Review of Books, and so on and so forth.",
+    "uid": "5ca41c84b05b1cfc",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 54.85,
+    "end": 57.85
+  },
+  {
+    "text": "Jim, thanks for joining us.",
+    "uid": "95d38d4762af8d17",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 57.85,
+    "end": 59.85
+  },
+  {
+    "text": "Pleasure to be here.",
+    "uid": "6f4c9067f69feb33",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 59.85,
+    "end": 60.85
+  },
+  {
+    "text": "So, I've really enjoyed your book as I mentioned.",
+    "uid": "b2a99dcdeda2a6f4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 60.85,
+    "end": 63.85
+  },
+  {
+    "text": "It's essentially an investigation of why anything at all.",
+    "uid": "cfec5cef83a8c631",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 63.85,
+    "end": 68.85
+  },
+  {
+    "text": "I also really like your title.",
+    "uid": "d8e704872d58bc76",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 68.85,
+    "end": 70.85
+  },
+  {
+    "text": "Although I kind of wish you had titled it.",
+    "uid": "2c3b29c546a031f6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 70.85,
+    "end": 72.85
+  },
+  {
+    "text": "Just why is?",
+    "uid": "8c045c0e0084fe2b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 72.85,
+    "end": 73.85
+  },
+  {
+    "text": "It was a nice, concise.",
+    "uid": "8bfdea4be96accfa",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 73.85,
+    "end": 75.85
+  },
+  {
+    "text": "That's really the question.",
+    "uid": "ca04a762a70ffe7d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 75.85,
+    "end": 76.85
+  },
+  {
+    "text": "It's not so much about why is the universe the way that it is.",
+    "uid": "3c33ef812fc72f6f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 76.85,
+    "end": 80.85
+  },
+  {
+    "text": "It's partly about that.",
+    "uid": "117d82172fb35844",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 80.85,
+    "end": 81.85
+  },
+  {
+    "text": "It's not about how did the universe come into being, but really why is there a universe at all?",
+    "uid": "1617774a76c610ff",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 81.85,
+    "end": 86.85
+  },
+  {
+    "text": "Yeah, I was sort of motivated by a victimstein who was the, I think, the greatest philosopher of the 20th century.",
+    "uid": "1a491a735c0bf0c7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 86.85,
+    "end": 92.85
+  },
+  {
+    "text": "And a victimstein had a very strong mystical and religious impulse, although he was not publicly not a believer.",
+    "uid": "fb91c84e0b3311b6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 92.85,
+    "end": 101.85
+  },
+  {
+    "text": "And a victimstein, you know, once said in the lecture, the, the, the, the, the, the, the, the,",
+    "uid": "7f023d0f39706374",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 101.85,
+    "end": 107.85
+  },
+  {
+    "text": "It is not how the world is that is the mystical, not how things are in the world that is the mystical, but that there's a world at all.",
+    "uid": "7b2f4c1fd395f5ca",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 108.85,
+    "end": 114.85
+  },
+  {
+    "text": "And so he was always astonished at, at the miracle of existence that there should be a world rather than nothing at all.",
+    "uid": "574554d03e17723a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 114.85,
+    "end": 121.85
+  },
+  {
+    "text": "And this is something that, you know, has astonished and perplexed other philosophers of a heightiger, arguably the greatest continental philosopher of the 20th century.",
+    "uid": "e8201395143fbff2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 121.85,
+    "end": 131.85
+  },
+  {
+    "text": "Well, the greatest Nazi continental philosopher, maybe a short.",
+    "uid": "270a151d7ceec1a1",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 134.85,
+    "end": 136.85
+  },
+  {
+    "text": "The mass, was objecting to the continental height of the, yeah, I was sorry.",
+    "uid": "7ccdfdda006b0c50",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 137.85,
+    "end": 140.85
+  },
+  {
+    "text": "Oh, he's at a, go ahead.",
+    "uid": "acbdc17cfec40af3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 140.85,
+    "end": 141.85
+  },
+  {
+    "text": "No, I got ahead.",
+    "uid": "f92660f56cc22d7d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 141.85,
+    "end": 142.85
+  },
+  {
+    "text": "He's had political filistines here.",
+    "uid": "b5ffa00f2b59bea8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 142.85,
+    "end": 145.85
+  },
+  {
+    "text": "But, and for other people, the question, why is there a world rather than nothing at all is, you know, is just silly.",
+    "uid": "92836c4f01649ac0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 146.85,
+    "end": 153.85
+  },
+  {
+    "text": "It's, it's a, a child's naive question.",
+    "uid": "418d0660dd23c3bd",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 153.85,
+    "end": 156.85
+  },
+  {
+    "text": "I, one of the first great thinkers I spoke to in my quest to get a handle on this question was a very great philosopher of science.",
+    "uid": "2381e9d4bb72a645",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 156.85,
+    "end": 165.85
+  },
+  {
+    "text": "And a very, very militant, perhaps the most militant atheist I've ever encountered.",
+    "uid": "1babeda32e42c8b5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 165.85,
+    "end": 169.85
+  },
+  {
+    "text": "This name is Adolf Grunbaum, is the University of Pittsburgh, and he's just turning 90 years old.",
+    "uid": "0cd50474d6f9974f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 169.85,
+    "end": 174.85
+  },
+  {
+    "text": "And he claimed that anybody who was obsessed with the question of existence with a question wise or something rather than nothing was really enthralled to a, to Christian metaphysics.",
+    "uid": "dd83da9066c1db7c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 174.85,
+    "end": 186.85
+  },
+  {
+    "text": "The, the, even as an atheist, right?",
+    "uid": "65f7ff2ce3123044",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 186.85,
+    "end": 188.85
+  },
+  {
+    "text": "Yes, yeah, yeah, yeah, yeah.",
+    "uid": "0b58abf3a966000d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 188.85,
+    "end": 190.85
+  },
+  {
+    "text": "So it was only, you know, the, the question wise or world rather than nothing at all is, is a modern question.",
+    "uid": "09d5acb9836a700d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 190.85,
+    "end": 197.85
+  },
+  {
+    "text": "It wasn't really framed in that form until the, the 17th century when, uh, lydnets, the German philosopher who would in French in Latin, uh, post it.",
+    "uid": "d9b5d1eaf72ad666",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 197.85,
+    "end": 210.85
+  },
+  {
+    "text": "And, uh, why is there something, what I have to do?",
+    "uid": "e6afad2404837f22",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 210.85,
+    "end": 212.85
+  },
+  {
+    "text": "And if you look at the ancient Greeks, for example, among, you know, many other, uh, earlier civilizations,",
+    "uid": "917c52badca79ad4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 212.85,
+    "end": 218.85
+  },
+  {
+    "text": "they didn't have a concept of absolute nothingness.",
+    "uid": "2386dbdc70ff357a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 218.85,
+    "end": 221.85
+  },
+  {
+    "text": "They had a concept of sort of a pre-existing chaotic mess that was organized by demirages or by some, by some evolutionary process.",
+    "uid": "de99288c1d31be66",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 221.85,
+    "end": 233.85
+  },
+  {
+    "text": "And, and, and which gay rise to Cosmo.",
+    "uid": "eafdc56950f58410",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 233.85,
+    "end": 235.85
+  },
+  {
+    "text": "So it's chaos giving rise to Cosmo's, not a world coming out of nothingness.",
+    "uid": "3c201eda218741ae",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 235.85,
+    "end": 240.85
+  },
+  {
+    "text": "And so the, the idea that, uh, that, that, that, that the world could have come out of absolutely nothing is really a Christian idea.",
+    "uid": "5e441ed480ca5c73",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 240.85,
+    "end": 247.85
+  },
+  {
+    "text": "And in the early, early church fathers, uh, believed in, uh, that, the God that they envisaged was infinite in every respect, all powerful.",
+    "uid": "b0ccf553191cc353",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 247.85,
+    "end": 259.85
+  },
+  {
+    "text": "And he could create a world out of nothing at all. He didn't need any sort of pre-existing material.",
+    "uid": "f85a9f21bd111898",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 259.85,
+    "end": 264.85
+  },
+  {
+    "text": "Okay, so this is the Christian, you know, the, the Christian metaphysical equation.",
+    "uid": "07b688d67933635b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 264.85,
+    "end": 269.85
+  },
+  {
+    "text": "God plus nothing equals the world.",
+    "uid": "2ed0e05bfbaca22b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 269.85,
+    "end": 272.85
+  },
+  {
+    "text": "Okay, now suppose you take God, they were not very good in math.",
+    "uid": "c4bc2f7ffdf845b5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 272.85,
+    "end": 276.85
+  },
+  {
+    "text": "But anyway, go ahead.",
+    "uid": "a1c4b4d6c902c0b8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 277.85,
+    "end": 278.85
+  },
+  {
+    "text": "I'm not like equations that don't actually have doubles at all.",
+    "uid": "a3ba243366489560",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 279.85,
+    "end": 281.85
+  },
+  {
+    "text": "So now, now, suppose you, you don't go for the guide hypothesis, so you know, you're, you're an atheist.",
+    "uid": "edb5aa4f97939fcb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 282.85,
+    "end": 286.85
+  },
+  {
+    "text": "You, you say, you, you would say, well, we have this equation.",
+    "uid": "7d16ef03b82012dc",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 286.85,
+    "end": 289.85
+  },
+  {
+    "text": "God plus nothing equals the world.",
+    "uid": "8b08477212b65b8b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 289.85,
+    "end": 291.85
+  },
+  {
+    "text": "Now we take God out of the equation.",
+    "uid": "95fd6f7b9b6bfaf2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 291.85,
+    "end": 293.85
+  },
+  {
+    "text": "And we have blank plus nothing equals equals the world.",
+    "uid": "358d6ac117a46e69",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 293.85,
+    "end": 296.85
+  },
+  {
+    "text": "Now we've got to fill that blank with something else that could bring a world out of nothingness.",
+    "uid": "a55b718d59f6d1bf",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 296.85,
+    "end": 301.85
+  },
+  {
+    "text": "And so this is what, this is what many physicists have been trying to do recently.",
+    "uid": "85459dcaad6c6bc8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 301.85,
+    "end": 305.85
+  },
+  {
+    "text": "Notably Lawrence Krauss who is, I think, a very, a very good physicist and everything he writes is worth reading.",
+    "uid": "d84017e7f90e9b72",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 305.85,
+    "end": 312.85
+  },
+  {
+    "text": "Yeah, I think he's fundamentally wrong-headed.",
+    "uid": "c694ec052dee15eb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 312.85,
+    "end": 315.85
+  },
+  {
+    "text": "Some things more than another.",
+    "uid": "d2daa84b6b5e70c6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 315.85,
+    "end": 316.85
+  },
+  {
+    "text": "I'm just pretty clear matter.",
+    "uid": "fb6c6e58d25ab582",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 317.85,
+    "end": 318.85
+  },
+  {
+    "text": "But he thinks that you can replace God with the laws of physics and get a perfectly satisfying equation that explains why there's a world rather than nothing at all.",
+    "uid": "6298e0169866ec76",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 318.85,
+    "end": 327.85
+  },
+  {
+    "text": "And does so in purely scientific terms.",
+    "uid": "44146c91df13a04c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 327.85,
+    "end": 330.85
+  },
+  {
+    "text": "I've just been babbling for too long.",
+    "uid": "f6ea88acf3f0af8f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 330.85,
+    "end": 332.85
+  },
+  {
+    "text": "So let me ask you one thing.",
+    "uid": "781ebc8aee89c5f7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 332.85,
+    "end": 334.85
+  },
+  {
+    "text": "So actually, when I started reading your book for review in the philosophers magazine, the first thing that came to my mind was this quote from somebody who was neither a philosopher nor a scientist, but had a lot of interesting things to say about these kind of stuff.",
+    "uid": "d3edcb8c94d3be9f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 334.85,
+    "end": 346.85
+  },
+  {
+    "text": "So he said, in the beginning, the universe was created.",
+    "uid": "bdea206f89f35d40",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 347.85,
+    "end": 351.85
+  },
+  {
+    "text": "This has made a lot of people very angry and has been widely regarded as a bad move.",
+    "uid": "96416003130e494e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 351.85,
+    "end": 356.85
+  },
+  {
+    "text": "The point being that I think Adams was actually focusing on what happened after the universe, which is a problem also, of course, for Christians.",
+    "uid": "b1e98306fa7ca8ea",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 357.85,
+    "end": 364.85
+  },
+  {
+    "text": "I mean, this brings up the whole point of the whole problem of evolved, you know, why the universe is in fact the way it is.",
+    "uid": "75053c762e0074bb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 364.85,
+    "end": 371.85
+  },
+  {
+    "text": "The ancient Greeks did have an answer for that.",
+    "uid": "efb243fdd479cd0c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 371.85,
+    "end": 373.85
+  },
+  {
+    "text": "Plato's idea of the mirage, this, you know, sort of minor God who had certain things to work with and he did this best.",
+    "uid": "9749178f60b6c161",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 373.85,
+    "end": 380.85
+  },
+  {
+    "text": "So what explained the fact that the world is not particularly good is just that, you know, what that's what he had to work with.",
+    "uid": "ced992fe1a3a740e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 380.85,
+    "end": 385.85
+  },
+  {
+    "text": "So, but Adams started focusing basically on what happened after now.",
+    "uid": "df1e4a041073227c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 385.85,
+    "end": 390.85
+  },
+  {
+    "text": "On the other hand, the focus on your book, of course, is to answer or to explore the different range possibilities of the assumption that is something actually was created.",
+    "uid": "d79bba3e1fb2495a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 390.85,
+    "end": 400.85
+  },
+  {
+    "text": "Now, I agree with you that Grumbans answer this miscellaneous, the entire question is a little too easy.",
+    "uid": "5a07957d4242c70f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 400.85,
+    "end": 407.85
+  },
+  {
+    "text": "When I read that chapter, I said, I just wish you were that easy to get rid of it, but, but I don't know.",
+    "uid": "d151f7ea48d1e2f9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 407.85,
+    "end": 414.85
+  },
+  {
+    "text": "But I don't buy it. On the other hand, in the book, you also go sort of to the opposite extreme.",
+    "uid": "2e0ef9307d1cb93e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 414.85,
+    "end": 419.85
+  },
+  {
+    "text": "You talk about to reach as Wimbern, arguably one of the most well-known theologians currently active, can't you arrive.",
+    "uid": "6b16e4c6e3a43207",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 419.85,
+    "end": 430.85
+  },
+  {
+    "text": "And we're not just at the illusion, by the way, but a philosopher of science.",
+    "uid": "2246d98cf4aca611",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 430.85,
+    "end": 433.85
+  },
+  {
+    "text": "This is very well-versed, he understands general relativity theory, understands Bayesian reasoning, very versatile.",
+    "uid": "7637d720b6838467",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 434.85,
+    "end": 440.85
+  },
+  {
+    "text": "Right. Now, I by Swimbring answer just as much as I buy Grumbans, which is not at all, but would you like to sort of summarize what Swimbring says before we actually get into a conversation about it.",
+    "uid": "d64570b525c2dc24",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 440.85,
+    "end": 452.85
+  },
+  {
+    "text": "What was he's taken on it?",
+    "uid": "67e1c272c363232b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 452.85,
+    "end": 454.85
+  },
+  {
+    "text": "Richard Swimbring, who I agree with Masimo, is the most interesting philosopher of religion in the English-speaking world today.",
+    "uid": "dbcb92d96b455e15",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 455.85,
+    "end": 463.85
+  },
+  {
+    "text": "He's been a Oxford, his entire career. And he has built over the decades and refined an inductive case, an inductive scientific case for the existence of God.",
+    "uid": "8d99feac4f0474b8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 463.85,
+    "end": 478.85
+  },
+  {
+    "text": "You know, the old fashioned theologians would try to give you a deductive proof of God's existence.",
+    "uid": "9f7310400475a270",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 478.85,
+    "end": 483.85
+  },
+  {
+    "text": "They would say, God is defined as a being that exists, and whose existence is inconceivable, therefore God must exist.",
+    "uid": "775b6690d05d60d5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 483.85,
+    "end": 492.85
+  },
+  {
+    "text": "That's a garbled version of the ontological proof. This is the cosmological proof that God is by definition the first cause of all that exists in so forth.",
+    "uid": "4023669df095c43d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 492.85,
+    "end": 501.85
+  },
+  {
+    "text": "But Swimbring has developed a purely inductive scientific case for God.",
+    "uid": "ed2fedfca11cb97a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 501.85,
+    "end": 507.85
+  },
+  {
+    "text": "It begins with evidence, and the evidence that there is a world rather than nothing at all, that the world is orderly, it obeys causal laws.",
+    "uid": "f3829f701dedbf57",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 507.85,
+    "end": 520.85
+  },
+  {
+    "text": "It's much more likely the theory that the world should be a mess, but this world does obey causal laws.",
+    "uid": "87247fa1dd67c1b0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 520.85,
+    "end": 528.85
+  },
+  {
+    "text": "It seems to be fine-tuned for the existence of creatures like us. If you look at all of the so-called cosmological constants in the standard model of physics, if you vary any of them, I'm sure everyone's heard this argument.",
+    "uid": "db6a56114b7a2034",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 528.85,
+    "end": 543.85
+  },
+  {
+    "text": "Any of them by the slightest bit, the universe would be completely in a spittable to life, let alone conscious intelligence observers like ourselves.",
+    "uid": "27c0792f4809d22b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 543.85,
+    "end": 552.85
+  },
+  {
+    "text": "So, to explain all of this, Swimbring argues, the simplest hypothesis is God.",
+    "uid": "8976e13b6ebdfcd1",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 552.85,
+    "end": 559.85
+  },
+  {
+    "text": "The idea that God, I find, he puts this case with great nuance and great intelligence.",
+    "uid": "668e0be37cfeaf49",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 559.85,
+    "end": 568.85
+  },
+  {
+    "text": "The sticking point for me is his claim that the God hypothesis is a simple one.",
+    "uid": "0f6a0e74f115195b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 568.85,
+    "end": 574.85
+  },
+  {
+    "text": "It's based on the idea that how do you define God?",
+    "uid": "ffb6b0d6f77610f0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 574.85,
+    "end": 577.85
+  },
+  {
+    "text": "God is infinite in every respect, infinitely powerful, infinitely knowledgeable, eternal and so forth.",
+    "uid": "ade419f5756a1f76",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 577.85,
+    "end": 585.85
+  },
+  {
+    "text": "It's the simplest thing other than zero. Zero is the simplest thing because it's nothing, it's the only non-arbiturary number.",
+    "uid": "810e87293e4d4f56",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 585.85,
+    "end": 595.85
+  },
+  {
+    "text": "The number 17 by contrast is very arbitrary, but infinity is like zero. It's not arbitrary. If you define it being as being infinite in every respect, that's a very simple way of characterizing that being.",
+    "uid": "e867bd45045ce4fe",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 595.85,
+    "end": 608.85
+  },
+  {
+    "text": "So, this is Swimbring's argument which I think is a bad one for the simplicity of the God hypothesis.",
+    "uid": "83ebb3f8f437eedd",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 608.85,
+    "end": 613.85
+  },
+  {
+    "text": "I don't think it's a simple hypothesis. I don't buy that.",
+    "uid": "c403487f275697d5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 613.85,
+    "end": 616.85
+  },
+  {
+    "text": "But I thought, this is worth giving, it's worth allowing the God hypothesis to be given, it's best, and most sophisticated presentation before dismissing it entirely.",
+    "uid": "fd08108d935d977f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 616.85,
+    "end": 628.85
+  },
+  {
+    "text": "So, setting aside what nature we can conclude God to have if there were a God, but just looking at the inductive case that he makes for our universe having been intentionally created, that seems less obviously terrible to me than the God must be infinite",
+    "uid": "b74173d7f8557508",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 628.85,
+    "end": 645.85
+  },
+  {
+    "text": "because infinity is simpler than 17, for example.",
+    "uid": "1804faf334728c0b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 645.85,
+    "end": 649.85
+  },
+  {
+    "text": "And in fact last year at Nexus and our live podcast recording, we talked about the simulation hypothesis and the sort of deductive and inductive case for why our universe might be,",
+    "uid": "6c93825add398fd6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 649.85,
+    "end": 662.85
+  },
+  {
+    "text": "might have been created, simulated on a computer and another universe.",
+    "uid": "6df1130b2be973fa",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 662.85,
+    "end": 666.85
+  },
+  {
+    "text": "So, you call it the simulation hypothesis, right, in your book, although very briefly.",
+    "uid": "f9baa659b695d59f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 666.85,
+    "end": 672.85
+  },
+  {
+    "text": "And as Jura said, we covered before basically this is the idea that instead of a God, it was a computer programmer of some sort who just put these things together.",
+    "uid": "b4606d61ee6cedfa",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 672.85,
+    "end": 682.85
+  },
+  {
+    "text": "It's like, it's like a video game for somebody else. Now, I call that God for Geeks.",
+    "uid": "bb11ad3379be46f5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 682.85,
+    "end": 688.85
+  },
+  {
+    "text": "It seems like it does.",
+    "uid": "f8f5038b94cf15b6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 688.85,
+    "end": 690.85
+  },
+  {
+    "text": "It doesn't have to be a computer simulation. One of the, one of the physicists I spoke to, Andre Linda at Stanford, who, as many of you probably know, is the father of the theory of chaotic inflation, which is the, you know, the most sophisticated theory that we have it present for, to explain, essentially what was going on before the big bang and the way the background radiation left over from the big bang looks and that sort of thing.",
+    "uid": "5200138887044037",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 690.85,
+    "end": 717.85
+  },
+  {
+    "text": "So Andre Linda said, his theory is chaotic inflation and basically the idea is that the universe at a very early stage, you know, it tend to the minus 33 seconds underwent this very rapid expansion.",
+    "uid": "a791b17c948d8fdd",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 717.85,
+    "end": 732.85
+  },
+  {
+    "text": "And when the expansion stopped, that's when all the particles and energy came into existence that eventually evolved into the observable universe.",
+    "uid": "7ce607fe381d4c41",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 732.85,
+    "end": 739.85
+  },
+  {
+    "text": "And I pointed out that in the inflationary scenario, you can make a universe with about, you know, one 100 trillionth of a gram of matter.",
+    "uid": "066b015bd8f5d1f4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 739.85,
+    "end": 747.85
+  },
+  {
+    "text": "So the resources you need to make even a vast universe like the observable universe are very, very modest. And he said, it's quite possible that our universe was made by a physicist hacker in another universe in a lab.",
+    "uid": "327c4afe9f770251",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 747.85,
+    "end": 761.85
+  },
+  {
+    "text": "And he was putting this, you know, fourth of a second.",
+    "uid": "99389d510b0607a4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 761.85,
+    "end": 765.85
+  },
+  {
+    "text": "And then the big bang theory about that, I'm sorry.",
+    "uid": "5d5b5c5aea891c56",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 765.85,
+    "end": 767.85
+  },
+  {
+    "text": "Isn't there, and I'm sorry, the big bang theory, I need to show up.",
+    "uid": "c038196069262717",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 767.85,
+    "end": 770.85
+  },
+  {
+    "text": "I'm not seeing this, I'm not seeing it.",
+    "uid": "95ea0ac8c78a037b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 770.85,
+    "end": 771.85
+  },
+  {
+    "text": "No far better than either of us.",
+    "uid": "0899292055a47e59",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 771.85,
+    "end": 773.85
+  },
+  {
+    "text": "Or the matrix. And or hitchhikers guide to the galaxy.",
+    "uid": "caf2cd6bfc46d22f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 773.85,
+    "end": 777.85
+  },
+  {
+    "text": "So I'm all for stage now.",
+    "uid": "82669fe562a503c0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 777.85,
+    "end": 779.85
+  },
+  {
+    "text": "I mean, I've any of the pop cultural background for this. I don't even know why I'm here.",
+    "uid": "b41a03e9f227447c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 779.85,
+    "end": 783.85
+  },
+  {
+    "text": "But so if someone was creating a universe, could they actually set the constants, the physical constants of that universe?",
+    "uid": "443f8d9aa888d21c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 783.85,
+    "end": 789.85
+  },
+  {
+    "text": "Yeah, this was Andre Lind is a very amusing idea.",
+    "uid": "0a21248df5c56c36",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 789.85,
+    "end": 793.85
+  },
+  {
+    "text": "He said that, okay, you can create a universe if you're a hacker in a more advanced civilization.",
+    "uid": "fe9a20eb94e4a636",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 793.85,
+    "end": 799.85
+  },
+  {
+    "text": "But the very modest resources, but you couldn't really, you know, if you were going to create a universe, you would,",
+    "uid": "23fdc40e24bd82b4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 799.85,
+    "end": 805.85
+  },
+  {
+    "text": "especially a university evolved, intelligent beings, you would want to communicate with them in some way.",
+    "uid": "f2da551b53f89189",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 805.85,
+    "end": 811.85
+  },
+  {
+    "text": "You would want to let them know that you would create them.",
+    "uid": "91c5e272c1457329",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 811.85,
+    "end": 813.85
+  },
+  {
+    "text": "And so, you know, so the physicist hacker might want to write in the firmament,",
+    "uid": "ef31779ba845e0ce",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 813.85,
+    "end": 819.85
+  },
+  {
+    "text": "please remember that I created something like that.",
+    "uid": "0148042870084ed5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 819.85,
+    "end": 823.85
+  },
+  {
+    "text": "But the problem with inflation is that the thing blows up so quickly that we would be living in a very tiny corner of one letter of this message.",
+    "uid": "100434cd4b1e43f8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 823.85,
+    "end": 833.85
+  },
+  {
+    "text": "It wouldn't be able to read it.",
+    "uid": "eb97a6778f9ff6c1",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 833.85,
+    "end": 834.85
+  },
+  {
+    "text": "So there would be no way for the creator of this physicist hacker to communicate with this creation,",
+    "uid": "96b6abee91e2c332",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 834.85,
+    "end": 839.85
+  },
+  {
+    "text": "except by he could alter the constants in the physical laws.",
+    "uid": "45d433a8271c786d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 839.85,
+    "end": 844.85
+  },
+  {
+    "text": "And this would mean that there could be a message hidden in things like the gravitational constant, the fine coupling constant,",
+    "uid": "1aa7928884a86615",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 844.85,
+    "end": 851.85
+  },
+  {
+    "text": "the ratio of the mass of the electron, the proton, the sort of thing, and that only physicists would be able to read it.",
+    "uid": "f0f36156ce836877",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 851.85,
+    "end": 857.85
+  },
+  {
+    "text": "So he could read it.",
+    "uid": "d0275023cc416890",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 857.85,
+    "end": 858.85
+  },
+  {
+    "text": "But he also said that I thought was the most profound humorous observation debate.",
+    "uid": "26134fe3c54c52e0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 858.85,
+    "end": 863.85
+  },
+  {
+    "text": "Was that the hypothesis that our universe was created by a physicist hacker would explain why it's basically so crummy.",
+    "uid": "abdd13dadc520638",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 863.85,
+    "end": 870.85
+  },
+  {
+    "text": "I mean, if you look at that, it's not a likely constructed universe.",
+    "uid": "d626c0187ad6b9ae",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 870.85,
+    "end": 874.85
+  },
+  {
+    "text": "I mean, why are there 60 plus different kinds of elementary particles?",
+    "uid": "81c2258785a58a8a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 874.85,
+    "end": 878.85
+  },
+  {
+    "text": "Why are there all these asymmetries in the, why if you look at the best theory we have of the universe, the standard model of physics,",
+    "uid": "eaa33efb1fd8a5e8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 878.85,
+    "end": 888.85
+  },
+  {
+    "text": "it's an ugly theory.",
+    "uid": "840a34eccfe01ce0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 888.85,
+    "end": 889.85
+  },
+  {
+    "text": "It's a stick and bubble gum contract.",
+    "uid": "854053c45efd99d9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 889.85,
+    "end": 891.85
+  },
+  {
+    "text": "Actually, there's a argument that I was about to bring up earlier is different from the simulation hypothesis that we talked about last year.",
+    "uid": "7720f6c117e2971c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 892.85,
+    "end": 899.85
+  },
+  {
+    "text": "Instead of the argument that if our universe was not intentionally created to be able to support life, then we have this weird extremely unlikely coincidence to explain that it just so happened that the physical constants were,",
+    "uid": "d77ca1e28f1c8e38",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 899.85,
+    "end": 916.85
+  },
+  {
+    "text": "we're in this very, very narrow band that would allow life to be created.",
+    "uid": "65db5d214e617321",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 916.85,
+    "end": 921.85
+  },
+  {
+    "text": "And so we should think that it's just much more likely to see the universe that we see under the hypothesis that it was intentionally created than under the hypothesis that it was randomly created.",
+    "uid": "163d1bed6b98eb07",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 921.85,
+    "end": 931.85
+  },
+  {
+    "text": "But there are two problems with that argument that I think we should explore.",
+    "uid": "fb136725d0a100b8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 931.85,
+    "end": 935.85
+  },
+  {
+    "text": "One is, there's a lot of discussion here if you think about it in the line that the argument from fine tuning because that's what it comes down to.",
+    "uid": "9f6c244c05264983",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 935.85,
+    "end": 943.85
+  },
+  {
+    "text": "One of the assumptions there is that the distribution of possible values of those constants is in fact flat and essentially infinite that is that is equally probable that let's say the charge of the electron or the mass of the proton or whatever it is.",
+    "uid": "cb1007b7456dbe3c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 944.85,
+    "end": 958.85
+  },
+  {
+    "text": "To that particular value as opposed to any number of, you know, an infinite number of other values.",
+    "uid": "58029047d8ba9e27",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 958.85,
+    "end": 964.85
+  },
+  {
+    "text": "And then put it that way of course yes, then the chances of having that particular value are, you know, one of the infinity multiplied by the number of constants becomes incredibly incredible fact that all of this just happened by coincidence.",
+    "uid": "ed189f36a7de9d8e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 964.85,
+    "end": 976.85
+  },
+  {
+    "text": "But we really don't know anything at all about the distribution of these the values for these constants it could be for all we know that there is only one way in which the universe could have come out or maybe there is a distribution but it's a narrow distribution, maybe the parameters that, you know, the values that came out are actually the most probable.",
+    "uid": "a53c0d97ebee5700",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 976.85,
+    "end": 993.85
+  },
+  {
+    "text": "But at least they're not bad in problem we really have no clue about what that distribution is and so we're simply making the assumption that it's an infinite flat distribution if that falls and there is I don't think any empirical evidence for that particular assumption that that idea goes out the window.",
+    "uid": "20381bbabee5a34c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 993.85,
+    "end": 1009.85
+  },
+  {
+    "text": "Another typical criticism which I think you do get into in the book is of course that a version of the many many universes I thought this is the idea that, you know, that well this may be in fact one of an infinite number of universes and yes all sorts of parameter combinations appear in any in the entire multiverse but obviously we would find ourselves only in the ones that actually happen to bring about life.",
+    "uid": "b23fedcdb4ee8ccf",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1009.85,
+    "end": 1037.85
+  },
+  {
+    "text": "There's an infinite other number out there where nobody's asking the question, not Douglas Adams was never born and so on and so forth right so so those two it seemed to me struck me as very very good answers one is an answer from ignorance essentially what would you make a assumption zero about the distribution that you don't you cannot support and the other one is actually a reasonable answer.",
+    "uid": "94f511aa243b93f7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1037.85,
+    "end": 1056.85
+  },
+  {
+    "text": "Coming out of theoretical physics now true there's no empirical evidence of multiverse is fine.",
+    "uid": "28fb7209621e0aff",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1056.85,
+    "end": 1061.85
+  },
+  {
+    "text": "That is that is the case but but it physically it is in fact a very good possibility or there's there is actually a little bit of empirical evidence for the multiverse model because the the theory of chaotic inflation that explains conditions in this universe so accurately that explains all of the observations by the Kobe satellite of the of the texture of the background radiation left over for the big bang that theory implies that.",
+    "uid": "6e3b9a54ad0b6ae8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1061.85,
+    "end": 1085.85
+  },
+  {
+    "text": "There should be other universes I mean by the way to speak of a multiverse you might just say well.",
+    "uid": "f2bcc5d748a793da",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1085.85,
+    "end": 1091.85
+  },
+  {
+    "text": "Why do we call the multiverse the universe I mean it's universes all there is but.",
+    "uid": "d8d9428c0872d38e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1091.85,
+    "end": 1096.85
+  },
+  {
+    "text": "The reason it's appropriate to use to speak of many universes in this context is because if you think of you know our universe is sort of a you know it's a bubble universe in this ensemble of bubble universes and you can't get from one of the universes and the multiverse to another.",
+    "uid": "dffff84091c54566",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1096.85,
+    "end": 1114.85
+  },
+  {
+    "text": "Because the space between them is expanding faster than the speed of light so there's no possibility of getting from one to the other there's no possibility of causal contact between two of of one of them influencing the other or sending a signal or anything like that.",
+    "uid": "9b16dfddbf14e22b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1114.85,
+    "end": 1128.85
+  },
+  {
+    "text": "So in a sense there they are an observable but if they're implied by a theory that explains the observable world very nicely that's some reason to take.",
+    "uid": "6003f5d0e81c7052",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1128.85,
+    "end": 1136.85
+  },
+  {
+    "text": "It is interesting and I agree with you that the multiverse model I mean this is this has been this is hardly original with us the multiverse model really solves the fine tuning problem because the you know these constants of physics that we think of as universal they're just like local weather.",
+    "uid": "aa47b45ff60ea115",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1136.85,
+    "end": 1152.85
+  },
+  {
+    "text": "So we happen to be living in a corner of the universe the multiverse where the local weather is nice and so of course you know we can only live in this part of the multiverse so what else are we going to observe right so yeah that none of that I mean I.",
+    "uid": "b2a228d67d4a328a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1152.85,
+    "end": 1164.85
+  },
+  {
+    "text": "I mean I'm not I don't think that there any.",
+    "uid": "cbbc52af05443458",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1164.85,
+    "end": 1168.85
+  },
+  {
+    "text": "We perhaps who should get away from the notion that of.",
+    "uid": "8e62dda2be14c4bd",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1168.85,
+    "end": 1172.85
+  },
+  {
+    "text": "God is an explanation for the universe I mean I think we're still feeling.",
+    "uid": "3d9761ddc6b7a8a3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1172.85,
+    "end": 1177.85
+  },
+  {
+    "text": "Still the problem.",
+    "uid": "993be8f99ca403db",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1177.85,
+    "end": 1179.85
+  },
+  {
+    "text": "But I think one of them right why was.",
+    "uid": "b1d367a2f1d7b6e8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1179.85,
+    "end": 1181.85
+  },
+  {
+    "text": "Yeah even if our universe was created or part of the multiverse why was.",
+    "uid": "7331983312697b6f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1181.85,
+    "end": 1184.85
+  },
+  {
+    "text": "Why did a creator exist or why does the multiverse.",
+    "uid": "ccf199d278d96e47",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1184.85,
+    "end": 1187.85
+  },
+  {
+    "text": "The god of the god this is one we.",
+    "uid": "e32b2aa51c29afe7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1188.85,
+    "end": 1190.85
+  },
+  {
+    "text": "Many of us don't believe in God the other is that that even if God did exist.",
+    "uid": "29752ccd54974061",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1190.85,
+    "end": 1196.85
+  },
+  {
+    "text": "That too would require an explanation.",
+    "uid": "3961b731a9b94ec3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1196.85,
+    "end": 1198.85
+  },
+  {
+    "text": "The and even Richard Scyndberg the great theologian I said okay if God is the god hypothesis really is the simplest one.",
+    "uid": "f9901513110699d7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1198.85,
+    "end": 1206.85
+  },
+  {
+    "text": "By the cannons and scientific explanation what explains the existence of God.",
+    "uid": "d5c6d4c7f5cda783",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1206.85,
+    "end": 1212.85
+  },
+  {
+    "text": "And he said God is just a brute fact he didn't believe in the ontological argument the god exists as a matter of logical necessity.",
+    "uid": "fef3941b2343eee2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1212.85,
+    "end": 1220.85
+  },
+  {
+    "text": "There is no further explanation for God's existence and you just have to accept that as a brute fact so.",
+    "uid": "d98288ee6dc9ab18",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1220.85,
+    "end": 1226.85
+  },
+  {
+    "text": "You know all explanation always has to come to an end and for me the need is place for it to come to an end is with God.",
+    "uid": "00c47291d2da7c01",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1226.85,
+    "end": 1233.85
+  },
+  {
+    "text": "But you know this.",
+    "uid": "b2036eed09f56542",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1233.85,
+    "end": 1234.85
+  },
+  {
+    "text": "And you know I I it occurred to me that if God exists which I don't believe that that you know God must be puzzled by his own existence you know well you know I'm eternal I've always been here like I was powerful where where I would come to why not why not nothing.",
+    "uid": "afc5b01f0b424a1a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1234.85,
+    "end": 1248.85
+  },
+  {
+    "text": "And so maybe add a board him with contemplating the puzzle is an existence.",
+    "uid": "9272379ace049f3b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1248.85,
+    "end": 1252.85
+  },
+  {
+    "text": "I'm going to indulge your patience for a moment and and refer to Douglas Adams again there is a wonderful bit in the Chagas Gantel the galaxy where God is presented with some kind of reasoning similar to the one you put forth.",
+    "uid": "6ce84c607b779c8f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1252.85,
+    "end": 1266.85
+  },
+  {
+    "text": "And yeah the outcome of that is the he disappears in a puff of logic.",
+    "uid": "919cfd926ac9aa6b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1266.85,
+    "end": 1270.85
+  },
+  {
+    "text": "That's it Douglas Adams always got there before I always has the better to guy was amazing but before we go ahead to the sorry one more thing I really want to nail a couple more things about swim burn because I think.",
+    "uid": "376b72c6cb09c71c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1271.85,
+    "end": 1285.85
+  },
+  {
+    "text": "Sometimes a teological in client philosophy is going to get away with a little too much and in this particular case there's two things I mean other than the objections to you raised which I think are very reasonable.",
+    "uid": "5b69776a2d2b9a9d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1285.85,
+    "end": 1295.85
+  },
+  {
+    "text": "There are two additional things that are thing problematic anytime that I read something like swim burn or plant in for instance for is another example of a well known.",
+    "uid": "de04db0f167e87bd",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1295.85,
+    "end": 1303.85
+  },
+  {
+    "text": "Theologian who argues along similar lines and those are number one the issue of complexity and this one unfortunately complexity of God.",
+    "uid": "1a22acd0d662ac31",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1303.85,
+    "end": 1313.85
+  },
+  {
+    "text": "About this one unfortunately I think even eight days straight like Richard Dawkins are guilty of that is I am not sure I haven't seen any argument any developed argument that convinced me that the concept of complexity can be coherent or simplicity can be coherently applied to a God.",
+    "uid": "a8e8462721aa5a1c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1313.85,
+    "end": 1331.85
+  },
+  {
+    "text": "But at least the kind of God we're talking about so when Richard Dawkins says well God is not a good explanation because it's very complicated or when swimman says the opposite it's a very simple explanation.",
+    "uid": "83500668be5d72aa",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1331.85,
+    "end": 1340.85
+  },
+  {
+    "text": "I have no idea what they're talking about because how do you measure the complexity of God you know what kind of sort of metric I've never seen they both assume that well it's obviously it's obviously it's very simple it's obviously very complex to me that is not obviously at all.",
+    "uid": "49696439ed3d1c50",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1340.85,
+    "end": 1354.85
+  },
+  {
+    "text": "And to the point that I suspect there is not actually no way to catch out that that concept so that's the first thing.",
+    "uid": "d24a0a922d665525",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1354.85,
+    "end": 1361.85
+  },
+  {
+    "text": "The other thing is and this one really bothers me often when it comes to so-called supernatural explanations in general that these people seem to have a very bizarre idea of what counts as an explanation.",
+    "uid": "61d2b1d92ccc47c8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1361.85,
+    "end": 1375.85
+  },
+  {
+    "text": "Okay, so to me God did it it's not an explanation it's just a reformulating the mystery in a way that makes you that satisfies you better from a psychological perspective you have not given me any explanation at all.",
+    "uid": "54d2c5baf3297e62",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1375.85,
+    "end": 1388.85
+  },
+  {
+    "text": "Okay, you have not given me any any idea of mechanisms any ideas of motivations you're for talking about a conscious individual you know conscious being those will count as explanations.",
+    "uid": "f0c303c2878adb15",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1388.85,
+    "end": 1398.85
+  },
+  {
+    "text": "But but just a well and therefore God did it like now that sounds superficially like an explanation it just doesn't qualify no epistemologies would buy that as an explanation.",
+    "uid": "60d3eb1321d972b9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1398.85,
+    "end": 1408.85
+  },
+  {
+    "text": "Yeah, it's interesting that Swinburne not only.",
+    "uid": "a2c017024263a976",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1408.85,
+    "end": 1413.85
+  },
+  {
+    "text": "Develops his case for God being the simplest explanation of existence, but he he he develops it in great detail right down to the incarnation crucifixion and resurrection natural and.",
+    "uid": "9d476cb768b05069",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1413.85,
+    "end": 1425.85
+  },
+  {
+    "text": "Yeah, and actually I was sitting in a study in Oxford and and in a fully skeptical cast of mind and I have to say he was sitting in front of a crucifix and he had a very he reminded me a bit of a Byzantine divine he actually is a is a.",
+    "uid": "a813ee73a2051ffd",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1425.85,
+    "end": 1441.85
+  },
+  {
+    "text": "a congregant of the eastern orthodox church and there was a crucifix behind him and and as he unfolded this to the very luminous and very coherent and I think very false story.",
+    "uid": "a8cca3c8f012d08c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1441.85,
+    "end": 1455.85
+  },
+  {
+    "text": "I could see it kind of nimbus forming a rabum is though he were saved you know, so it's it's very seductive and I think and I also you know I I always also felt that this is a man of a general intellectual integrity.",
+    "uid": "a962b87cc8f0a135",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1455.85,
+    "end": 1467.85
+  },
+  {
+    "text": "And so I felt that not the slightest inclination to make fun of him in my book.",
+    "uid": "820d1cc9ef09d980",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1467.85,
+    "end": 1472.85
+  },
+  {
+    "text": "Yes, but I grew with you the notion of simplicity is a very dodgy one the idea that simple things are more probable than than more complex things is is a I don't know why we should think that to be true if if you know the early theories of chemistry which had you know one one or two elements you know are very simple but the.",
+    "uid": "84494225293961a8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1472.85,
+    "end": 1495.85
+  },
+  {
+    "text": "But the entire story or something like that we have a hundred and ten elements in counting and it's it's not simple at all.",
+    "uid": "406ad99ba1e31ac2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1495.85,
+    "end": 1503.85
+  },
+  {
+    "text": "I was actually glad in your book that you didn't treat the religious explanations you didn't give them that much space just because there are so many.",
+    "uid": "ccbff11669c35ca7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1503.85,
+    "end": 1512.85
+  },
+  {
+    "text": "I really difficult to evaluate hypotheses like much more difficult to evaluate than the god hypotheses that I actually am like genuinely unsure about unlike the god hypotheses.",
+    "uid": "817a40c39f834429",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1512.85,
+    "end": 1523.85
+  },
+  {
+    "text": "And the sort of most fundamental one for me was.",
+    "uid": "01f21b2fae3a1b1c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1523.85,
+    "end": 1528.85
+  },
+  {
+    "text": "When I look at the question of why does why is there anything at all I also like you have this intuition that there is a mystery there that needs explaining.",
+    "uid": "5189e053015ca9e0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1528.85,
+    "end": 1535.85
+  },
+  {
+    "text": "But then I have the second intuition that my first intuition might just be confused that maybe there actually doesn't there isn't something that needs to be explained and the reason that I have that second intuition.",
+    "uid": "54d687a796e27aa4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1535.85,
+    "end": 1546.85
+  },
+  {
+    "text": "that when I tried to imagine what kind of explanation could ever possibly feel like it settled things I can't picture anything at all.",
+    "uid": "c40cf611c9b013d7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1546.85,
+    "end": 1553.85
+  },
+  {
+    "text": "And I like we were saying earlier you know you an explanation explanations always sort of explain root facts in terms of other root facts that we already understand and so I'm always going to keep wanting to say well yeah but why is that a root fact and it just doesn't I can't imagine there ever being any end to that process which makes me wonder if maybe the right answer to this question isn't just.",
+    "uid": "ced9f22774084fdb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1553.85,
+    "end": 1574.85
+  },
+  {
+    "text": "But if you're a bit of deflationary like well why do I think that this needs an explanation as opposed to what is the explanation.",
+    "uid": "ce60614ed2667969",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1574.85,
+    "end": 1581.85
+  },
+  {
+    "text": "Yeah I think there is an end to it eventually you run out of logical options and you're stuck with a if you ascend the explanatory hierarchy to a certain point.",
+    "uid": "5ca80f99eadc2b35",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1581.85,
+    "end": 1593.85
+  },
+  {
+    "text": "You're you end up with a single explanation actually with two explanations that imply the same thing but that's to get ahead of ourselves.",
+    "uid": "4f8d56b78858586b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1593.85,
+    "end": 1600.85
+  },
+  {
+    "text": "The question that we're asking the question why is there a world rather than nothing at all the question that you know be which bit can shine and and and and and many of us and and may well be as some people believe that the root of the the source of the religious impulse.",
+    "uid": "28575f6f342e76c0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1600.85,
+    "end": 1618.85
+  },
+  {
+    "text": "The proper question to ask is why does reality take the most general form that it does.",
+    "uid": "94938d5ad4cbb7ab",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1618.85,
+    "end": 1624.85
+  },
+  {
+    "text": "I was one of the the great thinkers I talked to was Stephen Weinberg or I think is the you know one of the greatest living physicists he's regarded as the father of the standard.",
+    "uid": "8dbad28622226ddb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1624.85,
+    "end": 1633.85
+  },
+  {
+    "text": "Model of physics and he won the Nobel Prize for his work and unifying the the week force with the electromagnetic force in the 1960s at a very deep thinker very anti resident brilliant.",
+    "uid": "1b46930d87168fce",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1633.85,
+    "end": 1645.85
+  },
+  {
+    "text": "Essays against religion in the New Yorker view of books and actually came up with the wonderful epigram for.",
+    "uid": "58222c6dcd8bc2ad",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1645.85,
+    "end": 1653.85
+  },
+  {
+    "text": "How does it go if a for a wicked person wicked people do wicked things but for a good person to do wicked things that takes religion.",
+    "uid": "ffcf9931d520043f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1653.85,
+    "end": 1663.85
+  },
+  {
+    "text": "I think I sort of about anyway and I you know I said you know he I was discussing the attempt of Lawrence Krause and other physicists to give a purely.",
+    "uid": "f8e9dffcae138a0c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1663.85,
+    "end": 1671.85
+  },
+  {
+    "text": "Scientific explanation for the existence of the world rather than nothing at all and he like you know many of the other.",
+    "uid": "7ed0984b7f08ff44",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1671.85,
+    "end": 1678.85
+  },
+  {
+    "text": "Physicist I spoke to thinks that's no good that even when we have a final theory of physics you know the so called theory of everything that's always you know just over the horizon we can ever you know string theory is supposed to get us there but.",
+    "uid": "01de6a537d119482",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1678.85,
+    "end": 1691.85
+  },
+  {
+    "text": "You know that's you know been promising us the final theory for about the last three decades so I'm beginning to get a little pessimistic and so it's wineburg.",
+    "uid": "91229845955c226c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1691.85,
+    "end": 1699.85
+  },
+  {
+    "text": "But in case even when we have the final theory and it might explain the big bang what was going on before the big bang it might explain that you know we're living in this eternal.",
+    "uid": "37b1e87b262c65bb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1699.85,
+    "end": 1710.85
+  },
+  {
+    "text": "Cabotically inflating multiverse but it won't explain though there will still be the question why this set of laws rather than some completely different set of laws or no laws at all.",
+    "uid": "3d39f5c32822210a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1710.85,
+    "end": 1721.85
+  },
+  {
+    "text": "It will always leave a residual mystery and so even wineburg who is it is he's been famously and fiercely critical of philosophy in a lot of his public writings was eventually driven in a philosophical.",
+    "uid": "e84354d35a87d098",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1721.85,
+    "end": 1736.85
+  },
+  {
+    "text": "direction and was talking with me about principles like the principle of",
+    "uid": "8ae8f7017e0a0efa",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1736.85,
+    "end": 1740.93
+  },
+  {
+    "text": "planetitude which says that all imaginable possibilities actually exist somewhere.",
+    "uid": "006863169de5811a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1740.93,
+    "end": 1746.29
+  },
+  {
+    "text": "And so if you ask the question, why is there something rather than nothing? Well,",
+    "uid": "90eff2bd570f8b92",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1746.29,
+    "end": 1750.21
+  },
+  {
+    "text": "there's both. There's both something end up because there's a no world out there and",
+    "uid": "c3cbfdf2b0b8c331",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1750.21,
+    "end": 1754.13
+  },
+  {
+    "text": "there's this world and there's the best of all possible worlds, et cetera. It's all real.",
+    "uid": "70c7a94d5888a482",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1754.13,
+    "end": 1758.25
+  },
+  {
+    "text": "If that were true would that actually feel like a satisfying? All right, now we've",
+    "uid": "453339770ec386f4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1758.25,
+    "end": 1762.13
+  },
+  {
+    "text": "resulted, that's why there is something. Well, you would.",
+    "uid": "edd63e99045f2534",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1762.21,
+    "end": 1766.21
+  },
+  {
+    "text": "No, because then you would ask why is the principle of planetitude true? Yeah.",
+    "uid": "54b37fa77a72c5eb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1766.21,
+    "end": 1769.09
+  },
+  {
+    "text": "Yeah. Yeah. But it's a bad one.",
+    "uid": "657faa060a598b43",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1769.09,
+    "end": 1771.09
+  },
+  {
+    "text": "Fine, very good. So let's go back here to the physicist for a second. So it's interesting.",
+    "uid": "6508a002e5ba38de",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1771.09,
+    "end": 1775.81
+  },
+  {
+    "text": "I actually talked to Weinberg recently during a three day long workshop on naturalism that the video",
+    "uid": "e2345aafb75c2538",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1775.81,
+    "end": 1784.53
+  },
+  {
+    "text": "is available for people to have can actually stomach three days of philosophers and thesis",
+    "uid": "346e9f5e7e2da8c0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1784.53,
+    "end": 1789.01
+  },
+  {
+    "text": "talking to each other. But anyway, there was an interesting experience. And yes, I confirmed that",
+    "uid": "ed692dba6fa2dfce",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1789.33,
+    "end": 1794.53
+  },
+  {
+    "text": "that is pretty much the exatitude at this point, which was surprising because as you said, it did write",
+    "uid": "dec675f8705ccd9b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1794.53,
+    "end": 1799.41
+  },
+  {
+    "text": "things years ago very critical philosophy. I suspect that physicists when they actually become wise,",
+    "uid": "1a42c77d1553efb3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1799.41,
+    "end": 1805.49
+  },
+  {
+    "text": "they actually, they become more open to philosophy, which brings me to Krauss. You mentioned in twice already.",
+    "uid": "c85cf8fb26d7c40f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1805.49,
+    "end": 1810.93
+  },
+  {
+    "text": "Now, yes, you know, he is not mentioning your book. I suspect, partly because the Krauss book",
+    "uid": "f8caa92af62b0c38",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1810.93,
+    "end": 1817.01
+  },
+  {
+    "text": "actually came out later or it was in production pretty much when your book was out or something like that.",
+    "uid": "05de27224c5b02a0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1817.01,
+    "end": 1821.17
+  },
+  {
+    "text": "But as you probably know, there's been this huge controversy over the last seven months. It doesn't",
+    "uid": "5d427a7941c1a278",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1822.05,
+    "end": 1826.21
+  },
+  {
+    "text": "seem to go away actually. It just reappears recently between Krauss and David Albert at Columbia,",
+    "uid": "9e313fe63db9d023",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1826.21,
+    "end": 1831.97
+  },
+  {
+    "text": "who is a just a little bit of a background. Albert is a philosopher of physics. He's also actually",
+    "uid": "65fbf4bb808c9df4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1832.61,
+    "end": 1839.17
+  },
+  {
+    "text": "has a PhD in theoretical physics. And the book that Krauss wrote last year, the Camel last year, which was",
+    "uid": "1287a4c9ed8c3014",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1839.17,
+    "end": 1846.77
+  },
+  {
+    "text": "about how physics explained everything. The title is, the title of Krauss's book is a universe from nothing,",
+    "uid": "feb03e48f4db7839",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1846.85,
+    "end": 1852.61
+  },
+  {
+    "text": "and the subtitle is why there is something rather than not. Right. So it's a pretty definitive promise that he",
+    "uid": "05f9cf526b94b9d6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1852.61,
+    "end": 1857.01
+  },
+  {
+    "text": "makes in that book in the title at least. And it was very well reviewed up until Albert published,",
+    "uid": "0fccef1d879cb85e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1857.01,
+    "end": 1863.73
+  },
+  {
+    "text": "here's a review in the New York Times, which let's say it's not exactly complementary.",
+    "uid": "b11ec3102e126ddd",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1863.73,
+    "end": 1869.09
+  },
+  {
+    "text": "Now, how did he entertain, well worth looking up. And the last paragraph is one of the, the most poisonous",
+    "uid": "51aaa4ff348dc4e6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1869.65,
+    "end": 1876.37
+  },
+  {
+    "text": "concluding paragraphs in the history of book review. Very effective. Well, we'll post the",
+    "uid": "8f859e562a384dad",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1876.45,
+    "end": 1880.61
+  },
+  {
+    "text": "maybe actually for once my life, I felt pity for Lawrence Krauss. He's a hard man to feel pity for.",
+    "uid": "91dcb7b2361b0244",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1880.61,
+    "end": 1885.49
+  },
+  {
+    "text": "Now, this has led to an endless panel of discussions directly, indirectly between Albert and Krauss,",
+    "uid": "202507c2cc81bc55",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1886.37,
+    "end": 1892.77
+  },
+  {
+    "text": "but more broadly between Krauss and a bunch of other people, Krauss sort of lashed out a philosophy in",
+    "uid": "5c030aed098fe36d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1892.77,
+    "end": 1897.81
+  },
+  {
+    "text": "general as a result of that review. Daniel Bennett told them essentially to apologize in scientific American",
+    "uid": "862f81df1bd1ba05",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1897.81,
+    "end": 1904.69
+  },
+  {
+    "text": "and he apologized by insulting even more. So it was, if you just kept going that way. Now,",
+    "uid": "6898ac6285076093",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1905.65,
+    "end": 1911.33
+  },
+  {
+    "text": "all of this is, you know, this is a, all in good fun, but this was leading actually to a serious question,",
+    "uid": "3af78c96621e0513",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1911.97,
+    "end": 1916.53
+  },
+  {
+    "text": "which is, what do you think is from your perspective, having talked to a lot of philosophers and scientists?",
+    "uid": "b3d58ae8b23a527a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1916.53,
+    "end": 1922.85
+  },
+  {
+    "text": "What is, what is your view about the relationship between not only science and philosophy in general,",
+    "uid": "9a11bad5777841c4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1922.85,
+    "end": 1928.13
+  },
+  {
+    "text": "but sort of physics and metaphysics in particular, because that's what we're talking about here. We're talking",
+    "uid": "e1a0e7e58ef7fc5c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1928.13,
+    "end": 1931.65
+  },
+  {
+    "text": "about the interface between physics and metaphysics. So what, what is your thought about that?",
+    "uid": "0a55bec16986f596",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1931.65,
+    "end": 1935.49
+  },
+  {
+    "text": "And you have 30 seconds. Well, yeah, yeah, yeah, yeah. Okay. I mean, the first observation that occurs to me",
+    "uid": "65bf4117efc8a8ba",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1937.81,
+    "end": 1943.73
+  },
+  {
+    "text": "is that the metaphysical picture of the world that science gives us is not at all satisfying.",
+    "uid": "3ace515617100a2c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1943.73,
+    "end": 1950.85
+  },
+  {
+    "text": "Many of you are probably familiar with quantum theory, either with the mathematics of it, or you've",
+    "uid": "adbd68aab2bdaf11",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1951.73,
+    "end": 1957.73
+  },
+  {
+    "text": "read popularizations of it. And you know that it's been impossible for physicists or philosophers,",
+    "uid": "201b2cbdbbf652ee",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1957.81,
+    "end": 1966.61
+  },
+  {
+    "text": "or anyone who thought about the matter, to give a realistic interpretation of quantum theory,",
+    "uid": "a4df3f26f867be86",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1966.61,
+    "end": 1972.77
+  },
+  {
+    "text": "as Richard Feynman, remember we put it, how did he put it? If you think you understand quantum theory,",
+    "uid": "9758ff67b4da2502",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1973.49,
+    "end": 1979.97
+  },
+  {
+    "text": "you're crazy. I mean, it's a wonderful, you know, the attitude now in the physics world is shut up and calculate.",
+    "uid": "90b28444ed360e5c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1979.97,
+    "end": 1986.77
+  },
+  {
+    "text": "Don't worry about what it means, because it's impossible to make sense.",
+    "uid": "80add6f60c5732b5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1986.85,
+    "end": 1990.21
+  },
+  {
+    "text": "I've had seems to have paradox built into it. But it's this marvelous, marvelous, calculating device.",
+    "uid": "c693ef63fc953502",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1990.21,
+    "end": 1996.45
+  },
+  {
+    "text": "It's, you know, if you're a criterion of scientific successes in empirical adequacy, then quantum",
+    "uid": "629cfb7d19d9b197",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 1996.45,
+    "end": 2001.89
+  },
+  {
+    "text": "theory is as a success. It gives you empirical adequacy down to the 11th decimal point. But,",
+    "uid": "c59b5824dec3162d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2001.89,
+    "end": 2008.77
+  },
+  {
+    "text": "you know, what is the picture of the universe it gives us? Well, there are no, I mean, we seem to be sitting",
+    "uid": "9efad83063cb8927",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2009.57,
+    "end": 2014.29
+  },
+  {
+    "text": "on a stage and here's a table and microphones and you're out there at the audience and sitting in chairs",
+    "uid": "e739189e61c699ae",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2014.29,
+    "end": 2019.01
+  },
+  {
+    "text": "and so forth. All of this is sort of an illusion. Really, all we have is this system called U, which stands for the universe.",
+    "uid": "50aff578a1a50abe",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2019.01,
+    "end": 2026.45
+  },
+  {
+    "text": "And its state is described by a point in infinite dimensional, Hilbert space. And when I look on the table and I observe",
+    "uid": "3af905763a2bb36e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2026.45,
+    "end": 2035.41
+  },
+  {
+    "text": "a bottle of Poland's spring water, what I'm actually observing is that the state of the system U is actually",
+    "uid": "6cc3701feb3b09fe",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2035.41,
+    "end": 2043.01
+  },
+  {
+    "text": "in some space of Hilbert space. So all of the, the labor and spell to we all live in is basically just",
+    "uid": "9956052aa9204e26",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2043.01,
+    "end": 2051.73
+  },
+  {
+    "text": "is an illusion. It's not fundamentally real. And you know, so that's one thing. I mean, the physical world is way, you know,",
+    "uid": "fa4d9347829fe80d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2051.73,
+    "end": 2059.97
+  },
+  {
+    "text": "different than we imagined it. And nor is it possible to integrate very important parts of the labor and spell to us,",
+    "uid": "45d880c8fdd0f7b5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2059.97,
+    "end": 2067.33
+  },
+  {
+    "text": "our consciousness, value, the objective, the objective, badness of pleasure and the objective good,",
+    "uid": "33aa38067aeeb36e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2067.49,
+    "end": 2073.17
+  },
+  {
+    "text": "I'm sorry, so I'm like a, a set of, a, a badness of pain and the goodness or a desire ability of pleasure, et cetera.",
+    "uid": "e90f35a96950d78b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2074.21,
+    "end": 2081.17
+  },
+  {
+    "text": "So, the, the, the, the naturalistic worldview is, it's very good at helping us predict patterns of regularity at our",
+    "uid": "0f724283ec9624fd",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2082.05,
+    "end": 2093.73
+  },
+  {
+    "text": "experience. It's very bad so far at giving us any idea of how subjectivity, consciousness and value fit into that picture. And this is something by the way, the great NYU philosopher Thomas Naigol, who's just read the book, many of you know,",
+    "uid": "7f99f8b9a8d0a835",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2093.81,
+    "end": 2108.85
+  },
+  {
+    "text": "doubt heard of called mind and cosmos. And he complains that, you know, unfortunately mind and cosmos has been in the press has been depicted as an attack on the Darwinian worldview. And to some extent, it is,",
+    "uid": "7254eabc12b343a0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2108.85,
+    "end": 2121.49
+  },
+  {
+    "text": "but I, I think that's an unfortunate aspect of the book, right? The, the interesting claim that Naigol makes is that the naturalistic worldview does have a real difficulty,",
+    "uid": "0785b8c77b534616",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2121.49,
+    "end": 2131.17
+  },
+  {
+    "text": "integrating subjectivity and value. And so it's adequate for what it does, but it's not adequate, you know, to, you know, to our entire existence. Now that's awfully, an awfully vaporous answer.",
+    "uid": "61e07c484e1a869f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2132.61,
+    "end": 2146.93
+  },
+  {
+    "text": "Well, no, no, I think it is, well, I don't know about awfully vaporous. I understood it, but, um, no, yes, yes,",
+    "uid": "559b16bcbef5947f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2146.93,
+    "end": 2153.97
+  },
+  {
+    "text": "one. Yes, one of the things I actually, that, that is important that just can, particularly from your comment about Naigol, you know,",
+    "uid": "05fde1ae9454c98d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2153.97,
+    "end": 2161.73
+  },
+  {
+    "text": "Naigol's book is, as you say, in some sense, unfortunate. But, but it's unfortunate that he has been, um, he's going to be dismissed for the wrong reasons. And, and I think the point that Naigol does make",
+    "uid": "7ededb2ef5412d5c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2161.73,
+    "end": 2176.53
+  },
+  {
+    "text": "very well, as you just, uh, summarized, is that the reduction is particularly the physics,",
+    "uid": "d9a1b54683c6f7db",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2176.53,
+    "end": 2183.01
+  },
+  {
+    "text": "the physics, physics, based fundamentally, physics, fundamental physics, based view of the world that we have,",
+    "uid": "c09882ca3f62290b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2183.01,
+    "end": 2187.73
+  },
+  {
+    "text": "which by the way, it's only one particular way of, of caching out the idea of naturalism, naturalism,",
+    "uid": "85f8f6cfdca2dc89",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2188.45,
+    "end": 2193.57
+  },
+  {
+    "text": "it's a much broader philosophy that actually is compatible with a lot of other stuff out there.",
+    "uid": "b0b3b7de443b1d4e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2193.57,
+    "end": 2197.33
+  },
+  {
+    "text": "Uh, and maybe we can talk about some of that in a minute. But, that particular worldview, as successful,",
+    "uid": "4d0d026a52ba02f9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2197.33,
+    "end": 2203.17
+  },
+  {
+    "text": "Harry's, it has been in fundamental physics. Actually, it does have a lot of trouble dealing with a lot of other things.",
+    "uid": "e0747675ee932af2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2203.25,
+    "end": 2208.93
+  },
+  {
+    "text": "And not just the high level phenomena you're talking about, like consciousness, pretty will, morality, all that sort of stuff, aesthetics, for instance, all that's it.",
+    "uid": "c50da084ba66b939",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2208.93,
+    "end": 2215.57
+  },
+  {
+    "text": "But, in fact, I'm, at the naturalism workshop, um, with, uh, we've been back this weekend, out, that, uh, even non-fundamental physicists,",
+    "uid": "5b63f6ae2756fb92",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2215.57,
+    "end": 2224.85
+  },
+  {
+    "text": "over the last, some of them, at least, over the last several years, have been having an increasing trouble with these,",
+    "uid": "3281cfbbcd832458",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2225.73,
+    "end": 2231.17
+  },
+  {
+    "text": "these, um, idea that it all comes down to fundamental, to, to, to all comes down to quarks or strings and all that sort of stuff.",
+    "uid": "c2bc723d3e65cf9e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2231.17,
+    "end": 2237.57
+  },
+  {
+    "text": "If I, one of them, one of these people, um, I don't remember his name, but what we'll post the link to the, on the website for the podcast,",
+    "uid": "c18b758cf83f0d76",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2237.57,
+    "end": 2243.57
+  },
+  {
+    "text": "um, one of these is a solid state physicist. And he pointed out that actually over the last two or three decades,",
+    "uid": "6ebe085fd06f9a77",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2244.77,
+    "end": 2249.57
+  },
+  {
+    "text": "the more fundamental physicists, physicists, were successfully doing what they were doing,",
+    "uid": "13f143d4883c1603",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2249.57,
+    "end": 2253.33
+  },
+  {
+    "text": "that last relevant they were, to the rest of physics, let alone to biology, ecology, psychology, and so on and so forth.",
+    "uid": "641354f67dc53d23",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2253.33,
+    "end": 2260.29
+  },
+  {
+    "text": "And that is because what you, the way you describe, for instance, the table and the water and all that sort of stuff,",
+    "uid": "6ac18c1a7ceee0b6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2260.85,
+    "end": 2265.25
+  },
+  {
+    "text": "I think of that as a description of the world, which is very different from saying that,",
+    "uid": "d6c17027a235a6c7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2265.25,
+    "end": 2270.61
+  },
+  {
+    "text": "that is the way the world really is. It's one description of the world, and at one level of understanding of what the world,",
+    "uid": "00ae857b541b87f3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2270.61,
+    "end": 2277.01
+  },
+  {
+    "text": "how the world is put together, that is a perfectly good description, and it's much more informative than other kinds of descriptions.",
+    "uid": "66d2e4000cabea11",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2277.01,
+    "end": 2282.77
+  },
+  {
+    "text": "But at the level of having this conversation and, and if I want to understand, let's say, your motivations to, for coming in,",
+    "uid": "26a37df3146debd5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2282.77,
+    "end": 2288.77
+  },
+  {
+    "text": "uh, today at the Nexus Conference being on the podcast and science of fourth, that description tells me absolutely nothing useful about this.",
+    "uid": "df510ce5d1b6f551",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2288.77,
+    "end": 2297.01
+  },
+  {
+    "text": "And I'm an empiricist. I think that science has to do with useful stuff.",
+    "uid": "fe610bf8212e1636",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2297.01,
+    "end": 2301.33
+  },
+  {
+    "text": "If an entirely fundamental theory in science is incapable to tell me anything at all useful",
+    "uid": "9c6b20f966d44586",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2302.29,
+    "end": 2309.97
+  },
+  {
+    "text": "on the majority of the experts are what is interesting to science today, then I think there's a problem.",
+    "uid": "69fa6541cea2ed00",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2309.97,
+    "end": 2315.33
+  },
+  {
+    "text": "That doesn't mean that the theory is wrong, it just means that it's not complete. It's not the only way of looking at,",
+    "uid": "1cbfaa14594555bd",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2315.33,
+    "end": 2320.61
+  },
+  {
+    "text": "or the most informative way of looking at that. The problem. So are you talking about, say, the,",
+    "uid": "44ab324898264b00",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2320.61,
+    "end": 2324.93
+  },
+  {
+    "text": "the physicist, or looking for a unified theory of physics that gives that that places all four of the fundamental forces of nature in the same mathematical framework.",
+    "uid": "e784a5ec8ff07f6b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2325.89,
+    "end": 2334.93
+  },
+  {
+    "text": "This quest is completely irrelevant to, to say, the X-ray technology.",
+    "uid": "40012df21fc038c9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2334.93,
+    "end": 2340.37
+  },
+  {
+    "text": "Yeah, to any of the high level scientists. So that was that one of the points you're making.",
+    "uid": "cb079aa85553da0f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2340.37,
+    "end": 2344.61
+  },
+  {
+    "text": "That is one of the points, and one of the things that I noticed in your book again was not mentioned,",
+    "uid": "fc721dc8e3656ccb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2344.61,
+    "end": 2351.09
+  },
+  {
+    "text": "but I suspect that that is also because the book that I'm about to mention came out at the same time.",
+    "uid": "d5fb70bd60d59d1c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2351.09,
+    "end": 2355.89
+  },
+  {
+    "text": "And so that, apparently this topic is very, it's very hot because lots of people are publishing books and these kind of things.",
+    "uid": "1b6c9525699f02c3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2355.89,
+    "end": 2361.65
+  },
+  {
+    "text": "But it's the work by two philosophers of science, James Leiderman, and Don Ross.",
+    "uid": "8b41dc047fb070d6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2361.65,
+    "end": 2368.13
+  },
+  {
+    "text": "And they published a book called The Year and a Half a Gorsel called Everything Must Go.",
+    "uid": "8308f2b837d9ec6d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2368.85,
+    "end": 2373.81
+  },
+  {
+    "text": "And it's really a book about how metaphysics makes sense of the differences between fundamental physics and the so-called special sciences, biology,",
+    "uid": "94341f92fa203da3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2373.81,
+    "end": 2387.81
+  },
+  {
+    "text": "psychology, psychology, and so on and so forth. And without getting in the details, we're about the book, by the way, we did have James Leiderman on the Russian speaking podcast, so people can check it out.",
+    "uid": "6c3d5d2055a00044",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2387.81,
+    "end": 2397.81
+  },
+  {
+    "text": "But the basic idea there is in fact that the so-called fundamental theory of everything is actually a theory of the fundamentals,",
+    "uid": "b0971c5be5bfc49f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2397.81,
+    "end": 2405.81
+  },
+  {
+    "text": "but it is not a theory of a lot of stuff that is above the fundamentals, and when you go above the fundamentals, you actually need special theories.",
+    "uid": "3a73dc7e9e67d9a2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2405.81,
+    "end": 2412.81
+  },
+  {
+    "text": "You're never going to be reducing eliminating biology, psychology, and so on and so forth, and have all of a sudden a unified description in terms of quantum mechanics of everything,",
+    "uid": "8589fe13c2c6d3d1",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2412.81,
+    "end": 2422.81
+  },
+  {
+    "text": "because it's just not useful. Want to make an existing simply not useful. There's no way to develop that theory and make sense of psychological progress.",
+    "uid": "ff44438c50748124",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2422.81,
+    "end": 2432.81
+  },
+  {
+    "text": "I've been wanting to ask you about the fundamentals. You left us on a cliffhanger earlier when I was saying it seemed to me like there couldn't be an explanation that would be satisfying and actually reach the end of the chain of wise, and you said you thought that there could.",
+    "uid": "b177308206b4bf7f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2432.81,
+    "end": 2446.81
+  },
+  {
+    "text": "It's a good memory.",
+    "uid": "868ac912e4d605de",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2448.81,
+    "end": 2451.81
+  },
+  {
+    "text": "It was an Oxford philosopher named Derek Parfit, who was actually a profile to the New Yorker about two years ago by Larissa McFarker, a very fine writer,",
+    "uid": "1130ae1e9bd59490",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2453.81,
+    "end": 2464.81
+  },
+  {
+    "text": "very interesting profile. Actually, if any of you are curious about what's going on in the Anglophone,",
+    "uid": "9223ac452eeca587",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2464.81,
+    "end": 2469.81
+  },
+  {
+    "text": "an analytical philosophy, this profile is a very good introduction. The name of the subject is Derek Parfit. He's a PARFIT.",
+    "uid": "94f1454bb9f2d1ce",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2469.81,
+    "end": 2477.81
+  },
+  {
+    "text": "He's a long time fellow of all souls, and he was the one who got me to think about the mystery of existence in a completely different way.",
+    "uid": "d959e4f27acfda6e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2477.81,
+    "end": 2486.81
+  },
+  {
+    "text": "Instead of thinking how did something, how did a world come out of nothing? That's the wrong way of thinking about it. The right way he claimed,",
+    "uid": "e95c2a61e1e563ed",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2486.81,
+    "end": 2493.81
+  },
+  {
+    "text": "it was to imagine all the different ways reality might have turned out. So one way is nothingness, the no world. That's the simplest way.",
+    "uid": "c36939263502a43e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2493.81,
+    "end": 2501.81
+  },
+  {
+    "text": "Another way would be the way that the principle of punitive that we were just discussing would have it, that all possible realities actually exist.",
+    "uid": "978de2598c358e20",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2501.81,
+    "end": 2512.81
+  },
+  {
+    "text": "That would be the richest possible reality, the fullest, and the least arbitrarious, instead excluded nothing.",
+    "uid": "44b49c20e898d5d6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2512.81,
+    "end": 2518.81
+  },
+  {
+    "text": "And so in between the null state, the world of nothingness and the pletentudeness world, the fullest possible world, you have all kinds of intermediate possibilities.",
+    "uid": "880efcd2e3027430",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2518.81,
+    "end": 2527.81
+  },
+  {
+    "text": "One of them would be the best of all possible worlds, we're only good things existed.",
+    "uid": "df09c0833cb336fa",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2527.81,
+    "end": 2532.81
+  },
+  {
+    "text": "Another would be the most, the most, I suppose the most mathematically elegant world where the laws of physics were the most beautiful, that sort of thing.",
+    "uid": "29b841c424e51879",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2532.81,
+    "end": 2542.81
+  },
+  {
+    "text": "And then there'd be just a lot of crappy mediocre worlds. And which is basically, I think this universe is one of those crappy mediocre ones.",
+    "uid": "6fb20d922ea60a88",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2542.81,
+    "end": 2551.81
+  },
+  {
+    "text": "I call it a cosmic junk shot. It's an infinite incomplete mediocre mess with areas of orderliness and beauty and goodness and then areas of ugliness and evil.",
+    "uid": "a0dcb9f4aba8733a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2551.81,
+    "end": 2566.81
+  },
+  {
+    "text": "I mean it contains beautiful phenomena, it contains child cancer, et cetera.",
+    "uid": "62caf3bae3861b16",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2566.81,
+    "end": 2573.81
+  },
+  {
+    "text": "And if you follow the explanatory scheme that Derek Parfit has laid out and you explain, it's way too complicated to talk about it, this context, but basically, I'll give you a hint as to the solution.",
+    "uid": "33df3dfddc9e3f88",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2573.81,
+    "end": 2592.81
+  },
+  {
+    "text": "The principle of simplicity, which is the bedrock principle of science, you always go for the simplest explanation.",
+    "uid": "e477bcc75afc4248",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2592.81,
+    "end": 2598.81
+  },
+  {
+    "text": "And the principle of fullness, or plentitude, which goes back to Plato, sort of conspire in a very funny way to produce or to explain a world that is neither simple nor full, but infinite, messy, falling infinitely far from the completeness, but infinitely removed from nothingness.",
+    "uid": "fcf61d29837630e7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2598.81,
+    "end": 2621.81
+  },
+  {
+    "text": "The world that we inhabit, not just the physical world, but the subjective world is like that.",
+    "uid": "48f877c0de2ba82e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2621.81,
+    "end": 2628.81
+  },
+  {
+    "text": "I think the subjective world of pleasure and pain and good and evil, whether those are fundamentally subject to read on, I don't know.",
+    "uid": "15013009fe24b5d2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2628.81,
+    "end": 2639.81
+  },
+  {
+    "text": "But that's something that we need an explanation of, too.",
+    "uid": "3739e681efaad993",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2639.81,
+    "end": 2643.81
+  },
+  {
+    "text": "And I think the fact that the world is a weird mixture of goodness and suffering.",
+    "uid": "d4f391b3496f24b9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2643.81,
+    "end": 2649.81
+  },
+  {
+    "text": "And it's some different people have different attitudes toward it.",
+    "uid": "ffd56449273cd5b0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2649.81,
+    "end": 2652.81
+  },
+  {
+    "text": "I mean Woody Allen gave it an interview to a Jesuit priest about two years ago.",
+    "uid": "35e86319e68ab816",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2652.81,
+    "end": 2657.81
+  },
+  {
+    "text": "And he talked about his vision in the world, and it's really, you know, he said, it's a world of brutal, meaningless, and overwhelming, bleakness.",
+    "uid": "876f63179fb5aeb0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2657.81,
+    "end": 2665.81
+  },
+  {
+    "text": "And we all go to our graves in a horrible, meaningless way.",
+    "uid": "2aa324f212a43f5b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2665.81,
+    "end": 2669.81
+  },
+  {
+    "text": "That's a good idea, right?",
+    "uid": "faac0713117937fa",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2669.81,
+    "end": 2670.81
+  },
+  {
+    "text": "You know, they're little pools of charm and love.",
+    "uid": "78521ab6753b7342",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2670.81,
+    "end": 2675.81
+  },
+  {
+    "text": "But it's basically, it's just, you know, show up in our vision of the universe or the Buddhist vision.",
+    "uid": "e33d2087e1cab9a4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2675.81,
+    "end": 2681.81
+  },
+  {
+    "text": "I mean, it's better not to exist at all.",
+    "uid": "58b45bda1daf5a36",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2681.81,
+    "end": 2684.81
+  },
+  {
+    "text": "And we should try to distinguish all our desires and lapse into this wonderful state of Nirvana, which is being just,",
+    "uid": "5927282c1dc3dc13",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2684.81,
+    "end": 2691.81
+  },
+  {
+    "text": "having just enough life to enjoy being dead, something because it's weak and not being...",
+    "uid": "08551b2e06a7f507",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2691.81,
+    "end": 2695.81
+  },
+  {
+    "text": "So I'm sure it's a, anyway, so I'm just badly gone here.",
+    "uid": "47c3430f6bd0a93e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2695.81,
+    "end": 2698.81
+  },
+  {
+    "text": "But I do think that, you know, in my book extending the, the, the, the way of thinking about ultimate explanation along Derek,",
+    "uid": "5a2b9c9d33dbfa3e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2698.81,
+    "end": 2706.81
+  },
+  {
+    "text": "Parfit Slimes, you, you eventually run out of logical options as you try to explain the world and then explain why that explanation is right.",
+    "uid": "f523421fe68058c5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2706.81,
+    "end": 2715.81
+  },
+  {
+    "text": "And then explain why that, that meta explanation is right.",
+    "uid": "5707e6efae4b21b5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2715.81,
+    "end": 2718.81
+  },
+  {
+    "text": "Eventually you run out of options and you get something like a logical unique explanation at the highest level.",
+    "uid": "ddd7edf8ea678259",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2718.81,
+    "end": 2724.81
+  },
+  {
+    "text": "And it doesn't tell you a lot, but it does tell you something.",
+    "uid": "a563bb8afe14dc2e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2724.81,
+    "end": 2727.81
+  },
+  {
+    "text": "It tells you that, that reality is in, in most senses infinite.",
+    "uid": "811f3bed10a442d8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2727.81,
+    "end": 2731.81
+  },
+  {
+    "text": "Now that seems to be a very fuzzy claim.",
+    "uid": "ab7eff3c9ac36f06",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2731.81,
+    "end": 2733.81
+  },
+  {
+    "text": "But if you look, you know, could look back to the, you know, the year 1900.",
+    "uid": "bf86f1638614cf85",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2733.81,
+    "end": 2736.81
+  },
+  {
+    "text": "It was thought that reality was very far from infinity.",
+    "uid": "3f8ecdbf7478420b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2736.81,
+    "end": 2739.81
+  },
+  {
+    "text": "The, the, the physical reality was thought to consist just of the Milky Way, just of this one galaxy,",
+    "uid": "6aca27236b460c85",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2739.81,
+    "end": 2744.81
+  },
+  {
+    "text": "sitting in otherwise empty space with these little fuzzy areas they were called nebulae, which looked like clouds.",
+    "uid": "716fb4d46bb6bbb3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2744.81,
+    "end": 2750.81
+  },
+  {
+    "text": "But then, you know, low and behold with telescopes of greater resolution, it was discovered that these little fuzzy things were actually other galaxies or many of them were.",
+    "uid": "d20b8e064e1d96a3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2750.81,
+    "end": 2758.81
+  },
+  {
+    "text": "And so now we, you know, we know that there are about a hundred billion galaxies in the observable universe, and this is just one little part of a multi-verse and there might be many multi-verses, etc.",
+    "uid": "4f32f501fa2c159a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2758.81,
+    "end": 2767.81
+  },
+  {
+    "text": "So reality is really, you know, it is turning out to be infinite in almost every respect.",
+    "uid": "ae06476e6fa83cc9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2767.81,
+    "end": 2772.81
+  },
+  {
+    "text": "It's probably did not have it beginning.",
+    "uid": "e51afb9789485f77",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2772.81,
+    "end": 2774.81
+  },
+  {
+    "text": "It's, it's likely that it's eternal.",
+    "uid": "8a0c7e8a9e1d0d3c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2775.81,
+    "end": 2777.81
+  },
+  {
+    "text": "But clearly it falls short of everything, you know, of realizing every possibility or so we think so.",
+    "uid": "cce8e15f57acba77",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2777.81,
+    "end": 2783.81
+  },
+  {
+    "text": "Yeah, this, this, this, this, this very fuzzy sounding conclusion that reality is, it infinite in complete,",
+    "uid": "f73c0c6840eff647",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2783.81,
+    "end": 2790.81
+  },
+  {
+    "text": "ah, video, kermas does make actual empirical predictions.",
+    "uid": "44c1ef3e79d81131",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2790.81,
+    "end": 2795.81
+  },
+  {
+    "text": "So before we move on to the last part of the podcast, and Julie's going to take over a minute, I wanted to make a point about what you just said from, from, from,",
+    "uid": "b3d4ecf31a695669",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2795.81,
+    "end": 2803.81
+  },
+  {
+    "text": "from, from, from, perfect. So in, in, in some sense answering my own question earlier on, about the relationship between physics and metaphysics.",
+    "uid": "d7935d7d2dbdd2e0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2803.81,
+    "end": 2811.81
+  },
+  {
+    "text": "And that is if you think about it, you know, whether, whether you people are going to buy a perfect answer or not, I think it's,",
+    "uid": "b6fa3a8fb5c9a869",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2811.81,
+    "end": 2817.81
+  },
+  {
+    "text": "it's not pointed, I'm trying to make it doesn't hinges on that, doesn't hinge on that.",
+    "uid": "15a80b4e67d2c321",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2817.81,
+    "end": 2821.81
+  },
+  {
+    "text": "The point is that the perfect answer is entirely logical.",
+    "uid": "b55f514389248621",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2821.81,
+    "end": 2824.81
+  },
+  {
+    "text": "It's entirely based on, on, on logical analysis.",
+    "uid": "b235d3f72ac0b29f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2824.81,
+    "end": 2826.81
+  },
+  {
+    "text": "It's not informed by empirical evidence.",
+    "uid": "0b37c7be37ebeb1f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2826.81,
+    "end": 2829.81
+  },
+  {
+    "text": "So it's pure metaphysics essentially.",
+    "uid": "a5562cb4f4e7c67d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2829.81,
+    "end": 2831.81
+  },
+  {
+    "text": "And now, as you point it out a little while, even if you do buy an answer, what happens",
+    "uid": "2a76ac12140471b9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2831.81,
+    "end": 2838.81
+  },
+  {
+    "text": "is that it's a very genetic answer.",
+    "uid": "13d9422f4f0cc51d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2838.81,
+    "end": 2840.21
+  },
+  {
+    "text": "It's a very general answer about a very general question.",
+    "uid": "3d5e11cedeba032b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2840.21,
+    "end": 2842.77
+  },
+  {
+    "text": "Then it doesn't actually tell you any of the specific contents of the particular universe",
+    "uid": "2a5c37b858631d34",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2842.77,
+    "end": 2847.29
+  },
+  {
+    "text": "in which you live.",
+    "uid": "be8875ed678b3194",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2847.29,
+    "end": 2848.29
+  },
+  {
+    "text": "For that, you need physics.",
+    "uid": "a2fda6387ef107fc",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2848.29,
+    "end": 2850.29
+  },
+  {
+    "text": "You can't get there by just logical analysis.",
+    "uid": "dcce51d75892bfc0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2850.29,
+    "end": 2852.81
+  },
+  {
+    "text": "Because the logical analysis is about these very broad space possibilities.",
+    "uid": "d37ab270c0bf713f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2852.81,
+    "end": 2860.01
+  },
+  {
+    "text": "But of course, we live in a particular instantiation of that space possibilities.",
+    "uid": "06b0b8a13c4a5ae0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2860.01,
+    "end": 2865.61
+  },
+  {
+    "text": "The physical universe better be logically possible because if you were logical and possible",
+    "uid": "5eab0347ec994e94",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2865.61,
+    "end": 2870.09
+  },
+  {
+    "text": "then we would have a problem.",
+    "uid": "d4bfa912494a855d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2870.09,
+    "end": 2871.57
+  },
+  {
+    "text": "But just because it's logical and possible, it's certainly not the only logical possibility.",
+    "uid": "0cbcaf6a63b10587",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2871.57,
+    "end": 2875.01
+  },
+  {
+    "text": "It's one of many logical possibilities, almost infinite.",
+    "uid": "804adb95cb950611",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2875.01,
+    "end": 2878.61
+  },
+  {
+    "text": "And so to me, that actually is an interesting, you're going back and forth in different chapters",
+    "uid": "bd9831b252f4288b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2878.61,
+    "end": 2882.25
+  },
+  {
+    "text": "on your book where you talk from, on the one hand, sort of one extreme and the spectrum, if",
+    "uid": "6b1136775b91d729",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2882.25,
+    "end": 2887.61
+  },
+  {
+    "text": "you will, to people like perfect, approach the thing in Italian metaphysical grounds, in",
+    "uid": "ab9cbcf137cb4da3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2887.61,
+    "end": 2893.29
+  },
+  {
+    "text": "terms of logical possibilities.",
+    "uid": "8c0871c50aed134e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2893.29,
+    "end": 2895.17
+  },
+  {
+    "text": "And then to physicists who, on the other hand, as much as they may be interested in the metaphysics,",
+    "uid": "e4b56d28b9edc828",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2895.17,
+    "end": 2899.57
+  },
+  {
+    "text": "they actually like to either they shut up and calculate things or tell you how things actually",
+    "uid": "2eff9d72f6c33630",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2899.57,
+    "end": 2904.25
+  },
+  {
+    "text": "That to me is what emerges in the long run is, I think, the best view of the relationship between",
+    "uid": "8fdccd3829052872",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2905.25,
+    "end": 2910.29
+  },
+  {
+    "text": "physics and metaphysics.",
+    "uid": "a728c3b2a6c2fb87",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2910.29,
+    "end": 2911.53
+  },
+  {
+    "text": "It is the interplay between logical possibilities, on the one hand, in physical possibilities",
+    "uid": "c80773288c96e7b2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2911.53,
+    "end": 2915.77
+  },
+  {
+    "text": "and the other.",
+    "uid": "44bbeb6b6e4e16d8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2915.77,
+    "end": 2916.77
+  },
+  {
+    "text": "It allows the first time to be more interested in the logical possibilities, of course,",
+    "uid": "d92f7f4c597fd984",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2916.77,
+    "end": 2920.53
+  },
+  {
+    "text": "the scientists tend to be interested in the empirical possibilities.",
+    "uid": "bf355126f0e0a67d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2920.53,
+    "end": 2922.97
+  },
+  {
+    "text": "But we sort of need both if we want to get to the big picture.",
+    "uid": "c6e19671ccabf311",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2922.97,
+    "end": 2925.93
+  },
+  {
+    "text": "Yeah, I mean, clearly.",
+    "uid": "bdbfbcad6564839e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2925.93,
+    "end": 2926.93
+  },
+  {
+    "text": "I mean, I totally agree with you.",
+    "uid": "adce7a34a51b269c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2926.93,
+    "end": 2928.93
+  },
+  {
+    "text": "Sorry, we're going to start taking questions and just, I'm going to notice, as soon as you wrap up.",
+    "uid": "6bf5babbd19e9f3b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2928.93,
+    "end": 2932.41
+  },
+  {
+    "text": "So if people could form a line, is that how we're doing it?",
+    "uid": "b3c1fbc7d2409992",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2932.41,
+    "end": 2935.33
+  },
+  {
+    "text": "If people are interested in asking questions, there's going to be a couple of microphones and",
+    "uid": "2dfc01866270dada",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2936.33,
+    "end": 2939.45
+  },
+  {
+    "text": "line right down there.",
+    "uid": "4f554e4c99296d8d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2939.45,
+    "end": 2940.45
+  },
+  {
+    "text": "There are two lines, two lines.",
+    "uid": "789458e4adaa5579",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2940.45,
+    "end": 2942.45
+  },
+  {
+    "text": "Two lines are there.",
+    "uid": "2fd27077d8147641",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2942.45,
+    "end": 2943.45
+  },
+  {
+    "text": "So, start assembling.",
+    "uid": "509983b79e1913e4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2944.45,
+    "end": 2945.45
+  },
+  {
+    "text": "The, there are other possible ways of explaining, you know, once you have the final",
+    "uid": "dcf3f5fd92acad4a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2946.61,
+    "end": 2951.85
+  },
+  {
+    "text": "theory of physics, is there any explanation of why the law has taken that form?",
+    "uid": "6a210082db57da57",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2951.85,
+    "end": 2956.17
+  },
+  {
+    "text": "Well, you know, one hope was there might be a single logically only one largely consistent",
+    "uid": "1625a2bc89517b57",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2956.17,
+    "end": 2962.41
+  },
+  {
+    "text": "final theory, and that's ridiculous, because the theory of nothingness is largely consistent.",
+    "uid": "746a6ba0365f848b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2962.41,
+    "end": 2966.69
+  },
+  {
+    "text": "There are many Newtonian physics is largely consistent.",
+    "uid": "1c99b8c16f44ee26",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2966.69,
+    "end": 2969.97
+  },
+  {
+    "text": "There are many largely consistent theories.",
+    "uid": "e9a91b97b916a1c6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2969.97,
+    "end": 2971.77
+  },
+  {
+    "text": "But one possibility, and this was brought up by the great now dead physicists, John",
+    "uid": "d12d0d8a4012839a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2971.77,
+    "end": 2976.97
+  },
+  {
+    "text": "Archibald Wheeler, is that the laws of physics, the final theory will be the only logically",
+    "uid": "e556cf99ccfa4754",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2976.97,
+    "end": 2982.63
+  },
+  {
+    "text": "consistent theory that will permit the emergence of conscious observers, such as ourselves.",
+    "uid": "a2ffe009efb21f43",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2982.63,
+    "end": 2990.85
+  },
+  {
+    "text": "And so Wheeler called this notion the participatory universe, and so you would ask the question,",
+    "uid": "5dc46fd85082e064",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2990.85,
+    "end": 2994.89
+  },
+  {
+    "text": "why should conscious observers be an ontologically necessary ingredient in a cosmos?",
+    "uid": "5d3202381f910ea8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 2994.89,
+    "end": 3001.21
+  },
+  {
+    "text": "And the answer is, do I have just, turn seconds.",
+    "uid": "4ea1e0e60e25520d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3001.21,
+    "end": 3004.73
+  },
+  {
+    "text": "You know, basically in quantum theory, you have, the universe has lots of possible histories,",
+    "uid": "8a57939632e5c54c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3004.73,
+    "end": 3010.97
+  },
+  {
+    "text": "and they all, except coexist in what's called a superposition, and until an observation is made,",
+    "uid": "fe3b06a0b6dddcd4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3010.97,
+    "end": 3017.61
+  },
+  {
+    "text": "none of these histories is real.",
+    "uid": "c4c76b5517182110",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3017.61,
+    "end": 3019.45
+  },
+  {
+    "text": "And so if you look at all the histories of the universe from the beginning, some of them, some",
+    "uid": "8173c27119db062c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3019.45,
+    "end": 3023.09
+  },
+  {
+    "text": "of these histories, give rise to conscious observers, and others give rise to a zombie,",
+    "uid": "0f7800516234d3a0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3023.09,
+    "end": 3029.41
+  },
+  {
+    "text": "a sleeveless, observabilist universe.",
+    "uid": "4e8e4393ae90422e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3029.41,
+    "end": 3031.69
+  },
+  {
+    "text": "But in the histories that give rise to observers, the observers, at the end of the history,",
+    "uid": "3e29fcfaf16f5922",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3031.69,
+    "end": 3036.81
+  },
+  {
+    "text": "look back and make an observation, and collapse the wave function, and make that history real,",
+    "uid": "83d4f4ec1a40c906",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3036.81,
+    "end": 3043.33
+  },
+  {
+    "text": "as opposed to really possible.",
+    "uid": "1790405e04ce4a2e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3043.33,
+    "end": 3044.81
+  },
+  {
+    "text": "And so, it's a very interesting idea that the universe creates us, and we in a sense, create",
+    "uid": "9c49f99fc0531591",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3044.81,
+    "end": 3049.17
+  },
+  {
+    "text": "the universe by collapsing the wave function.",
+    "uid": "0a5a79711218cec3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3049.17,
+    "end": 3051.13
+  },
+  {
+    "text": "And this is a crazy sounding, lotus leaf-eating idea.",
+    "uid": "61646874c97bc7b0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3051.13,
+    "end": 3055.13
+  },
+  {
+    "text": "And it came from the teacher of Richard Feynman, the man who coined the term black hole",
+    "uid": "40479a2053f7b2da",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3055.13,
+    "end": 3061.65
+  },
+  {
+    "text": "and quantum foam.",
+    "uid": "3f37f95d3191a652",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3061.65,
+    "end": 3062.65
+  },
+  {
+    "text": "It's a very great physicist.",
+    "uid": "c37415ffa1a0a912",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3062.65,
+    "end": 3064.37
+  },
+  {
+    "text": "And this is the sort of crazy conjectures that contemplating rally will lead you to.",
+    "uid": "83ea6ee819acd822",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3064.37,
+    "end": 3069.53
+  },
+  {
+    "text": "I mean, Bertrand Russell, I think famously said that common sense is self-underlining, because",
+    "uid": "f4994810ea58ee7f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3069.53,
+    "end": 3073.77
+  },
+  {
+    "text": "common sense leads to science, and then science completely undermines common sense.",
+    "uid": "aa74a9cef9cc3ee7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3073.77,
+    "end": 3078.57
+  },
+  {
+    "text": "So I think this is a case of that.",
+    "uid": "9b8aef28d8085342",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3078.57,
+    "end": 3079.77
+  },
+  {
+    "text": "I mean, it's a sounds like something that an idea someone had an acid drip, the participatory",
+    "uid": "b15265e9053b9415",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3079.77,
+    "end": 3084.05
+  },
+  {
+    "text": "universe, that's an acid out.",
+    "uid": "c795310b9c38f2d9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3084.05,
+    "end": 3086.05
+  },
+  {
+    "text": "OK, we can get to the question and answers, and of course, let's try to have questions, instead",
+    "uid": "22d5709cd706936b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3086.05,
+    "end": 3091.29
+  },
+  {
+    "text": "of speeches, if possible.",
+    "uid": "7c64f5c6b2f6bdda",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3091.29,
+    "end": 3094.81
+  },
+  {
+    "text": "It shouldn't be a historical analog to Derek Parfit, Satisfy.",
+    "uid": "f4f6dd6edc8d6eb9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3094.81,
+    "end": 3100.05
+  },
+  {
+    "text": "That is the great philosophy of King Lears' fool in asking, why the seven stars are more than",
+    "uid": "dd2ff64da4831ae3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3100.05,
+    "end": 3108.17
+  },
+  {
+    "text": "seven and provide me the answer because they are not eight.",
+    "uid": "4dcddad1469a2450",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3108.17,
+    "end": 3116.67
+  },
+  {
+    "text": "Your book could have been so short.",
+    "uid": "966497bb957dcfb7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3116.67,
+    "end": 3118.15
+  },
+  {
+    "text": "Why are you wrote a whole book?",
+    "uid": "ac3d46ecd9cd4f5d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3118.15,
+    "end": 3120.19
+  },
+  {
+    "text": "I was convinced when you brought up Learer that the line you had to lose to was nothing comes",
+    "uid": "8f3e446a169ec66e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3120.19,
+    "end": 3126.07
+  },
+  {
+    "text": "But I actually remember the one about that.",
+    "uid": "2dc863b71e2b6940",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3127.91,
+    "end": 3131.79
+  },
+  {
+    "text": "That's, you know, Hagle thought he had a philosophical and operiori proof that there were exactly",
+    "uid": "6a164b2db5827702",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3131.79,
+    "end": 3137.87
+  },
+  {
+    "text": "This was just before Uranus was discovered, which made eight.",
+    "uid": "94aafc6ca7342e3e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3138.87,
+    "end": 3143.79
+  },
+  {
+    "text": "So much of that.",
+    "uid": "9f6734d49d934609",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3143.79,
+    "end": 3144.79
+  },
+  {
+    "text": "I don't understand what the word exists means in the context of the principle of plentifulness.",
+    "uid": "e737c7ea1f4222ee",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3149.14,
+    "end": 3154.38
+  },
+  {
+    "text": "I mean, how can you have a universe where nothing exists if you do have a universe where everything",
+    "uid": "4528a7b54c1b069e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3154.38,
+    "end": 3159.98
+  },
+  {
+    "text": "where all these other things exist, you're exactly right.",
+    "uid": "b0f622a098f56e2a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3159.98,
+    "end": 3162.82
+  },
+  {
+    "text": "You're absolutely right.",
+    "uid": "d75bbadbb321812e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3162.82,
+    "end": 3164.82
+  },
+  {
+    "text": "This was something, Nosec, Robert Nosec who wrote Anarchy stating, you topia, he was a philosopher",
+    "uid": "c11f8d9e20916f28",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3164.82,
+    "end": 3171.38
+  },
+  {
+    "text": "at Harvard who died about 10 years ago.",
+    "uid": "4a0cd31cfed0cbd7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3171.38,
+    "end": 3175.06
+  },
+  {
+    "text": "He was a champion of the principle of plentitude as a conceptual possibility.",
+    "uid": "4ac9b17a16b3385d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3175.06,
+    "end": 3181.18
+  },
+  {
+    "text": "He said, yeah, you would have something and nothing.",
+    "uid": "33e0976ac2733ebc",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3181.18,
+    "end": 3183.18
+  },
+  {
+    "text": "And then Richard, I'm sorry, Stephen Weinberg, the physicist agreed with this.",
+    "uid": "ee78629cbf750888",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3183.18,
+    "end": 3188.7
+  },
+  {
+    "text": "And I thought, this is crazy.",
+    "uid": "2555ca3b627857fe",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3188.7,
+    "end": 3189.7
+  },
+  {
+    "text": "If you have something, you don't have nothing.",
+    "uid": "b0995959a05658b1",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3189.7,
+    "end": 3191.94
+  },
+  {
+    "text": "They can't coexist.",
+    "uid": "770226f7b54b60ac",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3191.94,
+    "end": 3192.94
+  },
+  {
+    "text": "And the first thing I asked Derek Parfit when I went to all souls in the marvelous",
+    "uid": "d660d096f8b78a3b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3192.94,
+    "end": 3199.4
+  },
+  {
+    "text": "ethereal, cloistered atmosphere, I said, you do agree that nothing and something can't coexist,",
+    "uid": "c2898b1d0e6ed11f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3199.4,
+    "end": 3207.3
+  },
+  {
+    "text": "obviously, of course.",
+    "uid": "9c360f9e93df586b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3207.3,
+    "end": 3208.7
+  },
+  {
+    "text": "So this also shows you that great thinkers, when they begin to think about the deepest of all",
+    "uid": "c07bb4e22acb2be2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3208.7,
+    "end": 3215.14
+  },
+  {
+    "text": "questions, they just end up contradicting one another.",
+    "uid": "86979dc8bdb67a8e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3215.14,
+    "end": 3218.46
+  },
+  {
+    "text": "You know, one has an intuition that something and nothing can coexist and you and I and",
+    "uid": "4318fc8fee23ca3d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3218.46,
+    "end": 3223.06
+  },
+  {
+    "text": "Derek Parfit have the equally strong intuition that if there's something, there's not nothing.",
+    "uid": "eda72731f82e01af",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3223.06,
+    "end": 3229.86
+  },
+  {
+    "text": "So that's just why it's good.",
+    "uid": "ae4e278b1f9cb5ff",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3229.86,
+    "end": 3231.26
+  },
+  {
+    "text": "These questions are best pursued in college dorms at 2am with a ball.",
+    "uid": "700f6cfd47b8f6fa",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3231.26,
+    "end": 3235.34
+  },
+  {
+    "text": "Do we have other questions?",
+    "uid": "b54be047ccc73a3e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3236.34,
+    "end": 3241.02
+  },
+  {
+    "text": "Yes, right there.",
+    "uid": "74e012432f86dcd7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3241.02,
+    "end": 3245.4
+  },
+  {
+    "text": "Is there anything at all about the energy needed to maintain a universe?",
+    "uid": "9b873524f3d52443",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3245.4,
+    "end": 3251.6
+  },
+  {
+    "text": "Like if you have one universe, there's a certain amount of energy in it.",
+    "uid": "717a9baac9df2610",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3251.6,
+    "end": 3255.04
+  },
+  {
+    "text": "But if you've got all of the universe as an infinite number, there's an infinite amount of",
+    "uid": "a2b74189b95b8c73",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3255.04,
+    "end": 3259.42
+  },
+  {
+    "text": "Would there be any theoretical way to say, well, there can only be so much energy so you couldn't",
+    "uid": "cacbc34459719f6e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3260.42,
+    "end": 3266.24
+  },
+  {
+    "text": "have an infinite number of multiverse or something like that?",
+    "uid": "8054eb6e67251047",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3266.24,
+    "end": 3269.28
+  },
+  {
+    "text": "That's a new physicist named Ed Triann who had an idea, it had a physics-clope here.",
+    "uid": "d622a744b5a0f57d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3269.28,
+    "end": 3275.36
+  },
+  {
+    "text": "Columbia, the 1960s, he was thinking about how much energy there was in the universe and",
+    "uid": "02799b64df15aefc",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3275.36,
+    "end": 3279.52
+  },
+  {
+    "text": "it occurred to him that all of the radiation and the energy that's locked up in matter, you",
+    "uid": "91ab2966f30bf8d4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3279.52,
+    "end": 3284.92
+  },
+  {
+    "text": "know, by the equation equals MC squared, was exactly counterbalance by all of the negative",
+    "uid": "892388dbbf1d911d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3284.92,
+    "end": 3289.84
+  },
+  {
+    "text": "So the net energy of the universe is zero.",
+    "uid": "c21761af51c91953",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3291.92,
+    "end": 3295.28
+  },
+  {
+    "text": "It's like Donald Trump, you know, these big assets and big data.",
+    "uid": "b50a25705016315a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3295.28,
+    "end": 3299.72
+  },
+  {
+    "text": "You know, you're not worth it.",
+    "uid": "8c3721e6ee1a00ce",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3300.72,
+    "end": 3301.72
+  },
+  {
+    "text": "So then, you know, the universe might be a free lunch.",
+    "uid": "0e591e37ba902f93",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3303.0,
+    "end": 3306.96
+  },
+  {
+    "text": "I mean, there could be a little quantum fluctuation since the net energy of the universe is",
+    "uid": "c8bd8130b9e11ed5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3306.96,
+    "end": 3311.64
+  },
+  {
+    "text": "There's a trade-off between how long something can last and the exactness of its energy.",
+    "uid": "88ebdd2cfce7e463",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3313.64,
+    "end": 3318.44
+  },
+  {
+    "text": "It's another version of the Heisenberg, uncertainty principle.",
+    "uid": "27d3863908a887fa",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3318.44,
+    "end": 3320.92
+  },
+  {
+    "text": "So it's possible that a net energy universe could quantum fluctuate into existence and could",
+    "uid": "980b9c601c05b250",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3320.92,
+    "end": 3327.0
+  },
+  {
+    "text": "last for a very long time.",
+    "uid": "b5fcffd6969bd245",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3327.0,
+    "end": 3329.2
+  },
+  {
+    "text": "All in harmony with the laws of physics.",
+    "uid": "97659ff763f88072",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3329.2,
+    "end": 3333.44
+  },
+  {
+    "text": "So yeah, this is another crazy sounding idea that all of this world around us is zero net energy.",
+    "uid": "ba8c0f0cb51bc6c6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3333.44,
+    "end": 3340.12
+  },
+  {
+    "text": "And basically, energy is the fundamental thing that exists according to physics.",
+    "uid": "41a0e5ffc79251eb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3340.12,
+    "end": 3344.76
+  },
+  {
+    "text": "I mean, all of the physical world is just energy rearranging itself in various ways.",
+    "uid": "6071e4fc1b0c5ff9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3344.76,
+    "end": 3350.4
+  },
+  {
+    "text": "And it's Richard Feynman said in his lectures, we can't tell you what energy is.",
+    "uid": "9631de75d4870a21",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3350.4,
+    "end": 3354.28
+  },
+  {
+    "text": "We can just tell you about the events where it rearranges itself from one form into another.",
+    "uid": "1254f47d1b6bbf17",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3354.28,
+    "end": 3359.16
+  },
+  {
+    "text": "So once again, science can't give us any satisfying notion of what reality is at the deepest",
+    "uid": "bb53be5c2fe50727",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3359.16,
+    "end": 3365.0
+  },
+  {
+    "text": "So that's for philosophers to do.",
+    "uid": "1110f39cd282c10a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3366.0,
+    "end": 3367.44
+  },
+  {
+    "text": "You mentioned freelance.",
+    "uid": "e07d07749843e7cb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3367.44,
+    "end": 3369.0
+  },
+  {
+    "text": "And then, of course, that brought it to my mind, yet another quote from Douglas Adams who said",
+    "uid": "c865f760203efdc8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3369.0,
+    "end": 3373.76
+  },
+  {
+    "text": "that time is an illusion, lunchtime, double-issue.",
+    "uid": "a1578a20164c09c2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3373.76,
+    "end": 3378.56
+  },
+  {
+    "text": "So, say, some part of his books for other podcasts.",
+    "uid": "231667f5be103663",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3378.56,
+    "end": 3382.8
+  },
+  {
+    "text": "Should I send up on the second incident?",
+    "uid": "f017950c79ca2b4e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3384.36,
+    "end": 3387.76
+  },
+  {
+    "text": "I want to touch on a subject of famous non-feud between physicists and philosophers.",
+    "uid": "b16f253abd03aa36",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3387.76,
+    "end": 3395.64
+  },
+  {
+    "text": "And especially between physicists, there are such an opinion that the book of nature is written in the language of mathematics.",
+    "uid": "dc14a1fab77c06dc",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3395.64,
+    "end": 3404.32
+  },
+  {
+    "text": "And in contemporary physics, philosophers can do something about nature of reality,",
+    "uid": "77b338dab7e8fdb3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3404.32,
+    "end": 3411.44
+  },
+  {
+    "text": "because they know nothing about mathematics.",
+    "uid": "f1db4d181ec8f97d",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3411.52,
+    "end": 3414.28
+  },
+  {
+    "text": "And that's the essence of all the how, there is just a cool, brief stick.",
+    "uid": "b9d1e2b903172297",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3414.28,
+    "end": 3418.2
+  },
+  {
+    "text": "Whatever you're doing, I would say, I don't say this, because I'm in a term, I'm physicists.",
+    "uid": "f6821c027c7e6aa7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3418.2,
+    "end": 3422.88
+  },
+  {
+    "text": "Can you hope that Michael, what did you do about it?",
+    "uid": "4944943382d1dd48",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3422.88,
+    "end": 3424.88
+  },
+  {
+    "text": "Just for one, one minute.",
+    "uid": "0575c80e72ba4fcc",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3424.88,
+    "end": 3426.4
+  },
+  {
+    "text": "And whatever you're doing from the perspective, just a little ages, middle, just your other hands.",
+    "uid": "d32e06279462799a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3426.4,
+    "end": 3432.88
+  },
+  {
+    "text": "It's a little, I heard what you respond to this criticism.",
+    "uid": "200c174652b096a9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3432.88,
+    "end": 3437.04
+  },
+  {
+    "text": "Well, we heard about a third of it.",
+    "uid": "cd64b4ea76608c88",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3437.96,
+    "end": 3439.4
+  },
+  {
+    "text": "Yeah, I heard you began by, it was Galileo, I believe, who said that the book of nature is written in the world,",
+    "uid": "93ff8a2e5ca13503",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3439.4,
+    "end": 3445.36
+  },
+  {
+    "text": "in the language of mathematics.",
+    "uid": "6151cbe6041e4423",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3445.36,
+    "end": 3447.16
+  },
+  {
+    "text": "And then you said that philosophers can't give us a satisfying account of what mathematical entities are,",
+    "uid": "105318b56a13175a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3447.16,
+    "end": 3456.0
+  },
+  {
+    "text": "in what sense they exist.",
+    "uid": "2f80b1d3881a6939",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3456.0,
+    "end": 3457.2
+  },
+  {
+    "text": "I think I've heard that philosophers don't deal with mathematics, therefore they have nothing to say about it.",
+    "uid": "85e37280ad363a39",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3457.2,
+    "end": 3461.6
+  },
+  {
+    "text": "Which is a little unfair, there's an entire braintrafflasery called, philosophy, called mathematics.",
+    "uid": "bcb581d3b84de060",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3461.6,
+    "end": 3465.52
+  },
+  {
+    "text": "There's plenty of philosophers, no, why did it be a mathematics?",
+    "uid": "c47df49694549fa6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3465.52,
+    "end": 3468.64
+  },
+  {
+    "text": "But that does bring up one of the things that we didn't talk about in the main segment, which is the",
+    "uid": "b0ddca2c4a67a2cb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3468.64,
+    "end": 3473.84
+  },
+  {
+    "text": "solidity of mathematical playthonism and the foundation of reality as being just in the relations between things in mathematics and rather than",
+    "uid": "3db8a5afcc6ad4be",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3473.84,
+    "end": 3482.08
+  },
+  {
+    "text": "the it from bit things.",
+    "uid": "21c211b0b613afdd",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3482.08,
+    "end": 3484.08
+  },
+  {
+    "text": "So you want to talk about briefly about that?",
+    "uid": "36689109bd4a8073",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3485.08,
+    "end": 3487.08
+  },
+  {
+    "text": "Yeah, I mean, the idea that, as I was just saying, that science,",
+    "uid": "a231e30973742363",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3487.08,
+    "end": 3493.28
+  },
+  {
+    "text": "is essentially deals with structure and not stuff.",
+    "uid": "b008976be0e6fec7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3493.36,
+    "end": 3498.4
+  },
+  {
+    "text": "If you look at the world on the finest levels, it's sort of good solid things, sort of,",
+    "uid": "82b01beedbfd98ef",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3498.4,
+    "end": 3506.48
+  },
+  {
+    "text": "disappear and are replaced by mathematical fields that don't have any good old fashioned",
+    "uid": "2321a5d3912da01e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3506.48,
+    "end": 3513.04
+  },
+  {
+    "text": "And so you can only say what an electron is, we can't say anything about the intrinsic nature of",
+    "uid": "f898b469905d5e67",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3514.04,
+    "end": 3520.2
+  },
+  {
+    "text": "electron, we can just say that it has a charge, that means it has a propensity to affect other",
+    "uid": "3027e14e14ba181f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3520.2,
+    "end": 3525.04
+  },
+  {
+    "text": "electrons in certain ways and to be affected by other electrons in certain ways.",
+    "uid": "69516a8399adcb72",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3525.04,
+    "end": 3529.28
+  },
+  {
+    "text": "So basically, it's picture of reality that science gives us is that of a pure informational flux.",
+    "uid": "3a464ff9ec581077",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3529.28,
+    "end": 3538.0
+  },
+  {
+    "text": "And it's completely silent on the question, you know, in what kind of stuff is this informational",
+    "uid": "f81f25fd9b86c750",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3538.0,
+    "end": 3543.84
+  },
+  {
+    "text": "And so the radical thought has occurred to some thinkers that there is no stuff.",
+    "uid": "0081e06ed17c21b0",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3545.2,
+    "end": 3549.68
+  },
+  {
+    "text": "It's just, it's structure all the way down.",
+    "uid": "28ade647f616ee98",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3549.68,
+    "end": 3552.2
+  },
+  {
+    "text": "It's pure information, it's pure mathematics, because mathematics is the science of structure.",
+    "uid": "b103d6eafda83d80",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3552.2,
+    "end": 3557.16
+  },
+  {
+    "text": "Mathematicians, if two structures are, you know, if two structures are have the same, are isomorphic,",
+    "uid": "f22ed5a598ec4471",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3557.16,
+    "end": 3563.6
+  },
+  {
+    "text": "as mathematicians say, they don't care what color the structures are painted.",
+    "uid": "a9ba5a541d3e3966",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3563.6,
+    "end": 3567.44
+  },
+  {
+    "text": "So, then, you know, you have the notion that maybe if mathematical entities exist platonically, if they",
+    "uid": "8f6318e2306be010",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3568.44,
+    "end": 3579.32
+  },
+  {
+    "text": "exist eternally and they're actually good physicists who believe this, like Sir Roger Penrose,",
+    "uid": "143ffde8fe40ba5a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3579.32,
+    "end": 3583.8
+  },
+  {
+    "text": "one of the great living physicists, he's a mathematical platonicity believes that mathematics is more",
+    "uid": "87b34b37feea790b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3583.8,
+    "end": 3588.36
+  },
+  {
+    "text": "real than the physical world and that the mathematical entities are so rich, they sort of boil over to a physical",
+    "uid": "cfea104d633d5a3a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3588.36,
+    "end": 3597.24
+  },
+  {
+    "text": "I mean, it's almost mystical the way he puts it, but he really does believe us.",
+    "uid": "1c675a0e107702db",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3598.24,
+    "end": 3600.12
+  },
+  {
+    "text": "And then there are other people who believe that the world is like a computer simulation, but",
+    "uid": "7c2e69efc63e7d8f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3600.12,
+    "end": 3603.36
+  },
+  {
+    "text": "there's no actual hardware, it's all software.",
+    "uid": "9560348e22ba410a",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3603.36,
+    "end": 3606.16
+  },
+  {
+    "text": "You know, see, these are some of the radical ideas that, you know, they strike, I think all of",
+    "uid": "3d81e778f4a6ee84",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3606.16,
+    "end": 3613.16
+  },
+  {
+    "text": "us is being shainfully conjectural.",
+    "uid": "5edd7d46c71b0958",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3613.16,
+    "end": 3616.16
+  },
+  {
+    "text": "And yet, they are responses to a question that science has no real answer to.",
+    "uid": "2742e516ea090492",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3616.16,
+    "end": 3622.8
+  },
+  {
+    "text": "I'm a philosopher, I have no problem with shainful conjectures.",
+    "uid": "1c4cf9c1232b1cab",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3622.8,
+    "end": 3625.8
+  },
+  {
+    "text": "As long as they're interesting.",
+    "uid": "fbb19743936f6226",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3625.8,
+    "end": 3627.8
+  },
+  {
+    "text": "Now, but the interesting connection there is actually the one you implicitly made just a",
+    "uid": "88285486ab33c9f4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3627.8,
+    "end": 3632.16
+  },
+  {
+    "text": "second ago, which is structural realism, which is what these ideas, it's called, the",
+    "uid": "e607d29e3fe4e663",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3632.16,
+    "end": 3637.56
+  },
+  {
+    "text": "other, there's only structures.",
+    "uid": "4baca4f4227d287e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3637.56,
+    "end": 3639.28
+  },
+  {
+    "text": "Actually, has some interesting support from both science and philosophy of science.",
+    "uid": "f51331ce3c338470",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3639.28,
+    "end": 3644.96
+  },
+  {
+    "text": "And if structure realism is a reasonable view of how things go and therefore it turns out that",
+    "uid": "88fb780ec85e79dc",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3644.96,
+    "end": 3650.88
+  },
+  {
+    "text": "mathematical structures are the foundations of reality as we understand it or experience it,",
+    "uid": "363571943148adc3",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3650.88,
+    "end": 3656.88
+  },
+  {
+    "text": "then from there to say, oh, and the reason for that is because, in fact, this is a simulated",
+    "uid": "78d5aa2a1ba899ac",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3656.88,
+    "end": 3662.12
+  },
+  {
+    "text": "universe, it's not that, at that point, once you got that far, that last step isn't really,",
+    "uid": "8f4d199bc70527dc",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3662.2,
+    "end": 3669.64
+  },
+  {
+    "text": "that inconceivable, it's actually a fairly logical step.",
+    "uid": "2222e2b3e0c50576",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3669.64,
+    "end": 3672.08
+  },
+  {
+    "text": "Now, what I believe it or not, it's a different matter, but the idea is that the conjecture",
+    "uid": "d1c7c75b116e8e27",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3672.08,
+    "end": 3675.88
+  },
+  {
+    "text": "is actually interesting.",
+    "uid": "1b0069b627e6ed48",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3675.88,
+    "end": 3677.4
+  },
+  {
+    "text": "And it's difficult to find fault, logical fault, with the whole idea of the fact that the",
+    "uid": "7cb9759bfb6511c9",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3677.4,
+    "end": 3684.36
+  },
+  {
+    "text": "whole idea that the foundations of reality are more about structure than about things.",
+    "uid": "177fe346a2a5f1f5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3684.36,
+    "end": 3689.12
+  },
+  {
+    "text": "Yeah, and then there are other people who have the intuition that you can't have structure",
+    "uid": "28e0cec1e5ea286b",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3689.12,
+    "end": 3693.6
+  },
+  {
+    "text": "That structure, it's like the smile of the Cheshire cat, once the cat has disappeared.",
+    "uid": "c80ca90010bd0551",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3694.6,
+    "end": 3699.32
+  },
+  {
+    "text": "And so, basically, this point we're sort of scratching in it.",
+    "uid": "af930b097246fabe",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3699.32,
+    "end": 3703.36
+  },
+  {
+    "text": "I mean, we're not dealing with notions that can go up against the tribunal of experience, it can",
+    "uid": "7f93f35fbbd3fde6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3703.36,
+    "end": 3711.68
+  },
+  {
+    "text": "be empirically tested.",
+    "uid": "0921123234728a31",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3711.68,
+    "end": 3715.4
+  },
+  {
+    "text": "Are we actually dealing with a objective reality where we can get things right or wrong,",
+    "uid": "b0c477c0772a3e59",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3715.4,
+    "end": 3721.84
+  },
+  {
+    "text": "or are we just trying to scratch the edge of our curiosity and eliminate our sense of mystery?",
+    "uid": "f37a923ba2430bff",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3721.84,
+    "end": 3727.16
+  },
+  {
+    "text": "Well, I would say, I've gathered at the rhetorical question.",
+    "uid": "751ad43525b5beeb",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3727.16,
+    "end": 3729.8
+  },
+  {
+    "text": "Yeah, I'm not really sure.",
+    "uid": "09c0c7495314e527",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3729.8,
+    "end": 3731.76
+  },
+  {
+    "text": "I mean, maybe I'll talk a little bit more about that.",
+    "uid": "c77629b93cc142e8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3731.76,
+    "end": 3733.24
+  },
+  {
+    "text": "But I think that actually this goes back to what we were saying a few minutes ago, that",
+    "uid": "af4c88b1df159ece",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3733.24,
+    "end": 3736.64
+  },
+  {
+    "text": "is now, once you get to those kinds of contractors, you moved significantly away from empirical",
+    "uid": "197cb76ffe55292f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3736.64,
+    "end": 3742.64
+  },
+  {
+    "text": "evidence, because the empirical evidence is compatible with all these ideas.",
+    "uid": "fcf25363d341441e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3742.64,
+    "end": 3747.36
+  },
+  {
+    "text": "It just doesn't determine it.",
+    "uid": "9029f6255eb9d77e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3747.36,
+    "end": 3748.56
+  },
+  {
+    "text": "It doesn't tell you what, this one is right, that one is wrong.",
+    "uid": "d6d4a987541711c7",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3748.56,
+    "end": 3752.28
+  },
+  {
+    "text": "So we're moving from empirical to the real morphological possibilities.",
+    "uid": "e3bee2ca327cdc05",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3752.28,
+    "end": 3757.4
+  },
+  {
+    "text": "I think we're still in trusting grounds, whether those are grounds that actually tell us how reality",
+    "uid": "cc52423892bc0d11",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3757.4,
+    "end": 3763.04
+  },
+  {
+    "text": "actually is as opposed to how reality could be.",
+    "uid": "436f27464bcbb6f2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3763.04,
+    "end": 3765.76
+  },
+  {
+    "text": "But it's true that if you're just using the principle of Occamys Razer, Michael Faraday,",
+    "uid": "3ba8aa23aadc728f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3766.24,
+    "end": 3772.12
+  },
+  {
+    "text": "who really invented the notion of the field in the 19th century, he believed that there's no",
+    "uid": "6feae27ea3dfccb6",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3772.12,
+    "end": 3779.6
+  },
+  {
+    "text": "reason to think there's anything to physical reality other than fields.",
+    "uid": "9e9e3d6f01145cc4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3779.6,
+    "end": 3782.92
+  },
+  {
+    "text": "Fielder essentially distributions of mathematical quantities.",
+    "uid": "6cdd48e81a4975bc",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3782.92,
+    "end": 3786.76
+  },
+  {
+    "text": "They're highly abstract things.",
+    "uid": "1bb870dd51073b4f",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3786.76,
+    "end": 3789.0
+  },
+  {
+    "text": "They're not like the good old physical reality we're used to in the labansvalt.",
+    "uid": "b951f94b4843ef13",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3789.0,
+    "end": 3794.2
+  },
+  {
+    "text": "So why posit, anything, if fields are all that's necessary to explain the pattern of our",
+    "uid": "2e2de1acf8a86f54",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3794.2,
+    "end": 3801.72
+  },
+  {
+    "text": "experience, why posit any stuff in addition to that?",
+    "uid": "b59ddb1004f42a9e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3801.72,
+    "end": 3806.92
+  },
+  {
+    "text": "Because you have this intuition that you can't have structure without stuff to be structured.",
+    "uid": "2319e14ed0df7566",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3806.92,
+    "end": 3812.08
+  },
+  {
+    "text": "So once again, this is the sort of, Occamys Razer is a sort of methodological principle.",
+    "uid": "017c31e4e219d0f5",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3812.08,
+    "end": 3818.08
+  },
+  {
+    "text": "It can't be empirically tested, but we can say that in general, it's worked well in the history",
+    "uid": "f79c1d741c902a36",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3818.08,
+    "end": 3823.88
+  },
+  {
+    "text": "So it's valid in a sort of, you know, not in an empirical way, but it's a scientific value",
+    "uid": "9b4e5644e69beed1",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3824.88,
+    "end": 3830.4
+  },
+  {
+    "text": "Now in the realm of values again, which science is also a silent pocket.",
+    "uid": "d67f17738b369eb8",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3831.4,
+    "end": 3835.28
+  },
+  {
+    "text": "The next podcast, Occamys Razer, this podcast ended 10 minutes ago, unfortunately.",
+    "uid": "43af2eb1531f6411",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3835.28,
+    "end": 3840.28
+  },
+  {
+    "text": "Well, I mean, not literally, but it was not literally the word just now.",
+    "uid": "027112d4e37737a4",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3841.28,
+    "end": 3843.0
+  },
+  {
+    "text": "I mean, it was not literally the word just now.",
+    "uid": "5948037504e35ced",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3843.0,
+    "end": 3846.64
+  },
+  {
+    "text": "Why does the world exist?",
+    "uid": "ef67f9552bc1272c",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3846.64,
+    "end": 3848.0
+  },
+  {
+    "text": "An existential detective story, I highly recommend it.",
+    "uid": "277b54fed6fde687",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3848.0,
+    "end": 3851.0
+  },
+  {
+    "text": "It's gotten unusually good mix of sophistication and clarity, which is hard with the subject",
+    "uid": "7f055663f4eb5ef2",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3851.0,
+    "end": 3857.28
+  },
+  {
+    "text": "Jim, it's been such a pleasure having you on the show and as a guest at Nexus.",
+    "uid": "9e41b666981469ea",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3858.28,
+    "end": 3862.44
+  },
+  {
+    "text": "Thank you so much for joining me.",
+    "uid": "878a3d888888882e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3862.44,
+    "end": 3863.44
+  },
+  {
+    "text": "Thank you very much.",
+    "uid": "527c5edd2635925e",
+    "source": "NECSS - Rationally_Speaking_Live_from_NECSS_2013",
+    "start": 3863.44,
+    "end": 3864.44
+  }
+]
