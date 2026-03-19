@@ -35,41 +35,44 @@ jobs:
       - name: Fit attractors
         run: python aureon_attractor_learner.py fit vectorized aureon_attractors
 
-      - name: Write merge script
+      - name: Write corpus index script
         run: |
-          cat > merge_corpus.py << 'PYEOF'
+          cat > build_corpus_index.py << 'PYEOF'
           import json, pathlib
+
           vectorized_dir = pathlib.Path("vectorized")
-          all_atoms = []
           files = sorted(vectorized_dir.glob("*_vectorized.json"))
-          print(f"Merging {len(files)} files...")
+          print(f"Indexing {len(files)} files...")
+
+          index = []
+          total = 0
           for f in files:
               try:
                   atoms = json.loads(f.read_text(encoding="utf-8"))
-                  for a in atoms:
-                      if "vector" in a and "text" in a:
-                          all_atoms.append({
-                              "uid": a["uid"],
-                              "text": a["text"],
-                              "source": a.get("source", ""),
-                              "vector": a["vector"]
-                          })
+                  count = len([a for a in atoms if "vector" in a and "text" in a])
+                  total += count
+                  index.append({
+                      "filename": f.name,
+                      "atom_count": count,
+                      "source": atoms[0].get("source", "") if atoms else ""
+                  })
               except Exception as e:
                   print(f"  SKIP {f.name}: {e}")
-          out = pathlib.Path("aureon_corpus_full.json")
-          out.write_text(json.dumps(all_atoms), encoding="utf-8")
-          print(f"Done. {len(all_atoms):,} atoms -> aureon_corpus_full.json ({out.stat().st_size/1e6:.1f} MB)")
+
+          out = pathlib.Path("aureon_corpus_index.json")
+          out.write_text(json.dumps({"total_atoms": total, "files": index}, indent=2), encoding="utf-8")
+          print(f"Done. {total:,} atoms across {len(index)} files -> aureon_corpus_index.json ({out.stat().st_size/1e3:.1f} KB)")
           PYEOF
 
-      - name: Export merged corpus JSON for Base44
-        run: python merge_corpus.py
+      - name: Build corpus file index
+        run: python build_corpus_index.py
 
       - name: Commit all outputs
         run: |
           git config user.name "Nadine Squires"
           git config user.email "quantumquantara@gmail.com"
-          git add aureon_index/ aureon_attractors aureon_corpus_full.json
-          git diff --staged --quiet || git commit -m "[auto] Rebuild index + corpus $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git add aureon_index/ aureon_corpus_index.json
+          git diff --staged --quiet || git commit -m "[auto] Rebuild index + corpus index $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
