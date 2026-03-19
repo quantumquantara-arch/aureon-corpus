@@ -1,0 +1,46 @@
+name: Build Index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'vectorized/**'
+  workflow_dispatch:
+
+jobs:
+  build_index:
+    name: Build FAISS Index + Attractors
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install numpy faiss-cpu
+
+      - name: Build FAISS index
+        run: python aureon_faiss_builder.py build vectorized aureon_index
+
+      - name: Fit attractors
+        run: python aureon_attractor_learner.py fit vectorized aureon_attractors
+
+      - name: Commit index + attractors
+        run: |
+          git config user.name "Nadine Squires"
+          git config user.email "quantumquantara@gmail.com"
+          git add aureon_index/ aureon_attractors
+          git diff --staged --quiet || git commit -m "[auto] Rebuild index $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
