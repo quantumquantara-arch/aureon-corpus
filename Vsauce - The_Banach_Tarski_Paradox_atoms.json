@@ -1,0 +1,1696 @@
+[
+  {
+    "text": "Hey, Vsauce Michael here. There's a famous way to seemingly create chocolate out of nothing",
+    "uid": "1432ad935f49cfc0",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 0.0,
+    "end": 7.68
+  },
+  {
+    "text": "Maybe you've seen it before this chocolate bar is four squares by eight squares",
+    "uid": "ae581d3c2e0f25f8",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 8.0,
+    "end": 13.6
+  },
+  {
+    "text": "But if you cut it like this and then like this and finally like this",
+    "uid": "9f54ea92b539b67b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 13.88,
+    "end": 18.8
+  },
+  {
+    "text": "You can rearrange the pieces like so and wind up with the same",
+    "uid": "b78e9d037f58b829",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 18.92,
+    "end": 24.1
+  },
+  {
+    "text": "Four by eight bar but with a leftover piece apparently created out of thin air",
+    "uid": "4c824012dbf16285",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 24.1,
+    "end": 30.38
+  },
+  {
+    "text": "There's a popular animation of this illusion as well. I call it an illusion because it's just that",
+    "uid": "5cc06e35d1c21a85",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 30.7,
+    "end": 37.98
+  },
+  {
+    "text": "fake in reality the final bar is a bit smaller it",
+    "uid": "aaa33aa51c8715cc",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 38.74,
+    "end": 43.46
+  },
+  {
+    "text": "contains this much less chocolate each square along the cut is shorter than it was in the original",
+    "uid": "fb2937f3bc8054ed",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 43.46,
+    "end": 50.58
+  },
+  {
+    "text": "But the cut makes it difficult to notice right away the animation is extra misleading because it tries to cover up its deception",
+    "uid": "ac0c1bc7b4cd2027",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 50.58,
+    "end": 58.1
+  },
+  {
+    "text": "The lost height of each square is",
+    "uid": "a8b9264e5e22989c",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 58.26,
+    "end": 61.26
+  },
+  {
+    "text": "Serrat tishously added in while the piece moves to make it hard to notice",
+    "uid": "75b51f7e7b5e8277",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 61.74,
+    "end": 66.0
+  },
+  {
+    "text": "I mean, come on obviously you cannot cut up a chocolate bar and rearrange the pieces into more than you started with",
+    "uid": "be8dfc470b85383b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 66.48,
+    "end": 73.94
+  },
+  {
+    "text": "Or can you?",
+    "uid": "c29f68be11722364",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 74.46,
+    "end": 77.6
+  },
+  {
+    "text": "One of the strangest theorems in modern mathematics is the bonoctarski paradox",
+    "uid": "d1b3d800a4270661",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 77.76,
+    "end": 83.56
+  },
+  {
+    "text": "It proves that there is in fact a way to take an object and",
+    "uid": "74bf969de9bfedd2",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 83.96,
+    "end": 88.32
+  },
+  {
+    "text": "Separate it into five different pieces and then with those five pieces",
+    "uid": "71bb44e93be9bf74",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 89.96,
+    "end": 99.55
+  },
+  {
+    "text": "Simply rearrange them no stretching required into two",
+    "uid": "28575dc5b35bd22b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 100.15,
+    "end": 104.47
+  },
+  {
+    "text": "exact copies of the original item",
+    "uid": "f923e0b2818c6254",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 105.55,
+    "end": 109.03
+  },
+  {
+    "text": "Same density same size same everything",
+    "uid": "b061a81a857107a8",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 109.59,
+    "end": 113.87
+  },
+  {
+    "text": "Seriously to dive into the mind below that it is and the way it fundamentally questions math and our selves",
+    "uid": "9b4f5fcb9fc0377f",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 115.75,
+    "end": 123.39
+  },
+  {
+    "text": "We have to start by asking of you questions",
+    "uid": "10a0218676dc486c",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 123.59,
+    "end": 126.43
+  },
+  {
+    "text": "What is infinity a",
+    "uid": "6561aeb05bed1013",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 128.19,
+    "end": 130.69
+  },
+  {
+    "text": "number I mean, it's nowhere on the number line, but we often say things like there's an infinite number",
+    "uid": "3df31522c529e8d5",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 131.19,
+    "end": 138.75
+  },
+  {
+    "text": "blah blah blah and as far as we know infinity could be real the universe may be infinite in size and",
+    "uid": "06292af187386eb8",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 139.59,
+    "end": 147.47
+  },
+  {
+    "text": "Flat extending out forever and ever without end beyond even the part we can't observe or ever",
+    "uid": "777153b543100d73",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 147.79,
+    "end": 154.99
+  },
+  {
+    "text": "Hope to observe",
+    "uid": "a65da88769d1e188",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 155.71,
+    "end": 157.71
+  },
+  {
+    "text": "That's exactly what infinity is not a number per se, but rather a size the size of something that doesn't end",
+    "uid": "54a513b1e95c9986",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 157.71,
+    "end": 167.55
+  },
+  {
+    "text": "Infinity is not the biggest number instead. It is how many numbers there are",
+    "uid": "f39c437ccda8e290",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 168.39,
+    "end": 173.95
+  },
+  {
+    "text": "But there are different sizes of infinity the smallest type of infinity is countable infinity the number of hours in forever",
+    "uid": "66a4d61e8cd82e9f",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 174.67,
+    "end": 184.55
+  },
+  {
+    "text": "It's also the number of whole numbers that there are natural numbers the numbers we use when counting things like",
+    "uid": "a1390975859a9c87",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 184.83,
+    "end": 191.35
+  },
+  {
+    "text": "One two three four five six and so on sets like these are",
+    "uid": "1f6fbd88827d289d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 191.35,
+    "end": 196.67
+  },
+  {
+    "text": "Unending but they are countable countable means that you can count them from one element to any other in a finite amount of time",
+    "uid": "3dd836c72aef8567",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 197.23,
+    "end": 207.43
+  },
+  {
+    "text": "Even if that finite amount of time is longer than you will live or the universe will exist for it's still finite",
+    "uid": "74e5415ab493644b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 207.99,
+    "end": 215.39
+  },
+  {
+    "text": "Uncountable infinity on the other hand is literally",
+    "uid": "7c6c07e461ab4cc0",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 216.39,
+    "end": 219.75
+  },
+  {
+    "text": "bigger two big to even count the number of real numbers that there are not just whole numbers",
+    "uid": "80f98592c50c17ad",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 220.19,
+    "end": 227.35
+  },
+  {
+    "text": "But all numbers is",
+    "uid": "ca25f23303cc435b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 227.43,
+    "end": 229.55
+  },
+  {
+    "text": "Uncountably infinite you literally cannot count even from zero to one in a finite amount of time by naming every real number in between",
+    "uid": "67df7c42692385d7",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 230.27,
+    "end": 239.51
+  },
+  {
+    "text": "I mean where do you even start?",
+    "uid": "cdbbda8dd063f8fe",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 240.03,
+    "end": 242.35
+  },
+  {
+    "text": "zero okay, but what comes next?",
+    "uid": "9f17b8e84959dd2f",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 243.19,
+    "end": 246.51
+  },
+  {
+    "text": "Zero point zero zero zero zero zero zero",
+    "uid": "c227102dc2dfe358",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 247.07,
+    "end": 250.51
+  },
+  {
+    "text": "Eventually we would imagine a one going somewhere at the end, but there is no end",
+    "uid": "0703d6e785fe3757",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 251.67,
+    "end": 257.39
+  },
+  {
+    "text": "We could always add another zero",
+    "uid": "0fc9ad159ceb3713",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 257.39,
+    "end": 259.39
+  },
+  {
+    "text": "Uncountability makes this set so much larger than the set of all whole numbers that even between",
+    "uid": "3b28392595071c0b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 260.31,
+    "end": 267.23
+  },
+  {
+    "text": "Zero and one there are more numbers than there are whole numbers on the entire",
+    "uid": "d33abb777ee1922e",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 267.51,
+    "end": 272.23
+  },
+  {
+    "text": "Endless number line",
+    "uid": "d754b51dbfffe133",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 272.23,
+    "end": 274.23
+  },
+  {
+    "text": "Deterocantor's famous diagonal argument helps illustrate this",
+    "uid": "fa0b1e70760948f9",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 274.23,
+    "end": 277.83
+  },
+  {
+    "text": "Imagine listing every number between zero and one since they are",
+    "uid": "cfa5a75ffe1ea3ca",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 278.23,
+    "end": 282.91
+  },
+  {
+    "text": "Uncountable and can't be listed in order",
+    "uid": "de7845eb56374423",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 283.39,
+    "end": 285.47
+  },
+  {
+    "text": "Let's imagine randomly generating them forever with no repeats",
+    "uid": "09b869988804146f",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 285.63,
+    "end": 289.83
+  },
+  {
+    "text": "Each number we generate can be paired with a whole number",
+    "uid": "70e19d65cf7f3671",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 291.19,
+    "end": 294.99
+  },
+  {
+    "text": "If there's a one to one correspondence between the two that is if we can match one whole number",
+    "uid": "3c5e004dfdd2cd75",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 295.99,
+    "end": 301.95
+  },
+  {
+    "text": "To each real number on our list that would mean that countable and",
+    "uid": "9f8b47f688ec92f6",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 302.23,
+    "end": 306.75
+  },
+  {
+    "text": "Uncountable sets are the same size, but we can't do that even though this list goes on forever",
+    "uid": "b53dd0c4024a43a1",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 307.31,
+    "end": 315.09
+  },
+  {
+    "text": "Forever isn't enough",
+    "uid": "23332d9fb6314bab",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 315.67,
+    "end": 317.67
+  },
+  {
+    "text": "Watch this if we go diagonally down our endless list of real numbers and take the first decimal of the first number and the second of the second number the third of the third and so on and",
+    "uid": "33a01ca2c6df98f1",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 318.23,
+    "end": 331.23
+  },
+  {
+    "text": "Add one to each subtracting one if it happens to be a nine",
+    "uid": "f9cd1c6c9dc9f1e5",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 331.23,
+    "end": 335.79
+  },
+  {
+    "text": "We can generate a new real number that is obviously between zero and one",
+    "uid": "69f5aaf6abc90b9a",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 336.03,
+    "end": 341.67
+  },
+  {
+    "text": "But since we've defined it to be different from every number on our endless list and at least one place",
+    "uid": "5d31a2c56cf0df76",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 341.87,
+    "end": 348.83
+  },
+  {
+    "text": "It's clearly not contained in the list in other words",
+    "uid": "484b9c187381fa1f",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 348.95,
+    "end": 353.23
+  },
+  {
+    "text": "We've used up every single whole number the entire infinity of them and yet we can still come up with more",
+    "uid": "dc43cea5ac9ec158",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 353.39,
+    "end": 361.15
+  },
+  {
+    "text": "Here's something else that is true, but counterintuitive",
+    "uid": "2eb813618bb3080d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 363.39,
+    "end": 366.43
+  },
+  {
+    "text": "There are the same number of even numbers as there are even and odd numbers",
+    "uid": "8c18c62be60343f6",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 366.83,
+    "end": 373.15
+  },
+  {
+    "text": "At first that sounds ridiculous clearly",
+    "uid": "60299b4d4d427bd6",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 373.75,
+    "end": 376.51
+  },
+  {
+    "text": "There are only half as many even numbers as all whole numbers",
+    "uid": "b31b92d69681582e",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 376.51,
+    "end": 379.87
+  },
+  {
+    "text": "But that intuition is wrong the set of all whole numbers is",
+    "uid": "4187f08457c6211a",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 380.39,
+    "end": 383.79
+  },
+  {
+    "text": "Densor but every even number can be matched with a whole number",
+    "uid": "19b9585c26f6d280",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 384.35,
+    "end": 388.43
+  },
+  {
+    "text": "You will never run out of members of either set so this one to one correspondence shows that both sets are the same size",
+    "uid": "e4c77170f70f97ca",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 388.59,
+    "end": 396.63
+  },
+  {
+    "text": "In other words infinity divided by two is still infinity",
+    "uid": "39f853f6e2326eb8",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 397.79,
+    "end": 403.15
+  },
+  {
+    "text": "Infinity plus one is also infinity a good illustration of this is Hilbert's paradox of the grand hotel",
+    "uid": "b25ed23877364d08",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 403.99,
+    "end": 412.15
+  },
+  {
+    "text": "Imagine a hotel with a countably infinite number of rooms",
+    "uid": "e8e80e1b45a1c1ef",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 412.71,
+    "end": 416.79
+  },
+  {
+    "text": "But now imagine that there is a person booked into every single room",
+    "uid": "5de0b92757b4f9ee",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 417.11,
+    "end": 421.71
+  },
+  {
+    "text": "seemingly it's fully booked right?",
+    "uid": "6d6df212c9cd062b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 422.39,
+    "end": 424.39
+  },
+  {
+    "text": "Infinite sets go against common sense. You see if a new guest shows up in one serum",
+    "uid": "5291d1536cc12ad2",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 427.8,
+    "end": 433.8
+  },
+  {
+    "text": "All the hotel has to do is move the guest in room number one to room number two and the guest in room two to room three and three to four and four to five and so on",
+    "uid": "97cc074da9a7aff9",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 433.96,
+    "end": 442.92
+  },
+  {
+    "text": "Because the number of rooms is never ending we cannot run out of rooms",
+    "uid": "797b27b7fefcfd85",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 443.16,
+    "end": 448.52
+  },
+  {
+    "text": "Infinity minus one is also",
+    "uid": "6a2522a27035cbad",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 449.4,
+    "end": 452.12
+  },
+  {
+    "text": "Infinity again if one guest leaves the hotel we can shift every guest the other way",
+    "uid": "cffd62feb0251b9a",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 452.84,
+    "end": 458.24
+  },
+  {
+    "text": "guest two goes to room one three to two four to three and so on because we have an infinite amount of guests",
+    "uid": "02fa77d0b57c336b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 458.52,
+    "end": 465.76
+  },
+  {
+    "text": "That is a never-ending supply of them no room will be left empty",
+    "uid": "8764f577bee05b09",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 465.92,
+    "end": 471.0
+  },
+  {
+    "text": "As it turns out you can subtract any finite number from infinity and still be left with infinity",
+    "uid": "1c4c1132504519a0",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 471.64,
+    "end": 478.72
+  },
+  {
+    "text": "It doesn't care it's unending",
+    "uid": "a65a3bb85687baea",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 478.96,
+    "end": 481.32
+  },
+  {
+    "text": "But not Tarsky hasn't left our sights yet all of this is related",
+    "uid": "055948edfa47a6a1",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 482.04,
+    "end": 485.42
+  },
+  {
+    "text": "We are now ready to move on to shapes",
+    "uid": "af1511fa3544e2ce",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 485.42,
+    "end": 488.28
+  },
+  {
+    "text": "Hilbert's hotel can be applied to a circle points around the circumference can be thought of as guests if we",
+    "uid": "ac949840ae55cea7",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 488.8,
+    "end": 496.56
+  },
+  {
+    "text": "Remove one point from the circle that point is gone right",
+    "uid": "81ed1acaeebfe2ef",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 496.56,
+    "end": 501.6
+  },
+  {
+    "text": "Infinity tells us it doesn't matter the circumference of a circle is",
+    "uid": "0ad0e1ca05cf23b9",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 503.16,
+    "end": 507.8
+  },
+  {
+    "text": "Erasional it's the radius times two pi so if we mark off points beginning from the hole every",
+    "uid": "d5c25ef89ef3c22a",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 508.28,
+    "end": 514.92
+  },
+  {
+    "text": "Radius length along the circumference going clockwise",
+    "uid": "f917fbb3663967c0",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 515.12,
+    "end": 518.52
+  },
+  {
+    "text": "We will never land on the same point twice",
+    "uid": "4dfaabcd40ea9e31",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 518.72,
+    "end": 521.88
+  },
+  {
+    "text": "Ever we can count off each point we mark with a whole number so this set is never ending",
+    "uid": "323f1459ab37f213",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 522.44,
+    "end": 529.12
+  },
+  {
+    "text": "But countable just like guests and rooms in Hilbert's hotel and like those guests even though one has checked out",
+    "uid": "0199ebf0bfc44327",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 529.4,
+    "end": 536.36
+  },
+  {
+    "text": "We can just shift the rest move them counterclockwise and every room will be filled",
+    "uid": "2c6da394e3347312",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 536.56,
+    "end": 543.2
+  },
+  {
+    "text": "Point one moves to fill in the hole point two fills in the place where point one used to be three fills in two and so on",
+    "uid": "73d5a2028f156bf7",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 544.16,
+    "end": 551.76
+  },
+  {
+    "text": "Since we have an unending supply of numbered points no hole will be left unfilled",
+    "uid": "418a46eb5e5f13e5",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 552.6,
+    "end": 558.32
+  },
+  {
+    "text": "The missing point is forgotten",
+    "uid": "566820d9f8f4491b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 558.76,
+    "end": 561.4
+  },
+  {
+    "text": "We apparently never needed it to be complete there's one last",
+    "uid": "70a7f0900e49f759",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 562.04,
+    "end": 566.38
+  },
+  {
+    "text": "Meadow consequence of infinity we should discuss before tackling Bonoctarski",
+    "uid": "180767a463494624",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 566.64,
+    "end": 571.36
+  },
+  {
+    "text": "famously proposed a brilliant",
+    "uid": "8bdae2c9965020b6",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 573.18,
+    "end": 575.28
+  },
+  {
+    "text": "Dictionary one that he called the hyperwebster the hyperwebster lists every single possible word of",
+    "uid": "2db37c581f3f1c0d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 575.28,
+    "end": 583.04
+  },
+  {
+    "text": "Any length formed from the 26 letters in the English alphabet it begins with a",
+    "uid": "663254ca1bf9cd8e",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 583.16,
+    "end": 588.46
+  },
+  {
+    "text": "followed by a",
+    "uid": "9f59c49c7aa401f6",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 589.44,
+    "end": 591.44
+  },
+  {
+    "text": "A a and after an infinite number of those a b then a b a then a",
+    "uid": "e81fb93d1990b4df",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 593.44,
+    "end": 599.4
+  },
+  {
+    "text": "a a a a a a a a and so on until",
+    "uid": "a91d1b0e3463bdaa",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 599.68,
+    "end": 603.28
+  },
+  {
+    "text": "Z a a a a et cetera et cetera until the final entry and infinite sequence of z",
+    "uid": "15a061604e01ab0e",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 604.28,
+    "end": 609.88
+  },
+  {
+    "text": "Such a dictionary would contain every single word",
+    "uid": "3e299231759c46fa",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 611.2,
+    "end": 615.92
+  },
+  {
+    "text": "Nay every single thought definition description truth lie name story",
+    "uid": "56690cc6895b5f3e",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 616.2,
+    "end": 622.36
+  },
+  {
+    "text": "What happened to Amelia Earhart would be in that dictionary as",
+    "uid": "3618895a9e14101b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 622.64,
+    "end": 626.52
+  },
+  {
+    "text": "Well as every single thing that didn't happen to Amelia Earhart",
+    "uid": "f3ab97f2c8888326",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 627.16,
+    "end": 631.16
+  },
+  {
+    "text": "Everything that could be said using our alphabet",
+    "uid": "9707a6740d4125c2",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 631.72,
+    "end": 635.72
+  },
+  {
+    "text": "It would be huge, but the company publishing it might realize that they could take a shortcut",
+    "uid": "43d2c559b2616c9c",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 638.0,
+    "end": 643.8
+  },
+  {
+    "text": "If they put all the words that begin with a in a volume titled a",
+    "uid": "04a0d64ea12137e2",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 644.08,
+    "end": 649.44
+  },
+  {
+    "text": "They wouldn't have to print the initial a readers would know to just add the a because it's the a volume",
+    "uid": "741d9cd48f02b291",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 649.88,
+    "end": 655.48
+  },
+  {
+    "text": "By removing the initial a the publisher is left with every a word",
+    "uid": "3a843a177d5f29ca",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 655.8,
+    "end": 660.4
+  },
+  {
+    "text": "Sands the first a which has surprisingly become every possible word",
+    "uid": "7401cd3d6b16b103",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 660.72,
+    "end": 666.36
+  },
+  {
+    "text": "Just one of the 26 volumes has been decomposed into the entire thing",
+    "uid": "5207ea371ca2c65d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 666.76,
+    "end": 672.64
+  },
+  {
+    "text": "It is now that we're ready to investigate this video's",
+    "uid": "396695c09b52ca6a",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 673.6,
+    "end": 677.36
+  },
+  {
+    "text": "What if we turned an object a 3D thing into a hyperwebster could we decompose pieces of it into the whole thing?",
+    "uid": "3b0a02c88f5b7cf2",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 679.8,
+    "end": 688.4
+  },
+  {
+    "text": "The first thing we need to do is give every single point on the surface of the sphere one name and one name only a",
+    "uid": "854938c59a8b628f",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 690.56,
+    "end": 698.28
+  },
+  {
+    "text": "Good way to do this is to name them after how they can be reached by a given starting point",
+    "uid": "cdbe709fda122ac5",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 698.56,
+    "end": 703.36
+  },
+  {
+    "text": "If we move this starting point across the surface of the sphere in steps that are just the right length",
+    "uid": "165b3af9990f848f",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 703.36,
+    "end": 709.84
+  },
+  {
+    "text": "No matter how many times or in what direction we rotate so long as we never backtrack",
+    "uid": "4ab3c4685d533eea",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 709.84,
+    "end": 715.52
+  },
+  {
+    "text": "It will never wind up in the same place twice we only need to rotate in four directions to achieve this paradox up",
+    "uid": "84d3abedcf3c6086",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 715.52,
+    "end": 723.08
+  },
+  {
+    "text": "Down left and right around two perpendicular axes we are going to need every single possible sequence that can be made of any finite length",
+    "uid": "a1ee1857c7bfd616",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 723.6,
+    "end": 734.56
+  },
+  {
+    "text": "Out of just these four rotations that means we will need left",
+    "uid": "b3c74c7d0eaf4b57",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 734.56,
+    "end": 739.28
+  },
+  {
+    "text": "Right up and down as well as left left left left up left down",
+    "uid": "38a4c4169828d047",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 739.6,
+    "end": 746.0
+  },
+  {
+    "text": "But of course not left right because well that's backtracking going left and then right means you're the same as you were before you did anything",
+    "uid": "7d9fed687c6f4501",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 746.0,
+    "end": 754.28
+  },
+  {
+    "text": "So no left rights no right left and no up downs and no down ups",
+    "uid": "26948d7ae76bcd7e",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 754.28,
+    "end": 758.56
+  },
+  {
+    "text": "Also, notice that I'm writing the rotations in order right to left",
+    "uid": "9687106d082b6257",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 759.12,
+    "end": 763.32
+  },
+  {
+    "text": "So the final rotation is the left most letter that will be important later on anyway a list of all possible sequences of allowed rotations that are finite in length is",
+    "uid": "6be48823c4f6e494",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 763.32,
+    "end": 774.76
+  },
+  {
+    "text": "Countably infinite in fact, but if we apply each one of them to a starting point in green here and then name the point",
+    "uid": "2a8d6ece81af6de2",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 778.28,
+    "end": 786.0
+  },
+  {
+    "text": "We land on after the sequence that brought us there",
+    "uid": "d7d3b33fe22a3a96",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 786.0,
+    "end": 788.72
+  },
+  {
+    "text": "We can name a countably infinite set of points on the surface. Let's look at how say these four strings on our list would work",
+    "uid": "05548528d3d4e26b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 788.72,
+    "end": 796.76
+  },
+  {
+    "text": "Right up left. Okay rotating the starting point this way takes us here",
+    "uid": "b98847d127a2f9f3",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 797.36,
+    "end": 802.94
+  },
+  {
+    "text": "Let's color code the point based on the final rotation and it's string in this case",
+    "uid": "18335e8b3ec4847f",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 803.36,
+    "end": 808.02
+  },
+  {
+    "text": "It's left and for that we will use purple",
+    "uid": "e61864174a21b60a",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 808.02,
+    "end": 811.62
+  },
+  {
+    "text": "Next up down down that sequence takes us here",
+    "uid": "4217cce4390254ff",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 812.16,
+    "end": 816.44
+  },
+  {
+    "text": "We name the point dd and color it blue since we ended with a down rotation",
+    "uid": "1b046eb4ee14bfab",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 816.72,
+    "end": 822.64
+  },
+  {
+    "text": "R dr that will be this point's name takes us here and for a final right rotation",
+    "uid": "a5fd87ae1f2b4bfd",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 823.24,
+    "end": 829.56
+  },
+  {
+    "text": "Let's use red finally for a sequence that ends with up",
+    "uid": "88a8bda2e91b9f52",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 829.56,
+    "end": 833.08
+  },
+  {
+    "text": "Let's color code the point orange now if we imagine completing this process for every single sequence",
+    "uid": "d9ff98be9ecd1136",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 833.08,
+    "end": 840.48
+  },
+  {
+    "text": "We will have a countably infinite number of points named and color coded",
+    "uid": "b8b13224e910ea2d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 840.72,
+    "end": 845.48
+  },
+  {
+    "text": "That's great, but not enough. There are an",
+    "uid": "58085002dbb41bca",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 845.76,
+    "end": 850.12
+  },
+  {
+    "text": "Uncountably infinite number of points on a spheres",
+    "uid": "223f83b6cd719f2d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 850.6,
+    "end": 853.44
+  },
+  {
+    "text": "But no worries we can just pick a point we missed any point and color it green making it a new starting point and then run every sequence from here",
+    "uid": "5ed02ccb9d0f2135",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 855.16,
+    "end": 865.88
+  },
+  {
+    "text": "After doing this to an",
+    "uid": "260fb5e05cc1475d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 866.96,
+    "end": 868.6
+  },
+  {
+    "text": "Uncountably infinite number of starting points",
+    "uid": "73f09de1a7246420",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 868.92,
+    "end": 870.96
+  },
+  {
+    "text": "We will have indeed named and colored every single point on the surface just once",
+    "uid": "170d77d88cdd40bc",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 871.0,
+    "end": 877.24
+  },
+  {
+    "text": "With the exception of poles",
+    "uid": "e7e43d3e3e9bfe3a",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 878.2,
+    "end": 880.48
+  },
+  {
+    "text": "Every sequence has two poles of rotation locations on the sphere that come back to exactly where they started for any sequence of right or",
+    "uid": "b80b1ed003b01556",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 881.28,
+    "end": 891.12
+  },
+  {
+    "text": "Left rotations the poles are the north and south poles the problem with poles like these is that more than one sequence",
+    "uid": "80f91cafd2cf649b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 891.36,
+    "end": 898.92
+  },
+  {
+    "text": "Can lead us to them they can be named more than once and be colored in more than one color",
+    "uid": "9b30bc9e95db1133",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 898.92,
+    "end": 905.36
+  },
+  {
+    "text": "For example if you follow some other sequence to the north or south pole any",
+    "uid": "292a8e08749af00b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 905.64,
+    "end": 910.0
+  },
+  {
+    "text": "Subsequent rights or lefts will be equally valid names in order to deal with this",
+    "uid": "1c56a294a248dc7b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 910.12,
+    "end": 916.32
+  },
+  {
+    "text": "We're going to just count them out of normal scheme and color them all yellow every sequence has two",
+    "uid": "a309c716b333be32",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 916.32,
+    "end": 921.16
+  },
+  {
+    "text": "So there are a countably infinite amount of them now with every point on the sphere given just one",
+    "uid": "2c4b26178faeb02d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 921.28,
+    "end": 928.72
+  },
+  {
+    "text": "Name and just one of six colors. We are ready to take the entire sphere apart",
+    "uid": "16edbbde531d89cc",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 928.72,
+    "end": 934.32
+  },
+  {
+    "text": "Every point on the surface corresponds to a unique line of points below it all the way to the center point and we will be dragging every point",
+    "uid": "da27a03e70117cd4",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 935.24,
+    "end": 943.96
+  },
+  {
+    "text": "Slime along with it the lone center point we will set aside",
+    "uid": "b266498fe063931f",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 943.96,
+    "end": 949.08
+  },
+  {
+    "text": "Okay, first we cut out and extract all the yellow poles the green starting points the orange up points",
+    "uid": "b606d98e72f7c3ba",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 949.52,
+    "end": 956.6
+  },
+  {
+    "text": "The blue down points and the red and purple left and right points",
+    "uid": "363659fb3c15b278",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 956.96,
+    "end": 962.4
+  },
+  {
+    "text": "That's the entire sphere with just these pieces you could build the whole thing",
+    "uid": "5564581ee8eca1d6",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 963.28,
+    "end": 968.2
+  },
+  {
+    "text": "But take a look at the left piece it is defined by being a piece composed of every point",
+    "uid": "6a2b11daf1f90a0f",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 968.52,
+    "end": 974.4
+  },
+  {
+    "text": "Accessed by a sequence ending with a left rotation if we rotate this piece right",
+    "uid": "4c4470e2ba5b7695",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 975.08,
+    "end": 981.68
+  },
+  {
+    "text": "That's the same as adding an R to every point's name",
+    "uid": "e743e515ddf28f84",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 981.96,
+    "end": 986.44
+  },
+  {
+    "text": "But left and then right is a backtrack. They cancel each other out and look what happens when we reduce them away",
+    "uid": "3cbd8c48c9c8dc03",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 986.76,
+    "end": 993.4
+  },
+  {
+    "text": "The set becomes the same as a set of all points with names that end with L",
+    "uid": "8b19f3283e33e940",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 994.04,
+    "end": 1000.28
+  },
+  {
+    "text": "But also you",
+    "uid": "a9d1924e0123285b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1000.56,
+    "end": 1002.28
+  },
+  {
+    "text": "D and every point reached with no rotation. That's the full set of starting points",
+    "uid": "be2b5205f97961cd",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1002.28,
+    "end": 1007.6
+  },
+  {
+    "text": "We have turned less than a quarter of the sphere in tenirally three quarters just by rotating",
+    "uid": "163790c7144d3036",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1007.96,
+    "end": 1014.52
+  },
+  {
+    "text": "We added nothing",
+    "uid": "f0822b3a84f8078b",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1014.88,
+    "end": 1016.88
+  },
+  {
+    "text": "It's like the hyperwebster if we add the right piece and the poles of rotation in the center point",
+    "uid": "21ef94922af9b506",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1016.88,
+    "end": 1022.96
+  },
+  {
+    "text": "Well, we've got the entire sphere again, but with stuff left over to make a second copy",
+    "uid": "f3f58165716edbef",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1022.96,
+    "end": 1029.52
+  },
+  {
+    "text": "Let's rotate the up piece down the down-ups",
+    "uid": "ec8a566a9e1b9118",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1029.52,
+    "end": 1033.88
+  },
+  {
+    "text": "Cancel because well, it's the same as going nowhere and we're left with a set of all starting points",
+    "uid": "86d6af7d365690c5",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1034.2,
+    "end": 1039.28
+  },
+  {
+    "text": "The entire up piece the right piece and the left piece",
+    "uid": "cdf0948ffc803ebc",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1039.28,
+    "end": 1042.52
+  },
+  {
+    "text": "But there's a problem here. We don't need this extra set of starting points",
+    "uid": "23b4ec0614c1adf8",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1043.08,
+    "end": 1047.48
+  },
+  {
+    "text": "We still haven't used the original ones. No worries. Let's just start over",
+    "uid": "e45ca54584b5c138",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1047.48,
+    "end": 1052.56
+  },
+  {
+    "text": "We can just move everything from the up piece that turns into a starting point when rotated down",
+    "uid": "e85e32d8643488b5",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1052.68,
+    "end": 1058.52
+  },
+  {
+    "text": "That means every point whose final rotation is up. Let's put them in the down piece",
+    "uid": "d8373ffbd3f9b722",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1058.68,
+    "end": 1063.6
+  },
+  {
+    "text": "Of course after rotating points named you you will just turn into points named you and that would give us a copy here and",
+    "uid": "e538ac2dd4337aa8",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1064.12,
+    "end": 1071.96
+  },
+  {
+    "text": "So as it turns out we need to move all points with any name that is just a string of use",
+    "uid": "2c473fc423ec5228",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1072.96,
+    "end": 1078.48
+  },
+  {
+    "text": "We will put them in the down piece and rotate the up piece down",
+    "uid": "cdc5ec602c0cc798",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1078.64,
+    "end": 1082.6
+  },
+  {
+    "text": "Which makes it congruent to the up right and left pieces add in the down piece along with some up and the starting point piece and",
+    "uid": "4d49201c75866d22",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1082.68,
+    "end": 1090.56
+  },
+  {
+    "text": "Well, we're almost done",
+    "uid": "192ed29b9cb33f8d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1090.92,
+    "end": 1092.92
+  },
+  {
+    "text": "The pulls of rotation and center are missing from this copy, but no worries",
+    "uid": "9fd4c7e051ddd3d1",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1093.04,
+    "end": 1097.36
+  },
+  {
+    "text": "There's a countably infinite number of holes where the pulls of rotation used to be",
+    "uid": "777e5b831877a0c6",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1097.56,
+    "end": 1102.32
+  },
+  {
+    "text": "Which means there is some pull around which we can rotate this sphere such that every",
+    "uid": "1c9a64262b17dd70",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1102.6,
+    "end": 1108.44
+  },
+  {
+    "text": "Paul Hall orbits around without hitting another",
+    "uid": "7c811987532ecc7c",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1108.44,
+    "end": 1111.6
+  },
+  {
+    "text": "Well, this is just a bunch of circles with one point missing",
+    "uid": "e164b7b9d275bc5a",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1112.12,
+    "end": 1115.28
+  },
+  {
+    "text": "We fill them each like we did earlier and we do the same for the center point",
+    "uid": "2bc1d5f53054710d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1115.64,
+    "end": 1120.32
+  },
+  {
+    "text": "Imagine a circle that contains it inside the sphere and just fill in from infinity and look what we've done",
+    "uid": "69801b0cc200d9c5",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1120.84,
+    "end": 1127.04
+  },
+  {
+    "text": "We have taken one sphere and turned it into two identical spheres without adding anything",
+    "uid": "239fcc2a207fafe2",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1127.64,
+    "end": 1135.48
+  },
+  {
+    "text": "One plus one equals one that took a while to go through",
+    "uid": "4b0e13c04eec6adc",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1136.32,
+    "end": 1142.28
+  },
+  {
+    "text": "But the implications are huge and mathematicians",
+    "uid": "ef3b550befc875eb",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1142.28,
+    "end": 1146.16
+  },
+  {
+    "text": "Scientists and philosophers are still debating them could such a process",
+    "uid": "133c8a61e4497f4a",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1146.16,
+    "end": 1151.08
+  },
+  {
+    "text": "Happened in the real world. I mean it can happen mathematically and math allows us to",
+    "uid": "23b62b7e5f6c2df8",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1151.92,
+    "end": 1157.28
+  },
+  {
+    "text": "Abstractly predict and describe a lot of things in the real world with amazing accuracy",
+    "uid": "df590ea0d78eeabf",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1157.56,
+    "end": 1162.68
+  },
+  {
+    "text": "But does the Bonnock Tarsky paradox take it too far is it a place where math and physics",
+    "uid": "a883b707d36e12e7",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1163.24,
+    "end": 1169.52
+  },
+  {
+    "text": "Separate we still don't know",
+    "uid": "f4ecf54685c21ed7",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1170.32,
+    "end": 1173.12
+  },
+  {
+    "text": "History is full of examples of mathematical concepts developed in the abstract that we",
+    "uid": "75a340dd505ad8bb",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1173.68,
+    "end": 1179.32
+  },
+  {
+    "text": "Did not think whatever applied to the real world for years decades centuries until eventually science caught up and",
+    "uid": "ccd4774dcff53818",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1179.68,
+    "end": 1186.92
+  },
+  {
+    "text": "Realized they were totally applicable and useful",
+    "uid": "f0e93fa3000f9e9c",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1187.28,
+    "end": 1191.4
+  },
+  {
+    "text": "The Bonnock Tarsky paradox could actually happen in our real world",
+    "uid": "5543056101dcc54c",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1191.92,
+    "end": 1196.36
+  },
+  {
+    "text": "The only catch of course is that the five pieces you cut your object into",
+    "uid": "be508065931c889d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1196.6,
+    "end": 1200.92
+  },
+  {
+    "text": "Aren't simple shapes they must be infinitely complex and detailed",
+    "uid": "cd0fec10a2f0f768",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1200.92,
+    "end": 1206.28
+  },
+  {
+    "text": "That's not possible to do in the real world where measurements can only get so small and there's only a finite amount of time to do anything",
+    "uid": "e070144536a46632",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1206.92,
+    "end": 1214.84
+  },
+  {
+    "text": "But math says it's theoretically valid and some scientists think it may be physically valid",
+    "uid": "87844ef3f482d601",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1215.4,
+    "end": 1221.52
+  },
+  {
+    "text": "There have been a number of papers published suggesting a link between",
+    "uid": "1ea0dd21a22a8aa3",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1223.12,
+    "end": 1228.0
+  },
+  {
+    "text": "Bonnock Tarsky and the way",
+    "uid": "7ea737e513172d35",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1228.24,
+    "end": 1230.48
+  },
+  {
+    "text": "Tiny tiny subatomic particles can collide at high energies and turn into more particles than we began with",
+    "uid": "82bc162aeb6d335f",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1230.48,
+    "end": 1238.84
+  },
+  {
+    "text": "finite creatures our lives are small and can only scientifically consider a small part of reality",
+    "uid": "4deb1ff453251861",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1243.6,
+    "end": 1251.84
+  },
+  {
+    "text": "What's common for us is just a sliver of what's available?",
+    "uid": "cf6ba470134d8afa",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1252.44,
+    "end": 1257.04
+  },
+  {
+    "text": "We can only see so much of the electromagnetic spectrum. We can only delve so deep into extensions of space",
+    "uid": "0358683f51a30b69",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1257.12,
+    "end": 1263.04
+  },
+  {
+    "text": "Common sense applies to that which we can access but common sense is just that",
+    "uid": "5f78214b160c3f75",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1263.92,
+    "end": 1270.4
+  },
+  {
+    "text": "Common if total sense is what we want we should be prepared to accept that we shouldn't call infinity weird or strange",
+    "uid": "e5ea98d88ad47f67",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1271.36,
+    "end": 1279.92
+  },
+  {
+    "text": "The results we've arrived at by accepting it are valid true within the system we use to",
+    "uid": "f28063db75738b1c",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1280.2,
+    "end": 1286.64
+  },
+  {
+    "text": "Understand measure predict and order the universe",
+    "uid": "c809ba7470d0cbd7",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1286.64,
+    "end": 1289.32
+  },
+  {
+    "text": "Perhaps the system still needs perfecting but at the end of the day history continues to show us that the universe is",
+    "uid": "c45421ead47072e1",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1289.76,
+    "end": 1296.96
+  },
+  {
+    "text": "And as always",
+    "uid": "57a6a53163829f01",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1302.6,
+    "end": 1304.6
+  },
+  {
+    "text": "Thanks for watching",
+    "uid": "7e767a7507932c0e",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1304.6,
+    "end": 1305.6
+  },
+  {
+    "text": "Finally as always the description is full of links to learn more",
+    "uid": "f34ff39cabaf7b86",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1326.54,
+    "end": 1330.42
+  },
+  {
+    "text": "There are also a number of books linked down there that really helped me wrap my mind",
+    "uid": "2cf4c650e073e828",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1330.42,
+    "end": 1334.98
+  },
+  {
+    "text": "Kind of around Bonak Tarski first of all Leonard Wopners the P and the Sun this book is fantastic",
+    "uid": "8559c6f46cf6e5b9",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1335.3,
+    "end": 1341.78
+  },
+  {
+    "text": "And it's full of a lot of the preliminaries needed to understand the proof that comes later",
+    "uid": "c849d4c6bd1be618",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1341.78,
+    "end": 1346.14
+  },
+  {
+    "text": "He also talks a lot about the ramifications of what Bonak Tarski and their theorem might mean for mathematics",
+    "uid": "d2dc5dd012d85a56",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1346.14,
+    "end": 1352.78
+  },
+  {
+    "text": "Also, if you want to talk about math and whether it's discovered or invented whether it really truly will map on to the universe",
+    "uid": "db21685ae93fef38",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1352.78,
+    "end": 1359.42
+  },
+  {
+    "text": "You know, fskies the outer limits of reason is great",
+    "uid": "b3bc12674d41bef5",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1360.34,
+    "end": 1364.9
+  },
+  {
+    "text": "This is the favorite book of mine that I've read this entire year another good one is e-Bryan Davies",
+    "uid": "9be5ef267eb463ee",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1364.9,
+    "end": 1369.7
+  },
+  {
+    "text": "Why beliefs matter?",
+    "uid": "965d89c954522a29",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1370.02,
+    "end": 1371.26
+  },
+  {
+    "text": "This is actually corn's favorite book as you might be able to see there",
+    "uid": "bcd97168bb591a52",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1371.26,
+    "end": 1374.9
+  },
+  {
+    "text": "It's delicious and full of lots of great information about the limits of what we can know and",
+    "uid": "118b1d75c2f30cdf",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1374.9,
+    "end": 1379.78
+  },
+  {
+    "text": "What sciences and what mathematics is if you love infinity and math?",
+    "uid": "5d5fd838a574903d",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1380.42,
+    "end": 1385.42
+  },
+  {
+    "text": "I cannot more highly recommend math parkers things to make and do in the fourth dimension",
+    "uid": "af6bdb11b2297bfb",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1385.42,
+    "end": 1390.18
+  },
+  {
+    "text": "He is hilarious and this book is very very great at explaining some pretty awesome things",
+    "uid": "bdac6fb8f7136209",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1390.18,
+    "end": 1394.98
+  },
+  {
+    "text": "So keep reading and if you're looking for something to watch I hope you've already watched Kevin Leibers film on",
+    "uid": "8d5246c45d21e233",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1395.14,
+    "end": 1402.22
+  },
+  {
+    "text": "Field day I already did a documentary about what are your Alaska over there?",
+    "uid": "5a0e6038465ef171",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1402.58,
+    "end": 1405.86
+  },
+  {
+    "text": "Kevin's got a great short film about putting things out on the internet and having people react to them",
+    "uid": "dd1a77fbd0e81d97",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1405.86,
+    "end": 1410.86
+  },
+  {
+    "text": "There's a rumor that Jake Roper might be doing something on field day soon",
+    "uid": "87c68064853aaa29",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1410.86,
+    "end": 1413.94
+  },
+  {
+    "text": "So check out mine check out Kevin's and",
+    "uid": "d9ebbadb33e58452",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1413.94,
+    "end": 1416.46
+  },
+  {
+    "text": "Subscribe to field day for upcoming Jake Roper action. Yeah, he's actually in this room right now. Say hi Jake. Hi",
+    "uid": "66102fe773f9e0b6",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1417.3,
+    "end": 1423.92
+  },
+  {
+    "text": "Thanks for filming this by the way. Um guys. I really appreciate who you all are and as always",
+    "uid": "8702ab1629cefd93",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1424.18,
+    "end": 1430.94
+  },
+  {
+    "text": "Thanks for watching",
+    "uid": "83e64d4553a81bd1",
+    "source": "Vsauce - The_Banach_Tarski_Paradox",
+    "start": 1431.46,
+    "end": 1433.46
+  }
+]
