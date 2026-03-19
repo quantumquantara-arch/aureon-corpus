@@ -1,0 +1,793 @@
+[
+  {
+    "text": "Dr. Ronda Patrick here, today we're going to discuss a few consumer available tools that",
+    "uid": "9e976ce0b4d4312c",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 0.0,
+    "end": 4.88
+  },
+  {
+    "text": "allow you to learn a little bit more about your genes, and also how specific nutrients interact",
+    "uid": "606b108a11bd5cdb",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 4.88,
+    "end": 9.68
+  },
+  {
+    "text": "with your genes. This field of study is known as neutrogenomics. In addition, we're going to look",
+    "uid": "17c965ce4429a355",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 9.68,
+    "end": 14.64
+  },
+  {
+    "text": "at how this affects metabolism and how you age in general. We'll also be discussing a few specific",
+    "uid": "7cf461c414da93b9",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 14.64,
+    "end": 20.24
+  },
+  {
+    "text": "gene polymorphisms that can be readily genotyped, including MTHFR, FADS2, FOOT2, APOE, FOXO3, and",
+    "uid": "cc786a7e7212e223",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 20.24,
+    "end": 29.12
+  },
+  {
+    "text": "MTHFR. The first step is a relatively inexpensive 99-dollar 23-metast. You may be thinking to yourself,",
+    "uid": "144a435198b32b60",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 29.92,
+    "end": 34.96
+  },
+  {
+    "text": "wait a minute, I thought 23-metast up-general reading health reports. You'd be correct, they did,",
+    "uid": "1d36470dc934cf43",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 34.96,
+    "end": 39.76
+  },
+  {
+    "text": "however they still give you the raw data, and this can still be very useful. The second step is a tool",
+    "uid": "93f071a9754ee251",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 39.76,
+    "end": 45.44
+  },
+  {
+    "text": "that's $5 called Prometheus. Prometheus will take your 23-metast data and match it to a very large database",
+    "uid": "600b3d410a22db67",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 45.44,
+    "end": 52.4
+  },
+  {
+    "text": "consisting of over 57,000 published single-nuclear-type polymorphisms. It'll then tell you what",
+    "uid": "8f9cccad564da971",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 52.4,
+    "end": 58.64
+  },
+  {
+    "text": "diseases you may be predisposed to, as well as how different micronutrients may have different",
+    "uid": "08f1e023c8584044",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 58.64,
+    "end": 64.56
+  },
+  {
+    "text": "absorptions and bio-billities, etc. My goal here is to discuss some of the more meaningful of the",
+    "uid": "0d3aed76f8198458",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 64.56,
+    "end": 70.32
+  },
+  {
+    "text": "57,000 gene polymorphisms, particularly those that may be influenced by modest dietary and lifestyle",
+    "uid": "25cd8404ec8411e0",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 70.32,
+    "end": 76.56
+  },
+  {
+    "text": "changes. From my own life, I've already found this information to be particularly useful",
+    "uid": "a3e3d448be86ac20",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 76.56,
+    "end": 81.44
+  },
+  {
+    "text": "and helping me and my family lower some of our disease risk to diseases that we've made and",
+    "uid": "2c1db19de8a83602",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 81.44,
+    "end": 86.48
+  },
+  {
+    "text": "otherwise predisposed to. But before we get started, I want to cover a few of the basics like",
+    "uid": "97ae8b9b2fcecd81",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 86.48,
+    "end": 90.96
+  },
+  {
+    "text": "what are gene polymorphisms. Gene polymorphisms are variations in the sequence of DNA of a gene",
+    "uid": "edb308cf1be20d42",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 90.96,
+    "end": 96.8
+  },
+  {
+    "text": "that alters the function in a gene either in a good or bad way. This is very different from mutations",
+    "uid": "59266ab485618abc",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 96.8,
+    "end": 102.72
+  },
+  {
+    "text": "which occur randomly because gene polymorphisms occur in a sizable percentage of the population",
+    "uid": "a53d57295e3dd140",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 102.72,
+    "end": 108.24
+  },
+  {
+    "text": "and they're thought to have been selected for for a reason. Gene polymorphisms can lead to the",
+    "uid": "580fd799b31a804f",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 108.24,
+    "end": 114.4
+  },
+  {
+    "text": "diseases like Alzheimer's disease and also can lead to different phenotypes like eye color.",
+    "uid": "5bd60e00296012ed",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 114.4,
+    "end": 119.6
+  },
+  {
+    "text": "For every gene that you have, you have two copies of it, one for mom and one from dad. These are called",
+    "uid": "a90a14552deed481",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 119.6,
+    "end": 125.36
+  },
+  {
+    "text": "alleles. In fact, if you were to look at your 23-year-old data, you would see two letters which correspond",
+    "uid": "ba2ea51bbf79466e",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 125.36,
+    "end": 131.2
+  },
+  {
+    "text": "to DNA nucleotides for that gene, one for mom and one from dad. In some cases, maybe only one of",
+    "uid": "7f0d583c1aae2ed6",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 131.2,
+    "end": 137.2
+  },
+  {
+    "text": "your parents has a specific gene polymorphism and they pass that on to you. In that case,",
+    "uid": "1670aea356c61faa",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 137.2,
+    "end": 141.84
+  },
+  {
+    "text": "you would be heterozygist for that gene polymorphism which may or may not have any measurable effect.",
+    "uid": "d5a4b542a55608ed",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 141.84,
+    "end": 148.08
+  },
+  {
+    "text": "In other cases, maybe both of your parents have a specific gene polymorphism which they pass on to you.",
+    "uid": "94df61500ee537ea",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 148.08,
+    "end": 153.44
+  },
+  {
+    "text": "In that case, you would be homozygist for that gene polymorphism and that does have a measurable effect.",
+    "uid": "36f7a82b4db2407c",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 153.44,
+    "end": 159.44
+  },
+  {
+    "text": "Now that we have all the basics out of the way, let's dive into a few of the genes of interest today.",
+    "uid": "642ac31be667ac47",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 159.44,
+    "end": 164.16
+  },
+  {
+    "text": "The first gene polymorphism that I want to discuss is an actually a gene polymorphism.",
+    "uid": "bc23075d8c3d50c0",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 164.8,
+    "end": 169.12
+  },
+  {
+    "text": "It's a cluster of gene polymorphisms in the full-late metabolism pathway.",
+    "uid": "9ee1bd4804b7f7fa",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 169.12,
+    "end": 174.08
+  },
+  {
+    "text": "Full-late, or vitamin B9, serves two very important functions. First, it serves as a precursor",
+    "uid": "154624cdbbdd408b",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 174.08,
+    "end": 180.72
+  },
+  {
+    "text": "for the DNA nucleotide thymine which means it's essential to make all new cells in the body,",
+    "uid": "797a923886351c81",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 180.72,
+    "end": 186.4
+  },
+  {
+    "text": "whether we're talking about new gut cells or new brain cells. The second important function is",
+    "uid": "5d45756f417a3213",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 186.4,
+    "end": 191.76
+  },
+  {
+    "text": "full-late serves as a precursor to methyl groups which are important for turning genes on or turning",
+    "uid": "b47c968a7af728c9",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 191.76,
+    "end": 198.16
+  },
+  {
+    "text": "genes off, most of the time they're important for turning genes off, and this is known as epigenetics.",
+    "uid": "c605923d1e548a97",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 198.24,
+    "end": 203.84
+  },
+  {
+    "text": "This specific cluster of polymorphisms are associated with the gene 510 methylene tetrahedropholite",
+    "uid": "0a3f4727bf3ed9d4",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 203.84,
+    "end": 210.0
+  },
+  {
+    "text": "redactase, also known as MTHFR, and is associated with the reduced capacity to convert 510 methylene",
+    "uid": "1b6566c5098337a5",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 210.0,
+    "end": 217.28
+  },
+  {
+    "text": "tetrahedropholite into 5 methylpholite. 5 methylpholite plays a very important role for making those methyl",
+    "uid": "d2f5d8e74fe9f07e",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 217.28,
+    "end": 224.72
+  },
+  {
+    "text": "groups that turn genes off and turn genes on. In addition, it also reconverts homocysteine into",
+    "uid": "f01f4d543830c3e2",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 224.8,
+    "end": 232.8
+  },
+  {
+    "text": "the amino acid methionine. This means that while people with these gene polymorphisms are able to",
+    "uid": "e7c368c8caf46a07",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 232.8,
+    "end": 239.04
+  },
+  {
+    "text": "make the DNA nucleotide thymine, they aren't able to efficiently convert dietary folate or",
+    "uid": "80b479f9cf4e429b",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 239.04,
+    "end": 245.76
+  },
+  {
+    "text": "supplemental folic acid into 5 methylpholite. For this reason, it's often associated with higher levels of",
+    "uid": "6b159ee702e31652",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 245.76,
+    "end": 253.12
+  },
+  {
+    "text": "homocysteine, which have also been associated with the whole host of vascular diseases, including",
+    "uid": "d6c00c4aa1270269",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 253.2,
+    "end": 258.56
+  },
+  {
+    "text": "coronary artery disease, stroke, and vascular dementia. Due to one or more combination of these",
+    "uid": "0038f433c081331c",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 258.56,
+    "end": 264.32
+  },
+  {
+    "text": "polymorphisms in the MTHFR gene, approximately 40% of the population has 40% reduced functional",
+    "uid": "5007061de2332181",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 264.32,
+    "end": 271.2
+  },
+  {
+    "text": "efficiency of MTHFR enzyme. Approximately 20% of the population has a 70% reduction in functional",
+    "uid": "7afb51379f7726aa",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 271.2,
+    "end": 278.72
+  },
+  {
+    "text": "efficiency of the enzyme, and approximately 10% of the population has between an 80% to 90% reduction",
+    "uid": "f9c8fc62888c0509",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 278.72,
+    "end": 285.36
+  },
+  {
+    "text": "in functional efficiency of the MTHFR enzyme. Despite the fact that there are a large percentage of the",
+    "uid": "ff30926c546ed258",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 285.36,
+    "end": 290.48
+  },
+  {
+    "text": "population has one of more combinations of this gene polymorphism, studies have shown that supplementing",
+    "uid": "4c41238fc1b3a639",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 290.48,
+    "end": 296.32
+  },
+  {
+    "text": "with 5 methyl tetrahedropholite and methylpholicolboman vitamin B12 can successfully circumvent",
+    "uid": "f8d494f8e67c5c0b",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 296.32,
+    "end": 303.52
+  },
+  {
+    "text": "some of these shortcomings of these gene polymorphisms and lower homocysteine levels.",
+    "uid": "02da15baba5d437a",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 303.6,
+    "end": 308.08
+  },
+  {
+    "text": "Another common gene polymorphism affecting approximately 46% of the population is in the NVPF3 gene,",
+    "uid": "f6f223997061d43c",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 308.08,
+    "end": 314.72
+  },
+  {
+    "text": "and this affects vitamin B6 levels. People with this gene polymorphism have slightly lower vitamin B6 levels,",
+    "uid": "410843c70a60f183",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 314.72,
+    "end": 320.88
+  },
+  {
+    "text": "and may require that people increase their dietary intake of B6 and or also supplement with vitamin B6.",
+    "uid": "f419dba4a5015899",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 320.88,
+    "end": 327.68
+  },
+  {
+    "text": "Since we're talking about B vitamins and another gene polymorphism in the food to gene affects the",
+    "uid": "4f12c6b1214466c2",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 327.68,
+    "end": 332.48
+  },
+  {
+    "text": "way vitamin B12 is absorbed in the intestines. People with this specific gene polymorphism",
+    "uid": "e610dce36c038f93",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 332.56,
+    "end": 337.84
+  },
+  {
+    "text": "need to take a sublingual vitamin B12 to ensure that they're getting enough vitamin B12.",
+    "uid": "fdebf1533db71251",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 337.84,
+    "end": 343.76
+  },
+  {
+    "text": "Let's move on to vitamin A, also known as retinol. We can convert croint noise such as beta-caratine",
+    "uid": "98ca8b626de0cb72",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 343.76,
+    "end": 350.48
+  },
+  {
+    "text": "into pro vitamin A also known as retinol. However, there are cluster of gene polymorphisms associated",
+    "uid": "f63a99d1b88f569d",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 350.48,
+    "end": 357.12
+  },
+  {
+    "text": "with the BCMO1 gene that affect the ability of our gut cells to convert beta-caratine into retinol.",
+    "uid": "d1139613510abce0",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 357.2,
+    "end": 363.12
+  },
+  {
+    "text": "And reduce its ability between 30 to 70%. In fact, around 40% of the population has one gene",
+    "uid": "9da0a08e58690e0c",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 363.12,
+    "end": 369.44
+  },
+  {
+    "text": "polymorphisms associated with this reduced efficiency, and it probably is from a 24% of the population,",
+    "uid": "d9cd40ffb0654124",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 369.44,
+    "end": 374.32
+  },
+  {
+    "text": "has another polymorphism also associated with reduced efficiency. People that have this these",
+    "uid": "606fff4c54bf0c3c",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 374.32,
+    "end": 379.6
+  },
+  {
+    "text": "cluster of gene polymorphisms in the BCMO1 gene can increase their dietary intake of animal products",
+    "uid": "1f9abb601466728e",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 379.6,
+    "end": 385.6
+  },
+  {
+    "text": "which are high in vitamin A or can supplement with the active form of vitamin A, not beta-caratine,",
+    "uid": "f3e98f4b30266e54",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 385.6,
+    "end": 392.0
+  },
+  {
+    "text": "but be careful not to take too much vitamin A as it can be toxic at high doses.",
+    "uid": "68ba76f8aa4ea453",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 392.0,
+    "end": 396.16
+  },
+  {
+    "text": "How about those of the omega-3 fatty acids? There are common gene polymorphisms in the Delta-D saturates",
+    "uid": "46256f2ca9535586",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 396.96,
+    "end": 402.64
+  },
+  {
+    "text": "gene FATS that affect the ability to convert the plant omega-3 fatty acid, alpha-linolinic acid,",
+    "uid": "8e9eb3e238083a4c",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 402.64,
+    "end": 409.2
+  },
+  {
+    "text": "ALA into icosopentic e-noig acid, EPA, which is often found in marine sources. This polymorphism",
+    "uid": "e3d31eb92695e066",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 409.2,
+    "end": 416.48
+  },
+  {
+    "text": "can either increase or decrease the efficiency to convert ALA into EPA because this conversion efficiency",
+    "uid": "160704d95f4cffe9",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 416.48,
+    "end": 424.16
+  },
+  {
+    "text": "is already so low, having the polymorphism that decreases efficiency even further is not a good thing,",
+    "uid": "8ea5ecf2f7009e75",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 424.16,
+    "end": 430.16
+  },
+  {
+    "text": "and may affect how much fish people consume as well as what you supplement with. This is particularly",
+    "uid": "40434b8b4fa5dc22",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 430.16,
+    "end": 435.28
+  },
+  {
+    "text": "relevant for vegetarians that often take ALA as their primary source of omega-3 fatty acids,",
+    "uid": "afd7c25fc45f31b4",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 435.36,
+    "end": 442.24
+  },
+  {
+    "text": "and may want to consider supplementing with another option such as microalgae oil, which has more",
+    "uid": "b62e53ad68bde867",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 442.24,
+    "end": 447.6
+  },
+  {
+    "text": "EPA and DHA and doesn't rely on having to convert it from ALA. Let's move on to one of my personal favorites",
+    "uid": "f53523ada0b88b8e",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 447.6,
+    "end": 454.0
+  },
+  {
+    "text": "vitamin D. There are a couple of common polymorphisms in the CYP2R1 gene, which encodes for the",
+    "uid": "6b1f223e73e59f0c",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 454.0,
+    "end": 459.2
+  },
+  {
+    "text": "vitamin D-25 hydroxylase. The enzyme that is responsible for converting vitamin D3 into 25 hydroxylase,",
+    "uid": "79f3e1b03eebb1ab",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 459.2,
+    "end": 466.8
+  },
+  {
+    "text": "which is the major circulating form of vitamin D, which goes on to be converted into the active",
+    "uid": "20f9722f5008daad",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 466.8,
+    "end": 471.2
+  },
+  {
+    "text": "steroid hormone. People with these specific polymorphisms have a lower circulating 25 hydroxylase and also",
+    "uid": "f79340dab3d938b4",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 471.2,
+    "end": 479.04
+  },
+  {
+    "text": "have reduced enzymatic activity of the 25 hydroxylase. This has been associated with the higher all-caused mortality.",
+    "uid": "ce1a6cf5977cdab3",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 479.04,
+    "end": 485.6
+  },
+  {
+    "text": "Other studies have shown that people that have serum levels of 25 hydroxylase vitamin D",
+    "uid": "89892256219cd26a",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 485.6,
+    "end": 489.6
+  },
+  {
+    "text": "between 40 and 60 nanograms per milliliter have the lowest all-caused mortality and also have the longest",
+    "uid": "29a5aa94c923ea41",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 489.6,
+    "end": 495.76
+  },
+  {
+    "text": "tumor lengths. It's generally known that supplementing with around 1,000 IUs of vitamin D3 a day can",
+    "uid": "3238dcfc37803af3",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 495.76,
+    "end": 501.68
+  },
+  {
+    "text": "raise serum 25 hydroxylase vitamin D levels by around 5 nanograms per milliliter. This may not be the case for",
+    "uid": "da3dc56cbfc4328e",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 501.68,
+    "end": 507.52
+  },
+  {
+    "text": "people with these gene polymorphisms and other lifestyle factors may also play a role. What about",
+    "uid": "9915de4e04a1f258",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 507.52,
+    "end": 513.12
+  },
+  {
+    "text": "colon. Colon also is a very important precursor, much like folate, to make methyl groups, which",
+    "uid": "d6d211c401a4a6fa",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 514.08,
+    "end": 520.0
+  },
+  {
+    "text": "turns genes off or on. Well, we can make colon from phosphatidal colon, however, 44% of women have a gene",
+    "uid": "308d255722f7051b",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 520.0,
+    "end": 528.56
+  },
+  {
+    "text": "polymorphism in the PEMT gene, which does not allow them to make colon from phosphatidal colon.",
+    "uid": "6aaf5d4b2591d364",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 528.56,
+    "end": 535.6
+  },
+  {
+    "text": "This specific polymorphism does not respond to estrogen, which is known to activate the PEMT gene.",
+    "uid": "868f30b24cbbbc78",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 536.16,
+    "end": 542.4
+  },
+  {
+    "text": "For this reason, women with this polymorphism have to increase their dietary intake of colon.",
+    "uid": "378ea0d6cbf5477f",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 542.48,
+    "end": 547.68
+  },
+  {
+    "text": "AGOC is a great source of colon. Let's move on to APOE. There are series of polymorphisms that make",
+    "uid": "f0f727a26d3bee56",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 547.68,
+    "end": 553.52
+  },
+  {
+    "text": "four different forms of APOE, which encodes a lipoprotein that's made in the liver, which binds to cholesterol,",
+    "uid": "fa1768d36f25a463",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 553.52,
+    "end": 559.52
+  },
+  {
+    "text": "transports the cholesterol throughout the bloodstream, brings it to tissues, and recycles it back to the",
+    "uid": "cb155fb65816837b",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 559.52,
+    "end": 564.0
+  },
+  {
+    "text": "liver. It's also made in the astrocytes of the brain, where it transports fatty acids and cholesterol",
+    "uid": "fc9aebba322cedc2",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 564.0,
+    "end": 568.96
+  },
+  {
+    "text": "to neurons. Approximately 25% of the population have a specific form of APOE called APOE IV,",
+    "uid": "eee744e44a924699",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 569.04,
+    "end": 576.32
+  },
+  {
+    "text": "which is associated with higher circulating levels of LDL, and also is associated with the two-to-three",
+    "uid": "272f0f71b5922c59",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 576.32,
+    "end": 582.08
+  },
+  {
+    "text": "full increase risk for Alzheimer's disease. I'm currently researching APOE biology both in the brain and in the",
+    "uid": "c0607d33a9d7313d",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 582.08,
+    "end": 588.16
+  },
+  {
+    "text": "liver, and I'm writing a paper on it right now for publication. I will be covering this topic in depth",
+    "uid": "3ce486998836337b",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 588.16,
+    "end": 594.32
+  },
+  {
+    "text": "and comprehensively in a future video. And last, but not least, let's talk about the Long Javie-Gene",
+    "uid": "961b170a3934b489",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 594.4,
+    "end": 600.72
+  },
+  {
+    "text": "Foxo-3. Foxo-3 is associated with Long Javie for several reasons. Flies and worms that have an equivalent",
+    "uid": "af9f834426cdf26a",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 600.72,
+    "end": 607.04
+  },
+  {
+    "text": "of Foxo-3 are the homolog. Have a hundred percent increase in lifespan. So worms go from living 15 days to",
+    "uid": "483dfea6e7d37dc5",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 607.04,
+    "end": 614.24
+  },
+  {
+    "text": "30 days. Mice that have the equivalent of Foxo-3, experience a 30 percent increase in lifespan,",
+    "uid": "1b49a49f5fa1def7",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 614.24,
+    "end": 620.0
+  },
+  {
+    "text": "and humans that have polymorphisms associated with making more Foxo-3 have an increase chance of",
+    "uid": "9046be12db73d5b2",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 620.0,
+    "end": 625.92
+  },
+  {
+    "text": "living to be a hundred, or being a centenary. The reason Foxo-3 is associated with Long Javie,",
+    "uid": "46808932f5b4cc34",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 625.92,
+    "end": 631.44
+  },
+  {
+    "text": "is because it turns on a whole host of genes that make you more resilient to stress. It turns on",
+    "uid": "7d9e03d7a3ac1825",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 631.44,
+    "end": 637.92
+  },
+  {
+    "text": "anti-oxidine genes. It turns on genes that repair DNA damage. It turns on genes that kill tumor cells,",
+    "uid": "0ac1455f67a2e2ae",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 637.92,
+    "end": 645.12
+  },
+  {
+    "text": "and it turns on genes that make sure proteins don't aggregate and clump inside of your cells.",
+    "uid": "64655af057355e8b",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 645.12,
+    "end": 650.32
+  },
+  {
+    "text": "To sum it up, having more Foxo-3 is pretty awesome. If you're lucky. In summary, knowing which gene",
+    "uid": "546634a0865f6edb",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 650.88,
+    "end": 657.04
+  },
+  {
+    "text": "polymorphisms you have is very useful, and that's why tools like 23 and me and Prometheus are a great",
+    "uid": "2860864c14cc0ed9",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 657.04,
+    "end": 663.2
+  },
+  {
+    "text": "combination. Having this knowledge allows you to tailor your diet and lifestyle to your own genes",
+    "uid": "02f5d68ec56e64cb",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 663.2,
+    "end": 668.88
+  },
+  {
+    "text": "and to optimize your micronutrient and macronutrient intake such that you make stand your lifespan,",
+    "uid": "f83d8d47cdded090",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 668.88,
+    "end": 674.96
+  },
+  {
+    "text": "when applicable. I'm Dr. Rhonda Patrick and I'll catch you next time.",
+    "uid": "ece1b31840f168a9",
+    "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1",
+    "start": 674.96,
+    "end": 678.8
+  }
+]
