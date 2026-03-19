@@ -1,0 +1,1108 @@
+[
+  {
+    "text": "Cosmic inflation describes a period of insane, exponential expansion, right after the instant of the Big Bang.",
+    "uid": "49760f7e0a0951d4",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 2.35,
+    "end": 9.35
+  },
+  {
+    "text": "It calls into question a very understanding of what the beginning of the universe even means.",
+    "uid": "15f6588cba9d6eda",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 9.35,
+    "end": 15.35
+  },
+  {
+    "text": "The Big Bang theory describes the earliest epochs of our universe amazingly well,",
+    "uid": "45c8b693abfe32f8",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 15.35,
+    "end": 24.93
+  },
+  {
+    "text": "and has made predictions that have been verified beyond reasonable doubt.",
+    "uid": "1588883c30346279",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 24.93,
+    "end": 28.93
+  },
+  {
+    "text": "But two significant problems with the simple model,",
+    "uid": "56ca5a5b7c4d7adb",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 28.93,
+    "end": 31.93
+  },
+  {
+    "text": "tells that something strange must have happened in early times,",
+    "uid": "2ccb719e7d38d1ae",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 31.93,
+    "end": 35.93
+  },
+  {
+    "text": "and insane growth spur that we call inflation.",
+    "uid": "94a81e256b4d3627",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 35.93,
+    "end": 39.93
+  },
+  {
+    "text": "Today, I want to explain what inflation is, why we need it,",
+    "uid": "6c09d262ce4ccad7",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 39.93,
+    "end": 44.93
+  },
+  {
+    "text": "and why essentially all cosmologists believe that it really happened.",
+    "uid": "01a5cfb2090e108a",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 44.93,
+    "end": 48.93
+  },
+  {
+    "text": "The observable universe is impossibly huge,",
+    "uid": "b96180a9f03bd957",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 48.93,
+    "end": 51.93
+  },
+  {
+    "text": "and I'm not exaggerating the situation here.",
+    "uid": "e6c502a8c496615c",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 51.93,
+    "end": 54.93
+  },
+  {
+    "text": "It's so huge, 93 billion light years from one edge to the other,",
+    "uid": "f8c2fc56373fbfc8",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 54.93,
+    "end": 59.93
+  },
+  {
+    "text": "that those most distant points should never have had time to communicate with each other.",
+    "uid": "6ab729154013bf19",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 59.93,
+    "end": 64.93
+  },
+  {
+    "text": "And yet, at some point in the distant past, they must have been in contact.",
+    "uid": "2b7e76ae17d44415",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 64.93,
+    "end": 69.93
+  },
+  {
+    "text": "The cosmic microwave background tells us that there are once close enough together to become perfectly smoothly mixed.",
+    "uid": "b230229e8df612aa",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 69.93,
+    "end": 78.93
+  },
+  {
+    "text": "This smoothness of the CNB is called the Horizon Problem,",
+    "uid": "127e98e7089e6077",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 78.93,
+    "end": 82.93
+  },
+  {
+    "text": "and we talk about it in the last video.",
+    "uid": "c02e317d1e7a5aa5",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 82.93,
+    "end": 84.93
+  },
+  {
+    "text": "The Horizon Problem isn't the only troubling feature of the CNB.",
+    "uid": "6dbba72f5913b3c6",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 84.93,
+    "end": 88.93
+  },
+  {
+    "text": "We can use the apparent size of the very subtle fluctuations in the CNB",
+    "uid": "a2c3636ca4355f51",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 88.93,
+    "end": 93.93
+  },
+  {
+    "text": "to measure the flatness of the fabric of the universe of spacetime,",
+    "uid": "40a99c612546603b",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 93.93,
+    "end": 98.93
+  },
+  {
+    "text": "and the answer we get is very strange.",
+    "uid": "f8e25cbb981866ef",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 98.93,
+    "end": 101.93
+  },
+  {
+    "text": "Let me explain.",
+    "uid": "394c5b3bd60ee975",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 101.93,
+    "end": 102.93
+  },
+  {
+    "text": "A flat sheet of paper is flat, duh.",
+    "uid": "c79bff30b7a22a29",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 102.93,
+    "end": 105.93
+  },
+  {
+    "text": "Draw any triangle on one and add up the angles.",
+    "uid": "209f2081c65d12bd",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 105.93,
+    "end": 108.93
+  },
+  {
+    "text": "It's always 180 degrees.",
+    "uid": "ceef7c709a09cbab",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 108.93,
+    "end": 110.93
+  },
+  {
+    "text": "Draw the same triangle on the surface of a sphere,",
+    "uid": "128fdba667b8af37",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 110.93,
+    "end": 114.93
+  },
+  {
+    "text": "which has what we call positive curvature",
+    "uid": "0344f3170e620468",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 114.93,
+    "end": 116.93
+  },
+  {
+    "text": "and the angles add up to more than 180.",
+    "uid": "883e60101bc3a373",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 116.93,
+    "end": 119.93
+  },
+  {
+    "text": "On a negative curvature, hyperbolic plane, a satellite structure,",
+    "uid": "5a3a820abe5358fe",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 119.93,
+    "end": 124.93
+  },
+  {
+    "text": "they add up to less.",
+    "uid": "4733d1dfdbbec227",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 124.93,
+    "end": 126.93
+  },
+  {
+    "text": "Triangles in 3D space obey exactly the same rules as on 2D surfaces,",
+    "uid": "9286f452049d98a3",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 126.93,
+    "end": 131.93
+  },
+  {
+    "text": "and their geometry measures the curvature of space.",
+    "uid": "d434b3d16870f08e",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 131.93,
+    "end": 134.93
+  },
+  {
+    "text": "So now, think of those blobs in the CNB as the ends of very very long triangles.",
+    "uid": "ab2155fd4748274e",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 134.93,
+    "end": 141.93
+  },
+  {
+    "text": "We know the size of the brightest of those blobs.",
+    "uid": "1f6c6270456a1c18",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 141.93,
+    "end": 145.93
+  },
+  {
+    "text": "They're defined by how far sound waves could have traveled",
+    "uid": "d285ffd02613dd08",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 145.93,
+    "end": 148.93
+  },
+  {
+    "text": "by the time the CNB was created.",
+    "uid": "56fd2dd43f7f4229",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 148.93,
+    "end": 151.93
+  },
+  {
+    "text": "And we know how far away they are.",
+    "uid": "dc494983d9ae320e",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 151.93,
+    "end": 153.93
+  },
+  {
+    "text": "They're really, really far.",
+    "uid": "f6184f9037aea33e",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 153.93,
+    "end": 155.93
+  },
+  {
+    "text": "Using basic trigonometry, those distances,",
+    "uid": "1d964d6006a74891",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 155.93,
+    "end": 158.93
+  },
+  {
+    "text": "tell us what the little angle at this end should be.",
+    "uid": "7e262006634949c5",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 158.93,
+    "end": 162.93
+  },
+  {
+    "text": "It should be one degree, assuming the universe is flat.",
+    "uid": "54718b529da408ed",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 162.93,
+    "end": 167.93
+  },
+  {
+    "text": "It should be larger if the universe is positively curved, smaller if negatively curved.",
+    "uid": "db72e7aa214cd67e",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 167.93,
+    "end": 172.93
+  },
+  {
+    "text": "And yes, it's pretty much exactly one degree.",
+    "uid": "8e425d9035ee6936",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 172.93,
+    "end": 176.93
+  },
+  {
+    "text": "Based on the precision of our measurement so far,",
+    "uid": "74d19434877ed1fe",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 176.93,
+    "end": 180.93
+  },
+  {
+    "text": "we know that the curvature is within 0.4 of 1% of perfect flatness.",
+    "uid": "fe563c2ee8d717a5",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 180.93,
+    "end": 185.93
+  },
+  {
+    "text": "Okay, so what? The universe is flat.",
+    "uid": "a3287dda66c4a37f",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 185.93,
+    "end": 188.93
+  },
+  {
+    "text": "No, actually it's extremely weird.",
+    "uid": "46915d3f8b84ecdb",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 188.93,
+    "end": 191.93
+  },
+  {
+    "text": "An expanding universe doesn't tend to stay flat,",
+    "uid": "7d6ac71a4c6c34ac",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 191.93,
+    "end": 194.93
+  },
+  {
+    "text": "even if it starts that way.",
+    "uid": "bfbec200f3eff413",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 194.93,
+    "end": 197.93
+  },
+  {
+    "text": "One way to bowl a strike is to keep the ball near the centre of the alley all the way to the pins.",
+    "uid": "b67dc88b892bfecd",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 199.93,
+    "end": 204.93
+  },
+  {
+    "text": "If the ball isn't moving fast enough,",
+    "uid": "5f8b23fba11ce43c",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 204.93,
+    "end": 207.93
+  },
+  {
+    "text": "then any initial deviation from dead center will send it towards the gutter.",
+    "uid": "e2cf46b7e1cfe217",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 207.93,
+    "end": 212.93
+  },
+  {
+    "text": "Same with the universe.",
+    "uid": "48c982cd9239bf0b",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 212.93,
+    "end": 214.93
+  },
+  {
+    "text": "If the centre of the alley represents a flat universe,",
+    "uid": "1516e1c9855f9005",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 214.93,
+    "end": 217.93
+  },
+  {
+    "text": "then the gutters represent extreme curvature in the positive or negative directions.",
+    "uid": "512ba090973247d9",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 217.93,
+    "end": 223.93
+  },
+  {
+    "text": "If the universe starts out even a little bit not flat,",
+    "uid": "daf52c3cbb91d038",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 223.93,
+    "end": 227.93
+  },
+  {
+    "text": "then that not flatness will amplify quickly.",
+    "uid": "34dc34df0fda1ebe",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 227.93,
+    "end": 230.93
+  },
+  {
+    "text": "So, if our universe is flat to within 0.4 of a percent now,",
+    "uid": "dee1fdd2379979d0",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 230.93,
+    "end": 235.93
+  },
+  {
+    "text": "then in the first instance, the universe had to be flat to 1 part in 10 to the power of 62.",
+    "uid": "a6bfb73955ceddf1",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 235.93,
+    "end": 241.93
+  },
+  {
+    "text": "That's like rolling your ball really, really slowly,",
+    "uid": "45b6a4fda352db8e",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 241.93,
+    "end": 246.93
+  },
+  {
+    "text": "and having it stay within 0.4 of a percent of the centre of the alley.",
+    "uid": "3c725d932de94625",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 246.93,
+    "end": 250.93
+  },
+  {
+    "text": "And the alley is a light year long.",
+    "uid": "5bb0097846a92ca0",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 250.93,
+    "end": 253.93
+  },
+  {
+    "text": "Nice bowling universe.",
+    "uid": "90cb417e40c5a833",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 253.93,
+    "end": 255.93
+  },
+  {
+    "text": "This flatness problem is just as much of an issue as the horizon problem.",
+    "uid": "2f564c7da412d0e9",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 255.93,
+    "end": 259.93
+  },
+  {
+    "text": "Both seem strange if we assume that regular gravity was always the only force",
+    "uid": "a874d7e0b0fd1e8c",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 259.93,
+    "end": 266.93
+  },
+  {
+    "text": "affecting the rate of expansion after the initial kick of the big bang.",
+    "uid": "2092b39d91f8b43c",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 266.93,
+    "end": 271.93
+  },
+  {
+    "text": "We need to throw out that assumption because it's giving us the wrong answer.",
+    "uid": "a82a8c2497279908",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 271.93,
+    "end": 276.93
+  },
+  {
+    "text": "That decides the question in your assumptions.",
+    "uid": "ef53b8deb9f16fc3",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 276.93,
+    "end": 279.93
+  },
+  {
+    "text": "Try it as fun.",
+    "uid": "fca426339636fc61",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 279.93,
+    "end": 281.93
+  },
+  {
+    "text": "So it turns out that we can fix both of these problems with a single elegant idea called inflation.",
+    "uid": "f9958890e0703b9b",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 281.93,
+    "end": 287.93
+  },
+  {
+    "text": "It goes like this.",
+    "uid": "f01f4dfbe3404a94",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 287.93,
+    "end": 289.93
+  },
+  {
+    "text": "Start with a universe so crunched down that the entire currently observable part of it was all causally connected.",
+    "uid": "0a2da4a2fa8a128a",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 289.93,
+    "end": 298.93
+  },
+  {
+    "text": "Then, for a very short period of time, blow it up much faster than the speed of light,",
+    "uid": "a1d8bc41e230847b",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 298.93,
+    "end": 304.93
+  },
+  {
+    "text": "so that most of it appears causally disconnected at which point inflation stops",
+    "uid": "a36ceec833ca348a",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 304.93,
+    "end": 310.93
+  },
+  {
+    "text": "and regular expansion takes over.",
+    "uid": "6455a6e5c038930d",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 310.93,
+    "end": 313.93
+  },
+  {
+    "text": "This works because even a very bloody curvy universe is going to be much smoother and flatter on its smaller scales.",
+    "uid": "5b56c957da284990",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 313.93,
+    "end": 322.93
+  },
+  {
+    "text": "Inflation takes a very tiny, smooth flat spec of that blotchy curvy greater universe",
+    "uid": "99917b432e0a0ceb",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 322.93,
+    "end": 329.93
+  },
+  {
+    "text": "and blows it up to a macroscopic volume really, really fast.",
+    "uid": "8a78bade7e79e5ce",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 330.93,
+    "end": 335.93
+  },
+  {
+    "text": "That inflated spec subsequently grows into the universe that we know.",
+    "uid": "0860f05eeca70cb2",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 335.93,
+    "end": 340.93
+  },
+  {
+    "text": "But, it retains its once subatomic smoothness and flatness.",
+    "uid": "1c6a6c5062399884",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 340.93,
+    "end": 344.93
+  },
+  {
+    "text": "According to inflation, the universe that we see is a tiny part of a vastly larger universe",
+    "uid": "341b7857820bcf95",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 346.93,
+    "end": 353.93
+  },
+  {
+    "text": "that itself may well be curved.",
+    "uid": "9227f5bace8b42f9",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 353.93,
+    "end": 357.93
+  },
+  {
+    "text": "The neatness with which this inflation, souls both the horizon and flatness problems",
+    "uid": "3358bdb61053b9aa",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 357.93,
+    "end": 363.93
+  },
+  {
+    "text": "really has most cosmologists thinking that something like this must have happened.",
+    "uid": "78efc3261750ff4e",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 363.93,
+    "end": 367.93
+  },
+  {
+    "text": "For this to work, that inflationary expansion had to throw neighboring regions of space apart",
+    "uid": "a2edfe9337ccf32f",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 367.93,
+    "end": 373.93
+  },
+  {
+    "text": "at many times faster than the speed of light.",
+    "uid": "343872545d7b9c48",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 373.93,
+    "end": 376.93
+  },
+  {
+    "text": "It needed to increase the size of the universe by effectively 10 to the power of 26",
+    "uid": "7fdc4b9f69f9b45e",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 376.93,
+    "end": 383.93
+  },
+  {
+    "text": "in less than 10 to the minus 32 seconds, ending when the universe was just macroscopic,",
+    "uid": "312baafa65a1b5c0",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 383.93,
+    "end": 390.93
+  },
+  {
+    "text": "something you could hold in your hand.",
+    "uid": "cde08c8673157d8b",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 390.93,
+    "end": 393.93
+  },
+  {
+    "text": "In the subsequent 13.7 billion years since, the universe has expanded by about the same amount that it did during inflation.",
+    "uid": "304a54967a3ec69e",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 393.93,
+    "end": 403.93
+  },
+  {
+    "text": "So what sort of mad physics could do something like that?",
+    "uid": "ccd40ed59f80c865",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 403.93,
+    "end": 407.93
+  },
+  {
+    "text": "Actually, Einstein came up with the exact mathematical description that we need",
+    "uid": "8ec30eee50b2f6dd",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 407.93,
+    "end": 412.93
+  },
+  {
+    "text": "and anti-gravity term called the cosmological constant in the field equations of his general theory of relativity.",
+    "uid": "16729f80ac945e03",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 412.93,
+    "end": 419.93
+  },
+  {
+    "text": "He added this as a way to allow his theory to describe a static space time, a universe that's neither expanding nor contracting.",
+    "uid": "cab9c564fd192a2d",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 419.93,
+    "end": 428.93
+  },
+  {
+    "text": "When it was later discovered that the universe is indeed expanding, Einstein retracted his constant.",
+    "uid": "f849cd8094d960f6",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 428.93,
+    "end": 435.93
+  },
+  {
+    "text": "But this bit of math gives us exactly the type of expansion that we need for inflation.",
+    "uid": "6a73ad05d5e71d6d",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 436.93,
+    "end": 442.93
+  },
+  {
+    "text": "Incidentally, it also describes the effect of dark energy, and that may not be a coincidence.",
+    "uid": "1b7f8286d84a3dd6",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 442.93,
+    "end": 449.93
+  },
+  {
+    "text": "The cosmological constant represents something that can happen to our space time.",
+    "uid": "2ff950d12b64b1de",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 449.93,
+    "end": 454.93
+  },
+  {
+    "text": "Einstein is right, even when he's wrong.",
+    "uid": "f5bb2477b86c43b4",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 454.93,
+    "end": 457.93
+  },
+  {
+    "text": "The cosmological constant adds some energetic stuff to empty space.",
+    "uid": "5d411329aa14aa18",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 457.93,
+    "end": 462.93
+  },
+  {
+    "text": "It doesn't tell us what this stuff is, just that it's a property of space itself, and that it acts to drive expansion.",
+    "uid": "85aa8e59e2842612",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 463.93,
+    "end": 470.93
+  },
+  {
+    "text": "The more space, the more of this stuff, and so the more space, the more expansion.",
+    "uid": "de346d71fd9756b9",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 470.93,
+    "end": 476.93
+  },
+  {
+    "text": "We'll delve pretty deep into how this works in terms of general relativity on a future episode on dark energy.",
+    "uid": "c5527ff77d425a39",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 476.93,
+    "end": 484.93
+  },
+  {
+    "text": "And we'll explore exactly what could cause such a weird sort of energetic vacuum real soon.",
+    "uid": "61e260691dec28bb",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 485.93,
+    "end": 490.93
+  },
+  {
+    "text": "Inflatons, scale of fields, force vacuums, all of that.",
+    "uid": "012bf2af2e16ded5",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 490.93,
+    "end": 495.93
+  },
+  {
+    "text": "For now, let's just go with the fact that empty space can propel its own expansion, and we'll do so if the vacuum contains a ubiquitous constant energy density.",
+    "uid": "db3fe243b86ccd0a",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 495.93,
+    "end": 506.93
+  },
+  {
+    "text": "Another really important thing about the driving mechanism of inflation is that it's stopped.",
+    "uid": "85c68745ea30cf43",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 506.93,
+    "end": 512.93
+  },
+  {
+    "text": "The universe slowed down from exponential to the regular old expansion that we see today, or we call Hubble expansion.",
+    "uid": "d6342e75eed30551",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 512.93,
+    "end": 521.93
+  },
+  {
+    "text": "And while we know the minimum amount of inflation needed before that stopping point, we don't really know when it began, or even if it had a beginning.",
+    "uid": "54112357d528cb31",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 521.93,
+    "end": 531.93
+  },
+  {
+    "text": "It may have, and there are some ideas about what got it started, but it's also possible that inflationary expansion is the default state of the greater energy density.",
+    "uid": "d9deec5e662d1538",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 531.93,
+    "end": 539.93
+  },
+  {
+    "text": "I should say, multiverse at this point.",
+    "uid": "59161324a9ca0bae",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 539.93,
+    "end": 542.93
+  },
+  {
+    "text": "This is the idea of eternal inflation.",
+    "uid": "69abcc6b3e8fea3d",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 542.93,
+    "end": 545.93
+  },
+  {
+    "text": "I'll get to all of these wild ideas very soon.",
+    "uid": "bcc668e17eff1d65",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 545.93,
+    "end": 548.93
+  },
+  {
+    "text": "With inflation, the Big Bang Theory takes on new meaning.",
+    "uid": "4569af1ebfa35008",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 548.93,
+    "end": 552.93
+  },
+  {
+    "text": "When first conceived, the inflationary period was thought to have started at a particular point after the instant of the Big Bang.",
+    "uid": "a911720e0f5bda21",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 552.93,
+    "end": 564.93
+  },
+  {
+    "text": "But once you accept inflation, there isn't necessarily a good reason to think that there was a normal expansion period before.",
+    "uid": "fb69d1500d3a0705",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 564.93,
+    "end": 572.93
+  },
+  {
+    "text": "If there even was a before inflation.",
+    "uid": "8486b68027e63fa6",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 572.93,
+    "end": 576.93
+  },
+  {
+    "text": "In fact, the instant that inflation ended can perhaps be thought of as the moment that our universe, as we know it, came into being.",
+    "uid": "9bf8b6f888402dbe",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 576.93,
+    "end": 587.93
+  },
+  {
+    "text": "In that sense, inflation is the initial kick of the Big Bang.",
+    "uid": "9acbf88b0764762a",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 587.93,
+    "end": 592.93
+  },
+  {
+    "text": "We didn't need to talk about an exploding singularity at all.",
+    "uid": "3018dee2b6f1c81b",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 592.93,
+    "end": 596.93
+  },
+  {
+    "text": "Time may not have begun with the Big Bang, and so we'll rewind to before the beginning of the universe.",
+    "uid": "6461d6341304caad",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 596.93,
+    "end": 605.93
+  },
+  {
+    "text": "Very soon, on spacetime.",
+    "uid": "2205598c069f6605",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 605.93,
+    "end": 607.93
+  },
+  {
+    "text": "In a recent episode, we told you why spacings are the shape they are.",
+    "uid": "3b69df93b16e3c7b",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 607.93,
+    "end": 612.93
+  },
+  {
+    "text": "And you guys brought it with the big questions.",
+    "uid": "724d3fefa630666b",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 612.93,
+    "end": 614.93
+  },
+  {
+    "text": "Franchight asks, why does Dark Matter in a galaxy seem to form a sphere?",
+    "uid": "ac852bc9df2887ce",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 614.93,
+    "end": 620.93
+  },
+  {
+    "text": "Well, this is because Dark Matter doesn't really interact with itself, except gravitationally.",
+    "uid": "4c1ba7bf09060886",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 620.93,
+    "end": 627.93
+  },
+  {
+    "text": "The Milky Way and our solar system were originally made of gas, giant clouds of the stuff.",
+    "uid": "261b63a0b5276a47",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 627.93,
+    "end": 634.93
+  },
+  {
+    "text": "And gas does interact with itself.",
+    "uid": "7c6b9d7fcddb49f3",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 634.93,
+    "end": 636.93
+  },
+  {
+    "text": "It drags on itself.",
+    "uid": "7507bd4c7290b883",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 636.93,
+    "end": 638.93
+  },
+  {
+    "text": "So even though the gas originally had motion in many directions, over time, it sweeps into a single bulk flow.",
+    "uid": "2d2d8b96d85771bf",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 638.93,
+    "end": 646.93
+  },
+  {
+    "text": "Dark Matter doesn't sweep itself.",
+    "uid": "492f8b8e1add4086",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 646.93,
+    "end": 649.93
+  },
+  {
+    "text": "It just passes by with a tiny gravitational tug.",
+    "uid": "279764600ce41b46",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 649.93,
+    "end": 653.93
+  },
+  {
+    "text": "So the orbits of any bit of dark matter can be in any orientation or direction, and random orientation orbits give you a sphereoid.",
+    "uid": "f264d45014dc46f8",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 653.93,
+    "end": 663.93
+  },
+  {
+    "text": "This is also true of the stars in a littical galaxies.",
+    "uid": "9ddffc6a089ea97a",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 663.93,
+    "end": 667.93
+  },
+  {
+    "text": "Stars are small enough compared to the distances between them that they can be in these random orbits.",
+    "uid": "8a75374984545877",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 667.93,
+    "end": 673.93
+  },
+  {
+    "text": "The reason spiral galaxies are diskey is that those disks formed before the stars actually formed.",
+    "uid": "281ce36aa5b913cf",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 674.93,
+    "end": 682.93
+  },
+  {
+    "text": "Back when the material was mostly gas.",
+    "uid": "480b0056f6445771",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 682.93,
+    "end": 685.93
+  },
+  {
+    "text": "De-blending and a few others questioned my use of the concept of a centrifugal force.",
+    "uid": "e205ad1cfc296f39",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 685.93,
+    "end": 691.93
+  },
+  {
+    "text": "And de-blending, I definitely chose yours because of your particular phrasing.",
+    "uid": "8f9601ce12659a24",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 691.93,
+    "end": 695.93
+  },
+  {
+    "text": "It's true that this force is in a sense fictitious.",
+    "uid": "5b29437962876b7a",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 695.93,
+    "end": 699.93
+  },
+  {
+    "text": "It emerges in a rotating reference frame as a force like term that resists in wood motion.",
+    "uid": "7d9b084e438037bb",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 700.93,
+    "end": 706.93
+  },
+  {
+    "text": "It doesn't exist in the inertial reference frames for which Newton's laws are valid.",
+    "uid": "d1fc1ee9a809a353",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 706.93,
+    "end": 711.93
+  },
+  {
+    "text": "For example, in a reference frame of an unmoving centre of mass, you have a centre pointing or a centripetal force.",
+    "uid": "37ebab1b4d08cb0e",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 711.93,
+    "end": 720.93
+  },
+  {
+    "text": "In this case that's gravity acting on the orbiting object.",
+    "uid": "6970a270e6f712db",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 720.93,
+    "end": 724.93
+  },
+  {
+    "text": "And the force is resisted by nothing.",
+    "uid": "9f88e53df6dfcb15",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 724.93,
+    "end": 728.93
+  },
+  {
+    "text": "The orbiting object is subject to the full acceleration caused by gravity, which is what causes it to move in an orbit.",
+    "uid": "b8ed55cb493dd801",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 728.93,
+    "end": 736.93
+  },
+  {
+    "text": "In that reference frame, it's the velocity perpendicular to the centripetal acceleration that resists radule in form.",
+    "uid": "6d2c8fb05e4f8cd5",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 736.93,
+    "end": 744.93
+  },
+  {
+    "text": "But centrifugal force is easier to say, and it's still accurate.",
+    "uid": "52fe2a677f156a5d",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 744.93,
+    "end": 749.93
+  },
+  {
+    "text": "A couple of you asked about the shape of a black hole and its accretion disc based on the spin of the black hole.",
+    "uid": "6c7d2734195fd466",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 749.93,
+    "end": 756.93
+  },
+  {
+    "text": "Okay, so first, the accretion disc that forms around the black hole can either be very flat or fatter, but probably more to a roidel than spherical.",
+    "uid": "15a5799db8f06565",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 756.93,
+    "end": 767.93
+  },
+  {
+    "text": "Yet, that doesn't have much to do with the spin of the black hole itself.",
+    "uid": "f908f7f8621e83e9",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 767.93,
+    "end": 771.93
+  },
+  {
+    "text": "It depends more on things like the rate of accretion, the viscosity of the material, the weight angular momentum is lost by that material.",
+    "uid": "f9fd47e23e698b87",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 771.93,
+    "end": 778.93
+  },
+  {
+    "text": "Stuff like that.",
+    "uid": "24f416f37300360e",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 778.93,
+    "end": 779.93
+  },
+  {
+    "text": "Although the magnetic field of a spinning black hole can also play a part here.",
+    "uid": "1e9466247e390570",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 779.93,
+    "end": 784.93
+  },
+  {
+    "text": "However, the shape of the event horizon of the black hole itself does depend on spin.",
+    "uid": "c4db423f13efd89c",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 784.93,
+    "end": 790.93
+  },
+  {
+    "text": "And indeed, a rapidly rotating curve black hole is flattened, its an ablates ferroid, while a non-rotating sparse geol black hole is a perfect sphere.",
+    "uid": "73a8b4a37ed7a2de",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 790.93,
+    "end": 801.93
+  },
+  {
+    "text": "Omicron vagar asks if I can please do the blue steel face from Zulander.",
+    "uid": "9c7d1d83cce6cfbd",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 801.93,
+    "end": 805.93
+  },
+  {
+    "text": "I'm sorry, I only do magna.",
+    "uid": "e955d92c47214398",
+    "source": "PBS_Space_Time - How_Cosmic_Inflation_Flattened_the_Universe",
+    "start": 805.93,
+    "end": 808.93
+  }
+]
