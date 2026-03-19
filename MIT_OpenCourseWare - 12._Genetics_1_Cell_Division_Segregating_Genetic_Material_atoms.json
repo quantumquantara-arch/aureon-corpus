@@ -1,0 +1,4279 @@
+[
+  {
+    "text": "Well, first of all, nice job on the exam.",
+    "uid": "1c0e902134572c0d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 16.53,
+    "end": 19.13
+  },
+  {
+    "text": "We were quite pleased with how you guys did.",
+    "uid": "09ccb4b7379334e3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 19.13,
+    "end": 22.33
+  },
+  {
+    "text": "And so from now on in the course, Professor",
+    "uid": "b9898fadb24498b3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 22.33,
+    "end": 25.05
+  },
+  {
+    "text": "and Pereole has been telling you about information flow,",
+    "uid": "6195e7cebb186804",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 25.05,
+    "end": 29.01
+  },
+  {
+    "text": "but information flow within a cell.",
+    "uid": "498d6448629bb726",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 29.01,
+    "end": 32.77
+  },
+  {
+    "text": "So information flow from the DNA to the proteins",
+    "uid": "8049ae0c4a261920",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 32.77,
+    "end": 37.65
+  },
+  {
+    "text": "that are made in the cell, which determines",
+    "uid": "37d4375653798207",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 37.65,
+    "end": 40.45
+  },
+  {
+    "text": "what that cell does.",
+    "uid": "c77377950e023dcf",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 40.45,
+    "end": 43.45
+  },
+  {
+    "text": "And so we're going to switch directions today.",
+    "uid": "5b49bf250aee1e79",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 43.45,
+    "end": 46.33
+  },
+  {
+    "text": "And we're going to start talking about how information",
+    "uid": "f6fb94166fc27495",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 46.33,
+    "end": 49.09
+  },
+  {
+    "text": "flows between cells, so from a parent cell",
+    "uid": "10f7df21b6e9c431",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 49.09,
+    "end": 54.17
+  },
+  {
+    "text": "to its daughter cells.",
+    "uid": "9ee5c7ea689373ea",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 54.17,
+    "end": 55.69
+  },
+  {
+    "text": "And we're also going to talk about how information",
+    "uid": "bbaf670a431d9920",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 55.69,
+    "end": 58.21
+  },
+  {
+    "text": "flows from generation to the next.",
+    "uid": "56628a6ab97c6efa",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 58.21,
+    "end": 61.01
+  },
+  {
+    "text": "And this, of course, is the study of genetics.",
+    "uid": "77b6cb583af083bd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 62.25,
+    "end": 72.0
+  },
+  {
+    "text": "And what genetics is, as a discipline,",
+    "uid": "319d575c5a052990",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 72.0,
+    "end": 75.0
+  },
+  {
+    "text": "is it is the study of genes and their inheritance.",
+    "uid": "705d33b068f10a21",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 75.0,
+    "end": 88.92
+  },
+  {
+    "text": "And the genes that you inherit influences",
+    "uid": "527bcfce673c76a5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 88.92,
+    "end": 93.4
+  },
+  {
+    "text": "what is known as your phenotype.",
+    "uid": "73f2f9afe0acea9b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 93.4,
+    "end": 101.76
+  },
+  {
+    "text": "And what phenotype is is, as simply the set of traits",
+    "uid": "216f165807494f0b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 101.76,
+    "end": 106.28
+  },
+  {
+    "text": "that define you.",
+    "uid": "f8bde801bb567226",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 106.28,
+    "end": 107.48
+  },
+  {
+    "text": "So you can think of it as a set of observable traits.",
+    "uid": "362f802a7d1fcbdf",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 107.48,
+    "end": 112.76
+  },
+  {
+    "text": "And this involves your genes, as you probably",
+    "uid": "efd745fc6b2189a1",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 120.36,
+    "end": 122.56
+  },
+  {
+    "text": "I mean, just this morning, I was dropping my son off at school.",
+    "uid": "40b3a08318265090",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 123.4,
+    "end": 126.84
+  },
+  {
+    "text": "And he was comparing how tall he was, compared to his classmates.",
+    "uid": "9d61b29ff04be01d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 126.84,
+    "end": 130.68
+  },
+  {
+    "text": "And as he went in, he was like, thanks for the genes, dad.",
+    "uid": "4d84fe7a3c7c11b3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 130.68,
+    "end": 134.84
+  },
+  {
+    "text": "So I expect that many of you are going to be familiar with much",
+    "uid": "6bc1faad9fb9416c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 134.84,
+    "end": 139.48
+  },
+  {
+    "text": "of what we'll discuss.",
+    "uid": "b82f90807773b664",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 139.48,
+    "end": 140.96
+  },
+  {
+    "text": "But we're going to lay a real solid foundation",
+    "uid": "defc43d7247b5616",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 140.96,
+    "end": 143.56
+  },
+  {
+    "text": "because it's really fundamental for understanding",
+    "uid": "cf70a2b89c911d0c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 143.56,
+    "end": 147.12
+  },
+  {
+    "text": "the rules of inheritance and how that works.",
+    "uid": "30c63a2173472aaf",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 147.12,
+    "end": 151.96
+  },
+  {
+    "text": "So genetics is a study of genes.",
+    "uid": "40ef0e6c86865eb4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 152.8,
+    "end": 155.8
+  },
+  {
+    "text": "So what is a gene?",
+    "uid": "2fab6cdd32366d14",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 155.8,
+    "end": 157.68
+  },
+  {
+    "text": "So you can think about genes in different ways.",
+    "uid": "9b82674f3fa88f3f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 157.68,
+    "end": 162.52
+  },
+  {
+    "text": "And what we've been talking about, I'll tell now,",
+    "uid": "38c05147629f7f6c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 162.52,
+    "end": 165.24
+  },
+  {
+    "text": "we've been talking about molecular biology",
+    "uid": "00690c28aba2d3ba",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 165.24,
+    "end": 167.76
+  },
+  {
+    "text": "and what is known as the central dogma.",
+    "uid": "40bfcdd7f8a8688c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 167.76,
+    "end": 176.67
+  },
+  {
+    "text": "And the central dogma states that there's",
+    "uid": "e3cd9a09edef6983",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 176.67,
+    "end": 182.59
+  },
+  {
+    "text": "the source of the code is in the DNA.",
+    "uid": "fb96edb0f7148f90",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 182.59,
+    "end": 185.47
+  },
+  {
+    "text": "And there's an information flow from a piece of DNA,",
+    "uid": "dfdecda4554f275e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 185.47,
+    "end": 189.51
+  },
+  {
+    "text": "which is a gene.",
+    "uid": "4bb3891efaf10586",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 189.51,
+    "end": 190.95
+  },
+  {
+    "text": "And a gene is a piece of DNA that then encodes some sort of RNA,",
+    "uid": "7d21ca6f7017e740",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 190.95,
+    "end": 195.71
+  },
+  {
+    "text": "such as a messenger RNA.",
+    "uid": "e69f90743d218841",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 195.71,
+    "end": 197.71
+  },
+  {
+    "text": "And many of these RNAs can make specific proteins",
+    "uid": "5aea6e3792eb4b27",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 197.71,
+    "end": 201.91
+  },
+  {
+    "text": "that do things in yourselves and your body.",
+    "uid": "bc1805c6ab05b944",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 201.91,
+    "end": 204.87
+  },
+  {
+    "text": "So that's one very molecular picture of a gene.",
+    "uid": "42c78a842f11866d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 206.15,
+    "end": 209.83
+  },
+  {
+    "text": "You can think of a gene as a string of nucleotides.",
+    "uid": "02fbc0cf51a47b42",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 209.83,
+    "end": 215.11
+  },
+  {
+    "text": "And there might be a reading frame in those nucleotides",
+    "uid": "a979231ae6cd9ac4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 215.11,
+    "end": 219.23
+  },
+  {
+    "text": "that encodes a protein.",
+    "uid": "20dd6bff6facaab8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 219.23,
+    "end": 222.43
+  },
+  {
+    "text": "So that's a very molecular picture of a gene.",
+    "uid": "4d69b3dff8fc05bb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 222.43,
+    "end": 225.95
+  },
+  {
+    "text": "The field of genetics started well before we knew about DNA",
+    "uid": "35f5ecf617bb139c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 225.95,
+    "end": 231.11
+  },
+  {
+    "text": "and its importance and what DNA encoded RNA, which",
+    "uid": "c370f1de5849507f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 231.11,
+    "end": 236.55
+  },
+  {
+    "text": "So the concept of a gene is much older than that.",
+    "uid": "bcd6c73729deaebf",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 237.95,
+    "end": 241.55
+  },
+  {
+    "text": "And so what you can think of another way you can think",
+    "uid": "6957a14071732c9d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 241.55,
+    "end": 244.59
+  },
+  {
+    "text": "of a gene is it's essentially the functional unit of heredity.",
+    "uid": "f7a5c17477edbb64",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 244.59,
+    "end": 251.42
+  },
+  {
+    "text": "So it's the functional unit of heredity.",
+    "uid": "97bf7783eac3aa2f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 251.42,
+    "end": 262.06
+  },
+  {
+    "text": "I'll bump this up.",
+    "uid": "0316a6b309571818",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 262.06,
+    "end": 271.28
+  },
+  {
+    "text": "So I want to just briefly pause and give you an overview",
+    "uid": "d804d7b317623cc4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 271.28,
+    "end": 274.8
+  },
+  {
+    "text": "of why I think genetics is so important.",
+    "uid": "9a6e996d2efc61f0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 274.8,
+    "end": 278.0
+  },
+  {
+    "text": "So here's a cell divide.",
+    "uid": "b6634854650ba51a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 278.0,
+    "end": 281.16
+  },
+  {
+    "text": "And I showed you this in the last lecture.",
+    "uid": "0d5c6b0def3c37f6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 281.16,
+    "end": 283.6
+  },
+  {
+    "text": "You saw the chromosomes, which are here,",
+    "uid": "b29f8aff82297398",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 283.6,
+    "end": 286.76
+  },
+  {
+    "text": "how they're segregated to different daughters.",
+    "uid": "cc853d1565f16af8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 286.76,
+    "end": 288.84
+  },
+  {
+    "text": "And this is basically you're seeing the information flow",
+    "uid": "0e85a5594f8a4eb1",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 288.84,
+    "end": 292.16
+  },
+  {
+    "text": "from the parent cell into the daughter cell.",
+    "uid": "6621c38bb0e04e04",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 292.16,
+    "end": 295.56
+  },
+  {
+    "text": "But we saw this.",
+    "uid": "4f692e5fc4d06cef",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 295.56,
+    "end": 296.4
+  },
+  {
+    "text": "So I'm just going to skip ahead.",
+    "uid": "2b6aa6b1ce43cf55",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 296.4,
+    "end": 298.64
+  },
+  {
+    "text": "So why is this so important?",
+    "uid": "734f7cb509c9f509",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 298.64,
+    "end": 301.68
+  },
+  {
+    "text": "So I'm going to give you a fairly grandiose view",
+    "uid": "05ef0d8e1966035f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 301.68,
+    "end": 304.56
+  },
+  {
+    "text": "of why genetics is so important.",
+    "uid": "88f4d04ef91e0718",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 304.56,
+    "end": 307.36
+  },
+  {
+    "text": "And I'm going to say that we can make a good argument",
+    "uid": "030d8b489f5da6dd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 307.36,
+    "end": 311.0
+  },
+  {
+    "text": "that genetics is responsible for the rise",
+    "uid": "4ac7c3db76c13efc",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 311.0,
+    "end": 315.4
+  },
+  {
+    "text": "of modern civilization.",
+    "uid": "11748664eb7b1330",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 315.4,
+    "end": 319.56
+  },
+  {
+    "text": "So humans, as a species, began manipulating genes",
+    "uid": "d2c9a6f031752041",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 319.56,
+    "end": 325.24
+  },
+  {
+    "text": "and genetics, even before we had",
+    "uid": "ed733d91f93a7cf0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 325.24,
+    "end": 327.6
+  },
+  {
+    "text": "under any understanding of what was going on.",
+    "uid": "dbf9264f94c5ee4a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 327.6,
+    "end": 330.12
+  },
+  {
+    "text": "So this is more of an unconscious selection.",
+    "uid": "dfaa114419be2d98",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 330.12,
+    "end": 333.44
+  },
+  {
+    "text": "And so 10,000 years ago, humans were hunter-gatherers.",
+    "uid": "29e73dabe9d5e7c6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 333.44,
+    "end": 338.56
+  },
+  {
+    "text": "They'd go out and try to find nuts and seeds",
+    "uid": "a1aefe7514084509",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 338.56,
+    "end": 341.4
+  },
+  {
+    "text": "and hunt animals.",
+    "uid": "95bc9bfe1c35cd07",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 341.4,
+    "end": 342.4
+  },
+  {
+    "text": "And that's how we got our food.",
+    "uid": "58528a00e328e80a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 342.4,
+    "end": 344.44
+  },
+  {
+    "text": "But around 10,000 years ago, was the first example",
+    "uid": "84cb730983f4a1a9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 344.44,
+    "end": 348.2
+  },
+  {
+    "text": "of where humans, as a species, really altered the phenotype",
+    "uid": "f99a9e76b843485b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 348.2,
+    "end": 352.92
+  },
+  {
+    "text": "of plant in this case.",
+    "uid": "92db4342bc558913",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 352.92,
+    "end": 356.0
+  },
+  {
+    "text": "So wild wheat and wild barley, the seeds",
+    "uid": "90d5086b90ce1269",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 356.0,
+    "end": 358.76
+  },
+  {
+    "text": "develop in a pod.",
+    "uid": "5acb312341727bc4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 358.76,
+    "end": 360.64
+  },
+  {
+    "text": "And the biology of the wild wheat is such",
+    "uid": "854f23cea233a9c0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 360.64,
+    "end": 363.16
+  },
+  {
+    "text": "that the pod shatters and the seeds then spread",
+    "uid": "16042fee1e62d633",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 363.16,
+    "end": 366.0
+  },
+  {
+    "text": "on the ground where they can then germinate into new plants.",
+    "uid": "c1683981954a132b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 366.0,
+    "end": 370.64
+  },
+  {
+    "text": "But 10,000 years ago, humans decided that it would be more ideal",
+    "uid": "e79b7872561150be",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 370.64,
+    "end": 376.4
+  },
+  {
+    "text": "if we had a form of wheat, which didn't shatter,",
+    "uid": "4db4c25e542c3450",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 376.4,
+    "end": 379.88
+  },
+  {
+    "text": "which is known as non-shattering wheat, which, in which",
+    "uid": "2c9e63e219b19f0d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 379.88,
+    "end": 383.04
+  },
+  {
+    "text": "the seeds remain on the plant.",
+    "uid": "7604f746bcc95b99",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 383.04,
+    "end": 386.2
+  },
+  {
+    "text": "And that allows it to be easily harvested at the end of the season.",
+    "uid": "59c2899408e54d3f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 386.2,
+    "end": 390.96
+  },
+  {
+    "text": "So 10,000 years ago, is one of the first examples",
+    "uid": "9f61f9a574d3c2c5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 390.96,
+    "end": 394.36
+  },
+  {
+    "text": "where humans really genetically altered the phenotype of a plant",
+    "uid": "7320f13bd3332557",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 394.36,
+    "end": 399.4
+  },
+  {
+    "text": "and they selected for this non-shattering wheat,",
+    "uid": "bad499f92b9dabcf",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 399.4,
+    "end": 402.48
+  },
+  {
+    "text": "which then allowed the rise of agriculture.",
+    "uid": "f1c6bdf145e628d0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 402.48,
+    "end": 406.64
+  },
+  {
+    "text": "In addition to wheat, we also, for about 4,000 years ago,",
+    "uid": "efbeb01c08261220",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 406.64,
+    "end": 413.96
+  },
+  {
+    "text": "was the rise of domesticated fruit and nuts.",
+    "uid": "871b7ecf41d401a0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 413.96,
+    "end": 417.52
+  },
+  {
+    "text": "So here are some almonds.",
+    "uid": "ccb29619bfd15227",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 417.52,
+    "end": 418.88
+  },
+  {
+    "text": "If you would like an almond, we'll free to have some.",
+    "uid": "bafa29b85dd8e6ad",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 418.88,
+    "end": 422.56
+  },
+  {
+    "text": "You guys want some almonds?",
+    "uid": "e9efe753bf958441",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 422.56,
+    "end": 423.6
+  },
+  {
+    "text": "If you have a nut allergy, don't eat them.",
+    "uid": "e65940113de1dc52",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 424.44,
+    "end": 428.46
+  },
+  {
+    "text": "So wild almonds.",
+    "uid": "ee702dc013d2876f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 430.06,
+    "end": 433.1
+  },
+  {
+    "text": "When you chew them, there's an enzymatic reaction that",
+    "uid": "e2cb78f83729c44d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 433.1,
+    "end": 436.1
+  },
+  {
+    "text": "results in cyanide forming.",
+    "uid": "a70c189e1cf77ce8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 436.1,
+    "end": 439.82
+  },
+  {
+    "text": "Rachel, just stop chewing.",
+    "uid": "d4c01ad67a09b1cc",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 439.82,
+    "end": 442.78
+  },
+  {
+    "text": "These are almonds that are harvested at trader jose.",
+    "uid": "49cefed9e8fe8587",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 443.58,
+    "end": 446.94
+  },
+  {
+    "text": "So you're safe.",
+    "uid": "d399d1f80685631c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 446.94,
+    "end": 449.42
+  },
+  {
+    "text": "And so the wild almonds, obviously, we're not compatible",
+    "uid": "6dd540fa627abcaa",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 449.42,
+    "end": 454.26
+  },
+  {
+    "text": "But 4,000 years ago, humans, again,",
+    "uid": "583815a18f09b7bb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 456.14,
+    "end": 459.02
+  },
+  {
+    "text": "selected for a form of the almond, which involved just",
+    "uid": "f2156199671a8639",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 459.02,
+    "end": 462.42
+  },
+  {
+    "text": "a single gene, which was non-bitter and known as a sweet almond,",
+    "uid": "1de8536c885c721a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 462.42,
+    "end": 466.38
+  },
+  {
+    "text": "which was also not toxic.",
+    "uid": "9a15f3b19ad60f48",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 466.38,
+    "end": 468.98
+  },
+  {
+    "text": "So this doesn't just go for foods, but also for clothing.",
+    "uid": "ffc305c45104ff9d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 470.26,
+    "end": 474.74
+  },
+  {
+    "text": "So humans have selected for a cotton with long lint.",
+    "uid": "56a8322a83de8211",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 474.74,
+    "end": 478.58
+  },
+  {
+    "text": "And that's served as a basis for clothing and allowing us",
+    "uid": "e695d5b7b8e40d2c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 478.58,
+    "end": 484.54
+  },
+  {
+    "text": "to have fabric.",
+    "uid": "c85ac8d3b11b5113",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 484.54,
+    "end": 485.98
+  },
+  {
+    "text": "And I just want to end with a little story",
+    "uid": "e000dcc3acc97066",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 485.98,
+    "end": 488.06
+  },
+  {
+    "text": "about the almond, which is part of the archeological evidence",
+    "uid": "045292afee3dfd9a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 488.06,
+    "end": 492.5
+  },
+  {
+    "text": "for when almonds were domesticated, was when King Tut's",
+    "uid": "1239b71ac361ffec",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 492.5,
+    "end": 496.34
+  },
+  {
+    "text": "tomb was unearthed.",
+    "uid": "ab2db7cd95c9d616",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 496.34,
+    "end": 498.22
+  },
+  {
+    "text": "And they found a pile of almonds next to the tomb,",
+    "uid": "56e8be9f2ad91205",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 498.22,
+    "end": 500.74
+  },
+  {
+    "text": "because the Egyptian culture, what they did,",
+    "uid": "018baf1ce94edeb3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 500.74,
+    "end": 504.5
+  },
+  {
+    "text": "is they buried the dead with food to sustain them in the afterlife.",
+    "uid": "2991379958c51259",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 504.5,
+    "end": 510.14
+  },
+  {
+    "text": "So that just gives you an idea as how far back",
+    "uid": "f34057e299c6a94c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 510.14,
+    "end": 513.1
+  },
+  {
+    "text": "sort of the importance of genetics goes.",
+    "uid": "abb618c562b979f4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 513.1,
+    "end": 516.22
+  },
+  {
+    "text": "If we think about nowadays, right?",
+    "uid": "ced9bd1860dce8d3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 516.22,
+    "end": 518.38
+  },
+  {
+    "text": "Now you are always seeing genetics in the news.",
+    "uid": "4d4cc526188ca090",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 518.38,
+    "end": 523.06
+  },
+  {
+    "text": "And you also have the opportunity yourself to sort",
+    "uid": "a17d0e372aa587a3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 523.06,
+    "end": 527.38
+  },
+  {
+    "text": "of do your own genetic experiment.",
+    "uid": "553f485e4b2f470f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 527.38,
+    "end": 530.54
+  },
+  {
+    "text": "And so now you guys are undoubtedly aware of all these companies",
+    "uid": "c8a7acbd8faec862",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 530.54,
+    "end": 535.94
+  },
+  {
+    "text": "that want you to send them their DNA, and they also want you",
+    "uid": "cd7c4520d4f618ec",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 535.94,
+    "end": 539.02
+  },
+  {
+    "text": "to send them money, such that they can give you information",
+    "uid": "d195617e12eaa179",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 539.02,
+    "end": 543.1
+  },
+  {
+    "text": "about your family tree, and also information",
+    "uid": "328af27eb88c3322",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 543.1,
+    "end": 547.5
+  },
+  {
+    "text": "about your health.",
+    "uid": "94ae4ea4ff3f1b81",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 547.5,
+    "end": 550.14
+  },
+  {
+    "text": "And so this is now a big business, but if you don't understand genetics,",
+    "uid": "00e6ce818da631bf",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 550.14,
+    "end": 555.34
+  },
+  {
+    "text": "this is not as useful as it could be.",
+    "uid": "184cd702ea1500e9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 555.34,
+    "end": 559.9
+  },
+  {
+    "text": "So I'm just curious, how many people here",
+    "uid": "113be0990aa6d05e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 559.9,
+    "end": 562.54
+  },
+  {
+    "text": "have used one of these services and had their DNA genotype?",
+    "uid": "471f47950c9deb7c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 562.54,
+    "end": 566.9
+  },
+  {
+    "text": "Well, and do you think that that really",
+    "uid": "9a8b515da6a1c5e5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 566.9,
+    "end": 569.82
+  },
+  {
+    "text": "changed your view of who you are or was it kind of...",
+    "uid": "7fe3dec81a4b965d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 569.82,
+    "end": 574.1
+  },
+  {
+    "text": "Yeah, so you would look at the root gene program",
+    "uid": "9d4b7b129cd2fbec",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 574.1,
+    "end": 577.1
+  },
+  {
+    "text": "for like, it's a very easy...",
+    "uid": "61d50e61e7788a57",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 577.1,
+    "end": 579.9
+  },
+  {
+    "text": "So you're looking for genetic disorders.",
+    "uid": "3fb5dd6ead56b777",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 579.9,
+    "end": 581.86
+  },
+  {
+    "text": "And you don't have to tell me anything about that.",
+    "uid": "00269436a7a25559",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 581.86,
+    "end": 586.22
+  },
+  {
+    "text": "Yeah, so I mean, I have not done this, but my dad has done it,",
+    "uid": "f85f88633c6b2ccd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 586.22,
+    "end": 590.66
+  },
+  {
+    "text": "and he will go find his relatives and bore them with our ancestry.",
+    "uid": "a0f95fd093c1bea2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 590.66,
+    "end": 597.06
+  },
+  {
+    "text": "So this is one example of how genetics is really in play today, right?",
+    "uid": "3bfbd5f0cfbee2cb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 598.18,
+    "end": 603.5
+  },
+  {
+    "text": "And not everyone knows how this works.",
+    "uid": "14652113d14ca2e7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 603.5,
+    "end": 605.3
+  },
+  {
+    "text": "I've had people at Starbucks in the morning come up to me",
+    "uid": "91de8885d3076c4a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 605.3,
+    "end": 608.78
+  },
+  {
+    "text": "with their 23 and B profile and asked me to explain stuff,",
+    "uid": "6c09ee0166335e96",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 608.78,
+    "end": 613.98
+  },
+  {
+    "text": "because they know who I am.",
+    "uid": "7ba9ad82f4a073f3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 613.98,
+    "end": 615.98
+  },
+  {
+    "text": "It's a little awkward.",
+    "uid": "b2ac88b2bfa9de92",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 615.98,
+    "end": 619.02
+  },
+  {
+    "text": "So we can also use genetics for forensics.",
+    "uid": "6660345e327197bb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 619.02,
+    "end": 622.18
+  },
+  {
+    "text": "And so this is kind of...",
+    "uid": "910a7d260b548dc4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 622.18,
+    "end": 625.06
+  },
+  {
+    "text": "I had a lab manager in the lab, and he told me",
+    "uid": "669b417817847acc",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 625.14,
+    "end": 628.42
+  },
+  {
+    "text": "that like people were doing this in like, like senior homes in Florida,",
+    "uid": "3fbba36f82b2b802",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 628.42,
+    "end": 633.18
+  },
+  {
+    "text": "which I thought was kind of funny.",
+    "uid": "2e4d59b66d6724ee",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 633.18,
+    "end": 635.06
+  },
+  {
+    "text": "What I find hilarious about this is the mugshot of the dog, right?",
+    "uid": "a908c672a56f2494",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 635.06,
+    "end": 640.42
+  },
+  {
+    "text": "That dog looks so guilty, right?",
+    "uid": "92a90c24d73961d9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 640.42,
+    "end": 642.74
+  },
+  {
+    "text": "But you can use DNA to...",
+    "uid": "a46f739b302544fe",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 642.74,
+    "end": 645.46
+  },
+  {
+    "text": "You can use DNA to genotype poop.",
+    "uid": "61fbc62a00c6b759",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 645.46,
+    "end": 648.62
+  },
+  {
+    "text": "You can genotype your neighbor's dog.",
+    "uid": "f24ed34c5c061b6f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 648.62,
+    "end": 650.5
+  },
+  {
+    "text": "You can get evidence that they're the one that's like pooping on your lawn,",
+    "uid": "4fdd0308ab06a226",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 650.5,
+    "end": 654.66
+  },
+  {
+    "text": "So that's not so serious example.",
+    "uid": "e0975d9297342a6e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 655.5,
+    "end": 657.9
+  },
+  {
+    "text": "But there are more serious examples of where DNA genotyping is really",
+    "uid": "6a3a70b0adafe397",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 657.9,
+    "end": 664.9
+  },
+  {
+    "text": "having an effect in our society.",
+    "uid": "cc650f12392fd463",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 664.9,
+    "end": 667.1
+  },
+  {
+    "text": "And this is something I mentioned in the intro lecture.",
+    "uid": "762b17e08e290af8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 667.1,
+    "end": 670.3
+  },
+  {
+    "text": "Just this past spring, someone was suspected",
+    "uid": "b5292af4afe3250e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 670.3,
+    "end": 675.46
+  },
+  {
+    "text": "as being the Golden State Killer.",
+    "uid": "814c3fbd1f9cbd5b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 675.46,
+    "end": 678.3
+  },
+  {
+    "text": "This is a cold case.",
+    "uid": "a5f9d3f23b2fbac4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 678.3,
+    "end": 679.66
+  },
+  {
+    "text": "The killing has happened 40 years ago.",
+    "uid": "6a42a8d33e3e3fc6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 679.66,
+    "end": 683.3
+  },
+  {
+    "text": "But the break came from investigators getting DNA from the suspects",
+    "uid": "e1a8ee4c71480595",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 683.3,
+    "end": 689.38
+  },
+  {
+    "text": "relatives to implicate this person in this crime.",
+    "uid": "5a3b2528e5e04da5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 689.38,
+    "end": 694.34
+  },
+  {
+    "text": "So they had DNA from the crime.",
+    "uid": "710a5046da182cb2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 694.34,
+    "end": 696.42
+  },
+  {
+    "text": "And they saw that there were matches to the DNA at the crime",
+    "uid": "d141df3a5fd7d5f6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 696.42,
+    "end": 699.46
+  },
+  {
+    "text": "to certain people.",
+    "uid": "73d139d9cb488c65",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 699.46,
+    "end": 700.46
+  },
+  {
+    "text": "And then they can reconstruct who might be the person in the right place",
+    "uid": "1a727edacb4b4a43",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 700.46,
+    "end": 705.3
+  },
+  {
+    "text": "to commit the crime.",
+    "uid": "400cc7871d60b2d1",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 705.3,
+    "end": 707.34
+  },
+  {
+    "text": "So this is interesting because it also leads to all sorts",
+    "uid": "c0b1b8b69c1df914",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 707.34,
+    "end": 711.46
+  },
+  {
+    "text": "of privacy issues, right?",
+    "uid": "e0f7053a27688b93",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 711.46,
+    "end": 714.02
+  },
+  {
+    "text": "Who's going to gain access to your genotype if you submitted",
+    "uid": "688014a3ab1fa299",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 714.02,
+    "end": 720.46
+  },
+  {
+    "text": "to these companies?",
+    "uid": "0d0cd519cb8d45a2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 720.46,
+    "end": 722.34
+  },
+  {
+    "text": "I mean, this is probably a case where I argue there's probably",
+    "uid": "5909e397e79b15a3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 722.34,
+    "end": 726.3
+  },
+  {
+    "text": "a beneficial result in that you can actually",
+    "uid": "3a098f92de8d3ede",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 726.3,
+    "end": 729.38
+  },
+  {
+    "text": "figure out if someone's committed a crime.",
+    "uid": "5675dc5254f9fea3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 729.38,
+    "end": 732.18
+  },
+  {
+    "text": "But there are other issues in terms of thinking",
+    "uid": "b3ef7a52bc010b6f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 732.18,
+    "end": 734.14
+  },
+  {
+    "text": "about insurance companies where we might be interested in having",
+    "uid": "5bf66fa3efb06064",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 734.14,
+    "end": 739.3
+  },
+  {
+    "text": "are sort of information not publicly",
+    "uid": "63aa5157b080eafc",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 739.3,
+    "end": 743.34
+  },
+  {
+    "text": "available to insurance companies.",
+    "uid": "e0156b1ef835a418",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 743.34,
+    "end": 745.34
+  },
+  {
+    "text": "And maybe this is something we can discuss later on in another lecture.",
+    "uid": "317f85c6f7149bbf",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 745.34,
+    "end": 751.54
+  },
+  {
+    "text": "For today, I want to move on and go through really",
+    "uid": "9df6f11ecb090070",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 751.54,
+    "end": 754.22
+  },
+  {
+    "text": "the fundamentals of genetics.",
+    "uid": "f54b812e6076a201",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 754.22,
+    "end": 756.62
+  },
+  {
+    "text": "And what I'm going to do is I'm going to start with the answer.",
+    "uid": "d149a0ee31b04300",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 756.62,
+    "end": 760.34
+  },
+  {
+    "text": "I'm going to present to you guys today the physical model",
+    "uid": "7ed68eaf4d4d6454",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 760.34,
+    "end": 764.26
+  },
+  {
+    "text": "for how inheritance happens.",
+    "uid": "3511cef85ea41345",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 764.26,
+    "end": 767.66
+  },
+  {
+    "text": "So today we're going to go over the physical model",
+    "uid": "c2c0bb5702e1d06c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 767.66,
+    "end": 774.75
+  },
+  {
+    "text": "And this physical model involves cell division,",
+    "uid": "9d1390519ae333ba",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 782.02,
+    "end": 785.78
+  },
+  {
+    "text": "which you saw in the last lecture and also in my opening slide.",
+    "uid": "3fd35800feca4cad",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 785.78,
+    "end": 791.26
+  },
+  {
+    "text": "It involves cell division and the physical segregation",
+    "uid": "4716c9867b5a75ff",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 791.26,
+    "end": 795.02
+  },
+  {
+    "text": "of the chromosomes during cell division.",
+    "uid": "e8328a252b815ba5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 795.02,
+    "end": 798.02
+  },
+  {
+    "text": "So also chromosome segregation.",
+    "uid": "fb43b3883c4c33dd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 798.02,
+    "end": 810.79
+  },
+  {
+    "text": "So this is how I'm going to represent chromosomes.",
+    "uid": "40e6acc7b0e01f0a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 811.19,
+    "end": 814.75
+  },
+  {
+    "text": "And I just want to kind of step you through what it all means.",
+    "uid": "4d5e2b146994a895",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 814.75,
+    "end": 820.19
+  },
+  {
+    "text": "So I kind of have these two arms that are attached",
+    "uid": "2597d9e0b319d389",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 820.19,
+    "end": 824.51
+  },
+  {
+    "text": "to the central circle.",
+    "uid": "4879a2b31b14ef9a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 824.51,
+    "end": 826.31
+  },
+  {
+    "text": "The circle is meant to represent the center mirror.",
+    "uid": "25f2d7e89a12d8c6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 826.31,
+    "end": 830.43
+  },
+  {
+    "text": "So this is the center mirror.",
+    "uid": "b2e1b8379cddbdbb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 830.43,
+    "end": 833.59
+  },
+  {
+    "text": "And you'll remember from the last lecture on Monday,",
+    "uid": "589fc5325839372d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 833.59,
+    "end": 836.67
+  },
+  {
+    "text": "the center mirror is the piece of the chromosome",
+    "uid": "6ca53bd354473f9f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 836.67,
+    "end": 840.11
+  },
+  {
+    "text": "that physically is attached to the microtubules",
+    "uid": "ba665f4ae2d15d75",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 840.11,
+    "end": 843.75
+  },
+  {
+    "text": "that are going to pull the chromosomes to separate poles.",
+    "uid": "60e95b0778b7b2bf",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 843.75,
+    "end": 846.71
+  },
+  {
+    "text": "So that's called the center mirror.",
+    "uid": "e982f3b03822365c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 849.27,
+    "end": 851.43
+  },
+  {
+    "text": "And usually it's denoted like a constriction",
+    "uid": "05b9ccd1aea3d473",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 851.43,
+    "end": 853.79
+  },
+  {
+    "text": "in the chromosome or a little circle.",
+    "uid": "5c6c8895d03760f5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 853.79,
+    "end": 856.67
+  },
+  {
+    "text": "These other parts of the chromosome are the arms,",
+    "uid": "f2993009a28946b5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 856.67,
+    "end": 860.79
+  },
+  {
+    "text": "so that you have the arms of the chromosome.",
+    "uid": "6e8733da1b819fbb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 860.79,
+    "end": 863.23
+  },
+  {
+    "text": "Now I'm drawing what's known as a metacentric chromosome.",
+    "uid": "7bfb1b441e6d6221",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 863.23,
+    "end": 866.27
+  },
+  {
+    "text": "It's not important that you know that term,",
+    "uid": "fba4f0db28b91a24",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 866.27,
+    "end": 868.03
+  },
+  {
+    "text": "but it just means the center mirror is in the middle of the chromosome.",
+    "uid": "d4c4c07861fda520",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 868.03,
+    "end": 871.63
+  },
+  {
+    "text": "There are other types of chromosomes where the center mirror",
+    "uid": "9c5e21104bce0ce5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 871.63,
+    "end": 873.91
+  },
+  {
+    "text": "might be at the end.",
+    "uid": "808df7dcb9f33360",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 873.91,
+    "end": 876.15
+  },
+  {
+    "text": "So there are different types of chromosomes.",
+    "uid": "8440bce956e27b11",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 876.15,
+    "end": 879.51
+  },
+  {
+    "text": "Now for all of us, we have cells that have different numbers",
+    "uid": "f8b616ba57184ed5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 879.79,
+    "end": 884.99
+  },
+  {
+    "text": "Some of our cells are what is known as haploid.",
+    "uid": "5cb0df0fd0e311e2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 887.75,
+    "end": 894.23
+  },
+  {
+    "text": "And what I mean by haploid is there",
+    "uid": "a51ef02f8f0b90ca",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 894.23,
+    "end": 896.51
+  },
+  {
+    "text": "is a single set of chromosomes.",
+    "uid": "13f7dc7eab37338b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 896.51,
+    "end": 905.05
+  },
+  {
+    "text": "Now the cells that we have that are haploid are gametes,",
+    "uid": "85e9d0fe41717130",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 905.05,
+    "end": 909.61
+  },
+  {
+    "text": "so there are eggs in our sperm cells.",
+    "uid": "6e7a5bca3f31ac3c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 909.61,
+    "end": 912.61
+  },
+  {
+    "text": "So these include gametes.",
+    "uid": "2f9319a508d1e3aa",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 912.61,
+    "end": 919.93
+  },
+  {
+    "text": "But most of the cells in your body are what is known as diploid.",
+    "uid": "b6c97bfb2932c3f8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 919.93,
+    "end": 930.19
+  },
+  {
+    "text": "And diploid means there's two complete sets of chromosomes.",
+    "uid": "82a73ab5c23ea24d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 930.19,
+    "end": 945.45
+  },
+  {
+    "text": "And you get one set from one parent, the other set",
+    "uid": "6aaf3c882f9c9aba",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 945.81,
+    "end": 948.49
+  },
+  {
+    "text": "from the other parent.",
+    "uid": "cca0157dc8aa2619",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 948.49,
+    "end": 950.77
+  },
+  {
+    "text": "So one set from each parent.",
+    "uid": "1340edc26a1b9879",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 950.77,
+    "end": 960.13
+  },
+  {
+    "text": "I'll draw the other set like this.",
+    "uid": "86f186bf17e2cb76",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 960.97,
+    "end": 965.41
+  },
+  {
+    "text": "And what I'll do is I'll just sort of shade in this one,",
+    "uid": "8c519f96d89d04b6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 965.41,
+    "end": 969.41
+  },
+  {
+    "text": "this one to denote that it's different.",
+    "uid": "685c15f60ef1e1dd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 969.41,
+    "end": 973.05
+  },
+  {
+    "text": "So these two chromosomes then are what is known as haplogus.",
+    "uid": "a85989acea2bbf47",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 973.05,
+    "end": 979.13
+  },
+  {
+    "text": "They're haplogus chromosomes.",
+    "uid": "43e79b5d585222dd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 979.13,
+    "end": 981.97
+  },
+  {
+    "text": "And what I mean by them being haplogus",
+    "uid": "51feeedbd668b3fe",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 987.38,
+    "end": 996.23
+  },
+  {
+    "text": "is that basically these two chromosomes",
+    "uid": "5a412ac15751f155",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 996.23,
+    "end": 999.07
+  },
+  {
+    "text": "have the same set of genes.",
+    "uid": "8a1bb24b3db071e2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 999.07,
+    "end": 1002.27
+  },
+  {
+    "text": "So they have the same genes.",
+    "uid": "e0892c769c72cc70",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1002.55,
+    "end": 1008.83
+  },
+  {
+    "text": "They have the same genes, but they have different variants",
+    "uid": "76ebcce94499441d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1008.83,
+    "end": 1012.47
+  },
+  {
+    "text": "of those genes.",
+    "uid": "e2115739548a68f9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1012.47,
+    "end": 1014.63
+  },
+  {
+    "text": "So different variants of these genes.",
+    "uid": "6275e2f55015dc5e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1014.63,
+    "end": 1023.19
+  },
+  {
+    "text": "And these variants are referred to as alleles.",
+    "uid": "091925fef008e9ca",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1023.19,
+    "end": 1029.14
+  },
+  {
+    "text": "So if you have the same gene, but they differ slightly",
+    "uid": "722d7f94881c933d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1029.14,
+    "end": 1032.34
+  },
+  {
+    "text": "in their nucleic acid sequence, then there",
+    "uid": "912dae77c1597428",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1032.34,
+    "end": 1036.58
+  },
+  {
+    "text": "are distinct alleles of those genes.",
+    "uid": "9bf79e5529cb0700",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1036.58,
+    "end": 1041.43
+  },
+  {
+    "text": "So often, the way geneticists refer to these different variants",
+    "uid": "feb65a9f32be976d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1041.43,
+    "end": 1046.23
+  },
+  {
+    "text": "or alleles is we use a capital letter and a lowercase letter.",
+    "uid": "2a3628775228ff9f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1046.23,
+    "end": 1051.47
+  },
+  {
+    "text": "So this chromosome over here might have a gene that's a little capital A.",
+    "uid": "4d1ff49bd900b79c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1051.59,
+    "end": 1058.83
+  },
+  {
+    "text": "And then this homologous chromosome",
+    "uid": "2a46684f4bfcf40c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1058.83,
+    "end": 1061.31
+  },
+  {
+    "text": "will have the same gene, but a different alleles,",
+    "uid": "b6bb36cd4d9ccaa5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1061.31,
+    "end": 1063.75
+  },
+  {
+    "text": "which I'll denote lowercase A. OK.",
+    "uid": "171ee801831b5c52",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1063.75,
+    "end": 1067.55
+  },
+  {
+    "text": "So in this case, big A and little A are different alleles",
+    "uid": "3bfdd95a5158b94e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1067.55,
+    "end": 1072.67
+  },
+  {
+    "text": "of the same gene.",
+    "uid": "674d6b77ec9df0b3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1072.67,
+    "end": 1074.15
+  },
+  {
+    "text": "They might produce a slightly different protein,",
+    "uid": "145808272fb63042",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1074.15,
+    "end": 1077.91
+  },
+  {
+    "text": "which would result possibly in a different phenotype.",
+    "uid": "aa69cd07623979a0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1077.91,
+    "end": 1082.63
+  },
+  {
+    "text": "So everyone understand that distinction.",
+    "uid": "43d2be212f7189ea",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1082.63,
+    "end": 1084.99
+  },
+  {
+    "text": "I want to make one point, because this came up last semester",
+    "uid": "623a668f0cf94cd3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1084.99,
+    "end": 1088.75
+  },
+  {
+    "text": "and was one of those cases where I",
+    "uid": "76cedfbbb247925e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1088.75,
+    "end": 1090.55
+  },
+  {
+    "text": "forgot the part about the head.",
+    "uid": "1a18a3c4c28afd2e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1090.55,
+    "end": 1092.95
+  },
+  {
+    "text": "So we often just have two alleles when we sort of teach genetics.",
+    "uid": "397e082343766bec",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1092.95,
+    "end": 1098.23
+  },
+  {
+    "text": "But I hope you can see that because a gene is a long sequence",
+    "uid": "5041a69a09b4c2e1",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1098.23,
+    "end": 1102.27
+  },
+  {
+    "text": "of DNA, there's a ton of different alleles you",
+    "uid": "6ce8253dd9d93182",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1102.27,
+    "end": 1106.11
+  },
+  {
+    "text": "can have within a given gene.",
+    "uid": "0d5201c7bf31f55d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1106.11,
+    "end": 1107.87
+  },
+  {
+    "text": "So one nucleotide difference in that gene",
+    "uid": "576f2839cffd6217",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1107.87,
+    "end": 1110.47
+  },
+  {
+    "text": "would result in a different alleles.",
+    "uid": "1b6881a348c55119",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1110.47,
+    "end": 1113.03
+  },
+  {
+    "text": "So we often refer to two alleles, but there",
+    "uid": "d1fabdca4f72a887",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1113.03,
+    "end": 1115.19
+  },
+  {
+    "text": "can be more than two alleles for a given gene.",
+    "uid": "e1a26f1eb70b0e5f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1115.19,
+    "end": 1119.31
+  },
+  {
+    "text": "Does everyone see how that manifests itself?",
+    "uid": "d9118a9652043dde",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1119.31,
+    "end": 1123.47
+  },
+  {
+    "text": "Any questions up till now?",
+    "uid": "5b8d0233797586ee",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1124.07,
+    "end": 1126.75
+  },
+  {
+    "text": "So when you say that there's more than one in the population.",
+    "uid": "2a3803469fb3d319",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1128.07,
+    "end": 1139.08
+  },
+  {
+    "text": "So Carmen, well, can I have five alleles of a gene?",
+    "uid": "fde096d6aa9ce4c8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1139.08,
+    "end": 1144.96
+  },
+  {
+    "text": "And that's a great question.",
+    "uid": "91ac13e09efbbec7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1144.96,
+    "end": 1146.76
+  },
+  {
+    "text": "And so thank you, Carmen, for asking that.",
+    "uid": "fc559915d8fb4085",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1146.76,
+    "end": 1150.2
+  },
+  {
+    "text": "What I mean is if we consider a population as a whole,",
+    "uid": "f55bffd3eccd9257",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1150.2,
+    "end": 1154.48
+  },
+  {
+    "text": "you have two alleles of each gene, unless it's a gene",
+    "uid": "5214f2e0a1a200a4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1154.48,
+    "end": 1157.88
+  },
+  {
+    "text": "that somehow like duplicated.",
+    "uid": "8792c613ee3e8fd5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1157.88,
+    "end": 1160.32
+  },
+  {
+    "text": "And so when we're considering the population,",
+    "uid": "da874251ee29f370",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1160.32,
+    "end": 1163.6
+  },
+  {
+    "text": "there can be more than, right?",
+    "uid": "897f0b41539cfa9f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1163.6,
+    "end": 1165.32
+  },
+  {
+    "text": "I mean, right, I see we have people with a hair color",
+    "uid": "9d2b4fe99c54259c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1165.32,
+    "end": 1169.28
+  },
+  {
+    "text": "is not a monogenic trait, but we have people with black care,",
+    "uid": "2f23ba0dded7c4a5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1169.28,
+    "end": 1172.08
+  },
+  {
+    "text": "with blonde hair, with brown hair, there's more",
+    "uid": "bc9932e332c9f4df",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1172.08,
+    "end": 1175.12
+  },
+  {
+    "text": "than just like two possible sort of alleles",
+    "uid": "0948adb1841cb1b3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1175.12,
+    "end": 1179.0
+  },
+  {
+    "text": "with possible phenotypes.",
+    "uid": "250716c759b47ecd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1179.0,
+    "end": 1180.56
+  },
+  {
+    "text": "Let's go up with this.",
+    "uid": "c8da44262b14f451",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1184.34,
+    "end": 1186.94
+  },
+  {
+    "text": "All right, now I want to start at the beginning where,",
+    "uid": "8aaf1577b24ff694",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1186.94,
+    "end": 1192.13
+  },
+  {
+    "text": "so most of our cells are diploid, and the origin of our first",
+    "uid": "92ac92a194f0e5c4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1192.13,
+    "end": 1198.65
+  },
+  {
+    "text": "diploid cell is from the union of two gametes.",
+    "uid": "e3350b8c5b9abdd0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1198.65,
+    "end": 1202.09
+  },
+  {
+    "text": "So I'm going to draw two gametes here, each is one in.",
+    "uid": "49206f9c8fa9965f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1205.37,
+    "end": 1211.62
+  },
+  {
+    "text": "And I'm just going to draw one set of chromosomes",
+    "uid": "c0d8956d8fd413ab",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1211.62,
+    "end": 1213.94
+  },
+  {
+    "text": "for this here.",
+    "uid": "05f251c2cbb3349d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1213.94,
+    "end": 1216.22
+  },
+  {
+    "text": "So we might have a male gamete, and a female gamete.",
+    "uid": "63f86f9eb9527f8f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1216.22,
+    "end": 1227.15
+  },
+  {
+    "text": "And what I'm referring to when I say n here, n is basically",
+    "uid": "2aa090a9f947b6fa",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1227.15,
+    "end": 1235.67
+  },
+  {
+    "text": "referring to the number of chromosomes, number of chromosomes,",
+    "uid": "4fce97e01e5902cf",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1235.67,
+    "end": 1243.15
+  },
+  {
+    "text": "per haploid genome, per haploid genome.",
+    "uid": "5c8af1e01d79f93c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1243.15,
+    "end": 1254.3
+  },
+  {
+    "text": "So when you have one n, it means you're haploid,",
+    "uid": "7a0c8d71deda4285",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1254.3,
+    "end": 1257.14
+  },
+  {
+    "text": "because you have only one set of haploid genome.",
+    "uid": "88b7dd81d3d5ab98",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1257.14,
+    "end": 1262.99
+  },
+  {
+    "text": "But early in your life, we're all the result of a fusion",
+    "uid": "54f234506eafdcc3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1262.99,
+    "end": 1268.79
+  },
+  {
+    "text": "between a male and female gamete.",
+    "uid": "5eb1e6204b45d05f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1268.79,
+    "end": 1271.39
+  },
+  {
+    "text": "And so that creates a diploid cell.",
+    "uid": "856abd0d719d91a8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1271.39,
+    "end": 1274.91
+  },
+  {
+    "text": "So now this diploid, zygote.",
+    "uid": "77942c2f4c42228e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1274.91,
+    "end": 1280.71
+  },
+  {
+    "text": "So this is referred to as the zygote.",
+    "uid": "fa487d1a509268de",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1280.71,
+    "end": 1284.86
+  },
+  {
+    "text": "It's diploid, and now has a set of homologous chromosomes.",
+    "uid": "693d76813c134040",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1284.86,
+    "end": 1290.46
+  },
+  {
+    "text": "So I'm only drawing one set of homologous chromosomes here.",
+    "uid": "70b50499c163992e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1290.46,
+    "end": 1296.93
+  },
+  {
+    "text": "So on the board, I'm going to stick to just one,",
+    "uid": "ccd9c593de1959a7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1296.93,
+    "end": 1299.13
+  },
+  {
+    "text": "so I don't have to draw them all out.",
+    "uid": "7ae77ca5d6fa3f73",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1299.13,
+    "end": 1301.17
+  },
+  {
+    "text": "In the slides, I have three.",
+    "uid": "588fc68b85f3d59f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1301.17,
+    "end": 1304.77
+  },
+  {
+    "text": "So each of these represents a chromosome.",
+    "uid": "dff1222b5005ca54",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1304.77,
+    "end": 1308.13
+  },
+  {
+    "text": "These are different chromosomes.",
+    "uid": "564d72c220ca5b3e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1308.13,
+    "end": 1310.21
+  },
+  {
+    "text": "Different chromosomes are either different color,",
+    "uid": "51e27969328e5dcc",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1310.21,
+    "end": 1312.69
+  },
+  {
+    "text": "or have a different sort of center mirror position.",
+    "uid": "b287cda196a281da",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1312.69,
+    "end": 1316.89
+  },
+  {
+    "text": "And then these down here that are colored",
+    "uid": "507582d48a9b4b33",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1316.89,
+    "end": 1319.73
+  },
+  {
+    "text": "are going to be the homologous chromosomes.",
+    "uid": "957fd1018900ef6f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1319.73,
+    "end": 1322.57
+  },
+  {
+    "text": "You see how I'm representing this?",
+    "uid": "484e3035ed34f76b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1322.57,
+    "end": 1326.82
+  },
+  {
+    "text": "So once you have the zygote, right?",
+    "uid": "f753d86b33c61513",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1328.42,
+    "end": 1332.06
+  },
+  {
+    "text": "So you guys are no longer one cell.",
+    "uid": "081bee95d6a7e431",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1332.06,
+    "end": 1336.5
+  },
+  {
+    "text": "You guys each are tens of trillions of cells.",
+    "uid": "5725deaed0562960",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1336.5,
+    "end": 1339.7
+  },
+  {
+    "text": "So this zygote had to reproduce itself,",
+    "uid": "3558d479080fdcb9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1339.7,
+    "end": 1345.58
+  },
+  {
+    "text": "and your cells had to divide so that you",
+    "uid": "41f48f3e0f5eea7b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1345.58,
+    "end": 1347.9
+  },
+  {
+    "text": "grew into an entire multicellular organism quickly, right?",
+    "uid": "e660de3b91da28a4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1347.9,
+    "end": 1359.08
+  },
+  {
+    "text": "So when most of your cells divide, and most of your cells are known as",
+    "uid": "0b78c5010d20c948",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1359.44,
+    "end": 1363.76
+  },
+  {
+    "text": "somatic cells, when cells of your body or your intestine",
+    "uid": "065e453e1ca49535",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1363.76,
+    "end": 1372.96
+  },
+  {
+    "text": "and your skin, when they divide, they genetically",
+    "uid": "50e1604d35f8d4a0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1372.96,
+    "end": 1376.68
+  },
+  {
+    "text": "replicate themselves, and they're undergoing a type of cell",
+    "uid": "d33b7ae4147e3cd6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1376.68,
+    "end": 1380.24
+  },
+  {
+    "text": "division known as mitosis.",
+    "uid": "c1983881c235926f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1380.24,
+    "end": 1386.06
+  },
+  {
+    "text": "In mitosis, in mitosis, it's essentially a cloning of a cell,",
+    "uid": "bcfe2bb17bd8b2ad",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1386.06,
+    "end": 1395.26
+  },
+  {
+    "text": "or ideally it's the cloning of a cell.",
+    "uid": "e41914473eb742b6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1395.26,
+    "end": 1398.5
+  },
+  {
+    "text": "So you have a diploid cell.",
+    "uid": "44d00500521afa80",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1398.5,
+    "end": 1401.02
+  },
+  {
+    "text": "It has to undergo DNA replication.",
+    "uid": "6cc3322930dedaf2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1401.02,
+    "end": 1409.94
+  },
+  {
+    "text": "And when a chromosome undergoes DNA replication,",
+    "uid": "7f140731cdfa70b8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1409.94,
+    "end": 1414.34
+  },
+  {
+    "text": "it will during mitosis look like this.",
+    "uid": "180b0e0e54388344",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1414.34,
+    "end": 1419.18
+  },
+  {
+    "text": "And these two different sort of arms or strands,",
+    "uid": "c3511e5e2b984064",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1419.18,
+    "end": 1424.38
+  },
+  {
+    "text": "they're known as sister chromatids.",
+    "uid": "333569119353dabb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1424.38,
+    "end": 1426.46
+  },
+  {
+    "text": "So that's just another term you should know.",
+    "uid": "17795c894a87f44f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1426.46,
+    "end": 1429.42
+  },
+  {
+    "text": "These are sister chromatids.",
+    "uid": "cd48a636fbfd77f0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1429.42,
+    "end": 1434.34
+  },
+  {
+    "text": "And the sister chromatids, if DNA replication happened",
+    "uid": "a8ec052397acfcf3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1434.34,
+    "end": 1438.58
+  },
+  {
+    "text": "without any errors, should be exactly the same",
+    "uid": "8f2426c63a519ec1",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1438.58,
+    "end": 1443.26
+  },
+  {
+    "text": "as each other in terms of nucleotide sequence.",
+    "uid": "c64516b777986016",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1443.26,
+    "end": 1448.98
+  },
+  {
+    "text": "So after DNA replication, essentially",
+    "uid": "b6a58250920f2d35",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1448.98,
+    "end": 1452.54
+  },
+  {
+    "text": "have four times the amount of DNA is a half-loid cell.",
+    "uid": "e58ad4168a407946",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1452.54,
+    "end": 1461.42
+  },
+  {
+    "text": "And it will split into two cells.",
+    "uid": "c8cc26b01d4be1ee",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1461.42,
+    "end": 1464.7
+  },
+  {
+    "text": "And again, they'll both be diploid.",
+    "uid": "94569a2973112f11",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1464.7,
+    "end": 1469.78
+  },
+  {
+    "text": "And I'll just point out if we're thinking about our pair of chromosomes",
+    "uid": "300701bad7c5d13d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1469.78,
+    "end": 1472.86
+  },
+  {
+    "text": "Each of this parent cell has both homologues.",
+    "uid": "09416ceb1b351688",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1474.78,
+    "end": 1480.14
+  },
+  {
+    "text": "And the daughter cells, because they should be genetically",
+    "uid": "2bc1fbfd3de5b2b6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1480.14,
+    "end": 1483.06
+  },
+  {
+    "text": "identical, also have both homologues.",
+    "uid": "d711919528ed1951",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1483.06,
+    "end": 1490.81
+  },
+  {
+    "text": "So that's an example with just one chromosome.",
+    "uid": "7b0c46a27b990553",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1490.81,
+    "end": 1493.57
+  },
+  {
+    "text": "I'll take you through an example with these three chromosomes",
+    "uid": "54d27756d257bf3a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1493.57,
+    "end": 1498.77
+  },
+  {
+    "text": "here, old six chromosomes.",
+    "uid": "035708c9e0178140",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1498.77,
+    "end": 1501.77
+  },
+  {
+    "text": "So these are homologues.",
+    "uid": "d660d16db72daf34",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1501.77,
+    "end": 1503.97
+  },
+  {
+    "text": "These are homologues.",
+    "uid": "9e166eb8f75e9ec9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1503.97,
+    "end": 1505.09
+  },
+  {
+    "text": "These are homologues.",
+    "uid": "a0dfe7205b3871e5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1505.09,
+    "end": 1506.61
+  },
+  {
+    "text": "And during mitosis, all of these chromosomes initially",
+    "uid": "cdada1a257827ba0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1506.61,
+    "end": 1513.37
+  },
+  {
+    "text": "are all over the nucleus.",
+    "uid": "d6860269fc05175c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1513.37,
+    "end": 1515.77
+  },
+  {
+    "text": "But during mitosis, they will align along the equator",
+    "uid": "2979b3137620cb47",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1515.77,
+    "end": 1519.73
+  },
+  {
+    "text": "of the cell and what is known as the metaphase plate.",
+    "uid": "fd03bf2bf7fec0b5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1519.73,
+    "end": 1523.21
+  },
+  {
+    "text": "Metaphase is just a fancy term for one particular stage",
+    "uid": "a68fec4041a60f1d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1523.21,
+    "end": 1527.69
+  },
+  {
+    "text": "in the mitotic cycle.",
+    "uid": "4f0ee39670594fc6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1527.69,
+    "end": 1529.65
+  },
+  {
+    "text": "So then what will happen is the spindle will attach",
+    "uid": "41a1f18c7acc39f2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1529.65,
+    "end": 1535.13
+  },
+  {
+    "text": "to either one side or the other side of these chromosomes.",
+    "uid": "07836c9eae520ffd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1535.13,
+    "end": 1540.21
+  },
+  {
+    "text": "And it will physically segregate them into different cells.",
+    "uid": "3ac05861393e4c1b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1540.21,
+    "end": 1545.41
+  },
+  {
+    "text": "And what I hope you see here is that this has six chromosomes,",
+    "uid": "89b4e0dc881a9b8f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1545.41,
+    "end": 1550.25
+  },
+  {
+    "text": "this has six chromosomes.",
+    "uid": "940d97c6e1e93a20",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1550.25,
+    "end": 1552.01
+  },
+  {
+    "text": "And these two daughter cells are genetically identical to the parent cell.",
+    "uid": "abd46d7b6fa4fa3c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1552.01,
+    "end": 1557.97
+  },
+  {
+    "text": "So this is known as an equasional division",
+    "uid": "a9142ef66751da1c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1557.97,
+    "end": 1561.05
+  },
+  {
+    "text": "because it's totally equal.",
+    "uid": "291042f48cb257ca",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1561.05,
+    "end": 1565.45
+  },
+  {
+    "text": "And again, the daughter cells are both deployed.",
+    "uid": "e4da1c24cb060892",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1565.45,
+    "end": 1570.21
+  },
+  {
+    "text": "So that's my tosis.",
+    "uid": "550724784347e1f2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1570.21,
+    "end": 1572.01
+  },
+  {
+    "text": "Any questions about my tosis?",
+    "uid": "13517ed37cbd664c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1572.01,
+    "end": 1576.53
+  },
+  {
+    "text": "Moving on, we're going to talk now about another type of cell.",
+    "uid": "99f76b9a87f7e032",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1577.37,
+    "end": 1582.57
+  },
+  {
+    "text": "And these are your germ cells.",
+    "uid": "29effcf5625e1dea",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1582.57,
+    "end": 1586.61
+  },
+  {
+    "text": "And these germ cells undergo an alternative form",
+    "uid": "09462e529f6b12e8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1586.61,
+    "end": 1589.77
+  },
+  {
+    "text": "of cell division known as myosis.",
+    "uid": "559556e80a591913",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1589.77,
+    "end": 1593.77
+  },
+  {
+    "text": "And your germ cells produce your egg and sperm.",
+    "uid": "0c856ccbb4826b06",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1593.77,
+    "end": 1598.73
+  },
+  {
+    "text": "And so myosis essentially is producing gametes",
+    "uid": "5a687b88a9293e79",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1598.73,
+    "end": 1604.69
+  },
+  {
+    "text": "such as egg and sperm cells.",
+    "uid": "db509052729e25ec",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1604.69,
+    "end": 1612.94
+  },
+  {
+    "text": "So what's the final product going to be?",
+    "uid": "8470301ec649e9a1",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1612.98,
+    "end": 1616.46
+  },
+  {
+    "text": "How, what should be the genomic content of the final product",
+    "uid": "4c1e577374798cfd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1616.46,
+    "end": 1620.66
+  },
+  {
+    "text": "It should be one end, right?",
+    "uid": "a3a10c0fa69219d8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1624.18,
+    "end": 1626.38
+  },
+  {
+    "text": "Who said that?",
+    "uid": "cee9f86aa7806dd2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1626.38,
+    "end": 1627.1
+  },
+  {
+    "text": "Yeah, exactly right.",
+    "uid": "786ded6185aa5f30",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1628.62,
+    "end": 1629.42
+  },
+  {
+    "text": "What's your name?",
+    "uid": "fa875ed547c7e7f6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1629.42,
+    "end": 1630.7
+  },
+  {
+    "text": "So Jeremy's exactly right.",
+    "uid": "7d91218d7c548ac7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1631.22,
+    "end": 1633.42
+  },
+  {
+    "text": "The germ cells in order to reproduce,",
+    "uid": "f5b12e89720fdba8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1633.42,
+    "end": 1636.54
+  },
+  {
+    "text": "actually they should be haploid cells, right,",
+    "uid": "0801f3f0a72b12ef",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1636.54,
+    "end": 1639.06
+  },
+  {
+    "text": "so that they can combine with another haploid to give rise",
+    "uid": "ae4802d4c7c7514c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1639.06,
+    "end": 1642.34
+  },
+  {
+    "text": "to a diploid.",
+    "uid": "c600a25712ecdd78",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1642.34,
+    "end": 1644.38
+  },
+  {
+    "text": "So the ultimate result that we want is to have cells",
+    "uid": "8c070195915cbe71",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1644.38,
+    "end": 1649.18
+  },
+  {
+    "text": "that are one end, but most of our cells",
+    "uid": "eab556f85b3e89e8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1649.18,
+    "end": 1653.14
+  },
+  {
+    "text": "to start out with are diploid, so they're two end.",
+    "uid": "9c54d2078bd3bcc7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1653.14,
+    "end": 1661.61
+  },
+  {
+    "text": "So what's special about myosis is you're not just",
+    "uid": "95cc5a329399ca96",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1661.61,
+    "end": 1664.77
+  },
+  {
+    "text": "going from two end to two end, but you're",
+    "uid": "1241df4f8d2f08b7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1664.77,
+    "end": 1667.17
+  },
+  {
+    "text": "reducing the genetic content of the cells.",
+    "uid": "9fc3286bba490607",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1667.17,
+    "end": 1669.61
+  },
+  {
+    "text": "You're going from two end to a one end content.",
+    "uid": "a401e6b9b9e2eef6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1669.61,
+    "end": 1675.65
+  },
+  {
+    "text": "So again, myosis starts with DNA replication,",
+    "uid": "b8f6fc9c5fdc6c92",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1675.65,
+    "end": 1686.28
+  },
+  {
+    "text": "but in this case the first division, which is myosis 1,",
+    "uid": "42fada631f44f888",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1686.28,
+    "end": 1692.28
+  },
+  {
+    "text": "is not equal, and it actually segregates the homologues,",
+    "uid": "c558798797ae3e43",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1692.28,
+    "end": 1696.8
+  },
+  {
+    "text": "such that you get one cell that has one of the homologues",
+    "uid": "6339d8b3b34fcec8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1696.8,
+    "end": 1702.0
+  },
+  {
+    "text": "duplicated and another cell that has the other homolog",
+    "uid": "b40c898aecbab0a3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1702.0,
+    "end": 1705.52
+  },
+  {
+    "text": "And I'll show this, oh, short right now.",
+    "uid": "0984943596f83b35",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1713.71,
+    "end": 1720.2
+  },
+  {
+    "text": "So this is the same cell now.",
+    "uid": "3f432643b455541f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1720.2,
+    "end": 1722.16
+  },
+  {
+    "text": "It's undergone DNA replication.",
+    "uid": "76aaed9a5530aab8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1722.16,
+    "end": 1725.16
+  },
+  {
+    "text": "As you can see, each chromosome has two copies.",
+    "uid": "9a9775812c727cb8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1725.16,
+    "end": 1730.2
+  },
+  {
+    "text": "But instead of all the chromosomes lining up",
+    "uid": "ce2aef45db042fe5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1730.2,
+    "end": 1732.68
+  },
+  {
+    "text": "in the same position of the metaphase plate,",
+    "uid": "c4219424278e7dda",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1732.68,
+    "end": 1735.2
+  },
+  {
+    "text": "what you see is that homologues chromosomes",
+    "uid": "254403de65277ab8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1735.2,
+    "end": 1737.64
+  },
+  {
+    "text": "pair at the metaphase plate.",
+    "uid": "3cd33668c78998ad",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1737.64,
+    "end": 1740.88
+  },
+  {
+    "text": "And what happens here is that the homologues chromosomes",
+    "uid": "15ee5ff2fae5582b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1740.88,
+    "end": 1745.48
+  },
+  {
+    "text": "are separated to different cells.",
+    "uid": "17c7c3cc534307f1",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1745.48,
+    "end": 1748.36
+  },
+  {
+    "text": "And now you have two cells that are not genetically identical.",
+    "uid": "9cc2d1b8cde41cfb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1748.36,
+    "end": 1754.44
+  },
+  {
+    "text": "So because there's not equational,",
+    "uid": "3f2c09ca6b212658",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1754.44,
+    "end": 1758.0
+  },
+  {
+    "text": "and there's a reduction in the genetic material that's",
+    "uid": "ce93707da7c6f0bb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1758.0,
+    "end": 1760.88
+  },
+  {
+    "text": "present in the cells, this is known as a reductional division.",
+    "uid": "75814be565724cbd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1760.88,
+    "end": 1765.92
+  },
+  {
+    "text": "So that's myosis 1.",
+    "uid": "616c7a89897ecb54",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1765.92,
+    "end": 1767.76
+  },
+  {
+    "text": "And that's a reductional division.",
+    "uid": "33462ca0eb9cb9de",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1767.76,
+    "end": 1770.68
+  },
+  {
+    "text": "And then this is not yet haploid.",
+    "uid": "dd16b3f2e7fbb154",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1770.68,
+    "end": 1775.6
+  },
+  {
+    "text": "And so I'll just stick another one in here.",
+    "uid": "3b2008fe87707a85",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1775.6,
+    "end": 1780.96
+  },
+  {
+    "text": "These cells then undergo another round of division,",
+    "uid": "1fea4f73f1a2ba61",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1780.96,
+    "end": 1784.88
+  },
+  {
+    "text": "which is known as myosis 2.",
+    "uid": "dc2c15eb9ce652db",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1784.88,
+    "end": 1790.62
+  },
+  {
+    "text": "And during this myosis, these sister chromatids are separated.",
+    "uid": "e178d67a5a3a51b2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1790.62,
+    "end": 1796.62
+  },
+  {
+    "text": "Such that you're left with 1 chromosome",
+    "uid": "c1342f1c7cf687d7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1796.62,
+    "end": 1803.82
+  },
+  {
+    "text": "and mydrawing at least 1 chromosome per gamete.",
+    "uid": "7faef388216d074d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1803.82,
+    "end": 1809.22
+  },
+  {
+    "text": "So each of these then is 1n.",
+    "uid": "274a8d867c311fc9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1809.22,
+    "end": 1819.31
+  },
+  {
+    "text": "So again, you have the chromosomes, but this time,",
+    "uid": "1788847ab2c81115",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1819.31,
+    "end": 1823.27
+  },
+  {
+    "text": "you have them aligned like in mytoces.",
+    "uid": "1f688a5a54e52c76",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1823.27,
+    "end": 1826.39
+  },
+  {
+    "text": "The sister chromatids are physically separated.",
+    "uid": "7fdd92f00e240ed1",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1828.11,
+    "end": 1830.71
+  },
+  {
+    "text": "And now you see this cell is genetically identical to this cell.",
+    "uid": "87bdae89e3c7f64d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1830.71,
+    "end": 1835.87
+  },
+  {
+    "text": "And this cell here is genetically identical to this cell.",
+    "uid": "03f6360b146ded74",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1835.87,
+    "end": 1839.91
+  },
+  {
+    "text": "So that's myosis 2.",
+    "uid": "0181c269da6e3f9d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1839.91,
+    "end": 1841.91
+  },
+  {
+    "text": "And that's an equasional division, much more like mytoces.",
+    "uid": "629b959e04d292a6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1841.91,
+    "end": 1846.31
+  },
+  {
+    "text": "Because the product of the division of those two cells,",
+    "uid": "9970653e5bb0ab1d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1846.31,
+    "end": 1850.11
+  },
+  {
+    "text": "each of those is equal.",
+    "uid": "9de9a7186617b08b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1850.11,
+    "end": 1852.99
+  },
+  {
+    "text": "And finally, the result of myosis 2 is that you're then",
+    "uid": "090ffd5064523de8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1852.99,
+    "end": 1857.31
+  },
+  {
+    "text": "left with gametes that have a haploid content of their genome.",
+    "uid": "f16d9bd0a09df171",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1857.31,
+    "end": 1865.86
+  },
+  {
+    "text": "OK, I want to end lecture by doing a demonstration.",
+    "uid": "277f637b00895690",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1865.86,
+    "end": 1870.3
+  },
+  {
+    "text": "So this could either be amazing, or it will be a complete disaster.",
+    "uid": "abf8b4f75f64994f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1872.06,
+    "end": 1877.58
+  },
+  {
+    "text": "So we're totally going to do it.",
+    "uid": "bfdae7f971f8e6a0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1877.58,
+    "end": 1879.22
+  },
+  {
+    "text": "So everyone come up.",
+    "uid": "96981c612256a4cf",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1879.22,
+    "end": 1893.83
+  },
+  {
+    "text": "Evelyn, you can leave when you have to go.",
+    "uid": "6848522452a005d6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1906.15,
+    "end": 1909.35
+  },
+  {
+    "text": "And we'll have a chromosome loss event.",
+    "uid": "85ef7d0b4e048024",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1909.35,
+    "end": 1914.58
+  },
+  {
+    "text": "You just have to be a multiple for if we have extra people",
+    "uid": "349279677da86dbd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1914.58,
+    "end": 1921.24
+  },
+  {
+    "text": "they will, and the people can supervise.",
+    "uid": "98c6adfc4a6d8be6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1921.24,
+    "end": 1927.66
+  },
+  {
+    "text": "All right, what do you got here?",
+    "uid": "56d31ceb29096325",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1938.22,
+    "end": 1939.94
+  },
+  {
+    "text": "Here you go, Brett.",
+    "uid": "d4b4f460ce9becd5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1939.94,
+    "end": 1941.1
+  },
+  {
+    "text": "I hope I'm not hitting anybody.",
+    "uid": "b01cc0cb9391b49c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1944.47,
+    "end": 1948.82
+  },
+  {
+    "text": "That's the advantage of these.",
+    "uid": "05413a0208b93118",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1950.1,
+    "end": 1955.3
+  },
+  {
+    "text": "Here you go, miles.",
+    "uid": "eab6069dee1ca106",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1957.58,
+    "end": 1960.43
+  },
+  {
+    "text": "Here you go.",
+    "uid": "3422012749e92b90",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1963.03,
+    "end": 1963.99
+  },
+  {
+    "text": "Someone take this.",
+    "uid": "8bb3e899a074422a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1966.03,
+    "end": 1968.67
+  },
+  {
+    "text": "All right, what do we got here?",
+    "uid": "ca3e2dca24fc7cdb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1968.67,
+    "end": 1973.26
+  },
+  {
+    "text": "We've got a little chromosome here.",
+    "uid": "3d5f168050de352a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1973.26,
+    "end": 1981.55
+  },
+  {
+    "text": "All right, who doesn't have a chromosome?",
+    "uid": "490ff09a3d895fc5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1986.3,
+    "end": 1988.74
+  },
+  {
+    "text": "Everyone in the class has a chromosome?",
+    "uid": "0599293635115103",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1988.74,
+    "end": 1991.94
+  },
+  {
+    "text": "One of you want to come in here?",
+    "uid": "92f1be15257f735a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 1991.94,
+    "end": 2001.91
+  },
+  {
+    "text": "All right, we'll see how constrained we are in terms of space.",
+    "uid": "f614679b85bd7e55",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2001.91,
+    "end": 2005.35
+  },
+  {
+    "text": "I've never been this ambitious and had this many chromosomes before.",
+    "uid": "407140edb8047494",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2005.39,
+    "end": 2009.79
+  },
+  {
+    "text": "So I'm excited to see how this works.",
+    "uid": "6f41c6c227b69cfa",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2009.79,
+    "end": 2012.39
+  },
+  {
+    "text": "So you each have a swim noodle.",
+    "uid": "29f2fe15fa900312",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2012.39,
+    "end": 2015.23
+  },
+  {
+    "text": "They're different colors.",
+    "uid": "e1fcf092a223ead5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2015.23,
+    "end": 2017.03
+  },
+  {
+    "text": "So different colors represent different chromosomes.",
+    "uid": "2cf28e5d073637dd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2017.03,
+    "end": 2021.11
+  },
+  {
+    "text": "And then you also have swim noodles that have tape on them.",
+    "uid": "48276342f847c2d4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2021.11,
+    "end": 2024.91
+  },
+  {
+    "text": "And these represent different alleles from your other chromosome.",
+    "uid": "969a609cf6e0458b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2024.91,
+    "end": 2028.31
+  },
+  {
+    "text": "So these two chromosomes would be homologues of each other.",
+    "uid": "d75a9e76212a6171",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2028.31,
+    "end": 2031.87
+  },
+  {
+    "text": "Does that make sense?",
+    "uid": "d9735b139de02f44",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2033.03,
+    "end": 2034.15
+  },
+  {
+    "text": "Now, the metaphase plate will be kind of along the center of the room.",
+    "uid": "8da334ac8b4c3ed9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2037.39,
+    "end": 2042.63
+  },
+  {
+    "text": "So let's first reenact my toasts.",
+    "uid": "d08573f998f4bad6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2042.63,
+    "end": 2046.11
+  },
+  {
+    "text": "So why don't you guys find your sister chromatid and then sort of a line in the middle of",
+    "uid": "9276de8339cea2d2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2046.11,
+    "end": 2050.83
+  },
+  {
+    "text": "the room here?",
+    "uid": "676ebbb194414e3e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2050.83,
+    "end": 2055.52
+  },
+  {
+    "text": "Sister or brother chromatid?",
+    "uid": "bec3efca8b8cca02",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2055.52,
+    "end": 2064.26
+  },
+  {
+    "text": "How are we doing?",
+    "uid": "3d269bcf97a54adc",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2064.26,
+    "end": 2064.78
+  },
+  {
+    "text": "Do we have enough space there?",
+    "uid": "295fc141e2bda1e8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2064.78,
+    "end": 2066.38
+  },
+  {
+    "text": "It's a little packed.",
+    "uid": "bbd6b5b7ec5be58f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2066.38,
+    "end": 2068.46
+  },
+  {
+    "text": "You can see how the cell can imagine how packed it is",
+    "uid": "8a0875b97cc6f1ec",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2068.46,
+    "end": 2073.66
+  },
+  {
+    "text": "inside a cell.",
+    "uid": "c39973a7c98855c7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2073.66,
+    "end": 2077.04
+  },
+  {
+    "text": "Everyone found their sister chromatid.",
+    "uid": "24e318591ff6acb0",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2077.32,
+    "end": 2080.16
+  },
+  {
+    "text": "Normally, the sister chromatids, they replicate and they get held together.",
+    "uid": "bdfb792e289d063f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2080.16,
+    "end": 2084.0
+  },
+  {
+    "text": "So there's no finding of sister chromatids.",
+    "uid": "f68109fa24834643",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2084.0,
+    "end": 2086.8
+  },
+  {
+    "text": "But all right, great.",
+    "uid": "c24981dd4d681d47",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2086.8,
+    "end": 2089.04
+  },
+  {
+    "text": "We'll see how you guys did.",
+    "uid": "37da9e824a0f7c8f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2091.96,
+    "end": 2100.45
+  },
+  {
+    "text": "And the goal is that you guys would be genetically identical.",
+    "uid": "7d4ecc24a5358e9e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2100.65,
+    "end": 2105.33
+  },
+  {
+    "text": "So how, OK, great.",
+    "uid": "5586a5289599e3c7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2107.13,
+    "end": 2108.65
+  },
+  {
+    "text": "That looks like one short red, one short red.",
+    "uid": "1016cfc23fbb5558",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2108.65,
+    "end": 2112.97
+  },
+  {
+    "text": "They look genetically identical to me.",
+    "uid": "fc461d0f34f245c9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2121.2,
+    "end": 2125.5
+  },
+  {
+    "text": "So that was my toasts.",
+    "uid": "095009a8a6d4a6ae",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2125.86,
+    "end": 2127.66
+  },
+  {
+    "text": "Now we're going to do myosis.",
+    "uid": "ce7f0f51874863be",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2127.66,
+    "end": 2129.14
+  },
+  {
+    "text": "OK, once you guys align, like what would happen during myosis one?",
+    "uid": "42028a8959b27623",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2129.14,
+    "end": 2135.14
+  },
+  {
+    "text": "OK, you guys can come back.",
+    "uid": "2dd49f6e81c5c41b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2135.14,
+    "end": 2138.52
+  },
+  {
+    "text": "Think about who you're going to pair with.",
+    "uid": "a20285587153d1af",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2138.52,
+    "end": 2171.25
+  },
+  {
+    "text": "So what were you looking for when you were pairing?",
+    "uid": "875d187eaec25224",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2171.61,
+    "end": 2173.73
+  },
+  {
+    "text": "Who were you looking for?",
+    "uid": "08810854faef1c45",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2173.73,
+    "end": 2178.49
+  },
+  {
+    "text": "Your homophagus chromosome, right?",
+    "uid": "b2932d53b8338a6c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2178.53,
+    "end": 2180.17
+  },
+  {
+    "text": "All right, once you guys segregate.",
+    "uid": "9f8150a0622ac80d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2182.25,
+    "end": 2192.73
+  },
+  {
+    "text": "So that was myosis one.",
+    "uid": "2a239563b39cf259",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2193.01,
+    "end": 2195.61
+  },
+  {
+    "text": "Myosis one looks successful to me.",
+    "uid": "3d115c09f0342d2c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2195.61,
+    "end": 2200.46
+  },
+  {
+    "text": "And now we have to undergo myosis two.",
+    "uid": "7c93b3676c11809a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2200.46,
+    "end": 2203.14
+  },
+  {
+    "text": "So maybe what we could do is you guys can rotate in the metaphase.",
+    "uid": "b93b4346a25f1ea1",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2203.14,
+    "end": 2206.22
+  },
+  {
+    "text": "Spindle can be sort of in this orientation.",
+    "uid": "c5e00ae66b43caf4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2206.22,
+    "end": 2211.84
+  },
+  {
+    "text": "Well, we want to group over there.",
+    "uid": "d74ce19c59686b51",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2212.2,
+    "end": 2213.76
+  },
+  {
+    "text": "Group over there.",
+    "uid": "ffa5be4a99a55463",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2213.76,
+    "end": 2214.68
+  },
+  {
+    "text": "Group, group, group, group here.",
+    "uid": "4fef20cceba79e6f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2214.68,
+    "end": 2215.92
+  },
+  {
+    "text": "And those will be our four gametes.",
+    "uid": "ba742b3e3f7aacc3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2215.92,
+    "end": 2217.72
+  },
+  {
+    "text": "You guys set?",
+    "uid": "5f84edd88c8c0e78",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2226.36,
+    "end": 2228.12
+  },
+  {
+    "text": "Looks like everyone is haploid, which is good.",
+    "uid": "31836c6431acc4b8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2241.71,
+    "end": 2246.55
+  },
+  {
+    "text": "So let's just take a minute and think about probability here.",
+    "uid": "9e59a0bdedc8324d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2246.79,
+    "end": 2251.71
+  },
+  {
+    "text": "So what was the probability that gamete",
+    "uid": "bc30f17732165ab7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2251.71,
+    "end": 2254.15
+  },
+  {
+    "text": "went end up with this orange or leal on the red chromosome?",
+    "uid": "4e4751a5b4e8ee05",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2254.15,
+    "end": 2260.58
+  },
+  {
+    "text": "Is there two, right?",
+    "uid": "fa75b31d81e31cc3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2261.62,
+    "end": 2262.98
+  },
+  {
+    "text": "So these two gametes have that or leal.",
+    "uid": "341335106f26b160",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2262.98,
+    "end": 2265.58
+  },
+  {
+    "text": "These two should not.",
+    "uid": "7e0b6e74f937301e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2265.58,
+    "end": 2267.38
+  },
+  {
+    "text": "We just had a chromosome loss.",
+    "uid": "520c2a3eaf0f36f6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2273.09,
+    "end": 2275.41
+  },
+  {
+    "text": "So that gamete is in trouble.",
+    "uid": "fdd73e9af0531d23",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2275.41,
+    "end": 2282.41
+  },
+  {
+    "text": "But maybe we could get a TA to rescue this chromosome.",
+    "uid": "d8d927ff46010a71",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2282.41,
+    "end": 2289.05
+  },
+  {
+    "text": "Other one of you is fine.",
+    "uid": "6555b8bd446fdd75",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2289.05,
+    "end": 2291.25
+  },
+  {
+    "text": "Here you go, David.",
+    "uid": "98aba695f5848840",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2291.25,
+    "end": 2302.1
+  },
+  {
+    "text": "All right, that was great.",
+    "uid": "5ece479eb7c843ea",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2302.1,
+    "end": 2303.06
+  },
+  {
+    "text": "Now, as you're doing this, you",
+    "uid": "fdb7fc18c51cb6f5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2303.06,
+    "end": 2305.7
+  },
+  {
+    "text": "can't get a sense as to how things could get mixed up.",
+    "uid": "4b3b219f983df6aa",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2305.7,
+    "end": 2309.98
+  },
+  {
+    "text": "And you think inside the cell, right?",
+    "uid": "a031a13d19b2ade6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2309.98,
+    "end": 2313.54
+  },
+  {
+    "text": "So I've lost track of how many chromosomes we",
+    "uid": "5c37703588a11b6a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2313.54,
+    "end": 2316.86
+  },
+  {
+    "text": "have, one, two, three, four, five, six.",
+    "uid": "0e20c01aa1722bdc",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2316.86,
+    "end": 2319.42
+  },
+  {
+    "text": "How many chromosomes do we have?",
+    "uid": "cc9ee2733c1d5495",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2319.42,
+    "end": 2322.86
+  },
+  {
+    "text": "We are haploid set for us.",
+    "uid": "b9939ddad9773860",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2322.86,
+    "end": 2324.46
+  },
+  {
+    "text": "Is how many chromosomes?",
+    "uid": "be3004e74f2213e2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2324.46,
+    "end": 2326.1
+  },
+  {
+    "text": "So it'd be even worse for a human cell to get this to go right.",
+    "uid": "50424edaf40ae386",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2328.38,
+    "end": 2333.3
+  },
+  {
+    "text": "So why don't you guys line up in the mitosis configuration,",
+    "uid": "f5dfefca9d61ead8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2333.3,
+    "end": 2336.54
+  },
+  {
+    "text": "and we'll consider some things that could go wrong?",
+    "uid": "16059d540f3c548f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2336.54,
+    "end": 2354.44
+  },
+  {
+    "text": "Who here is good friends with their cromotid?",
+    "uid": "e0a79576a21aacc2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2354.44,
+    "end": 2364.49
+  },
+  {
+    "text": "Is anyone very good friends with their sister or brother",
+    "uid": "212a04903a2c2008",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2364.49,
+    "end": 2366.97
+  },
+  {
+    "text": "Someone become good friends and become inseparable.",
+    "uid": "524b2624e789d38a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2376.02,
+    "end": 2380.02
+  },
+  {
+    "text": "Which someone volunteer to be inseparable?",
+    "uid": "a1a64b81d26b9675",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2380.02,
+    "end": 2383.9
+  },
+  {
+    "text": "You guys are now inseparable.",
+    "uid": "67c6fed26e158f2c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2384.42,
+    "end": 2385.82
+  },
+  {
+    "text": "Now, what happened there?",
+    "uid": "ec32f65dd8469d15",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2395.81,
+    "end": 2399.55
+  },
+  {
+    "text": "Yeah, that's how stole her.",
+    "uid": "ee1c36e94a28bdcb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2402.55,
+    "end": 2403.99
+  },
+  {
+    "text": "So now we have two duplication of that chromosome.",
+    "uid": "4069593281b7d10a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2405.15,
+    "end": 2410.23
+  },
+  {
+    "text": "What's happened over here with this daughter, self?",
+    "uid": "6b6ecdc0ed71e4b5",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2410.23,
+    "end": 2413.63
+  },
+  {
+    "text": "Is missing a chromosome, right?",
+    "uid": "d1ce9987508f8e6c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2413.63,
+    "end": 2416.63
+  },
+  {
+    "text": "So these are the types of mistakes that",
+    "uid": "774dfe12febbc32d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2416.63,
+    "end": 2419.15
+  },
+  {
+    "text": "can be associated with the cell becoming cancerous, right?",
+    "uid": "e98cd4574ea492c6",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2419.15,
+    "end": 2422.35
+  },
+  {
+    "text": "Because let's say there was a gene that suppresses growth",
+    "uid": "9490285b67e422d4",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2422.35,
+    "end": 2426.91
+  },
+  {
+    "text": "on that chromosome.",
+    "uid": "58b3a019c24b03a1",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2426.91,
+    "end": 2428.39
+  },
+  {
+    "text": "And it wasn't on that homologue, then you",
+    "uid": "7694ae42e7584a2d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2428.39,
+    "end": 2431.43
+  },
+  {
+    "text": "might result in genetic sort of mutant or loss of that gene that",
+    "uid": "7c0297a9b01b9acf",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2431.43,
+    "end": 2436.27
+  },
+  {
+    "text": "would result in uncontrolled proliferation.",
+    "uid": "a3e7d65cf9ff8ad2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2436.27,
+    "end": 2439.15
+  },
+  {
+    "text": "Also, picking up the copies, extra copies of genes",
+    "uid": "9b38c00c7c747db9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2439.15,
+    "end": 2442.63
+  },
+  {
+    "text": "that promote growth could allow that cell",
+    "uid": "f2e19b9038e65e38",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2442.63,
+    "end": 2445.55
+  },
+  {
+    "text": "to have a proliferative advantage.",
+    "uid": "84b455d9c3859cdd",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2445.55,
+    "end": 2448.11
+  },
+  {
+    "text": "This is sort of foreshadowing what we're",
+    "uid": "d4b79334a94c49fb",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2448.11,
+    "end": 2450.87
+  },
+  {
+    "text": "going to talk about later.",
+    "uid": "dc41a2b4922f1616",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2450.87,
+    "end": 2452.27
+  },
+  {
+    "text": "But I just want to kind of plant the seed now.",
+    "uid": "3c279a8bea9b4ea2",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2452.27,
+    "end": 2456.91
+  },
+  {
+    "text": "OK, why don't we go back and do myosis?",
+    "uid": "ed1706c6b087a33a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2456.91,
+    "end": 2489.13
+  },
+  {
+    "text": "Now, anyone see any friends looking across the aisle now?",
+    "uid": "966fd648a1098677",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2490.21,
+    "end": 2501.05
+  },
+  {
+    "text": "All right, great.",
+    "uid": "09f5b6b543d8bf5c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2501.05,
+    "end": 2501.85
+  },
+  {
+    "text": "You guys are now inseparable.",
+    "uid": "fac4399d46681e63",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2501.85,
+    "end": 2503.37
+  },
+  {
+    "text": "Why don't you guys segregate?",
+    "uid": "c36cf9123e967c4b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2503.37,
+    "end": 2507.34
+  },
+  {
+    "text": "Except the inseparable ones.",
+    "uid": "236e93409ddc7e4c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2507.34,
+    "end": 2509.38
+  },
+  {
+    "text": "But your sister, chromatids still have to stay attached.",
+    "uid": "0114ef5918d32dd3",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2509.38,
+    "end": 2516.65
+  },
+  {
+    "text": "There you go, see?",
+    "uid": "864cf838af5a4938",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2516.65,
+    "end": 2518.85
+  },
+  {
+    "text": "So it's just like last time that this is known as a non-distunction event",
+    "uid": "476e0d0eebf935de",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2521.25,
+    "end": 2525.13
+  },
+  {
+    "text": "where the chromosomes don't separate when they should.",
+    "uid": "dd503d21dd856af9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2525.13,
+    "end": 2528.77
+  },
+  {
+    "text": "Now, we want you guys to do myosis, too.",
+    "uid": "0fac262d8efa0f07",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2529.37,
+    "end": 2547.62
+  },
+  {
+    "text": "You can segregate.",
+    "uid": "f4506cc6f0368a7c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2547.62,
+    "end": 2556.17
+  },
+  {
+    "text": "Now, you see these two gametes over here",
+    "uid": "da53724231fed8d7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2556.17,
+    "end": 2560.13
+  },
+  {
+    "text": "are lacking in entire orange chromosome.",
+    "uid": "5d7e93515560856e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2560.13,
+    "end": 2563.49
+  },
+  {
+    "text": "And these two gametes here have picked up an additional copy",
+    "uid": "c232a3005c75e50c",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2563.49,
+    "end": 2567.53
+  },
+  {
+    "text": "of an orange chromosome.",
+    "uid": "575544517388627f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2567.53,
+    "end": 2570.01
+  },
+  {
+    "text": "So these two gametes are no longer haploid for the orange chromosome.",
+    "uid": "873f7e30ac2d344a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2570.01,
+    "end": 2576.97
+  },
+  {
+    "text": "And if one of these gametes were to fuse with a haploid gamete that",
+    "uid": "40e6564ee7966f87",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2576.97,
+    "end": 2581.77
+  },
+  {
+    "text": "has an orange chromosome, then now you have a zygote that has three copies",
+    "uid": "22bb956e487132c8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2581.77,
+    "end": 2589.45
+  },
+  {
+    "text": "of the orange chromosome, which is abnormal.",
+    "uid": "b7c56e1804e101e8",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2589.45,
+    "end": 2593.29
+  },
+  {
+    "text": "So if that were chromosome 21 in humans, that would result in something that's",
+    "uid": "695a9de33fbf91be",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2593.29,
+    "end": 2598.41
+  },
+  {
+    "text": "called trisomy 21, which is down syndrome.",
+    "uid": "79ba6db609c8164e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2598.41,
+    "end": 2601.77
+  },
+  {
+    "text": "So you see how mistakes in how chromosomes segregate",
+    "uid": "4ec601f82d8d9981",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2601.77,
+    "end": 2606.37
+  },
+  {
+    "text": "can result in human disease.",
+    "uid": "000a9f5c0a1f14e9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2606.37,
+    "end": 2609.01
+  },
+  {
+    "text": "Well, we give yourselves a hand.",
+    "uid": "04d2fdc135f26588",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2609.45,
+    "end": 2611.53
+  },
+  {
+    "text": "OK, you can just throw the pool noodles on the side.",
+    "uid": "1f7c8667256868ae",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2614.48,
+    "end": 2617.24
+  },
+  {
+    "text": "And I just have one slide to show you where we're going next.",
+    "uid": "d64205b4fdd7fc19",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2617.24,
+    "end": 2621.92
+  },
+  {
+    "text": "She said throw.",
+    "uid": "7e15d003e2399713",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2621.92,
+    "end": 2622.76
+  },
+  {
+    "text": "So is it good to be said?",
+    "uid": "e8baca7dd3d1acc1",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2622.76,
+    "end": 2627.94
+  },
+  {
+    "text": "When the homologous chromosomes, can you share a little bit of a little bit",
+    "uid": "1fd14df45c522716",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2628.46,
+    "end": 2632.98
+  },
+  {
+    "text": "Yeah, you're asking if there's crossing over?",
+    "uid": "e3a2e389fce323f9",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2633.98,
+    "end": 2635.74
+  },
+  {
+    "text": "There's crossing over.",
+    "uid": "183d1d2fe91aa37d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2636.74,
+    "end": 2637.74
+  },
+  {
+    "text": "And that will get its own entire lecture.",
+    "uid": "1e25d4c18024d229",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2638.74,
+    "end": 2640.9
+  },
+  {
+    "text": "OK, so just to give you guys a preview of what's up next.",
+    "uid": "3cb6c57150fd1933",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2649.33,
+    "end": 2653.61
+  },
+  {
+    "text": "So in the next lecture, we're going to talk about Mendel and Mendel's P's.",
+    "uid": "46d096223cd92428",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2653.61,
+    "end": 2659.49
+  },
+  {
+    "text": "And we'll talk about the laws of inheritance.",
+    "uid": "520227ff9b199d3b",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2659.49,
+    "end": 2663.25
+  },
+  {
+    "text": "And realize Mendel's way before DNA or what",
+    "uid": "8bda2279ddcd1308",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2663.25,
+    "end": 2669.29
+  },
+  {
+    "text": "our knowledge of a gene was.",
+    "uid": "446a33c3c622467d",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2669.29,
+    "end": 2673.09
+  },
+  {
+    "text": "Next, we'll talk about fruit flies and Thomas Hunt Morgan",
+    "uid": "4542eaec2c35399e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2673.09,
+    "end": 2677.41
+  },
+  {
+    "text": "and Seminole work that led to the chromosome model",
+    "uid": "2ce0f3f99d360f8a",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2677.41,
+    "end": 2681.57
+  },
+  {
+    "text": "of inheritance and also resulted in the concepts of linkage",
+    "uid": "e47f05ca4601f64e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2681.57,
+    "end": 2686.69
+  },
+  {
+    "text": "and also genetic maps.",
+    "uid": "c7b0c0167c2968ab",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2686.69,
+    "end": 2689.93
+  },
+  {
+    "text": "We're going to go, well, just sort of anchor yourself,",
+    "uid": "6ba3bde8c48c2070",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2689.93,
+    "end": 2693.45
+  },
+  {
+    "text": "right, the structure of DNA was published in 1953.",
+    "uid": "ce1824451a2b5623",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2693.45,
+    "end": 2697.49
+  },
+  {
+    "text": "So these Seminole genetic studies up here were done before we knew",
+    "uid": "c2c42748fd538636",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2697.49,
+    "end": 2701.97
+  },
+  {
+    "text": "So geneticists were studying genes and their behavior well",
+    "uid": "bb5cbf395aa85d13",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2702.93,
+    "end": 2707.05
+  },
+  {
+    "text": "before we knew DNA was what was responsible.",
+    "uid": "0373075677ff122f",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2707.05,
+    "end": 2710.93
+  },
+  {
+    "text": "And then we'll talk about sequencing and the sequencing",
+    "uid": "a9484c8d4f86073e",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2710.93,
+    "end": 2713.69
+  },
+  {
+    "text": "We'll talk about cloning and molecular biology",
+    "uid": "43c98d64f5ae4186",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2715.61,
+    "end": 2718.69
+  },
+  {
+    "text": "and how one might go from a human disease",
+    "uid": "6ed63b0845976f04",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2718.69,
+    "end": 2721.37
+  },
+  {
+    "text": "to a specific gene that causes it.",
+    "uid": "0a76f346daa217a7",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2721.37,
+    "end": 2724.37
+  },
+  {
+    "text": "And then finally, we'll start talking about",
+    "uid": "0583dadc4622c570",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2724.37,
+    "end": 2726.29
+  },
+  {
+    "text": "entire human genome and genome sequences.",
+    "uid": "7db1b6efea67f601",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2726.29,
+    "end": 2731.01
+  },
+  {
+    "text": "So that's just a preview of where we're going.",
+    "uid": "03856db189a26f69",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2731.01,
+    "end": 2733.81
+  },
+  {
+    "text": "So have a great weekend.",
+    "uid": "c1f94ec7ceac7314",
+    "source": "MIT_OpenCourseWare - 12._Genetics_1_Cell_Division_Segregating_Genetic_Material",
+    "start": 2733.81,
+    "end": 2735.61
+  }
+]
