@@ -1,0 +1,4335 @@
+[
+  {
+    "text": "Welcome to Psychology is this is Nick Fortuno your host and today I have the guest with me Rob Wipe on Rob.",
+    "uid": "fa4adff3dafa1fe0",
+    "source": "test",
+    "start": 4.72,
+    "end": 12.72
+  },
+  {
+    "text": "Thank you for joining us on Psychology is today. Thanks very much for having me.",
+    "uid": "335ac5d1212dbcb3",
+    "source": "test",
+    "start": 12.72,
+    "end": 17.72
+  },
+  {
+    "text": "You're very welcome. So some of you may have heard of Rob already. He is in investigative journalist who recently wrote the book,",
+    "uid": "b784a3a982e75848",
+    "source": "test",
+    "start": 17.72,
+    "end": 27.72
+  },
+  {
+    "text": "your consent is not required. The rise in psychiatric detentions forced to treatment and abusive guardianships.",
+    "uid": "47ab52961c7fcd4b",
+    "source": "test",
+    "start": 27.72,
+    "end": 37.72
+  },
+  {
+    "text": "And I've been, I was just telling Rob that I've been listening to the book and it is just very, very important.",
+    "uid": "a4893d44850aabc6",
+    "source": "test",
+    "start": 37.72,
+    "end": 46.72
+  },
+  {
+    "text": "What's your, what's your exposing here, you know, as an investigative journalist, we all need to know about this.",
+    "uid": "1c015e7d5d3fb0f4",
+    "source": "test",
+    "start": 46.72,
+    "end": 54.72
+  },
+  {
+    "text": "It's a, it's a very unique situation. The situation that a person can be in, you know, when they get kind of what I would describe as caught in the web of psychiatry,",
+    "uid": "36f4bafe1d12cbe6",
+    "source": "test",
+    "start": 54.72,
+    "end": 66.72
+  },
+  {
+    "text": "where as your title says, you know, your consent for treatment is not actually required.",
+    "uid": "90712dc9ebf1b48c",
+    "source": "test",
+    "start": 66.72,
+    "end": 75.72
+  },
+  {
+    "text": "And that is very unique compared to every other branch of medicine. You know, you can deny treatment. You can refuse treatment for pretty much any other condition.",
+    "uid": "229e65ab2bb385fb",
+    "source": "test",
+    "start": 75.72,
+    "end": 87.72
+  },
+  {
+    "text": "But if it is a mental health condition, if it is a so called mental disorder, you actually don't necessarily have the right to refuse treatment.",
+    "uid": "4d2a5b513f4fc660",
+    "source": "test",
+    "start": 87.72,
+    "end": 97.72
+  },
+  {
+    "text": "So this is, I mean, ultimately, as Rob so brilliantly like paints the, the big picture, I'm left with the impression that this is unconscionable, you know, what is happening to people,",
+    "uid": "b8174d806ac9edbf",
+    "source": "test",
+    "start": 97.72,
+    "end": 113.72
+  },
+  {
+    "text": "and the degree to which people are traumatized by the so called treatment is just devastating.",
+    "uid": "73b5d70ad21f74b1",
+    "source": "test",
+    "start": 113.72,
+    "end": 122.72
+  },
+  {
+    "text": "So maybe I'll just start by asking you open endily, Rob, what, what drew you to this topic of all the things you could have investigated, what drew you to this topic.",
+    "uid": "2099e677656b5ed6",
+    "source": "test",
+    "start": 122.72,
+    "end": 134.72
+  },
+  {
+    "text": "There's a lot of ways to answer that. I mean, I just want to highlight something just you were framing really quite well, because, you know, a great example of what we're talking about there is that, you know,",
+    "uid": "ef91f90e2df04114",
+    "source": "test",
+    "start": 134.72,
+    "end": 147.72
+  },
+  {
+    "text": "advanced directives can be done in any kind of medical, for almost any kind of medical treatment, but in most states and provinces in US and Canada, they've explicitly written out that right under mental health laws.",
+    "uid": "538f15f4d3b94af7",
+    "source": "test",
+    "start": 147.72,
+    "end": 162.72
+  },
+  {
+    "text": "So, you know, the taken away you're right to have an advanced directive.",
+    "uid": "0ad8c3f8dc059392",
+    "source": "test",
+    "start": 162.72,
+    "end": 166.72
+  },
+  {
+    "text": "So, you know, it's a, it's a really big problem and that highlights like one of the reasons I'm so interested in this, I mean, talk about a distant franchise, a population and a group of people with no voice people who've been labeled, you know, as crazy as surdifiably crazy in that sense and locked up against their wills, but I do also have a personal connection with Chai talk about in the book and that it happened to my father.",
+    "uid": "d349a558720ad834",
+    "source": "test",
+    "start": 166.72,
+    "end": 192.72
+  },
+  {
+    "text": "He was reaching out for help during a difficult period, dealing with the emotional and physical repercussions of really kind of catastrophic surgery and cancer diagnosis and and was understandably struggling a lot and reached out for help at the local hospital is we're told to do, you know, go down and he helped and ended up locked up against his will and or should be treated very quickly in the circumstances and I was a gas.",
+    "uid": "76f82f12cda75819",
+    "source": "test",
+    "start": 192.72,
+    "end": 221.72
+  },
+  {
+    "text": "He was a gas, he was a gas, we were all kind of a gas. I mean, he was definitely struggling, but I mean, this was that career college professor computer engineering with no real history of quote unquote mental illness per se and suddenly he was a certified mental patient being treated against his will and I was just a gas and I described in the book really how traumatizing it was how brutal he really got worse and worse.",
+    "uid": "a582246e81b2682f",
+    "source": "test",
+    "start": 221.72,
+    "end": 247.72
+  },
+  {
+    "text": "I'm over the course of nine months in and out of hospital until really finally basically my mother became his caregiver and we got him out of the system and then gradually.",
+    "uid": "8816268b41c12933",
+    "source": "test",
+    "start": 247.72,
+    "end": 258.72
+  },
+  {
+    "text": "He essentially cured himself over time, but I was a gas dip, what had happened in the hospital and I started to to research to find out who else it was happening to what was happening to them.",
+    "uid": "b224e745ecd1434f",
+    "source": "test",
+    "start": 258.72,
+    "end": 272.72
+  },
+  {
+    "text": "Well, as I you know, listened to that story, I just feel so so much compassion for your family, for your father in particular and then for everybody, you know, I imagine that some of the people who clicked on this and pressed play on this episode might have be able to relate to it on a personal level.",
+    "uid": "789032ad756f5722",
+    "source": "test",
+    "start": 272.72,
+    "end": 294.72
+  },
+  {
+    "text": "Maybe you know somebody, maybe you are somebody who has who's rights have been violated, whose consent has been disregarded, who was misled into thinking that you were going to get really like compassionate care.",
+    "uid": "9cc03f54a6ee0fcf",
+    "source": "test",
+    "start": 294.72,
+    "end": 309.72
+  },
+  {
+    "text": "But then ended up being you know again traumatized by basically essentially being incarcerated detained in a psychiatric hospital.",
+    "uid": "9a96894d0feb8ea3",
+    "source": "test",
+    "start": 309.72,
+    "end": 319.72
+  },
+  {
+    "text": "And then I mean I'm just I'm just going to say this because it kept coming to my mind that this really parallels like rape.",
+    "uid": "22f917d933a75587",
+    "source": "test",
+    "start": 319.72,
+    "end": 334.1
+  },
+  {
+    "text": "You know, this is like a rape of the soul for someone to force me to take a drug that is altering my brain chemistry that is altering the quality of my mind to to incarcerate my body in an institution that is not helping me that I don't want to be in or my family doesn't want me to be in.",
+    "uid": "92f6f4e2421d2a51",
+    "source": "test",
+    "start": 334.1,
+    "end": 359.1
+  },
+  {
+    "text": "I hate to put it so kind of bluntly like that but that's the word that kept like coming to my mind as we're talking about this this is a sort of psychological rape.",
+    "uid": "8ee1a3e63c075a28",
+    "source": "test",
+    "start": 359.1,
+    "end": 372.1
+  },
+  {
+    "text": "So yeah, well, I just want to say that's you know resonates again with me and how I felt about it too.",
+    "uid": "c2a2954c91cea05b",
+    "source": "test",
+    "start": 372.1,
+    "end": 380.1
+  },
+  {
+    "text": "Like I put myself in that position and thought what I want that to happen to me and it was just frightening to even think about it.",
+    "uid": "930d71490172018b",
+    "source": "test",
+    "start": 380.1,
+    "end": 388.1
+  },
+  {
+    "text": "And and the comparison you make is is very apt because often there are security guards and in the case of my father you know he was force to be a lecture shock like literally knocked out and then.",
+    "uid": "a632ad7a4a2e2cbb",
+    "source": "test",
+    "start": 388.1,
+    "end": 403.1
+  },
+  {
+    "text": "You know, electro its put on his brain against his will and and shocked it really quite an intense level of shock when you look at the you know the amount they use.",
+    "uid": "f0841567fd29cdf9",
+    "source": "test",
+    "start": 403.1,
+    "end": 414.1
+  },
+  {
+    "text": "You know given these drugs so you're forced to ingest these drugs you know there's a lot of physical coercion involved and he was never reacting in a violent way so he's never physically restrained but that's not uncommon in these settings.",
+    "uid": "c36f220d717efc83",
+    "source": "test",
+    "start": 414.1,
+    "end": 428.1
+  },
+  {
+    "text": "I've talked to it people interviewed many people who have actually personally experienced sexual assault in their lives or physical assault as a child.",
+    "uid": "b17a65dfab7d5f8e",
+    "source": "test",
+    "start": 428.1,
+    "end": 438.1
+  },
+  {
+    "text": "And they make that comparison that you just made it in fact some have said to me I would rather I would if I have to choose I would take being sexually assaulted again.",
+    "uid": "d16c16ada2a99319",
+    "source": "test",
+    "start": 438.1,
+    "end": 449.1
+  },
+  {
+    "text": "And I think that's the real discussion in a way we need to have often it sort of you know kind of all.",
+    "uid": "56787f55b5da021d",
+    "source": "test",
+    "start": 449.1,
+    "end": 454.1
+  },
+  {
+    "text": "Dressed up in this fashion of like oh well maybe it's a civil rights concern and it definitely is a civil rights concern but it's much more than that it's not a civil rights.",
+    "uid": "e6ba898c95cc7da0",
+    "source": "test",
+    "start": 454.1,
+    "end": 465.1
+  },
+  {
+    "text": "The real discussion in a way we need to have often it sort of you know kind of all.",
+    "uid": "38f00ade029aa524",
+    "source": "test",
+    "start": 465.1,
+    "end": 470.1
+  },
+  {
+    "text": "Dressed up in this fashion of like oh well maybe it's a civil rights concern and it definitely is a civil rights concern but it's much more than that it's a concern of.",
+    "uid": "4d34a87d46df47db",
+    "source": "test",
+    "start": 470.1,
+    "end": 480.1
+  },
+  {
+    "text": "The violent abuse perpetrated by the people who you're reaching out to for help and you're expecting to help people find it really that's why they find it so traumatizing as often these interventions are very very physical as well as emotionally intimidating.",
+    "uid": "e4519faa7f549620",
+    "source": "test",
+    "start": 480.1,
+    "end": 498.1
+  },
+  {
+    "text": "Yes that that.",
+    "uid": "78d32cc501aee215",
+    "source": "test",
+    "start": 498.1,
+    "end": 500.1
+  },
+  {
+    "text": "I'm not really getting to perspective so so I would love to kind of.",
+    "uid": "ba23ccdcf9d9fe25",
+    "source": "test",
+    "start": 500.1,
+    "end": 505.1
+  },
+  {
+    "text": "Explain or have you explain.",
+    "uid": "e8abfc5df3a070e6",
+    "source": "test",
+    "start": 505.1,
+    "end": 508.1
+  },
+  {
+    "text": "How do we get to the point how does a person gets at the point what is the process look like.",
+    "uid": "0a3cd702542682d9",
+    "source": "test",
+    "start": 510.1,
+    "end": 515.1
+  },
+  {
+    "text": "And I realize this might be kind of remedial some people might already fully understand this but what does it look like how does a person.",
+    "uid": "c49b24d93c0884a5",
+    "source": "test",
+    "start": 515.1,
+    "end": 521.1
+  },
+  {
+    "text": "get forcibly hospitalized and drugged.",
+    "uid": "78b28df1467db9fd",
+    "source": "test",
+    "start": 521.1,
+    "end": 526.1
+  },
+  {
+    "text": "What's the process that leads up to that point?",
+    "uid": "622d3f394c424b66",
+    "source": "test",
+    "start": 526.1,
+    "end": 530.1
+  },
+  {
+    "text": "So every pretty well every country in the world as far as I know and then every state in the United States every province in Canada.",
+    "uid": "ac53d5c28ea4c7fb",
+    "source": "test",
+    "start": 530.1,
+    "end": 539.1
+  },
+  {
+    "text": "And it has a mental health law of some kind and the purpose of mental health laws they have different names and different jurisdictions but essentially the purpose is to do what we're talking about it creates a framework.",
+    "uid": "ebdafc87d96530d9",
+    "source": "test",
+    "start": 539.1,
+    "end": 555.1
+  },
+  {
+    "text": "Under which you can detain someone against their will ostensibly to help them so they have not committed any sort of crime and I want emphasize that there is a sort of separate piece of this which is about criminal violence where people.",
+    "uid": "d0b141675bc83497",
+    "source": "test",
+    "start": 555.1,
+    "end": 568.1
+  },
+  {
+    "text": "And people believe not guilty by reason of insanity and things like that it's a whole different set of laws a whole different issue my book and what we're talking with today mainly is civil commitment which is children who might be struggling with anxiety it's elderly people who might be depressed it's people like my father who struggling with a mix of anxiety and depression and it's people on the street who might be struggling with hearing voices in some way you know it's a wide wide spectrum of people that we're supposedly trying to help.",
+    "uid": "901665986329c871",
+    "source": "test",
+    "start": 568.1,
+    "end": 595.1
+  },
+  {
+    "text": "wide-wide spectrum of people that we're supposedly trying to help. They often have not committed any kind",
+    "uid": "e15dc5374383ca1c",
+    "source": "test",
+    "start": 595.1,
+    "end": 600.14
+  },
+  {
+    "text": "of crime or violence. But one of the criteria under this and it kind of gets confusing for people,",
+    "uid": "7470370f3c86fd63",
+    "source": "test",
+    "start": 600.14,
+    "end": 606.38
+  },
+  {
+    "text": "it's usually if you're considered to be a danger to yourself or others or at risk of harming",
+    "uid": "1f07552fc7b3d593",
+    "source": "test",
+    "start": 606.38,
+    "end": 611.58
+  },
+  {
+    "text": "yourself or others. But under civil commitment, this is very broadly interpreted. It doesn't mean",
+    "uid": "68e4f4728353e457",
+    "source": "test",
+    "start": 611.58,
+    "end": 616.7
+  },
+  {
+    "text": "interpretive. You haven't, you haven't necessarily committed anything. It's predictive. It's saying,",
+    "uid": "235942ba7804fcd6",
+    "source": "test",
+    "start": 616.7,
+    "end": 621.58
+  },
+  {
+    "text": "well, you might in future harm yourself or harm someone else. What does that mean? Usually it can",
+    "uid": "8cdd9d7d58dfeb49",
+    "source": "test",
+    "start": 621.58,
+    "end": 627.66
+  },
+  {
+    "text": "mean anything from that because of your anxiety, you're not going to work anymore. So you might",
+    "uid": "846498e8821da30f",
+    "source": "test",
+    "start": 627.66,
+    "end": 633.74
+  },
+  {
+    "text": "lose your job and that's considered potentially harming yourself in some way. So that's the kind of",
+    "uid": "7d33f63ae9b4d739",
+    "source": "test",
+    "start": 633.74,
+    "end": 639.74
+  },
+  {
+    "text": "breadth of these laws. And when I want to emphasize now, that's most people's understanding",
+    "uid": "0f1a12277c012122",
+    "source": "test",
+    "start": 639.74,
+    "end": 645.74
+  },
+  {
+    "text": "of mental health law. But they have actually gone much further than that over the last few decades.",
+    "uid": "0e37f77e6665cd59",
+    "source": "test",
+    "start": 645.74,
+    "end": 651.1
+  },
+  {
+    "text": "So now we have criteria for what's can called often in the United States, the grave disability",
+    "uid": "cc2d41aeb9a19f4f",
+    "source": "test",
+    "start": 651.1,
+    "end": 656.94
+  },
+  {
+    "text": "standard. Not only when I just described, but also if you might for example be unable to meet your",
+    "uid": "44c43e5e4bbee9e3",
+    "source": "test",
+    "start": 656.94,
+    "end": 663.74
+  },
+  {
+    "text": "needs in some way. And that could be that you're poor, that you're struggling. So they're actually",
+    "uid": "6d0388e1b97baf6c",
+    "source": "test",
+    "start": 663.74,
+    "end": 670.46
+  },
+  {
+    "text": "the standards have gone further. There's another standard now called the grave disability standard,",
+    "uid": "f361a729d120211b",
+    "source": "test",
+    "start": 670.46,
+    "end": 676.14
+  },
+  {
+    "text": "which is if a person is not able to take care of their own needs in some way, then they can be",
+    "uid": "d46f2528088fe3bd",
+    "source": "test",
+    "start": 676.14,
+    "end": 682.14
+  },
+  {
+    "text": "detained under the mental health act. And then it's gone even further in many states now and they have",
+    "uid": "22a7cbe867e74232",
+    "source": "test",
+    "start": 682.46,
+    "end": 687.58
+  },
+  {
+    "text": "a kind of deterioration criteria. So if you might experience some sort of mental or physical deterioration,",
+    "uid": "0e83d1666674271a",
+    "source": "test",
+    "start": 687.58,
+    "end": 694.22
+  },
+  {
+    "text": "and this is very vaguely and defined, not really defined at all. But if you might experience some kind of",
+    "uid": "77fd850242dbb017",
+    "source": "test",
+    "start": 694.22,
+    "end": 701.18
+  },
+  {
+    "text": "deterioration as a result of a mental disorder, then you can also be detained and potentially",
+    "uid": "3f6ed3849db84e75",
+    "source": "test",
+    "start": 701.18,
+    "end": 706.46
+  },
+  {
+    "text": "forcibly treated. So the my point here is that the laws are becoming increasingly broad, contrary to",
+    "uid": "a460239e3c07c5e7",
+    "source": "test",
+    "start": 706.46,
+    "end": 713.18
+  },
+  {
+    "text": "common public knowledge about this, and allow a much wider spectrum of people to potentially be detained.",
+    "uid": "9c6747acc518c063",
+    "source": "test",
+    "start": 713.18,
+    "end": 721.02
+  },
+  {
+    "text": "The problem is, or one of the problems is it's so subjective. And so everybody can tell a story. But I know",
+    "uid": "c0b5f45d313933a7",
+    "source": "test",
+    "start": 721.02,
+    "end": 726.62
+  },
+  {
+    "text": "somebody who, in my opinion, really needed something or other, and they'll say, and he was never detained.",
+    "uid": "6138eb5dda293838",
+    "source": "test",
+    "start": 726.62,
+    "end": 733.34
+  },
+  {
+    "text": "And that's true because it's a very subjective. The criteria aren't clear at all. That's so any",
+    "uid": "30bda33d150ffdc4",
+    "source": "test",
+    "start": 733.34,
+    "end": 738.94
+  },
+  {
+    "text": "individual's psychiatrist or institution, their beds may be full or they just may have a certain attitude.",
+    "uid": "8e8fcd88702ef149",
+    "source": "test",
+    "start": 738.94,
+    "end": 745.1
+  },
+  {
+    "text": "But that types of people, they're more likely to incarcerate than others and so on and so forth.",
+    "uid": "2a4c979a1cb90d2c",
+    "source": "test",
+    "start": 745.1,
+    "end": 750.54
+  },
+  {
+    "text": "And also then it's very hard to cite this because of the psychiatrist decides you are certifiable.",
+    "uid": "ec275592b45e89a8",
+    "source": "test",
+    "start": 750.54,
+    "end": 755.98
+  },
+  {
+    "text": "It's hard to prove that you're not because again, the criteria are so vague.",
+    "uid": "d7d566aa6c323407",
+    "source": "test",
+    "start": 755.98,
+    "end": 759.9
+  },
+  {
+    "text": "Yes. And speaking of vague criteria, you address the DSM-5. I think it's in chapter two of your book.",
+    "uid": "ea32eb8a4b84053d",
+    "source": "test",
+    "start": 763.5,
+    "end": 773.58
+  },
+  {
+    "text": "And so there's so many levels of interpretation, including everything you just addressed about whether or not",
+    "uid": "73385f0410e48c89",
+    "source": "test",
+    "start": 774.62,
+    "end": 782.94
+  },
+  {
+    "text": "someone is harmed to themselves, whether or not they're gravely disabled, whether or not they need this kind of",
+    "uid": "7bffb45bb3762ab8",
+    "source": "test",
+    "start": 783.02,
+    "end": 789.74
+  },
+  {
+    "text": "involuntary treatment. But then there's of course the vague criteria that are behind every single disorder.",
+    "uid": "e264abbe46c6cd39",
+    "source": "test",
+    "start": 789.74,
+    "end": 797.5
+  },
+  {
+    "text": "I highly encourage anyone who's listening who has not yet done this to look at the DSM-5 for themselves.",
+    "uid": "fb3d79e8960474c7",
+    "source": "test",
+    "start": 799.5,
+    "end": 807.42
+  },
+  {
+    "text": "Don't let me try to convince you. See for yourself, you know, and especially if anyone's",
+    "uid": "f888f3c0c0d4a460",
+    "source": "test",
+    "start": 807.66,
+    "end": 813.02
+  },
+  {
+    "text": "ever been diagnosed with a mental disorder, please find the PDF of the DSM-5, which is in case anyone doesn't",
+    "uid": "90788995d627381c",
+    "source": "test",
+    "start": 813.02,
+    "end": 821.82
+  },
+  {
+    "text": "know it's the diagnostic and statistical manual published by the American Psychiatric Association,",
+    "uid": "fede01b42c0fd21d",
+    "source": "test",
+    "start": 821.82,
+    "end": 826.54
+  },
+  {
+    "text": "the fifth edition came out in 2013. And just see for yourself what the criteria are and how obviously",
+    "uid": "21ef852c91e663ce",
+    "source": "test",
+    "start": 826.54,
+    "end": 834.94
+  },
+  {
+    "text": "subjective the criteria are, whether or not you meet those criteria, is in the eye of the beholder",
+    "uid": "42641b691acff2a7",
+    "source": "test",
+    "start": 835.82,
+    "end": 842.78
+  },
+  {
+    "text": "and it is highly influenced by the setting that you're in when you are being assessed.",
+    "uid": "864f6ac7120d1054",
+    "source": "test",
+    "start": 843.34,
+    "end": 848.94
+  },
+  {
+    "text": "So it's it's open to interpretation at every single level. There's no objective, biomarkers,",
+    "uid": "db7f641dfe544835",
+    "source": "test",
+    "start": 849.98,
+    "end": 860.7
+  },
+  {
+    "text": "there's nothing objective about being diagnosed with a mental disorder. And whether there's any",
+    "uid": "3ee94f0369ad8122",
+    "source": "test",
+    "start": 860.7,
+    "end": 867.26
+  },
+  {
+    "text": "benefit to being diagnosed is a different question. I understand that the perspective that there can be",
+    "uid": "4cf37f562225cd8d",
+    "source": "test",
+    "start": 867.26,
+    "end": 875.74
+  },
+  {
+    "text": "some benefit, you know, to being diagnosed with something. So we can go there later maybe, but the point right now",
+    "uid": "9af25f1b5aa6dfde",
+    "source": "test",
+    "start": 875.74,
+    "end": 883.34
+  },
+  {
+    "text": "is in such a high-stakes situation where it's possible that you would be like removed from your home,",
+    "uid": "d9fc9d67a6c31c87",
+    "source": "test",
+    "start": 883.42,
+    "end": 891.82
+  },
+  {
+    "text": "involuntarily detained, forceably drugged, that that can happen when and the calculation for a",
+    "uid": "3f664b455d6bc7de",
+    "source": "test",
+    "start": 892.54,
+    "end": 901.26
+  },
+  {
+    "text": "weather that should happen is highly subjective, is part of what makes all of this so unconscionable.",
+    "uid": "afbc125a4ed91c65",
+    "source": "test",
+    "start": 901.26,
+    "end": 910.14
+  },
+  {
+    "text": "So I'd love for you to maybe speak to this point here just even though it may be remedial for some",
+    "uid": "32ab16479bd6c9e2",
+    "source": "test",
+    "start": 912.18,
+    "end": 919.7
+  },
+  {
+    "text": "listeners, just the nature of mental disorders and how they're diagnosed and your thoughts on the DSM.",
+    "uid": "362f7c6c7b624b98",
+    "source": "test",
+    "start": 919.7,
+    "end": 928.82
+  },
+  {
+    "text": "I'd love to hear about that from you, Brahm. Yeah, it's important to clarify that in a lot of jurisdictions,",
+    "uid": "da3f543c63f4b3e5",
+    "source": "test",
+    "start": 928.82,
+    "end": 935.86
+  },
+  {
+    "text": "they don't actually include the DSM in the law itself. So a law may say something like,",
+    "uid": "7f85a2245143d459",
+    "source": "test",
+    "start": 936.5,
+    "end": 943.46
+  },
+  {
+    "text": "if as a result of a substantial disorder of the mind, you are now at risk of harming yourself in",
+    "uid": "ac3d83548533a4e2",
+    "source": "test",
+    "start": 944.18,
+    "end": 952.58
+  },
+  {
+    "text": "some way, then you can be subjected to the detention by police, so take you up to a secure ward in a hospital",
+    "uid": "d5168b47949a2def",
+    "source": "test",
+    "start": 952.58,
+    "end": 961.14
+  },
+  {
+    "text": "and forceably treated potentially. So that's kind of how it's worded. That said, in the actual",
+    "uid": "146754f4f209132b",
+    "source": "test",
+    "start": 961.14,
+    "end": 966.9
+  },
+  {
+    "text": "cases, if you get a hearing, if you protest and you ultimately get a hearing, the doctor's diagnosis",
+    "uid": "2d268aae3ac9618d",
+    "source": "test",
+    "start": 966.9,
+    "end": 974.1
+  },
+  {
+    "text": "is usually taken very seriously by the court and so then the DSM will be in play. Also,",
+    "uid": "b71a55cac4410ce8",
+    "source": "test",
+    "start": 974.1,
+    "end": 981.06
+  },
+  {
+    "text": "increasingly jurisdictions are just throwing the DSM into the law. So we saw this just recently",
+    "uid": "acf312d77b2dd068",
+    "source": "test",
+    "start": 981.06,
+    "end": 987.06
+  },
+  {
+    "text": "in California where they are rewriting their mental health act and just whole hog throw the entire DSM.",
+    "uid": "579e3226f1f46037",
+    "source": "test",
+    "start": 987.06,
+    "end": 994.18
+  },
+  {
+    "text": "It's hundreds of weird and strange disorders and extremely common behaviors all into the mental",
+    "uid": "4d2397ab810e827f",
+    "source": "test",
+    "start": 994.18,
+    "end": 1003.62
+  },
+  {
+    "text": "health law. So basically says you have a mental disorder for the purposes of involuntary equipment",
+    "uid": "79ddb1a7f71017cf",
+    "source": "test",
+    "start": 1003.62,
+    "end": 1008.02
+  },
+  {
+    "text": "if you meet any of the infantry in the DSM. So it's huge because as we know from testing, even under",
+    "uid": "cc7ba1708e311034",
+    "source": "test",
+    "start": 1008.02,
+    "end": 1016.74
+  },
+  {
+    "text": "highly controlled laboratory conditions where doctors are especially trained that there's not a high",
+    "uid": "01363d388f155f16",
+    "source": "test",
+    "start": 1016.74,
+    "end": 1023.46
+  },
+  {
+    "text": "level of reliability. One doctor say he's got anxiety, he's got depression, he's got schizophrenia,",
+    "uid": "82260966eb441e5d",
+    "source": "test",
+    "start": 1023.46,
+    "end": 1029.22
+  },
+  {
+    "text": "he's got this he's got that and then there's no validity. So meaning there's there's no laboratory",
+    "uid": "076a34faa051405b",
+    "source": "test",
+    "start": 1029.22,
+    "end": 1035.3
+  },
+  {
+    "text": "test confer. So even if you have 10 psychiatrists in a room and they do in fact all agree,",
+    "uid": "8814d492d6fa88b6",
+    "source": "test",
+    "start": 1035.3,
+    "end": 1040.66
+  },
+  {
+    "text": "this person has depression, there's no way to still prove that they're correct. You're not. All",
+    "uid": "37051e536c83db9f",
+    "source": "test",
+    "start": 1040.66,
+    "end": 1045.78
+  },
+  {
+    "text": "we can prove now as well. They agree more or less than what looks like depression and we don't have",
+    "uid": "b4e41a48573e7d1f",
+    "source": "test",
+    "start": 1045.78,
+    "end": 1051.06
+  },
+  {
+    "text": "a laboratory task. And so that's a point in this setting. Again, I have no problem. As you say,",
+    "uid": "f121e9c63a05251e",
+    "source": "test",
+    "start": 1051.06,
+    "end": 1056.98
+  },
+  {
+    "text": "if people want it, I eat if they consent to being labeled in this way. Okay, you know that that's an issue",
+    "uid": "1cdbc1b3f86488e7",
+    "source": "test",
+    "start": 1056.98,
+    "end": 1065.3
+  },
+  {
+    "text": "that you can decide for yourself. You can investigate it decide that's beneficial to you. But when someone",
+    "uid": "e3af6086ac8c8238",
+    "source": "test",
+    "start": 1065.3,
+    "end": 1070.5
+  },
+  {
+    "text": "is actually saying, I don't want to be labeled with a mental disorder. I do not agree. I do",
+    "uid": "7a91a25f29d074a6",
+    "source": "test",
+    "start": 1070.58,
+    "end": 1075.06
+  },
+  {
+    "text": "not believe it. And this is part of the procedure of getting them subjected against their will potentially",
+    "uid": "e567826b9febeae6",
+    "source": "test",
+    "start": 1075.06,
+    "end": 1081.22
+  },
+  {
+    "text": "to incarceration and treatment. Then I have a big problem with the use of these highly subjective",
+    "uid": "7d33907aba119ff0",
+    "source": "test",
+    "start": 1081.22,
+    "end": 1088.42
+  },
+  {
+    "text": "criteria. Well said. Yes. Maybe we can concretize what we're talking about with a story and then you",
+    "uid": "6df6d65db792b539",
+    "source": "test",
+    "start": 1088.42,
+    "end": 1097.22
+  },
+  {
+    "text": "shared a little bit about the story of your father. And I'm curious, you share many stories and they're",
+    "uid": "0cb233304314717f",
+    "source": "test",
+    "start": 1097.22,
+    "end": 1102.34
+  },
+  {
+    "text": "all just heartbreaking and compelling in some sense. And that they just bring into focus how bad this",
+    "uid": "17db851b1e8ae0b7",
+    "source": "test",
+    "start": 1102.34,
+    "end": 1110.98
+  },
+  {
+    "text": "problem really is. So I'm curious of the many stories that you share in your book is there one that",
+    "uid": "587642f035bf4030",
+    "source": "test",
+    "start": 1110.98,
+    "end": 1115.94
+  },
+  {
+    "text": "stands out to you that surfaces in your mind right now that you'd like to share with us. You know, it's funny.",
+    "uid": "913b23c305531f1c",
+    "source": "test",
+    "start": 1116.5,
+    "end": 1122.1
+  },
+  {
+    "text": "You would think they'd just come pouring out of me because I just wrote a whole book. There's",
+    "uid": "d73d7f18baee68f0",
+    "source": "test",
+    "start": 1122.1,
+    "end": 1125.7
+  },
+  {
+    "text": "stories as you notice in every single chapter of the book. And I do think it's very important to",
+    "uid": "09987b03283473ed",
+    "source": "test",
+    "start": 1125.7,
+    "end": 1130.34
+  },
+  {
+    "text": "hear those voices. The people who've actually personally been through this, their voices are",
+    "uid": "d8d5ba62596e18ff",
+    "source": "test",
+    "start": 1130.34,
+    "end": 1136.26
+  },
+  {
+    "text": "extremely important. And it's always a little bit hard to decide because, you know, I wrote a book for",
+    "uid": "9f8f79adc7bb6f16",
+    "source": "test",
+    "start": 1136.26,
+    "end": 1142.02
+  },
+  {
+    "text": "a reason. It's to show the enormous diversity of people this is happening to. And as soon as I choose",
+    "uid": "c61410a872355f9a",
+    "source": "test",
+    "start": 1142.02,
+    "end": 1148.9
+  },
+  {
+    "text": "any one, people are like, oh well, that's just a cherry picked example out of the air and they can tell",
+    "uid": "7e2ee08d5687a389",
+    "source": "test",
+    "start": 1148.9,
+    "end": 1155.14
+  },
+  {
+    "text": "it totally different kind of story. So the kind of examples I might use, you know, to try to cover that",
+    "uid": "f09e52478550b224",
+    "source": "test",
+    "start": 1155.14,
+    "end": 1161.14
+  },
+  {
+    "text": "spectrum would be, you know, at the extreme end, a person I got to know really quite well and still",
+    "uid": "feb398af34c5eea1",
+    "source": "test",
+    "start": 1161.14,
+    "end": 1167.22
+  },
+  {
+    "text": "communicate with often on today who was really just out on the street conducting a protest. He'd been",
+    "uid": "9e90e78c78886946",
+    "source": "test",
+    "start": 1167.22,
+    "end": 1175.46
+  },
+  {
+    "text": "in conflict with the local tax revenue agency. And he had been proven right. I looked at all",
+    "uid": "3999a1f1860bda83",
+    "source": "test",
+    "start": 1175.46,
+    "end": 1182.66
+  },
+  {
+    "text": "his tax records that they finally admitted they're wrongdoing. And so he was outside their offices kind",
+    "uid": "0eba77d4362cc4c2",
+    "source": "test",
+    "start": 1182.66,
+    "end": 1188.74
+  },
+  {
+    "text": "of trying to, you know, hawk a little self-published book. He was going to write about how corrupt",
+    "uid": "ac8dc2d14bc0896e",
+    "source": "test",
+    "start": 1188.74,
+    "end": 1194.18
+  },
+  {
+    "text": "he thought this agency was. And, you know, they called 911 and said, oh, there's a crazy person out",
+    "uid": "b75101585d482687",
+    "source": "test",
+    "start": 1194.18,
+    "end": 1203.54
+  },
+  {
+    "text": "front police came and interviewed him and said, well, he seems actually just like he's doing a",
+    "uid": "a463b500ac9587b3",
+    "source": "test",
+    "start": 1203.62,
+    "end": 1208.9
+  },
+  {
+    "text": "protest. That's fine. They went away. And, but this happened then three times in a row. And finally,",
+    "uid": "4643bbc520ea4e1a",
+    "source": "test",
+    "start": 1208.9,
+    "end": 1214.82
+  },
+  {
+    "text": "they just took him up to the psychiatric hospital. He's outraged a gas. He could not believe this had happened",
+    "uid": "63bb2ebdd1127e6e",
+    "source": "test",
+    "start": 1214.82,
+    "end": 1219.7
+  },
+  {
+    "text": "and never happened to before. He had no history of mental disorder or anything like that. And so he refuses",
+    "uid": "eb42cda963a869cd",
+    "source": "test",
+    "start": 1219.7,
+    "end": 1226.18
+  },
+  {
+    "text": "to talk. And they're like, oh, wow, he's just proving he's crazy. It's fascinating looking at",
+    "uid": "f84a9dc36210fbe0",
+    "source": "test",
+    "start": 1226.18,
+    "end": 1232.9
+  },
+  {
+    "text": "the actual medical records. Because you see some of the doctors questioning it as well. Kind of,",
+    "uid": "e5c7ad1b1880109b",
+    "source": "test",
+    "start": 1233.38,
+    "end": 1238.42
+  },
+  {
+    "text": "well, you know, he seems pretty sane. And his story makes a lot of sense and he has evidence to prove it.",
+    "uid": "87eefe598a5f7acd",
+    "source": "test",
+    "start": 1238.42,
+    "end": 1244.18
+  },
+  {
+    "text": "And and revenue candidate is kind of admitting they're wrongdoing. But the other hand, maybe just to be",
+    "uid": "e2390e8267f3abc6",
+    "source": "test",
+    "start": 1244.18,
+    "end": 1249.86
+  },
+  {
+    "text": "safe, we should keep him here. And so he's end up, he's locked up for 11 days. They forcibly drug him. And it's",
+    "uid": "bac601f1b58b9304",
+    "source": "test",
+    "start": 1249.86,
+    "end": 1255.3
+  },
+  {
+    "text": "only when he finally agrees to talk that they finally go, okay, you know, go. Right. And this was an",
+    "uid": "51c648a77152e7e2",
+    "source": "test",
+    "start": 1255.3,
+    "end": 1261.54
+  },
+  {
+    "text": "enormously traumatizing experience for him at the end. And he's to this day, decades later,",
+    "uid": "d4dc2063cdcfa407",
+    "source": "test",
+    "start": 1261.54,
+    "end": 1266.98
+  },
+  {
+    "text": "still launching protests about it. So that's kind of an indication of the, you know, blatant abuse of",
+    "uid": "92052d19bf3962c5",
+    "source": "test",
+    "start": 1266.98,
+    "end": 1273.7
+  },
+  {
+    "text": "these powers that kind of occur. And and then on the other hand, you know, there are people who are",
+    "uid": "caaeb4edb86a62a9",
+    "source": "test",
+    "start": 1273.7,
+    "end": 1278.98
+  },
+  {
+    "text": "genuine. They really struggling. You know, they do exist. And sometimes they are also maybe related or",
+    "uid": "2f60aa71c82ee231",
+    "source": "test",
+    "start": 1278.98,
+    "end": 1285.94
+  },
+  {
+    "text": "unrelated to the disorder they may end up on the street. They may end up really struggling in that",
+    "uid": "8b7bc4debc6e937f",
+    "source": "test",
+    "start": 1285.94,
+    "end": 1290.74
+  },
+  {
+    "text": "environment being, you know, subjected to violence now in on the street because it's a hard life out",
+    "uid": "e603656c16d1cea4",
+    "source": "test",
+    "start": 1290.74,
+    "end": 1296.66
+  },
+  {
+    "text": "there. And then that can amplify the struggles they were having. And so now they're behaving really",
+    "uid": "63fe8fa178b82351",
+    "source": "test",
+    "start": 1296.66,
+    "end": 1301.86
+  },
+  {
+    "text": "strangely. And that person may just, you know, somebody might think they're doing doing a good thing,",
+    "uid": "423326d99c4d0bf1",
+    "source": "test",
+    "start": 1301.86,
+    "end": 1307.3
+  },
+  {
+    "text": "calling 911 on them. And then the police show up, taken into the psychiatric hospital. This person is",
+    "uid": "2a5c483e9f18b387",
+    "source": "test",
+    "start": 1307.3,
+    "end": 1312.98
+  },
+  {
+    "text": "terrified. Maybe they've already been through this process before. Maybe they are already taking",
+    "uid": "c66f8d13de6debe8",
+    "source": "test",
+    "start": 1312.98,
+    "end": 1318.1
+  },
+  {
+    "text": "psychiatric medications or not. Either can happen. And they'll just say, okay, now we're going to",
+    "uid": "d170cb06915b801f",
+    "source": "test",
+    "start": 1318.1,
+    "end": 1323.54
+  },
+  {
+    "text": "keep you. And, and this person, it may heighten the fear they're going through. So they may, they may try to",
+    "uid": "8aed97d47158f349",
+    "source": "test",
+    "start": 1323.54,
+    "end": 1328.9
+  },
+  {
+    "text": "run away to fight back. And now security guards will be involved. And this can be become an enormously",
+    "uid": "f33ab53073575591",
+    "source": "test",
+    "start": 1328.9,
+    "end": 1334.66
+  },
+  {
+    "text": "violent experience playing out for this person that, you know, supposedly we were trying to help.",
+    "uid": "c9e28c2a362f1eb3",
+    "source": "test",
+    "start": 1334.66,
+    "end": 1340.66
+  },
+  {
+    "text": "And so what happens that person, when they get out, if, if they get out again, that's the last thing",
+    "uid": "4beaf08de1bb7106",
+    "source": "test",
+    "start": 1340.66,
+    "end": 1347.06
+  },
+  {
+    "text": "they're going to do is seek help. But it's like the after-costal people wonder, why don't these",
+    "uid": "745fa56e7ccd3548",
+    "source": "test",
+    "start": 1347.06,
+    "end": 1351.38
+  },
+  {
+    "text": "crazy people, you know, quote unquote, seek help, you know, well, this is why often because if you are struggling,",
+    "uid": "8af5d69ed8a29867",
+    "source": "test",
+    "start": 1351.38,
+    "end": 1357.38
+  },
+  {
+    "text": "if you have reached out for help before, you often have these kinds of experiences which are enormously",
+    "uid": "50b926f6554e1ea3",
+    "source": "test",
+    "start": 1357.38,
+    "end": 1362.74
+  },
+  {
+    "text": "traumatizing. And so you start to avoid it. And that's one of the most common reasons that people",
+    "uid": "f6b693c350ea74e0",
+    "source": "test",
+    "start": 1362.74,
+    "end": 1368.5
+  },
+  {
+    "text": "is not because they quote unquote, lack inside. It's not because they have inside because they have",
+    "uid": "18163a3c3b55c71f",
+    "source": "test",
+    "start": 1368.5,
+    "end": 1374.02
+  },
+  {
+    "text": "this experience and this insight and this memory. They don't want these drugs that often they find",
+    "uid": "395591080b2aa3d0",
+    "source": "test",
+    "start": 1374.1,
+    "end": 1379.62
+  },
+  {
+    "text": "very debilitating and tranquilizing. And they don't want to go through a hospital where they're going to be",
+    "uid": "72b3dc2fd760c2a6",
+    "source": "test",
+    "start": 1379.62,
+    "end": 1385.38
+  },
+  {
+    "text": "violently overcome in some way and restrained and so on and so forth. And so that sort of the other",
+    "uid": "0778b404f8449404",
+    "source": "test",
+    "start": 1385.38,
+    "end": 1391.06
+  },
+  {
+    "text": "agreement, and, you know, as I elucidated, that's just two out of an incredible array of different types of",
+    "uid": "d306760d6a53571d",
+    "source": "test",
+    "start": 1391.06,
+    "end": 1398.98
+  },
+  {
+    "text": "people, it's situations within which these laws are kind of playing out. Yes, I work as a, as a",
+    "uid": "fd0c8177ce153d3d",
+    "source": "test",
+    "start": 1398.98,
+    "end": 1408.42
+  },
+  {
+    "text": "a psychology instructor at a community college and so I interface with many students, you know, hundreds",
+    "uid": "94a579b2f0b3d4ba",
+    "source": "test",
+    "start": 1408.42,
+    "end": 1413.46
+  },
+  {
+    "text": "and hundreds of students every semester. And we, of course, talk about this whole topic, you know,",
+    "uid": "9239636429f6a2b6",
+    "source": "test",
+    "start": 1413.46,
+    "end": 1420.42
+  },
+  {
+    "text": "the nature of disorders and treatments, et cetera. And it's amazing how many stories I've heard",
+    "uid": "d07c36fd5c38cfc2",
+    "source": "test",
+    "start": 1420.42,
+    "end": 1426.18
+  },
+  {
+    "text": "as well from students who volunteered to tell me about their experience of being 51-50 and",
+    "uid": "e9a93721505b11ee",
+    "source": "test",
+    "start": 1426.18,
+    "end": 1431.94
+  },
+  {
+    "text": "what it was like in the hospital. And, and of course, you know, I'm sure you and I would both agree in any",
+    "uid": "12c6a99a19e310be",
+    "source": "test",
+    "start": 1431.94,
+    "end": 1437.86
+  },
+  {
+    "text": "reasonable person would agree that we should build in our societies a place people can go when they are",
+    "uid": "33d6b9316064410a",
+    "source": "test",
+    "start": 1437.86,
+    "end": 1444.82
+  },
+  {
+    "text": "at risk of harming themselves or when they are just, when they don't know what else to do and",
+    "uid": "a75744e7914f1ea5",
+    "source": "test",
+    "start": 1444.82,
+    "end": 1450.18
+  },
+  {
+    "text": "when they're suffering intensely, there should definitely be a rehabilitative place they can go where",
+    "uid": "e201cbe69590590b",
+    "source": "test",
+    "start": 1450.18,
+    "end": 1456.82
+  },
+  {
+    "text": "they can receive real care. So there's the question of like, you know, should we be, should we send",
+    "uid": "79cefd6fccabc978",
+    "source": "test",
+    "start": 1456.82,
+    "end": 1464.98
+  },
+  {
+    "text": "people somewhere when they're suffering like this? And maybe we can say, yeah, there should be a place that",
+    "uid": "6fe23be06aa9b893",
+    "source": "test",
+    "start": 1464.98,
+    "end": 1471.54
+  },
+  {
+    "text": "people can go. But then the next question is, well, then what should be the nature of that place?",
+    "uid": "b101b6edf3a32ee9",
+    "source": "test",
+    "start": 1471.54,
+    "end": 1475.94
+  },
+  {
+    "text": "And it should be rehabilitative, there should be no force, it should be all consensual,",
+    "uid": "edd2569060914ca4",
+    "source": "test",
+    "start": 1476.9,
+    "end": 1486.66
+  },
+  {
+    "text": "it should be, I mean, there's so many things I think it should be. I mean, it should be human in every",
+    "uid": "2329d34814793a82",
+    "source": "test",
+    "start": 1486.66,
+    "end": 1494.26
+  },
+  {
+    "text": "sense, it should be a place where a person can get their basic needs met, where they'll be treated with dignity,",
+    "uid": "086dc8c7541b42cf",
+    "source": "test",
+    "start": 1494.26,
+    "end": 1500.26
+  },
+  {
+    "text": "where their individuality is preserved, where they're shown respect, where they're taken seriously,",
+    "uid": "3a675f1d43dab923",
+    "source": "test",
+    "start": 1500.34,
+    "end": 1506.34
+  },
+  {
+    "text": "where they're treated like like a sane person who is suffering, but that is just so far from the nature",
+    "uid": "e913538acc60112c",
+    "source": "test",
+    "start": 1506.34,
+    "end": 1514.5
+  },
+  {
+    "text": "of the place we send people when they're suffering intensely. So I'm curious if you could help kind of",
+    "uid": "bd86c7ad9e73efb9",
+    "source": "test",
+    "start": 1514.5,
+    "end": 1519.94
+  },
+  {
+    "text": "color in this picture here of the nature of psychiatric institutions, of psychiatric hospitals.",
+    "uid": "8aa7ab93e08f2764",
+    "source": "test",
+    "start": 1519.94,
+    "end": 1527.14
+  },
+  {
+    "text": "What are they like for anyone who hasn't been there?",
+    "uid": "30e4ee390d459aef",
+    "source": "test",
+    "start": 1528.02,
+    "end": 1530.58
+  },
+  {
+    "text": "Generally, you know, they're, they're a bilsimal. You might have a super high end, one here or there,",
+    "uid": "fdd99dfa772d4b47",
+    "source": "test",
+    "start": 1532.02,
+    "end": 1538.66
+  },
+  {
+    "text": "in America, privatized institution, you can afford it kind of thing that's more of a model or something,",
+    "uid": "6a6077422590f1a7",
+    "source": "test",
+    "start": 1538.66,
+    "end": 1546.82
+  },
+  {
+    "text": "but if they're just so rare, you know, more often what you're getting is just kind of, it's a hospital",
+    "uid": "e65e186259f22b5f",
+    "source": "test",
+    "start": 1546.82,
+    "end": 1552.82
+  },
+  {
+    "text": "environment. So it's not necessarily, you know, future, and, you know, in that sense, right? It's",
+    "uid": "1bd77f4251f66e07",
+    "source": "test",
+    "start": 1552.82,
+    "end": 1560.66
+  },
+  {
+    "text": "a big, just kind of typical from what I've seen and read about is, is I just a sort of sterile,",
+    "uid": "b590f92f81294fd6",
+    "source": "test",
+    "start": 1560.66,
+    "end": 1567.46
+  },
+  {
+    "text": "bland hospital environment, and then worse than the typical area of the hospital, where people being",
+    "uid": "9d02048aaa9a4f52",
+    "source": "test",
+    "start": 1567.46,
+    "end": 1576.34
+  },
+  {
+    "text": "treated for other conditions because here it's sort of darker and bleaker and people are used to",
+    "uid": "e775746501c823ae",
+    "source": "test",
+    "start": 1576.34,
+    "end": 1582.02
+  },
+  {
+    "text": "a sort of, they're kind of more embedded because they're not really able to help people a lot of the",
+    "uid": "dcf538cfb12c0ea5",
+    "source": "test",
+    "start": 1582.02,
+    "end": 1588.58
+  },
+  {
+    "text": "time, and there are some people who are really struggling and there's a certain kind of intimidation and",
+    "uid": "734ad32460dde4ed",
+    "source": "test",
+    "start": 1588.58,
+    "end": 1594.66
+  },
+  {
+    "text": "violence there. You don't have visitors coming and going with as much ease as they do in other places.",
+    "uid": "49456b55252dcf41",
+    "source": "test",
+    "start": 1594.66,
+    "end": 1600.82
+  },
+  {
+    "text": "The patients themselves can't come and go, they're, they're, they're right, so restricted. So it's just",
+    "uid": "edcfbeadef154c6d",
+    "source": "test",
+    "start": 1600.82,
+    "end": 1606.42
+  },
+  {
+    "text": "it's, it's, it's more like a prison environment than even a bland hospital environment in that sense.",
+    "uid": "f18f72fc1966c4a8",
+    "source": "test",
+    "start": 1606.82,
+    "end": 1613.7
+  },
+  {
+    "text": "And that's one of the reasons that people often want to leave as soon as they get there because they",
+    "uid": "5a8ef5167bc80847",
+    "source": "test",
+    "start": 1613.7,
+    "end": 1618.42
+  },
+  {
+    "text": "quickly realize, well, I'm depressed, and this sure isn't going to make me feel better, you know, or I'm anxious,",
+    "uid": "7a389886300279bf",
+    "source": "test",
+    "start": 1618.42,
+    "end": 1625.14
+  },
+  {
+    "text": "and these security guards to make me feel as anxious, people see that very quickly and often want to go,",
+    "uid": "7ffdc6ba2e05a06b",
+    "source": "test",
+    "start": 1625.14,
+    "end": 1632.42
+  },
+  {
+    "text": "and that's when a voluntary patient like my father gets transferred quickly into being an",
+    "uid": "d2b3c27d0fa34e6e",
+    "source": "test",
+    "start": 1632.42,
+    "end": 1637.86
+  },
+  {
+    "text": "involuntary patient. I'm often because, again, they have a lot of insight. So that's part of it.",
+    "uid": "8e692abdf7513086",
+    "source": "test",
+    "start": 1637.86,
+    "end": 1643.38
+  },
+  {
+    "text": "I want to highlight what you just did, too, is this is particular with traumatizing for children,",
+    "uid": "ba28304cba618794",
+    "source": "test",
+    "start": 1643.38,
+    "end": 1649.14
+  },
+  {
+    "text": "and we do it to children a lot. In fact, the best data we have shows that this is the age group that's",
+    "uid": "aee269be7394ac59",
+    "source": "test",
+    "start": 1649.14,
+    "end": 1655.94
+  },
+  {
+    "text": "being involuntarily committed ever more rap, ever more, you know, the statistics show that",
+    "uid": "b5bf04da60d660dd",
+    "source": "test",
+    "start": 1656.02,
+    "end": 1662.9
+  },
+  {
+    "text": "they're the fastest rising group. And that's because schools seem to be using it as a mix of both",
+    "uid": "0f006d19ce8c927d",
+    "source": "test",
+    "start": 1662.9,
+    "end": 1669.54
+  },
+  {
+    "text": "a punishment tool and a helping tool. And that highlights, again, what you were just talking about,",
+    "uid": "07920d2060a2a08b",
+    "source": "test",
+    "start": 1669.54,
+    "end": 1674.74
+  },
+  {
+    "text": "that the laws currently are kind of being used in both ways. Sometimes we're justifying it as,",
+    "uid": "9bddd285ca8d944d",
+    "source": "test",
+    "start": 1674.74,
+    "end": 1679.7
+  },
+  {
+    "text": "well, it's a policing intervention, this person's dangerous, and sometimes we're justifying it as,",
+    "uid": "dc34ddec0259d31c",
+    "source": "test",
+    "start": 1679.7,
+    "end": 1685.14
+  },
+  {
+    "text": "this is a helping intervention. We really want to help this poor person. And what I like to",
+    "uid": "0a61cd437fd35a72",
+    "source": "test",
+    "start": 1685.14,
+    "end": 1690.5
+  },
+  {
+    "text": "highlight is that we need to separate those two things out. It's not good to have an institution,",
+    "uid": "b1e9ef02c7d44961",
+    "source": "test",
+    "start": 1690.5,
+    "end": 1695.7
+  },
+  {
+    "text": "but supposedly, you know, mandated to do both, you know, at the same time, I E. S. Ike after",
+    "uid": "bf896154d615c665",
+    "source": "test",
+    "start": 1695.7,
+    "end": 1701.38
+  },
+  {
+    "text": "costbores Ikeiatric ward, because it tends to end up defaulting to the policing role rather than the",
+    "uid": "14bc450c12c56f4b",
+    "source": "test",
+    "start": 1701.38,
+    "end": 1707.7
+  },
+  {
+    "text": "helping role. And really, much more ideally, these things would be such a nice, welcoming, helping,",
+    "uid": "c17a6a0e720ce04c",
+    "source": "test",
+    "start": 1707.7,
+    "end": 1714.02
+  },
+  {
+    "text": "warm environment. People in distress would want to go there. And if they got brought there,",
+    "uid": "a3b90c9b974cc39b",
+    "source": "test",
+    "start": 1714.02,
+    "end": 1719.86
+  },
+  {
+    "text": "they'd want to stay there. And that's not what's happening right now. And so the policing role",
+    "uid": "fce40cfb15885c26",
+    "source": "test",
+    "start": 1719.86,
+    "end": 1725.46
+  },
+  {
+    "text": "is becoming ever stronger in a lot of these issues. Such a good point. And if we were to separate those out,",
+    "uid": "a4de9e33259584ea",
+    "source": "test",
+    "start": 1725.46,
+    "end": 1732.58
+  },
+  {
+    "text": "the size of the policing institutions would be way smaller. You know, the number of people who need that",
+    "uid": "f61c6e8b97e2cc98",
+    "source": "test",
+    "start": 1733.22,
+    "end": 1739.94
+  },
+  {
+    "text": "is miniscule compared to the number of people who need just human rehabilitation and compassion",
+    "uid": "fddfefa1a8d20cb9",
+    "source": "test",
+    "start": 1740.66,
+    "end": 1746.34
+  },
+  {
+    "text": "and support. So that's a really good point. What you say about children too, I mean,",
+    "uid": "95542e2325efb9e2",
+    "source": "test",
+    "start": 1746.34,
+    "end": 1751.38
+  },
+  {
+    "text": "rage wells up within me when I, when I analyze the data, when I hear stories, when I observe",
+    "uid": "35857caaf4a850ea",
+    "source": "test",
+    "start": 1753.22,
+    "end": 1761.46
+  },
+  {
+    "text": "the violations occurring to children, it's just like, it's rage. That's the emotion. I can't",
+    "uid": "00f0cbd8ffb41c49",
+    "source": "test",
+    "start": 1762.42,
+    "end": 1771.38
+  },
+  {
+    "text": "believe that this is happening. And that it is so incredibly normalized. It's already a huge problem",
+    "uid": "5dbe70150691f2b8",
+    "source": "test",
+    "start": 1771.38,
+    "end": 1779.78
+  },
+  {
+    "text": "that families are convinced that their child should be taking drug treatments. I already see that",
+    "uid": "9dcf4e717143dc92",
+    "source": "test",
+    "start": 1779.78,
+    "end": 1786.26
+  },
+  {
+    "text": "as a massive problem. But to then cross that line and disregard consent of the family or to",
+    "uid": "4e8e6348954ac8e7",
+    "source": "test",
+    "start": 1786.26,
+    "end": 1793.7
+  },
+  {
+    "text": "manipulate the situation and make the child and the family think that this is totally necessary,",
+    "uid": "88933d21078860a5",
+    "source": "test",
+    "start": 1793.7,
+    "end": 1798.9
+  },
+  {
+    "text": "that they're on these antipsychotics. It infuriates me. And it is unforgivable. And we will look back",
+    "uid": "8bca51f0e36b14a2",
+    "source": "test",
+    "start": 1798.9,
+    "end": 1807.94
+  },
+  {
+    "text": "upon this time period with what's gavingly. I mean, there's history will look back on this",
+    "uid": "c7c412e1a9c47b5a",
+    "source": "test",
+    "start": 1808.02,
+    "end": 1815.54
+  },
+  {
+    "text": "very, very harshly. And it's like, I just want to get on a mountaintop with a megaphone and",
+    "uid": "50ce492cda68cb77",
+    "source": "test",
+    "start": 1816.34,
+    "end": 1823.94
+  },
+  {
+    "text": "scream to the world, this is not okay. This must stop. Yeah, the Tampa Bay Times did a great series of",
+    "uid": "a26da24656eb7c1f",
+    "source": "test",
+    "start": 1823.94,
+    "end": 1834.74
+  },
+  {
+    "text": "investigative articles, particularly on the rising use of mental health laws against children",
+    "uid": "36e0338f6556459f",
+    "source": "test",
+    "start": 1834.74,
+    "end": 1842.9
+  },
+  {
+    "text": "and youth in Florida. And so devastating and the rates of it going up so rapidly, that the government",
+    "uid": "cd911c1e6d159ed2",
+    "source": "test",
+    "start": 1842.9,
+    "end": 1850.42
+  },
+  {
+    "text": "has mandated an effort to try to get it under control and bring down those numbers of the last few",
+    "uid": "9692efb28a34cf80",
+    "source": "test",
+    "start": 1850.42,
+    "end": 1857.06
+  },
+  {
+    "text": "years. But you have a stories that were being relayed were just absolutely brutal to read, you know,",
+    "uid": "1ce3e2601cbee605",
+    "source": "test",
+    "start": 1857.06,
+    "end": 1864.26
+  },
+  {
+    "text": "children as young as six being handcuffed, you know, and taken up the psychiatric hospitals,",
+    "uid": "954dadbfb1b1eb18",
+    "source": "test",
+    "start": 1864.26,
+    "end": 1870.98
+  },
+  {
+    "text": "young young women in men being put in these institutions with much older people and being sexually",
+    "uid": "b43d436521f1b393",
+    "source": "test",
+    "start": 1871.7,
+    "end": 1881.14
+  },
+  {
+    "text": "assaulted in the institution by by fellow patients or by the staff there because a lot of these",
+    "uid": "4493e47cd4187502",
+    "source": "test",
+    "start": 1881.14,
+    "end": 1886.9
+  },
+  {
+    "text": "institutions are very poorly regulated. And that's, you know, a whole series of sections in my book",
+    "uid": "a05bc4c4ce864ba1",
+    "source": "test",
+    "start": 1886.9,
+    "end": 1892.66
+  },
+  {
+    "text": "is the poor oversight and regulation of these facilities. And so it's not uncommon at all,",
+    "uid": "290c82736099d28d",
+    "source": "test",
+    "start": 1892.66,
+    "end": 1899.22
+  },
+  {
+    "text": "unfortunately, particularly the area of children and youth care because a lot of these institutions",
+    "uid": "e8feedba0421b206",
+    "source": "test",
+    "start": 1899.22,
+    "end": 1906.34
+  },
+  {
+    "text": "are, you know, the power and balances even bigger, right? And the physical power and balance between",
+    "uid": "6c3cfe5f45d3e60d",
+    "source": "test",
+    "start": 1906.34,
+    "end": 1912.82
+  },
+  {
+    "text": "growth, full grown adults and and small children is is so extreme that a lot of the institutions that are",
+    "uid": "82def7297d404a1b",
+    "source": "test",
+    "start": 1912.82,
+    "end": 1919.94
+  },
+  {
+    "text": "caring for our children and youth in this area are notoriously abusive and people like Paris Hilton",
+    "uid": "081a1367e4152a37",
+    "source": "test",
+    "start": 1919.94,
+    "end": 1928.42
+  },
+  {
+    "text": "have been trying to highlight that, you know, she was victimized by one of the institutions in",
+    "uid": "a2a8eb0d60d32bdb",
+    "source": "test",
+    "start": 1928.42,
+    "end": 1934.1
+  },
+  {
+    "text": "earlier in her life and they still exist today very much in the same kind of vein. And I keep wanting to",
+    "uid": "42de0d0eb15f48e7",
+    "source": "test",
+    "start": 1934.1,
+    "end": 1943.22
+  },
+  {
+    "text": "like make sure this all, like what the rubber meets the road for people and that this doesn't sound",
+    "uid": "34b135e7c0f14148",
+    "source": "test",
+    "start": 1943.22,
+    "end": 1949.22
+  },
+  {
+    "text": "like some abstract problem that doesn't relate to people because I think it's important for any listener",
+    "uid": "017c85d0904a286d",
+    "source": "test",
+    "start": 1949.22,
+    "end": 1954.42
+  },
+  {
+    "text": "to realize that even if you don't know anyone who's been subjected to this sort of forced treatment",
+    "uid": "43bb72e45f9e9b37",
+    "source": "test",
+    "start": 1954.42,
+    "end": 1961.86
+  },
+  {
+    "text": "or if you haven't personally, you could be, you know, it doesn't, it wouldn't take much for one of",
+    "uid": "10bebf7f95080609",
+    "source": "test",
+    "start": 1962.58,
+    "end": 1969.14
+  },
+  {
+    "text": "your behaviors for something you do to be framed as being reflective of some kind of insanity",
+    "uid": "7f09fadd1d32bceb",
+    "source": "test",
+    "start": 1969.22,
+    "end": 1976.42
+  },
+  {
+    "text": "and then to be against your will hospitalized and drugged and then to realize that once you're in",
+    "uid": "e0dc97ffe309a32a",
+    "source": "test",
+    "start": 1976.98,
+    "end": 1986.58
+  },
+  {
+    "text": "that situation, it's very difficult to prove your same. It's very difficult to prove that this is not",
+    "uid": "a5b2d4662e8c34bc",
+    "source": "test",
+    "start": 1986.58,
+    "end": 1995.7
+  },
+  {
+    "text": "appropriate for you and I'm reminded of, you know, the famous study which was published in 1973",
+    "uid": "c80e75e99e5db6f2",
+    "source": "test",
+    "start": 1995.7,
+    "end": 2003.54
+  },
+  {
+    "text": "called Being Sane in St. Places and I'll just, I actually pulled it up predicting that I would bring it",
+    "uid": "a1302a49080b5211",
+    "source": "test",
+    "start": 2004.1,
+    "end": 2012.9
+  },
+  {
+    "text": "up in our conversation here and so I forgive me if you touched on it in the book and I don't want to",
+    "uid": "2ebf9765788a1ba9",
+    "source": "test",
+    "start": 2012.9,
+    "end": 2021.46
+  },
+  {
+    "text": "go on and on about it if you're already aware of it but before the listeners, this to me is one of the",
+    "uid": "41f150069d62216c",
+    "source": "test",
+    "start": 2021.54,
+    "end": 2027.3
+  },
+  {
+    "text": "most important experiments in the history of psychology and again the title is on being Sane in",
+    "uid": "4e89beba57fc86d3",
+    "source": "test",
+    "start": 2027.3,
+    "end": 2035.86
+  },
+  {
+    "text": "Sane Places published by David Rosenhahn and in this experiments, David and seven other highly functional",
+    "uid": "07b9c8a9424e0624",
+    "source": "test",
+    "start": 2035.86,
+    "end": 2045.86
+  },
+  {
+    "text": "people acted, you know, reported symptoms that they knew would get them a diagnosis and in, in this",
+    "uid": "20b208eed373ef8a",
+    "source": "test",
+    "start": 2045.94,
+    "end": 2054.34
+  },
+  {
+    "text": "case it was, it was schizophrenia and that would get them hospitalized so they famed symptoms",
+    "uid": "f276d6302d9bcc9c",
+    "source": "test",
+    "start": 2054.34,
+    "end": 2060.42
+  },
+  {
+    "text": "because what they wanted to experiment was once they were hospitalized, would they be able to prove that",
+    "uid": "4705b65928396a97",
+    "source": "test",
+    "start": 2060.98,
+    "end": 2067.22
+  },
+  {
+    "text": "they didn't belong there and the short answer is no, they were not able to prove that they didn't belong",
+    "uid": "e67a36a168a72173",
+    "source": "test",
+    "start": 2067.22,
+    "end": 2074.82
+  },
+  {
+    "text": "there and these are, we're not even just normal people, these were highly functional people, like",
+    "uid": "5f929680b93f869a",
+    "source": "test",
+    "start": 2075.7,
+    "end": 2083.7
+  },
+  {
+    "text": "graduate students, professors at Stanford University, home makers, veterinarians, highly highly",
+    "uid": "baa6f4d07b1e35c2",
+    "source": "test",
+    "start": 2083.7,
+    "end": 2092.18
+  },
+  {
+    "text": "functional people, right? But once they were in the hospital setting, the the perception of the doctors",
+    "uid": "9eb0618f0bad388e",
+    "source": "test",
+    "start": 2092.18,
+    "end": 2099.62
+  },
+  {
+    "text": "and the staff in there was so primed to see these individuals as being in Sane that they interpreted",
+    "uid": "47dfeb7338d30372",
+    "source": "test",
+    "start": 2099.7,
+    "end": 2109.38
+  },
+  {
+    "text": "all of their behavior as confirmation of their insanity and I'll just read the, the, a line or two",
+    "uid": "53532ba2c89de050",
+    "source": "test",
+    "start": 2109.38,
+    "end": 2117.86
+  },
+  {
+    "text": "from their conclusion, I'm scrolling down to it here, they wrote, it is clear that we cannot distinguish",
+    "uid": "c2848c1de6342e71",
+    "source": "test",
+    "start": 2117.86,
+    "end": 2131.61
+  },
+  {
+    "text": "the Sane from the In Sane in psychiatric hospitals. The hospital itself imposes a special environment",
+    "uid": "3280e5209d72f8d2",
+    "source": "test",
+    "start": 2131.69,
+    "end": 2141.05
+  },
+  {
+    "text": "in which the meanings of behavior can easily be misunderstood and the consequences to patients",
+    "uid": "511b3c82f4ec269f",
+    "source": "test",
+    "start": 2141.05,
+    "end": 2148.09
+  },
+  {
+    "text": "hospitalized in such an environment, the powerlessness, de-personalization, segregation, modification,",
+    "uid": "09b5c6c2cb11904d",
+    "source": "test",
+    "start": 2148.09,
+    "end": 2155.61
+  },
+  {
+    "text": "and self labeling seem undoubtedly counter therapeutic and so for any listeners who, you know,",
+    "uid": "5e61ffc7b62890a6",
+    "source": "test",
+    "start": 2155.61,
+    "end": 2165.05
+  },
+  {
+    "text": "who found that to be interesting, I highly encourage you to read the whole study, you can easily find",
+    "uid": "0cc3f6b674fcb217",
+    "source": "test",
+    "start": 2165.05,
+    "end": 2169.93
+  },
+  {
+    "text": "a PDF online with the information I gave and again, I think it's one of the most important psychology",
+    "uid": "a1f546781621aed8",
+    "source": "test",
+    "start": 2169.93,
+    "end": 2176.65
+  },
+  {
+    "text": "studies ever done and it highlights, you know, one of the serious problems with what we're talking about",
+    "uid": "0e8b0337072939a9",
+    "source": "test",
+    "start": 2176.65,
+    "end": 2183.85
+  },
+  {
+    "text": "is once you're putting that situation, it's very difficult to prove that it's time for you to go home",
+    "uid": "0566677145a34835",
+    "source": "test",
+    "start": 2183.85,
+    "end": 2190.41
+  },
+  {
+    "text": "now, that you don't need to be there anymore, that you are in fact saying. So I need to highlight, you know,",
+    "uid": "12fec4e725c588bd",
+    "source": "test",
+    "start": 2190.41,
+    "end": 2199.02
+  },
+  {
+    "text": "unfamiliar with the study and certainly I found an influential some years ago, I need to highlight,",
+    "uid": "a8be8368d4257c12",
+    "source": "test",
+    "start": 2199.02,
+    "end": 2205.02
+  },
+  {
+    "text": "there is a book out about that study recently last few years. I've read the book by understanding",
+    "uid": "bc29d740f5a507e7",
+    "source": "test",
+    "start": 2205.02,
+    "end": 2212.78
+  },
+  {
+    "text": "though, is that it raises questions about the the veracity of some aspects of that study.",
+    "uid": "112ad9b6dc7c1443",
+    "source": "test",
+    "start": 2212.78,
+    "end": 2221.02
+  },
+  {
+    "text": "So what was the name of that book? It's called the Great Pretender and yeah, like I say, I mean,",
+    "uid": "aca896335df2c4c6",
+    "source": "test",
+    "start": 2221.02,
+    "end": 2230.38
+  },
+  {
+    "text": "I think that my understanding of it from a basically from a friend of mine that read it was just that,",
+    "uid": "67ed23710780294d",
+    "source": "test",
+    "start": 2230.38,
+    "end": 2235.5
+  },
+  {
+    "text": "you know, it raises a lot of interesting questions. It's been a long time since that study occurred",
+    "uid": "b48df0844719ed0e",
+    "source": "test",
+    "start": 2235.5,
+    "end": 2241.58
+  },
+  {
+    "text": "so they weren't able to find a lot of the notes and so on and so forth. Never the last year,",
+    "uid": "5396c8f7601efd03",
+    "source": "test",
+    "start": 2241.58,
+    "end": 2247.1
+  },
+  {
+    "text": "one of my thoughts too is the fact that even if I don't think she manages to prove this, but even if we",
+    "uid": "63d0785f22371b87",
+    "source": "test",
+    "start": 2247.1,
+    "end": 2254.7
+  },
+  {
+    "text": "went to the extreme and said the whole thing was fake, that makes it all the more compelling that it was",
+    "uid": "a790f499eb0a2307",
+    "source": "test",
+    "start": 2254.7,
+    "end": 2260.06
+  },
+  {
+    "text": "actually successful, right? Because yeah, again, it hits a nerve, it really hits a nerve in that area.",
+    "uid": "1f0462551ac96ff9",
+    "source": "test",
+    "start": 2260.06,
+    "end": 2267.5
+  },
+  {
+    "text": "And of course, that's one of the things about it is that you can think of mental illness really",
+    "uid": "11c21db1b17b49e4",
+    "source": "test",
+    "start": 2268.46,
+    "end": 2274.38
+  },
+  {
+    "text": "easily because again, there's no way to test whether at the person court, I quote,",
+    "uid": "e773b19da5c2cd93",
+    "source": "test",
+    "start": 2274.38,
+    "end": 2278.7
+  },
+  {
+    "text": "Hazard or Desert. Yes, exactly. Yeah, and many people are even aware of the phenomenon we call",
+    "uid": "e5b97692f40353e0",
+    "source": "test",
+    "start": 2278.7,
+    "end": 2286.78
+  },
+  {
+    "text": "malingering when a person deliberately fakes, I mean it could be any illness, but the mental disorders are",
+    "uid": "3db769eeaddda115",
+    "source": "test",
+    "start": 2286.78,
+    "end": 2294.46
+  },
+  {
+    "text": "particularly easy to fain because it's all based on self reporting. And so I've met many people,",
+    "uid": "213c4282af16a398",
+    "source": "test",
+    "start": 2294.54,
+    "end": 2302.54
+  },
+  {
+    "text": "you know, I've mentioned many times on this podcast that some of the work that I do is in the Jails",
+    "uid": "41bb09d3dea7a35d",
+    "source": "test",
+    "start": 2302.54,
+    "end": 2308.62
+  },
+  {
+    "text": "and Prison System. And so I meet many people who will first of all who are court-ordered to",
+    "uid": "35ad8a73c2d5df7e",
+    "source": "test",
+    "start": 2308.62,
+    "end": 2315.9
+  },
+  {
+    "text": "comply with their drug treatment, so there's that. And then also people who actually, I mean basically",
+    "uid": "faf2fea97699aadc",
+    "source": "test",
+    "start": 2316.62,
+    "end": 2323.58
+  },
+  {
+    "text": "the most common theme is people are in Jail on some type of drug charge, some type of possession",
+    "uid": "d7914783a26c0746",
+    "source": "test",
+    "start": 2323.9,
+    "end": 2331.34
+  },
+  {
+    "text": "or sales charge. And so basically they have severe drug addictions, they get incarcerated, they don't",
+    "uid": "649df6fe030898d0",
+    "source": "test",
+    "start": 2331.34,
+    "end": 2337.34
+  },
+  {
+    "text": "have access to their favorite street drug, but they realize quickly that they can access",
+    "uid": "6d13fedf136926e3",
+    "source": "test",
+    "start": 2337.34,
+    "end": 2342.86
+  },
+  {
+    "text": "a powerful psychoactive substance within the Jail. And that is if it gets prescribed to them.",
+    "uid": "db9cefb645da03db",
+    "source": "test",
+    "start": 2343.74,
+    "end": 2349.42
+  },
+  {
+    "text": "And they quickly figure out, well, what would it take for it to get prescribed to me? I just need to",
+    "uid": "c8e18c1fbc2d953a",
+    "source": "test",
+    "start": 2349.42,
+    "end": 2354.46
+  },
+  {
+    "text": "get diagnosed with this disorder. And how do I do that? I just report these symptoms. That's it.",
+    "uid": "33caf4c7c10006e4",
+    "source": "test",
+    "start": 2354.46,
+    "end": 2360.7
+  },
+  {
+    "text": "Easy. And maybe put on a little bit of acting. And so I've met many people who do this thing that we call",
+    "uid": "41cbc7aff004379b",
+    "source": "test",
+    "start": 2360.7,
+    "end": 2367.18
+  },
+  {
+    "text": "malingering. And it can be because the person wants access to drugs or it can be because the",
+    "uid": "c6c0f163971840b5",
+    "source": "test",
+    "start": 2367.18,
+    "end": 2373.34
+  },
+  {
+    "text": "person wants disability money for many reasons, there may be an incentive to get a diagnosis,",
+    "uid": "a5d3474740b8ba59",
+    "source": "test",
+    "start": 2373.34,
+    "end": 2379.5
+  },
+  {
+    "text": "but the point is it's very easy to fake it with mental disorders because it's all based on self-reporting.",
+    "uid": "7cecfe9b44e542b0",
+    "source": "test",
+    "start": 2379.5,
+    "end": 2387.42
+  },
+  {
+    "text": "One of the things we see consistently in the research literature is that if you expose a wider number",
+    "uid": "af9484ba4cd138db",
+    "source": "test",
+    "start": 2388.62,
+    "end": 2395.1
+  },
+  {
+    "text": "of people to being screened for mental disorders or being interviewed, seriously examine for mental",
+    "uid": "d566edeb34c84ed3",
+    "source": "test",
+    "start": 2395.1,
+    "end": 2402.7
+  },
+  {
+    "text": "disorders, you will find a high-ever higher percentages of people being labeled with mental disorders.",
+    "uid": "a90224fa2abcc057",
+    "source": "test",
+    "start": 2402.7,
+    "end": 2408.86
+  },
+  {
+    "text": "It's consistent. It's never going in the other direction. Right. The more people you expose, the more you",
+    "uid": "93b965ecfb1eb4ba",
+    "source": "test",
+    "start": 2408.86,
+    "end": 2414.94
+  },
+  {
+    "text": "diagnose. Exactly. Yes. Well, I want to bring something that you might be well aware of, but I don't",
+    "uid": "5ac9271880e2eef5",
+    "source": "test",
+    "start": 2415.1,
+    "end": 2423.9
+  },
+  {
+    "text": "know how many audience members are well aware that in 2023, the World Health Organization and the",
+    "uid": "16a6f6d878876500",
+    "source": "test",
+    "start": 2423.9,
+    "end": 2430.86
+  },
+  {
+    "text": "United Nations published a document that is widely known as the guidance. And",
+    "uid": "b543421499125e3c",
+    "source": "test",
+    "start": 2434.46,
+    "end": 2441.82
+  },
+  {
+    "text": "it's guidance being offered basically to around legislation, around mental health legislation.",
+    "uid": "f0dedd61687143dd",
+    "source": "test",
+    "start": 2442.06,
+    "end": 2450.94
+  },
+  {
+    "text": "And the mission is to make mental health legislation be more aligned with international human rights",
+    "uid": "94bb53a8d66ae424",
+    "source": "test",
+    "start": 2451.5,
+    "end": 2460.38
+  },
+  {
+    "text": "standards because right now it is not aligned with human rights standards.",
+    "uid": "3117e7a210dfb869",
+    "source": "test",
+    "start": 2461.02,
+    "end": 2467.42
+  },
+  {
+    "text": "For you know, and your book to me is such a prime investigation and example of all the ways in which human rights",
+    "uid": "2f9906700f60c0cd",
+    "source": "test",
+    "start": 2468.22,
+    "end": 2479.82
+  },
+  {
+    "text": "are violated with mental health legislation. And so all I'll do right now is just read a few of the bullet points",
+    "uid": "9a209625eecf32ad",
+    "source": "test",
+    "start": 2479.82,
+    "end": 2487.42
+  },
+  {
+    "text": "that are published in this document, which is I think it's a couple hundred pages.",
+    "uid": "643f354a5c6dd66e",
+    "source": "test",
+    "start": 2487.42,
+    "end": 2492.22
+  },
+  {
+    "text": "And so there's a section here right in the beginning where they say, you know, why is the guidance",
+    "uid": "9b1c6c3285ddc0bc",
+    "source": "test",
+    "start": 2493.18,
+    "end": 2498.94
+  },
+  {
+    "text": "important? So the first bullet point says, the fundamental shift is required within the field of mental health.",
+    "uid": "7eccde2695c1703e",
+    "source": "test",
+    "start": 2498.94,
+    "end": 2506.46
+  },
+  {
+    "text": "I want to say stigma, discrimination, and other human rights violations continue in mental health care",
+    "uid": "22fa4089f693caa3",
+    "source": "test",
+    "start": 2507.02,
+    "end": 2513.82
+  },
+  {
+    "text": "settings. There's an overreliance on biomedical approaches to treatment options in patient services and care",
+    "uid": "a3ee1aa5cd25873b",
+    "source": "test",
+    "start": 2513.82,
+    "end": 2520.54
+  },
+  {
+    "text": "and little attention given to social determinants and community-based person-centered interventions.",
+    "uid": "3fee3dd872c94fb0",
+    "source": "test",
+    "start": 2520.7,
+    "end": 2527.5
+  },
+  {
+    "text": "Legislation can help ensure that human rights underpin all actions in the field of mental health.",
+    "uid": "4aa23e4562b1aef8",
+    "source": "test",
+    "start": 2528.22,
+    "end": 2535.58
+  },
+  {
+    "text": "And then I'll just read a couple more bullet points. One is most legislation on mental health fails to embrace",
+    "uid": "62215282a64d7441",
+    "source": "test",
+    "start": 2536.62,
+    "end": 2542.78
+  },
+  {
+    "text": "a rights-based approach. International human rights, international human rights law requires",
+    "uid": "391b45f1836e8d9d",
+    "source": "test",
+    "start": 2542.86,
+    "end": 2551.5
+  },
+  {
+    "text": "non-discrimination and respect for all human rights in the implementation of the rights of health.",
+    "uid": "33386215df4ee962",
+    "source": "test",
+    "start": 2551.5,
+    "end": 2557.5
+  },
+  {
+    "text": "And the international human rights framework requires a transformation in the way mental health",
+    "uid": "bc749fde097b7f29",
+    "source": "test",
+    "start": 2558.94,
+    "end": 2565.34
+  },
+  {
+    "text": "services are provided. And I'll read a little bit more about that one. So it says, all persons should be",
+    "uid": "356c60f25530c4b6",
+    "source": "test",
+    "start": 2565.34,
+    "end": 2571.5
+  },
+  {
+    "text": "able to exercise their rights to give free and informed consent to accept or reject the treatment",
+    "uid": "4b7d4c094836005a",
+    "source": "test",
+    "start": 2571.5,
+    "end": 2578.94
+  },
+  {
+    "text": "in mental health systems. Denial of legal capacity, coercive practices, and institutionalization must",
+    "uid": "cc85b3db4ef40b4d",
+    "source": "test",
+    "start": 2578.94,
+    "end": 2587.9
+  },
+  {
+    "text": "end. It's almost like the UN and the World Health Organization Redger Book, you know, as part of",
+    "uid": "05de2b4a662f623c",
+    "source": "test",
+    "start": 2587.9,
+    "end": 2597.51
+  },
+  {
+    "text": "what informed him about. They were head actually and it's amazing. Tina Mincoets,",
+    "uid": "726a7d6d6e411449",
+    "source": "test",
+    "start": 2597.51,
+    "end": 2606.23
+  },
+  {
+    "text": "a lawyer and a person who personally had experienced involuntary commitment and force treatment in",
+    "uid": "e8924d760313da04",
+    "source": "test",
+    "start": 2606.23,
+    "end": 2612.79
+  },
+  {
+    "text": "her life and went on to become a lawyer after that was a key player in the development of the",
+    "uid": "0aa86091029dad57",
+    "source": "test",
+    "start": 2612.79,
+    "end": 2619.51
+  },
+  {
+    "text": "convention on the rights of persons with disabilities representing people labeled with psychiatric",
+    "uid": "705f966350b5af48",
+    "source": "test",
+    "start": 2619.51,
+    "end": 2624.79
+  },
+  {
+    "text": "disabilities. And yeah, it was transformative process that the United Nations ran around the convention",
+    "uid": "9b1c7961e64cebfb",
+    "source": "test",
+    "start": 2624.79,
+    "end": 2632.07
+  },
+  {
+    "text": "and then that led ultimately to them declaring the force treatment and involuntary commitment",
+    "uid": "7db010adb80f8cc6",
+    "source": "test",
+    "start": 2632.07,
+    "end": 2638.15
+  },
+  {
+    "text": "were not in alignment with the convention on the rights of persons with disabilities and needed to be",
+    "uid": "d8b28bf1afcb7647",
+    "source": "test",
+    "start": 2638.95,
+    "end": 2644.79
+  },
+  {
+    "text": "and the World Health Organization has since agreed and has issued a number of",
+    "uid": "9bbc7e92f7861da6",
+    "source": "test",
+    "start": 2645.75,
+    "end": 2651.19
+  },
+  {
+    "text": "guidance over the last few years that are very strong, as surprisingly strong, you know,",
+    "uid": "5812945a79003c3e",
+    "source": "test",
+    "start": 2651.19,
+    "end": 2656.87
+  },
+  {
+    "text": "beyond use to these mainstream institutions in health really defending a force treatment. Even though we",
+    "uid": "bc4dfd968ee90dfa",
+    "source": "test",
+    "start": 2656.87,
+    "end": 2664.15
+  },
+  {
+    "text": "next to no evidence that forced psychiatric treatment actually helps anyone and that's important to",
+    "uid": "b213aff45155accc",
+    "source": "test",
+    "start": 2665.19,
+    "end": 2670.87
+  },
+  {
+    "text": "put that was part of the reason they landed here is they were looking at the scientific evidence and",
+    "uid": "81a340105c3e71a7",
+    "source": "test",
+    "start": 2670.87,
+    "end": 2675.51
+  },
+  {
+    "text": "finding that there's no evidence that it that it helps people and a lot of evidence that it hurts and",
+    "uid": "c4ad8669fa3c8b3e",
+    "source": "test",
+    "start": 2675.51,
+    "end": 2680.79
+  },
+  {
+    "text": "harms and traumatizes people in a lot of different ways. So that was part of it as well. And so yeah,",
+    "uid": "357678e57c644758",
+    "source": "test",
+    "start": 2680.79,
+    "end": 2687.75
+  },
+  {
+    "text": "it's great. I think it's really important work and unfortunately though even the countries that have",
+    "uid": "144805767c534e7c",
+    "source": "test",
+    "start": 2687.75,
+    "end": 2695.59
+  },
+  {
+    "text": "signed on to the convention on the rights of persons with disabilities have been resistant and",
+    "uid": "43bdfcf4f1b08ed9",
+    "source": "test",
+    "start": 2695.59,
+    "end": 2701.19
+  },
+  {
+    "text": "reluctant and to implement this particular part of it. So we don't I think there may be one country that's",
+    "uid": "7b2487765caf8485",
+    "source": "test",
+    "start": 2701.19,
+    "end": 2710.15
+  },
+  {
+    "text": "moving in the direction of trying to abolish a force treatment one that I know of, but most aren't",
+    "uid": "68616eead49d0bc7",
+    "source": "test",
+    "start": 2710.15,
+    "end": 2717.67
+  },
+  {
+    "text": "getting anywhere close and are simply entrenching and and are saying, well, that one we didn't agree to",
+    "uid": "f1d60a8daefcd6c6",
+    "source": "test",
+    "start": 2717.67,
+    "end": 2722.79
+  },
+  {
+    "text": "there, you know, and so on. So right now it's basically a flag we can hold up but it's not something that",
+    "uid": "74212ed06af6a74d",
+    "source": "test",
+    "start": 2722.79,
+    "end": 2730.39
+  },
+  {
+    "text": "countries have to abide by. And what is that one country? My understanding is that it's Brazil,",
+    "uid": "28273cfa61af54db",
+    "source": "test",
+    "start": 2730.39,
+    "end": 2737.99
+  },
+  {
+    "text": "that I don't know a lot about it, so I don't want to speak to it but anyone who's interested can have a look.",
+    "uid": "d75bb0296f36129b",
+    "source": "test",
+    "start": 2738.71,
+    "end": 2744.71
+  },
+  {
+    "text": "There's a couple of Latin American countries that have been more respectful of the convention in",
+    "uid": "7050f259a2cee5b1",
+    "source": "test",
+    "start": 2744.71,
+    "end": 2752.39
+  },
+  {
+    "text": "that sense and are moving towards it. There's also a part of Italy that prior to this had",
+    "uid": "2347f1392967bd8d",
+    "source": "test",
+    "start": 2752.39,
+    "end": 2758.39
+  },
+  {
+    "text": "moved in that direction called Trieste and they have basically almost successfully eliminated it all together.",
+    "uid": "49d3d73f2292f710",
+    "source": "test",
+    "start": 2758.39,
+    "end": 2766.63
+  },
+  {
+    "text": "And that's one of the things that the guidance is talk about from the world health organization,",
+    "uid": "f293845c090bb085",
+    "source": "test",
+    "start": 2766.63,
+    "end": 2771.03
+  },
+  {
+    "text": "look at examples around the world of either institutions or in some cases like Trieste and Tire regions",
+    "uid": "e6ea15f123432d17",
+    "source": "test",
+    "start": 2771.03,
+    "end": 2777.59
+  },
+  {
+    "text": "that have managed to basically get rid of involuntary commitment and forced treatment through",
+    "uid": "60b866fcf6ee5cba",
+    "source": "test",
+    "start": 2777.59,
+    "end": 2785.59
+  },
+  {
+    "text": "implementing a very robust services for people that are voluntary but very appealing. Sometimes you read",
+    "uid": "e5d73469cf89ea4a",
+    "source": "test",
+    "start": 2785.59,
+    "end": 2793.19
+  },
+  {
+    "text": "about them oh gosh, you know, I'd love to hang out in that psychiatric community. People are getting",
+    "uid": "04ec6ff3c10fb1e0",
+    "source": "test",
+    "start": 2793.19,
+    "end": 2799.51
+  },
+  {
+    "text": "a ray of therapies offered to them and supports with their daily lives and all these kinds of things",
+    "uid": "2680ca8cbae218b2",
+    "source": "test",
+    "start": 2799.51,
+    "end": 2806.71
+  },
+  {
+    "text": "where you kind of could see that wouldn't be so bad and I think that's what we need. We need the",
+    "uid": "bf0159b83113f9cd",
+    "source": "test",
+    "start": 2806.71,
+    "end": 2811.59
+  },
+  {
+    "text": "kind of institutions where you or I might say hey that sounds even good for me just on a good day when",
+    "uid": "735e5559e32ae39c",
+    "source": "test",
+    "start": 2811.59,
+    "end": 2817.75
+  },
+  {
+    "text": "I'm struggling and therefore for somebody who's really, really struggling it's going to be not only really",
+    "uid": "9ea89c823e5d8eee",
+    "source": "test",
+    "start": 2817.75,
+    "end": 2823.43
+  },
+  {
+    "text": "appealing but probably really helpful. Exactly. So what do you see as the biggest roadblocks",
+    "uid": "e82bf9fb55cfa202",
+    "source": "test",
+    "start": 2823.43,
+    "end": 2830.47
+  },
+  {
+    "text": "to get into that point? In any country I know that might be a different answer depending on",
+    "uid": "6130a8c2211ed1f0",
+    "source": "test",
+    "start": 2831.11,
+    "end": 2838.15
+  },
+  {
+    "text": "what's country we're talking about but generally speaking, what's in the way of this transformation?",
+    "uid": "377b478d7a51a2b7",
+    "source": "test",
+    "start": 2838.15,
+    "end": 2846.31
+  },
+  {
+    "text": "Yeah. Well, I have a whole chapter about it in my book and a lot of people get kind of frustrated because",
+    "uid": "44636c49a65e760c",
+    "source": "test",
+    "start": 2846.31,
+    "end": 2851.83
+  },
+  {
+    "text": "you know a lot of people when they're reading a book like this they're like okay tell me the solution.",
+    "uid": "73518a578c3fc6ef",
+    "source": "test",
+    "start": 2851.83,
+    "end": 2856.23
+  },
+  {
+    "text": "One of the things I say is there isn't a one-size-fits-all solution if you look for that you",
+    "uid": "768466a6f6affab2",
+    "source": "test",
+    "start": 2856.39,
+    "end": 2860.87
+  },
+  {
+    "text": "you're going to end up back where we started because that's one of the problems with the mental health",
+    "uid": "b8b2dfe2adcd7b22",
+    "source": "test",
+    "start": 2860.87,
+    "end": 2864.87
+  },
+  {
+    "text": "system that we currently exist. The involuntary commitment system is trying to solve you know an",
+    "uid": "b35003cb2ee785bf",
+    "source": "test",
+    "start": 2864.87,
+    "end": 2869.67
+  },
+  {
+    "text": "a wide array of very different types of problems with very different types of people with this one",
+    "uid": "b448aa6ba5f815de",
+    "source": "test",
+    "start": 2869.67,
+    "end": 2876.31
+  },
+  {
+    "text": "you know one hammered kind of solution and it really doesn't work. So I look at it and what I",
+    "uid": "69b992ef156e44cc",
+    "source": "test",
+    "start": 2876.31,
+    "end": 2881.27
+  },
+  {
+    "text": "what I highlight is we have actually an amazing array of possible approaches here for all kinds",
+    "uid": "5aedad714403ce34",
+    "source": "test",
+    "start": 2881.27,
+    "end": 2888.15
+  },
+  {
+    "text": "of different situations and almost none of them are being funded in any meaningful way and the reason for",
+    "uid": "062b792fb59c7628",
+    "source": "test",
+    "start": 2888.15,
+    "end": 2893.11
+  },
+  {
+    "text": "that is because both the legislation and the funding right now is going into the medicalization of",
+    "uid": "bb217e155e95691a",
+    "source": "test",
+    "start": 2893.11,
+    "end": 2899.67
+  },
+  {
+    "text": "problems. So doctors, physician medical trained physicians and psychiatrists are the supreme authorities",
+    "uid": "e72dfaefca805d6a",
+    "source": "test",
+    "start": 2899.67,
+    "end": 2907.19
+  },
+  {
+    "text": "under mental health laws and so they have the final decision-making powers and that means that",
+    "uid": "ab62d9cb57cf17e6",
+    "source": "test",
+    "start": 2907.19,
+    "end": 2912.63
+  },
+  {
+    "text": "almost no kind of alternatives, no kind of options are available for people other than medications",
+    "uid": "4f1ae87768b0a02f",
+    "source": "test",
+    "start": 2912.63,
+    "end": 2918.71
+  },
+  {
+    "text": "or electroconvulsive shock therapy and these are not particularly effective tools in this environment",
+    "uid": "25cb3c8f0ce4b3bd",
+    "source": "test",
+    "start": 2918.71,
+    "end": 2925.11
+  },
+  {
+    "text": "and so but but they're dominant and so I just think we change that make it for example,",
+    "uid": "c64b6d3e7798137b",
+    "source": "test",
+    "start": 2925.11,
+    "end": 2930.79
+  },
+  {
+    "text": "make the legislation put in power and interdisciplinary team of some kind. So doctors, physicians,",
+    "uid": "cfb601fb2b81cf2c",
+    "source": "test",
+    "start": 2931.59,
+    "end": 2937.75
+  },
+  {
+    "text": "don't have the final say they're still an important part of it. There are some people who really respond",
+    "uid": "8c2ab1d421cbaddc",
+    "source": "test",
+    "start": 2937.75,
+    "end": 2942.39
+  },
+  {
+    "text": "to these medications really appreciate them great like have them part of the team but not as",
+    "uid": "ddc909d6c321601d",
+    "source": "test",
+    "start": 2942.39,
+    "end": 2947.99
+  },
+  {
+    "text": "of the final decision makers and that a more broad idea I would bring across societies whole I think",
+    "uid": "8cbbb95c7439cb19",
+    "source": "test",
+    "start": 2947.99,
+    "end": 2956.23
+  },
+  {
+    "text": "what's happening right now is we are reframing and redefining too many different types of",
+    "uid": "c02547b2bbfab81f",
+    "source": "test",
+    "start": 2956.23,
+    "end": 2962.23
+  },
+  {
+    "text": "problems as quote unquote mental health problems and then people are getting sucked into these systems.",
+    "uid": "ed3fda5d948e3e91",
+    "source": "test",
+    "start": 2962.23,
+    "end": 2967.43
+  },
+  {
+    "text": "One of the big ones that we see every day is housing, housing lack of housing, a lack of practical",
+    "uid": "fe2014662f3a799e",
+    "source": "test",
+    "start": 2967.43,
+    "end": 2973.75
+  },
+  {
+    "text": "supports for people who struggle in their housing. These are real problems. They're desperately underfunded",
+    "uid": "81dee71ebe3f436d",
+    "source": "test",
+    "start": 2973.75,
+    "end": 2979.67
+  },
+  {
+    "text": "right now. Governments in fact gotten out of funding in that area over decades and so we're seeing",
+    "uid": "2f6e19c8d4c9259c",
+    "source": "test",
+    "start": 2979.67,
+    "end": 2985.91
+  },
+  {
+    "text": "the kind of homelessness and struggles there that we're seeing, housing affordability at the same time,",
+    "uid": "b0eec95d53281787",
+    "source": "test",
+    "start": 2985.91,
+    "end": 2991.51
+  },
+  {
+    "text": "his has become really problematic for whole other set of reasons in our society. Real wages have not",
+    "uid": "fc9b3b97023495e2",
+    "source": "test",
+    "start": 2991.51,
+    "end": 2998.39
+  },
+  {
+    "text": "risen with the cost of housing and so that's another reason we're seeing these rises in homeless",
+    "uid": "21267b9f67bd381f",
+    "source": "test",
+    "start": 2998.39,
+    "end": 3005.59
+  },
+  {
+    "text": "deaths. It's not a whole different problem and the solution for that really is more affordable housing",
+    "uid": "a5c2aa2d401cb0cd",
+    "source": "test",
+    "start": 3005.59,
+    "end": 3011.75
+  },
+  {
+    "text": "and supports for people who might struggle to stay in their housing. Those work, they prove in,",
+    "uid": "c6f3bd3f295423fd",
+    "source": "test",
+    "start": 3011.75,
+    "end": 3018.23
+  },
+  {
+    "text": "they just need more support. But then we can go into the school system. Why is the school system",
+    "uid": "950182109209c32f",
+    "source": "test",
+    "start": 3018.23,
+    "end": 3023.91
+  },
+  {
+    "text": "using involuntary commitment powers in these ways and in you work a bit in that environment,",
+    "uid": "e959b793abe6c8b5",
+    "source": "test",
+    "start": 3023.91,
+    "end": 3029.35
+  },
+  {
+    "text": "it sounds like you might have some ideas around that. I'd suggest yeah, like class sizes are too big.",
+    "uid": "453dfd0c8f83414d",
+    "source": "test",
+    "start": 3029.35,
+    "end": 3035.03
+  },
+  {
+    "text": "You know, with there we're training these people to like teachers and administrators are trained.",
+    "uid": "f081ef45f8b04d7c",
+    "source": "test",
+    "start": 3035.03,
+    "end": 3042.47
+  },
+  {
+    "text": "If a child so much as mentioned suicidal feelings, they have to go up to the psychiatric hospital.",
+    "uid": "f8b525f2cbf980c2",
+    "source": "test",
+    "start": 3042.47,
+    "end": 3048.15
+  },
+  {
+    "text": "We've created an insurance liability problems around that now. So we got a backup from that again.",
+    "uid": "8497dea1d5546be5",
+    "source": "test",
+    "start": 3048.15,
+    "end": 3053.83
+  },
+  {
+    "text": "I've talked to social workers that 10, 15, 20 years ago, they had no problems talking with children",
+    "uid": "ebaad7f111b26025",
+    "source": "test",
+    "start": 3053.83,
+    "end": 3059.91
+  },
+  {
+    "text": "who were having these kinds of feelings because it was common and they wouldn't just talk with the children.",
+    "uid": "5aa55707360650e9",
+    "source": "test",
+    "start": 3059.99,
+    "end": 3065.59
+  },
+  {
+    "text": "And that was the solution, right? And so we got to get back to models like that. What's a noan invasive way",
+    "uid": "ceb58e34f41bf9ec",
+    "source": "test",
+    "start": 3065.59,
+    "end": 3072.23
+  },
+  {
+    "text": "of talking with children about feelings that they might have that are fairly common around",
+    "uid": "d90ed1ca0daa7db0",
+    "source": "test",
+    "start": 3072.23,
+    "end": 3077.83
+  },
+  {
+    "text": "distress, anxiety and suicide and not immediately turn to these carceral tools, these policing tools.",
+    "uid": "91827fac1df74233",
+    "source": "test",
+    "start": 3077.83,
+    "end": 3086.95
+  },
+  {
+    "text": "So yeah, you know, we can go on and on about it. But basically we just got to turn the",
+    "uid": "1a5a1bb5f9b46cd5",
+    "source": "test",
+    "start": 3087.59,
+    "end": 3092.31
+  },
+  {
+    "text": "tide here on the medicalization of distress that has really gotten out of hand.",
+    "uid": "cbeaa1529ea27ed2",
+    "source": "test",
+    "start": 3092.31,
+    "end": 3097.03
+  },
+  {
+    "text": "Excellent answer. And you know, summed up nicely by the last statement, you just said, getting away from",
+    "uid": "e7ff23b717941e01",
+    "source": "test",
+    "start": 3098.31,
+    "end": 3104.31
+  },
+  {
+    "text": "medicalization of these issues. Yeah, I love that. I love the idea of there being interdisciplinary",
+    "uid": "0792f8c954abdcea",
+    "source": "test",
+    "start": 3104.31,
+    "end": 3112.07
+  },
+  {
+    "text": "teams that make decisions much like a board of trustees would make decisions where there's kind of equal",
+    "uid": "9b13704836c459dc",
+    "source": "test",
+    "start": 3112.07,
+    "end": 3118.07
+  },
+  {
+    "text": "voting power for me to member as opposed to the singular authority being the person who's trained to see",
+    "uid": "483f688edb1fee0f",
+    "source": "test",
+    "start": 3118.07,
+    "end": 3127.27
+  },
+  {
+    "text": "things in a very medicalized way that does seem like a crux of the problem here.",
+    "uid": "c2338bec88774f75",
+    "source": "test",
+    "start": 3127.27,
+    "end": 3133.83
+  },
+  {
+    "text": "Yeah, I'm an excellent answer. And then who like benefits the most from the system as is currently",
+    "uid": "74d8d9e409e41287",
+    "source": "test",
+    "start": 3133.99,
+    "end": 3148.14
+  },
+  {
+    "text": "running, as is currently operating, like whether we're talking about monetary benefit, benefit of",
+    "uid": "9a3652136ca010f6",
+    "source": "test",
+    "start": 3148.86,
+    "end": 3155.1
+  },
+  {
+    "text": "retaining power, who benefits? I mean, I know one easy answer is like the pharmaceutical industry,",
+    "uid": "89f1be4a0c0b38da",
+    "source": "test",
+    "start": 3155.66,
+    "end": 3162.06
+  },
+  {
+    "text": "but I'd love to hear you to speak on this, who are the beneficiaries of the system as it currently is.",
+    "uid": "af07749386c3572a",
+    "source": "test",
+    "start": 3162.14,
+    "end": 3167.1
+  },
+  {
+    "text": "This is another thing I looked into in the dominant narrative about there's the mental health system",
+    "uid": "518f71462d48e63d",
+    "source": "test",
+    "start": 3167.5,
+    "end": 3172.06
+  },
+  {
+    "text": "is desperately underfunded. There's a shortage of beds in the show and I show that in fact we have more",
+    "uid": "895cc2dd12334e01",
+    "source": "test",
+    "start": 3172.06,
+    "end": 3176.78
+  },
+  {
+    "text": "beds today and per capita funding is much higher. It is going up consistently for decades.",
+    "uid": "930166b1b990a2e4",
+    "source": "test",
+    "start": 3176.78,
+    "end": 3182.78
+  },
+  {
+    "text": "And that doesn't mean that there are problems in the system. That's one of the issues that if you",
+    "uid": "11e1b1259593c125",
+    "source": "test",
+    "start": 3184.54,
+    "end": 3190.78
+  },
+  {
+    "text": "understand that, you understand we actually have more beds today than we did back in the era of",
+    "uid": "751cfbcc85d29fc7",
+    "source": "test",
+    "start": 3190.78,
+    "end": 3195.66
+  },
+  {
+    "text": "asylum. We actually have more mental health funding per capita than we had back in the era of asylum.",
+    "uid": "83d4ff62363145e2",
+    "source": "test",
+    "start": 3195.66,
+    "end": 3201.58
+  },
+  {
+    "text": "You understand that then you say, well, then what's going wrong? Well, that's the question we need to",
+    "uid": "7a6c836965202fc3",
+    "source": "test",
+    "start": 3201.58,
+    "end": 3206.3
+  },
+  {
+    "text": "be asking. And I'd say some of the things we've talked about is what's going wrong, the over medicalization",
+    "uid": "ebba85b48fa0a312",
+    "source": "test",
+    "start": 3206.3,
+    "end": 3211.34
+  },
+  {
+    "text": "of all of this, the lack of people just getting simple practical supports. Instead, you know, we've",
+    "uid": "fd2480cd382dcf21",
+    "source": "test",
+    "start": 3211.34,
+    "end": 3216.62
+  },
+  {
+    "text": "sort of turned this into some, we're going to dock your people's minds and that's going to solve",
+    "uid": "6ba3485beec5c240",
+    "source": "test",
+    "start": 3216.62,
+    "end": 3221.26
+  },
+  {
+    "text": "all their life problems. You know, and that really doesn't, doesn't tend to work. So this is it. So you're",
+    "uid": "e42d91d694d343bf",
+    "source": "test",
+    "start": 3221.26,
+    "end": 3227.9
+  },
+  {
+    "text": "asking, you know, who profits in this? And that's one of the reasons it is the way it is now because there's",
+    "uid": "9d27d4b98f31ceb8",
+    "source": "test",
+    "start": 3227.9,
+    "end": 3233.02
+  },
+  {
+    "text": "a lot of people making a lot of money. So, you know, and conservatively what we have is what we're",
+    "uid": "745f0254f3976e73",
+    "source": "test",
+    "start": 3233.02,
+    "end": 3238.14
+  },
+  {
+    "text": "telling that here's hundreds of billions of dollars in America alone per year. That's what I'm talking",
+    "uid": "197923fc15363566",
+    "source": "test",
+    "start": 3238.14,
+    "end": 3243.18
+  },
+  {
+    "text": "when we talk about the mental health system, writ large, even when we just talk about involuntary",
+    "uid": "6d8c4d5c13c7a16d",
+    "source": "test",
+    "start": 3243.26,
+    "end": 3248.22
+  },
+  {
+    "text": "commitment. The best number I could get to, and it's very hard to get data in these areas.",
+    "uid": "86866dd8eaa15c6e",
+    "source": "test",
+    "start": 3248.22,
+    "end": 3253.34
+  },
+  {
+    "text": "In order to be hard, it's a business hard because people are collecting the data. They don't want to",
+    "uid": "0e4f98aa612e8621",
+    "source": "test",
+    "start": 3253.34,
+    "end": 3258.46
+  },
+  {
+    "text": "collect the data. It's clear that there's resistance to exposing all this to having transparency around it.",
+    "uid": "377a061feab3b904",
+    "source": "test",
+    "start": 3258.46,
+    "end": 3264.3
+  },
+  {
+    "text": "But roughly, I landed on about at least 20 billion dollars a year going into involuntary",
+    "uid": "43db0daaa6897457",
+    "source": "test",
+    "start": 3264.3,
+    "end": 3270.06
+  },
+  {
+    "text": "commitment alone and all the issues around that. So who's making money? Hospitals are charging",
+    "uid": "91bdf66648cd33fe",
+    "source": "test",
+    "start": 3270.06,
+    "end": 3275.1
+  },
+  {
+    "text": "thousands of dollars per day sometimes to incarcerate somebody in this environment. Much, much more than",
+    "uid": "5ba25295f67146de",
+    "source": "test",
+    "start": 3275.1,
+    "end": 3281.74
+  },
+  {
+    "text": "prisoner that they're getting for a prisoner in a prison system. The, obviously, the mental health",
+    "uid": "c09c3289c8475557",
+    "source": "test",
+    "start": 3282.3,
+    "end": 3288.62
+  },
+  {
+    "text": "practitioners in all these areas are making enormous amounts of money. They're livelihoods. And so in",
+    "uid": "55629e8285fb9cdd",
+    "source": "test",
+    "start": 3288.62,
+    "end": 3294.7
+  },
+  {
+    "text": "group homes, assisted living, some of these institutions that are kind of coercive or semi-coversive,",
+    "uid": "370a98afcaff9e43",
+    "source": "test",
+    "start": 3294.7,
+    "end": 3301.02
+  },
+  {
+    "text": "they're often lobbying governments in this area. So we don't get something like housing first,",
+    "uid": "2b2928d0f2e81cf1",
+    "source": "test",
+    "start": 3301.02,
+    "end": 3306.22
+  },
+  {
+    "text": "where you're free to choose where you want to live. You get a voucher in some case. And you maybe",
+    "uid": "db406ae36a46ed42",
+    "source": "test",
+    "start": 3306.22,
+    "end": 3313.26
+  },
+  {
+    "text": "can get some voluntary supports to live there. Instead, we have these corporate corporations that",
+    "uid": "f26f256da493c18c",
+    "source": "test",
+    "start": 3313.26,
+    "end": 3319.66
+  },
+  {
+    "text": "run group homes systems going to love and say, oh, no, no, no, you can't allow these people to have",
+    "uid": "6684d95d37308956",
+    "source": "test",
+    "start": 3319.66,
+    "end": 3324.06
+  },
+  {
+    "text": "that kind of freedom, let us control them. You know, let's fund the group home system and we'll",
+    "uid": "be9d104724748231",
+    "source": "test",
+    "start": 3324.06,
+    "end": 3329.34
+  },
+  {
+    "text": "manage them and you'll pay for that. And so we have a lot of sort of coercive or semi-incorseive institutions",
+    "uid": "9f94e9914aedbcc2",
+    "source": "test",
+    "start": 3329.34,
+    "end": 3335.82
+  },
+  {
+    "text": "getting a lot of money in this environment to kind of take people who are being committed or to take",
+    "uid": "74789faf173600d5",
+    "source": "test",
+    "start": 3335.82,
+    "end": 3341.34
+  },
+  {
+    "text": "people or kind of being outpatient or in-in-outpatient status of some kind being forceably",
+    "uid": "789e90965bc0649e",
+    "source": "test",
+    "start": 3341.34,
+    "end": 3349.1
+  },
+  {
+    "text": "medicated or semi-coursively medicated in these kind of verbs. It's enormously common that",
+    "uid": "3056fce3f5de9623",
+    "source": "test",
+    "start": 3349.1,
+    "end": 3355.1
+  },
+  {
+    "text": "people are semi-coursively medicated by that. And you know, the threat and all the time with being",
+    "uid": "0a170463760907ac",
+    "source": "test",
+    "start": 3355.1,
+    "end": 3360.14
+  },
+  {
+    "text": "locked up in the hospital again, if they don't comply. So yeah, there's a lot of big players in this",
+    "uid": "2f24863716355b4a",
+    "source": "test",
+    "start": 3360.14,
+    "end": 3365.34
+  },
+  {
+    "text": "environment, big corporations make them a lot of money. And there's so much money being made that we have",
+    "uid": "29f670dbf566293a",
+    "source": "test",
+    "start": 3365.34,
+    "end": 3370.14
+  },
+  {
+    "text": "some of the biggest psychiatric hospital chains in America going back repeatedly to the part",
+    "uid": "a24c0313b4bc8639",
+    "source": "test",
+    "start": 3370.14,
+    "end": 3375.74
+  },
+  {
+    "text": "of justice being penalized by the Department of Justice for tens of millions or even hundreds of",
+    "uid": "5b05584c43b3b96e",
+    "source": "test",
+    "start": 3375.74,
+    "end": 3381.58
+  },
+  {
+    "text": "millions of dollars for locking people up against their will who did not meet the criteria for commitment.",
+    "uid": "6112ec0456e3dce0",
+    "source": "test",
+    "start": 3381.58,
+    "end": 3387.98
+  },
+  {
+    "text": "And so there's blatant fraud taking place in this environment purely for profit. So that's how much",
+    "uid": "3ded5c8e8bcd99fb",
+    "source": "test",
+    "start": 3387.98,
+    "end": 3394.22
+  },
+  {
+    "text": "money there is to be made. Can you explain that last part a little bit more with the Department of Justice",
+    "uid": "ffdc4cae2aeb1675",
+    "source": "test",
+    "start": 3394.22,
+    "end": 3400.46
+  },
+  {
+    "text": "and who exactly is being penalized and by so yeah. So we have universal health services",
+    "uid": "38b992c2cea885fb",
+    "source": "test",
+    "start": 3400.46,
+    "end": 3405.66
+  },
+  {
+    "text": "which has 200 psychiatric hospitals in America. Acadia is another big health corporation,",
+    "uid": "2d02d6553f13263b",
+    "source": "test",
+    "start": 3406.06,
+    "end": 3414.06
+  },
+  {
+    "text": "the second biggest for healthcare for psychiatric care. And both of them have been",
+    "uid": "edece60b3cc0033d",
+    "source": "test",
+    "start": 3414.06,
+    "end": 3421.82
+  },
+  {
+    "text": "sued by the Department of Justice for detaining people in their hospitals against their will.",
+    "uid": "10845756f12a2899",
+    "source": "test",
+    "start": 3422.7,
+    "end": 3427.9
+  },
+  {
+    "text": "And keeping them there locked up until their insurance runs out. So these people may even be wealthy",
+    "uid": "7d48691a97c668c3",
+    "source": "test",
+    "start": 3428.62,
+    "end": 3433.82
+  },
+  {
+    "text": "enough to have good private insurance or they may the hospitals may be building Medicare or Medicaid",
+    "uid": "df7a32940bcc2c83",
+    "source": "test",
+    "start": 3433.82,
+    "end": 3440.7
+  },
+  {
+    "text": "often both in these environments. And so the Department of Justice will sue them and they'll be a",
+    "uid": "8d13559f0df2b892",
+    "source": "test",
+    "start": 3441.66,
+    "end": 3448.94
+  },
+  {
+    "text": "settlement. And so we've seen some settlements for tens of millions of dollars and one for universal",
+    "uid": "6bafe6194f51c3d5",
+    "source": "test",
+    "start": 3448.94,
+    "end": 3455.74
+  },
+  {
+    "text": "health services was for $117 million where they essentially, quote and quote, didn't admit to it.",
+    "uid": "4ce2336ac551c62e",
+    "source": "test",
+    "start": 3455.74,
+    "end": 3463.66
+  },
+  {
+    "text": "But settled and the accusation that the Department of Justice was loving was very clear in its",
+    "uid": "4e9d86c0e8e80d09",
+    "source": "test",
+    "start": 3464.7,
+    "end": 3470.38
+  },
+  {
+    "text": "wording that they were detaining people who did not even meet the criteria. You know, we talked",
+    "uid": "d64c0fcfc8cc37f0",
+    "source": "test",
+    "start": 3470.38,
+    "end": 3475.02
+  },
+  {
+    "text": "earlier about how broad and vague these criteria are. These are people who didn't even meet those criteria.",
+    "uid": "b38689b39e250db2",
+    "source": "test",
+    "start": 3475.02,
+    "end": 3480.62
+  },
+  {
+    "text": "So an example is you might go respond to an advertisement saying, hey, come for a free mental health",
+    "uid": "5c12f024c15149ee",
+    "source": "test",
+    "start": 3480.62,
+    "end": 3487.9
+  },
+  {
+    "text": "assessment. And you go up there and you take a little screening exam just because you want to kind of know,",
+    "uid": "bf6f99d1614116d5",
+    "source": "test",
+    "start": 3487.9,
+    "end": 3494.38
+  },
+  {
+    "text": "hey, do I meet some criteria or not? And by the end of that, they've decided they're going to lock you up. And you're",
+    "uid": "8c4626313bcf2742",
+    "source": "test",
+    "start": 3494.38,
+    "end": 3500.62
+  },
+  {
+    "text": "just locked up immediately. You're not allowed to leave that instant that day. And in some cases,",
+    "uid": "4e40c54aa7e36848",
+    "source": "test",
+    "start": 3500.62,
+    "end": 3506.06
+  },
+  {
+    "text": "then these people were able to actually subsequently sue for fraud. Say, you had, you didn't, you know,",
+    "uid": "5a92bdbc662c80fb",
+    "source": "test",
+    "start": 3506.06,
+    "end": 3512.94
+  },
+  {
+    "text": "I didn't really meet these criteria. You did it on the basis of like a 10 item questionnaire. I answered,",
+    "uid": "85ab8ad1dfeec9fa",
+    "source": "test",
+    "start": 3512.94,
+    "end": 3519.42
+  },
+  {
+    "text": "where I said, yeah, I felt the, you know, a little bit sad over the last few days. Things like that,",
+    "uid": "d05082251eed8580",
+    "source": "test",
+    "start": 3519.42,
+    "end": 3525.18
+  },
+  {
+    "text": "these very broad questions that people will be asked and they're suddenly locked up. And so some people",
+    "uid": "cc78eb5d61eaf952",
+    "source": "test",
+    "start": 3525.18,
+    "end": 3530.7
+  },
+  {
+    "text": "have successfully sued in the wake of the Department of Justice settlement. But a lot of people,",
+    "uid": "d212dbd8c306a9dd",
+    "source": "test",
+    "start": 3530.7,
+    "end": 3535.58
+  },
+  {
+    "text": "it just happens to them. And they're locked up for this period of time. And it's frightening and",
+    "uid": "51c441a5dde87501",
+    "source": "test",
+    "start": 3535.58,
+    "end": 3539.9
+  },
+  {
+    "text": "traumatizing. So that's an example of what can happen. Well, I'm glad you mentioned that. And it's good to",
+    "uid": "bda65ccd05bc7d37",
+    "source": "test",
+    "start": 3539.9,
+    "end": 3547.26
+  },
+  {
+    "text": "know that someone's being held accountable sometimes. And it strikes me that it's just kind of one of those,",
+    "uid": "0f19e8c3491d8398",
+    "source": "test",
+    "start": 3547.26,
+    "end": 3555.18
+  },
+  {
+    "text": "you know, a minor dent in the profit margin, just kind of the cost of doing business, similar to how we see",
+    "uid": "cd841430b46be79f",
+    "source": "test",
+    "start": 3555.18,
+    "end": 3561.74
+  },
+  {
+    "text": "large pharmaceutical companies, you know, pay out millions or even billions of dollars to people who",
+    "uid": "c81479788f838065",
+    "source": "test",
+    "start": 3562.62,
+    "end": 3567.9
+  },
+  {
+    "text": "were harmed by a drug. But that's almost just kind of part of the business model. It's an expected",
+    "uid": "0aed22a26c98f5c0",
+    "source": "test",
+    "start": 3567.9,
+    "end": 3573.98
+  },
+  {
+    "text": "expense. And it does, it barely skims off the top of the profit margin. So it doesn't really slow them down.",
+    "uid": "d41fe53df86e4c16",
+    "source": "test",
+    "start": 3573.98,
+    "end": 3582.7
+  },
+  {
+    "text": "Exactly. And I want to highlight there. I mean, I quote this person. They were interviewed by the",
+    "uid": "ef25e9c1466d8130",
+    "source": "test",
+    "start": 3583.82,
+    "end": 3588.46
+  },
+  {
+    "text": "New York Times about it. And they said, yeah, actually there are a number articles about it. But it's",
+    "uid": "199189b9b59c7a09",
+    "source": "test",
+    "start": 3588.46,
+    "end": 3596.86
+  },
+  {
+    "text": "actually the quote from an investment firm was saying, well, yeah, in fact, a lot of times these companies",
+    "uid": "97707e428f2c7b19",
+    "source": "test",
+    "start": 3596.86,
+    "end": 3602.86
+  },
+  {
+    "text": "that connect this kind of psychiatric fraud, they make that amount of money back with the settlement.",
+    "uid": "fd77bc81dd544bad",
+    "source": "test",
+    "start": 3602.86,
+    "end": 3609.82
+  },
+  {
+    "text": "The moment the settlement's achieved because their stock price goes up that much. He's not so, yeah, he's very",
+    "uid": "a45ea03f08ad84ba",
+    "source": "test",
+    "start": 3609.82,
+    "end": 3615.18
+  },
+  {
+    "text": "much, as you said, the cost of doing business for the life. Never seen it's occasional very",
+    "uid": "88449b25f1b92696",
+    "source": "test",
+    "start": 3615.18,
+    "end": 3621.02
+  },
+  {
+    "text": "occasional that an institution may actually get shut down. That's usually not for this, though. It's",
+    "uid": "e70392379db18769",
+    "source": "test",
+    "start": 3621.02,
+    "end": 3626.62
+  },
+  {
+    "text": "usually for really, really blatant abuses being proven over and over and over again. And there's a",
+    "uid": "d7c856fdd76941b0",
+    "source": "test",
+    "start": 3626.62,
+    "end": 3632.46
+  },
+  {
+    "text": "lot of immediate attention to it. So a case that I've seen in its tuition get shut down by the government.",
+    "uid": "fe6ae122c73e91d2",
+    "source": "test",
+    "start": 3632.46,
+    "end": 3637.74
+  },
+  {
+    "text": "They lose their license. But that's very, very rare. Well, I want to get your thoughts on this. So",
+    "uid": "4cab8c09649667c4",
+    "source": "test",
+    "start": 3637.74,
+    "end": 3644.62
+  },
+  {
+    "text": "you know, when I think about just the big picture of like let's just say the overreliance on drug",
+    "uid": "dfa8df269dc5bff4",
+    "source": "test",
+    "start": 3645.18,
+    "end": 3652.78
+  },
+  {
+    "text": "treatment that alone, even when it's not forced, I'm always big on saying like that we sort of have to",
+    "uid": "aeb0d2d7722af38e",
+    "source": "test",
+    "start": 3652.78,
+    "end": 3659.58
+  },
+  {
+    "text": "take our power back as people. And I don't necessarily think that that problem of the extreme overreliance",
+    "uid": "fa3f4ce5bb27ebd6",
+    "source": "test",
+    "start": 3659.58,
+    "end": 3667.1
+  },
+  {
+    "text": "on drug prescriptions is going to change like from the psychiatrist. And I think it's going to change",
+    "uid": "34fe710730353669",
+    "source": "test",
+    "start": 3667.1,
+    "end": 3674.78
+  },
+  {
+    "text": "more from the public becoming more educated about these drugs. And you know, maybe maybe that will",
+    "uid": "cd8315dc427e5c5c",
+    "source": "test",
+    "start": 3674.86,
+    "end": 3682.54
+  },
+  {
+    "text": "shift the tide. But when it comes to coercive or forced treatment, I'm not quite sure how to",
+    "uid": "b91d3fc8da3c9ce2",
+    "source": "test",
+    "start": 3682.54,
+    "end": 3691.9
+  },
+  {
+    "text": "I guess figure out how the people can take their power back. You know, like how how will this change? Do",
+    "uid": "1a639d3af8f4cbd2",
+    "source": "test",
+    "start": 3693.18,
+    "end": 3700.14
+  },
+  {
+    "text": "you have any any thoughts to share any guidance you can offer on, you know, again, what will kind of",
+    "uid": "27451d3df63ebc93",
+    "source": "test",
+    "start": 3700.14,
+    "end": 3706.62
+  },
+  {
+    "text": "power do the people have here? You know, I hope my book would play a role in reason. I'll work",
+    "uid": "e8a1c38067b5ed80",
+    "source": "test",
+    "start": 3706.62,
+    "end": 3712.62
+  },
+  {
+    "text": "awareness about this and what I will say is the issues in it that I highlight. I think could still play that",
+    "uid": "f9e182db19bccaf1",
+    "source": "test",
+    "start": 3712.62,
+    "end": 3721.74
+  },
+  {
+    "text": "kind of role regardless of my my book, which just is another way of putting them to paper. And so",
+    "uid": "4040d55c875baef9",
+    "source": "test",
+    "start": 3721.74,
+    "end": 3729.82
+  },
+  {
+    "text": "by that, I mean, for example, the fact that increasingly these mental health",
+    "uid": "24f7b2cea3ae4bd8",
+    "source": "test",
+    "start": 3729.9,
+    "end": 3735.66
+  },
+  {
+    "text": "behaviors are used against elderly people in long-term care facilities will make a lot of",
+    "uid": "56af07c21e390184",
+    "source": "test",
+    "start": 3735.66,
+    "end": 3742.14
+  },
+  {
+    "text": "younger people whose parents are in that situation, aware of how powerful these laws are. Because often",
+    "uid": "0c223862af52883e",
+    "source": "test",
+    "start": 3742.94,
+    "end": 3748.86
+  },
+  {
+    "text": "you can be cut right out of the picture. You might be a very caring person, you know, with respect to the",
+    "uid": "49eb76c473042179",
+    "source": "test",
+    "start": 3748.86,
+    "end": 3756.78
+  },
+  {
+    "text": "your parents, but if they get caught in this kind of situation, you can be cut right out of the picture",
+    "uid": "806d32c648fefcfc",
+    "source": "test",
+    "start": 3756.86,
+    "end": 3762.78
+  },
+  {
+    "text": "under the power of these kinds of laws and the doctors can do what they think is best. And so when",
+    "uid": "1a9d614bd0cc9f0d",
+    "source": "test",
+    "start": 3762.78,
+    "end": 3767.66
+  },
+  {
+    "text": "more people see that kind of thing happening, I think they'll be concerned. I think when more people come",
+    "uid": "0058b04118975e23",
+    "source": "test",
+    "start": 3767.66,
+    "end": 3773.26
+  },
+  {
+    "text": "aware of how easily their children can be swept up into this kind of system, they're going to start to rise",
+    "uid": "b41e15b84eaf4972",
+    "source": "test",
+    "start": 3773.26,
+    "end": 3780.3
+  },
+  {
+    "text": "up and demand change. And we just saw that happen recently in North Carolina. So it got a lot of",
+    "uid": "e22cc6fa68ceefd4",
+    "source": "test",
+    "start": 3780.3,
+    "end": 3785.42
+  },
+  {
+    "text": "media attention when a lot of parents, in some cases quite wealthy parents, were taking their children",
+    "uid": "3bea8bceed38566c",
+    "source": "test",
+    "start": 3785.42,
+    "end": 3791.9
+  },
+  {
+    "text": "in to get mental health help. And then would watch as their children would get involuntarily",
+    "uid": "214e3b9957132997",
+    "source": "test",
+    "start": 3791.9,
+    "end": 3797.02
+  },
+  {
+    "text": "carcerated, often maybe even sent out of state. The parents would be cut out of the loop. You know,",
+    "uid": "63a985010ebcdfc4",
+    "source": "test",
+    "start": 3797.02,
+    "end": 3803.26
+  },
+  {
+    "text": "the parents were gas at this could even happen. And a group of them started speaking out and got involved",
+    "uid": "6c231cdce4db109f",
+    "source": "test",
+    "start": 3803.26,
+    "end": 3808.7
+  },
+  {
+    "text": "with disability rights North Carolina who got media attention and so on. And this",
+    "uid": "25b09f761be1ab70",
+    "source": "test",
+    "start": 3808.7,
+    "end": 3815.26
+  },
+  {
+    "text": "finally did catch the attention of legislators and there's some movement happening there now",
+    "uid": "1b24d4d8b66b00c6",
+    "source": "test",
+    "start": 3815.26,
+    "end": 3821.26
+  },
+  {
+    "text": "where some real attention of, wow, these laws really are powerful and do we really want them to be",
+    "uid": "e0af829f24537b57",
+    "source": "test",
+    "start": 3821.26,
+    "end": 3827.02
+  },
+  {
+    "text": "this powerful. And so I think we need more of that across the board right now. The only group that's",
+    "uid": "0ca5a0aba1e7158a",
+    "source": "test",
+    "start": 3827.02,
+    "end": 3833.42
+  },
+  {
+    "text": "getting attention is homelessness and the homeless population because governments really want to use",
+    "uid": "77d89a8ccd78285a",
+    "source": "test",
+    "start": 3833.42,
+    "end": 3841.26
+  },
+  {
+    "text": "these laws to control that population. And so there's an embedded this there among legislators",
+    "uid": "44849ca5b7d7a7fd",
+    "source": "test",
+    "start": 3841.26,
+    "end": 3846.86
+  },
+  {
+    "text": "and news media to not want to take a critical look at the power of these laws because they want to",
+    "uid": "99fda08b40f2c3ba",
+    "source": "test",
+    "start": 3846.86,
+    "end": 3853.18
+  },
+  {
+    "text": "justify it for that use. And so we do need to turn the tide on that and that's one of the things that",
+    "uid": "4a29b99401435d96",
+    "source": "test",
+    "start": 3853.9,
+    "end": 3859.34
+  },
+  {
+    "text": "you know, I try to highlight is hey, it's not only that group that is getting subjected to these laws",
+    "uid": "e6bae048b5f8857d",
+    "source": "test",
+    "start": 3859.9,
+    "end": 3864.94
+  },
+  {
+    "text": "and that's the kind of broader picture we need when we understand what they're doing.",
+    "uid": "d143c849dfd83bcc",
+    "source": "test",
+    "start": 3864.94,
+    "end": 3869.66
+  },
+  {
+    "text": "That's interesting. The way I'm thinking of that it's like we have this really powerful weapon",
+    "uid": "025ff41820dc4aee",
+    "source": "test",
+    "start": 3870.62,
+    "end": 3877.1
+  },
+  {
+    "text": "and it's like a lot of people are okay if we only use it on a certain person or type of person",
+    "uid": "ca2ff5dcea389895",
+    "source": "test",
+    "start": 3877.1,
+    "end": 3883.82
+  },
+  {
+    "text": "but then when we see that weapon get turned on, turn toward our children or the our parents now we",
+    "uid": "e70aebb3de22b05b",
+    "source": "test",
+    "start": 3883.82,
+    "end": 3889.9
+  },
+  {
+    "text": "feel a whole different way about it now we're not so comfortable with that.",
+    "uid": "9fe87303634df39b",
+    "source": "test",
+    "start": 3889.9,
+    "end": 3892.86
+  },
+  {
+    "text": "Exactly. Exactly. And I see it time and again people are agast at what happens and suddenly they're",
+    "uid": "70c0242e0a6e0e31",
+    "source": "test",
+    "start": 3893.26,
+    "end": 3903.1
+  },
+  {
+    "text": "looking at the mental health lawn in their jurisdiction and going what do you know because there is",
+    "uid": "34cfcd184d37b079",
+    "source": "test",
+    "start": 3903.1,
+    "end": 3909.26
+  },
+  {
+    "text": "this sort of narrative out there. Oh, it only happens to the craziest of the crazy and even then we can barely",
+    "uid": "bc9f83ea4649ff51",
+    "source": "test",
+    "start": 3909.26,
+    "end": 3915.02
+  },
+  {
+    "text": "ever lock up and what I show in the book is is that the best data we have shows that no actually the",
+    "uid": "68ea6684ab3cbde7",
+    "source": "test",
+    "start": 3915.02,
+    "end": 3921.42
+  },
+  {
+    "text": "the rates of this occurring have been going up and up in most jurisdictions for decades and we need",
+    "uid": "3b1a4069118f9327",
+    "source": "test",
+    "start": 3921.5,
+    "end": 3929.5
+  },
+  {
+    "text": "to take a look at that and really get better data. We need to know better who is this happening to why is it",
+    "uid": "d9ef44d130839ea4",
+    "source": "test",
+    "start": 3929.5,
+    "end": 3935.58
+  },
+  {
+    "text": "happening and what are the outcomes and as I said earlier there's a lot of resistance within the mental health",
+    "uid": "e00e7cf92b96f7de",
+    "source": "test",
+    "start": 3935.58,
+    "end": 3940.86
+  },
+  {
+    "text": "system to allowing that data to be collected. You know in the area of mental health records there's no",
+    "uid": "c641ef4564506ffe",
+    "source": "test",
+    "start": 3940.86,
+    "end": 3947.66
+  },
+  {
+    "text": "excuse for that. We of mental electronic mental health records I mean we could very easily be",
+    "uid": "f7c6f3f4d265f910",
+    "source": "test",
+    "start": 3947.66,
+    "end": 3953.66
+  },
+  {
+    "text": "doing a much better job of just tracking the demographics of who this is happening to and the outcomes",
+    "uid": "dfb1456adde3b0b2",
+    "source": "test",
+    "start": 3953.66,
+    "end": 3961.34
+  },
+  {
+    "text": "like our people in fact getting better as the system claims as legislators off and claim or are they",
+    "uid": "6fe12e33f4b1d199",
+    "source": "test",
+    "start": 3961.34,
+    "end": 3967.18
+  },
+  {
+    "text": "in fact getting worse as critics off the claim will we could resolve that debate pretty quickly if we were",
+    "uid": "769185abae26c5fe",
+    "source": "test",
+    "start": 3967.18,
+    "end": 3973.9
+  },
+  {
+    "text": "just tracking outcomes but right now it's only the critics like me we're seeing let's track outcomes",
+    "uid": "a1dac7f500cbea19",
+    "source": "test",
+    "start": 3973.9,
+    "end": 3979.74
+  },
+  {
+    "text": "and the health authorities and legislators doing no no no no let's not let's not you know and they just",
+    "uid": "2eac3a96b3c9a58c",
+    "source": "test",
+    "start": 3979.74,
+    "end": 3986.94
+  },
+  {
+    "text": "make up you know excuses for it like oh it's a bit of a hassle you know whatever they're excuses are",
+    "uid": "e372c7cac5f43732",
+    "source": "test",
+    "start": 3986.94,
+    "end": 3993.74
+  },
+  {
+    "text": "are very lame and yeah so that's what we really need to change we need to put pressure on legislators",
+    "uid": "a51b43a46cd324e8",
+    "source": "test",
+    "start": 3993.74,
+    "end": 3999.98
+  },
+  {
+    "text": "the very least I'd say whether you support forced treatment or against it you should support",
+    "uid": "eb40f10c471f60f2",
+    "source": "test",
+    "start": 4000.06,
+    "end": 4006.22
+  },
+  {
+    "text": "collecting better data on this issue and then we can have at least really meaningful discussions",
+    "uid": "09315952bff1248d",
+    "source": "test",
+    "start": 4006.22,
+    "end": 4012.46
+  },
+  {
+    "text": "about what's happening to who amen to that amen to that wow I'm right in this moment I'm just feeling",
+    "uid": "5be9b34574cff156",
+    "source": "test",
+    "start": 4012.46,
+    "end": 4023.86
+  },
+  {
+    "text": "tremendous appreciation for you for your work for anyone who's doing work like you are doing I mean",
+    "uid": "e5e6f7ac0e68dbef",
+    "source": "test",
+    "start": 4023.86,
+    "end": 4030.66
+  },
+  {
+    "text": "I was saying right before we started recording that I think investigative journalists are some of my",
+    "uid": "1e45a9590280bada",
+    "source": "test",
+    "start": 4030.82,
+    "end": 4035.62
+  },
+  {
+    "text": "favorite people in the world you know because before we can actually solve any problems we have to know what the",
+    "uid": "b9f8165119a2ed4c",
+    "source": "test",
+    "start": 4035.62,
+    "end": 4042.18
+  },
+  {
+    "text": "problems are we have to fully understand the nature of the problem and I just think your book and your work",
+    "uid": "1e4bc1edde72f5f9",
+    "source": "test",
+    "start": 4042.18,
+    "end": 4049.38
+  },
+  {
+    "text": "has brought into focus a profound human rights violation and you've really detailed you know that the",
+    "uid": "5766bde3554a47d7",
+    "source": "test",
+    "start": 4050.02,
+    "end": 4058.98
+  },
+  {
+    "text": "nature of the problem and you do such a great job in your book of time in personal stories that really",
+    "uid": "bcebf45cb8b7476c",
+    "source": "test",
+    "start": 4058.98,
+    "end": 4067.62
+  },
+  {
+    "text": "kind of hit you emotionally and then the analysis of legislation and and it provide historical context and",
+    "uid": "c77249c2b68826f3",
+    "source": "test",
+    "start": 4067.62,
+    "end": 4074.9
+  },
+  {
+    "text": "just it's brilliantly written you know and in fact well we're talking about the book again do you have a",
+    "uid": "206f01cda71edfac",
+    "source": "test",
+    "start": 4074.9,
+    "end": 4080.74
+  },
+  {
+    "text": "copy of it that you could hold up to the camera there it is so you can see that you're not quite",
+    "uid": "0cce4ad2445b79fc",
+    "source": "test",
+    "start": 4080.74,
+    "end": 4088.02
+  },
+  {
+    "text": "appreciated you know it's you know special people that you know it's a hard book I have to admit right like",
+    "uid": "405c7222d45358cc",
+    "source": "test",
+    "start": 4088.98,
+    "end": 4096.34
+  },
+  {
+    "text": "and some people kind of say I can't I don't know I sort of understand that like I want to",
+    "uid": "503d2e895213673c",
+    "source": "test",
+    "start": 4096.34,
+    "end": 4101.46
+  },
+  {
+    "text": "educate people but this dark side but I hope too within there a lot of the people have gone through it in",
+    "uid": "cc7d3c363f166464",
+    "source": "test",
+    "start": 4101.46,
+    "end": 4108.02
+  },
+  {
+    "text": "every chapter I feel like there are little secrets and nuggets being shown there of how people learn to",
+    "uid": "376233cba3310edf",
+    "source": "test",
+    "start": 4108.02,
+    "end": 4114.82
+  },
+  {
+    "text": "navigate through these traumas and and find get their footing again in their lives and and",
+    "uid": "f5792e2d20c673f5",
+    "source": "test",
+    "start": 4114.82,
+    "end": 4120.5
+  },
+  {
+    "text": "all of that and so I hope that there's a bit of that in there still but yeah it is tough and I appreciate",
+    "uid": "fa1339382a9ad5ce",
+    "source": "test",
+    "start": 4120.5,
+    "end": 4127.86
+  },
+  {
+    "text": "thanks for you know having me today showing your interest in this and you know we just got to yeah I",
+    "uid": "40ff497989361b13",
+    "source": "test",
+    "start": 4127.86,
+    "end": 4133.62
+  },
+  {
+    "text": "think the more people who are aware just aware of it I think the better and and it's a warning",
+    "uid": "ab209cf02ac84628",
+    "source": "test",
+    "start": 4133.62,
+    "end": 4138.98
+  },
+  {
+    "text": "too to people one of the services I I wanted to provide with the book and by doing talks like this",
+    "uid": "1a45ff1170a9507e",
+    "source": "test",
+    "start": 4138.98,
+    "end": 4144.74
+  },
+  {
+    "text": "is to just let someone know that hey this can happen and I hope it can happen to you it doesn't happen to",
+    "uid": "3d8d9f35db483aff",
+    "source": "test",
+    "start": 4146.1,
+    "end": 4152.9
+  },
+  {
+    "text": "everybody you know there's lots of people who go to a psychiatric hospital have a positive experience and come",
+    "uid": "8ebbaaa3eb6d4c9e",
+    "source": "test",
+    "start": 4152.9,
+    "end": 4158.42
+  },
+  {
+    "text": "out and our thankful for it it's not that that never happens but you're far better off knowing the risks",
+    "uid": "8168a4f2d7442263",
+    "source": "test",
+    "start": 4158.42,
+    "end": 4165.38
+  },
+  {
+    "text": "so that you can potentially mitigate those risks in these kinds of situations and the risk",
+    "uid": "e0bc4aac713f1dce",
+    "source": "test",
+    "start": 4165.38,
+    "end": 4171.7
+  },
+  {
+    "text": "are very real and have a tool a lot of people and as I argue in the book far more people than I think we",
+    "uid": "56ddc51109025935",
+    "source": "test",
+    "start": 4171.7,
+    "end": 4178.5
+  },
+  {
+    "text": "we generally recognize yes yes and I just want to say one more thing to audience members again especially",
+    "uid": "2772abd15e4919ee",
+    "source": "test",
+    "start": 4178.5,
+    "end": 4187.3
+  },
+  {
+    "text": "those who've been who've gone through this trauma you know I think one of the most important and you know",
+    "uid": "6282d89d14d1d579",
+    "source": "test",
+    "start": 4187.3,
+    "end": 4196.1
+  },
+  {
+    "text": "sort of effective ways to move forward in life you know and and to actually like I guess not be",
+    "uid": "19ad14450dfb5167",
+    "source": "test",
+    "start": 4196.1,
+    "end": 4204.74
+  },
+  {
+    "text": "paralyzed and debilitated and overwhelmed by a traumatic past experience is to find a way to make it",
+    "uid": "5ed9047e74e72f4b",
+    "source": "test",
+    "start": 4204.74,
+    "end": 4213.94
+  },
+  {
+    "text": "mean something to I guess to to to leverage it in order to help other people and if we're capable of doing",
+    "uid": "c2881a887f3b1e1e",
+    "source": "test",
+    "start": 4213.94,
+    "end": 4222.74
+  },
+  {
+    "text": "that then we won't necessarily wish it never happened and I think that anyone who's listening who can",
+    "uid": "c34079ca26bb38e8",
+    "source": "test",
+    "start": 4222.74,
+    "end": 4230.42
+  },
+  {
+    "text": "relate to all the what we've talked about you know all two personally who's gone through forced treatment,",
+    "uid": "19fe28f3943d0aab",
+    "source": "test",
+    "start": 4230.42,
+    "end": 4236.9
+  },
+  {
+    "text": "forced drugging anything like that who's about rights have been violated I would just employ you to tell",
+    "uid": "71634280f0799812",
+    "source": "test",
+    "start": 4236.9,
+    "end": 4243.14
+  },
+  {
+    "text": "your story on whatever platform and with whatever degree of anonymity you need but I think",
+    "uid": "264a642c617c6267",
+    "source": "test",
+    "start": 4243.22,
+    "end": 4251.22
+  },
+  {
+    "text": "you're uniquely equipped to help other people you know and to help prevent other people from getting",
+    "uid": "41983e3e3275610d",
+    "source": "test",
+    "start": 4251.94,
+    "end": 4259.22
+  },
+  {
+    "text": "caught in this web so for whatever that's where you know again any listeners who have personal experience with this",
+    "uid": "fe5ab99267695a34",
+    "source": "test",
+    "start": 4259.22,
+    "end": 4267.38
+  },
+  {
+    "text": "I think it's it's a crucial moment in time where we all need to hear as many stories as we can",
+    "uid": "7ae8078b953d6f5c",
+    "source": "test",
+    "start": 4267.46,
+    "end": 4273.62
+  },
+  {
+    "text": "about these human rights violations at the hands of the the field of psychiatry in general so please",
+    "uid": "971ec43ffb7efe5d",
+    "source": "test",
+    "start": 4274.26,
+    "end": 4281.38
+  },
+  {
+    "text": "do tell your story maybe in a comment on this video or in whatever platform fits and Rob again just",
+    "uid": "291aaa009e813efe",
+    "source": "test",
+    "start": 4281.38,
+    "end": 4290.9
+  },
+  {
+    "text": "thank you so much I'm so glad we are connected now I will recommend your book widely and I appreciate",
+    "uid": "8a7a4e6ebd268f26",
+    "source": "test",
+    "start": 4290.9,
+    "end": 4298.58
+  },
+  {
+    "text": "your time today thank you yeah so I just want to firm what you're saying you know people have been through",
+    "uid": "d4bd7cab4c8341f4",
+    "source": "test",
+    "start": 4298.58,
+    "end": 4304.1
+  },
+  {
+    "text": "these experiences have helped educate me so much about I'm so appreciative and at the same time I really",
+    "uid": "5db1462039a32b06",
+    "source": "test",
+    "start": 4304.1,
+    "end": 4310.02
+  },
+  {
+    "text": "understand why some don't feel safe speaking out and what a respect their desire to not speak out well",
+    "uid": "5fb6a4f22ac41832",
+    "source": "test",
+    "start": 4310.02,
+    "end": 4317.54
+  },
+  {
+    "text": "totally and yeah and just to let people know I'm also writing on psychforce report it's called a",
+    "uid": "00cae9dbab0a71fe",
+    "source": "test",
+    "start": 4317.54,
+    "end": 4325.7
+  },
+  {
+    "text": "sub-stack column that I'm trying to get going of late where I'm doing more regular updates to some of these",
+    "uid": "4b2547c40aeebc9e",
+    "source": "test",
+    "start": 4325.7,
+    "end": 4331.94
+  },
+  {
+    "text": "issues and themes so to say the name of that again psychforce report or it's my name on sub-stack",
+    "uid": "e14a31b37a693023",
+    "source": "test",
+    "start": 4331.94,
+    "end": 4340.5
+  },
+  {
+    "text": "either way Rob White Pond it will it will come up there and there's also my website Rob White Pond.com",
+    "uid": "691c5b96a98dc905",
+    "source": "test",
+    "start": 4340.5,
+    "end": 4347.46
+  },
+  {
+    "text": "if people want to get in touch with me or or find their way to psychforce report from there we'll leave a link",
+    "uid": "e7f6ab6d4d26a184",
+    "source": "test",
+    "start": 4347.46,
+    "end": 4354.66
+  },
+  {
+    "text": "to your website here in the description and the book is of course available anywhere that books are for",
+    "uid": "901d30a08ac53dc0",
+    "source": "test",
+    "start": 4354.66,
+    "end": 4360.18
+  },
+  {
+    "text": "sale. Wonderful well thank you it's been you know what kind of an emotional journey this conversation",
+    "uid": "acc4472063917c06",
+    "source": "test",
+    "start": 4360.18,
+    "end": 4368.1
+  },
+  {
+    "text": "has been I felt so many so many feelings but one of them is certainly you know again compassion for",
+    "uid": "f21666e4dde911b8",
+    "source": "test",
+    "start": 4368.18,
+    "end": 4375.46
+  },
+  {
+    "text": "your father and people who have gone through things like your father went through and for all the people listening",
+    "uid": "02a897fa185b2bcd",
+    "source": "test",
+    "start": 4376.02,
+    "end": 4381.38
+  },
+  {
+    "text": "that are who's rights have been violated so so much compassion and if anyone else also felt rage and fury",
+    "uid": "3059ae70e777d88d",
+    "source": "test",
+    "start": 4382.02,
+    "end": 4389.54
+  },
+  {
+    "text": "hopefully we can channel that appropriately to affect positive change here well thank you to everyone who",
+    "uid": "512221f59a25ba33",
+    "source": "test",
+    "start": 4389.54,
+    "end": 4397.3
+  },
+  {
+    "text": "listened to this whole conversation and thank you to you Rob White Pond I trust we'll stay in touch and",
+    "uid": "152d8e1bdd570691",
+    "source": "test",
+    "start": 4397.38,
+    "end": 4403.46
+  },
+  {
+    "text": "until next time psychology is audience",
+    "uid": "ca1489c2f0c292d6",
+    "source": "test",
+    "start": 4404.42,
+    "end": 4409.46
+  }
+]
