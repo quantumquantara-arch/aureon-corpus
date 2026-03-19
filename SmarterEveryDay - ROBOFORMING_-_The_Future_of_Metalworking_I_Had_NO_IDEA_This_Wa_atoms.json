@@ -1,0 +1,3320 @@
+[
+  {
+    "text": "A brains on fire.",
+    "uid": "f52b5d5e74ed5f63",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 11.28,
+    "end": 12.68
+  },
+  {
+    "text": "PASS me destined welcome back to smarter every day.",
+    "uid": "8ae8c864e9de40fe",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 12.68,
+    "end": 14.92
+  },
+  {
+    "text": "We are right in the middle of a manufacturing deep dive series, and you may recall",
+    "uid": "25e40b18964e0786",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 14.92,
+    "end": 18.46
+  },
+  {
+    "text": "in a previous video, we went to a progressive metal stamping factory, and this place was",
+    "uid": "6617b753758d0a7d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 18.46,
+    "end": 23.06
+  },
+  {
+    "text": "They took coils of metal and they rolled them through these big presses with dyes, and they",
+    "uid": "a1a6b6f0a3b86045",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 24.06,
+    "end": 27.96
+  },
+  {
+    "text": "would stamp out thousands of parts.",
+    "uid": "3f50708731e9d400",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 27.96,
+    "end": 30.04
+  },
+  {
+    "text": "It's an incredible process, but what are the challenges to a process like this?",
+    "uid": "9df831438fad26f9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 30.04,
+    "end": 33.6
+  },
+  {
+    "text": "Is it takes an incredible amount of time and skill to create these progressive stamping dyes?",
+    "uid": "d4b470245dd8acbe",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 33.6,
+    "end": 38.68
+  },
+  {
+    "text": "Today, we're going to talk about a new process.",
+    "uid": "f38614c56e372baa",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 38.68,
+    "end": 40.68
+  },
+  {
+    "text": "Now we're not going to get the same level of accuracy or speed as we did in progressive metal",
+    "uid": "f96111ccc24f2d85",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 40.68,
+    "end": 44.92
+  },
+  {
+    "text": "stamping, but we are going to be able to iterate and create parts quickly, like change",
+    "uid": "31e366fbf7703f04",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 44.92,
+    "end": 49.76
+  },
+  {
+    "text": "to the part, which is an incredible asset when you're developing something, or making a small",
+    "uid": "caf704e59b3c3865",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 49.76,
+    "end": 55.32
+  },
+  {
+    "text": "number of parts.",
+    "uid": "42f519e599d3ccbf",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 55.32,
+    "end": 56.32
+  },
+  {
+    "text": "So today I'm super excited to continue the smarter everyday deep dive series into manufacturing,",
+    "uid": "c867ae3e901d561d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 56.32,
+    "end": 61.4
+  },
+  {
+    "text": "and we're going to learn about something called incremental sheet forming.",
+    "uid": "ad3321efe7b9a631",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 61.4,
+    "end": 64.72
+  },
+  {
+    "text": "The intricate details of how this process works blows my mind, and I've never seen this stuff",
+    "uid": "1c6548d092087bd9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 64.72,
+    "end": 69.2
+  },
+  {
+    "text": "on the internet, and I think it's going to blow your mind as well.",
+    "uid": "cc017858b17e5fa5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 69.2,
+    "end": 72.72
+  },
+  {
+    "text": "So let's go get smarter every day and learn about incremental sheet forming, or is this company",
+    "uid": "145c54930daf2e03",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 72.72,
+    "end": 77.04
+  },
+  {
+    "text": "calls it Robo forming?",
+    "uid": "1e0f9a9c8d5ec4b1",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 77.04,
+    "end": 82.84
+  },
+  {
+    "text": "So out in LA, there's this company called Machina Labs, and after a little bit of back and forth",
+    "uid": "2a40f3073775c8c4",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 82.84,
+    "end": 87.12
+  },
+  {
+    "text": "on the inner comb, because people are rightly suspicious about a guy walking up with cameras",
+    "uid": "96b06d5ea0db2ab8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 87.12,
+    "end": 91.12
+  },
+  {
+    "text": "to the security, they eventually let me in.",
+    "uid": "5ba8a939740870db",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 91.12,
+    "end": 93.72
+  },
+  {
+    "text": "Oh, they opened it.",
+    "uid": "6b6532867edde04b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 93.72,
+    "end": 94.72
+  },
+  {
+    "text": "Okay, we're in.",
+    "uid": "893602d1256379ba",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 95.72,
+    "end": 97.04
+  },
+  {
+    "text": "So this is Bobby.",
+    "uid": "17e1ffc80a43b3fc",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 97.04,
+    "end": 98.04
+  },
+  {
+    "text": "He's the one that reached out after seeing that I started a manufacturing series.",
+    "uid": "6d70c8a7e6bee0d8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 98.04,
+    "end": 101.36
+  },
+  {
+    "text": "The internet used me to be a couple of his coworkers who helped me get signed in, and then",
+    "uid": "9a5a775806576cdb",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 101.36,
+    "end": 104.44
+  },
+  {
+    "text": "we headed upstairs to the office portion of their lab slash factory where I met Ed and Bob",
+    "uid": "df0770920bd15c60",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 104.44,
+    "end": 108.36
+  },
+  {
+    "text": "back to the founders of the company.",
+    "uid": "78483b0ea972ee4a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 108.36,
+    "end": 110.08
+  },
+  {
+    "text": "Ed is the CEO and has an interesting background in software, and Bob actually leads the technology",
+    "uid": "9a196de295ea90d7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 110.08,
+    "end": 114.16
+  },
+  {
+    "text": "partnerships and has a PhD in materials engineering.",
+    "uid": "908bb9901ee1f5a9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 114.16,
+    "end": 117.32
+  },
+  {
+    "text": "Both of these guys are astoundingly sharp.",
+    "uid": "918a689062599d67",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 117.32,
+    "end": 119.84
+  },
+  {
+    "text": "So my understanding is you guys have a way to create, shaped, metal by forming it by, I don't know",
+    "uid": "0fb7c944f060521d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 119.84,
+    "end": 127.4
+  },
+  {
+    "text": "to say it, touching it in a very special way, as I would say.",
+    "uid": "f59bd2975e5be153",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 127.4,
+    "end": 131.24
+  },
+  {
+    "text": "Let me just draw it right here.",
+    "uid": "1a2449db6f1a0376",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 131.24,
+    "end": 133.08
+  },
+  {
+    "text": "So you guys have a planer, a planer of metal, and you bring two tools in, and you can touch",
+    "uid": "82cd337455bb9740",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 133.08,
+    "end": 140.4
+  },
+  {
+    "text": "the metal like that, and depending on the position of this, what do you call these tools?",
+    "uid": "42535fefc5bd5aef",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 140.4,
+    "end": 146.32
+  },
+  {
+    "text": "Come end effectors, but forming stylists is, oh yeah, end effector forming end effectors.",
+    "uid": "f44919b44edb704f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 146.32,
+    "end": 151.72
+  },
+  {
+    "text": "Okay, got it.",
+    "uid": "771e6a6e5aca9b6b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 151.72,
+    "end": 152.72
+  },
+  {
+    "text": "So when these two end effectors come in and they put force right here, you can deform,",
+    "uid": "65802dfd1e591f19",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 152.72,
+    "end": 158.16
+  },
+  {
+    "text": "you can deform the steel in there, and if you do it in a certain way, I'm assuming I haven't",
+    "uid": "759bb2af3b0faa39",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 158.16,
+    "end": 162.76
+  },
+  {
+    "text": "got here yet, but I'm assuming the position of this versus this matters.",
+    "uid": "17170dedbb531864",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 162.76,
+    "end": 167.4
+  },
+  {
+    "text": "Okay, and so you can do things that are really interesting.",
+    "uid": "5ade881981721255",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 168.4,
+    "end": 171.08
+  },
+  {
+    "text": "Yeah, so I think the best analogy that I can think of, you know, how I potter, you know,",
+    "uid": "1966b239db75689f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 171.08,
+    "end": 175.2
+  },
+  {
+    "text": "you have a clay on your, you know, kind of turning table, and the potter kind of pinches the clay",
+    "uid": "72e67b0ad99d8c3b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 175.2,
+    "end": 179.68
+  },
+  {
+    "text": "with their finger, and slowly the format.",
+    "uid": "d87d456975617412",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 179.68,
+    "end": 182.04
+  },
+  {
+    "text": "That's what we're trying to do with sheet, but, you know, it's a very strong sheet, and, you",
+    "uid": "dc541ec0cbf08409",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 182.04,
+    "end": 186.4
+  },
+  {
+    "text": "know, requires thousands of new things to deform it.",
+    "uid": "38e6aad90dd7b26e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 186.4,
+    "end": 188.88
+  },
+  {
+    "text": "You know, deformation with the, but the pinches can be a shear, it can be stretching.",
+    "uid": "2bc411beec0de24a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 188.88,
+    "end": 192.24
+  },
+  {
+    "text": "There's combination of the fring mechanisms happening until get you a part that you are.",
+    "uid": "9568507423443c1b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 192.24,
+    "end": 196.52
+  },
+  {
+    "text": "So you have access to more interesting geometries, but the trade-off is it takes a little more",
+    "uid": "94a84d92f749f245",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 196.52,
+    "end": 202.32
+  },
+  {
+    "text": "time to make the part.",
+    "uid": "813af2aac3323dd7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 202.32,
+    "end": 203.88
+  },
+  {
+    "text": "It takes a little bit more time to make the part, but if you take it count the fact that",
+    "uid": "f8d6834fc0e1841e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 203.88,
+    "end": 207.4
+  },
+  {
+    "text": "you had to make a mold to make the part, then in a lot of cases, up to even thousands of parts",
+    "uid": "2bba048302c3acdb",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 207.4,
+    "end": 212.56
+  },
+  {
+    "text": "Because you can start making the part with, you know, two hours after your design is done, with",
+    "uid": "3007733f6a523006",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 214.56,
+    "end": 218.36
+  },
+  {
+    "text": "the mold, you have to go through iterations on the mold, and usually the mold that the design",
+    "uid": "bbedf3f78ef42046",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 218.36,
+    "end": 222.08
+  },
+  {
+    "text": "and the mold is also slightly different than the design of the part, right?",
+    "uid": "ea2f9398d53ff9f6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 222.08,
+    "end": 224.84
+  },
+  {
+    "text": "Because the sheet has a spring back, you'll spam it, it comes off, it moves again.",
+    "uid": "15cd3b2ed33d34db",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 224.84,
+    "end": 228.48
+  },
+  {
+    "text": "So your mold is usually different than your actual geometry, just not the negative of your geometry,",
+    "uid": "02f16397e4a04c21",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 229.48,
+    "end": 234.48
+  },
+  {
+    "text": "So you're going through those iterations, spending hundreds of thousands of dollars, you",
+    "uid": "8c4e990c953bd581",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 235.48,
+    "end": 239.84
+  },
+  {
+    "text": "get your part, you might be even faster just forming with us.",
+    "uid": "eedf656aa4debef4",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 239.84,
+    "end": 243.32
+  },
+  {
+    "text": "But then once you're forming the part, obviously we're slightly restored than stamping stampings",
+    "uid": "175c62a7c4825624",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 243.32,
+    "end": 246.96
+  },
+  {
+    "text": "a few seconds you get your part.",
+    "uid": "0a0ca90e2fed17d1",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 246.96,
+    "end": 248.08
+  },
+  {
+    "text": "So this is great for development and low rate initial production.",
+    "uid": "5f52bceecbc417da",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 248.08,
+    "end": 251.48
+  },
+  {
+    "text": "Yes, I think that's the first area that we're going after, but you were surprised whether",
+    "uid": "929e40cc90148491",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 251.48,
+    "end": 255.92
+  },
+  {
+    "text": "the break even point is.",
+    "uid": "80283271c12302b5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 255.92,
+    "end": 257.4
+  },
+  {
+    "text": "It's further down the chain of things.",
+    "uid": "3daec6cf30903bbe",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 257.4,
+    "end": 258.4
+  },
+  {
+    "text": "It's further than the chain of things.",
+    "uid": "73c5746c0241d317",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 258.4,
+    "end": 259.4
+  },
+  {
+    "text": "So, and took us downstairs to see the robots.",
+    "uid": "fe545278c0fb2b76",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 259.4,
+    "end": 262.8
+  },
+  {
+    "text": "But before you see it, I want you to think about this.",
+    "uid": "6efe8b0e354d662b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 262.8,
+    "end": 265.04
+  },
+  {
+    "text": "This is not like these guys invented this overnight.",
+    "uid": "11f71ba0c27f54c7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 265.04,
+    "end": 267.84
+  },
+  {
+    "text": "This is the result of decades of research by professors and scientists.",
+    "uid": "128a6840eb46a53c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 267.84,
+    "end": 272.24
+  },
+  {
+    "text": "And in fact, like if you look at the old patent history, you can see patents from Japan, Europe,",
+    "uid": "5b171f24fc6f6f14",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 272.24,
+    "end": 277.24
+  },
+  {
+    "text": "Finland all over the place.",
+    "uid": "f3a77bc4df1588c4",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 277.24,
+    "end": 278.96
+  },
+  {
+    "text": "People have been trying to figure this out, and we're just now getting to the point where they",
+    "uid": "c2b43d227a8e778b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 278.96,
+    "end": 282.16
+  },
+  {
+    "text": "can crack the code on how to do it.",
+    "uid": "46916a7c7f12578e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 282.16,
+    "end": 284.28
+  },
+  {
+    "text": "Ford, Boeing, Nissan, DTSMR, and do you work in this?",
+    "uid": "01dcd0766b1f82e4",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 284.28,
+    "end": 289.24
+  },
+  {
+    "text": "But nothing really commercialized out of those efforts?",
+    "uid": "aa20293391b9f8f5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 289.24,
+    "end": 292.48
+  },
+  {
+    "text": "So you run in Cookies?",
+    "uid": "f714be8b837dd865",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 292.48,
+    "end": 293.48
+  },
+  {
+    "text": "We run in Cookies at the moment.",
+    "uid": "77b2bd07ba10c2bc",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 293.48,
+    "end": 296.44
+  },
+  {
+    "text": "The robotic system is Cookies.",
+    "uid": "30fa1d5d91d31f8c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 296.44,
+    "end": 299.12
+  },
+  {
+    "text": "But we also can use fanics.",
+    "uid": "054fb2dc2bf291a8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 299.12,
+    "end": 300.84
+  },
+  {
+    "text": "You can see on the other side, those are fanclery bugs.",
+    "uid": "d0dba128022e405e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 300.84,
+    "end": 303.44
+  },
+  {
+    "text": "We are robotic gnostic.",
+    "uid": "8a4b97ee37d3062e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 304.44,
+    "end": 306.16
+  },
+  {
+    "text": "We're pretty much, they see build the whole control system for the robots from scratch.",
+    "uid": "28f14b9003595161",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 306.16,
+    "end": 311.72
+  },
+  {
+    "text": "So it's not dependent on any features that the Cookie has.",
+    "uid": "ad5748e4a34828bb",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 311.72,
+    "end": 314.96
+  },
+  {
+    "text": "It's like a dance.",
+    "uid": "0fcaa807ccd4a494",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 314.96,
+    "end": 316.2
+  },
+  {
+    "text": "It's different than I thought.",
+    "uid": "ed0072ec0b7a1396",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 317.6,
+    "end": 321.5
+  },
+  {
+    "text": "It's actually pushing.",
+    "uid": "fb16c98ae8e1c9a5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 321.5,
+    "end": 323.78
+  },
+  {
+    "text": "Sorry, I'm being rude.",
+    "uid": "69000a85c6cb7854",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 323.78,
+    "end": 325.78
+  },
+  {
+    "text": "Mark, what's up, man?",
+    "uid": "a6a9679065954233",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 327.78,
+    "end": 328.78
+  },
+  {
+    "text": "Nice to meet you.",
+    "uid": "31ab371e178bee5c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 328.78,
+    "end": 329.78
+  },
+  {
+    "text": "How are you doing, man?",
+    "uid": "12ffd1d75ee91715",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 329.78,
+    "end": 330.78
+  },
+  {
+    "text": "Can I put a mic on your ear?",
+    "uid": "d6667ed4956a833d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 330.78,
+    "end": 331.78
+  },
+  {
+    "text": "You go with that?",
+    "uid": "c64a9023df0db080",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 331.78,
+    "end": 332.78
+  },
+  {
+    "text": "Can you show me what's happening over here?",
+    "uid": "0663f39fc2f8965c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 332.78,
+    "end": 334.78
+  },
+  {
+    "text": "So this is incremental forming?",
+    "uid": "ae082ca35d8ea484",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 335.78,
+    "end": 337.78
+  },
+  {
+    "text": "Incremental metal forming?",
+    "uid": "38bf857aa0fb7d56",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 338.78,
+    "end": 339.78
+  },
+  {
+    "text": "It's 2mm aluminum sheet.",
+    "uid": "6ca25c3cd5c479f2",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 341.78,
+    "end": 342.78
+  },
+  {
+    "text": "There's one robot on each side, and they're sort of pinching.",
+    "uid": "8f59c95d8f59f389",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 342.78,
+    "end": 346.26
+  },
+  {
+    "text": "And it's a lot like a potter's wheel spinning like that.",
+    "uid": "4c8a6c4e25c2ef1e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 346.26,
+    "end": 351.1
+  },
+  {
+    "text": "But here the tips are moving instead of the workpiece.",
+    "uid": "c99d1282d0d62657",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 351.1,
+    "end": 354.9
+  },
+  {
+    "text": "And it doesn't have to be round.",
+    "uid": "6dd2740c2fd7dc8f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 354.9,
+    "end": 356.5
+  },
+  {
+    "text": "You can sort of push any shape you want.",
+    "uid": "19d9729a19717c12",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 356.5,
+    "end": 358.62
+  },
+  {
+    "text": "So layer by layer, we're sort of stretching and pinching and pulling whatever shape I want",
+    "uid": "92cc4e41503df9e5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 358.62,
+    "end": 364.62
+  },
+  {
+    "text": "here out of this metal.",
+    "uid": "1831a1a0c1259e97",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 364.62,
+    "end": 365.86
+  },
+  {
+    "text": "So the triangle here is coming out of plane.",
+    "uid": "0fe16eb0ac79a7e1",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 365.86,
+    "end": 369.46
+  },
+  {
+    "text": "Which means this one over here, are there any optical lockouts I need to be aware of?",
+    "uid": "724ba66c01cc7adf",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 370.5,
+    "end": 374.58
+  },
+  {
+    "text": "Can I walk here?",
+    "uid": "2ab9220ddf6b2761",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 375.58,
+    "end": 376.58
+  },
+  {
+    "text": "Just try not to get between the robot and the sheet and you should be good.",
+    "uid": "1e2edd20f4d67d9e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 379.58,
+    "end": 380.58
+  },
+  {
+    "text": "So this one is pushing.",
+    "uid": "211feddac5944bf1",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 381.58,
+    "end": 383.58
+  },
+  {
+    "text": "So this row, do you have a force gauge on this end effector?",
+    "uid": "54a5f3c607de718b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 384.58,
+    "end": 387.58
+  },
+  {
+    "text": "Yeah, there's load cells on both robots, so you can feel exactly what they're doing.",
+    "uid": "c2271596288edf60",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 387.58,
+    "end": 390.58
+  },
+  {
+    "text": "Here you can see over here what's going on.",
+    "uid": "5338744d80165f2f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 390.58,
+    "end": 392.58
+  },
+  {
+    "text": "This is the forces that both robots are feeling right now.",
+    "uid": "109568557c2f878f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 392.58,
+    "end": 395.58
+  },
+  {
+    "text": "So can you tell me what colors are what?",
+    "uid": "bc5772148520b298",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 396.58,
+    "end": 398.58
+  },
+  {
+    "text": "There's the Z component, the in plane component, and then green is just a total.",
+    "uid": "91bb31c1dfa13b53",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 399.58,
+    "end": 403.58
+  },
+  {
+    "text": "It's pretty easy to understand the forces pushing into the plate, but the in plane forces",
+    "uid": "432092f7cdb2f0e0",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 403.58,
+    "end": 407.58
+  },
+  {
+    "text": "are the side-to-side forces as the thing moves around.",
+    "uid": "275f60397c694136",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 407.58,
+    "end": 410.58
+  },
+  {
+    "text": "And so there's robot number one here is the one that's pushing.",
+    "uid": "befea09845f582d5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 410.58,
+    "end": 413.58
+  },
+  {
+    "text": "And then robot number two here is the support that's on the other side.",
+    "uid": "fc291c106fdaa432",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 413.58,
+    "end": 416.58
+  },
+  {
+    "text": "What you could do is you could do this process with just one robot and you could just sort of poke",
+    "uid": "5e0ee3c45f379c9a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 416.58,
+    "end": 421.58
+  },
+  {
+    "text": "in metal and basically do a bunch of work by stretching.",
+    "uid": "b9c4462101e32e18",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 421.58,
+    "end": 423.58
+  },
+  {
+    "text": "But the boundary conditions, like, does it end you load the whole thing up in tension, right?",
+    "uid": "8dae50d68cc81f25",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 423.58,
+    "end": 427.58
+  },
+  {
+    "text": "So what we're doing by having a support robot on the other side is you pinch.",
+    "uid": "e91c0464a3ff4128",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 427.58,
+    "end": 430.58
+  },
+  {
+    "text": "And so you localize all the force just between the tips, which sort of reduces tension on the sheet.",
+    "uid": "a0e3a6b29fc08259",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 430.58,
+    "end": 436.58
+  },
+  {
+    "text": "And makes it so you can form a lot more accurately.",
+    "uid": "5679a11fbf952405",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 436.58,
+    "end": 438.58
+  },
+  {
+    "text": "What Margot said it was crazy, and I have a little visualization here to try to help me understand it.",
+    "uid": "1e2d3ccdd2d77cd3",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 440.58,
+    "end": 444.58
+  },
+  {
+    "text": "This is just fabric on a sewing frame.",
+    "uid": "1c8425a3b21b0cf7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 444.58,
+    "end": 446.58
+  },
+  {
+    "text": "Check this out.",
+    "uid": "5284123d1c12074a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 446.58,
+    "end": 447.58
+  },
+  {
+    "text": "If you push against this thing, it's going to tint out, right?",
+    "uid": "811b3ed070de0c30",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 447.58,
+    "end": 451.58
+  },
+  {
+    "text": "Like this, this is going to deform.",
+    "uid": "427165063623af53",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 451.58,
+    "end": 453.58
+  },
+  {
+    "text": "Obviously this doesn't behave like the metal does, but it's going to deform out there.",
+    "uid": "9a354c20c282c95c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 453.58,
+    "end": 457.58
+  },
+  {
+    "text": "Now, when people work with metal, they use something called breaking in order to locally deform the metal past its yield strength.",
+    "uid": "b7f528abb2a82704",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 457.58,
+    "end": 465.58
+  },
+  {
+    "text": "Basically, they make a permanent deformation.",
+    "uid": "e42bc59c9908988f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 465.58,
+    "end": 467.58
+  },
+  {
+    "text": "What they're having to do in this case is because they're poking on one side, if you were to push so hard that you deform it, it's going to like tint out.",
+    "uid": "7291c6e9908fdd95",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 467.58,
+    "end": 475.58
+  },
+  {
+    "text": "It'd be really weird, right?",
+    "uid": "936697713536e8e7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 475.58,
+    "end": 476.58
+  },
+  {
+    "text": "So they're locally doing it by putting two end effectors right next to each other and just yielding it right there.",
+    "uid": "a753285c6900a30e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 476.58,
+    "end": 481.58
+  },
+  {
+    "text": "And that little bit of spot.",
+    "uid": "fb71ac6ffb38eacc",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 481.58,
+    "end": 483.58
+  },
+  {
+    "text": "That's really hard to do when you have forces on both sides and everything starts to move.",
+    "uid": "0e69105cb987a043",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 483.58,
+    "end": 488.58
+  },
+  {
+    "text": "So what they're talking about is wild because when you break metal, you normally have a rigid datum and you bend over a corner.",
+    "uid": "793d23acbef7db8f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 488.58,
+    "end": 495.58
+  },
+  {
+    "text": "They don't have a rigid datum.",
+    "uid": "f3d236dbd7494af6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 495.58,
+    "end": 497.58
+  },
+  {
+    "text": "They're moving things around which makes this complicated.",
+    "uid": "5b1f7420c4b33543",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 497.58,
+    "end": 500.58
+  },
+  {
+    "text": "So one is pushing.",
+    "uid": "8a779a15ef82dfae",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 500.58,
+    "end": 502.58
+  },
+  {
+    "text": "So I would expect a positive force or compressive force on that one.",
+    "uid": "bb78a7826147b7da",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 502.58,
+    "end": 506.58
+  },
+  {
+    "text": "And this one, do you, if it was just holding one position, would you just hold the robot here until it feels full.",
+    "uid": "1e836b049c889e6b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 506.58,
+    "end": 512.58
+  },
+  {
+    "text": "Until it feels forced from the other side so that you know that you are actually pinching.",
+    "uid": "9009d13b8a74ca76",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 512.58,
+    "end": 516.58
+  },
+  {
+    "text": "We get pretty fancy about it.",
+    "uid": "43028c411925fc85",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 516.58,
+    "end": 518.58
+  },
+  {
+    "text": "We're basically, because should I talk about all this stuff?",
+    "uid": "dd28b41727b61923",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 518.58,
+    "end": 520.58
+  },
+  {
+    "text": "Am I allowed to do that?",
+    "uid": "035ea62a0ef8f150",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 520.58,
+    "end": 521.58
+  },
+  {
+    "text": "You should actually, well, generally, him do it since it's ultimately his authority?",
+    "uid": "f93e700f856e4ff8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 521.58,
+    "end": 525.58
+  },
+  {
+    "text": "No, no, no, I think Mark, Mark knows yes.",
+    "uid": "ebd9ad721718488d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 525.58,
+    "end": 528.58
+  },
+  {
+    "text": "Yeah, really there's control systems on both of these robots where we can sort of plan their nominal trajectory that just sort of is the theoretical what they should be doing.",
+    "uid": "928938234c660cd1",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 530.58,
+    "end": 540.58
+  },
+  {
+    "text": "They also like, they feel the forces and we use that to update to make corrections to the trajectory.",
+    "uid": "d35ae8d0c338d1ac",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 540.58,
+    "end": 547.58
+  },
+  {
+    "text": "Continue as feedback.",
+    "uid": "ec4597b1a9f7c1d0",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 547.58,
+    "end": 548.58
+  },
+  {
+    "text": "Yeah, so one of them is correcting for its own deflection under load because they're not infinitely stiff.",
+    "uid": "3482863f4feaf57b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 548.58,
+    "end": 553.58
+  },
+  {
+    "text": "The other one is trying to hit a target pinch force that we sent.",
+    "uid": "2e46b255d7487dd6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 553.58,
+    "end": 557.58
+  },
+  {
+    "text": "In Super Simple Terms, the first robot is supposed to get to a certain point in space.",
+    "uid": "f1df6f844a7fa0cd",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 557.58,
+    "end": 561.58
+  },
+  {
+    "text": "And the second robot is supposed to push and a certain force required to bend the metal.",
+    "uid": "a8eedea53e552ee1",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 561.58,
+    "end": 566.58
+  },
+  {
+    "text": "That's interesting, but the problem is once you start pushing at those levels of force, the robot itself starts to bend.",
+    "uid": "7354be627144fa5d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 566.58,
+    "end": 572.58
+  },
+  {
+    "text": "So you have to accommodate for that.",
+    "uid": "5a583e4564d6b110",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 572.58,
+    "end": 574.58
+  },
+  {
+    "text": "You have two robots on a pretty large envelope, right?",
+    "uid": "2322eb9fcde097a9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 574.58,
+    "end": 577.58
+  },
+  {
+    "text": "So the envelope is 12 foot by five foot.",
+    "uid": "9e541621aeab9008",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 577.58,
+    "end": 579.58
+  },
+  {
+    "text": "Getting two industrial robots to be very accurate in this envelope is one task that we have to do through a lot of kind of calibration and proper kinematics.",
+    "uid": "b4693dea6f3cffd4",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 579.58,
+    "end": 588.58
+  },
+  {
+    "text": "But then the moment they start touching sheet, the sheet will resist it.",
+    "uid": "744035960128024c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 588.58,
+    "end": 592.58
+  },
+  {
+    "text": "And these robots are pretty new to it. You can kind of imagine every joint slightly deflects.",
+    "uid": "7b5efea6fe865133",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 592.58,
+    "end": 597.58
+  },
+  {
+    "text": "So there are controls and mechanisms that are basically compensated for that deflection to robot stays accurate under dynamic load.",
+    "uid": "83546f0ea7bb28fb",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 597.58,
+    "end": 606.58
+  },
+  {
+    "text": "Sometimes depending on what sheet we are forming, it can be like 20,000 Newton's of force that you're applying.",
+    "uid": "87b6d69f4f90a473",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 606.58,
+    "end": 612.58
+  },
+  {
+    "text": "It's like as high as a weight of a truck on a very small end effect you're on the forming side.",
+    "uid": "bbd481da178cc1cd",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 612.58,
+    "end": 617.58
+  },
+  {
+    "text": "So being able to, and other those loads, robots sometimes deflect six, seven millimeters, right?",
+    "uid": "f8f67907641fe7e4",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 617.58,
+    "end": 623.58
+  },
+  {
+    "text": "And you want to pinch a sheet that's only two millimeters or half a millimeter.",
+    "uid": "e74362e2d81b47cb",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 623.58,
+    "end": 626.58
+  },
+  {
+    "text": "So we have to adjust for that. So there's a control loop that uses the force data, some of the other data to constantly figure out how we can stay accurate and pitch the sheet to right way.",
+    "uid": "236d316e774484ef",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 626.58,
+    "end": 636.58
+  },
+  {
+    "text": "Just blew my mind a little bit. There's a lot of math here.",
+    "uid": "b918eb58a7ef6658",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 636.58,
+    "end": 638.58
+  },
+  {
+    "text": "So is there a robot around this corner?",
+    "uid": "b07a7596d38b9383",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 638.58,
+    "end": 641.58
+  },
+  {
+    "text": "There's a robot that's not running at the moment, but you can't get all of that to it.",
+    "uid": "416c98f861d85e3c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 641.58,
+    "end": 644.58
+  },
+  {
+    "text": "So if I understand what you just said, like there's many ways to arrive at this point with this linkage.",
+    "uid": "66952b6ccc5751ad",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 644.58,
+    "end": 652.58
+  },
+  {
+    "text": "Okay. And if I arrive at this point and apply 5,000 pounds in that direction, I'm going to get a certain radial deflection here.",
+    "uid": "4526724a4bb24193",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 653.58,
+    "end": 662.58
+  },
+  {
+    "text": "I'm going to get a certain radial deflection here. You have to also determine how you get there in order to anticipate the deflection.",
+    "uid": "b17b6b0f8ec75f89",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 662.58,
+    "end": 669.58
+  },
+  {
+    "text": "When you have a robot like this with a lot of different joints, you can be in one location, but you can get there many different ways, right?",
+    "uid": "b6c8a1fe86b428f3",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 670.58,
+    "end": 675.58
+  },
+  {
+    "text": "It's kind of funny, but you see what I'm trying to say.",
+    "uid": "19b052f93278de5c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 675.58,
+    "end": 677.58
+  },
+  {
+    "text": "Think about it like this. If you've got 5,000 pounds of force that's in line with this first actuator here, there's not going to be any torque applied to it, right?",
+    "uid": "4fbb4bb7f0748bd8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 677.58,
+    "end": 686.58
+  },
+  {
+    "text": "But if you think about that second actuator, the offset between the force and the actuator will determine the amount of torque that that thing has to resist.",
+    "uid": "d4ca3439d359a3b3",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 686.58,
+    "end": 694.58
+  },
+  {
+    "text": "And the same thing applies to that third actuator down here, and all of those forces eventually get transmitted down to the base of the robot.",
+    "uid": "34a3e5a063c3212e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 694.58,
+    "end": 702.58
+  },
+  {
+    "text": "If you think about how these actuators work, it's made up of motors and gears, right?",
+    "uid": "69c3da6425994551",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 702.58,
+    "end": 705.58
+  },
+  {
+    "text": "And if you were to zoom in, you would find that these gear trains are imperfect.",
+    "uid": "46976c970529002e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 705.58,
+    "end": 709.58
+  },
+  {
+    "text": "If you have a driving gear here, if it were to stop and reverse into the other direction, you would find that there's play between the gear teeth, and that causes something called backlash.",
+    "uid": "6fd8bf2cc4f9cef7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 709.58,
+    "end": 719.58
+  },
+  {
+    "text": "Watch the robot draw this shape.",
+    "uid": "127468d646645236",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 719.58,
+    "end": 724.5
+  },
+  {
+    "text": "Now think about how the motors change direction at different moments along the polygon.",
+    "uid": "7345fcda0ba39842",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 724.5,
+    "end": 730.5
+  },
+  {
+    "text": "Now think about the loading that's happening in the robot arm as it changes directions.",
+    "uid": "e2244b361112436d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 730.5,
+    "end": 737.97
+  },
+  {
+    "text": "It's a pretty complicated motion control problem, isn't it?",
+    "uid": "fd79a5839e60fdcd",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 737.97,
+    "end": 740.97
+  },
+  {
+    "text": "Back lashes also something you have to take into account with linear actuators, like this screw system here that's moving this big robot back and forth.",
+    "uid": "b1efb5dd7e65e765",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 740.97,
+    "end": 747.97
+  },
+  {
+    "text": "When you move one way and then the other, you've got to take into account backlash there as well.",
+    "uid": "f1efc4d9f043f0b8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 747.97,
+    "end": 752.97
+  },
+  {
+    "text": "Okay, so not only do we have issues with the actuators themselves, we also have issues with the arms themselves.",
+    "uid": "08b5b1faa9425fec",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 752.97,
+    "end": 757.97
+  },
+  {
+    "text": "Like think about this.",
+    "uid": "6d6949ec4fca7012",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 757.97,
+    "end": 758.97
+  },
+  {
+    "text": "If you've been on a ladder and you've tried to like drill something in really high like this in your arms all week because of where you're at.",
+    "uid": "325fa578ca2befe5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 758.97,
+    "end": 764.97
+  },
+  {
+    "text": "But if you're like up here and you really put your power behind it and you line everything up, like you don't deflect as much and you get more strength out of it, all these things factor in as well.",
+    "uid": "1a2c9737b64db8b3",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 764.97,
+    "end": 773.97
+  },
+  {
+    "text": "So now when you have the actuator movements, you have the rigidity of the arm itself.",
+    "uid": "807191b0c228af53",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 773.97,
+    "end": 778.97
+  },
+  {
+    "text": "There's two types of accuracy. Like get the robot to one point, but then also accurately move from one point to another while the forces are changing the robot.",
+    "uid": "2c8f56f82d0d3080",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 778.97,
+    "end": 786.97
+  },
+  {
+    "text": "So with the load, now there's an extra like okay the joint A1, not only need to be a 60 degrees, you need to be a 60 point, 1 or 60 point 2 degrees, depending if at the end effector is facing facing like a 5,000 pound force.",
+    "uid": "b01aef343766258b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 786.97,
+    "end": 800.97
+  },
+  {
+    "text": "But including that into the kinetic calculation.",
+    "uid": "9f0f39b3d513821b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 800.97,
+    "end": 803.97
+  },
+  {
+    "text": "Yeah, it's fun. It's a fun thing that our robotic team is working on.",
+    "uid": "212a13d3d9febb9f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 804.97,
+    "end": 808.97
+  },
+  {
+    "text": "So if this is at zero degrees and I'm pushing into that, are there many different ways to set up the robot to get there or is there only one way it can be seen?",
+    "uid": "3772d94fd48f8661",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 808.97,
+    "end": 815.97
+  },
+  {
+    "text": "So because we have seven axes, there's probably there's unlimited ways to get to that point with different poses.",
+    "uid": "de59d0693cb0d7ea",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 816.97,
+    "end": 824.97
+  },
+  {
+    "text": "So what do you do? Do you pick a few things and say this always has to be here? This always has to be here?",
+    "uid": "652106f0acc42460",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 824.97,
+    "end": 828.97
+  },
+  {
+    "text": "No, so there are, there are so many cool things. You can just choose randomly choose.",
+    "uid": "15666d36322249ee",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 828.97,
+    "end": 833.97
+  },
+  {
+    "text": "Or you can optimize for example for stiffness in certain direction that your force is going to be.",
+    "uid": "9d76eeb31e1136bb",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 833.97,
+    "end": 838.97
+  },
+  {
+    "text": "So you say, okay, move the robot and array else, so the joints and the most stiffest combination to apply the most amount of force without deflection.",
+    "uid": "e5b230396c9c5f05",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 838.97,
+    "end": 846.97
+  },
+  {
+    "text": "So there's like, you have a function to optimize it that point.",
+    "uid": "f97d3b2e0b8695f7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 846.97,
+    "end": 850.97
+  },
+  {
+    "text": "And you can kind of partner with mathematics to figure out what you can actually want to do.",
+    "uid": "5039c827ca15cd92",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 850.97,
+    "end": 853.97
+  },
+  {
+    "text": "You're wicked smart dude.",
+    "uid": "05f4997de6354265",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 853.97,
+    "end": 855.97
+  },
+  {
+    "text": "This episode of Smarter Every Day is sponsored by NordVPN, which is a virtual private network that you can use to mask your IP address online.",
+    "uid": "971b0d20dfa6f2a6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 856.97,
+    "end": 864.97
+  },
+  {
+    "text": "And you can get a ridiculous deal right now with Nord if you go to NordVPN.com slash Smarter.",
+    "uid": "03a3fc32286d563c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 864.97,
+    "end": 870.97
+  },
+  {
+    "text": "And in the reason you don't see it on this piece of aluminum right here is because we're about to manufacture that while I tell you more about NordVPN.",
+    "uid": "5d100141d5e0ef8e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 870.97,
+    "end": 877.97
+  },
+  {
+    "text": "While I start by getting this block down to size, I want you to know that the way I use NordVPN is to mask what I'm searching on the internet.",
+    "uid": "0f441c2bb7e1c2e0",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 877.97,
+    "end": 884.97
+  },
+  {
+    "text": "I don't particularly want people looking over my shoulder when I'm trying to learn about things.",
+    "uid": "b89d11378adbe9eb",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 884.97,
+    "end": 888.97
+  },
+  {
+    "text": "I don't know a lot about.",
+    "uid": "3d1fac151885242d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 888.97,
+    "end": 889.97
+  },
+  {
+    "text": "I don't know a lot about things as a political topics, maybe to have something to do with health things.",
+    "uid": "ab44dbb56e42d4a5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 889.97,
+    "end": 893.97
+  },
+  {
+    "text": "I'm a wholeheartedly endorsing you using a virtual private network to maintain your privacy online.",
+    "uid": "c2730b4f77ea2d73",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 893.97,
+    "end": 898.97
+  },
+  {
+    "text": "NordVPN is super easy to use.",
+    "uid": "5ac0fb23f707a0a8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 898.97,
+    "end": 900.97
+  },
+  {
+    "text": "You can even connect to the internet from different places in the world.",
+    "uid": "44e518e687839864",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 900.97,
+    "end": 903.97
+  },
+  {
+    "text": "There's over 5,400 servers you can choose from in 60 countries.",
+    "uid": "44996cf616980a4d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 903.97,
+    "end": 906.97
+  },
+  {
+    "text": "The desktop app has this thing called threat protection.",
+    "uid": "faab7d70c5d24844",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 906.97,
+    "end": 908.97
+  },
+  {
+    "text": "This protects from malicious sites, downloads, trackers, and malicious ads.",
+    "uid": "98dfae899dc22e53",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 908.97,
+    "end": 912.97
+  },
+  {
+    "text": "One account gives you protected access to the internet for six different devices, so you can use it on all the things.",
+    "uid": "d9d3552d3e271a57",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 912.97,
+    "end": 918.97
+  },
+  {
+    "text": "You can see the URL starting to come to life here, NordVPN.com slash smarter.",
+    "uid": "d0e2944bbd6fe33b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 918.97,
+    "end": 922.97
+  },
+  {
+    "text": "Get a massive discount on the two-year plan specifically, and you get four months free.",
+    "uid": "d06a40c1514a62cf",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 922.97,
+    "end": 927.97
+  },
+  {
+    "text": "Go check that out.",
+    "uid": "acfe772a37442585",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 927.97,
+    "end": 928.97
+  },
+  {
+    "text": "See what you think?",
+    "uid": "571e58e714dd54ae",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 928.97,
+    "end": 929.97
+  },
+  {
+    "text": "It's a risk free, because Nord gives you a 30-day money-back guarantee.",
+    "uid": "7918917a8c1c6498",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 929.97,
+    "end": 933.97
+  },
+  {
+    "text": "By the way, NordVPN has a no-logs policy.",
+    "uid": "2afddbbe04e68ee9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 933.97,
+    "end": 936.97
+  },
+  {
+    "text": "They don't collect track or share your private data.",
+    "uid": "f2ff00e4958ecd31",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 936.97,
+    "end": 938.97
+  },
+  {
+    "text": "Alright, so here it is.",
+    "uid": "82c203165ef8ddd7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 938.97,
+    "end": 939.97
+  },
+  {
+    "text": "If you want to try this and support smarter every day by supporting the sponsor, you can go to NordVPN.com slash smarter.",
+    "uid": "bb993d4f5173ecb5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 939.97,
+    "end": 946.97
+  },
+  {
+    "text": "Like you see on the block of aluminum here, thanks for sticking around for that build,",
+    "uid": "107ad9f6a4fc6970",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 946.97,
+    "end": 949.97
+  },
+  {
+    "text": "and thank you for considering supporting the sponsor because you're smart.",
+    "uid": "5d562b664c7d1e94",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 949.97,
+    "end": 952.97
+  },
+  {
+    "text": "You know what's going on here, and I'm grateful that you would consider supporting.",
+    "uid": "d1a2958a179d026a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 952.97,
+    "end": 956.97
+  },
+  {
+    "text": "Okay, that's just all the robot. Now we have to think about the metal itself.",
+    "uid": "8c39f3af8e9f0000",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 956.97,
+    "end": 959.97
+  },
+  {
+    "text": "If we have a piece of metal and we push on it, it's going to deflect.",
+    "uid": "403eacef52cac395",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 959.97,
+    "end": 963.97
+  },
+  {
+    "text": "If we hold it at two locations and we push on it, it's going to deflect in the middle.",
+    "uid": "c5bc9e958c71ac55",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 963.97,
+    "end": 968.97
+  },
+  {
+    "text": "What happens if we're holding it here and here, and we have to push on it down here?",
+    "uid": "cfe9430c8c5c0ac6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 968.97,
+    "end": 972.97
+  },
+  {
+    "text": "Like you're not in the middle, you're way over here.",
+    "uid": "1f529468848b8fd7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 972.97,
+    "end": 974.97
+  },
+  {
+    "text": "You're going to get a different deflection curve all along the way.",
+    "uid": "dcb1387468e1484c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 974.97,
+    "end": 977.97
+  },
+  {
+    "text": "Let's go back to my little funny piece of fabric here, right?",
+    "uid": "5b0ad18f4d009c0e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 977.97,
+    "end": 980.97
+  },
+  {
+    "text": "Think about that. It's one thing to do it for a beam.",
+    "uid": "ef5a66635408b2f5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 980.97,
+    "end": 983.97
+  },
+  {
+    "text": "That's what's called an indeterminate deflection beam.",
+    "uid": "dda9bb027d18f2f2",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 983.97,
+    "end": 986.97
+  },
+  {
+    "text": "Civil engineers are really good at that. Think about a plane. It's way different.",
+    "uid": "dd1052d569dcd486",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 986.97,
+    "end": 990.97
+  },
+  {
+    "text": "Plainer deformation is hard.",
+    "uid": "cc40d669608319a2",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 990.97,
+    "end": 992.97
+  },
+  {
+    "text": "So if I were to push up in the middle of this thing, I were to get a deflection right there in the middle, right?",
+    "uid": "e24b5d93863e197e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 992.97,
+    "end": 998.97
+  },
+  {
+    "text": "It's going to be different if I'm over here at the edge because you see the angle is different towards the edge than it is towards the middle.",
+    "uid": "e12f5747b006484f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 998.97,
+    "end": 1004.97
+  },
+  {
+    "text": "It's kind of hard to see this, but this is also something that has to be taken into account when you're doing all these calculations.",
+    "uid": "d90e6b182bf2149f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1004.97,
+    "end": 1010.97
+  },
+  {
+    "text": "What do you call it when if I were to take a sheet and I were to touch in the middle, I would get more deflection than the edge.",
+    "uid": "ccdf3c647b473c9b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1010.97,
+    "end": 1016.97
+  },
+  {
+    "text": "Is that edge effects? Is that what that's called?",
+    "uid": "804649d0fe5e20e2",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1016.97,
+    "end": 1019.97
+  },
+  {
+    "text": "I think we call it boundary condition effects?",
+    "uid": "3d7f057a7b53880a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1019.97,
+    "end": 1021.97
+  },
+  {
+    "text": "Yes, but you're right.",
+    "uid": "cded81d27d0490fe",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1021.97,
+    "end": 1023.97
+  },
+  {
+    "text": "But you're right. Binding condition effects the accuracy of the parts that you get.",
+    "uid": "1911a3c80c9bb6f8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1023.97,
+    "end": 1026.97
+  },
+  {
+    "text": "So we have a whole software stack that tries to count for that.",
+    "uid": "6cfb470d1ee8bc4d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1026.97,
+    "end": 1029.97
+  },
+  {
+    "text": "So you can imagine a form of part you can then scan it. Actually the same robot scans it afterwards.",
+    "uid": "bcfa406f4f6a080d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1029.97,
+    "end": 1033.97
+  },
+  {
+    "text": "To do quality. To figure out yes, exact quality or just figure out what it formed to update the model.",
+    "uid": "fbbcab0700da84e4",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1033.97,
+    "end": 1038.97
+  },
+  {
+    "text": "And then it would like, okay, I formed this.",
+    "uid": "c6349a522292ee06",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1038.97,
+    "end": 1040.97
+  },
+  {
+    "text": "These are the areas that we're off.",
+    "uid": "bf41a2e637cf3b29",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1040.97,
+    "end": 1042.97
+  },
+  {
+    "text": "That means maybe I should have pushed more in some areas and pushed less in some other areas.",
+    "uid": "cc2cd3bef7a6a36f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1042.97,
+    "end": 1047.97
+  },
+  {
+    "text": "It can manually iterate on that, keep generating data and then later create a model that would tell you, okay, in order to form this geometry and this location in the sheet.",
+    "uid": "bf948278bad934fa",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1047.97,
+    "end": 1055.97
+  },
+  {
+    "text": "You need to actually form a completely different part.",
+    "uid": "4cea94331533cb8e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1055.97,
+    "end": 1058.97
+  },
+  {
+    "text": "And in the end you can actually get the right part without these things you talk about.",
+    "uid": "1995af76c56900a2",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1058.97,
+    "end": 1061.97
+  },
+  {
+    "text": "You might overshoot here, undershoot here, just like injection molding or all these processes have that.",
+    "uid": "6714bca044ba0cda",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1061.97,
+    "end": 1066.97
+  },
+  {
+    "text": "Is it sexually rolling, isn't it?",
+    "uid": "bbfe78e87d8d7917",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1066.97,
+    "end": 1068.97
+  },
+  {
+    "text": "Yes. So this is specific one does.",
+    "uid": "d148cf08b92340d8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1068.97,
+    "end": 1070.97
+  },
+  {
+    "text": "There are other ones that we have that roll in different ways.",
+    "uid": "f0d74f84eaa5fa4c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1070.97,
+    "end": 1074.97
+  },
+  {
+    "text": "Like a ballpoint pen?",
+    "uid": "c5372a99f792d996",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1074.97,
+    "end": 1076.97
+  },
+  {
+    "text": "There's a sphere tip, there's a flat tip. Depending on what kind of effect you want to get out of the part you might want to use different effect.",
+    "uid": "39a4c5ba6f055bf0",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1078.97,
+    "end": 1084.97
+  },
+  {
+    "text": "Different radii as well. It's a sharp crease. Different.",
+    "uid": "2017f5d3edaa4647",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1084.97,
+    "end": 1087.97
+  },
+  {
+    "text": "So that's a sexist model.",
+    "uid": "4d518373b4931fa8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1088.97,
+    "end": 1089.97
+  },
+  {
+    "text": "That's a feature that you can do. Like, you don't like,",
+    "uid": "4749cb86e47e6632",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1089.97,
+    "end": 1091.97
+  },
+  {
+    "text": "a quarter of a minute, a quarter of an inch, a diameter or somebody find you tell future.",
+    "uid": "f4c268cf7d7a9903",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1091.97,
+    "end": 1095.97
+  },
+  {
+    "text": "I think these are what?",
+    "uid": "7801ea511586d701",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1095.97,
+    "end": 1096.97
+  },
+  {
+    "text": "Half a quarter of a three quarter, a quarter of an inch, diameter.",
+    "uid": "66ad16f45a4edd35",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1096.97,
+    "end": 1099.97
+  },
+  {
+    "text": "So this one is just, I can't predict where it's going.",
+    "uid": "2fb5a5acd15c0428",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1100.97,
+    "end": 1104.97
+  },
+  {
+    "text": "Mark you have a complicated program.",
+    "uid": "fd958d0e6a958ac7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1104.97,
+    "end": 1109.28
+  },
+  {
+    "text": "So yeah, it's rolling along the pointing axis, I'll say.",
+    "uid": "86ccc2cacf95a1b7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1109.28,
+    "end": 1114.28
+  },
+  {
+    "text": "And you can see at the corners where it sort of changes all angle,",
+    "uid": "f897514344e5d73a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1114.28,
+    "end": 1117.28
+  },
+  {
+    "text": "where the tip sort of goes in and out.",
+    "uid": "46fad99302b01f78",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1117.28,
+    "end": 1119.28
+  },
+  {
+    "text": "At the corners it changes.",
+    "uid": "cad48ccacadc7b63",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1119.28,
+    "end": 1120.28
+  },
+  {
+    "text": "Yeah. Like right here, it's sort of at the bottom of the part you see it comes out now.",
+    "uid": "f83875a4e733d99d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1120.28,
+    "end": 1123.28
+  },
+  {
+    "text": "And then you'll go back in.",
+    "uid": "97494360930477b5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1123.28,
+    "end": 1125.28
+  },
+  {
+    "text": "Oh, so I see. So we're moving in the Z.",
+    "uid": "09f98611b0278871",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1125.28,
+    "end": 1127.28
+  },
+  {
+    "text": "Yeah. Like this wall is steeper than this wall.",
+    "uid": "6cbfd84d8bddd6cb",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1127.28,
+    "end": 1130.28
+  },
+  {
+    "text": "And now it gets steeper again.",
+    "uid": "852d0ace024bd8cd",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1130.28,
+    "end": 1132.28
+  },
+  {
+    "text": "So the tip sort of goes in and out there to basically keep the tips perpendicular to the surface that you're forming.",
+    "uid": "a4dcf2a2d7bd5678",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1132.28,
+    "end": 1138.28
+  },
+  {
+    "text": "So even though it looks like it's a 2D operation on any one slice,",
+    "uid": "7cfc61e823c051a2",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1140.28,
+    "end": 1145.78
+  },
+  {
+    "text": "it's actually a 3D operation, a whole way around.",
+    "uid": "584aba957976f136",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1145.78,
+    "end": 1147.78
+  },
+  {
+    "text": "They're playing her slices, but the tip sort of move like this sort of depending on the wall angle that you're forming.",
+    "uid": "6fd7e6c2365aa968",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1147.78,
+    "end": 1152.78
+  },
+  {
+    "text": "And we have some fancy non-planar slices, too, if one at a time.",
+    "uid": "e6297e23c7533f59",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1152.78,
+    "end": 1155.78
+  },
+  {
+    "text": "You're sure he's at with a bar, so that our non-planar.",
+    "uid": "1327c61f1b95fd87",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1155.78,
+    "end": 1157.78
+  },
+  {
+    "text": "So like you're forming on a curved section.",
+    "uid": "b656d276c8c2048a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1157.78,
+    "end": 1160.78
+  },
+  {
+    "text": "So now you're not starting from a flat sheet. You're forming from a section that's already have forming in it.",
+    "uid": "2acd4521c0768b45",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1161.78,
+    "end": 1166.78
+  },
+  {
+    "text": "Now your robot is actually going into a non-planar surface to deform and make another feature out of it.",
+    "uid": "47f1177b141c52c9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1166.78,
+    "end": 1172.78
+  },
+  {
+    "text": "Oh, that's awesome.",
+    "uid": "2dc9e32541c85e72",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1172.78,
+    "end": 1173.78
+  },
+  {
+    "text": "So this is what's going to happen?",
+    "uid": "6c02bc62aa07f66e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1173.78,
+    "end": 1175.78
+  },
+  {
+    "text": "Yeah, we're doing the face.",
+    "uid": "9bcd092b4b3fa2e2",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1175.78,
+    "end": 1176.78
+  },
+  {
+    "text": "And then this triangle is the one that's just started over there.",
+    "uid": "d877252af4ce78e9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1176.78,
+    "end": 1178.78
+  },
+  {
+    "text": "Right now, this whole thing is about 90 minutes.",
+    "uid": "18d7c4d2d35d282f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1178.78,
+    "end": 1180.78
+  },
+  {
+    "text": "Then it'll do this hexagon part.",
+    "uid": "3d3afc50ef9a411d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1180.78,
+    "end": 1182.78
+  },
+  {
+    "text": "This one's actually a spiral rather than layers.",
+    "uid": "7c9d7305f1fb5c47",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1182.78,
+    "end": 1185.78
+  },
+  {
+    "text": "So there's no...",
+    "uid": "4794179757229742",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1185.78,
+    "end": 1187.78
+  },
+  {
+    "text": "It's a one millimeter pitch, but it's just a spiral the whole way.",
+    "uid": "2002f8e7b9812a32",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1188.78,
+    "end": 1191.78
+  },
+  {
+    "text": "And then all of these are actually changed together as a single operation.",
+    "uid": "55653da36709e69c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1192.78,
+    "end": 1196.78
+  },
+  {
+    "text": "So the robots will do one, and they'll immediately go over and start the next one without slowing down.",
+    "uid": "71eafd28f014feda",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1196.78,
+    "end": 1200.78
+  },
+  {
+    "text": "That's interesting, because when I looked at it on the internet,",
+    "uid": "93718bc9c1f49661",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1200.78,
+    "end": 1202.78
+  },
+  {
+    "text": "I thought you were going to do one plane and then just move in the z-axis and do more and more planes.",
+    "uid": "4df988ff908353e7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1202.78,
+    "end": 1207.78
+  },
+  {
+    "text": "But you don't have to do that.",
+    "uid": "2d56dd6d19f03c35",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1207.78,
+    "end": 1209.78
+  },
+  {
+    "text": "We can do whatever we can imagine.",
+    "uid": "24e67561b6410435",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1209.78,
+    "end": 1211.78
+  },
+  {
+    "text": "Right here, there's a bit of a seam, if you look really closely where we transition.",
+    "uid": "550d24af1d1ac322",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1211.78,
+    "end": 1215.78
+  },
+  {
+    "text": "But if I do a spiral, then you won't find that on this part.",
+    "uid": "fecfb28b26fef5c5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1215.78,
+    "end": 1218.78
+  },
+  {
+    "text": "You transition, meaning you move up.",
+    "uid": "c54d8fde06e112d4",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1218.78,
+    "end": 1220.78
+  },
+  {
+    "text": "Like this one is just plainer slices.",
+    "uid": "60ab98defdc25521",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1220.78,
+    "end": 1223.78
+  },
+  {
+    "text": "So you do one loop and then you step in and you do the next loop.",
+    "uid": "326c1d035429b1cd",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1223.78,
+    "end": 1226.78
+  },
+  {
+    "text": "Oh, I see.",
+    "uid": "9edc71f6a9039328",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1226.78,
+    "end": 1227.78
+  },
+  {
+    "text": "The other one there is path as a spiral, so it's just a continuous sort of going a little bit deeper.",
+    "uid": "83425c46e8c56b4e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1227.78,
+    "end": 1233.78
+  },
+  {
+    "text": "Is it also faster?",
+    "uid": "31caa0e2d5ef4532",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1233.78,
+    "end": 1235.78
+  },
+  {
+    "text": "I guess you'll a little bit, because you don't have to turn around.",
+    "uid": "aa8fd174e1a59f67",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1235.78,
+    "end": 1238.78
+  },
+  {
+    "text": "So yeah, that one just kind of goes the whole way.",
+    "uid": "375df9e49f89e9ef",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1238.78,
+    "end": 1241.78
+  },
+  {
+    "text": "Can you tell me about the end effect or here?",
+    "uid": "20153dfe375a165d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1241.78,
+    "end": 1243.78
+  },
+  {
+    "text": "Yeah, so earlier version, right?",
+    "uid": "adb84a2f1ba47a28",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1243.78,
+    "end": 1245.78
+  },
+  {
+    "text": "Yeah, so did I stand here?",
+    "uid": "bd3c4ae7afe92008",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1245.78,
+    "end": 1247.78
+  },
+  {
+    "text": "Yeah, of course.",
+    "uid": "f3dde9894d1089a1",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1247.78,
+    "end": 1248.78
+  },
+  {
+    "text": "So the goal is, you know, we really want to do it, even though we are doing sheet forming.",
+    "uid": "7250672d6bb81d13",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1248.78,
+    "end": 1252.78
+  },
+  {
+    "text": "Really have long-term goal is to build what we call like a robotic craftsman.",
+    "uid": "b78eff28c824aec6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1252.78,
+    "end": 1256.78
+  },
+  {
+    "text": "Like a system that works like a craftsman.",
+    "uid": "bb22fe78fb992c7a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1256.78,
+    "end": 1258.78
+  },
+  {
+    "text": "Like you know, you can pick up a forming-fifth tool, form it, drop the forming tool, pick up a scanner,",
+    "uid": "8c6004b2756eaca6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1258.78,
+    "end": 1263.78
+  },
+  {
+    "text": "scan it, drop the scanner, pick up a trimming tool.",
+    "uid": "4bf9e2276d224ced",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1263.78,
+    "end": 1266.78
+  },
+  {
+    "text": "You can see there's a spindle there.",
+    "uid": "4cb06155e6ef0240",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1266.78,
+    "end": 1268.78
+  },
+  {
+    "text": "Is that a ER20?",
+    "uid": "3f35fd9f86c4cfe0",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1268.78,
+    "end": 1271.78
+  },
+  {
+    "text": "Yeah, so the idea is like, yeah, you can easily change it, so you can see a tool changer here that",
+    "uid": "a65059c48e6b3430",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1273.78,
+    "end": 1279.78
+  },
+  {
+    "text": "can drop a tool, pick up another tool, and just move on to the next operation.",
+    "uid": "c6a26734fab2594d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1279.78,
+    "end": 1283.78
+  },
+  {
+    "text": "And that's kind of the, we're imagining these robots, like really working like a craftsman that can pick up tools and do different things.",
+    "uid": "82e309ab287899e9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1284.78,
+    "end": 1289.78
+  },
+  {
+    "text": "Okay, so you're not, you're not pushing, like, oh, you're applying electrical contacts,",
+    "uid": "ace320ada30862a4",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1289.78,
+    "end": 1294.78
+  },
+  {
+    "text": "and then you have the mill here.",
+    "uid": "c24ac292f5e1c158",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1294.78,
+    "end": 1296.78
+  },
+  {
+    "text": "So you can, like, yeah, once you pick up an automatic, it connects through the electrical contacts.",
+    "uid": "ca9f198ecd4b64a3",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1297.78,
+    "end": 1301.78
+  },
+  {
+    "text": "And now it's, the robot now has ending, milling in the factory.",
+    "uid": "16f3e2f65ed3cff8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1301.78,
+    "end": 1304.78
+  },
+  {
+    "text": "And they can drop this, pick up the forming in the factory, and go back to forming.",
+    "uid": "f26f459de5437176",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1304.78,
+    "end": 1307.78
+  },
+  {
+    "text": "So you have indexing pins to align it, and you also align on the plane, so you have total indexing.",
+    "uid": "89ae4437223c0af5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1307.78,
+    "end": 1314.78
+  },
+  {
+    "text": "And then what, what's going on here?",
+    "uid": "7eb39a2cae8ff7b6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1314.78,
+    "end": 1316.78
+  },
+  {
+    "text": "So those are actually the, the bearings that through air pressure, they lock into the tool.",
+    "uid": "6b73b89f4ca38bb3",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1316.78,
+    "end": 1321.78
+  },
+  {
+    "text": "So once the, once the pickups are slave, these things basically through air pressure come out,",
+    "uid": "f0aee905e4b70725",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1322.78,
+    "end": 1326.78
+  },
+  {
+    "text": "and then lock into the tool, so the tool will not fall.",
+    "uid": "3bf619ad4bf15b94",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1326.78,
+    "end": 1328.78
+  },
+  {
+    "text": "Oh, that's amazing.",
+    "uid": "9d9aa0fdd406c7cf",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1328.78,
+    "end": 1329.78
+  },
+  {
+    "text": "And, and what is this? You told me, but I forgot.",
+    "uid": "00072fe3b58229c2",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1329.78,
+    "end": 1332.78
+  },
+  {
+    "text": "So there are different connects, so these are pneumatic connections, and these are electric connections.",
+    "uid": "e3a0347c46a14a6b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1332.78,
+    "end": 1335.78
+  },
+  {
+    "text": "Right now, we do mostly forming and trimming.",
+    "uid": "f00e9fd947dab405",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1336.78,
+    "end": 1338.78
+  },
+  {
+    "text": "So we do mechanical trimming.",
+    "uid": "6685fa5ec43f25aa",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1338.78,
+    "end": 1340.78
+  },
+  {
+    "text": "So you see, and see, that tool is an spindle that allows us to cut the parts after reforming.",
+    "uid": "25bb4322fc852179",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1340.78,
+    "end": 1347.78
+  },
+  {
+    "text": "And then you have different versions of a forming and the affected.",
+    "uid": "2b05bd4c37ef9ed8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1347.78,
+    "end": 1351.78
+  },
+  {
+    "text": "So that one doesn't have the final and the affected goes into it.",
+    "uid": "b20010c96d63b0de",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1351.78,
+    "end": 1354.78
+  },
+  {
+    "text": "It does the forming, the one next to it, it does.",
+    "uid": "f8a2a6edffddbab9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1354.78,
+    "end": 1357.78
+  },
+  {
+    "text": "And you can see that the end effector is right in there.",
+    "uid": "6bb80528969837aa",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1357.78,
+    "end": 1362.78
+  },
+  {
+    "text": "So your, your tools, are they carbide or is that too brittle?",
+    "uid": "2b7568df3bc66c2d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1362.78,
+    "end": 1366.78
+  },
+  {
+    "text": "So we, we try a bunch of material.",
+    "uid": "3a21a518dd04c8b6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1366.78,
+    "end": 1369.78
+  },
+  {
+    "text": "Right now, most of our tools are the base of it is carbide, but then on top of it, we have a coating.",
+    "uid": "157cd429d7589941",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1369.78,
+    "end": 1376.78
+  },
+  {
+    "text": "That coating is slightly more complicated.",
+    "uid": "8810bf504b8353ea",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1376.78,
+    "end": 1378.78
+  },
+  {
+    "text": "We have tried a bunch of different, that's for free, it's airy.",
+    "uid": "dbb36d2937c091a8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1378.78,
+    "end": 1380.78
+  },
+  {
+    "text": "So you can, that's the coating that basically allows us to do many parts, for many parts without, without basically destroying the part or destroying the tool.",
+    "uid": "31c92b575acf82a6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1380.78,
+    "end": 1390.78
+  },
+  {
+    "text": "It's a pretty simple tool, isn't it?",
+    "uid": "9011adb3b3efb41d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1390.78,
+    "end": 1392.78
+  },
+  {
+    "text": "So that, that the end effector is pretty simple.",
+    "uid": "8a28b7d0b0a0f952",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1393.78,
+    "end": 1395.78
+  },
+  {
+    "text": "This is one of our designs.",
+    "uid": "fc48515023766dd8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1395.78,
+    "end": 1396.78
+  },
+  {
+    "text": "We have multiple designs.",
+    "uid": "4f723a4a873670fb",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1396.78,
+    "end": 1397.78
+  },
+  {
+    "text": "This is one of the designs that we're working on the most.",
+    "uid": "0fa6de84c49f0c1d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1397.78,
+    "end": 1399.78
+  },
+  {
+    "text": "Then the coating, getting to that.",
+    "uid": "25e21c9194f151a1",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1399.78,
+    "end": 1401.78
+  },
+  {
+    "text": "That's the secret sauce.",
+    "uid": "b6e71c67f5ac7ea8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1401.78,
+    "end": 1403.78
+  },
+  {
+    "text": "That, that, that took a while.",
+    "uid": "3b9a15b4f7e04187",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1403.78,
+    "end": 1405.78
+  },
+  {
+    "text": "Look, it took a while.",
+    "uid": "b2f010c8f3276540",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1405.78,
+    "end": 1406.78
+  },
+  {
+    "text": "Well, like, you know, 7pm running to UPS, you know, get this out, you know?",
+    "uid": "127913d92c2e550d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1406.78,
+    "end": 1412.78
+  },
+  {
+    "text": "Even though that's the secret sauce, it really also comes into the software pieces.",
+    "uid": "73ec22645993e94a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1412.78,
+    "end": 1416.78
+  },
+  {
+    "text": "For example, if you, you, you say get the robots and run them in, just, you know, get the geometry, slice it in,",
+    "uid": "d49496b3fb022b27",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1416.78,
+    "end": 1422.78
+  },
+  {
+    "text": "hot, water lines, and start forming it.",
+    "uid": "14adabb4a1835f46",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1422.78,
+    "end": 1425.78
+  },
+  {
+    "text": "The final part is going to be inches off of what you actually want.",
+    "uid": "589c8587a8e2e10c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1425.78,
+    "end": 1430.78
+  },
+  {
+    "text": "So you have to really account for a lot of different things.",
+    "uid": "8eb2f1722070e6f6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1431.78,
+    "end": 1433.78
+  },
+  {
+    "text": "We talked a little bit about the reflection of the sheet.",
+    "uid": "98984690662549b8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1433.78,
+    "end": 1436.78
+  },
+  {
+    "text": "Spring back of the geometry itself.",
+    "uid": "aa0b3f8a7d691533",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1436.78,
+    "end": 1439.78
+  },
+  {
+    "text": "And then the fact that we can also tear.",
+    "uid": "0106be2412d43056",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1439.78,
+    "end": 1442.78
+  },
+  {
+    "text": "So if you don't put right amount of compression force between the tips, you might tear the sheet, right?",
+    "uid": "0da5c577c8593731",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1442.78,
+    "end": 1448.78
+  },
+  {
+    "text": "So we get to the fracture, limit, and the tear of the sheet.",
+    "uid": "bb5c100b273de88e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1448.78,
+    "end": 1451.78
+  },
+  {
+    "text": "So combination of all those things are accounted in our software to get to your part that's going to be, you know,",
+    "uid": "6704c746b335cb7e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1451.78,
+    "end": 1456.78
+  },
+  {
+    "text": "very close to the, to the, you know, final geometry and not like inches off.",
+    "uid": "22e329b0bf9fa3bb",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1456.78,
+    "end": 1460.78
+  },
+  {
+    "text": "So that's, I think, where the real secret sauce is, the software piece.",
+    "uid": "fcfac750928119aa",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1461.78,
+    "end": 1464.78
+  },
+  {
+    "text": "So when you get done with this thing, you're going to have a fully formed sheet.",
+    "uid": "0787331837ec9096",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1464.78,
+    "end": 1469.78
+  },
+  {
+    "text": "This is going to be a hood for a truck.",
+    "uid": "3348be2a2bea43a5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1469.78,
+    "end": 1471.78
+  },
+  {
+    "text": "It'll be done.",
+    "uid": "12364c4c1e44b829",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1471.78,
+    "end": 1472.78
+  },
+  {
+    "text": "How do you get it out of that? Do you like jigsaw it out?",
+    "uid": "953a516b6a3ba4fe",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1472.78,
+    "end": 1475.78
+  },
+  {
+    "text": "Or, so the same robot.",
+    "uid": "6be7dd6925f8812e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1475.78,
+    "end": 1476.78
+  },
+  {
+    "text": "After it's forming it, scams it.",
+    "uid": "127b36e3c0b447da",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1476.78,
+    "end": 1479.78
+  },
+  {
+    "text": "And then maps the scan to the trimming path.",
+    "uid": "e787a32abcf4a822",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1479.78,
+    "end": 1482.78
+  },
+  {
+    "text": "So the lines of trimming path for the scan the best way.",
+    "uid": "079544a30c2d3d9f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1482.78,
+    "end": 1485.78
+  },
+  {
+    "text": "Fix up a trimming end effector and trims the part out.",
+    "uid": "62ebbf31ad5e81a9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1485.78,
+    "end": 1488.78
+  },
+  {
+    "text": "So you'll leave two tabs around the part and then technicians come in and we've cut the few tabs and take it out.",
+    "uid": "31ad9949cc82cb7e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1488.78,
+    "end": 1493.78
+  },
+  {
+    "text": "But we want to make sure they're all about at least does the accurate cutting, so that the part is, before you move it.",
+    "uid": "8ae3a00034c3cd0e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1493.78,
+    "end": 1498.78
+  },
+  {
+    "text": "And then you leave few tabs in and then you cut those tabs and clean those tabs out.",
+    "uid": "3261d28fa9babcac",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1498.78,
+    "end": 1503.78
+  },
+  {
+    "text": "So if you had titanium, like back in the day when they were building the SR-71, they didn't know how to work titanium.",
+    "uid": "561e8e7dee936287",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1503.78,
+    "end": 1510.78
+  },
+  {
+    "text": "I saw the glimmer in your eye.",
+    "uid": "08dfc3821d0c8880",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1510.78,
+    "end": 1512.78
+  },
+  {
+    "text": "To this day, I don't think they can easily form decadiously work titanium.",
+    "uid": "7d8d1895c08ae891",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1512.78,
+    "end": 1515.78
+  },
+  {
+    "text": "Really. I think it's a tough, just staring tough ally to work.",
+    "uid": "7f34d91832f684aa",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1515.78,
+    "end": 1518.78
+  },
+  {
+    "text": "I mean, if you figure that out and machine it, it's still forming it is very tough.",
+    "uid": "85db98436d81cc5c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1518.78,
+    "end": 1522.78
+  },
+  {
+    "text": "Unless you elevate temperatures and room temperatures will be tough to form titanium.",
+    "uid": "b8d9992f71c3d021",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1522.78,
+    "end": 1526.78
+  },
+  {
+    "text": "But in theory, could you use this technology to form it and then go in and cut the rivet holes?",
+    "uid": "0c933f0717ac94ce",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1526.78,
+    "end": 1532.78
+  },
+  {
+    "text": "And are you very excited about that?",
+    "uid": "e3747e73d3367eb0",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1533.78,
+    "end": 1535.78
+  },
+  {
+    "text": "I think that's those areas that you're the most excited.",
+    "uid": "e7b3df47f58be977",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1535.78,
+    "end": 1537.78
+  },
+  {
+    "text": "Like enabling alloys that were just impossible before.",
+    "uid": "6bd3978274de50cc",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1537.78,
+    "end": 1540.78
+  },
+  {
+    "text": "I think for example, high-personic, you set SR-71.",
+    "uid": "14cfafe5b8f5e3f3",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1540.78,
+    "end": 1543.78
+  },
+  {
+    "text": "But all the high-personic applications, as the focus of attention in a lot now,",
+    "uid": "ff66868b012e7d04",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1543.78,
+    "end": 1547.78
+  },
+  {
+    "text": "until we're at customers, they have a very hard time forming skin of these aircrafts.",
+    "uid": "ac75278936e499b2",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1547.78,
+    "end": 1552.78
+  },
+  {
+    "text": "Out of high temperature alloys, titanium, in canow, you're talking about refractory alloys.",
+    "uid": "dc9b7927e6d66300",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1552.78,
+    "end": 1558.78
+  },
+  {
+    "text": "This is how it's done.",
+    "uid": "80ff74c95e117433",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1559.78,
+    "end": 1560.78
+  },
+  {
+    "text": "This is how it's done.",
+    "uid": "2b7148628cf7125f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1560.78,
+    "end": 1561.78
+  },
+  {
+    "text": "The part from the customer cut out, but you can see kind of the rest of the sheet.",
+    "uid": "9743f6e7ff731b2d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1561.78,
+    "end": 1564.78
+  },
+  {
+    "text": "It's actually pretty thin sheets, super strong.",
+    "uid": "cc32425517bf2ae8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1564.78,
+    "end": 1566.78
+  },
+  {
+    "text": "This is all not part of the part, but this was kind of like the form I don't know what the word is.",
+    "uid": "f8693d260ede1bfe",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1566.78,
+    "end": 1570.78
+  },
+  {
+    "text": "We create enough stiffness around the part that as we are forming, the part is not buckling.",
+    "uid": "0982d5d19d7b56a9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1570.78,
+    "end": 1575.78
+  },
+  {
+    "text": "So because I'm pushing here, okay, wow, that makes sense.",
+    "uid": "f7619d901b0939c9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1578.78,
+    "end": 1581.78
+  },
+  {
+    "text": "Because if I'm pushing right here, if I'm so steeper angles, give more rigid parts.",
+    "uid": "da7de479e903e7bf",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1581.78,
+    "end": 1590.26
+  },
+  {
+    "text": "And the deeper it is, it becomes rigid.",
+    "uid": "d450aed1c7717bd8",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1591.26,
+    "end": 1594.26
+  },
+  {
+    "text": "It becomes rigid.",
+    "uid": "8caf9f4c38039351",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1594.26,
+    "end": 1595.26
+  },
+  {
+    "text": "And the deeper it gets, also, you are more rigid.",
+    "uid": "899147646c80db1e",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1597.26,
+    "end": 1599.26
+  },
+  {
+    "text": "Because you have to overcome a little bit of plastic deformation before you get the plastic.",
+    "uid": "bc878e4199a2f90a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1599.26,
+    "end": 1603.26
+  },
+  {
+    "text": "So like, if you want to do a very shallow part, it just doesn't work.",
+    "uid": "84a25760e27ec57b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1604.26,
+    "end": 1607.26
+  },
+  {
+    "text": "You're just going to push the part in and out.",
+    "uid": "7b9d025d440f80be",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1607.26,
+    "end": 1609.26
+  },
+  {
+    "text": "Once you go further deep, then you create more rigidity.",
+    "uid": "6236550548214f39",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1609.26,
+    "end": 1612.26
+  },
+  {
+    "text": "You can easily overcome the initial elasticity and get the plastic regime.",
+    "uid": "e72be1643be932f5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1612.26,
+    "end": 1617.26
+  },
+  {
+    "text": "A brain's on fire.",
+    "uid": "41dabbd39a7fb86c",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1617.26,
+    "end": 1620.86
+  },
+  {
+    "text": "The rigidity of this support skirt around the part is key, and a key and observable notice",
+    "uid": "449fccf610086026",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1620.86,
+    "end": 1624.86
+  },
+  {
+    "text": "in a lot of these parts laying around the shop.",
+    "uid": "06d0d98cd6574941",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1624.86,
+    "end": 1626.86
+  },
+  {
+    "text": "It's not just a flat crease with the back plane.",
+    "uid": "6a3ee1f892294aad",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1626.86,
+    "end": 1629.86
+  },
+  {
+    "text": "It's actually a wavy gust.",
+    "uid": "75694a21921c985b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1629.86,
+    "end": 1631.86
+  },
+  {
+    "text": "Because that's a more rigid structure.",
+    "uid": "31915dc532e8dfcd",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1631.86,
+    "end": 1633.86
+  },
+  {
+    "text": "So if I'm looking at this sheet right here, is the material the thickest it will ever be right here in the plane.",
+    "uid": "383d68b49cce658f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1633.86,
+    "end": 1639.86
+  },
+  {
+    "text": "And any time I work, I'm having to move material.",
+    "uid": "f553c4b443fad876",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1639.86,
+    "end": 1642.86
+  },
+  {
+    "text": "So it's when you thinner.",
+    "uid": "3dc6b0e4bb6c1995",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1642.86,
+    "end": 1643.86
+  },
+  {
+    "text": "Here's that true.",
+    "uid": "5e0a8f4599166a03",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1644.86,
+    "end": 1645.86
+  },
+  {
+    "text": "So I think the good law you want to apply is that kind of conservation of volume.",
+    "uid": "29cb9ae6577b89a9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1646.86,
+    "end": 1650.86
+  },
+  {
+    "text": "So as you're going on a higher wall angle, the cosine of your wall angle, or sine of your draft angle,",
+    "uid": "1f63f765a0c0960b",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1650.86,
+    "end": 1657.86
+  },
+  {
+    "text": "times your original thickness, roughly gives you the thickness you got to get in the parts.",
+    "uid": "9791f67861e99c70",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1657.86,
+    "end": 1660.86
+  },
+  {
+    "text": "It took me to a whiteboard and he explained a complicated concept called a restriking.",
+    "uid": "86d5b12fd98c4bc3",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1660.86,
+    "end": 1665.86
+  },
+  {
+    "text": "The quickest way to explain restriking is if I want to make a hemisphere in one shot,",
+    "uid": "8b1eb1f49330b5f7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1665.86,
+    "end": 1669.86
+  },
+  {
+    "text": "it'll make the side walls right around the outside diameter to thin.",
+    "uid": "aeead6cedfc06b73",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1669.86,
+    "end": 1673.86
+  },
+  {
+    "text": "But if you do it in two shots, first you make a cone and you push that cone out,",
+    "uid": "fcd55a424cfff54a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1673.86,
+    "end": 1677.86
+  },
+  {
+    "text": "then you'll have more material so you'll have more thickness on the outside of the hemisphere.",
+    "uid": "438316ba9f1e2b84",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1677.86,
+    "end": 1681.86
+  },
+  {
+    "text": "If you want to learn more about how this works and a ton of different things that we didn't talk about in this video,",
+    "uid": "130f240e82f7f661",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1681.86,
+    "end": 1686.86
+  },
+  {
+    "text": "I've got a lot of that stuff on the second channel video where we just let the conversation play out",
+    "uid": "f8edcacbd1f10a10",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1686.86,
+    "end": 1691.86
+  },
+  {
+    "text": "and you can get right into the weeds with us and understand all these really cool concepts.",
+    "uid": "68d0f28de128c75d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1691.86,
+    "end": 1695.86
+  },
+  {
+    "text": "Say that again, that was huge.",
+    "uid": "0ccc4932ebc1c09f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1696.86,
+    "end": 1698.86
+  },
+  {
+    "text": "You can form parts faster that you could simulate it on the computer.",
+    "uid": "94025fc1ab524cac",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1698.86,
+    "end": 1702.86
+  },
+  {
+    "text": "That is such a big deal.",
+    "uid": "1d8d0185a242e831",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1703.86,
+    "end": 1705.86
+  },
+  {
+    "text": "A huge thanks to the folks at Mocking Elabs for showing us this stuff in criminal sheet forming.",
+    "uid": "8d75b968ecbb3769",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1709.2,
+    "end": 1713.2
+  },
+  {
+    "text": "Or as they call it, Robo forming, it's a really cool thing and I'm grateful that they help this continue the Smarter of a Manufacturing Series.",
+    "uid": "7f7348da9e014832",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1713.2,
+    "end": 1720.2
+  },
+  {
+    "text": "Speaking of which, if you were interested in seeing the next videos in the Manufacturing Series, I have an email list.",
+    "uid": "35f92c0c60085041",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1720.2,
+    "end": 1725.2
+  },
+  {
+    "text": "I'll leave a link in the video description or smarterevidade.com.",
+    "uid": "d942f06ae0676674",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1725.2,
+    "end": 1728.2
+  },
+  {
+    "text": "There's a link to the email list there.",
+    "uid": "47829d36dc586abf",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1728.2,
+    "end": 1730.2
+  },
+  {
+    "text": "It's really simple.",
+    "uid": "c58ef64d436871a2",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1730.2,
+    "end": 1731.2
+  },
+  {
+    "text": "I don't spam you our promise.",
+    "uid": "f9a608a2bb3f248a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1731.2,
+    "end": 1732.2
+  },
+  {
+    "text": "Finally, I want to say thank you to the patrons of Smarter of every day.",
+    "uid": "98983072b69ea18d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1732.2,
+    "end": 1735.2
+  },
+  {
+    "text": "This is such a fun thing I get to do.",
+    "uid": "75cbcb05cf455534",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1735.2,
+    "end": 1738.2
+  },
+  {
+    "text": "It's a lot of work.",
+    "uid": "5da278b32cf1b2b5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1738.2,
+    "end": 1739.2
+  },
+  {
+    "text": "In the Patrons make it possible.",
+    "uid": "8da8ec1de0a68eb6",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1739.2,
+    "end": 1741.2
+  },
+  {
+    "text": "This community of people is the driving force behind me, hitting schedules and actually having the resources to get it done.",
+    "uid": "0e124071fa06941a",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1741.2,
+    "end": 1748.2
+  },
+  {
+    "text": "I'm so grateful for everybody that contributes to Smarter of every day on Patreon.",
+    "uid": "7202ce4a6efece0f",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1748.2,
+    "end": 1753.2
+  },
+  {
+    "text": "If you would like to consider that, I'd be grateful.",
+    "uid": "77c2a4ba0af8e4fb",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1753.2,
+    "end": 1755.2
+  },
+  {
+    "text": "You can check that out at patreon.com slash Smarter of every day.",
+    "uid": "1e83f65676681043",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1755.2,
+    "end": 1758.2
+  },
+  {
+    "text": "Absolutely no pressure here.",
+    "uid": "3f430c81fcfd21ed",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1758.2,
+    "end": 1760.2
+  },
+  {
+    "text": "But it's a really cool thing.",
+    "uid": "ac8b0aa7a100d208",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1760.2,
+    "end": 1762.2
+  },
+  {
+    "text": "And we've got a good vibe going over at patreon.com slash Smarter of every day.",
+    "uid": "d26ad777fa0573dd",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1762.2,
+    "end": 1766.2
+  },
+  {
+    "text": "If you'd like to check that out, I'd be excited about that.",
+    "uid": "5339013173cb70d7",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1766.2,
+    "end": 1768.2
+  },
+  {
+    "text": "Anyway, that's it.",
+    "uid": "78d4713b0680ef6d",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1768.2,
+    "end": 1770.2
+  },
+  {
+    "text": "I hope you enjoyed this in the next video in the Manufacturing Series.",
+    "uid": "6732ceb7876f1248",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1770.2,
+    "end": 1773.2
+  },
+  {
+    "text": "And if you want to learn more, there's more information over on the second channel in the long video.",
+    "uid": "9dee3faf0dc02cc5",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1773.2,
+    "end": 1778.2
+  },
+  {
+    "text": "You're getting Smarter of every day.",
+    "uid": "213a89740815c7e9",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1780.2,
+    "end": 1781.2
+  },
+  {
+    "text": "Have a good one.",
+    "uid": "7314734d5d30d8e3",
+    "source": "SmarterEveryDay - ROBOFORMING_-_The_Future_of_Metalworking_I_Had_NO_IDEA_This_Wa",
+    "start": 1781.2,
+    "end": 1782.2
+  }
+]
