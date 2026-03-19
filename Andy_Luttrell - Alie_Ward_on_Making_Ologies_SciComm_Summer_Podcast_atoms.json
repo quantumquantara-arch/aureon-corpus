@@ -1,0 +1,4034 @@
+[
+  {
+    "text": "Hi, welcome back. This is Hot Sightcom Summer, a special podcast series about science communication,",
+    "uid": "193c2d7e25769a1d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 13.97,
+    "end": 20.53
+  },
+  {
+    "text": "and listen, we're deep in the throes of summer now. My garden is about to burst.",
+    "uid": "b84bd9181776e33d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 20.53,
+    "end": 25.01
+  },
+  {
+    "text": "I picked like 12 cucumbers yesterday and it feels like I could turn this into a metaphor about how this podcast just keeps",
+    "uid": "737f3b5d1a9ea2eb",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 25.01,
+    "end": 31.89
+  },
+  {
+    "text": "delivering a hearty bounty, but I can't seem to do it without it sounding very dumb, so you can use your own brain to connect the dots and make it make sense.",
+    "uid": "59b753587a4bd063",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 31.89,
+    "end": 39.89
+  },
+  {
+    "text": "But it's time for a riddle. What does some knowledgey, nephrology and biominorology all have in common?",
+    "uid": "e9a111dac6062e8d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 40.37,
+    "end": 48.37
+  },
+  {
+    "text": "That's the study of sleep, kidneys, and shells. Don't think too hard. The connection is just that they're all",
+    "uid": "a7079f6d4ebf9844",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 48.93,
+    "end": 56.05
+  },
+  {
+    "text": "allidges. Not only that, but their allidges featured on the podcast, allidges. If you like science and podcasts,",
+    "uid": "fc0e9806cc3f6160",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 56.05,
+    "end": 63.41
+  },
+  {
+    "text": "you've heard of allidges a few weeks ago. It took the very top spot in the science category on Apple podcasts,",
+    "uid": "026b89cb7dd40814",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 63.41,
+    "end": 69.25
+  },
+  {
+    "text": "and it's always at least in the top couple. It was also recently in the top 10 of all podcasts on the platform,",
+    "uid": "e5842379633bdd10",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 69.25,
+    "end": 75.73
+  },
+  {
+    "text": "up there with like the daily and that true crime one. Then you have to listen to allidges for 30 seconds and you'll go,",
+    "uid": "89e4a534d508a499",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 75.73,
+    "end": 81.73
+  },
+  {
+    "text": "oh yeah, I see why people love this. Allidges features interviews with scientists. Allidges. But that description doesn't do it justice.",
+    "uid": "64cb7803fc87a428",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 81.73,
+    "end": 90.53
+  },
+  {
+    "text": "It's like the most accessible, least pretentious, and dog on it most fun glimps into the gitty minds of experts.",
+    "uid": "62e24d0f0e4238ad",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 90.53,
+    "end": 98.05
+  },
+  {
+    "text": "And it works because it's made and hosted by my guest today. Allidges. She not only hosts allidges,",
+    "uid": "77ab5a5fcd913151",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 98.53,
+    "end": 104.21
+  },
+  {
+    "text": "but she's also a daytime Emmy award-winning science correspondent for CBS's The Henry Ford's Innovation",
+    "uid": "8457cef1403b69e5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 104.21,
+    "end": 109.73
+  },
+  {
+    "text": "Nation with Moraka, and host of Did I Mention Invention on the CW. She's acted in TV shows, hosted food programs,",
+    "uid": "ccb81ad917d90bac",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 109.73,
+    "end": 117.09
+  },
+  {
+    "text": "was an illustrator for LA Weekly. I'm not going to list all her credits, but what a wild ride.",
+    "uid": "1fdd0c100244e9f0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 117.09,
+    "end": 121.65
+  },
+  {
+    "text": "So I wanted to learn more about Allidges, how she approaches allidges, and also just what are we ultimately",
+    "uid": "e57427ce2cc482c3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 122.05,
+    "end": 127.65
+  },
+  {
+    "text": "getting at by bringing science to a big public audience. It was a really fun conversation, and I think",
+    "uid": "bf43d55d880d8ff3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 127.65,
+    "end": 133.33
+  },
+  {
+    "text": "you'll get a lot out of it too. So let's jump in. One thing just in terms of thinking about how you have",
+    "uid": "40fd1be854fa1fb1",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 133.33,
+    "end": 146.94
+  },
+  {
+    "text": "gotten into this mess of talking about science to people, it's kind of looking at your background.",
+    "uid": "00fca02c975839b0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 146.94,
+    "end": 153.9
+  },
+  {
+    "text": "I have to say it looked very familiar to me because I feel like I felt similarly. And so,",
+    "uid": "fe3acebc49fd1cf2",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 153.9,
+    "end": 159.1
+  },
+  {
+    "text": "so as far as I can tell, you early on in life we're looking at microscopes. Is that right?",
+    "uid": "2b0ddceb639d4dad",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 159.1,
+    "end": 164.14
+  },
+  {
+    "text": "Yeah, microscopes? Oh yeah. Pond water or something? Staging biology, being an actor,",
+    "uid": "af2ed58f7657ee40",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 164.14,
+    "end": 169.42
+  },
+  {
+    "text": "hosting food programs, painting wood that you find around the world, an illustrator for",
+    "uid": "b05d6e872524320c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 169.42,
+    "end": 175.18
+  },
+  {
+    "text": "professional outlet, winning a daytime Emmy, and having a number one science podcast. Like that's",
+    "uid": "0f2d2eaf8faa5d40",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 176.3,
+    "end": 180.78
+  },
+  {
+    "text": "that's so many different things. And I feel similarly in that, like I was making remember, so I",
+    "uid": "ae45ac9449ad4d0c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 181.1,
+    "end": 187.66
+  },
+  {
+    "text": "my first year of college, I went to Arts School. And there was this assignment that was draw a",
+    "uid": "87a9eceea7797465",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 187.66,
+    "end": 192.14
+  },
+  {
+    "text": "self portrait. And I was, I can tell in hindsight that I was really struggling with this because it was",
+    "uid": "ebe4eb0fc6122fe6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 192.14,
+    "end": 198.14
+  },
+  {
+    "text": "like me split down the middle like a right brain left brain sort of a thing. Because I was in Arts School",
+    "uid": "114ccb2f3321c38f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 198.14,
+    "end": 203.5
+  },
+  {
+    "text": "and really struggling to be like, is this all I wanted to do? Like I kind of missed this",
+    "uid": "34e092f0dbeb43fd",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 203.5,
+    "end": 207.74
+  },
+  {
+    "text": "you know, technical science stuff. And even now I'm still kind of bounding back and forth between",
+    "uid": "d19c61048920c62c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 208.46,
+    "end": 213.1
+  },
+  {
+    "text": "as I'm curious for you. Like what is that duality? Does it feel like it duality? Does it feel",
+    "uid": "15d21cdb1b9fcb59",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 213.82,
+    "end": 217.82
+  },
+  {
+    "text": "like all of these things are actually the same thing? Like how do you navigate these to what people think of",
+    "uid": "80c3c36f66fe64d7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 217.82,
+    "end": 223.42
+  },
+  {
+    "text": "as different kinds of people? Yeah. What a great question. And I sympathize so much when you have",
+    "uid": "ab97e051a3ea3ee5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 223.42,
+    "end": 230.94
+  },
+  {
+    "text": "artistic inclinations, but also you like crave knowing what's real and what knowledge is and they",
+    "uid": "c2469be15aede828",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 230.94,
+    "end": 237.58
+  },
+  {
+    "text": "exploration of facts and understanding more about the world as you age. All that stuff is",
+    "uid": "e9dd931465622a66",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 238.54,
+    "end": 245.66
+  },
+  {
+    "text": "so real. And I'm really swung back and forth between being like, I just want to create stuff. I want to",
+    "uid": "135a658a86f960c6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 246.38,
+    "end": 253.58
+  },
+  {
+    "text": "be a little goblin who, you know, makes sketches and movies and makes paintings that have, you know,",
+    "uid": "dfaf8c0726acdad4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 253.58,
+    "end": 259.82
+  },
+  {
+    "text": "would that I get out of a dumpster or whatever. To then feeling like it wasn't going deep enough",
+    "uid": "dfd9899540c4aaf7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 259.82,
+    "end": 265.1
+  },
+  {
+    "text": "into like the human experience of why am I feeling this way? Why do brains work this way? You know,",
+    "uid": "585e7906efe75234",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 265.1,
+    "end": 270.54
+  },
+  {
+    "text": "why is that moss growing that way? And sometimes art felt so like human centric. And I think that science",
+    "uid": "7073a2a47574840a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 270.54,
+    "end": 280.78
+  },
+  {
+    "text": "was almost in a scape from just this human experience because when you start to care about science,",
+    "uid": "1baa21484ad6c551",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 280.78,
+    "end": 288.3
+  },
+  {
+    "text": "you start to realize that we're just one species obviously of like millions and billions and you know,",
+    "uid": "413af0432c04160e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 288.3,
+    "end": 293.26
+  },
+  {
+    "text": "billions that have existed in 99.9% of them are now extinct, like we will one day be. And so",
+    "uid": "fa49295c0743e76b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 293.9,
+    "end": 300.86
+  },
+  {
+    "text": "science started to, I always felt like buying neglecting science. I was really not understanding my place",
+    "uid": "2520d55b461fae18",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 300.86,
+    "end": 307.18
+  },
+  {
+    "text": "in the world in a human humanity space in the world was. So yeah, going back and forth between like this",
+    "uid": "4c97c6d723e909f1",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 307.18,
+    "end": 311.58
+  },
+  {
+    "text": "bigger picture. And and so I really thought I had to choose down the line. And so I remember wanting to",
+    "uid": "d57dd6532f0f371e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 311.58,
+    "end": 320.62
+  },
+  {
+    "text": "be like a performer and a writer as a kid and then sitting at a lake and seeing like bats swoop around",
+    "uid": "8e37fadbf61bcc20",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 320.62,
+    "end": 326.38
+  },
+  {
+    "text": "the surface and turtles like sliding off of logs and stuff and being like, no, ecology,",
+    "uid": "eb977995006d593a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 326.38,
+    "end": 332.22
+  },
+  {
+    "text": "conservation size. That is where it's at. And I'm renouncing performance. That is vape at Insili. And then",
+    "uid": "b4671aff8e342ec7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 332.22,
+    "end": 338.7
+  },
+  {
+    "text": "you know, going three years into my undergrad and studying okman biology and botany and animal bion all the",
+    "uid": "b470d0770ccf3aed",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 339.5,
+    "end": 347.74
+  },
+  {
+    "text": "stuff. And being like, yeah, but this is so factual and where's like the magic in this sparkle that I",
+    "uid": "4f58a93fd9a00bd5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 348.54,
+    "end": 356.14
+  },
+  {
+    "text": "wanted. So I kept going back and forth. And it took me a while before I was like, oh, psychome, like I didn't",
+    "uid": "3b0e0b18789ca4b6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 356.14,
+    "end": 362.54
+  },
+  {
+    "text": "realize that was a place to like apply creativity and writing to the bigger picture of the world. And it",
+    "uid": "6e5e210de1e64616",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 362.54,
+    "end": 369.58
+  },
+  {
+    "text": "wasn't until I was volunteering in a museum in 2013 that I really realized like, ah, this could be like a thing.",
+    "uid": "f78aff5e9a8d7ad7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 369.58,
+    "end": 375.98
+  },
+  {
+    "text": "And I was volunteering purely because I was just really depressed. I my dad had been diagnosed",
+    "uid": "e226a95c057b62ab",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 376.14,
+    "end": 382.54
+  },
+  {
+    "text": "with cancer and I broke up with the boyfriend I was seeing and it really broke my heart. And I was doing",
+    "uid": "ae03e665caa7322f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 382.54,
+    "end": 388.94
+  },
+  {
+    "text": "this travel food show, but it didn't really feel like me. I felt like I don't really care about donuts as",
+    "uid": "fd1003d9ec930ff9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 388.94,
+    "end": 394.14
+  },
+  {
+    "text": "much as I have to pretend to. I have terrible blood sugar and like hypoglycemia and like",
+    "uid": "d6f5180ac7803742",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 394.14,
+    "end": 399.98
+  },
+  {
+    "text": "reactive post-prandial hyper insilinemia. Like doctors are like, why are you eating donuts",
+    "uid": "bbb3a5f9024415e3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 400.86,
+    "end": 407.9
+  },
+  {
+    "text": "for money? And I'm like, I guess everyone says the dream job would I go like this. So I started volunteering",
+    "uid": "2ff474ae25710a73",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 407.9,
+    "end": 413.5
+  },
+  {
+    "text": "at this museum at like the absolute low of some depression and ended up that really made me realize that",
+    "uid": "49171a8d8f0e7c7e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 413.5,
+    "end": 421.66
+  },
+  {
+    "text": "that it was part of who I was was curiosity and science and stuff. And then from there I had made a",
+    "uid": "f46f61377d0158b0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 421.66,
+    "end": 429.18
+  },
+  {
+    "text": "friend back when I was working in film after college because I graduated with a degree in film with like a",
+    "uid": "6966e9a45d3ca6cd",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 429.18,
+    "end": 435.26
+  },
+  {
+    "text": "minor in biology, whatever. And um and someone that I had met on a film set when I was a caterer like 20",
+    "uid": "2731c073884b1255",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 435.26,
+    "end": 441.5
+  },
+  {
+    "text": "years before was an editor for a production company that was making a kid science show. And so they saw my",
+    "uid": "637aace288298c69",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 441.5,
+    "end": 448.62
+  },
+  {
+    "text": "Instagrams from the museum and they brought me in and then I ended up getting the job doing science to",
+    "uid": "883520a9f46dbc38",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 448.7,
+    "end": 453.9
+  },
+  {
+    "text": "me and that really inspired me to make all the juice. Um a thing I had wanted to make something with",
+    "uid": "fc43ea02da8bf681",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 453.9,
+    "end": 459.34
+  },
+  {
+    "text": "this list of all the years but I didn't realize though that you could combine them and and I started to",
+    "uid": "7bd2d70b69ab148a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 459.34,
+    "end": 467.98
+  },
+  {
+    "text": "get kind of annoyed living in LA that like we know so much about who's dating who and who's wearing",
+    "uid": "d41466c6fa7ec349",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 467.98,
+    "end": 474.86
+  },
+  {
+    "text": "what and we treat people in the arts like celebrities but we don't care as much about people in the",
+    "uid": "f17d4a1c18e9ea1e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 474.86,
+    "end": 482.94
+  },
+  {
+    "text": "sciences and I'm like they're doing such cool shit too. Who are these people? Who are they dating? What's",
+    "uid": "6a7631e8c64c4d37",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 482.94,
+    "end": 488.06
+  },
+  {
+    "text": "their life like? Um why are they doing what they're doing and so my aim with all of these was just to kind of like",
+    "uid": "d9ff75942e43cd28",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 488.06,
+    "end": 495.74
+  },
+  {
+    "text": "make all of just like rock stars like how we care about musicians you know. Because it's a",
+    "uid": "a5b2d99a365c3433",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 495.74,
+    "end": 500.46
+  },
+  {
+    "text": "lot of times it's a much harder to run your own lab than it can be to learn to play the base so why don't we",
+    "uid": "c7ad5f473c0b3734",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 500.46,
+    "end": 505.9
+  },
+  {
+    "text": "find the intrigue and everyone you know but I don't know was it just has that been a similar path for you",
+    "uid": "c9a6b8e0f5b3dfc4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 505.9,
+    "end": 511.1
+  },
+  {
+    "text": "have you felt like do you go like one way and then the other and then go get I combine these is our",
+    "uid": "8532d73f6433f19f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 511.1,
+    "end": 516.54
+  },
+  {
+    "text": "venn diagram. Yeah if I go too long thinking only about one side of the equation it feels wrong right like",
+    "uid": "b162dd7f7949a800",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 516.54,
+    "end": 523.34
+  },
+  {
+    "text": "you know I need it does feel like there needs to be something going on on both sides",
+    "uid": "da039eb8b70039dd",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 524.22,
+    "end": 529.02
+  },
+  {
+    "text": "right to all feel like it's having a long time. So to do science and art at the same time or",
+    "uid": "9651349a89bb6fb8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 529.58,
+    "end": 534.78
+  },
+  {
+    "text": "or communication like in grad school I did stand a comedy pretty much through grad school and that was",
+    "uid": "452377b8f4f0ac34",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 534.78,
+    "end": 539.58
+  },
+  {
+    "text": "like this perfect way of being like okay I'll give a talk about my study in the morning and then I'll",
+    "uid": "8313448a04d2065c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 539.58,
+    "end": 544.78
+  },
+  {
+    "text": "do something completely different but not actually that different in the middle of the night and that",
+    "uid": "acced2be52b1b1a0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 544.78,
+    "end": 550.38
+  },
+  {
+    "text": "was sort of sustaining but then when it was like oh well you could do both at the same time like you could",
+    "uid": "7a56686d73295752",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 550.38,
+    "end": 555.18
+  },
+  {
+    "text": "use that uh that's whatever it is that you want to do to connect with people in and perform and do things",
+    "uid": "dc9e12a90cad9bbe",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 555.18,
+    "end": 562.06
+  },
+  {
+    "text": "creatively but also do it just in the context of the things that people are paying you to do anyway like",
+    "uid": "8f5b025f39397447",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 562.06,
+    "end": 567.5
+  },
+  {
+    "text": "I'm already reading this stuff I might as well reflect on it and like these people on and share",
+    "uid": "e0fd27451beb7cf3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 567.5,
+    "end": 574.62
+  },
+  {
+    "text": "what they're doing with others and so yeah so I think that makes sense to me that there's sort of like",
+    "uid": "80d8c85c485f61b3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 574.62,
+    "end": 581.02
+  },
+  {
+    "text": "yeah there's this fusion that that helps keep those things in balance so I'm curious though like in",
+    "uid": "25696d1185b88279",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 581.98,
+    "end": 586.06
+  },
+  {
+    "text": "the museum you said you were the stuff on Instagram for the museum was that you were producing stuff for the",
+    "uid": "d6cdf0318eb13da9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 586.7,
+    "end": 592.62
+  },
+  {
+    "text": "museum or you just took it upon yourself to be like hey look at what's going on here like it strikes me that",
+    "uid": "33de3b4c8910347e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 592.62,
+    "end": 598.62
+  },
+  {
+    "text": "this was a point where you went oh like I can be me and talk about this stuff and do it in like a medium that is unique",
+    "uid": "bb2f0551cc8e2fad",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 598.62,
+    "end": 605.82
+  },
+  {
+    "text": "yeah like was that was that kind of how that came about it was definitely the latter where I was just",
+    "uid": "02f86c1628a8b156",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 606.38,
+    "end": 611.34
+  },
+  {
+    "text": "posting stuff like my job is a volunteer was mostly just showing people where the bathrooms are like you",
+    "uid": "830ea92aa27a7400",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 611.34,
+    "end": 618.46
+  },
+  {
+    "text": "go through rigorous dosentraining and you're trained by highly professional museum scholars and experts",
+    "uid": "b69c4da529ed0be8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 618.46,
+    "end": 629.1
+  },
+  {
+    "text": "most of the time people just have to pee and and that's but it's really cute and funny because",
+    "uid": "51923550aee8f008",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 629.1,
+    "end": 635.1
+  },
+  {
+    "text": "during orientation they're like here's mouse loaves hierarchy of needs and what most people need are",
+    "uid": "386812fc7df98163",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 635.1,
+    "end": 641.9
+  },
+  {
+    "text": "physical needs first so people don't care about the coyote pelts if they have to take a shit so",
+    "uid": "86c8b14cc132eb73",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 641.9,
+    "end": 648.3
+  },
+  {
+    "text": "understand that if someone comes to you as if they're the bathroom you just got to make sure that their",
+    "uid": "eb447c7257454915",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 648.3,
+    "end": 652.3
+  },
+  {
+    "text": "needs are taken care of and I was like okay that's an interesting way to look at it and good to know",
+    "uid": "8640d582d126447d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 652.3,
+    "end": 656.78
+  },
+  {
+    "text": "but you know as dosence like you're really you're just there in case someone has questions and",
+    "uid": "94935bc7d38f29bf",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 657.74,
+    "end": 666.22
+  },
+  {
+    "text": "hopefully to like inspire some wondering curiosity and so we learned as dosence instead of",
+    "uid": "d466b24c3f7e85f8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 666.22,
+    "end": 671.42
+  },
+  {
+    "text": "just hammering in front of a mural of a dinosaur it's better to ask people like what do you what do you see here",
+    "uid": "01186e26b3b0341c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 671.42,
+    "end": 678.46
+  },
+  {
+    "text": "like what do you why do you think they have this you know like what do you think that tales for",
+    "uid": "b2a428b8f491963f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 678.46,
+    "end": 682.14
+  },
+  {
+    "text": "and then it's kind of sit back and let them wonder and say that's a good see that's a good idea",
+    "uid": "f32a7d2b88941952",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 683.1,
+    "end": 687.26
+  },
+  {
+    "text": "do you think it could have helped them do this or this and try to ask kind of open-ended questions that",
+    "uid": "eaf505c8fc724ce4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 688.94,
+    "end": 694.78
+  },
+  {
+    "text": "wasn't an open-ended question horrible example but you know what do you think they what do you think they had",
+    "uid": "c5cab8db9d12fcd9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 694.78,
+    "end": 700.06
+  },
+  {
+    "text": "such tiny teeth you know whatever and so I think in psych on that taught me in psych on",
+    "uid": "93c70b6a2cbb31dc",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 700.86,
+    "end": 707.98
+  },
+  {
+    "text": "to help people come to conclusions instead of to blast them in the face with it you know when it",
+    "uid": "c4fb9469de0d1ed9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 708.54,
+    "end": 715.58
+  },
+  {
+    "text": "comes to topics like you know systemic injustice or climate change or things that are tougher people to",
+    "uid": "43a46e808d840b4c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 715.58,
+    "end": 723.58
+  },
+  {
+    "text": "face because it might seem dismal or it might seem too big for them to grapple with having them",
+    "uid": "8d4e8fa1a6c531ea",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 724.38,
+    "end": 733.02
+  },
+  {
+    "text": "understand things and coming to some of their own conclusions based on some of the questions that you",
+    "uid": "7cbc5bbdd04dc651",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 733.02,
+    "end": 738.38
+  },
+  {
+    "text": "ask or the facts that you present I think can can be helpful to get people more invested in in the",
+    "uid": "815a2e7528386ad6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 738.38,
+    "end": 744.38
+  },
+  {
+    "text": "information but it's all of this is to say but also it's got to be fun like I feel like psych on when you",
+    "uid": "e48820fdb158cb10",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 744.38,
+    "end": 751.42
+  },
+  {
+    "text": "can approach it like gossip you've got to leg up you know like in the cave you're just like you'll never",
+    "uid": "f7518897e13e910a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 751.42,
+    "end": 757.1
+  },
+  {
+    "text": "guess what this things do and or if you're excited about it that's half the battle if you're excited",
+    "uid": "b2f7d36aa9027b86",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 757.1,
+    "end": 762.78
+  },
+  {
+    "text": "about something people are going to listen like you know if you went to a restaurant and your",
+    "uid": "754f9b62ae7f911d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 762.78,
+    "end": 766.38
+  },
+  {
+    "text": "legs for a good but if you're like oh I had this bobboganush and you're like I'm all in tell me what the",
+    "uid": "9992f514273a971b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 766.38,
+    "end": 772.14
+  },
+  {
+    "text": "bobboganush you know and so I think if you're excited it helps like your own curiosity definitely is like a",
+    "uid": "258b37808a8db76d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 772.14,
+    "end": 778.06
+  },
+  {
+    "text": "massive, massive tool and the psych on tool belt you know it's funny but my first thought was I was going",
+    "uid": "dc024c68d5703f5d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 778.06,
+    "end": 785.34
+  },
+  {
+    "text": "to say for as wonderful as Carl say it is I would not sort of peck him as this like the most fun guy",
+    "uid": "d0f744f93ab4c168",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 785.34,
+    "end": 792.7
+  },
+  {
+    "text": "at the party but but in hindsight it's kind of like but he had his own unique way like it was still in",
+    "uid": "3d0fbb7cddbb15b2",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 792.7,
+    "end": 797.82
+  },
+  {
+    "text": "factious it was still like yeah oh you love this don't you love it you think this is the best and that's",
+    "uid": "171c89a2ca100947",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 797.82,
+    "end": 804.78
+  },
+  {
+    "text": "the part that's like that's your way of showing that you love this and then everyone's got their own way",
+    "uid": "bdf02570417330c1",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 804.78,
+    "end": 809.1
+  },
+  {
+    "text": "of showing that that they love this right to come at the universe through the door of an apple pie or to be",
+    "uid": "e0b8d46ba686c147",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 809.1,
+    "end": 816.06
+  },
+  {
+    "text": "like here's how tiny we are everything you've ever loved is on that you know and I think that",
+    "uid": "483285351987d9fe",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 816.06,
+    "end": 821.9
+  },
+  {
+    "text": "even Carl knew like you got to hit him in the fields you know like you got to go for something that's like",
+    "uid": "f668e0a4b85a977f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 823.1,
+    "end": 828.78
+  },
+  {
+    "text": "your grandma's cooling apple pie it took stars exploding to make it you're like whoa you just took",
+    "uid": "72d807e36b063378",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 828.78,
+    "end": 833.82
+  },
+  {
+    "text": "something that is emotional and relevant to me and tied it to this big thing that I thought I was",
+    "uid": "d49e4711464b98c3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 833.82,
+    "end": 838.14
+  },
+  {
+    "text": "not capable of really caring about our comprehending because it was too big you know and I think that's",
+    "uid": "e2980339eb3b913e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 839.02,
+    "end": 843.9
+  },
+  {
+    "text": "the thing that I think with psychom is people don't realize that they're interested in science because",
+    "uid": "1151d9c0d218e5d7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 843.9,
+    "end": 849.18
+  },
+  {
+    "text": "science is such a like it's such a school topic but it's like if you care about pie and booning and why",
+    "uid": "46711dac81803a5a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 849.18,
+    "end": 857.18
+  },
+  {
+    "text": "you get nervous texting someone and you care about why you're so tired after a jet lag or whatever",
+    "uid": "9de657d1c8ad1a5c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 857.18,
+    "end": 863.1
+  },
+  {
+    "text": "you care about science or science and everything which is everything you do and so if you can",
+    "uid": "2af83adba9862cdd",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 863.74,
+    "end": 868.3
+  },
+  {
+    "text": "you can make something relevant to someone then it's such a door it's such a door opening I'm curious",
+    "uid": "48eae17ec2f80035",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 869.1,
+    "end": 876.14
+  },
+  {
+    "text": "how I'm curious what you learned and stand up has helped you in psychom and and giving your",
+    "uid": "6f7398f6779871a3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 876.14,
+    "end": 883.02
+  },
+  {
+    "text": "presentations and do you ever coach friends who like have to go do a keynote a conference to be like",
+    "uid": "e4438fb873906233",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 883.02,
+    "end": 888.94
+  },
+  {
+    "text": "less and you need a better opener yeah I really I really should put keynote consultants on my website",
+    "uid": "e36beb7cca49183e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 888.94,
+    "end": 894.78
+  },
+  {
+    "text": "yeah like I guess I've never written out the manifesto of things that I learned doing one thing",
+    "uid": "dcf57534fa24ed76",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 896.78,
+    "end": 901.58
+  },
+  {
+    "text": "of pie it to the other but but one thing that does kind of strike me is getting people's attention right",
+    "uid": "45559c4aae2bd5c2",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 901.58,
+    "end": 907.26
+  },
+  {
+    "text": "like so much of stand up especially when you're just fighting it out yeah it's like you don't have to",
+    "uid": "e604e97c40e34481",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 907.26,
+    "end": 913.1
+  },
+  {
+    "text": "listen to me and the same thing with science like you don't maybe even know one a listen to me like",
+    "uid": "4bb93ddc0c8cb80e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 913.1,
+    "end": 917.66
+  },
+  {
+    "text": "but I have something that I think you'll really like yeah yeah and so like how how do we convey enthusiasm",
+    "uid": "d9e737ccdbf6b919",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 917.66,
+    "end": 926.38
+  },
+  {
+    "text": "even just vocally right like I can't yeah I can't push you I'm not like you know advertiser right like I'm",
+    "uid": "16a8e1e75e9a378c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 927.26,
+    "end": 933.34
+  },
+  {
+    "text": "not sort of guiding you toward this I'm like once you're here once you got to me I want to make",
+    "uid": "dd78d4096f024e69",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 933.34,
+    "end": 938.46
+  },
+  {
+    "text": "sure that you're like in it and and ready to listen to it and so I think probably in some kind of",
+    "uid": "f3b2d9dee3540d08",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 938.46,
+    "end": 944.78
+  },
+  {
+    "text": "fuzzy way stand up was a road to figuring that out I think that's great I mean I think more scientists should be",
+    "uid": "e19bbea5f7bca2c5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 944.78,
+    "end": 952.22
+  },
+  {
+    "text": "forced forced to take a stand up course because it is the scariest thing ever what was it like the",
+    "uid": "03bfd852330b0521",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 953.58,
+    "end": 960.38
+  },
+  {
+    "text": "first time you did stand up I well there's there are two first time there's like a real first time",
+    "uid": "350dfc81453472fc",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 960.38,
+    "end": 965.42
+  },
+  {
+    "text": "and a fake first time I was in college and there was some I did like sketchy and private stuff and so I was like yeah I",
+    "uid": "85cd3c67cbf222df",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 965.42,
+    "end": 971.1
+  },
+  {
+    "text": "can do stand up and I somehow won some little contest based on a set that was like let's let's",
+    "uid": "048cb0d0c8569fe2",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 971.1,
+    "end": 980.78
+  },
+  {
+    "text": "say it was it was not good but the grand prize it was better than a couple other people and the grand prize was",
+    "uid": "9d545ae25360a1b7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 980.78,
+    "end": 989.02
+  },
+  {
+    "text": "opening for some big time comedian who came on and that's when I realized oh that wasn't that good",
+    "uid": "84de9af776477d84",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 989.02,
+    "end": 994.86
+  },
+  {
+    "text": "though there's five minutes now that there are like hundreds of people I'm like this is the wrong prize",
+    "uid": "22454f0818c930b4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 994.86,
+    "end": 1002.54
+  },
+  {
+    "text": "for a student who's done this once before and I was I that the school yearbook interviewed me",
+    "uid": "6ed445ea51456cc7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1002.54,
+    "end": 1009.66
+  },
+  {
+    "text": "afterward like this is our student comedian and I was so kind of depressed that I think I told them like I don't",
+    "uid": "f1f753bb64b5be86",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1009.66,
+    "end": 1016.62
+  },
+  {
+    "text": "know if I'll ever do this again oh that's the best origin story ever who wins a contest their first time",
+    "uid": "76d810d462c45eda",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1016.62,
+    "end": 1024.7
+  },
+  {
+    "text": "doing it well I mean it was set up to be that it was everyone's first time probably yeah but that's so",
+    "uid": "786994fb224a1cb0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1024.7,
+    "end": 1029.9
+  },
+  {
+    "text": "great but that's a real mind fuck is there what social science would you apply to that learning lesson like",
+    "uid": "0cd2a8aabe8c6515",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1029.9,
+    "end": 1035.5
+  },
+  {
+    "text": "of expectation of confidence of like a beginner thing like it it it maybe reminds me a little bit of like",
+    "uid": "96424a28ef8cf072",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1035.5,
+    "end": 1044.78
+  },
+  {
+    "text": "um done in cruiser stuff if you know that's one of the one of the little trivia points about that original",
+    "uid": "8886b6f79bc03909",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1044.78,
+    "end": 1052.3
+  },
+  {
+    "text": "paper is one of the studies I think was about assessing whether jokes were funny and if you look in the",
+    "uid": "4e8bf51e178bb9c5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1052.3,
+    "end": 1057.26
+  },
+  {
+    "text": "footnote it's like some of the participants were stand-up comics they'd like you would recognize",
+    "uid": "77858ca8449ad397",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1057.26,
+    "end": 1061.5
+  },
+  {
+    "text": "it was something like I don't really remember the digital time but it was something like people are overly",
+    "uid": "849a9a519c4fca24",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1062.86,
+    "end": 1068.22
+  },
+  {
+    "text": "confident that they can tell when something is funny or not when they don't have sufficient expertise",
+    "uid": "8cf6607af6bd292a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1068.3,
+    "end": 1074.38
+  },
+  {
+    "text": "right that's our sweet spot we go I know enough to be dangerous but like I'm I'm too confident",
+    "uid": "c9787bc706e75f5f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1074.38,
+    "end": 1080.3
+  },
+  {
+    "text": "and it's miscalabrated my sense is something like that was happening where I was like okay like some",
+    "uid": "6629dc6d102097f5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1080.86,
+    "end": 1085.74
+  },
+  {
+    "text": "these people told me I won this contest and so I'll do my thing and I think yeah I had miscalabrated",
+    "uid": "61038c2c0fe50faf",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1085.74,
+    "end": 1091.74
+  },
+  {
+    "text": "confidence in that moment poor Dunning and Kruger yeah Kruger right I said that right yeah",
+    "uid": "6517095c827fcecb",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1091.74,
+    "end": 1098.46
+  },
+  {
+    "text": "to to have an effect named after you was such an honor but to also have it be like the scientific",
+    "uid": "e3e531b4189b0c0e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1098.46,
+    "end": 1108.7
+  },
+  {
+    "text": "explanation for dumbass or eight such a such a a such a bittersweet moment but good on good on them",
+    "uid": "4fd700f5c09dc646",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1108.7,
+    "end": 1118.78
+  },
+  {
+    "text": "actually house Maslow doing are we still down with his hierarchy of needs or is that kind of like",
+    "uid": "0d0a023a6f0c7bf7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1118.78,
+    "end": 1122.78
+  },
+  {
+    "text": "the food pyramid where we're like this is bullshit I don't I don't know like I haven't really heard people",
+    "uid": "908e5fabd71a5e45",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1122.78,
+    "end": 1127.66
+  },
+  {
+    "text": "talk about it in a while like it's not I don't really do much motivation work so the people who said",
+    "uid": "120485ba593ce5f5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1127.66,
+    "end": 1132.3
+  },
+  {
+    "text": "motivation could tell you better like yeah my guess is it's probably a little too coarse for the",
+    "uid": "650b3e02c124a431",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1132.3,
+    "end": 1138.14
+  },
+  {
+    "text": "kinds of models that we have now where it was like yeah like the bread of needs is going to the bathroom",
+    "uid": "cbb6af947accb30b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1138.14,
+    "end": 1144.78
+  },
+  {
+    "text": "yes but the fats and salts of needs are self actualization or whatever that's like",
+    "uid": "e4863d3ed5f70e4c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1144.78,
+    "end": 1150.14
+  },
+  {
+    "text": "maybe hitting on something true but maybe not doing it in the most rigorous way but I don't know I",
+    "uid": "c60014574fc6470d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1152.14,
+    "end": 1157.02
+  },
+  {
+    "text": "may just don't know enough about it to comment this is I feel like in terms of allergies episodes",
+    "uid": "e34fa7922c66d50e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1157.02,
+    "end": 1162.22
+  },
+  {
+    "text": "people love social sciences they gobble them up I love doing them as episodes and so I'm trying to",
+    "uid": "d3a86c516b0db9e4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1163.58,
+    "end": 1171.18
+  },
+  {
+    "text": "hold off I'm doing just a plain psychology episode first long as I can or a plain sociology episode",
+    "uid": "12a2546484597777",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1171.18,
+    "end": 1179.42
+  },
+  {
+    "text": "for as long as I can because I like to milk them as a double word or where I have a something psychology",
+    "uid": "1e5670523713737a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1179.42,
+    "end": 1185.1
+  },
+  {
+    "text": "or something sociology that way I can just do as many niche topics but yeah I haven't even really",
+    "uid": "51fe45d9b5075db4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1185.1,
+    "end": 1190.78
+  },
+  {
+    "text": "know what I just general psychology like it that you know as an insider you go that's 30 million things like",
+    "uid": "b433340a52d0cb45",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1190.78,
+    "end": 1197.26
+  },
+  {
+    "text": "I know exactly so I get to I get to take theology from the psychology of it or this is the",
+    "uid": "e70340159726e7c1",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1197.26,
+    "end": 1203.5
+  },
+  {
+    "text": "ology of it whatever but then just takes there's so many volitional psychology was an episode",
+    "uid": "1b517d1652998a07",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1203.5,
+    "end": 1209.18
+  },
+  {
+    "text": "I did on procrastination and the TLDR from that was just like don't do it and it was like",
+    "uid": "e8a5b09105ddda19",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1210.46,
+    "end": 1216.7
+  },
+  {
+    "text": "oh it won't help me yeah but we addressed it again later in the in the in the ADHD episodes which was good",
+    "uid": "0476df71d6cd0fcb",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1216.7,
+    "end": 1224.3
+  },
+  {
+    "text": "but yeah I mean part of like what drives me and I think what drives a lot of psychometers is they just care",
+    "uid": "b48f8e2229ee4773",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1224.38,
+    "end": 1229.9
+  },
+  {
+    "text": "I think that when it comes to trying to figure out what your niche is in psychome you just can't go wrong",
+    "uid": "ff52d414d9ef03be",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1231.9,
+    "end": 1238.06
+  },
+  {
+    "text": "with authenticity and I think that that's kind of the same with humor and with relationships",
+    "uid": "40259b800ee50fda",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1238.06,
+    "end": 1242.7
+  },
+  {
+    "text": "deferring to authenticity is your best bet you know as long as it's done with kindness and you're not",
+    "uid": "56ac54b039be6369",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1243.82,
+    "end": 1251.26
+  },
+  {
+    "text": "being an asshole but like if you have a question that's authentic like ask it if you have an observation",
+    "uid": "c29630a72916c608",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1251.34,
+    "end": 1256.62
+  },
+  {
+    "text": "say it or if you if you messed up a little bit and it's kind of clear that you did then call it out because",
+    "uid": "ced797f5c55d14ea",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1258.06,
+    "end": 1264.22
+  },
+  {
+    "text": "it's a really if it's like a real like authenticity always breaks the tension and so",
+    "uid": "06ce25735a4b66a6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1264.22,
+    "end": 1269.58
+  },
+  {
+    "text": "I don't know I think authenticity also kind of is such a good compass for what you want to cover",
+    "uid": "122d00e858697fa9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1270.78,
+    "end": 1275.18
+  },
+  {
+    "text": "I might be really good at asking smart people not smart questions other people might want to communicate",
+    "uid": "4890fc2d9df41d0c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1275.74,
+    "end": 1282.54
+  },
+  {
+    "text": "to people that are their peers I like to communicate to a lay audience that and try to get as many people",
+    "uid": "ad2d6b7e673b92fa",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1282.54,
+    "end": 1288.38
+  },
+  {
+    "text": "interested in something as possible so I think like really trying to figure out what gets you fired up because",
+    "uid": "716c631259025e8a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1288.38,
+    "end": 1294.14
+  },
+  {
+    "text": "as with any creative project like it's super exciting when it starts it starts to feel really shitty as you're learning",
+    "uid": "792d7858b9746e7b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1294.14,
+    "end": 1301.82
+  },
+  {
+    "text": "you go why did I pick this why am I doing this sucks and then maybe you get a couple of highs and you go",
+    "uid": "31ed36cc659991b0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1302.22,
+    "end": 1307.26
+  },
+  {
+    "text": "think you did that and then sucks again and so I think if you have an undercurrent of really liking what you do",
+    "uid": "651e5d6d3099259e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1307.26,
+    "end": 1314.46
+  },
+  {
+    "text": "or having an intrinsic reason is opposed to like number followers or prizes or whatever",
+    "uid": "db7ac2b1a964687b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1314.46,
+    "end": 1321.9
+  },
+  {
+    "text": "you know if you have an intrinsic reason or a real thirst for doing it like it'll get used for those parts",
+    "uid": "bc74971e482c77a2",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1323.42,
+    "end": 1328.54
+  },
+  {
+    "text": "that are hard because there's always going to be hard parts and if I didn't care I would have given up",
+    "uid": "2e4b57a155f73a54",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1328.54,
+    "end": 1332.06
+  },
+  {
+    "text": "the four and a half years ago so that's a good point about like what you cover I'm also interested in how",
+    "uid": "58ecc83f8c7354a3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1333.1,
+    "end": 1340.14
+  },
+  {
+    "text": "you cover it so you know in creativity when you talk about authenticity you talk about finding your voice",
+    "uid": "f8476322e906619f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1340.14,
+    "end": 1345.34
+  },
+  {
+    "text": "having listened toologies predominantly in the last couple of years like you have like a very",
+    "uid": "f510cafdc5b1895d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1345.74,
+    "end": 1350.94
+  },
+  {
+    "text": "distinctive like voice like I hear it I go like oh there's I don't hear anyone else doing it",
+    "uid": "7d494cc5d9348465",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1351.5,
+    "end": 1358.46
+  },
+  {
+    "text": "like this and it's singular and it's but like you know you weren't doing that on day one I imagine",
+    "uid": "8eb6cc394a29c53d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1358.54,
+    "end": 1365.02
+  },
+  {
+    "text": "like what was the road to being like this is the alley ward who does this is it just oh yeah I just",
+    "uid": "40ce94b9f2db44f8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1365.02,
+    "end": 1371.74
+  },
+  {
+    "text": "said that in a mic it started talking or was there something of like a trial and error and I could you",
+    "uid": "2f572dbc182a8f48",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1371.74,
+    "end": 1377.02
+  },
+  {
+    "text": "like even paint a portrait of your voice on all the cheese yeah oh that's another great question",
+    "uid": "752c668e6404e51a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1377.02,
+    "end": 1383.74
+  },
+  {
+    "text": "because that's really nice of you to say I do not want to ignore the fact that you just paid me a",
+    "uid": "013b7d7651fab9b3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1383.74,
+    "end": 1388.78
+  },
+  {
+    "text": "huge compliment and thank you and those are things that I I still struggle with is like is this",
+    "uid": "35f16c7498644e58",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1388.78,
+    "end": 1394.3
+  },
+  {
+    "text": "is this a voice that resonates with people does this have value am I just another person doing this and",
+    "uid": "f73c4f8d166dba26",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1395.02,
+    "end": 1400.46
+  },
+  {
+    "text": "and also there's a lot of pain in authenticity there's a lot of vulnerability and it's a lot easier to be a",
+    "uid": "8bcef901ea14722e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1401.1,
+    "end": 1408.62
+  },
+  {
+    "text": "shell of yourself because if people don't like the shell you go oh that's an even really me so thank you",
+    "uid": "0408a13d0968b650",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1408.62,
+    "end": 1414.46
+  },
+  {
+    "text": "but if you are really yourself and people don't like it it potentially could hurt more but the upswing",
+    "uid": "f72b1da486049f9f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1414.46,
+    "end": 1420.46
+  },
+  {
+    "text": "to having a really authentic voice is when people get it it feels better than anything else like when you",
+    "uid": "eb7583e3af4dd82b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1420.46,
+    "end": 1426.94
+  },
+  {
+    "text": "put your real true self out and people go I like that you go even five people saying I like that feels",
+    "uid": "d1a5d25d946ee697",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1426.94,
+    "end": 1433.26
+  },
+  {
+    "text": "better than five thousand people being like I love the shell of yourself you know and that's really",
+    "uid": "25eb97fd64baa54a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1433.26,
+    "end": 1437.34
+  },
+  {
+    "text": "kind of like how I felt doing food TV is people being like I love this shell and I would be like",
+    "uid": "cb5f59770595db74",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1437.34,
+    "end": 1441.34
+  },
+  {
+    "text": "thank you but then people starting to like all of these I was like oh this really feels like I'm at my",
+    "uid": "be052984b49a0000",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1441.34,
+    "end": 1448.06
+  },
+  {
+    "text": "I'm doing the right thing you know and the road to that was hard and I always credit Matt Meira who was on",
+    "uid": "b27ce602df5ff2ab",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1448.06,
+    "end": 1457.1
+  },
+  {
+    "text": "nerdist who did nerdist for a long time and has his own shows I think he came up with this or he",
+    "uid": "c134917bc790bf66",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1457.1,
+    "end": 1461.82
+  },
+  {
+    "text": "stole it from someone else but he calls them west coast in east coast podcast where he's like east coast have like",
+    "uid": "931abde3d0de9a7f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1461.82,
+    "end": 1466.14
+  },
+  {
+    "text": "sound beds they got music cues they've got transitions they've got many producers working on one thing and",
+    "uid": "8b93f1935299c153",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1467.98,
+    "end": 1475.26
+  },
+  {
+    "text": "it's polished and like every way form is where it's supposed to be right and then there's east coast podcast where it's",
+    "uid": "530c3f4f7028b055",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1475.26,
+    "end": 1480.78
+  },
+  {
+    "text": "like a couple people some mics and they're talking about farting and sandwiches or whatever and then maybe they",
+    "uid": "4f23a00f35c3a528",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1480.78,
+    "end": 1485.66
+  },
+  {
+    "text": "edit out like the most incriminating parts where they should talk someone but other than that it's pretty much",
+    "uid": "66ce5059bd78d4fa",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1485.66,
+    "end": 1489.98
+  },
+  {
+    "text": "raw right and so I was like well okay most science podcasts are east coast and I had been doing like",
+    "uid": "cc5edd27bb510910",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1490.06,
+    "end": 1495.82
+  },
+  {
+    "text": "comedy podcasts before that and I was like I want to do like a west coast science podcast so I had seen this list",
+    "uid": "1c2dc60e208c2802",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1495.82,
+    "end": 1504.06
+  },
+  {
+    "text": "ofologies online 20 years before and I thought maybe I would make an illustrated book about it I always",
+    "uid": "4e1401afb778bcb3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1504.06,
+    "end": 1510.54
+  },
+  {
+    "text": "was fascinated by all theseologies who does them how did they get their names what's the discipline like",
+    "uid": "b3b018c96b79469f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1510.54,
+    "end": 1517.82
+  },
+  {
+    "text": "if someone is a nephologist who studies clouds why why do they pick clouds instead of being a",
+    "uid": "eac581fe5504ca64",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1517.82,
+    "end": 1523.5
+  },
+  {
+    "text": "melatologist who studies beats right like why do they pick that and I always had that idea and I thought",
+    "uid": "bdcfc0645369d402",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1523.5,
+    "end": 1528.86
+  },
+  {
+    "text": "I'm I should do it as a TV show is what I first thought because I was working in TV and I got my",
+    "uid": "ef6eaaceb4f3a6c0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1528.86,
+    "end": 1534.38
+  },
+  {
+    "text": "degree in film and so one night we had just one our first Emmy for innovation nation and I pitched it",
+    "uid": "fd5e368290afd279",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1534.38,
+    "end": 1542.62
+  },
+  {
+    "text": "to the producer at the emis while everyone was a little wine buzzed I was like if I'm ever going to",
+    "uid": "1fd9cc06abfea4cd",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1542.62,
+    "end": 1548.46
+  },
+  {
+    "text": "sell a show it's going to be now on the on the heels of this and I was like hey Dan what about a show",
+    "uid": "f1a09177f3b33dda",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1548.46,
+    "end": 1553.74
+  },
+  {
+    "text": "that's a knowledge of different knowledge and he was like it's never going to work as a show and I was like",
+    "uid": "190e90c912a37f2c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1553.74,
+    "end": 1557.5
+  },
+  {
+    "text": "so then I kind of got sad and I sat on it for a while and then came time I was like why don't I do it",
+    "uid": "495c4ed0c751a903",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1557.5,
+    "end": 1561.98
+  },
+  {
+    "text": "as a podcast why don't I do the west coast podcast great and so I got the name I got the handles on social",
+    "uid": "5bc712d6889eea48",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1561.98,
+    "end": 1571.66
+  },
+  {
+    "text": "media I told people hey I'm going to start recording a podcast I started I asked some friends who were",
+    "uid": "eda0524e7e205ddb",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1572.06,
+    "end": 1578.54
+  },
+  {
+    "text": "scientists I did Lila Higgins who was the person who encouraged me to volunteer at the museum",
+    "uid": "746f96b4c9e8de35",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1578.54,
+    "end": 1583.66
+  },
+  {
+    "text": "who changed my whole life um interviewed her first interviewed some other people and I was like it's not",
+    "uid": "4bd430c48b4e3c0b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1584.38,
+    "end": 1591.34
+  },
+  {
+    "text": "something's not right yet with it because there are things that a lay audience might not know",
+    "uid": "2e69a7cd6b2ac6c6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1591.34,
+    "end": 1595.58
+  },
+  {
+    "text": "and I don't want to leave them out of the conversation and I want to give context for why this",
+    "uid": "1b3f380298aab566",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1596.54,
+    "end": 1602.54
+  },
+  {
+    "text": "fact is relevant and kind of spice it up a little bit and so for nine months I had like six or seven",
+    "uid": "6d470fb548c4ef4d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1602.54,
+    "end": 1609.66
+  },
+  {
+    "text": "interviews in the bank and I ever was like when you put out the podcast I was like oh god I don't know",
+    "uid": "23281e724bb31074",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1609.66,
+    "end": 1615.1
+  },
+  {
+    "text": "I was killing me and I was trying to edit it and I just couldn't wrap my brain around it and then",
+    "uid": "1e6e9382f3b506ed",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1615.1,
+    "end": 1621.18
+  },
+  {
+    "text": "one day I get a DM from someone this I can hate just heads up Brady Harron who's another podcaster",
+    "uid": "4f5e4e2e22493cd5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1621.18,
+    "end": 1628.22
+  },
+  {
+    "text": "was talking on his podcast about wanting to make a podcast about all of these and I was like what no I've been",
+    "uid": "70e5f84c8cbfc098",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1628.22,
+    "end": 1633.42
+  },
+  {
+    "text": "I announced this nine months ago I have the handles I have the art I have thanked and what am I going to do",
+    "uid": "75337bc3fb7f8d7e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1633.42,
+    "end": 1639.26
+  },
+  {
+    "text": "and so I wrote Brady and email and I was like hey I heard about this just so you know I've been working on the same",
+    "uid": "8ad1af79d25842c0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1639.26,
+    "end": 1645.42
+  },
+  {
+    "text": "idea I just haven't put it out yet and I put out a trailer that night I was like I got an RSS feed I put out a",
+    "uid": "3bb330fe2b1fcdfe",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1645.42,
+    "end": 1653.74
+  },
+  {
+    "text": "trailer just being like here's some clips from interviews it's come soon and I was like I got to make this work in",
+    "uid": "3f8b509c603291a6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1653.74,
+    "end": 1658.54
+  },
+  {
+    "text": "the next two weeks which was very much the trailer at that time I made the trailer like I kind of had an idea",
+    "uid": "49e1007f2764c06c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1658.54,
+    "end": 1663.74
+  },
+  {
+    "text": "for it but I like stayed up all night and just made a trailer so that it existed so theology's podcast existed",
+    "uid": "e8b338a585263a18",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1663.74,
+    "end": 1668.86
+  },
+  {
+    "text": "and Brady was very gracious and he was like don't worry if anyone comes at you don't worry about it like",
+    "uid": "154637d43cebee38",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1668.86,
+    "end": 1674.46
+  },
+  {
+    "text": "I know you've been working on it so I was like cool but I had two weeks to come up with it and so I",
+    "uid": "440fb52ca0bfe372",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1674.54,
+    "end": 1678.86
+  },
+  {
+    "text": "that's when I decided to make kind of this hybrid East Coast West Coast like a size in it and some",
+    "uid": "f1a5de6af51c387a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1678.86,
+    "end": 1683.58
+  },
+  {
+    "text": "sound effects but mostly an editing conversation and my biggest question was like do I make no other",
+    "uid": "38ba1b39b14d588a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1683.58,
+    "end": 1690.46
+  },
+  {
+    "text": "podcast that were for science had like an e next to them which means swearing and explicit content",
+    "uid": "cfdaf0f7bc62c49a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1691.74,
+    "end": 1696.86
+  },
+  {
+    "text": "I was like do I make this for kids or do I make this in my voice and that was a hardest decision",
+    "uid": "f079eb4363ec9c97",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1696.86,
+    "end": 1702.46
+  },
+  {
+    "text": "is like how much of myself do I put into this and I decided you know I'd worked in kids TV for",
+    "uid": "a1cb5e7d1a21a46e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1702.46,
+    "end": 1709.42
+  },
+  {
+    "text": "science I just was like I'm just gonna make this as me as possible and if it fails it fails and so I decided",
+    "uid": "20692927d64789c3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1709.42,
+    "end": 1715.18
+  },
+  {
+    "text": "to keep the swears in and keep it conversational and be as authentic as I could in it and",
+    "uid": "abf5e881601b7bc9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1715.18,
+    "end": 1722.06
+  },
+  {
+    "text": "and it ended up filling a niche you know where I think a lot of science content is geared toward like",
+    "uid": "127d922bd363b151",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1723.26,
+    "end": 1729.02
+  },
+  {
+    "text": "you can listen with your kids and that's it's something academic but I think it ended up working",
+    "uid": "7f2fa9b6c0dfba33",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1729.02,
+    "end": 1735.18
+  },
+  {
+    "text": "to my advantage that I decided to keep it more me and yeah so I had like two weeks that put up the first",
+    "uid": "4f0083bd5992fcb4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1735.18,
+    "end": 1741.42
+  },
+  {
+    "text": "episode and then I've been like chasing the dragon like ever since because like I didn't launch with",
+    "uid": "fa5e21608cecdf3f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1741.42,
+    "end": 1747.82
+  },
+  {
+    "text": "any bank deficit I had all these like raw interviews and so but that but putting the sides in was kind of",
+    "uid": "7346312ebc888643",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1747.82,
+    "end": 1754.38
+  },
+  {
+    "text": "my compromise and so yeah for what it's worth I was a couple years ago what I was this name maybe",
+    "uid": "e23b120108557fa9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1754.38,
+    "end": 1760.86
+  },
+  {
+    "text": "the first couple times that I listened to it I actually I wasn't expecting it and so if you're I think it takes",
+    "uid": "8e64956f94e433d9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1760.86,
+    "end": 1767.98
+  },
+  {
+    "text": "a little getting used to as a listener because there's no like Q like oh wait it's the same person's voice",
+    "uid": "2b28152718f777c8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1767.98,
+    "end": 1772.94
+  },
+  {
+    "text": "but now there's some other point in time and they're filling in the gaps but the fact that that worked",
+    "uid": "e3ac5a4d22a65a0d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1772.94,
+    "end": 1778.62
+  },
+  {
+    "text": "actually gave in the early days so my show is mostly long form interviews and I think there was a time",
+    "uid": "c3a01ff4bfa6c92f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1778.7,
+    "end": 1784.78
+  },
+  {
+    "text": "I was editing and I was like this doesn't make any sense like and I thought oh but you know what like",
+    "uid": "6aeec2f3c3b491a7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1784.78,
+    "end": 1790.14
+  },
+  {
+    "text": "it would be fine like I can just come in after the fact and be like hey by the way this is the back",
+    "uid": "e54a5b46dc74b0ea",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1790.14,
+    "end": 1795.42
+  },
+  {
+    "text": "round that you can do for this to make sense so but that was there from the jump the like I can just",
+    "uid": "d594105444868146",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1795.42,
+    "end": 1804.46
+  },
+  {
+    "text": "like how much of that was for thought where you went this is the way I'll do this versus you're listening to",
+    "uid": "014d1c3395ae7543",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1805.42,
+    "end": 1810.54
+  },
+  {
+    "text": "those first interviews going that I got a people are gonna be lost so yes it was mostly that I wanted",
+    "uid": "a3aa971e3e022460",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1810.54,
+    "end": 1817.42
+  },
+  {
+    "text": "trust me any I wanted to do a West Coast podcast you're fucking kidding me you put up two mics you talk",
+    "uid": "e95474886596e7ed",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1817.42,
+    "end": 1823.42
+  },
+  {
+    "text": "about sandwiches you post it and you're like later great wonderful east coast podcast with tracks and",
+    "uid": "930201eaabf00cdc",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1823.42,
+    "end": 1830.7
+  },
+  {
+    "text": "editing you're buying trouble right unless you have like your supported by like a foundation you",
+    "uid": "39feb7711c2bca0b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1830.7,
+    "end": 1837.82
+  },
+  {
+    "text": "know that's like the end and bird foundation like you know if you're just like no it's just me and",
+    "uid": "e55804dcc06f3ed8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1837.82,
+    "end": 1843.42
+  },
+  {
+    "text": "trying to learn how to use garage band off of YouTube which it was for the longest time I was like",
+    "uid": "39f37471edcb041e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1843.42,
+    "end": 1847.9
+  },
+  {
+    "text": "well how do I put it but a lot of it was I my a lot of it was my wanting to take the viewer",
+    "uid": "d2184a6c90a1ae02",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1847.9,
+    "end": 1855.74
+  },
+  {
+    "text": "with me and feeling like the viewer wasn't left out of the conversation I wanted to feel like if you",
+    "uid": "e33af7d8e2764c63",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1856.46,
+    "end": 1861.34
+  },
+  {
+    "text": "invited someone to a party with you and then you were just like I'm gonna go talk to my friends and they were like",
+    "uid": "6af739383fbd74fe",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1861.34,
+    "end": 1865.9
+  },
+  {
+    "text": "this sucks I'm by the dip and like I don't who do I talk to I wanted to let the viewer know like I gotcha",
+    "uid": "5c7c4a2915c584a9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1865.9,
+    "end": 1872.46
+  },
+  {
+    "text": "like I'm never forgetting that you're the third person here you know what I mean and so I think that the",
+    "uid": "da6f7c7c89e89ed1",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1872.46,
+    "end": 1880.14
+  },
+  {
+    "text": "sides were like I remember I remember doing the first edits on Lila's episodes and we talk about",
+    "uid": "3170d424960c7909",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1880.14,
+    "end": 1887.58
+  },
+  {
+    "text": "a lightra we talk about the covers of beetle wings and I really like bugs and Lila's in a topologist so we were",
+    "uid": "80688f6debe03665",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1887.58,
+    "end": 1892.7
+  },
+  {
+    "text": "talking about like he's really colorful a lightra and I remember being like unless you have bug books you",
+    "uid": "97414e13c38ad812",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1892.7,
+    "end": 1897.82
+  },
+  {
+    "text": "probably don't know what that is and then you're listening you're just like okay but I was like I wish I could stop",
+    "uid": "3d9a27fd22d41781",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1897.82,
+    "end": 1902.46
+  },
+  {
+    "text": "and be like by the way that's what these are because also in the interview to stop Lila and be like",
+    "uid": "94b1a1e12e4a52ed",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1902.46,
+    "end": 1907.42
+  },
+  {
+    "text": "and you know she's like what the fuck and so I was like well and so it really kind of started with wanting",
+    "uid": "f52b3acb311bcd18",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1907.42,
+    "end": 1915.34
+  },
+  {
+    "text": "that aside to be like I want people to know it's okay if you don't know this you're here to learn this or if",
+    "uid": "35f842f9c5adc080",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1915.34,
+    "end": 1923.26
+  },
+  {
+    "text": "you know in the very first episode about volcanology Jess Phoenix says a joke that's really common",
+    "uid": "1a571ebb9c4aa0ac",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1924.86,
+    "end": 1931.74
+  },
+  {
+    "text": "among geologists and I was so new to interviewing I didn't get the joke but I laughed anyway",
+    "uid": "e5e07105b768f5c8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1931.74,
+    "end": 1936.38
+  },
+  {
+    "text": "and so later I was like I don't know look up what that even means and then I was like well I",
+    "uid": "75bd407336a0e9f9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1937.02,
+    "end": 1942.22
+  },
+  {
+    "text": "want to explain that to the audience but then I also have to admit that I laughed at that without knowing",
+    "uid": "301d3d9534055a4c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1942.22,
+    "end": 1946.22
+  },
+  {
+    "text": "what I meant and so the the sides kind of developed from that being like not only do I want to",
+    "uid": "a90dcf7ffd775d56",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1946.22,
+    "end": 1952.7
+  },
+  {
+    "text": "explain better so that people don't feel left behind but also if someone else is listening and they're like",
+    "uid": "c9e1608ac0188b20",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1952.7,
+    "end": 1957.66
+  },
+  {
+    "text": "I don't know what that means they're not alone and that they're not dumbies for not getting that you know",
+    "uid": "2b685ad418752278",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1957.66,
+    "end": 1962.94
+  },
+  {
+    "text": "and also pointing out well this made me wonder this and so I had to go jump down this rabbit hole which",
+    "uid": "4ee53d5d9e06561f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1962.94,
+    "end": 1969.42
+  },
+  {
+    "text": "it's nice to hear from listeners if they're like I have the same question you know it's like I get good",
+    "uid": "741e4cba27bb7f73",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1969.42,
+    "end": 1973.82
+  },
+  {
+    "text": "because sometimes you don't want to bother an expert with some you know tangent you got to get the good stuff",
+    "uid": "d1174c7c1460a762",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1973.82,
+    "end": 1979.5
+  },
+  {
+    "text": "and so I think it kind of breaks it up a little bit too and it's so funny I've been diagnosed with ADHD",
+    "uid": "7d69519913d5e686",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1979.9,
+    "end": 1986.14
+  },
+  {
+    "text": "since starting this podcast but I don't get reviews or people online being like oh it's so great",
+    "uid": "e8fb0898394ee52f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1986.78,
+    "end": 1994.7
+  },
+  {
+    "text": "I've ADHD is so great to listen to a podcast with someone who's brain works the same and I was like that's",
+    "uid": "aa7043b1a8dd6c2c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1994.7,
+    "end": 1999.1
+  },
+  {
+    "text": "weird I hasn't had ADHD but I don't so glad it's ADHD friendly and then I was like no it's too",
+    "uid": "309936bcfd29379d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 1999.1,
+    "end": 2004.62
+  },
+  {
+    "text": "like you definitely have ADHD and that is yeah and so I think it helps for people who maybe",
+    "uid": "6e69bfeebf6b0dab",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2004.62,
+    "end": 2012.46
+  },
+  {
+    "text": "love science and have the curiosity of science but have been left behind by academia or of",
+    "uid": "97d66da379bb1911",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2013.42,
+    "end": 2018.62
+  },
+  {
+    "text": "felt like they don't have a place in there because their their brains hop around too much so I think it",
+    "uid": "10ae7f27bed65742",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2018.62,
+    "end": 2023.66
+  },
+  {
+    "text": "it has a dual purpose where it's it lightens things and gives things more context and also",
+    "uid": "5cd67a3b1dbdcbfa",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2023.66,
+    "end": 2029.58
+  },
+  {
+    "text": "you feel like as a listener you're never going to get left behind you know what what is nice about",
+    "uid": "3723484340c81615",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2030.54,
+    "end": 2037.5
+  },
+  {
+    "text": "it too is it's not it's not like a thoreitative narrator voice it's not like and by the way like this is what this",
+    "uid": "36c07a600d0233e1",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2037.5,
+    "end": 2042.94
+  },
+  {
+    "text": "means it at least in what I hear of late it's like so I I looked into this for this yeah yeah yeah this is what I",
+    "uid": "b065adbf31ffb145",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2042.94,
+    "end": 2051.02
+  },
+  {
+    "text": "found and it is sort of that like we're all doing this at the same time like yeah I'm like a few steps ahead of you",
+    "uid": "7cf67d67f4462d18",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2051.02,
+    "end": 2056.94
+  },
+  {
+    "text": "but not many more than that exactly yeah and that that's okay to learn like that's the whole thing is like",
+    "uid": "18b9a1c3f386d2fb",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2056.94,
+    "end": 2062.7
+  },
+  {
+    "text": "curiosity and a willingness to learn is so much more important in life than just knowledge than",
+    "uid": "2069286b06d16033",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2062.78,
+    "end": 2069.42
+  },
+  {
+    "text": "banks knowledge because one thing I learned from doing so many interviews with inventors for CBS for",
+    "uid": "02268a834bebc503",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2069.42,
+    "end": 2075.5
+  },
+  {
+    "text": "innovation nation and doing the show it's like failure is a huge part of success it's a huge part of",
+    "uid": "80fe42f322cf98b3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2075.5,
+    "end": 2081.58
+  },
+  {
+    "text": "science we see the papers they get published but we don't we might not hear about all the experiments",
+    "uid": "40b9e08e4485d4a7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2081.58,
+    "end": 2088.54
+  },
+  {
+    "text": "that fail before the experiment that renders some results or we don't hear about the samples that",
+    "uid": "4ca0aaa7eead9490",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2088.54,
+    "end": 2093.74
+  },
+  {
+    "text": "got lost because of a refrigeration error in the final results you know so I think that what I got the",
+    "uid": "1686b570903e19e1",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2093.74,
+    "end": 2101.02
+  },
+  {
+    "text": "behind the scenes look I got as an interviewer was hearing a lot about failure and work around and resilience",
+    "uid": "794394e4dbc8986c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2101.02,
+    "end": 2108.62
+  },
+  {
+    "text": "and that gets lost a lot when thinking about science we think about science it's just knowledge",
+    "uid": "4b60ff75a6ce2a5e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2108.62,
+    "end": 2113.98
+  },
+  {
+    "text": "here to tell you something you don't know but really there's a lot of scrappiness and the same kind",
+    "uid": "74cae8659d3e1071",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2114.06,
+    "end": 2119.74
+  },
+  {
+    "text": "of scrappiness that's in creativity that's in art you know if like well we got a ton of feedback from",
+    "uid": "eb004053e21c4778",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2119.74,
+    "end": 2126.22
+  },
+  {
+    "text": "the guitar in this but it ended up sounding really cool or these were just placeholder lyrics that",
+    "uid": "f81d171e575c27b0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2126.86,
+    "end": 2133.18
+  },
+  {
+    "text": "ended up actually being really good you know and so we don't hear that kind of side of science and I wanted",
+    "uid": "67d41aada5513db2",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2133.18,
+    "end": 2138.78
+  },
+  {
+    "text": "to bring that humanity to science you know and let people know that science comes from people and",
+    "uid": "ccae1861cab0675c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2138.78,
+    "end": 2146.22
+  },
+  {
+    "text": "these people are weird and interesting and great and you know have learned a lot of lessons along the way so",
+    "uid": "aaefa2930acc26e8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2146.22,
+    "end": 2151.42
+  },
+  {
+    "text": "I think that in doing the science like that was that was one way to kind of bring more humanity to it",
+    "uid": "ec53bbc2f1d09968",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2152.14,
+    "end": 2158.3
+  },
+  {
+    "text": "and also since this is a podcast about psych I'll give you some secrets that I don't tell a lot of people",
+    "uid": "1b0e0e09099af9af",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2158.3,
+    "end": 2163.1
+  },
+  {
+    "text": "interviews sometimes the interview sucks or you know sometimes parts of the interview sucks and",
+    "uid": "e4eb2bad27222319",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2163.18,
+    "end": 2168.86
+  },
+  {
+    "text": "sometimes people might misstate effect and not realize it until later and email me later or I'll go",
+    "uid": "8165ebfd3ac467a9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2169.58,
+    "end": 2176.3
+  },
+  {
+    "text": "and I'll fact check and I'm like oh my god that wrong that's okay I got their back like I'm going to",
+    "uid": "94bcf3b4cc1d2408",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2176.3,
+    "end": 2180.3
+  },
+  {
+    "text": "cut that and you're never going to know and in an aside I'm going to have the correct information or",
+    "uid": "26fc4172ad6157fb",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2180.3,
+    "end": 2185.58
+  },
+  {
+    "text": "and the interviewie looks good and we don't have a you know a part where they're saying I don't really know or I think it was",
+    "uid": "6e4da6b58aee365e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2185.82,
+    "end": 2195.02
+  },
+  {
+    "text": "this but it might you know I just kind of clean it up I make it kind of seamless and you know if there's something that they",
+    "uid": "a473aba0475f0653",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2195.02,
+    "end": 2202.22
+  },
+  {
+    "text": "don't know or if they have outdated information then that's okay like we get rid of the we get cut that part out of the",
+    "uid": "f588c0a7962647d4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2202.22,
+    "end": 2209.1
+  },
+  {
+    "text": "apple and and you know serve it at the best we can and so I really want to make the scientists come off as",
+    "uid": "67ba69026d6b7855",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2209.1,
+    "end": 2216.54
+  },
+  {
+    "text": "their best and I don't want to hang them out to dry if maybe they misstate something on accident you know what I mean",
+    "uid": "1510a72a91d8553a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2216.54,
+    "end": 2223.42
+  },
+  {
+    "text": "I wonder too so I want to talk to one of the producers at science versus you know they're a very",
+    "uid": "d4758227dc9b5b0d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2224.46,
+    "end": 2229.42
+  },
+  {
+    "text": "produced science show and I got the impression that like one of the advantages is in an interview you",
+    "uid": "787f215f3a4c6c9d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2229.42,
+    "end": 2236.06
+  },
+  {
+    "text": "could ask the same question three times and then finally the scientists lock him is like oh I have to say",
+    "uid": "cc4baeb4b0ebf77c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2236.06,
+    "end": 2241.5
+  },
+  {
+    "text": "it like this for it to make sense to anyone who's not like in my direct field yeah I'm sure he's",
+    "uid": "517588e9f0b33415",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2241.5,
+    "end": 2246.3
+  },
+  {
+    "text": "did you find that as well like it is some of this in opportunity to be like you know we can sort of it's",
+    "uid": "52a9f40d0427af49",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2246.3,
+    "end": 2251.26
+  },
+  {
+    "text": "you we're not just listening to one uncut or at least seemingly uncut interview there's enough bouncing around",
+    "uid": "125b83acbc7bf1ec",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2251.26,
+    "end": 2256.14
+  },
+  {
+    "text": "that you could sort of mask those takes where they didn't make any sense yeah you know and but that yes I can do that",
+    "uid": "ca65ca7e2675ea1e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2256.14,
+    "end": 2264.94
+  },
+  {
+    "text": "but what I prefer to do is in the moment say if that didn't make any sense to me that's natural",
+    "uid": "4787bab017f57c49",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2265.74,
+    "end": 2274.46
+  },
+  {
+    "text": "me didn't make sense to my audience not gonna make sense to you so it's almost more of a relief and a burst of",
+    "uid": "4c28df4235dcfa75",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2275.26,
+    "end": 2283.34
+  },
+  {
+    "text": "of the tension if I go wait that didn't make it okay that didn't make any sense so then what is that you know what",
+    "uid": "76349c8b7cd0dc75",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2283.66,
+    "end": 2288.86
+  },
+  {
+    "text": "what you mean like I've learned that in the moment it's okay to be conversational and be like you know I",
+    "uid": "46e32567b2336043",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2288.86,
+    "end": 2295.1
+  },
+  {
+    "text": "don't know what that means in the interview you know sometimes I'm like it's not worth their time to explain",
+    "uid": "6b3b355835cb68e7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2295.1,
+    "end": 2300.06
+  },
+  {
+    "text": "this I'll explain this in a second and a second later and sometimes that my human reaction mirrors what the",
+    "uid": "a9a395ed08505ace",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2300.06,
+    "end": 2306.22
+  },
+  {
+    "text": "audience is having so I might as well have it if I'm like that sucks you know like yeah it does you know",
+    "uid": "bee206539325bf73",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2306.22,
+    "end": 2312.14
+  },
+  {
+    "text": "sometimes it can be a relief to the person I'm interviewing to have my reaction be human",
+    "uid": "902f0b65ae003331",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2312.14,
+    "end": 2318.38
+  },
+  {
+    "text": "because then it allows them to be human too and you know I think that one thing I've learned from",
+    "uid": "f004b40c7ca1f6d5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2318.54,
+    "end": 2325.26
+  },
+  {
+    "text": "so many TV interviews is to try to figure out what will bring out a motion in someone I'm interviewing",
+    "uid": "498ee19ad920ccd4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2325.26,
+    "end": 2332.94
+  },
+  {
+    "text": "because so many people are used to being a representative for their lab or for their university or for whatever",
+    "uid": "ec248eee9bb1c13b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2332.94,
+    "end": 2339.18
+  },
+  {
+    "text": "and they're they're used to academic conferences where you have to come off as as kind of sterile and",
+    "uid": "1889ae7e3a7de911",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2339.18,
+    "end": 2345.9
+  },
+  {
+    "text": "in psychom and in art and in communication like that's not necessarily the goal and so",
+    "uid": "26d0b58f6e639391",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2346.86,
+    "end": 2353.34
+  },
+  {
+    "text": "asking them something that lights them up or is a frustration or letting my surprise come through",
+    "uid": "49a4fc0d45ec7c71",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2354.3,
+    "end": 2362.06
+  },
+  {
+    "text": "kind of opens the door to oh this is a safe place to be a person like you can be a person here and I",
+    "uid": "dccd6e90dd90700e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2362.54,
+    "end": 2367.74
+  },
+  {
+    "text": "had this interview about phenology which is the changing of season and I study doctor or I interviewed",
+    "uid": "55ec011e70f34fbd",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2367.74,
+    "end": 2375.42
+  },
+  {
+    "text": "Dr. Libby Elwood and you know I always ask people what it's like about their job and and she's she got",
+    "uid": "a403d3d35fc73fea",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2376.3,
+    "end": 2383.26
+  },
+  {
+    "text": "really quiet and choked up and she started crying and she was saying that it's really hard to do the",
+    "uid": "29143f5567f3659e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2385.1,
+    "end": 2392.06
+  },
+  {
+    "text": "work she does about climate change and trends and to have no one believe or to be blunt",
+    "uid": "fcbaae51b1f5a64d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2392.06,
+    "end": 2399.1
+  },
+  {
+    "text": "maligned for it and she was so apologetic about crying and I was like no dude like this is what",
+    "uid": "6d182e1c412f15e3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2399.1,
+    "end": 2405.98
+  },
+  {
+    "text": "people need to hear because people think that if scientists aren't emotional that they shouldn't be",
+    "uid": "cb2cc8a1b851e676",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2405.98,
+    "end": 2414.54
+  },
+  {
+    "text": "emotional but people need to hear how much of a struggle this is and that science is done by humans and",
+    "uid": "ce782f4e3d12b043",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2414.54,
+    "end": 2419.1
+  },
+  {
+    "text": "it's not just this graph that gets popped out of this AI like it's people with a invested passion in",
+    "uid": "d1b3b464e8d9965a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2419.1,
+    "end": 2426.54
+  },
+  {
+    "text": "something having to deliver bad news you know so I think that giving people license to be human",
+    "uid": "72779be04cc1baa6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2426.54,
+    "end": 2433.1
+  },
+  {
+    "text": "is part of what my job is and so if I have a reaction to something that's like what like that's okay you",
+    "uid": "d436f6c6968b5ea6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2433.9,
+    "end": 2440.46
+  },
+  {
+    "text": "know long answer sorry oh great sorry no no that is great and yeah I mean you set the tone right like",
+    "uid": "773773d7916c7716",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2440.46,
+    "end": 2449.58
+  },
+  {
+    "text": "and in some ways it kind of goes back to your point about giving yourself the freedom to just ask the",
+    "uid": "b23d6d9fc5c29eeb",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2450.78,
+    "end": 2455.82
+  },
+  {
+    "text": "clarifying question that's on everyone's mind is it's kind of empowering to be like people see scientists",
+    "uid": "fcab2c2e0de3b359",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2455.82,
+    "end": 2460.54
+  },
+  {
+    "text": "is these kind of ivory tower figures who are not to be questions but like sometimes what they say doesn't",
+    "uid": "9d8ed0e5a0687531",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2460.54,
+    "end": 2465.9
+  },
+  {
+    "text": "make sense I know a lot of scientists there's a lot of things to make it a sense and they know it right",
+    "uid": "6dd01c444943b962",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2465.9,
+    "end": 2470.7
+  },
+  {
+    "text": "and all it takes you know when you when I teach to it's like can someone call me out on this because like",
+    "uid": "22c90609309b7520",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2470.7,
+    "end": 2475.9
+  },
+  {
+    "text": "I couldn't have gotten this all right right like I didn't make I made perfect sense to all of you",
+    "uid": "35edd58565ab84ca",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2475.9,
+    "end": 2481.74
+  },
+  {
+    "text": "with the last 20 minutes that doesn't seem right but like and it's evolving science is evolving a paper",
+    "uid": "4f541edd75813639",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2481.74,
+    "end": 2487.34
+  },
+  {
+    "text": "comes out that does looks at something a little more depth than the last paper you got a little more",
+    "uid": "9707b5caaac4e04d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2487.34,
+    "end": 2491.82
+  },
+  {
+    "text": "information about it you know what I mean that's great about it and I think it's great that you're willing to be",
+    "uid": "aa5370a325e63a1a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2491.82,
+    "end": 2497.02
+  },
+  {
+    "text": "called out that you're having coming from a place of like we're all learning and the exploration is part of it",
+    "uid": "5e4abae592676fa0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2497.58,
+    "end": 2503.58
+  },
+  {
+    "text": "is great you know totally I want I'm mindful of the time one thing I did want to talk to you about was",
+    "uid": "48a58c563758c94f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2503.58,
+    "end": 2510.06
+  },
+  {
+    "text": "a lot of it is kind of like in the moments of doing the interview and then reflecting after word",
+    "uid": "18c6f4ff8822bb53",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2510.86,
+    "end": 2517.66
+  },
+  {
+    "text": "but I'm also curious about the before part of the equation and like what you know you could",
+    "uid": "346cb9dbf70f58ed",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2517.66,
+    "end": 2523.02
+  },
+  {
+    "text": "construe all the genes as a science show but to me it's like conversations with delightful scientists",
+    "uid": "37c3dec4178cfaf2",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2523.02,
+    "end": 2529.9
+  },
+  {
+    "text": "like that is the defining feature and every one I listen to I'm like how are all of these so",
+    "uid": "29ef752983fff0a8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2529.9,
+    "end": 2536.54
+  },
+  {
+    "text": "delightful like right and and I like I said I know plenty of scientists I can tell you they're not all",
+    "uid": "422927077e6ec741",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2537.18,
+    "end": 2542.86
+  },
+  {
+    "text": "delightful so I'm curious like what the process of finding people or vetting people or",
+    "uid": "4f584f3823beda7d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2542.86,
+    "end": 2547.74
+  },
+  {
+    "text": "like what what is that planning stage look like oh thanks for noticing that I love finding it all",
+    "uid": "cfe22047df623374",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2548.86,
+    "end": 2555.9
+  },
+  {
+    "text": "a list oh it's my favorite part of the job really is my favorite part of the job is finding who I'm",
+    "uid": "cfa038f8a3fabf80",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2555.9,
+    "end": 2560.38
+  },
+  {
+    "text": "going to interview about something sometimes someone says you got to check this person about golf wasps",
+    "uid": "90cc0e493162b352",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2560.38,
+    "end": 2565.02
+  },
+  {
+    "text": "wow have they got a lot to say about it and they love it and I hear from enough people this is a guy",
+    "uid": "ef71e83ea6e6432d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2565.02,
+    "end": 2569.66
+  },
+  {
+    "text": "to talk to about golf wasps and I go alright I'm on board other times I say raccoons I kind of know",
+    "uid": "526046afa5ef316d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2569.66,
+    "end": 2576.94
+  },
+  {
+    "text": "everything about him who's studying raccoons so much and I'll look up raccoons and I'll look up the",
+    "uid": "fdf2ac6162d241d1",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2576.94,
+    "end": 2581.98
+  },
+  {
+    "text": "genus for them and I'll see okay Suzanne McDonald is a lead author on a lot of these papers what's",
+    "uid": "cd9a42a91acfe57f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2581.98,
+    "end": 2588.06
+  },
+  {
+    "text": "her deal and so I'll go kind of different routes and I think the reason why they're so delightful",
+    "uid": "ea5a6c73ca7ea925",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2588.14,
+    "end": 2596.86
+  },
+  {
+    "text": "is because they're talking about the thing that they probably love the most or that they know the most about",
+    "uid": "b8f4ab88a553ec58",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2596.86,
+    "end": 2602.62
+  },
+  {
+    "text": "and they're probably so delightful because no one ever cares as much as it's like we do about what",
+    "uid": "bb7f79bc58d7ce0f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2602.62,
+    "end": 2609.58
+  },
+  {
+    "text": "they're talking about like I have a friend who is a plant expert and sometimes his wife will",
+    "uid": "318db3cdaa6d4643",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2609.58,
+    "end": 2615.82
+  },
+  {
+    "text": "good naturally be like don't talk about this too much she's like a filmmaker the different crowd",
+    "uid": "0278ac58a3e3cd5d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2615.82,
+    "end": 2622.78
+  },
+  {
+    "text": "or whatever but honestly I'll tell you in a filmmaker party these filmmakers want to hear about a",
+    "uid": "0ddca5727edc775b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2622.78,
+    "end": 2627.02
+  },
+  {
+    "text": "botanist talking you know but for the most part someone who studies barnacles is probably jokingly told",
+    "uid": "91ac90917ecf2da5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2627.02,
+    "end": 2634.62
+  },
+  {
+    "text": "like don't talk too much about barnacles but then they come on my podcast and I'm like you tell me everything",
+    "uid": "dcd05a95d2a7569e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2634.62,
+    "end": 2639.42
+  },
+  {
+    "text": "you won't have barnacles I was just to hear you fire hose me about barnacles and they're like yes",
+    "uid": "55004e3af2de9dba",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2639.42,
+    "end": 2644.7
+  },
+  {
+    "text": "and so I think you're catching them like a moment of someone walking through the gates of Disneyland where",
+    "uid": "ddd90c3996bef06a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2644.7,
+    "end": 2651.9
+  },
+  {
+    "text": "they're like here I go I get to do my thing and so I think that feeling celebrated is a great way to",
+    "uid": "31c7540669ac83d9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2651.9,
+    "end": 2660.38
+  },
+  {
+    "text": "bring out the best in people and when people come on all of the years it's not like okay so you know",
+    "uid": "38c8aee57896224d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2660.38,
+    "end": 2667.34
+  },
+  {
+    "text": "a lot about barnacles huh but you don't know everything and I bet what you know is probably",
+    "uid": "701d875c43beeb39",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2667.34,
+    "end": 2671.66
+  },
+  {
+    "text": "of vices it's like no it's a celebratory thing and so I try to find people who seem like they are",
+    "uid": "a7fc30138f2b5563",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2671.66,
+    "end": 2677.82
+  },
+  {
+    "text": "going to be excited to talk about it or will know so much niche content that they will appreciate the",
+    "uid": "5497d96225bc61dc",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2677.82,
+    "end": 2685.82
+  },
+  {
+    "text": "questions locked them and I've had a couple real thinkers though and sometimes that's fun like the",
+    "uid": "35abd349dd2383bd",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2685.82,
+    "end": 2693.82
+  },
+  {
+    "text": "pro-scientologist in question who studies raccoon, starctors is and McDonald I was like what",
+    "uid": "f81715134809cc28",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2693.82,
+    "end": 2699.26
+  },
+  {
+    "text": "would theology be for this I'm pretty sure to be raccoonology because people have used the term",
+    "uid": "8319cb3b95e9997f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2699.26,
+    "end": 2703.5
+  },
+  {
+    "text": "in the literature and what do you think about it she was like that's ridiculous I was like",
+    "uid": "1a6d312da825d6e7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2704.3,
+    "end": 2709.9
+  },
+  {
+    "text": "out cool I love your honesty you know and she was like raccoonologist and I was like what about",
+    "uid": "77a6e9c1fa11edb8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2709.9,
+    "end": 2716.38
+  },
+  {
+    "text": "pro-scientology and she's like that's a genius of raccoon she's like all sign off on it and I was like okay",
+    "uid": "83437efdbe3e51d5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2716.38,
+    "end": 2721.42
+  },
+  {
+    "text": "we have an opinion here anytime you have an opinion you gotta be excited about that you know what I mean",
+    "uid": "e8ba7f961159a849",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2721.5,
+    "end": 2726.46
+  },
+  {
+    "text": "because like if someone who's an expert has an opinion you're like that's dope but yeah I did an episode",
+    "uid": "c19547e04d816f5b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2726.46,
+    "end": 2733.1
+  },
+  {
+    "text": "about aging biogerantology and I was like this is the worst interview I've ever done this guy hates me",
+    "uid": "b364e3a60eddd607",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2733.1,
+    "end": 2739.74
+  },
+  {
+    "text": "he hates my questions he scoffed at some of them and he's a 79 year old professor who studied",
+    "uid": "046db9068276f401",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2740.3,
+    "end": 2749.1
+  },
+  {
+    "text": "aging since his youth so that's gotta be weird I also had a list of questions for myself that I",
+    "uid": "7db053ae45943e15",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2749.1,
+    "end": 2757.98
+  },
+  {
+    "text": "think one of them included like is it weird to approach death and I was like you know but in my head I was like",
+    "uid": "09db333e93410aa3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2757.98,
+    "end": 2763.74
+  },
+  {
+    "text": "I say that better but anyway we got through this entire interview I'm like this guy hates me as soon as I",
+    "uid": "5075104b4d1b1493",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2763.74,
+    "end": 2769.82
+  },
+  {
+    "text": "turn off the recorder he was like great questions a great interview and I was like what are you kidding me",
+    "uid": "c70d2e492fd23f6d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2769.82,
+    "end": 2775.98
+  },
+  {
+    "text": "and so a lot of that interview is like a size or like I think this guy fucking hates me and so the",
+    "uid": "6fac3a0b4151a29b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2776.06,
+    "end": 2781.74
+  },
+  {
+    "text": "read there the listener is a long for that journey of like is this guy mad and then at the end",
+    "uid": "26eae5b2173c9b74",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2781.74,
+    "end": 2786.62
+  },
+  {
+    "text": "the outro's like you'd never believe what he said after I turned off the recorder and so there's like a payoff",
+    "uid": "f1f3cef831fadd72",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2787.66,
+    "end": 2792.38
+  },
+  {
+    "text": "so sometimes the charm is in the irasibility it's rare but I learned this trick to it parties",
+    "uid": "8756386a2b8924ed",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2792.38,
+    "end": 2800.3
+  },
+  {
+    "text": "if you don't know what to talk about with someone in your own party and you have social anxiety or your",
+    "uid": "9406d238f3f6f01c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2801.42,
+    "end": 2804.86
+  },
+  {
+    "text": "neurodivergent say for example me both and you want to get someone talking like ask them about something",
+    "uid": "f639463c7d7c651f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2804.94,
+    "end": 2811.98
+  },
+  {
+    "text": "that they love and it's you know if they're a couple ask how they met before you know what they go oh boy",
+    "uid": "0c6bda4b12b908cc",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2811.98,
+    "end": 2818.86
+  },
+  {
+    "text": "you go oh you're gonna start you know where I was in a party recently scroll ahead great skin",
+    "uid": "29e2eaebfd9defe8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2818.86,
+    "end": 2826.62
+  },
+  {
+    "text": "so your skin's great what are you use far knew it at a whole recipe of serums you know I'm not a",
+    "uid": "f0e83b941c78a834",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2826.62,
+    "end": 2832.54
+  },
+  {
+    "text": "big serums girl but I appreciated that she had really done her research so asking people about what they",
+    "uid": "35f69996ac9b7a47",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2832.62,
+    "end": 2837.82
+  },
+  {
+    "text": "love is a great way to to get to know someone I was in I think I was like a sophomore in college or",
+    "uid": "dd8d8fc4cc68541f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2837.82,
+    "end": 2843.66
+  },
+  {
+    "text": "something and I read how to in friends and in full as people because someone says this is this is the",
+    "uid": "dbf95fdde6612532",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2843.66,
+    "end": 2849.02
+  },
+  {
+    "text": "the greatest book is that hundreds of thousands of millions of copies of the okay I'll read it I've never read it",
+    "uid": "09d8863af2d5058c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2849.02,
+    "end": 2853.5
+  },
+  {
+    "text": "one yeah I've got a tattered version of it somewhere I read it the one time most of it was like okay",
+    "uid": "9d09780a99b6e63b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2853.9,
+    "end": 2859.26
+  },
+  {
+    "text": "but but one thing was something like ask questions or something like that and I was like at lunch",
+    "uid": "d14179f327007537",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2859.34,
+    "end": 2865.5
+  },
+  {
+    "text": "with a friend in the cafeteria and I was like I'm going to ask a lot of questions and at the end like",
+    "uid": "705fa8c5132c5656",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2865.5,
+    "end": 2871.42
+  },
+  {
+    "text": "as we got up to to leave he was like what a great conversation I was like wow okay so yeah that's why",
+    "uid": "6d81aa8cb6ca11fa",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2871.42,
+    "end": 2880.06
+  },
+  {
+    "text": "so many books have been sold you know it's so funny because it's like for me a bit of it was born out of like",
+    "uid": "c06d08df4ef2e8ca",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2880.06,
+    "end": 2886.22
+  },
+  {
+    "text": "I am genuinely curious about people's backstories and I think maybe that comes a little bit from acting like",
+    "uid": "ccba3c79b9fd7e07",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2886.62,
+    "end": 2896.14
+  },
+  {
+    "text": "you know taking acting classes it's like you know I had to play this role where I was attacked on campus and",
+    "uid": "2d861955a4424590",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2896.14,
+    "end": 2903.34
+  },
+  {
+    "text": "you know my acting teacher was like right a backstory of everything that happened up to the attack so when I had you know",
+    "uid": "3042b8c31f0a318f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2904.14,
+    "end": 2909.18
+  },
+  {
+    "text": "when I was like okay I was like dang it turns out I think I like writing more than acting it's like the",
+    "uid": "38294ae72bcef3c3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2909.18,
+    "end": 2913.82
+  },
+  {
+    "text": "backstory part of it was like the fiction part was really interesting for me but when you're an actor or whatever",
+    "uid": "682fe184df652b0e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2913.82,
+    "end": 2919.02
+  },
+  {
+    "text": "you've got five lines but you're like where is this character come and so for me I think the backstores",
+    "uid": "7b9366e369715589",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2919.82,
+    "end": 2924.22
+  },
+  {
+    "text": "people's backstories took on a lot of importance to me and even scientists or people I meet and I am genuinely",
+    "uid": "ead8cb8c24cd98d8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2924.22,
+    "end": 2931.34
+  },
+  {
+    "text": "interested and it's funny because I would go in a lot of dates and I would know everything about the",
+    "uid": "6e86bebf38a12fa8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2931.34,
+    "end": 2938.7
+  },
+  {
+    "text": "person and then they'd leave and they'd be like oh where are you from and I'd be like say just go anyway",
+    "uid": "8c0cc75b244d786d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2938.7,
+    "end": 2943.42
+  },
+  {
+    "text": "bye I mean sometimes it backfires and I should say also that sad story about me volunteering and stuff you",
+    "uid": "95dfd9546f115e4b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2943.42,
+    "end": 2952.06
+  },
+  {
+    "text": "you've done your research on me so you probably know but luckily the good I should have put the button",
+    "uid": "8707d2e38c046cc9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2952.06,
+    "end": 2957.02
+  },
+  {
+    "text": "on this that my dad ended up living another ten years and I ended up marrying the guy who I was so",
+    "uid": "b7a0f882ee480aa6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2957.02,
+    "end": 2961.66
+  },
+  {
+    "text": "heartbroken over we broke up because of our age difference and then we aged and then it was fine so it was great",
+    "uid": "901b001ddda0d8f6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2961.66,
+    "end": 2965.98
+  },
+  {
+    "text": "so all as well that ends well in the middle of it came all the jays which has changed my life in so many",
+    "uid": "6f4ba11936df2a4f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2967.02,
+    "end": 2971.5
+  },
+  {
+    "text": "great ways so it all kind of wrapped itself up but I have gone out to lunch and I have had a friend of my",
+    "uid": "4ac7ad753aa42ca0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2971.5,
+    "end": 2976.86
+  },
+  {
+    "text": "and say you asked me too many questions and I was like I'm sorry I'm genuinely interested but she was like",
+    "uid": "dd840d3a10a116ce",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2976.86,
+    "end": 2984.7
+  },
+  {
+    "text": "just let the conversation flow more you don't have to ask someone you don't have to interview me and I was like well",
+    "uid": "52da6931bc0d687f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2984.7,
+    "end": 2989.66
+  },
+  {
+    "text": "I'm sorry that's part of why I'm an interviewer as I ask a lot of questions but I do feel like giving",
+    "uid": "6cadeba51002e41c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2989.66,
+    "end": 2994.94
+  },
+  {
+    "text": "people a place where they can shine is is a good service because a lot of people don't get that in their life",
+    "uid": "0b7e3022832328d4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 2994.94,
+    "end": 3000.22
+  },
+  {
+    "text": "they don't get a chance to explain why they like something or why they hate something it was reminding me",
+    "uid": "236e3e52b3a6e76c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3000.22,
+    "end": 3004.46
+  },
+  {
+    "text": "I don't know when it came up just the other day I was remembering in college I didn't volunteer to",
+    "uid": "e875ec5182e86055",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3004.54,
+    "end": 3008.94
+  },
+  {
+    "text": "pay me one of the things that I didn't pay me but I worked at a summer camp with like five year olds and",
+    "uid": "0e06679d7739f2b9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3008.94,
+    "end": 3014.06
+  },
+  {
+    "text": "I found that I really loved talking to them about their favorite TV shows and their favorite video games",
+    "uid": "8ff21fa05ef45348",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3015.34,
+    "end": 3020.62
+  },
+  {
+    "text": "because I could tell like your parents are so annoyed by this like they're not letting you do this but like",
+    "uid": "d8be383fa1b5935a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3020.62,
+    "end": 3026.78
+  },
+  {
+    "text": "this grown-up basically a grown-up is like interested in this thing like that's your whole world like your world is",
+    "uid": "ff55d804255d530d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3026.78,
+    "end": 3034.14
+  },
+  {
+    "text": "eating breakfast and playing this game like and now one wants to talk to you about it like yeah I",
+    "uid": "af6a200f3e1475d3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3034.22,
+    "end": 3038.94
+  },
+  {
+    "text": "want to hear about it like why is it so cool and it it seems like the same thing it's just like this basic",
+    "uid": "3b2af454270ed40e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3038.94,
+    "end": 3044.06
+  },
+  {
+    "text": "human thing of like I have this thing that I can't stop thinking about I Jen I'm like I'm not going to volunteer",
+    "uid": "a18ea2c6fc275c20",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3044.06,
+    "end": 3049.26
+  },
+  {
+    "text": "it to too many people because they don't seem to be interested but that first time someone goes like yeah so what",
+    "uid": "886cf91de5c168ca",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3049.26,
+    "end": 3055.18
+  },
+  {
+    "text": "is this about and like it's a genuine interest it's not just small talky like yeah what you've been up to",
+    "uid": "3fc655e807f15956",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3055.18,
+    "end": 3059.82
+  },
+  {
+    "text": "yeah yeah it's like yeah there's there's nothing like it you go through this and I feel like in terms of the",
+    "uid": "d0e34bbee5213a5c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3059.82,
+    "end": 3066.86
+  },
+  {
+    "text": "influencer market right if someone goes on TikTok and they're like these leggings are the best or whatever",
+    "uid": "d2ceb46b0a6ecc3d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3066.86,
+    "end": 3073.26
+  },
+  {
+    "text": "people will see that goes maybe I should try those leggings and I feel like we know that influence matters we",
+    "uid": "d7ba26bbe435b4f4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3074.14,
+    "end": 3081.18
+  },
+  {
+    "text": "know that marketing matters we know that people we respect who care about something we'll start to care about",
+    "uid": "f80a31d1bb4b75fc",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3081.18,
+    "end": 3087.34
+  },
+  {
+    "text": "that we know that sure there's a social several social sciences all based on this and so if I care",
+    "uid": "274348fea0399576",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3087.34,
+    "end": 3093.82
+  },
+  {
+    "text": "about something that someone else cares about my audience is going to care about it and so",
+    "uid": "d09270a3f87dad9c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3093.82,
+    "end": 3099.34
+  },
+  {
+    "text": "there really is this sort of like this kind of electric contagious curiosity of influence that I do",
+    "uid": "4066806db727fa63",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3100.54,
+    "end": 3109.58
+  },
+  {
+    "text": "think that you can care about anything if given enough context and if given some kind of emotional",
+    "uid": "dda674dddd40636e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3109.58,
+    "end": 3116.78
+  },
+  {
+    "text": "connection to why it matters and why it's thrilling and so I think that part of you know",
+    "uid": "a9ca8cba23f05117",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3116.78,
+    "end": 3122.7
+  },
+  {
+    "text": "what allegies is selling to people isn't just facts but it's the permission to be stoked about something",
+    "uid": "7b67608ecd93e9a3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3124.22,
+    "end": 3133.34
+  },
+  {
+    "text": "or it's the permission to respect that people are stoked about different things or the look at something",
+    "uid": "1d2267f8b984a308",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3133.34,
+    "end": 3139.98
+  },
+  {
+    "text": "through anologist's eyes you know if your grandpa tells you everything about a model ship he's",
+    "uid": "b8fc531558976fc0",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3140.06,
+    "end": 3146.46
+  },
+  {
+    "text": "been working on you're going to care about it works it matters to him and so I think people develop a",
+    "uid": "7339e75f345420ab",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3146.46,
+    "end": 3153.18
+  },
+  {
+    "text": "soft spot for millipedes because someone who's studied them because you got fascinated by them",
+    "uid": "3826521fb70da504",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3153.18,
+    "end": 3158.7
+  },
+  {
+    "text": "as a kid or someone who you know has always loved the ocean and always felt out of place on land and so",
+    "uid": "9380cd53c77ed618",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3158.7,
+    "end": 3166.62
+  },
+  {
+    "text": "marine biology is takes on a different kind of flavor and so I think that's part of like part of",
+    "uid": "15331dc7c8f03843",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3166.78,
+    "end": 3172.46
+  },
+  {
+    "text": "that human connection and I think finding those human stories is such a good vehicle for",
+    "uid": "ea561fee3df8ccf7",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3172.46,
+    "end": 3178.14
+  },
+  {
+    "text": "making the facts matter to people and making the facts stick and making them look around and say well I just",
+    "uid": "ebdd1d8579103abd",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3179.26,
+    "end": 3185.18
+  },
+  {
+    "text": "listen to an hour and 15 minutes on millipedes like I wonder what's going on with that's love you know",
+    "uid": "8d8d1553360ff57d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3185.18,
+    "end": 3190.38
+  },
+  {
+    "text": "what do you mean I wonder what's I wonder how matches work you know things start to take on an",
+    "uid": "853e6f78a59d5f68",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3190.38,
+    "end": 3194.7
+  },
+  {
+    "text": "importance to them and if you can live your life with a lot of stuff mattering I think you've lived it",
+    "uid": "2258868d27cf5a28",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3194.7,
+    "end": 3199.5
+  },
+  {
+    "text": "more richly you know I think that we we're going to be alive for maybe I think the average lifespan for an",
+    "uid": "aaab9e722493ce3b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3199.5,
+    "end": 3207.82
+  },
+  {
+    "text": "American male is 77.4 years or something and that's a weird fact to know and you might be like okay those are numbers",
+    "uid": "f76de2fdfc2eb58e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3207.82,
+    "end": 3216.06
+  },
+  {
+    "text": "but the reason I know that is because my I'm sorry I'm my my dad lived just over that and my dad my",
+    "uid": "120e0b50a55d6c9c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3216.14,
+    "end": 3226.86
+  },
+  {
+    "text": "dad lived with cancer for nine and a half years and he died one year ago and while he was in hospice",
+    "uid": "62c1c030026f19b2",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3226.86,
+    "end": 3236.46
+  },
+  {
+    "text": "I remember wondering how long the average American male lives and the time would be up for my dad",
+    "uid": "36724bc5b1116692",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3236.46,
+    "end": 3245.66
+  },
+  {
+    "text": "like June 30th that would be the average American lifespan according to his birthday and he lived until July 8",
+    "uid": "942d149a81b99e17",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3245.66,
+    "end": 3252.46
+  },
+  {
+    "text": "and so when I think about my dad's death it was so terrible to watch him go through that but it was a comfort to",
+    "uid": "54451e40f50c14ce",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3253.82,
+    "end": 3260.06
+  },
+  {
+    "text": "know he lived a little bit longer than average and with cancer and it's like that's one of those numbers",
+    "uid": "90af42413b75b398",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3260.06,
+    "end": 3266.06
+  },
+  {
+    "text": "where the average lifespan of someone like a 77.4 doesn't mean anything but if you can",
+    "uid": "0eacdce0f9c43906",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3266.06,
+    "end": 3271.98
+  },
+  {
+    "text": "think about what it means in one person's life it will matter more to you know and I think that for",
+    "uid": "fb3abd7aade0646d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3271.98,
+    "end": 3279.9
+  },
+  {
+    "text": "every fact and for every figure there's a relevance and there's a context and there's something that makes it matter",
+    "uid": "2443112cc87a4d54",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3279.9,
+    "end": 3287.1
+  },
+  {
+    "text": "and I think what I try to do with science is to make those things matter to make a fact or a figure have",
+    "uid": "3a72f824e7454c3f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3287.1,
+    "end": 3295.34
+  },
+  {
+    "text": "relevance you know and if you can live on this earth with things mattering to you and you can soak up as much",
+    "uid": "88eb83c0772ce6c3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3295.34,
+    "end": 3303.9
+  },
+  {
+    "text": "about the stuff around you and the people around you and instead of being like how's it going lately and they're like",
+    "uid": "654ae9e59932321a",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3303.9,
+    "end": 3308.7
+  },
+  {
+    "text": "on the roofing business pretty busy in the rainy season you're like that's cool but if you're like",
+    "uid": "4e71c33fc2dd6209",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3308.7,
+    "end": 3312.94
+  },
+  {
+    "text": "do you ever almost fall off a roof and they're like oh this one time do you know what you mean and you have",
+    "uid": "da75213e093793ac",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3312.94,
+    "end": 3316.86
+  },
+  {
+    "text": "more of a connection with them or you say how did you meet your wife and you know more about",
+    "uid": "63cf78a6d6fda562",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3316.86,
+    "end": 3320.62
+  },
+  {
+    "text": "them or their insecurities like you've had a richer life like that lifespan that you've gotten to live on",
+    "uid": "7966992580d3a760",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3321.26,
+    "end": 3325.66
+  },
+  {
+    "text": "earth is packed with more stuff and I think that's a better way to live and I think that's kind of a",
+    "uid": "7c65840f0421f79b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3325.66,
+    "end": 3331.82
+  },
+  {
+    "text": "lot what drives me to you know is trying to get other people to get them squeeze the most out of their life by",
+    "uid": "b3a6e40502ef9601",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3331.82,
+    "end": 3338.94
+  },
+  {
+    "text": "caring about more and about taking curiosity and applying it to a souffle they're making and a pencil",
+    "uid": "695edb71f1918cbb",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3338.94,
+    "end": 3347.02
+  },
+  {
+    "text": "they're sharpening and how long their dad lived or whatever there's all of that makes our lives richer",
+    "uid": "91ce6d950f60aa99",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3347.1,
+    "end": 3354.06
+  },
+  {
+    "text": "and the tragedy of the end of a life the blow the impact is softened if you really feel like you lived",
+    "uid": "12ebf894fec97154",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3354.06,
+    "end": 3361.42
+  },
+  {
+    "text": "originally and what we're fed is a lot of fear mongering and it's a lot of political stuff and it's",
+    "uid": "43756e6ad19c80f8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3361.42,
+    "end": 3368.7
+  },
+  {
+    "text": "a lot of this person against this person this person trying to take away something you want all of this",
+    "uid": "c57f29a16debb4cf",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3368.7,
+    "end": 3373.1
+  },
+  {
+    "text": "peer mongering sells advertising like coolinically that's what's going on and if we can turn instead",
+    "uid": "99c9bcdbff276048",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3373.1,
+    "end": 3380.7
+  },
+  {
+    "text": "to living our lives paying attention to better stuff if we can live our lives more richly then we get a",
+    "uid": "129189d1e919047c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3380.7,
+    "end": 3388.06
+  },
+  {
+    "text": "better life out of it and so I think that on the hard days when I'm really tired and I'm like this",
+    "uid": "82c80f33e790e310",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3388.06,
+    "end": 3394.06
+  },
+  {
+    "text": "interview sound quality is really messing me up you know like whatever like intrinsically like the",
+    "uid": "866a770643aca8e6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3394.06,
+    "end": 3401.5
+  },
+  {
+    "text": "things that I'm trying to leave behind matter so much to me that it it makes my job a joy you know",
+    "uid": "79eb5148d70989ed",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3401.5,
+    "end": 3407.34
+  },
+  {
+    "text": "and it it makes psychom so so much more rewarding than I could ever have on a travel show about donuts",
+    "uid": "8e948b69bd0cd70b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3407.98,
+    "end": 3417.1
+  },
+  {
+    "text": "you know sorry donuts well that that is as beautiful the way to wrap up as I ever could have imagined so",
+    "uid": "7ac7cf3d876b60b9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3417.1,
+    "end": 3424.3
+  },
+  {
+    "text": "I'll just say kudos on on a great show and thanks for taking the time to talk about what you do",
+    "uid": "583895d31a9aa9d5",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3424.3,
+    "end": 3428.62
+  },
+  {
+    "text": "no it's an honor thanks for asking me about stuff I like to do I mean as you can tell I'm very",
+    "uid": "9c7527a90c755b78",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3428.94,
+    "end": 3433.18
+  },
+  {
+    "text": "enthusiastic so thank you for turning the mic in the other direction and yes if anyone ever wants to",
+    "uid": "0ac03a15410d4289",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3433.18,
+    "end": 3439.02
+  },
+  {
+    "text": "make something just make your own make your own stuff make your own stuff make your own stuff even if someone is",
+    "uid": "a3ee32e3c1b3ab81",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3439.02,
+    "end": 3443.98
+  },
+  {
+    "text": "holding an emi and they are wine drunk they might not see the potential of what you're making so make",
+    "uid": "996c88231160275d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3443.98,
+    "end": 3449.82
+  },
+  {
+    "text": "make your own stuff whether it's a TikTok or an Instagram or a YouTube series or a podcast or you",
+    "uid": "089f8de87a2c488b",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3449.82,
+    "end": 3455.66
+  },
+  {
+    "text": "make a zine that you distribute locally you know at a photocopies like make your own stuff and",
+    "uid": "8c4e15431640eb19",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3455.66,
+    "end": 3461.74
+  },
+  {
+    "text": "make what you want to make and it'll be so rewarding all righty thank you so much to Ali Ward for taking the",
+    "uid": "20843e3302823972",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3462.46,
+    "end": 3478.22
+  },
+  {
+    "text": "time to talk that was super fun and there's a lot of great insights in there about the point of science",
+    "uid": "699b802d08000188",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3478.22,
+    "end": 3483.18
+  },
+  {
+    "text": "communication and a whole bunch of other stuff you can learn more about Ali at alieward.com that's a",
+    "uid": "51249685230db6c4",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3483.18,
+    "end": 3488.86
+  },
+  {
+    "text": "l-i-e-e-allie go subscribe to allegies already and by the way I also love that they occasionally",
+    "uid": "cc985c8fb2ffd620",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3488.86,
+    "end": 3494.46
+  },
+  {
+    "text": "release family friendly readlets of episodes that are safe for small ears those are called small agies we listen to",
+    "uid": "dd6f94dafdb05870",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3494.46,
+    "end": 3501.18
+  },
+  {
+    "text": "one about cats on a recent road trip and my two-year-old didn't really know what was going on but by wife and",
+    "uid": "a6ce2bf8afd01540",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3501.18,
+    "end": 3506.38
+  },
+  {
+    "text": "I got to enjoy a solid podcast at full volume with a toddler in the back seat so still a win also",
+    "uid": "83bdd6494a474566",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3506.38,
+    "end": 3513.74
+  },
+  {
+    "text": "about 10 minutes after we ended the call I get an email from Ali subject line immediate fact check",
+    "uid": "6c70b294c87b1b2c",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3514.14,
+    "end": 3519.42
+  },
+  {
+    "text": "turns out that as of 2021 the average life expectancy in the US is 77.8 years",
+    "uid": "7e3895dfbdb5de78",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3519.98,
+    "end": 3525.82
+  },
+  {
+    "text": "Ali writes life expectancy has been all over the place since covid and then vaccines but my dad made it",
+    "uid": "aa8e91ba0e129be1",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3526.38,
+    "end": 3531.74
+  },
+  {
+    "text": "19 days past 77.8 which I'd say was a win totally agree this series on science communication is",
+    "uid": "72ae4329350c6de8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3531.74,
+    "end": 3540.54
+  },
+  {
+    "text": "a special presentation of my podcast opinion science a show about the science of our opinions where",
+    "uid": "a23dd098f50901b8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3540.54,
+    "end": 3545.74
+  },
+  {
+    "text": "they come from and how they change you can subscribe any old place where they have podcasts your apples",
+    "uid": "85f64b98959c7893",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3545.74,
+    "end": 3551.02
+  },
+  {
+    "text": "your spotifies your youtube's and be sure to check out opinion science podcast.com for all the episodes and whatnot",
+    "uid": "bd9e2139d8720070",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3551.02,
+    "end": 3557.98
+  },
+  {
+    "text": "and again whoever you are I hope you're enjoying the show and I'm hoping this summer series will reach",
+    "uid": "70874877f22f91f8",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3557.98,
+    "end": 3562.54
+  },
+  {
+    "text": "folks with a keen interest in science communication so please tell people about it post online email",
+    "uid": "44f66912197b9ded",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3562.54,
+    "end": 3568.14
+  },
+  {
+    "text": "a friend I don't know tell your partners co-workers at that party you have to go to anyone who would be",
+    "uid": "c7854a1eeafddf23",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3568.14,
+    "end": 3573.5
+  },
+  {
+    "text": "interested in boosting their own communication skills especially scientists who would like to reach beyond",
+    "uid": "bfb8dfb04e5b257f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3573.5,
+    "end": 3578.78
+  },
+  {
+    "text": "academia and I appreciate the shout out on twitter the other day from someone listening to this series on the",
+    "uid": "b68bd8c73ffd394e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3578.78,
+    "end": 3583.82
+  },
+  {
+    "text": "plane ride to a conference let's do more of that all right thank you so much for listening we've got just",
+    "uid": "2d43cc98a012daba",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3583.82,
+    "end": 3589.26
+  },
+  {
+    "text": "one more episode to go this summer and it's one I've been super excited to share the questions are way",
+    "uid": "252d98285927b48d",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3589.26,
+    "end": 3596.62
+  },
+  {
+    "text": "bigger than the answers that we're ultimately going to have such partial and peace meal answers to",
+    "uid": "92aa223e2fa2d263",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3596.62,
+    "end": 3602.78
+  },
+  {
+    "text": "anything any scientific question any any big philosophical question any more like moral question any",
+    "uid": "5c2a75b09f3b2ad9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3602.78,
+    "end": 3610.54
+  },
+  {
+    "text": "any question that we have about about how to live or about the world that we live in the thing I want to do",
+    "uid": "38b945a587066d0e",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3611.1,
+    "end": 3617.02
+  },
+  {
+    "text": "at the beginning of all the stories that I do is to sort of like infect someone with a question maybe a",
+    "uid": "f93b47366c537ea6",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3617.02,
+    "end": 3623.34
+  },
+  {
+    "text": "question that they already had maybe a question they had when they were young and then we're kind of like",
+    "uid": "0d532bd9de7df2ce",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3623.34,
+    "end": 3627.66
+  },
+  {
+    "text": "sort of forgot about or maybe as a question they deep down still have inside or maybe as a question they",
+    "uid": "22f8a0a850eb8a01",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3627.66,
+    "end": 3632.46
+  },
+  {
+    "text": "never even thought of and now all of a sudden they won't stop being able to think about making that question",
+    "uid": "88d1aabe995908b3",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3632.46,
+    "end": 3637.66
+  },
+  {
+    "text": "matter and then at the end we're going to get something hopefully some offering that feels like it's",
+    "uid": "07b2fbc7485c6296",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3637.66,
+    "end": 3642.86
+  },
+  {
+    "text": "some kind of closure on the you know but but at the same time to kind of say like this is a provisional answer",
+    "uid": "aa9efacfaf49b0a9",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3642.86,
+    "end": 3649.1
+  },
+  {
+    "text": "like this is the best we can do which is which is nowhere near as as important or powerful as as the",
+    "uid": "8205a18c4069e238",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3649.1,
+    "end": 3655.66
+  },
+  {
+    "text": "question itself my name is Laptive Nasser I am a journalist and more specifically at the moment I am",
+    "uid": "0f719de30216fdbf",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3655.66,
+    "end": 3663.1
+  },
+  {
+    "text": "I'm the co-host of the New York Public Radio Show Radio Lab",
+    "uid": "bf9d9b9424fe1f0f",
+    "source": "Andy_Luttrell - Alie_Ward_on_Making_Ologies_SciComm_Summer_Podcast",
+    "start": 3664.14,
+    "end": 3670.14
+  }
+]
