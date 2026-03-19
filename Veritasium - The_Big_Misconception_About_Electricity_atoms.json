@@ -1,0 +1,968 @@
+[
+  {
+    "text": "This video was sponsored by Caseta by Lutron.",
+    "uid": "bcad8c13483704d1",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 0.0,
+    "end": 2.8
+  },
+  {
+    "text": "Imagine you have a giant circuit consisting of a battery, a switch, a light bulb,",
+    "uid": "410abe268e1bf318",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 4.0,
+    "end": 9.2
+  },
+  {
+    "text": "and two wires which are each 300,000 kilometers long. That is the distance light travels in one second.",
+    "uid": "3567de3b0f204997",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 9.2,
+    "end": 16.8
+  },
+  {
+    "text": "So they would reach out halfway to the moon and then come back to be connected to the light bulb,",
+    "uid": "9e0b2b7265145019",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 16.8,
+    "end": 22.0
+  },
+  {
+    "text": "which is one meter away. Now the question is, after I close this switch, how long would it take",
+    "uid": "e6cf84d3379b5f5b",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 22.0,
+    "end": 28.48
+  },
+  {
+    "text": "for the bulb to light up? Is it half a second? One second, two seconds, one over C seconds,",
+    "uid": "724c608c6b6fbcd6",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 28.48,
+    "end": 35.6
+  },
+  {
+    "text": "or none of the above. Now you have to make some simplifying assumptions about this circuit.",
+    "uid": "058341ce8ee052b4",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 35.6,
+    "end": 39.84
+  },
+  {
+    "text": "Like the wires have to have no resistance otherwise this wouldn't work and the light bulb has to turn",
+    "uid": "d429f2f0332ec45d",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 39.84,
+    "end": 45.44
+  },
+  {
+    "text": "on immediately when current passes through it. But I want you to commit to an answer and put it down",
+    "uid": "1d847285ead8e677",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 45.44,
+    "end": 51.84
+  },
+  {
+    "text": "in the comments so you can't say, oh yeah, I knew that was the answer when I tell you the answer later on.",
+    "uid": "166e16b9c0e89aeb",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 51.84,
+    "end": 57.52
+  },
+  {
+    "text": "This question actually relates to how electrical energy gets from a power plant to your home.",
+    "uid": "a4bb300a8c7ee929",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 59.2,
+    "end": 64.96
+  },
+  {
+    "text": "Unlike a battery, the electricity in the grid comes in the form of alternating current or AC,",
+    "uid": "a459066aafac708d",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 65.68,
+    "end": 71.76
+  },
+  {
+    "text": "which means electrons in the power lines are just wiggling back and forth. They never actually go",
+    "uid": "a37262804a2ebc5e",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 71.76,
+    "end": 77.2
+  },
+  {
+    "text": "anywhere. So if the charges don't come from the power plant to your home, how does the electrical energy",
+    "uid": "4919652d1465fa55",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 77.2,
+    "end": 84.64
+  },
+  {
+    "text": "actually reach you? When I used to teach this subject, I would say that power lines are like this",
+    "uid": "a37195a87065ee90",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 84.64,
+    "end": 91.44
+  },
+  {
+    "text": "flexible plastic tubing and the electrons inside are like this chain. So what a power station does is it",
+    "uid": "11f3c5f14dacd135",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 91.44,
+    "end": 99.04
+  },
+  {
+    "text": "pushes and pulls the electrons back and forth 60 times a second. Now at your house, you can plug in a",
+    "uid": "a4ca8ef7de9a9b80",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 99.04,
+    "end": 106.64
+  },
+  {
+    "text": "device like a toaster, which essentially means allowing the electrons to run through it. So in the",
+    "uid": "4b93dd2bb8f7e033",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 106.64,
+    "end": 112.48
+  },
+  {
+    "text": "power station pushes and pulls the electrons, well they encounter resistance in the toaster",
+    "uid": "f23e5575f4f8d7fe",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 112.48,
+    "end": 118.96
+  },
+  {
+    "text": "elements and they dissipate their energy as heat and so you can toast your bread. Now this is a great story.",
+    "uid": "64f7c20e7eec826a",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 118.96,
+    "end": 126.48
+  },
+  {
+    "text": "I think it's easy to visualize and I think my students understood it. The only problem is it's wrong.",
+    "uid": "d011132542ae70b2",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 126.48,
+    "end": 132.32
+  },
+  {
+    "text": "For one thing, there is no continuous conducting wire that runs all the way from a power station to your house.",
+    "uid": "09663f7473ba19bc",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 133.44,
+    "end": 139.68
+  },
+  {
+    "text": "No, there are physical gaps. There are breaks in the line, like in transformers, where one coil of",
+    "uid": "3d2f4dc2f86ddb28",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 140.32,
+    "end": 146.48
+  },
+  {
+    "text": "wires wrapped on one side, a different coil of wire is wrapped on the other side. So electrons cannot possibly",
+    "uid": "951e826656b7be99",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 146.48,
+    "end": 152.24
+  },
+  {
+    "text": "flow from one to the other. Plus, I mean, if it's the electrons that are carrying the energy from the",
+    "uid": "5639d60448f4faec",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 152.24,
+    "end": 158.8
+  },
+  {
+    "text": "power station to your device, then when those same electrons flow back to the power station,",
+    "uid": "ed2bea65476f2ffa",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 158.8,
+    "end": 164.56
+  },
+  {
+    "text": "why are they not also carrying energy back from your house to the power station? I mean, if the flow",
+    "uid": "ef18a73eceac7cd5",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 164.56,
+    "end": 171.52
+  },
+  {
+    "text": "of current is two ways, then why does energy only flow in one direction? These are the lies you were taught",
+    "uid": "05df4e201f70f026",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 171.52,
+    "end": 180.32
+  },
+  {
+    "text": "about electricity. That electrons themselves have potential energy that they are pushed or pulled",
+    "uid": "ad32e2beb00932f1",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 180.32,
+    "end": 186.48
+  },
+  {
+    "text": "through a continuous conducting loop and that they dissipate their energy in the device. My claim in this",
+    "uid": "b87db3a82f6107ea",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 186.48,
+    "end": 193.68
+  },
+  {
+    "text": "video is that all of that is false. So how does it actually work? In the 1860s and 70s, there was a",
+    "uid": "0207ad956aad06cf",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 193.68,
+    "end": 204.96
+  },
+  {
+    "text": "huge breakthrough in our understanding of the universe. When Scottish physicist James Clerk Maxwell",
+    "uid": "24c7d7063bb35008",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 204.96,
+    "end": 210.72
+  },
+  {
+    "text": "realized that light is made up of oscillating electric and magnetic fields. The fields are oscillating",
+    "uid": "5d32e6146633f88e",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 210.72,
+    "end": 218.16
+  },
+  {
+    "text": "perpendicular to each other and they are in phase, meaning when one is at its maximum, so is the other way.",
+    "uid": "910ec6a18b540cd7",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 218.16,
+    "end": 224.56
+  },
+  {
+    "text": "Now he works out the equations that govern the behavior of electric and magnetic fields and hence",
+    "uid": "c985ea92b559a7a3",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 225.52,
+    "end": 231.12
+  },
+  {
+    "text": "these waves. Those are now called Maxwell's equations. But in 1883, one of Maxwell's former students,",
+    "uid": "cf105f32a1b41247",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 231.12,
+    "end": 238.72
+  },
+  {
+    "text": "John Henry Pointing, is thinking about conservation of energy. Now the energy is conserved locally",
+    "uid": "d8883917232ec450",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 238.72,
+    "end": 245.2
+  },
+  {
+    "text": "in every tiny bit of space. Well, then you should be able to trace the path that energy flows from",
+    "uid": "2561ba8383d88889",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 245.2,
+    "end": 251.52
+  },
+  {
+    "text": "one place to another. So think about the energy that comes to us from the sun. I mean, during those",
+    "uid": "0a301688a7161137",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 251.52,
+    "end": 257.52
+  },
+  {
+    "text": "eight minutes, when the light is traveling, the energy is stored and being transmitted in the electric",
+    "uid": "049c78f116de38c9",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 257.52,
+    "end": 264.24
+  },
+  {
+    "text": "and magnetic fields of the light. Now, Pointing works out an equation to describe energy flux. That is",
+    "uid": "a3d5583c8e42b5bf",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 264.24,
+    "end": 272.8
+  },
+  {
+    "text": "how much electromagnetic energy is passing through an area per second. This is known as the",
+    "uid": "3a27063a1caa0f6b",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 272.8,
+    "end": 278.8
+  },
+  {
+    "text": "Pointing Vector and it's given the symbol S. And the formula is really pretty simple. It's just",
+    "uid": "adde76e5c0fda9c0",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 278.8,
+    "end": 284.24
+  },
+  {
+    "text": "a constant one over mu naught, which is the permeability of free space, times E cross B. Now E cross B is the",
+    "uid": "15c1bb70676f7db8",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 284.24,
+    "end": 291.44
+  },
+  {
+    "text": "cross product of the electric and magnetic fields. Now the cross product is just a particular way of",
+    "uid": "cadf8839896da8d2",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 291.44,
+    "end": 297.2
+  },
+  {
+    "text": "multiplying two vectors together, where you multiply their perpendicular magnitudes and to find the",
+    "uid": "d0b13700591f35ee",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 297.2,
+    "end": 303.28
+  },
+  {
+    "text": "direction you put your fingers in the direction of the first vector, which in this case is the",
+    "uid": "fb68a13f214ea9d4",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 303.28,
+    "end": 307.36
+  },
+  {
+    "text": "electric field, and curl them in the direction of the second vector, the magnetic field, then your thumb",
+    "uid": "72270597b25fa34c",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 307.36,
+    "end": 313.2
+  },
+  {
+    "text": "points in the direction of the resulting vector, the energy flux. So what this shows us about light",
+    "uid": "b45a5679120c70ae",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 313.2,
+    "end": 319.28
+  },
+  {
+    "text": "is that the energy is flowing perpendicular to both the electric and the magnetic fields. And it's in",
+    "uid": "5c0167ce2da955bf",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 319.28,
+    "end": 326.4
+  },
+  {
+    "text": "the same direction as the light is traveling. So this makes a lot of sense. Light carries energy from",
+    "uid": "3068c148877aec27",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 326.4,
+    "end": 332.48
+  },
+  {
+    "text": "its source out to its destination. But the kicker is this. Pointing's equation doesn't just work",
+    "uid": "26de95bfb8557035",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 332.48,
+    "end": 342.08
+  },
+  {
+    "text": "for light. It works anytime. There are electric and magnetic fields coinciding.",
+    "uid": "b344eb627f2b7ec0",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 342.08,
+    "end": 348.4
+  },
+  {
+    "text": "Anytime you have electric and magnetic fields together, there is a flow of energy and you can",
+    "uid": "67cdef0b72a80e12",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 349.12,
+    "end": 353.84
+  },
+  {
+    "text": "calculate it using Pointing's Vector. To illustrate this, let's consider a simple circuit with a",
+    "uid": "fef5955f4cdf71af",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 353.84,
+    "end": 362.16
+  },
+  {
+    "text": "battery and a light bulb. The battery by itself has an electric field, but since no charges are moving,",
+    "uid": "1cee82819a7ad765",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 362.16,
+    "end": 369.12
+  },
+  {
+    "text": "there is no magnetic field. So the battery doesn't lose energy. When the battery is connected into the",
+    "uid": "d464cc834da59e87",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 369.12,
+    "end": 375.52
+  },
+  {
+    "text": "circuit, its electric field extends through the circuit at the speed of light. This electric field pushes",
+    "uid": "028bce24fe8a6bcd",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 375.52,
+    "end": 382.56
+  },
+  {
+    "text": "electrons around. So they accumulate on some of the surfaces of the conductors, making them negatively",
+    "uid": "fe832fe73275fab2",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 382.56,
+    "end": 388.08
+  },
+  {
+    "text": "charged and are depleted elsewhere, leaving their surfaces positively charged. These surface charges",
+    "uid": "513aad7dd2295bb2",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 388.08,
+    "end": 396.08
+  },
+  {
+    "text": "create a small electric field inside the wires, causing electrons to drift preferentially in one direction.",
+    "uid": "aca820d6f2a1a9e0",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 396.08,
+    "end": 403.2
+  },
+  {
+    "text": "Note that this drift velocity is extremely slow around a tenth of a millimeter per second. But this is current.",
+    "uid": "73b0a77a4f7086b4",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 403.76,
+    "end": 411.52
+  },
+  {
+    "text": "Well, conventional current is defined to flow opposite the motion of electrons, but this is what's",
+    "uid": "df3ce623a4e418b1",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 411.52,
+    "end": 416.48
+  },
+  {
+    "text": "making it happen. The charge on the surfaces of the conductors also creates an electric field",
+    "uid": "8e062646d021f24c",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 416.56,
+    "end": 423.36
+  },
+  {
+    "text": "outside the wires. And the current inside the wires creates a magnetic field outside the wires.",
+    "uid": "2c0673caf7e9ff55",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 423.36,
+    "end": 429.84
+  },
+  {
+    "text": "So now there is a combination of electric and magnetic fields in the space around this circuit. So",
+    "uid": "d763edfb04c29587",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 430.4,
+    "end": 437.44
+  },
+  {
+    "text": "according to Pointing's theory, energy should be flowing. And we can work out the direction of this",
+    "uid": "e2959c52c84b28b3",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 437.44,
+    "end": 443.36
+  },
+  {
+    "text": "energy flow using the right hand rule. Around the battery, for example, the electric field is",
+    "uid": "7aac90cc5a44b8ae",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 443.36,
+    "end": 449.12
+  },
+  {
+    "text": "down and the magnetic field is into the screen. So you find the energy flux is to the right away from the",
+    "uid": "3f61d20934fd8efe",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 449.12,
+    "end": 456.16
+  },
+  {
+    "text": "battery. In fact, all around the battery, you'll find the energy is radially outwards. Energy is going out",
+    "uid": "05e2501cb02c1edd",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 456.16,
+    "end": 465.36
+  },
+  {
+    "text": "through the sides of the battery into the fields. Along the wires, again, you can use the right hand rule",
+    "uid": "3ff96dfb352ecd66",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 465.36,
+    "end": 472.08
+  },
+  {
+    "text": "to find the energy is flowing to the right. This is true for the fields along the top wire and the bottom",
+    "uid": "1ec182f4ea6b3efe",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 472.08,
+    "end": 479.04
+  },
+  {
+    "text": "wire. But at the filament, the pointing vector is directed in toward the light bulb. So the light bulb",
+    "uid": "958f266203ee54c2",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 479.04,
+    "end": 485.6
+  },
+  {
+    "text": "is getting energy from the field. If you do the cross product, you find the energy is coming in from all",
+    "uid": "061a6fed1ce1b4e1",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 485.6,
+    "end": 492.08
+  },
+  {
+    "text": "around the bulb. It takes many paths from the battery to the bulb, but in all cases, the energy is",
+    "uid": "fefd568ac139fa87",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 492.08,
+    "end": 498.56
+  },
+  {
+    "text": "transmitted by the electric and magnetic fields. People seem to think that you're pumping electrons",
+    "uid": "b064bb2c2d1ea1f8",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 498.56,
+    "end": 504.16
+  },
+  {
+    "text": "and that you're like buying electrons or something which is just so wrong. For most people, and I think",
+    "uid": "f354c535d1611397",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 504.16,
+    "end": 510.32
+  },
+  {
+    "text": "to this day, it's quite counterintuitive to think that the energy is flowing through the space around the",
+    "uid": "939dc983bd8de37c",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 510.32,
+    "end": 515.76
+  },
+  {
+    "text": "conductor. But the energy is which is traveling through the field. Yeah, it's going quite fast.",
+    "uid": "0bcfe2ede656e343",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 515.76,
+    "end": 521.52
+  },
+  {
+    "text": "So there are a few things to notice here, even though the electrons go two ways away from the battery",
+    "uid": "66fd2d20f3539fee",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 522.56,
+    "end": 528.08
+  },
+  {
+    "text": "and towards it. By using the pointing vector, you find that the energy flux only goes one way",
+    "uid": "9abe7449b4a5dd25",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 528.16,
+    "end": 534.4
+  },
+  {
+    "text": "from the battery to the bulb. This also shows it's the fields and not the electrons that carry the",
+    "uid": "2347f104215f6903",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 534.4,
+    "end": 540.24
+  },
+  {
+    "text": "energy. I mean, how far do the electrons go in this little thing you're talking about? They barely",
+    "uid": "9bacf83c6a949514",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 540.24,
+    "end": 545.68
+  },
+  {
+    "text": "move. They probably don't move at all. Now what happens if in place of a battery we use an alternating",
+    "uid": "92f79e069cba1fef",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 545.68,
+    "end": 552.08
+  },
+  {
+    "text": "current source. Well then the direction of current reverses every half cycle. But this means that",
+    "uid": "d9826ab29bd778a6",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 552.08,
+    "end": 558.4
+  },
+  {
+    "text": "both the electric and magnetic fields flip at the same time. So at any instant, the pointing",
+    "uid": "06d455f4a7ec9de4",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 558.4,
+    "end": 564.88
+  },
+  {
+    "text": "vector still points in the same direction from the source to the bulb. So the exact same analysis we",
+    "uid": "6de242c2b9ae2ca6",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 564.88,
+    "end": 571.04
+  },
+  {
+    "text": "used for DC still works for AC. And this explains how energy is able to flow from power plants to homes",
+    "uid": "724e991eb3504b0e",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 571.04,
+    "end": 579.04
+  },
+  {
+    "text": "in power lines. Inside the wires, electrons just oscillate back and forth. Their motion is greatly",
+    "uid": "b83bd38f991527be",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 579.2,
+    "end": 585.36
+  },
+  {
+    "text": "exaggerated here. But they do not carry the energy. Outside the wires, oscillating electric and magnetic",
+    "uid": "69a9849c7324848f",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 585.36,
+    "end": 592.32
+  },
+  {
+    "text": "fields travel from the power station to your home. You can use the pointing vector to check that the",
+    "uid": "1fda060dfca71e18",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 592.32,
+    "end": 598.24
+  },
+  {
+    "text": "energy flux is going in one direction. You might think this is just an academic discussion that you",
+    "uid": "013522750fcf0e93",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 598.24,
+    "end": 605.76
+  },
+  {
+    "text": "could see the energy as transmitted either by fields or by the current in the wire. But that",
+    "uid": "b91b86c2bc7f648f",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 605.76,
+    "end": 611.92
+  },
+  {
+    "text": "is not the case. And people learn this the hard way when they started laying under sea telegraph cables.",
+    "uid": "cdc9acbd9ffb51e4",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 611.92,
+    "end": 617.92
+  },
+  {
+    "text": "The first transatlantic cable was laid in 1858. It only worked for about a month. It never worked",
+    "uid": "9eefaaca8a501144",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 618.48,
+    "end": 624.8
+  },
+  {
+    "text": "properly. There are kinds of distortions when they tried to send it. It enormous amounts of distortion.",
+    "uid": "762ba01f8a3672c1",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 624.8,
+    "end": 630.08
+  },
+  {
+    "text": "They could work it at a few words per minute. What they found was sending signals over such a long",
+    "uid": "6cec0513222c06f3",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 630.24,
+    "end": 635.6
+  },
+  {
+    "text": "distance under the sea that pulses became distorted and lengthened. It was hard to differentiate",
+    "uid": "34490cc1d787ad6e",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 635.6,
+    "end": 641.92
+  },
+  {
+    "text": "dots from dashes. To account for the failure, there was a debate among scientists. William Thompson,",
+    "uid": "afb8c81752708223",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 641.92,
+    "end": 648.72
+  },
+  {
+    "text": "the future Lord Kelvin thought electrical signals moved through submarine cables like water flowing",
+    "uid": "4ab4ca65264da7bc",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 648.72,
+    "end": 654.48
+  },
+  {
+    "text": "through a rubber tube. But others like have a side in that sterled, argued it was the fields around",
+    "uid": "f497f65e6a38f08d",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 654.72,
+    "end": 660.56
+  },
+  {
+    "text": "the wires that carried the energy and information. And ultimately, this view proved correct.",
+    "uid": "9532ec5069bc695d",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 660.56,
+    "end": 666.56
+  },
+  {
+    "text": "To insulate and protect the submarine cable, the central copper conductor had been coated in an",
+    "uid": "1bb4f1621baff748",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 667.36,
+    "end": 673.28
+  },
+  {
+    "text": "insulator and then encased in an iron sheath. The iron was only meant to strengthen the cable,",
+    "uid": "d0746073acdf981c",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 673.28,
+    "end": 679.28
+  },
+  {
+    "text": "but as a good conductor, it interfered with the propagation of electromagnetic fields because",
+    "uid": "587ebf4c6634215a",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 679.36,
+    "end": 684.32
+  },
+  {
+    "text": "it increased the capacitance of the line. This is why today most power lines are suspended high up.",
+    "uid": "c89ad7a02f1c3948",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 684.32,
+    "end": 690.32
+  },
+  {
+    "text": "Even the damp earth acts as a conductor. So you want a large insulating gap of air to separate the",
+    "uid": "a3ccb4c35d1829f0",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 690.96,
+    "end": 697.44
+  },
+  {
+    "text": "wires from the ground. So what is the answer to our giant circuit light bulb question?",
+    "uid": "8cd60d020f076098",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 697.44,
+    "end": 705.2
+  },
+  {
+    "text": "Well after I close the switch, the light bulb will turn on almost instantaneously in roughly",
+    "uid": "5f9cb01d08ce0a64",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 705.84,
+    "end": 712.64
+  },
+  {
+    "text": "one over C seconds so the correct answer is D. I think a lot of people imagine that the electric field",
+    "uid": "0a4bb6bbb4a35033",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 712.64,
+    "end": 719.84
+  },
+  {
+    "text": "needs to travel from the battery all the way down the wire, which is a light second long, so it should",
+    "uid": "92132c4180d84001",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 719.84,
+    "end": 725.52
+  },
+  {
+    "text": "take a second for the bulb to light up. But what we've learned in this video is it's not really",
+    "uid": "00528b1bbdf8bcee",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 725.52,
+    "end": 730.56
+  },
+  {
+    "text": "what's happening in the wires that matters. It's what happens around the wires and the electric",
+    "uid": "99fd86e11cf28790",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 730.56,
+    "end": 736.64
+  },
+  {
+    "text": "magnetic fields can propagate out through space to this light bulb which is only one meter away",
+    "uid": "757b04cc3e5414d6",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 736.64,
+    "end": 742.56
+  },
+  {
+    "text": "in a few nanoseconds and so that is the limiting factor for the light bulb turning on. Now the bulb",
+    "uid": "171ee2fecf4d082f",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 742.56,
+    "end": 750.0
+  },
+  {
+    "text": "won't receive the entire voltage of the battery immediately. It'll be some fraction which depends on",
+    "uid": "1e23df9964d88048",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 750.0,
+    "end": 756.0
+  },
+  {
+    "text": "the impedance of these lines and the impedance of the bulb. Now I asked several experts about",
+    "uid": "d44db7c46a0c7a5c",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 756.08,
+    "end": 761.44
+  },
+  {
+    "text": "this question and got kind of different answers but we all agreed on these main points. So I'm going",
+    "uid": "1e4629ee25cb48fd",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 761.44,
+    "end": 767.04
+  },
+  {
+    "text": "to put their analysis in the description in case you want to learn more about this particular setup.",
+    "uid": "45504c4d0c9525be",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 767.04,
+    "end": 772.48
+  },
+  {
+    "text": "If I get called out on it and people don't think it's real, we can we can definitely invest the resources",
+    "uid": "b6694fe9cb8760b9",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 772.48,
+    "end": 778.4
+  },
+  {
+    "text": "and string up some lines and make our own parallel lines and the others. You're going to get called out on it.",
+    "uid": "17d6b838d966ee81",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 778.4,
+    "end": 783.12
+  },
+  {
+    "text": "I agree I think you're going to get called out. I think that's right. I think it's just kind of wild",
+    "uid": "976b6f8ef25d97d4",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 783.2,
+    "end": 792.8
+  },
+  {
+    "text": "that this is one of those things that we use every day that almost nobody thinks about or knows the",
+    "uid": "d8856771b5d80cc9",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 792.8,
+    "end": 798.96
+  },
+  {
+    "text": "right answer to. These traveling electromagnetic waves around power lines are really what's delivering",
+    "uid": "fdbf74ddbcd372ca",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 798.96,
+    "end": 804.96
+  },
+  {
+    "text": "your power. Hey now that you understand how electrical energy actually flows you can think about that",
+    "uid": "c41171f331b59fdc",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 804.96,
+    "end": 814.88
+  },
+  {
+    "text": "every time you flick on a light switch and if you want to take your switches to the next level,",
+    "uid": "e966e72a1430e73a",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 814.88,
+    "end": 819.36
+  },
+  {
+    "text": "the sponsor of this video can say that by Lutron provides premium smart lighting control including",
+    "uid": "f38f5a7aae4e03f4",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 819.36,
+    "end": 824.56
+  },
+  {
+    "text": "switches, remotes and plug-in smart dimmers and since one switch can control many regular bulbs,",
+    "uid": "ed74328000d806cb",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 824.56,
+    "end": 830.24
+  },
+  {
+    "text": "you can effectively make all those bulbs smart just by replacing the switch. Then you can turn your lights on",
+    "uid": "3cb632465d1119ce",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 830.24,
+    "end": 835.84
+  },
+  {
+    "text": "and off using your phone or you can use another device like Alexa or Google Assistant.",
+    "uid": "dd0d73e1b55cf9d3",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 835.84,
+    "end": 842.0
+  },
+  {
+    "text": "Caseta works with more leading smart home brands than any other smart lighting control system.",
+    "uid": "9bb5b7a8a5689519",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 842.08,
+    "end": 846.8
+  },
+  {
+    "text": "One of the things I like is setting timers, the lights in my office for example, turn on by themselves every evening.",
+    "uid": "6a3ba67384020d16",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 846.8,
+    "end": 852.72
+  },
+  {
+    "text": "In this feature gives you a piece of mind that everyone in your household will always come home to a well at house.",
+    "uid": "9ade61b68d3575c9",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 852.72,
+    "end": 858.16
+  },
+  {
+    "text": "And once you're already in bed, you can check which lights you forgot to turn off and do that from your phone.",
+    "uid": "ed0ad7b3dd421620",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 858.16,
+    "end": 863.36
+  },
+  {
+    "text": "Installation is easy. Make sure you turn off power to the switch first and then disconnect the existing wires and connect",
+    "uid": "f7186ce8dd23938f",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 863.36,
+    "end": 870.56
+  },
+  {
+    "text": "Caseta's smart switch. If you need me help, they're just a click or a call away.",
+    "uid": "a22d3351178f360d",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 870.56,
+    "end": 875.2
+  },
+  {
+    "text": "Learn more about Caseta at Lutron's website, Lutron.com slash veritasium. I will put that link down in the",
+    "uid": "a7c57a795d700fd8",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 875.2,
+    "end": 881.04
+  },
+  {
+    "text": "description. So I want to thank Lutron electronics for sponsoring this video and I want to thank you for watching.",
+    "uid": "c926981304e5cb1a",
+    "source": "Veritasium - The_Big_Misconception_About_Electricity",
+    "start": 881.04,
+    "end": 886.96
+  }
+]
