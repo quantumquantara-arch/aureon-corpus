@@ -1,0 +1,2921 @@
+[
+  {
+    "text": "Hi everyone, welcome to the Science Friday and Black and Neuro Watch Party.",
+    "uid": "b2e1140a34f6b961",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 229.04,
+    "end": 234.04
+  },
+  {
+    "text": "You're watching Breakthrough, the Trauma Trace for today.",
+    "uid": "2ff447b8a84d7017",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 234.04,
+    "end": 238.04
+  },
+  {
+    "text": "I am Diane Montano.",
+    "uid": "88b37dbe7bb0f6b0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 238.04,
+    "end": 240.04
+  },
+  {
+    "text": "I am the, that's producer for Science Friday.",
+    "uid": "d5f0d7490fe09dc0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 240.04,
+    "end": 243.04
+  },
+  {
+    "text": "I'm Rikki Pesfei.",
+    "uid": "1778cb93ee52f472",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 246.7,
+    "end": 247.7
+  },
+  {
+    "text": "I'm a PhD candidate at McGill University and I'm also an organizer of Black and Neuro.",
+    "uid": "9c70ef611c70cff9",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 247.7,
+    "end": 253.7
+  },
+  {
+    "text": "So before we continue with the event,",
+    "uid": "c07a1a36dd90f3f8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 253.7,
+    "end": 257.7
+  },
+  {
+    "text": "it's important that we start off by acknowledging the history of the lands on which we are all joining from and meeting from today.",
+    "uid": "3dad53e8bd5a0425",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 257.7,
+    "end": 264.7
+  },
+  {
+    "text": "Canada, the U.S. countries around the world are home to many different indigenous peoples.",
+    "uid": "bb1dab6289004ddd",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 264.7,
+    "end": 269.7
+  },
+  {
+    "text": "And we ask that you each take a moment to research, learn about them and reflect upon the indigenous peoples whose lands we are currently on.",
+    "uid": "77777e87e517b1fe",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 269.7,
+    "end": 276.7
+  },
+  {
+    "text": "I, for example, I'm in Toronto and we are located on traditional territory of the Hote Shinoe and Anishinabeg, a territory covered by the upper Canada.",
+    "uid": "c24c62aba4e58657",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 276.7,
+    "end": 286.7
+  },
+  {
+    "text": "Canada, treaties that falls within the lands protected by the dish with one spoon, one pomegranate, and as we convene with digital spaces that may seem neutral,",
+    "uid": "f6e91a1b2b61802f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 286.7,
+    "end": 296.7
+  },
+  {
+    "text": "we must also recognize our extreme privilege to occupy these spaces.",
+    "uid": "6a972498a40fa27f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 296.7,
+    "end": 301.7
+  },
+  {
+    "text": "While up to two thirds of First Nations communities and Canada continue to lack basic intimate access and we can see similar statistics around the world.",
+    "uid": "161c75a0ad8b953e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 301.7,
+    "end": 310.7
+  },
+  {
+    "text": "And failure to provide this basic human right is just one extension of colonialism,",
+    "uid": "72fd8313c7569ba2",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 310.7,
+    "end": 314.7
+  },
+  {
+    "text": "that must reckon with and contribute to dismantling.",
+    "uid": "11f5b09420249061",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 314.7,
+    "end": 318.7
+  },
+  {
+    "text": "And so just a reminder for friends in the U.S. that Monday is indigenous peoples day.",
+    "uid": "ddd07b4a021d3268",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 318.7,
+    "end": 323.7
+  },
+  {
+    "text": "It's a holiday so we hope that you take this opportunity to celebrate and honor Native American peoples histories and culture.",
+    "uid": "dd25907fc1a03d00",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 323.7,
+    "end": 331.7
+  },
+  {
+    "text": "Thank you, Rakeve. I really appreciate that.",
+    "uid": "1c215ac29741d894",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 331.7,
+    "end": 335.7
+  },
+  {
+    "text": "So we're going to get started in just a few minutes but I think a lot of you are probably wondering where are we what are we doing here today.",
+    "uid": "0f9f47113172dba7",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 336.7,
+    "end": 343.7
+  },
+  {
+    "text": "So today we are going to be watching a film called Breakthrough the Trauma Tracer, which stars Bianca Dr. Bianca Jones Marlin, who also will be joining us in a post viewing conversation about what it is like to do the work that she does.",
+    "uid": "d1e88a0a9479352a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 343.7,
+    "end": 360.7
+  },
+  {
+    "text": "So if during that conversation you have any questions that you'd like to ask Bianca feel free to put them in the chat no matter where you are we are streaming to both Facebook and YouTube today.",
+    "uid": "9d97db6ecdce15a5",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 360.7,
+    "end": 371.7
+  },
+  {
+    "text": "And so we are able to see your comments with us. So if you have any questions that the comments is a great place to put them and we'll be answering your questions with Bianca along the way.",
+    "uid": "31bab0155df3b10e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 371.7,
+    "end": 383.7
+  },
+  {
+    "text": "So I want to tell you a little bit about science Friday science Friday originally started as a program for the radio and we've been around for almost 30 years now but we're much more than just the radio.",
+    "uid": "23f1283a1e1c5e3f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 383.7,
+    "end": 396.7
+  },
+  {
+    "text": "Like we are today we need for events we have education.",
+    "uid": "2130d50597502008",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 396.7,
+    "end": 401.7
+  },
+  {
+    "text": "Education department that creates amazing STEM resources for teachers and all kinds of people who want to create experiences around science and a digital department that writes original.",
+    "uid": "41a9fad18a6de747",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 402.7,
+    "end": 414.7
+  },
+  {
+    "text": "And also a video department that creates works like the one we're going to be watching today Breakthrough.",
+    "uid": "73983b4337fb709a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 414.7,
+    "end": 423.7
+  },
+  {
+    "text": "So we're going to be watching one of the videos from Breakthrough season two.",
+    "uid": "f6a12c2132b3baa6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 423.7,
+    "end": 429.7
+  },
+  {
+    "text": "And the whole impetus for Breakthrough is essentially to show people that there are women in science who are doing fantastic work and to inspire people to if they are interested in the sciences to find out a little bit more about what it's like to do that as a woman in science.",
+    "uid": "3fa5fb68a5fb1933",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 429.7,
+    "end": 450.7
+  },
+  {
+    "text": "In addition to this year when we completed our second season we wanted to create a resource for anyone who was looking to.",
+    "uid": "51aa9bf4b183d66d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 450.7,
+    "end": 460.7
+  },
+  {
+    "text": "Talk about these issues in their spaces so academic spaces or personal spaces and so we created this inclusive action toolkit so we're going to talk a little bit more about that later.",
+    "uid": "46df957be273ac4b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 460.7,
+    "end": 471.7
+  },
+  {
+    "text": "But if you want to learn more about the Breakthrough series the toolkit all the other things as well as watch some of the episodes from this season and season one you can do that at Breakthrough films dot org.",
+    "uid": "d62282c8746ee75c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 471.7,
+    "end": 484.7
+  },
+  {
+    "text": "All right so that's enough a little bit about us but I'd love to kick it over to keep to talk a little bit about black and arrow.",
+    "uid": "9b5cba0f9352a59f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 484.7,
+    "end": 490.7
+  },
+  {
+    "text": "So, for keep I think you are muted I'm going to unmute you.",
+    "uid": "dc8ef8a39a2876f5",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 490.7,
+    "end": 496.99
+  },
+  {
+    "text": "It's the saying of 2020.",
+    "uid": "6da6b791a6a01818",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 496.99,
+    "end": 501.36
+  },
+  {
+    "text": "So as an organization black and arrow rather is an organization that aims to celebrate the often overlooked contributions and excellence of black individuals in neuroscience related fields while providing resources professional development and mentorship opportunities to support our community.",
+    "uid": "729defb08a513677",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 501.36,
+    "end": 518.36
+  },
+  {
+    "text": "You can find us on Twitter at black and arrow or website black and arrow dot com where you can read over 500 profiles of incredible black and arrow scientists watch previous events and find out about upcoming ones including.",
+    "uid": "bad5f92cd8d2cf06",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 518.36,
+    "end": 534.36
+  },
+  {
+    "text": "We have a mini conference taking place from November 2nd to 4th which is completely free and we want to encourage black and arrow undergrad graduate students postdocs and faculty to submit their work.",
+    "uid": "f1fd1b1443108dd9",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 534.36,
+    "end": 546.36
+  },
+  {
+    "text": "To present at the conference in the deadline for that is October 14 we have incredible panels lined up on mentorship professional development navigating grad school applications during the pandemic so please spread the word about this free conference.",
+    "uid": "c8bc435066945aec",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 546.36,
+    "end": 561.36
+  },
+  {
+    "text": "And because our team is incredible and really doesn't stop we're also partnering with neuro match conference on October 26 to 30th to bring more black and neuro programming.",
+    "uid": "ccd1f5eca2cabead",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 561.36,
+    "end": 572.36
+  },
+  {
+    "text": "I can say that on October 27 we will be having a continuation of our panel from the summer on neuro racism will where we will be discussing the ongoing biases and anti black racism that is currently embedded in our practices and interpretations of academic research.",
+    "uid": "1e143ca67a22fe1f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 572.36,
+    "end": 590.36
+  },
+  {
+    "text": "And so most of us are here for this superstar doctor Bianca Jones Marlin and so she is an assistant professor and incoming assistant professor of psychology and neuroscience.",
+    "uid": "c5fa2178db7b0da0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 590.36,
+    "end": 606.85
+  },
+  {
+    "text": "I Columbia University's Sacramento Institute where her lab will open up in 2021 congratulations is incredible.",
+    "uid": "cb846debd0e8e2ae",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 606.85,
+    "end": 613.85
+  },
+  {
+    "text": "She is currently a postdoc in the laboratory of Nobel Laureate doctor Richard Axel where she investigates trans generational trans generational epigenetic inheritance or how traumatic experiences in parents effective brain structure and behavior of their offspring as a graduate student at New York University.",
+    "uid": "fa35b96fd42ce624",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 613.85,
+    "end": 633.85
+  },
+  {
+    "text": "She studied the love drug oxytocin and discovered that it helps change the way neurons communicate and respond to baby cries in a new mother making them a more caring parent.",
+    "uid": "c7a19333bbf7d445",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 633.85,
+    "end": 644.85
+  },
+  {
+    "text": "Her passion for her work stems from her desire to utilize neurobiology and science of learning to understand how both positive and negative experiences in life dictate brain health, academic performance and students and overall social well being.",
+    "uid": "33db3c226f856097",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 644.85,
+    "end": 665.53
+  },
+  {
+    "text": "And we're really also lucky to be joined in conversation with sochi Garcia she is the K to 12 education program manager at science Friday.",
+    "uid": "9943778d518201f0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 665.53,
+    "end": 676.53
+  },
+  {
+    "text": "You can see your popped up on the screen over here where she focuses on supporting the inspiring efforts of educators all types to engage students students in science engineering math and the arts she can be seeing making a mess with education director Ariel Zins.",
+    "uid": "a50fb93f707b2afe",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 676.53,
+    "end": 692.53
+  },
+  {
+    "text": "I hope I got the last name right developing teacher trainings and programs and planning ways to connect science Friday media media to classrooms and she is excited to introduce the sci-fi day community and world to amazing educators in their midst.",
+    "uid": "569cf7faa3463a01",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 692.53,
+    "end": 707.53
+  },
+  {
+    "text": "So thank you for joining us sochi.",
+    "uid": "66857f34c7324697",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 707.53,
+    "end": 710.53
+  },
+  {
+    "text": "And our conversation will be moderated by the brilliant doctor Riel Ferguson who is a neuroscientist of postdoctoral research researcher at Stanford University where she works in a lab setting the intersection of attention impairments and seizures and she is also the newly appointed program director for black and hero.",
+    "uid": "3a480cc51ebbcdd4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 710.53,
+    "end": 731.53
+  },
+  {
+    "text": "Thank you all so much for joining us today just so excited you're all here.",
+    "uid": "7f85ca9e664d8c04",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 735.03,
+    "end": 739.03
+  },
+  {
+    "text": "Yes, cheers. Thank you everyone and thank you everyone at home for tuning in and I believe without further ado we can start the film screening.",
+    "uid": "ec45eb2920e107b5",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 739.03,
+    "end": 749.03
+  },
+  {
+    "text": "Let's do it. All right. Thank you again so much for everyone for joining us.",
+    "uid": "4d58768a73813c3d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 749.03,
+    "end": 754.03
+  },
+  {
+    "text": "So I'm going to we're going to play the film and then afterwards.",
+    "uid": "eeaa65f7c977bf19",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 754.03,
+    "end": 758.03
+  },
+  {
+    "text": "Dr. Bianca Jones is barlin is going to join us for the conversation so hope you'll stick around for that.",
+    "uid": "75da7b65a77c52e8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 758.03,
+    "end": 780.2
+  },
+  {
+    "text": "Kyle who is playing our video. Would you mind going back to the beginning and unmuting your microphone that would be great.",
+    "uid": "e96f8df4963d77f6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 780.2,
+    "end": 787.2
+  },
+  {
+    "text": "Thank you so much.",
+    "uid": "da7398c41bcdae0b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 787.2,
+    "end": 788.2
+  },
+  {
+    "text": "Kyle looks like we're having some issue with our sound. Would you mind trying to unplug if you've got headphones? Would you mind unplugging those and see if that helps.",
+    "uid": "60bbcb6c6c7b2968",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 788.2,
+    "end": 814.55
+  },
+  {
+    "text": "We tested this before we started team.",
+    "uid": "5bac28d4aceb485e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 814.55,
+    "end": 818.86
+  },
+  {
+    "text": "We did sometimes things happen with live events so thanks for sticking with us.",
+    "uid": "78b49d80aa8075e2",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 818.86,
+    "end": 823.86
+  },
+  {
+    "text": "We're still having trouble I'm going to try one more thing. All right. We're having some difficulty with our with our video. Kyle what I'm going to do is I'm going to try and reload that video so I'm going to ask you to stop sharing your screen and try resharing it and see if that helps.",
+    "uid": "7c0ea2f2142636d0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 829.15,
+    "end": 854.64
+  },
+  {
+    "text": "All right team. Let's see if we can get the started.",
+    "uid": "a92d81c00552d20a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 854.64,
+    "end": 875.11
+  },
+  {
+    "text": "Kyle can you hear us now?",
+    "uid": "e89186ae58cbfc6e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 876.11,
+    "end": 878.11
+  },
+  {
+    "text": "Fantastic. We can hear you. All right. So I am there we go. I think we've got it now. Let's try.",
+    "uid": "50428b805df75c70",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 879.11,
+    "end": 886.11
+  },
+  {
+    "text": "It's an interesting I think humbling experiences to yourself reflected in another individual.",
+    "uid": "5c48859f1740dfe9",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 886.11,
+    "end": 894.11
+  },
+  {
+    "text": "They're going to have their own life experiences. But you look at them and see yourself in the color of their eyes and their way there are no wrinkles.",
+    "uid": "0162e43ee3f18d83",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 894.11,
+    "end": 902.11
+  },
+  {
+    "text": "I have a to your old daughter.",
+    "uid": "1874bebfc5ce6497",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 902.11,
+    "end": 905.11
+  },
+  {
+    "text": "She's taking care of my biology and my her parents.",
+    "uid": "6dd620bea66521ee",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 905.11,
+    "end": 909.11
+  },
+  {
+    "text": "And it's just beautiful that we are set up for success and survival in that manner.",
+    "uid": "ae9e22c93bf112f8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 909.11,
+    "end": 914.11
+  },
+  {
+    "text": "And yet life is dynamic and the experience can sometimes be nothing.",
+    "uid": "5fe9026a9504836b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 914.11,
+    "end": 917.11
+  },
+  {
+    "text": "What happens when things are wrong and how do we fix that?",
+    "uid": "9389b8e114869228",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 917.11,
+    "end": 922.11
+  },
+  {
+    "text": "I had the amazing opportunity to grow up in a very dynamic family. My biological parents, Russell Foster parents.",
+    "uid": "3d6fdf4b2b2b1207",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 922.11,
+    "end": 940.04
+  },
+  {
+    "text": "And so I had the opportunity to grow up with many siblings.",
+    "uid": "68db00a7cc158de4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 940.04,
+    "end": 944.04
+  },
+  {
+    "text": "You've ran over 20, some months.",
+    "uid": "79b47f6a22f7407b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 944.04,
+    "end": 946.04
+  },
+  {
+    "text": "I've had a lot of children.",
+    "uid": "68c7dfc7b6bb6d72",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 946.04,
+    "end": 947.04
+  },
+  {
+    "text": "They learned to work with each other.",
+    "uid": "ab0dc6340aa2a917",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 947.04,
+    "end": 950.04
+  },
+  {
+    "text": "They had some siblings.",
+    "uid": "d85382921fef2522",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 950.04,
+    "end": 953.04
+  },
+  {
+    "text": "We were better at her where my siblings came from.",
+    "uid": "f45b4656febe70e2",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 955.04,
+    "end": 958.04
+  },
+  {
+    "text": "And on what they had to go through in order to be put in foster care.",
+    "uid": "eaf24fbe52481aa1",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 958.04,
+    "end": 961.04
+  },
+  {
+    "text": "There were stories of abuse of not getting the proper nutrition, the proper care that a child would need.",
+    "uid": "d4a94dc8a499f4d5",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 961.04,
+    "end": 969.04
+  },
+  {
+    "text": "Young kids you know, I have to go through the things they go through.",
+    "uid": "5aea69cc7cb1df64",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 969.04,
+    "end": 972.04
+  },
+  {
+    "text": "So I almost feel that it's my obligation to do something about it,",
+    "uid": "efa0ae4bea2a6b1a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 972.04,
+    "end": 976.04
+  },
+  {
+    "text": "taking my passion for science and what I've learned from them and putting them together is really my uncle.",
+    "uid": "c04d00b62fa2532c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 976.04,
+    "end": 982.04
+  },
+  {
+    "text": "My name is Bianca Jones-Marlan, who are a researcher at Columbia University and I study how trauma is passed down through generations.",
+    "uid": "0a5a323cf6d1d408",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 982.04,
+    "end": 988.04
+  },
+  {
+    "text": "During my graduate studies, I explored maternal behavior, specifically in female mice.",
+    "uid": "fd68de530fba9deb",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 988.04,
+    "end": 997.02
+  },
+  {
+    "text": "In the case of the non-moms, when a pup is removed from its comfortable nest and begins to cry,",
+    "uid": "7030cf615b49c4d4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 997.02,
+    "end": 1003.02
+  },
+  {
+    "text": "she'll leave it there and at times she'll leave in cannibalized the pup.",
+    "uid": "cf071134c65f2541",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1003.02,
+    "end": 1007.02
+  },
+  {
+    "text": "However, if a mom is present in the nest, even if it's not the mother of that pup, she'll go into a pick-up of her child,",
+    "uid": "e67a89d4262eaa86",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1007.02,
+    "end": 1015.02
+  },
+  {
+    "text": "to bring it back to the nest.",
+    "uid": "6dee3237236a813b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1015.02,
+    "end": 1016.02
+  },
+  {
+    "text": "So the goal of our study was to explore what's happening in the brain, what was responsible for that transition.",
+    "uid": "6de6dc38c12137bc",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1016.02,
+    "end": 1023.02
+  },
+  {
+    "text": "When we treated mice who have never given birth without symptoms, while above and beyond what the mice originally had, what we observed would be found.",
+    "uid": "8d1ec2491c47a372",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1023.02,
+    "end": 1031.02
+  },
+  {
+    "text": "We're not only sought changes in the way their neurons fired and spoke to each other in the hearing center.",
+    "uid": "6acb8ba7749557bd",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1031.02,
+    "end": 1037.02
+  },
+  {
+    "text": "The mice would not ignore the pup but cannibalized pup but go to pick-up and bring the pup back to the nest.",
+    "uid": "b2596c980db0b829",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1037.02,
+    "end": 1044.02
+  },
+  {
+    "text": "Prior to being a mother, my work in oxytocin, still was so close to my heart, knowing that the siblings had parents who couldn't be the best moms in that.",
+    "uid": "3b8fdd9b5758e08c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1044.02,
+    "end": 1054.02
+  },
+  {
+    "text": "And why could that be what is a good parent or good parent?",
+    "uid": "6318e475bb167ba6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1054.02,
+    "end": 1059.02
+  },
+  {
+    "text": "And how can we aid in that process?",
+    "uid": "09b6c5657df7bfd6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1059.02,
+    "end": 1062.02
+  },
+  {
+    "text": "My work now focuses on the stressors that you seemingly can't escape.",
+    "uid": "28fe1f1690919cac",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1062.02,
+    "end": 1067.02
+  },
+  {
+    "text": "How stress can affect not just an individual but subsequent generations.",
+    "uid": "70ccdcbceac0cfc8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1067.02,
+    "end": 1073.02
+  },
+  {
+    "text": "All of the cells in the body have what we call epigenetic regulation, which means the cells know what they shouldn't be.",
+    "uid": "89c9b2097c164ece",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1074.02,
+    "end": 1081.02
+  },
+  {
+    "text": "But certain experiences, the environment, can change what genes are expressed and not express.",
+    "uid": "3bcda8f5fb09ba42",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1081.02,
+    "end": 1087.02
+  },
+  {
+    "text": "That's because DNA actually is just the recipe but it doesn't make the cake.",
+    "uid": "ea8d3cda4cca1778",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1087.02,
+    "end": 1092.02
+  },
+  {
+    "text": "Markers around the DNA say, you can't touch this piece, or now you have access to the DNA, you will become a protein.",
+    "uid": "8a9f8fdff43fc246",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1092.02,
+    "end": 1099.02
+  },
+  {
+    "text": "So it means a change, but the things around our genes that make our genes work and not change to adapt to the environment.",
+    "uid": "2d631649fb11f3cb",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1099.02,
+    "end": 1106.02
+  },
+  {
+    "text": "So at the end of World War II, an experienced COVID-19 hunger winter occurred, and during this time, people in the Netherlands were stopped at food.",
+    "uid": "6031593e07965504",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1106.02,
+    "end": 1114.02
+  },
+  {
+    "text": "Their children and their grandchildren were observed to suffer from increased rates of metabolic issues, for example diabetes, high blood pressure, and even schizophrenia.",
+    "uid": "c1e849754846086d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1114.02,
+    "end": 1126.02
+  },
+  {
+    "text": "It wasn't just children that were conceived during the famine, but children that were conceived afterwards.",
+    "uid": "5fd21dc63017351b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1126.02,
+    "end": 1132.02
+  },
+  {
+    "text": "As if the sex cells, the sperm cells and the eggs cells had a memory of that trauma of that stress, while beyond the years of famine.",
+    "uid": "1a2be0d125f82d28",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1132.02,
+    "end": 1141.02
+  },
+  {
+    "text": "It really did spark questions in the scientific community of how can a memory a message live on sperm and egg and how is it being passed down?",
+    "uid": "23ffa62f29fc4c41",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1141.02,
+    "end": 1150.02
+  },
+  {
+    "text": "So that's an example of transgenerational epigenetic inheritance.",
+    "uid": "723c7427e0f863fe",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1150.02,
+    "end": 1155.02
+  },
+  {
+    "text": "There have been a lot of questions surrounding epigenetics, transgenerational epigenetics.",
+    "uid": "7bfd5ddddfeda02c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1155.02,
+    "end": 1160.02
+  },
+  {
+    "text": "And that's because we're studying humans. A lot of this has to do with what we are reporting and our experiences with light, and so it's really hard to get pristine, clean data from history and experience.",
+    "uid": "ff4c98e0db0c6524",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1160.02,
+    "end": 1174.02
+  },
+  {
+    "text": "But when it comes to mice, we can take mice and put them in a controlled environment where the only thing that should be different is the experience that they're having.",
+    "uid": "1ec5c69354d00d2c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1174.02,
+    "end": 1181.02
+  },
+  {
+    "text": "My angle as a scientist is to make things better.",
+    "uid": "2cdfa34d8f8c9d7e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1181.02,
+    "end": 1185.02
+  },
+  {
+    "text": "And in this case, it's how to make a bad experience less traumatizing and dramatic for the organism and for subsequent generations.",
+    "uid": "03fdb9a903c93399",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1185.02,
+    "end": 1195.02
+  },
+  {
+    "text": "And in order to do a better, we first have to figure out what happens when things go wrong.",
+    "uid": "179eda981160096b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1195.02,
+    "end": 1199.02
+  },
+  {
+    "text": "And so what if we made a stressful situation with mice?",
+    "uid": "e7c6faf6838e6110",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1199.02,
+    "end": 1202.02
+  },
+  {
+    "text": "Has a change of way, the brain responds?",
+    "uid": "ffbfeddd45bfdf9a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1202.02,
+    "end": 1204.02
+  },
+  {
+    "text": "This question started our experiments that we're doing now.",
+    "uid": "db437a366d17034a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1204.02,
+    "end": 1207.02
+  },
+  {
+    "text": "They relance and all very heavily. They're on sensual and small cubins to their nose, like the smell of almond, and they begin to fire.",
+    "uid": "bc8af856e5fab31d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1207.02,
+    "end": 1214.02
+  },
+  {
+    "text": "And they'll tell other neurons in the brain that this is the smell of almond.",
+    "uid": "259414681e767e4b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1214.02,
+    "end": 1219.02
+  },
+  {
+    "text": "And so what we do is we have the almond paired with shock after the experience, the mouth starts to avoid that smell.",
+    "uid": "1d55cb559850cb6e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1219.02,
+    "end": 1227.02
+  },
+  {
+    "text": "We then go and look at the actual brain and the cells in the nose actually respond to chemicals in the air.",
+    "uid": "0de1f22ea4bb497e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1227.02,
+    "end": 1233.02
+  },
+  {
+    "text": "Structure of the cells are still there, they're so present.",
+    "uid": "afb6fa6d081590b9",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1233.02,
+    "end": 1236.02
+  },
+  {
+    "text": "But we can see through the bone and we can see through the facts and we can look at just the cells.",
+    "uid": "201762ac7a860bd7",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1236.02,
+    "end": 1241.02
+  },
+  {
+    "text": "From there, we put this tissue on something called a light sheet microscope.",
+    "uid": "d7fe2de2d80062e0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1241.02,
+    "end": 1246.02
+  },
+  {
+    "text": "We're able to look at the whole tissue, we're able to have a 3D rendering of the nose and a beautiful image of the actual cells in the nose.",
+    "uid": "58426bff29eac5b6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1246.02,
+    "end": 1253.02
+  },
+  {
+    "text": "Everything that's in green here are cells that respond to almond.",
+    "uid": "ccb87d84ed7fc894",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1253.02,
+    "end": 1257.02
+  },
+  {
+    "text": "These are the first cells that say, oh, I smell something and it sends that message to the brain.",
+    "uid": "c69440466fd1adee",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1257.02,
+    "end": 1262.02
+  },
+  {
+    "text": "We go through and we count how many cells are in the tissue.",
+    "uid": "c716c2f36ba2a6c8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1262.02,
+    "end": 1265.02
+  },
+  {
+    "text": "So in the parents, after about a month, we start to see an increase in these cells that respond to the almond smell.",
+    "uid": "0d5f0c76efd42657",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1265.02,
+    "end": 1271.02
+  },
+  {
+    "text": "And this is where we're following up on former labs of showing where we're looking at the mechanisms of pinemarch.",
+    "uid": "60b75ec98033157e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1271.02,
+    "end": 1277.02
+  },
+  {
+    "text": "What's really exciting is that the pups seem to already be born.",
+    "uid": "abc4bb7ac8979749",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1277.02,
+    "end": 1282.02
+  },
+  {
+    "text": "With more cells that respond to almond.",
+    "uid": "495b4c52506fbc13",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1282.02,
+    "end": 1286.02
+  },
+  {
+    "text": "Because Melmizer constantly creates a brain.",
+    "uid": "de0c34ddb9b1a85c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1286.02,
+    "end": 1288.02
+  },
+  {
+    "text": "This means that the experience is not just living in the sperm that's present, but somehow living somewhere in the body.",
+    "uid": "586872ae1267fb4c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1288.02,
+    "end": 1296.02
+  },
+  {
+    "text": "And informing this brain to make sure that all subsequent generations are getting this message.",
+    "uid": "efd774bf8bab6d91",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1296.02,
+    "end": 1302.02
+  },
+  {
+    "text": "So Melmizer, the ever meeting their offspring, having their sperm passed on to the second generation.",
+    "uid": "e938c0d90db854af",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1302.02,
+    "end": 1307.02
+  },
+  {
+    "text": "Those offspring have altered brains because of the experience that their father went through.",
+    "uid": "845d7f747797f4c4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1307.02,
+    "end": 1313.02
+  },
+  {
+    "text": "So it's a beautiful situation in which biology is preparing us for an environment that may or may not be there.",
+    "uid": "9c438ea630988085",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1313.02,
+    "end": 1319.02
+  },
+  {
+    "text": "And I think that's where the problem was.",
+    "uid": "d69a4c0e756e7593",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1319.02,
+    "end": 1321.02
+  },
+  {
+    "text": "Just a smell. Then on the list of the response that it shouldn't elicit because there's no actual stress or there.",
+    "uid": "c00b39ce7cad3063",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1321.02,
+    "end": 1327.02
+  },
+  {
+    "text": "But this is a proxy to the human experience.",
+    "uid": "fcf5864b945526e7",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1327.02,
+    "end": 1330.02
+  },
+  {
+    "text": "Because during a traumatic event, we are still using our senses to create those memories.",
+    "uid": "9d5a7d704eef91c7",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1330.02,
+    "end": 1336.02
+  },
+  {
+    "text": "And what we're exploring is if these memories are actually then passed down to the subsequent generations and what that would look like biologically.",
+    "uid": "55b46ea0e911bcb2",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1336.02,
+    "end": 1345.02
+  },
+  {
+    "text": "Look at our data. It's a little bit nerve-wracking because I go back and I think about how an experience I could have can be passed on.",
+    "uid": "fdfb4c09ac301b27",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1345.02,
+    "end": 1354.39
+  },
+  {
+    "text": "And not just an experience that I have, but that my husband, that experience that you could have had well before he met me.",
+    "uid": "68ab8db3e518c402",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1354.39,
+    "end": 1361.39
+  },
+  {
+    "text": "He was so alone and that to affect our offspring.",
+    "uid": "8b51ad81e62e23c3",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1361.39,
+    "end": 1365.39
+  },
+  {
+    "text": "We don't know. That's the sighting and terrifying part. It needs to be answered.",
+    "uid": "5178bae052f44309",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1365.39,
+    "end": 1370.39
+  },
+  {
+    "text": "Me personally being black American knowing that man's sisters went through a trauma for generations on generations.",
+    "uid": "e652c9667677fd2d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1370.39,
+    "end": 1379.93
+  },
+  {
+    "text": "If my words tend to inform any aspect of the opportunity to live safe, happy, just like.",
+    "uid": "463c2815a944aea5",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1379.93,
+    "end": 1387.93
+  },
+  {
+    "text": "And I'm happy with the direction in which my work is coming.",
+    "uid": "f8087fa62a740d08",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1387.93,
+    "end": 1421.72
+  },
+  {
+    "text": "Wow. Amazing. That was amazing.",
+    "uid": "56dbcc089b6ce89f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1421.72,
+    "end": 1424.72
+  },
+  {
+    "text": "Every time you watch it.",
+    "uid": "8aaac4aa13c4888f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1424.72,
+    "end": 1426.72
+  },
+  {
+    "text": "Yeah, I've seen it multiple times now and every time I'm just so, so blown away.",
+    "uid": "b15d4b752463f33a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1426.72,
+    "end": 1430.72
+  },
+  {
+    "text": "This is one of those times where I really wish we were live because you, Bianca and Science Friday and the film producers all deserve such a tremendous round of applause.",
+    "uid": "498d3bdf2a594ce0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1430.72,
+    "end": 1440.72
+  },
+  {
+    "text": "But you'll have to take our word for it.",
+    "uid": "8a6dfa6421245227",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1440.72,
+    "end": 1442.72
+  },
+  {
+    "text": "We can see from the praise in the comments and from us, you know, people are completely blown away.",
+    "uid": "d03528030370e387",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1442.72,
+    "end": 1448.72
+  },
+  {
+    "text": "So I am so honored to be here and be able to chat with the amazing neuroscientist, Dr. Bianca Jones Marlin, star of our film today, break through the trauma tracer and general inspiration to all of us really.",
+    "uid": "8487bf007f390766",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1448.72,
+    "end": 1462.72
+  },
+  {
+    "text": "First off, we want to thank you so much for taking the time to be here and to talk with us today and we're so thrilled to be able to have this conversation.",
+    "uid": "cce2e3a10e25b3c7",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1462.72,
+    "end": 1470.72
+  },
+  {
+    "text": "Obviously something that's central to the mission of Black and Nero and you're in your to my heart is highlighting Black excellence and you and your work and how it's depicted so beautifully in this film are just the epitome of that.",
+    "uid": "d92c3f36ce035c4c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1470.72,
+    "end": 1483.72
+  },
+  {
+    "text": "So thank you.",
+    "uid": "aad452ec487a3215",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1483.72,
+    "end": 1485.72
+  },
+  {
+    "text": "And we thank you for this opportunity. I also want to take a second to remind people if they have questions. They can drop them in the chat and we'll try to answer some of them live.",
+    "uid": "bd93da0e05b75943",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1485.72,
+    "end": 1494.72
+  },
+  {
+    "text": "I thought we'd start by having you Bianca talk a little bit about how you fell in love with science and neuroscience in particular for many of us Black and otherwise marginalized scientists.",
+    "uid": "a2e5d5d3bf39c667",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1494.72,
+    "end": 1504.72
+  },
+  {
+    "text": "We often might lack cultural access to role models and STEM. So many of us might grow up not even knowing what a neuron is let alone be planning to pursue a graduate degree or get a PhD or pursue a career in science.",
+    "uid": "05fdd69714c6281e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1504.72,
+    "end": 1517.72
+  },
+  {
+    "text": "So I wonder if you could tell us a little bit about how you fell in love with science and when you knew you wanted to be a neuroscientist.",
+    "uid": "a7d73e36ffa5f702",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1517.72,
+    "end": 1523.72
+  },
+  {
+    "text": "Thank you, Bialin. Thank you again.",
+    "uid": "ac1df8db5535d778",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1523.72,
+    "end": 1525.72
+  },
+  {
+    "text": "Sci-Fi and Black and Nero for the amazing work that you're doing to highlight scientists that other people can know the scientists exist.",
+    "uid": "060dc1f8c7e61f70",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1525.72,
+    "end": 1533.72
+  },
+  {
+    "text": "Other people can know that my research exists and that I exist.",
+    "uid": "c89d86cd2d279131",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1533.72,
+    "end": 1536.72
+  },
+  {
+    "text": "It's a platform that I'm eternally grateful to. So thank you.",
+    "uid": "16a981aeb857f7cc",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1536.72,
+    "end": 1539.72
+  },
+  {
+    "text": "I did not always know that science or science test was something that I could be or wasn't actual job to be told.",
+    "uid": "24687a20a6680132",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1539.72,
+    "end": 1547.72
+  },
+  {
+    "text": "I started off as adolescent education in high school and I realized I reflected on this today when I was getting ready for this talk.",
+    "uid": "d758446124c2066e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1547.72,
+    "end": 1555.72
+  },
+  {
+    "text": "But in high school I thought I because I love science has to be science teacher.",
+    "uid": "6f18f33a6235147c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1555.72,
+    "end": 1559.72
+  },
+  {
+    "text": "That's that makes the most sense. I don't want to be a doctor.",
+    "uid": "99a3bddf659b6fa9",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1559.72,
+    "end": 1562.72
+  },
+  {
+    "text": "I don't want to be a science teacher because I love science and that's what you do. That's only making me a scientist.",
+    "uid": "32a92395ba18b0a0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1562.72,
+    "end": 1570.72
+  },
+  {
+    "text": "And so when I started on in college, I went to Central Isle Pais School.",
+    "uid": "e95c555ecde55912",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1570.72,
+    "end": 1574.72
+  },
+  {
+    "text": "C.I. one of my my highlights of my development years and decided to do the same John's university in Queens.",
+    "uid": "f7d572233583e3da",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1574.72,
+    "end": 1581.72
+  },
+  {
+    "text": "And when I was there, I remember walking down the hall of my science department because I was a science biology and adolescent education.",
+    "uid": "0b4b0db4a0887480",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1581.72,
+    "end": 1589.72
+  },
+  {
+    "text": "And I saw a fire that said, do you want scholarship to continue on in the sciences? Yes.",
+    "uid": "2c15ebf17efbdf71",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1589.72,
+    "end": 1594.72
+  },
+  {
+    "text": "You don't say no to free money, especially as a freshman in college.",
+    "uid": "31308a2d60d196ba",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1594.72,
+    "end": 1598.72
+  },
+  {
+    "text": "And so I went to this meeting and they spoke about how one could get a PhD, a doctor philosophy.",
+    "uid": "95e71b30ac258292",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1598.72,
+    "end": 1605.72
+  },
+  {
+    "text": "And that could aid you in this process of getting money.",
+    "uid": "a15c2ee774317b39",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1605.72,
+    "end": 1608.72
+  },
+  {
+    "text": "And I realized I was in the wrong meeting because I a philosophy is cool, but that's not like what I wanted to do with like.",
+    "uid": "911f699f63b74beb",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1608.72,
+    "end": 1614.72
+  },
+  {
+    "text": "And I did not know that a doctor philosophy was directly associated with science or scientist or neurobiologist.",
+    "uid": "98de7538b007ab42",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1614.72,
+    "end": 1622.72
+  },
+  {
+    "text": "I loved education. I feel strongly. I'm always feel strongly that education should be equalized in the United States.",
+    "uid": "add36e6cd658d242",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1622.72,
+    "end": 1629.72
+  },
+  {
+    "text": "And so I wanted to go into education. I still am certified to be a teacher as well as public policy.",
+    "uid": "2372676f9876b875",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1629.72,
+    "end": 1637.72
+  },
+  {
+    "text": "And through this program, two of them, one called initiative for maximizing student development to the NIH, National Institute of Health and the other one being the Ronald McNair Scholars after the Ronald McNair.",
+    "uid": "4fe9b2d96e26e9b2",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1637.72,
+    "end": 1649.72
+  },
+  {
+    "text": "Black astronaut who went up in the Challenger in die to 1986, these two programs really helped open my eyes to the realm of research.",
+    "uid": "020f843854fbc0d9",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1649.72,
+    "end": 1658.72
+  },
+  {
+    "text": "And that could be a scientist that it's an actual job. And when I realized that that was an option, I just I think I don't totally in and I did some programs that allowed me to paid me and allowed me to survive as a college student when I learned about when I MIT and that opened my eyes to like different institutions and the whole world that did not know existed.",
+    "uid": "dec83b51b6626f83",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1658.72,
+    "end": 1679.72
+  },
+  {
+    "text": "So when I graduated I graduated similar to financial space that certain graduates are dealing with now. I was 2009 the economic crisis and so there weren't many jobs available, but I found that I could apply it at grad school.",
+    "uid": "0c2b453b0b1ffaef",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1679.72,
+    "end": 1693.72
+  },
+  {
+    "text": "And that just really started the wheel saying you can actually go this direction and be a certified scientist, it's an actual thing.",
+    "uid": "00340672e7c33588",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1693.72,
+    "end": 1701.72
+  },
+  {
+    "text": "And I can live my passion of figuring out how people learn how brains learn.",
+    "uid": "ec38460216d635a0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1701.72,
+    "end": 1706.72
+  },
+  {
+    "text": "I'm also be a teacher because I am also professor. I love that. Thank you.",
+    "uid": "8dbd21afdd219186",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1706.72,
+    "end": 1712.29
+  },
+  {
+    "text": "We also have some people, please in my questions for you. So I'm going to share one of those now.",
+    "uid": "39e13003711bbb11",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1712.29,
+    "end": 1718.29
+  },
+  {
+    "text": "Since your work shows that traumatic experiences are inherited through epigenetic modifications which by the way was explained and illustrated just beautifully in the film.",
+    "uid": "b6e102ebbfff86a2",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1718.29,
+    "end": 1727.29
+  },
+  {
+    "text": "Through your work have you identified any particular modifications that you might be able to target to normalize some of the brain and behavioral changes that you're observing.",
+    "uid": "dc273fef0029a397",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1727.29,
+    "end": 1736.29
+  },
+  {
+    "text": "Thank you. It's an excellent question. There's so much unknown when it comes to epigenetics.",
+    "uid": "0df9f6aa6d96b13f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1736.29,
+    "end": 1741.29
+  },
+  {
+    "text": "They highlighted in the film that this is only after World War II that we really started to see these elements maintained and studied well in humans.",
+    "uid": "c8994974d7200111",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1741.29,
+    "end": 1749.29
+  },
+  {
+    "text": "And so to look at those intricacies that could be happening biologically it's really a frontier that has has not been fully touched.",
+    "uid": "07fe6305c21e298f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1749.29,
+    "end": 1758.29
+  },
+  {
+    "text": "And so there are many aspects that we're looking at. The video covered a little bit something called RNA.",
+    "uid": "051b4bc9a21ddca6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1759.29,
+    "end": 1766.29
+  },
+  {
+    "text": "So DNA and RNA are what make our proteins in our body.",
+    "uid": "4539bdc3e6b1b08d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1766.29,
+    "end": 1770.29
+  },
+  {
+    "text": "But when these things can be read or not read it changes the way the brain develops.",
+    "uid": "ce94e263c20ddf45",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1770.29,
+    "end": 1774.29
+  },
+  {
+    "text": "It changes the way we navigate life because our brain is really a main focus for our behavior.",
+    "uid": "c8550086e4c47e5d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1774.29,
+    "end": 1779.29
+  },
+  {
+    "text": "And so we're really looking at changes in the DNA and RNA but mostly changes in the brain and changes in behavior.",
+    "uid": "0ab6fe880f152d77",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1779.29,
+    "end": 1785.29
+  },
+  {
+    "text": "And that will lead us back to what's happening with them like these are changes. Excellent question.",
+    "uid": "b8bddd8c53e23261",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1785.29,
+    "end": 1792.27
+  },
+  {
+    "text": "In the example you gave in the film of the Dutch hunger winter.",
+    "uid": "119032bb06bf3f84",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1792.27,
+    "end": 1796.27
+  },
+  {
+    "text": "There were documented cases of notches children of people involved, a grand children who suffered from increased metabolic issues and psychiatric disorders like schizophrenia.",
+    "uid": "7e7555a04faa857b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1796.27,
+    "end": 1805.27
+  },
+  {
+    "text": "So we had a question from the audience member Jared Boyce asking how far to those epigenetic modifications actually last.",
+    "uid": "d557ab4d80ec1f46",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1805.27,
+    "end": 1813.27
+  },
+  {
+    "text": "So for example in your work how far or for how many generations do you see the memory of the almond smell.",
+    "uid": "4487da0859b7a817",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1813.27,
+    "end": 1820.27
+  },
+  {
+    "text": "It's a beautiful question and so in our work we're looking at males we're looking at male mice.",
+    "uid": "5968141c5de3ecb0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1820.27,
+    "end": 1825.27
+  },
+  {
+    "text": "But I say that to highlight the fact that my former work looking at maternal behavior was with female mice.",
+    "uid": "7a5909157d924ac4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1825.27,
+    "end": 1830.27
+  },
+  {
+    "text": "And the reason why I made chose specifically to look at male mice is because myself in the video was actually pregnant with my son who is now five months old.",
+    "uid": "40c518d7deb001d5",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1830.27,
+    "end": 1839.27
+  },
+  {
+    "text": "But when I was pregnant with my daughter my daughter developed the eggs of her potential daughters inside of her.",
+    "uid": "59d2eecd8fd7d437",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1839.27,
+    "end": 1845.27
+  },
+  {
+    "text": "So an experience that happens to me could essentially easily affect my granddaughter because of that because of that lineage.",
+    "uid": "594ad9204b62bf4f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1845.27,
+    "end": 1853.27
+  },
+  {
+    "text": "My daughter being inside of me and then her eggs are already being developed.",
+    "uid": "d6fac13bfab7ec4a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1853.27,
+    "end": 1856.27
+  },
+  {
+    "text": "The crazy part about our work is that when it comes to males, male mice, their sex cells, their sperm cells, turn over every month every year of 21 days.",
+    "uid": "05699e37fdfc9fe4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1856.27,
+    "end": 1866.27
+  },
+  {
+    "text": "So there's a message of being maintained somewhere else in the body that continually informs the sperm and informs the subsequent generations.",
+    "uid": "a4047b77ddedccb2",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1866.27,
+    "end": 1875.27
+  },
+  {
+    "text": "And so we're really focusing on that but that can be.",
+    "uid": "7594a71e5505503b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1875.27,
+    "end": 1878.27
+  },
+  {
+    "text": "I haven't tied on and looked at like generation six or seven which is easier in my son it is in humans of course.",
+    "uid": "3efe06a03132d359",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1878.27,
+    "end": 1883.27
+  },
+  {
+    "text": "The Dutch hunger went to her only looking at the third generation because that's been born.",
+    "uid": "29266f8b5a2f47a0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1883.27,
+    "end": 1887.27
+  },
+  {
+    "text": "But we're really focusing even on just the first generation.",
+    "uid": "a6fbd182b3835add",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1887.27,
+    "end": 1890.27
+  },
+  {
+    "text": "What that message can be that's maintained because if you can remember that if something in the body can remember that over three months that's already within itself amazing.",
+    "uid": "f8200385ddc03158",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1890.27,
+    "end": 1898.27
+  },
+  {
+    "text": "Let's shift gears a little bit and discuss motherhood.",
+    "uid": "96d722683df6dcc3",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1905.45,
+    "end": 1909.45
+  },
+  {
+    "text": "You have a gorgeous baby girl which we have the opportunity to see a few times throughout the film.",
+    "uid": "e808bec2f5690172",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1909.45,
+    "end": 1914.45
+  },
+  {
+    "text": "I wonder if you could discuss balancing motherhood and the pressures of being a scientist and also speak a little bit more about how motherhood has actually informed your research.",
+    "uid": "af263c69a8fae2e4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1914.45,
+    "end": 1921.45
+  },
+  {
+    "text": "Thank you for that.",
+    "uid": "4315dd07d20afdb2",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1921.45,
+    "end": 1923.45
+  },
+  {
+    "text": "I'm a side deeply because it's the word balance always is drawing.",
+    "uid": "69093681c15b50a8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1923.45,
+    "end": 1927.45
+  },
+  {
+    "text": "I don't know what that means but I know that I have a purpose as a mother and a purpose as a scientist and a purpose as a wife.",
+    "uid": "68ec2625aa87fbcf",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1927.45,
+    "end": 1936.45
+  },
+  {
+    "text": "And those three things I really aim to make sure that they inform each other.",
+    "uid": "b7b660dc9b3cf36b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1936.45,
+    "end": 1941.45
+  },
+  {
+    "text": "So when I'm doing excellent work when I'm away from my family and I'm giving talks and now it's not too hard for doing zoom talks when I formally travel.",
+    "uid": "913f826732e29350",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1941.45,
+    "end": 1949.45
+  },
+  {
+    "text": "I would see that as a way of honoring my family by doing the best I could do on the job.",
+    "uid": "a88ea97001415c27",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1949.45,
+    "end": 1955.45
+  },
+  {
+    "text": "What I'm doing late nights in lab and I'm not with my babies I'm not putting my five month gold son to sleep.",
+    "uid": "7c0a0786f2d42eff",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1955.45,
+    "end": 1960.45
+  },
+  {
+    "text": "I'm saying I'm dedicating this time in lab and I'm honoring the work we're going to do well because that's the only reflection I can do as a mother not being there.",
+    "uid": "048eee382a27bf2d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1960.45,
+    "end": 1968.45
+  },
+  {
+    "text": "Similarly when I'm with my family I want to make sure I'm informing using my science to like inform my management as a mom.",
+    "uid": "8486f31707cf202b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1968.45,
+    "end": 1977.45
+  },
+  {
+    "text": "And making sure that I give them the attention that they deserve and they need and also my attention that I deserve and need because I can't do it all everyone has 100% of time and every time another child is added in.",
+    "uid": "99a19c4cb80bffdd",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1977.45,
+    "end": 1991.45
+  },
+  {
+    "text": "You still have that 100% of time is just subtracted a little bit for every aspect and so giving myself the freedom to say I can be the best mom even when it's 40% I can be the best scientist even when it's 40% and optimizing on that.",
+    "uid": "282bcde70afb5c15",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 1991.45,
+    "end": 2004.45
+  },
+  {
+    "text": "So it really is not a balance where it's 50% mom and 50% science because there's no percentage beyond that but it's really when I'm in it I'm focused in it and when I'm doing so I'm focused in that and also giving myself the flexibility to say it's okay to be a scientist not but your kids to that it's okay to be a mom and not be in lab at 8pm all of those things are okay.",
+    "uid": "ba4996a46db621b4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2004.45,
+    "end": 2028.45
+  },
+  {
+    "text": "I love that and I love that you acknowledge kind of practicing grace with yourself and self care with yourself it's beautiful.",
+    "uid": "3f47ab934789ec7a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2029.45,
+    "end": 2035.45
+  },
+  {
+    "text": "We have another question from an audience member if we could go ahead and queue it up.",
+    "uid": "2403d4db1a89fb87",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2035.45,
+    "end": 2043.23
+  },
+  {
+    "text": "Okay we had a question on whether there are studies focused on black maternity and the impact that this potential stress and trauma of 2020 has had on pregnancy and newborns during this year.",
+    "uid": "72eb5e3487ede694",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2043.23,
+    "end": 2055.23
+  },
+  {
+    "text": "Excellent question and of course because we're in 2020 these data are still rolling in but we do know that black women are more likely to die during pregnancy and white women.",
+    "uid": "e4ed14d4736ac5f3",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2055.23,
+    "end": 2065.23
+  },
+  {
+    "text": "And that number is increased I just heard recently up to 12 times more likely to die in New York City where we have on the south Bronx which is.",
+    "uid": "91c196f74d427fec",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2065.23,
+    "end": 2075.23
+  },
+  {
+    "text": "Per capita in the United States the most in parvars but also most highly black populated place in the United States and those numbers scare me as a New Yorker mom who also had predicaments during birth.",
+    "uid": "7d831c84ef6e03db",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2075.23,
+    "end": 2089.23
+  },
+  {
+    "text": "And no matter what level of degree of education of letters I have after my name I noted that there were aspects that were unfair reasons that I was set home that should not have been sent home for that it's hard to separate from.",
+    "uid": "58a5afbc97e3e3a2",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2089.23,
+    "end": 2104.23
+  },
+  {
+    "text": "And so these studies are of course rolling in but we know these data and if the case is where women are black women are more likely to die and this is a comparison to white women.",
+    "uid": "006e1173fa0fd316",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2104.23,
+    "end": 2117.23
+  },
+  {
+    "text": "There has to be some aspect that potentially is epigenetic because for generations we have seen.",
+    "uid": "3502cc78694af738",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2117.23,
+    "end": 2126.23
+  },
+  {
+    "text": "And that's the ultimate stress of a human population and even now if we're talking about not just black Americans who are a doc African descendants of slavery but those have come over from other.",
+    "uid": "593fcf71d208412b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2126.23,
+    "end": 2138.23
+  },
+  {
+    "text": "We're a black United States the continual stressor of institutionalized racism plays a role epigenetically and as much as I love studying the work I'm doing in mice and I relate it directly to.",
+    "uid": "d5df1734ccc185a6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2138.23,
+    "end": 2151.23
+  },
+  {
+    "text": "My siblings I think is the only so much to my siblings and what I've heard they've gone through there is a bigger direction with my work when it comes to humanity and respecting humanity and respecting mothers.",
+    "uid": "553e8a8f5153ce02",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2151.23,
+    "end": 2163.23
+  },
+  {
+    "text": "And so I think it's an excellent question and we wish I wish we had more data kind of I also wish it wasn't the case and it was something we didn't have to look into but it is and it's essential to study.",
+    "uid": "3b83f23f7fd49f26",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2163.23,
+    "end": 2173.23
+  },
+  {
+    "text": "Going back to what you mentioned about the studies on the Dutch hunger winter and that population and their offspring are there any other current studies or follow ups going on and other populations at a hunger gone trauma such as African Americans and descendants of slaves.",
+    "uid": "91af524dc1022cb3",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2175.96,
+    "end": 2191.96
+  },
+  {
+    "text": "This I think really highlights this question highlights the importance of inclusivity and science.",
+    "uid": "48232ce0b97fc579",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2192.96,
+    "end": 2197.96
+  },
+  {
+    "text": "I would assume that part of the reason why I'm interested in what I'm studying is because of my unique experience of being a sibling to foster kids to foster siblings of being a black American.",
+    "uid": "61978b7547151009",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2197.96,
+    "end": 2210.96
+  },
+  {
+    "text": "The majority of the studies that have been done have looked at Jewish population.",
+    "uid": "d1d1889d42c97d3c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2210.96,
+    "end": 2214.96
+  },
+  {
+    "text": "The majority of the scientists are doing this are Jewish.",
+    "uid": "7d9f24d7c7253264",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2214.96,
+    "end": 2217.96
+  },
+  {
+    "text": "There are studies that are looking at Chinese post 1950 where there was a famine and looking at how that starvation is played a role in Chinese populations done by Chinese scientists.",
+    "uid": "e7890810fba09e82",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2217.96,
+    "end": 2230.96
+  },
+  {
+    "text": "There's nothing wrong with that that is also important and that's why we need to make sure we have inclusivity and science because there are very few people studying this aspect in eight hours in black Americans and blacks overall.",
+    "uid": "a5bbfe99cdb114d3",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2231.96,
+    "end": 2245.96
+  },
+  {
+    "text": "I'm going to take another question that was pre-submitted from an audience member so you discussed in the film that the brain differences that you saw were in the hearing or auditory centers.",
+    "uid": "2390aa4ed171e03a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2249.69,
+    "end": 2259.69
+  },
+  {
+    "text": "But we also know that the prefrontal cortex is particularly vulnerable to a range of insults with stress being a major one.",
+    "uid": "cfa23cd849d1bd7f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2259.69,
+    "end": 2266.69
+  },
+  {
+    "text": "So this person mysterious whether you might have also observed changes in the prefrontal cortex and whether that might have been reflected in cognitive symptoms in some of your experiments.",
+    "uid": "e45e37d57c3d5895",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2266.69,
+    "end": 2276.69
+  },
+  {
+    "text": "So the prefrontal cortex is a part of the brain that's known to organize what we call executive function so quote unquote higher order decision making etc.",
+    "uid": "f56f39b6d82b4f41",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2277.69,
+    "end": 2288.69
+  },
+  {
+    "text": "The brain also works in concert.",
+    "uid": "a9afacad034a7940",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2288.69,
+    "end": 2290.69
+  },
+  {
+    "text": "So I was looking at first and foremost the hearing centers of the brain called the primary auditory cortex and how that changes between a mother and a virgin and making a virgin pretty much into a mom by changing those centers.",
+    "uid": "77f6c162350027c1",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2290.69,
+    "end": 2302.69
+  },
+  {
+    "text": "And I'm now looking at the nose, the smell centers, the old factory centers specifically called the main old factory epithelium.",
+    "uid": "ecee6d9c6ce1dbd3",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2302.69,
+    "end": 2309.69
+  },
+  {
+    "text": "That's also a sensory area.",
+    "uid": "8632b326e797d171",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2309.69,
+    "end": 2311.69
+  },
+  {
+    "text": "So I've been focusing on these two sensory areas because they're one of the first order areas in which these the external environment is calculated into the brain.",
+    "uid": "bddc2aa5fb5325e9",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2311.69,
+    "end": 2320.69
+  },
+  {
+    "text": "Those now those senses will then go on to further areas in the brain and we know the brain works in concert so specifically have I looked at the prefrontal cortex.",
+    "uid": "97245a61d60c7dae",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2320.69,
+    "end": 2329.69
+  },
+  {
+    "text": "Not yet and it's not just the prefrontal cortex going to be the prefrontal cortex and other areas in the brain.",
+    "uid": "6b038278145cf50e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2329.69,
+    "end": 2335.69
+  },
+  {
+    "text": "I hope that the work that I'm doing looking at a more primary sensory areas will inform those who are expertise in the prefrontal cortex and the amygdala that's associated with emotion and the can't face associated with memory.",
+    "uid": "95426fc77d0f0691",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2335.69,
+    "end": 2349.69
+  },
+  {
+    "text": "Really informed their research.",
+    "uid": "354a7be3c3329321",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2349.69,
+    "end": 2351.69
+  },
+  {
+    "text": "I'm going to take another question from the audience this one's from Chase Alston.",
+    "uid": "eed8b7a0d57fe485",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2358.53,
+    "end": 2362.53
+  },
+  {
+    "text": "They asked are there any other studies on the successive interventions that address more possibly reverse the effects of trauma induced epigenetic changes.",
+    "uid": "44d7af8e108352e5",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2362.53,
+    "end": 2372.53
+  },
+  {
+    "text": "Thank you Chase.",
+    "uid": "c82a8721ff30a9c5",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2372.53,
+    "end": 2373.53
+  },
+  {
+    "text": "Yes, so in the psychology and psychiatry realm, there are practices that have been established for for a period of years in which you can remember the experience that was traumatic and attempt to replace those memories or pair those memories with something less traumatic.",
+    "uid": "a4a62a5b0db74c5e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2373.53,
+    "end": 2391.53
+  },
+  {
+    "text": "And this really has motivated the work that we do.",
+    "uid": "650bf5784eeead90",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2391.53,
+    "end": 2394.53
+  },
+  {
+    "text": "It'd be great to have the older something that was associated with trauma, re-associated with something less traumatic and see how it's that actually changes the brain and if that actually changes the cells in the main effect of the healing and the smell of everything.",
+    "uid": "543a6ebfba03628e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2394.53,
+    "end": 2408.53
+  },
+  {
+    "text": "So we are borrowing work that's been established in psychology and psychiatry and try to apply it to the biological components because although it in practice it's been done.",
+    "uid": "ee48297d9c9bb2e0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2408.53,
+    "end": 2418.53
+  },
+  {
+    "text": "We don't know what the mechanisms look like.",
+    "uid": "ecb52de64cc233bd",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2418.53,
+    "end": 2420.53
+  },
+  {
+    "text": "We don't know how the brain actually changes.",
+    "uid": "9f02c1e7dfceec73",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2420.53,
+    "end": 2422.53
+  },
+  {
+    "text": "So it's really worth it together with all fields of science to come to that answer.",
+    "uid": "1dfb242e8f147399",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2422.53,
+    "end": 2427.53
+  },
+  {
+    "text": "We'll shift gears a little bit and talk about being a black woman in science.",
+    "uid": "b045ff1e3b66f75b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2430.0,
+    "end": 2435.0
+  },
+  {
+    "text": "And so as you know, being a black person, being a black woman in science can be incredibly lonely and isolating.",
+    "uid": "f5021bcc139724d5",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2435.0,
+    "end": 2441.0
+  },
+  {
+    "text": "So I wonder how you have navigated that and if you might have any other tips for other black women who are aspiring scientists.",
+    "uid": "72fa72683a18bb7a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2441.0,
+    "end": 2448.0
+  },
+  {
+    "text": "Thank you for that. I it is. It's it can be extremely lonely.",
+    "uid": "84f923e01ae63f05",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2449.0,
+    "end": 2453.0
+  },
+  {
+    "text": "Although I am American and I speak English sometimes there are times when I felt like I didn't or I wasn't or it wasn't the same.",
+    "uid": "3059d7eec7e69b05",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2453.0,
+    "end": 2463.0
+  },
+  {
+    "text": "But I have allowed myself to find a community of people that may not be black or may not be women but we find connections in other ways.",
+    "uid": "b23caa32e97e6c5a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2463.0,
+    "end": 2475.0
+  },
+  {
+    "text": "And that has had to be what is established.",
+    "uid": "8d07b0075a04780c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2475.0,
+    "end": 2482.0
+  },
+  {
+    "text": "There are it doesn't cure the only this isn't cure the conversation that that are known with black people the same way.",
+    "uid": "4d30de257de17759",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2482.0,
+    "end": 2491.0
+  },
+  {
+    "text": "People who are coming from a different country you just can't speak your native language and live of the person doesn't speak the language.",
+    "uid": "b5e5f839f33c8c9f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2491.0,
+    "end": 2497.0
+  },
+  {
+    "text": "But you can come to the realization that you guys can still enjoy coffee enjoy play dates enjoy I'm in drink after lab because there are other things you can relate to.",
+    "uid": "c9c980bfcd64040e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2497.0,
+    "end": 2507.0
+  },
+  {
+    "text": "So I really focus heavily on those other relations that I can establish as well as invite my black counterparts that I've met that do black and narrow.",
+    "uid": "db5d75a1001ae9b3",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2507.0,
+    "end": 2517.0
+  },
+  {
+    "text": "I'll let me know when you're in New York City because and those are those aspects that you invite the people who you know exist into your realm.",
+    "uid": "512a191f746db6ec",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2517.0,
+    "end": 2526.0
+  },
+  {
+    "text": "And so it's definitely too bold accepting that it may not be a diverse place neuroscience diverse specifically when it comes to black and brown BIPOC but we self to be here we self to survive so instead of not I'm optimizing.",
+    "uid": "ae1aaba79959a28a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2526.0,
+    "end": 2543.0
+  },
+  {
+    "text": "Thank you I'm putting that in my Google calendar now.",
+    "uid": "0b98de48645b0f62",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2543.0,
+    "end": 2546.0
+  },
+  {
+    "text": "I can't wait I can't wait. Okay, we had a question from the spiring scientists from Megan Ryder.",
+    "uid": "e739fc8138614e63",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2546.0,
+    "end": 2553.0
+  },
+  {
+    "text": "She is an undergrad who's looking to get a PhD in the field of neuroscience and she wonders what would you say is the most important thing to do is an applicant to show grad schools that you're capable of working in the field and neuroscience.",
+    "uid": "9c0097d978893238",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2553.0,
+    "end": 2566.0
+  },
+  {
+    "text": "I love this question because it's not although it's far removed from where I was like over a decade it's not that far from my heart.",
+    "uid": "10801a4c3eb08f95",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2566.0,
+    "end": 2572.0
+  },
+  {
+    "text": "I remember being at that that hospital saying like what do I do next to become a teacher do I go into grad school and what does that look like and doing not doing.",
+    "uid": "f0f9a143cbb33a9f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2572.0,
+    "end": 2581.0
+  },
+  {
+    "text": "And I did it to a certain extent I applied to like three schools kind of on a whim and worked out that NYU was ideal and worked out properly.",
+    "uid": "76acd110aa12f80d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2581.0,
+    "end": 2591.0
+  },
+  {
+    "text": "First thing I would do is I would definitely recommend to find a mentor who has gone through this and if that's me then you can find me later.",
+    "uid": "86bca34f10006506",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2591.0,
+    "end": 2599.0
+  },
+  {
+    "text": "But just find someone who's already applied to graduate school who understands the process who understands you and who knows you as a person and what you'd be interested in and where you would thrive and what area you would thrive and what place little place you would thrive.",
+    "uid": "2f0ecc2f89428a32",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2599.0,
+    "end": 2612.0
+  },
+  {
+    "text": "And that I think would be first and foremost paramilion finding someone who has gone through this before.",
+    "uid": "0cd9610206497c84",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2612.0,
+    "end": 2617.0
+  },
+  {
+    "text": "Secondly I would take maybe take part maybe not depending on how how it interacted with you, but science lab and college is not the same as science on the field.",
+    "uid": "7539468735f0c1e8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2618.0,
+    "end": 2627.0
+  },
+  {
+    "text": "So understanding that if you can get your hands in some type of science in the lab component and understanding like that it fills majority of the time that it is dynamic and everyday just have the breathing deep and know that you're going into the unknown.",
+    "uid": "f9edaae8ad26c5f6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2627.0,
+    "end": 2643.0
+  },
+  {
+    "text": "And have that background people look for that because they know it's not a science easy.",
+    "uid": "c5c70c3d6ad17e04",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2643.0,
+    "end": 2648.0
+  },
+  {
+    "text": "And so I would say those two things find the a mentor and having a little bit of lab experience which is not just college by a lab but actual lab lab would definitely in the process.",
+    "uid": "c4c9930f7a659e1a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2648.0,
+    "end": 2658.0
+  },
+  {
+    "text": "And how do we read over your application.",
+    "uid": "e5a9ed9fa805eff3",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2658.0,
+    "end": 2661.0
+  },
+  {
+    "text": "We done another question from the audience from Tyler Bonin.",
+    "uid": "af5a69c845d601e4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2664.0,
+    "end": 2668.0
+  },
+  {
+    "text": "They were wondering what do we know about the constraints on what can actually be remembered and passed down.",
+    "uid": "9965cc34a7594ae1",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2668.0,
+    "end": 2673.0
+  },
+  {
+    "text": "So the experiments so far have been more low dimensional sensory cues so is there kind of a bottle they said a representational bottleneck and what the genome can encode.",
+    "uid": "98adb0674aeec3ef",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2673.0,
+    "end": 2683.0
+  },
+  {
+    "text": "Oh my it's it gives me chills by question one actually remember for my ancestors.",
+    "uid": "e180f6814176be24",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2683.0,
+    "end": 2690.0
+  },
+  {
+    "text": "It's an excellent question and how do we go about answering that.",
+    "uid": "3c750100269dbadc",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2691.0,
+    "end": 2694.0
+  },
+  {
+    "text": "I start by answering the simpler questions of sensory of sensory experience because there's something that we can target when it comes to a flashback or a fear that may not be able to be just older or just sound.",
+    "uid": "6447fb2c381b8c23",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2694.0,
+    "end": 2711.0
+  },
+  {
+    "text": "It's a dynamic question not much it's been progressing the field when it comes to it because it is so intricate.",
+    "uid": "3de4945706d0a6d7",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2711.0,
+    "end": 2717.0
+  },
+  {
+    "text": "But it's an amazing question I hope that my research helps to inform that.",
+    "uid": "fb6640901402835a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2717.0,
+    "end": 2721.0
+  },
+  {
+    "text": "The sorry we can't give you a full on like yes it's there because it's such a.",
+    "uid": "2c539a0c7c36b747",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2721.0,
+    "end": 2726.0
+  },
+  {
+    "text": "Scary but also inspiring question.",
+    "uid": "fe1446f48e45c7a2",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2726.0,
+    "end": 2728.0
+  },
+  {
+    "text": "Yeah it's a huge huge question but great answer.",
+    "uid": "4246d343a98540d5",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2728.0,
+    "end": 2731.0
+  },
+  {
+    "text": "Next I wanted to take the opportunity to bring in our second panelists.",
+    "uid": "88fe5c817e362afe",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2731.0,
+    "end": 2735.0
+  },
+  {
+    "text": "Succi as you heard in the beginning is the brains behind the toolkit and it would be great if you could start by telling us a little bit about why you wanted to create the toolkit in the first place.",
+    "uid": "0b6876021fb355e8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2737.0,
+    "end": 2746.0
+  },
+  {
+    "text": "And how you think it relates to some of the issues that we're discussing today in the breakthrough series as a whole.",
+    "uid": "79c3a93f38081e0e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2746.0,
+    "end": 2752.0
+  },
+  {
+    "text": "Hi thank you.",
+    "uid": "a86be03b5b86c989",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2752.0,
+    "end": 2754.0
+  },
+  {
+    "text": "I got a little emotional I always get a little emotional watching Bianca's video just because it's such an amazing story and I think one of the things behind the toolkit and creating the toolkit is that life experience your identity intersectionality is what is going to make them better.",
+    "uid": "b379bc05129d8415",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2754.0,
+    "end": 2774.0
+  },
+  {
+    "text": "Which it's what's going to deepen the field and I think that ignoring that for so long has stunted science in a lot of ways and so we can only get better by being more inclusive in STEM.",
+    "uid": "7cf37904e4072780",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2774.0,
+    "end": 2790.0
+  },
+  {
+    "text": "So the idea behind the toolkit is not to answer all the questions because that has to be done by a community.",
+    "uid": "58334027a1dc24ee",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2790.0,
+    "end": 2798.0
+  },
+  {
+    "text": "It's just a collection of beginnings.",
+    "uid": "4e38ea1b986031a4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2798.0,
+    "end": 2800.0
+  },
+  {
+    "text": "It's things that people have thrown at the wall to try and see what sticks and basically it's a series of strategies or approaches that people have tried in order to break down institutional racism and inequity.",
+    "uid": "e049f0e1ef7300bb",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2800.0,
+    "end": 2816.0
+  },
+  {
+    "text": "And it's a place for every one to find a starting conversation in what needs to change their institution.",
+    "uid": "e0c72f4d8afa9330",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2816.0,
+    "end": 2825.0
+  },
+  {
+    "text": "So there are pieces that are intended for structural teams larger change in higher education and there are pieces that are for those of us who are still navigating that space.",
+    "uid": "27e853e502683fbc",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2825.0,
+    "end": 2837.0
+  },
+  {
+    "text": "I'm trying to find entry and trying to protect yourself and Bianca you talked about this a little bit right this idea of finding a community optimizing which is necessarily what has to happen while the work to break down a lot of these structural inequities happen.",
+    "uid": "9830a9c18eaed0c8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2837.0,
+    "end": 2855.0
+  },
+  {
+    "text": "And so the toolkit is really just a place to go to start that conversation with people at different levels or tiers at your institution.",
+    "uid": "5614f54ec169eca0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2855.0,
+    "end": 2863.0
+  },
+  {
+    "text": "And even if your institution is not starting anything doesn't have a diversity office doesn't have a place for those conversations to begin to say like, hey there's a resource that has been created.",
+    "uid": "77ea83e4f69eacf7",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2863.0,
+    "end": 2874.0
+  },
+  {
+    "text": "I just want to bring in the caveat the toolkit actually isn't my brain child it is the brain child of a group of a community and it's an ongoing brain child of a community.",
+    "uid": "7305f26ab36dd805",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2874.0,
+    "end": 2885.0
+  },
+  {
+    "text": "So we know that iteration and collaboration is the part of anything good that is going to happen to create change and so we're running open iteration and feedback sessions on the toolkit and trying to get as many voices and opinions and strategies.",
+    "uid": "27daaf0782992f05",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2885.0,
+    "end": 2903.0
+  },
+  {
+    "text": "And it as possible so that's going to be work on going through the rest of the fall winter and spring in order to bring up big community voice into that piece.",
+    "uid": "a86982ac4d9b2068",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2903.0,
+    "end": 2913.0
+  },
+  {
+    "text": "Great thank you it sounds like it's kind of for everyone but do you have a particular type of person that you hope will use and benefit from the toolkit.",
+    "uid": "3d91773f2b4443e0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2913.0,
+    "end": 2923.95
+  },
+  {
+    "text": "That's hard to say yes we do I mean I really hope that it's something that gets picked up in leadership in higher education so people who have the per strings in their hands so.",
+    "uid": "226d6de0f6a50de8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2924.95,
+    "end": 2941.95
+  },
+  {
+    "text": "Dr. Jones my line you talked about scholarships that were available you talked about opportunities and lab and so confronting some of these monetary structural barriers that are putting place.",
+    "uid": "ebef5bc17cbfcf80",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2941.95,
+    "end": 2956.95
+  },
+  {
+    "text": "Is really important and so I really really hope that this helps people to start a conversation with people who have that type of power in their institutions but also help people form and support communities like black and narrow.",
+    "uid": "71c70affb64333dc",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2956.95,
+    "end": 2972.95
+  },
+  {
+    "text": "And like a lot of other organizations that are popping up to provide a affinity network to provide that type of community support that's now happening.",
+    "uid": "460ed1b98b8b7ff8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2972.95,
+    "end": 2983.95
+  },
+  {
+    "text": "Great thank you and this one is for both of you it's from Lisa Folhettler she asked what advice would you give to educators to help increase participation in the sciences for young women of color.",
+    "uid": "10f5c0ce993c3f09",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2983.95,
+    "end": 2994.95
+  },
+  {
+    "text": "Bianca if you wanted to start.",
+    "uid": "f0211518a23db308",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2994.95,
+    "end": 2997.95
+  },
+  {
+    "text": "I'll start by saying invite us.",
+    "uid": "ac0edb9d578c5906",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 2997.95,
+    "end": 3000.95
+  },
+  {
+    "text": "Let us know that we're invited into the space you will not be able to establish the fact that the space is going to be a safe because this base may not be safe there's only to lie to us about that.",
+    "uid": "f861d97d6c8d36a7",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3000.95,
+    "end": 3011.95
+  },
+  {
+    "text": "But let us know that you're taking steps in that direction and that first step is by inviting us.",
+    "uid": "cb94ba6037efa3af",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3011.95,
+    "end": 3016.95
+  },
+  {
+    "text": "Let me know that we're if we're not welcome, but you can't control because you can't control the establishment of the institution that at least we're invited.",
+    "uid": "890a4610d8d61d5d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3016.95,
+    "end": 3024.95
+  },
+  {
+    "text": "Not to let it be okay, but if we're black and stem.",
+    "uid": "ee3042e208d21574",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3024.95,
+    "end": 3029.95
+  },
+  {
+    "text": "We're used to it.",
+    "uid": "e6262d45afd6cd44",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3029.95,
+    "end": 3031.95
+  },
+  {
+    "text": "We know it so instead of trying to protect us from that and saying well we're not going to invite this person because you know we're still working on this don't wait for it to be changed within your institution we will bring the change into your institution because we know that culture we will bring that cultural change.",
+    "uid": "e37f0f9a90d792e4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3032.95,
+    "end": 3047.95
+  },
+  {
+    "text": "All the while you should be doing the work.",
+    "uid": "4b09fd6fd4501944",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3047.95,
+    "end": 3049.95
+  },
+  {
+    "text": "Don't wait till the work is established to invite us in because that may not happen to just invite us.",
+    "uid": "662792214f739834",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3049.95,
+    "end": 3055.95
+  },
+  {
+    "text": "So she did you have anything to add.",
+    "uid": "7d0e0d6e48787011",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3056.95,
+    "end": 3058.95
+  },
+  {
+    "text": "Yeah, so we have a piece of the toolkit that is about ending out weed out cultures, adding your syllabi.",
+    "uid": "ea93e82b064e3bcf",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3058.95,
+    "end": 3068.95
+  },
+  {
+    "text": "Looking at representation within your courses and who you're talking about and who you're representing and really just like kind of ditching these outdated perspectives on who and like reexamining your bias.",
+    "uid": "a08588089bfd5030",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3068.95,
+    "end": 3083.95
+  },
+  {
+    "text": "And I think those are important steps to take but I really think this idea of like how you are waiting students out of stem is something we really need to confront because it's it's it's creating these barriers to entries that I don't know if they're actually accurate.",
+    "uid": "33239af63f0dd94d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3083.95,
+    "end": 3104.26
+  },
+  {
+    "text": "If you don't feel invited in the space if you don't feel like you can grow and try it's hard to feel included it is hard to feel like you have entry so.",
+    "uid": "a7f732e9e15adf13",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3104.26,
+    "end": 3114.26
+  },
+  {
+    "text": "There are a lot of these barriers that we've done to identify talent and I put talent in quotes.",
+    "uid": "317011c3606afb3e",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3115.26,
+    "end": 3121.26
+  },
+  {
+    "text": "And it's a cover for a lot of structural racism.",
+    "uid": "4beea94cb60ee9d6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3121.26,
+    "end": 3126.26
+  },
+  {
+    "text": "It's a cover for a lot of inequity and so really thinking about what we mean when we say a student is talented in stem or has an affinity for it.",
+    "uid": "bc34dbd773a7c5e0",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3126.26,
+    "end": 3136.26
+  },
+  {
+    "text": "Or whether you have have done enough to connect with them and how it's relevant culturally for them and how they can bring their whole selves into the space I think it's an important step to take.",
+    "uid": "0256de8ff6ee382b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3137.26,
+    "end": 3150.26
+  },
+  {
+    "text": "We had a comment that I just wanted to bring up that I think we can just discuss from Catherine.",
+    "uid": "dd6586f6b80a787a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3151.26,
+    "end": 3157.26
+  },
+  {
+    "text": "She said that PIs should start paying undergrads for research because not doing this can act as a barrier to entry for underprivileged students that can't afford to just volunteer their time.",
+    "uid": "7d43125ac7bee015",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3157.26,
+    "end": 3168.26
+  },
+  {
+    "text": "So what advice might you have for academia and trying to trying to change that and why don't why aren't we doing that.",
+    "uid": "1c24d812dc2a0d53",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3168.26,
+    "end": 3176.86
+  },
+  {
+    "text": "Coming back to Damien which we all we all have a level and we know that the funds are that.",
+    "uid": "9da73553c7e94e38",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3176.86,
+    "end": 3181.86
+  },
+  {
+    "text": "It's not like it may be a barrier. It 100% is a barrier. I would not have done any job in undergraduate if I were not being paid for it and I worked at I hop before I started graduate school to pay for first month's rent.",
+    "uid": "f3f2305f4393e506",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3181.86,
+    "end": 3196.86
+  },
+  {
+    "text": "I did not have the flexibility to say let me check this out.",
+    "uid": "1c99df1683f8f8b6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3196.86,
+    "end": 3199.86
+  },
+  {
+    "text": "I was attracted to the things that had a financial gain that also benefited me educationally.",
+    "uid": "f9ee9588f77688c8",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3199.86,
+    "end": 3205.86
+  },
+  {
+    "text": "But equally I would have done the things that had financial gain because you have the Bible extra next semester.",
+    "uid": "5c8c7f02bd5df56f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3205.86,
+    "end": 3209.86
+  },
+  {
+    "text": "So Catherine you bring up one of the paramount most amazing points. A way to level the playing field is to understand that not everyone has the connection of having money follows into their bank account during undergraduate career.",
+    "uid": "7e13b02db0443ffe",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3209.86,
+    "end": 3223.86
+  },
+  {
+    "text": "And we have the institutions that have money and there are other institutions outside that are private to have money.",
+    "uid": "72b8b1ae89619544",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3223.86,
+    "end": 3228.86
+  },
+  {
+    "text": "So honoring the fact that the work should be paid for with your undergraduates and beyond is it's paramount.",
+    "uid": "b402c4e3a0906067",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3228.86,
+    "end": 3234.86
+  },
+  {
+    "text": "So she did you want to add something?",
+    "uid": "0ac63d6131adc21d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3238.2,
+    "end": 3240.2
+  },
+  {
+    "text": "Yes, similar in the joke. We say prioritize compensation.",
+    "uid": "78219efded9393c4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3240.2,
+    "end": 3245.2
+  },
+  {
+    "text": "It is similar to Bianca. I didn't do any job in undergrad if I was not paid for it because I couldn't afford it. There was no safety.",
+    "uid": "8df93c48c307163b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3245.2,
+    "end": 3254.2
+  },
+  {
+    "text": "There was no. And there are people with different situations but you're creating one of those artificial barriers when there is money to do that thing.",
+    "uid": "a89e8b78ae236734",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3254.2,
+    "end": 3262.2
+  },
+  {
+    "text": "The other thing I would say in that is also like when you're engaging in this work of inclusion you also need to pay people to do that work as well. You cannot ask.",
+    "uid": "7c509fc9a3a06c03",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3262.2,
+    "end": 3275.2
+  },
+  {
+    "text": "Like five P.S.E.S. to do that work for free.",
+    "uid": "8dc0db7d68aa5e73",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3275.2,
+    "end": 3279.2
+  },
+  {
+    "text": "It should everyone should be compensated for their time.",
+    "uid": "504c5ffbf7f1902a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3279.2,
+    "end": 3283.2
+  },
+  {
+    "text": "And by doing that you open up more opportunity, but you're also valuing people's brains, their space, their intellectual.",
+    "uid": "e932598d72532440",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3283.2,
+    "end": 3291.2
+  },
+  {
+    "text": "Like all the intellectual work they are doing to contribute to that.",
+    "uid": "9c3eb0b0c90f7c57",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3291.2,
+    "end": 3296.2
+  },
+  {
+    "text": "We have time for one last question and this one is for Bianca.",
+    "uid": "dc8c8acb8790b871",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3298.2,
+    "end": 3303.2
+  },
+  {
+    "text": "So your work studies mechanisms of how we pass on trauma, but I'm curious if you could share whether we know if there are similar processes that play for inheritance of.",
+    "uid": "32b444012adb33de",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3303.2,
+    "end": 3312.2
+  },
+  {
+    "text": "Positive experiences or positive traits.",
+    "uid": "5ab7d662941b9066",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3312.2,
+    "end": 3316.2
+  },
+  {
+    "text": "Early in the film one of the first things I was struck by was hearing your mother discuss being a foster parent.",
+    "uid": "71f4bd9a7fc59d5b",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3316.2,
+    "end": 3321.2
+  },
+  {
+    "text": "And just thinking about the extraordinary levels of compassion that that takes to even want to do something like that.",
+    "uid": "b2e6737a854d0bf1",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3321.2,
+    "end": 3327.2
+  },
+  {
+    "text": "And then you see someone like you, your mother's daughter and the type of work that you do and the compassion that you really radiate.",
+    "uid": "0cbd15cc076f941a",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3327.2,
+    "end": 3333.2
+  },
+  {
+    "text": "You have to wonder is there a potential for kind of transgenerational inheritance of positive experiences and traits.",
+    "uid": "9518fb90bf7ef45c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3333.2,
+    "end": 3340.2
+  },
+  {
+    "text": "And a way for that those mechanisms that you found in your work to work for good.",
+    "uid": "c1b58116a3c4f190",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3340.2,
+    "end": 3344.2
+  },
+  {
+    "text": "So I wonder if you could speak about what we know on passing on positive traits like compassion or even a particular relevance for black Americans resilience and how neuroscience might be better working to understand that.",
+    "uid": "cef253b37ed35486",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3344.2,
+    "end": 3357.2
+  },
+  {
+    "text": "Excellent question and I am I moved emotionally by hearing it.",
+    "uid": "e8d07109dd3c55a6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3357.2,
+    "end": 3362.2
+  },
+  {
+    "text": "I it's hard to separate the nature and the nurturing and this is what I want my work to do to see how much of this component is nurture, how much of epigenetics, which heavily is nurture but with genetic components.",
+    "uid": "1de71b7ee4624d73",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3362.2,
+    "end": 3373.2
+  },
+  {
+    "text": "And how much of it is just your DNA which doesn't change.",
+    "uid": "e6a548c101c81941",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3373.2,
+    "end": 3376.2
+  },
+  {
+    "text": "Yes, my parents are foster parents and mom and dad are foster parents and before we gave birth to before I gave birth I did that one before I gave birth to my five month old.",
+    "uid": "2b3520a161723a71",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3376.2,
+    "end": 3386.2
+  },
+  {
+    "text": "We were foster parents ourselves we had our first foster daughter and it didn't move emotionally because I know that had to do with observing.",
+    "uid": "e5c3c7104dee89a1",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3386.2,
+    "end": 3396.2
+  },
+  {
+    "text": "The change it could make not just in the life of the foster sibling or foster daughter or son that you're bringing in.",
+    "uid": "cdce6b1b2d89d010",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3396.2,
+    "end": 3404.2
+  },
+  {
+    "text": "But our lives as kids in the Jones house had the opportunity to meet people of different ethnic backgrounds different cultural backgrounds different socioeconomic backgrounds.",
+    "uid": "25c489b2a2404ea9",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3404.2,
+    "end": 3415.2
+  },
+  {
+    "text": "And we are living with us as 300% equal there were our siblings they ate the same bad meatloat with my mom made that we did and we all had to go to bed at the same time and to have that forced interaction become so natural.",
+    "uid": "fe6d0037a230b4f6",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3415.2,
+    "end": 3429.2
+  },
+  {
+    "text": "I know that it was it was I assume that I know like emotionally and mentally a changing for me and I want to make sure that we passed that along.",
+    "uid": "80fa10f098006a65",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3429.2,
+    "end": 3438.2
+  },
+  {
+    "text": "It's hard to separate as I said the nature versus nurture and we know that the nature component is real and there so I hope that my work influences.",
+    "uid": "c31d07f58ad76e02",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3438.2,
+    "end": 3448.2
+  },
+  {
+    "text": "What the like the smallest mechanism is that comes to that how much of the positivity is coming in from living in that environment living in that house and if you're separated from that house how much of that you to maintain.",
+    "uid": "e97038b124209b7c",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3448.2,
+    "end": 3459.2
+  },
+  {
+    "text": "The positivity question is important and I want it especially resilience and I want to study it in the future right now I feel that the negative opponent so pressing.",
+    "uid": "ca50bd11a4a6cdee",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3459.2,
+    "end": 3468.2
+  },
+  {
+    "text": "That with my time right now I really want to focus on that.",
+    "uid": "800925b589bdfc10",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3468.2,
+    "end": 3471.2
+  },
+  {
+    "text": "Thank you so much for that your work and that's it was just a beautiful answer.",
+    "uid": "cf28923072cfcddc",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3471.2,
+    "end": 3478.7
+  },
+  {
+    "text": "Unfortunately that's about all we have time for so first I want to thank Bianca for taking the time to be here with us today and suit you for sharing information about what seems like will be a really incredible resource for the academic community.",
+    "uid": "d7ca95dbe3d822ab",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3478.7,
+    "end": 3490.7
+  },
+  {
+    "text": "Thank you to science Friday for creating this important film in this series and for allowing us to share space with you today before we close can both of you share where people can find you when you're work like your social media website.",
+    "uid": "52aae252838bfabe",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3490.7,
+    "end": 3503.7
+  },
+  {
+    "text": "Thank you so I'm on Twitter I'm at B. J. Marlin be Jay Marlin and on Instagram at Bianca Jones Marlin.",
+    "uid": "24d3b583104b5d61",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3503.7,
+    "end": 3513.7
+  },
+  {
+    "text": "I love to hear hear more about the work that you're doing your interest says future scientists.",
+    "uid": "ff08847e1ee50497",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3513.7,
+    "end": 3518.7
+  },
+  {
+    "text": "If you're assigned to potentially my lab let me know and your passions for life so thank you so much.",
+    "uid": "061dd488426360f4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3518.7,
+    "end": 3525.7
+  },
+  {
+    "text": "Thank you Brad, do thank you.",
+    "uid": "e38e5b4fe822eead",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3525.7,
+    "end": 3526.7
+  },
+  {
+    "text": "And if you're interested in following more of the films Bianca is one of the scientists we featured but we also have five other films about five other women in science.",
+    "uid": "99c97076c57e05a1",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3532.19,
+    "end": 3544.19
+  },
+  {
+    "text": "And doing amazing things you can find all those films that break through film.org.",
+    "uid": "2414ec89ad360a0f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3544.19,
+    "end": 3549.19
+  },
+  {
+    "text": "You can also follow us at at-sidefront, Twitter and science right at com our website has a lot of our media and also follow up in a new and more information about Bianca's work as well.",
+    "uid": "ec4e9df3cb14697d",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3549.19,
+    "end": 3561.19
+  },
+  {
+    "text": "Thank you for everyone who didn't get to attend the video will be archived on YouTube and our website.",
+    "uid": "b7bebede95c5237f",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3561.19,
+    "end": 3568.19
+  },
+  {
+    "text": "For everyone who registered for today's event be sure to check your inbox for a post event follow up survey for Black and Nero were just getting started so any and all feedback you can give us for how we can improve our future events will be incredibly useful for us as we move forward.",
+    "uid": "4abbe1f21eddfd19",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3568.19,
+    "end": 3583.19
+  },
+  {
+    "text": "You can find more on us on our website at black and Nero.com and you can find us on social media both Twitter and Instagram at black and Nero and on behalf of all of us at black and Nero and science Friday.",
+    "uid": "8ce7b905d0471ffd",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3583.19,
+    "end": 3594.19
+  },
+  {
+    "text": "Thank you for coming and enjoy the rest of your day.",
+    "uid": "1a625d8c2d4ba9a3",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3594.19,
+    "end": 3597.19
+  },
+  {
+    "text": "Thank you so much by everyone.",
+    "uid": "ff60f91f48377be4",
+    "source": "SciFri - Breakthrough_-_The_Trauma_Tracer_-_Watch_Party_and_Q_A",
+    "start": 3599.19,
+    "end": 3601.19
+  }
+]
