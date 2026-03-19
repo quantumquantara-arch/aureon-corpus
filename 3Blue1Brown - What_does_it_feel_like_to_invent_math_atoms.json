@@ -1,0 +1,968 @@
+[
+  {
+    "text": "Take 1, plus 2, plus 4, plus 8, and continue on and on adding the next power of 2 up to infinity.",
+    "uid": "6d5779d72901df9f",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 3.73,
+    "end": 10.73
+  },
+  {
+    "text": "This might seem crazy, but there's a sense in which this infinite sum equals negative 1.",
+    "uid": "b6bc8cc2647ea0ed",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 10.73,
+    "end": 16.73
+  },
+  {
+    "text": "If you like me, this feels stranger, obviously false, when you first see it.",
+    "uid": "43cb75fa3c4a7261",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 16.73,
+    "end": 21.73
+  },
+  {
+    "text": "But I promise you, by the end of this video, you and I will make it make sense.",
+    "uid": "d2d92cdfbab6ddd4",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 21.73,
+    "end": 25.73
+  },
+  {
+    "text": "To do this, we need to back up.",
+    "uid": "2e9cf5d56caba4fb",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 25.73,
+    "end": 27.73
+  },
+  {
+    "text": "And you and I will walk through what it might feel like to discover convergent infinite sums.",
+    "uid": "82ce09f5dcd6d931",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 27.73,
+    "end": 32.73
+  },
+  {
+    "text": "Those ones that at least seem to make sense.",
+    "uid": "cdd46f1e862fbf93",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 32.73,
+    "end": 34.73
+  },
+  {
+    "text": "To define what they really mean, then to discover this crazy equation and stumble upon new forms of math where it makes sense.",
+    "uid": "1dd6179c12909379",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 34.73,
+    "end": 41.73
+  },
+  {
+    "text": "Imagine that you were an early mathematician in the process of discovering that 1 half, plus 1, 4th, plus 1, 8, plus 1, 16, on and on up to infinity, whatever that means, equals 1.",
+    "uid": "c39bfb00de1a8360",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 41.73,
+    "end": 56.78
+  },
+  {
+    "text": "And imagine that you needed to define what it means to add infinitely many things for your friends to take you seriously.",
+    "uid": "08dd3c5d7935937f",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 56.78,
+    "end": 62.78
+  },
+  {
+    "text": "What would that feel like?",
+    "uid": "6f7e2a90ba86d486",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 62.78,
+    "end": 63.78
+  },
+  {
+    "text": "Frankly, I have no idea, and I imagine that more than anything, if it feels like being wrong or stuck most of the time.",
+    "uid": "4e86bddff3ad3e96",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 63.78,
+    "end": 69.78
+  },
+  {
+    "text": "But I'll give my best guess at one way that the successful parts of it might go.",
+    "uid": "1b1e7e91b8a76d2f",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 69.78,
+    "end": 74.78
+  },
+  {
+    "text": "One day, you're pondering the nature of distances between objects.",
+    "uid": "0192e80937fddc89",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 74.78,
+    "end": 78.78
+  },
+  {
+    "text": "And how no matter how close two things are, it seems that they can always be brought a little bit closer together without touching.",
+    "uid": "031b9b953da280a5",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 78.78,
+    "end": 84.78
+  },
+  {
+    "text": "Farnd of math as you are, you want to capture this paradoxical feeling with numbers.",
+    "uid": "87baebe5af80d469",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 84.78,
+    "end": 88.78
+  },
+  {
+    "text": "So you imagine placing the two objects on the number line, the first is zero, the second at one.",
+    "uid": "0e07a7b1c3887d94",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 88.78,
+    "end": 94.78
+  },
+  {
+    "text": "Then, you march the first object towards the second, such that with each step, the distance between them is cut in half.",
+    "uid": "2dfe5833853dfe0d",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 94.78,
+    "end": 101.78
+  },
+  {
+    "text": "You keep track of the numbers, this object touches during its march, writing down 1 half, 1 half, plus 1, 1 half, plus 1, plus 1, plus 1, 8, and so on.",
+    "uid": "39efa0821520500d",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 101.78,
+    "end": 112.86
+  },
+  {
+    "text": "That is, each number is naturally written as a slightly longer sum with one more power of 2 in it.",
+    "uid": "a4fd302b40222d6a",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 112.86,
+    "end": 118.86
+  },
+  {
+    "text": "As such, you attempt to disay that if these numbers approach anything, we should be able to write this thing down as a sum that contains the reciprocal of every power of 2.",
+    "uid": "cf12066b8005481b",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 118.86,
+    "end": 128.86
+  },
+  {
+    "text": "On the other hand, we can see geometrically that these numbers approach one.",
+    "uid": "97435716210ec1d8",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 128.86,
+    "end": 132.86
+  },
+  {
+    "text": "So what you want to say is that one and some kind of infinite sum are the same thing.",
+    "uid": "cc70a0d2b8e82bec",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 132.86,
+    "end": 139.86
+  },
+  {
+    "text": "If your education was too formal, you'd write the statement off as ridiculous.",
+    "uid": "e9ddad1c09a4a343",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 139.86,
+    "end": 143.86
+  },
+  {
+    "text": "Clearly, you can't add infinitely many things.",
+    "uid": "ee05a7dde6b26810",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 143.86,
+    "end": 145.86
+  },
+  {
+    "text": "No human, computer, or physical thing ever could perform such a task.",
+    "uid": "fc9800208a772a5f",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 145.86,
+    "end": 149.86
+  },
+  {
+    "text": "If, however, you approach math with a healthy irreverence, you'll stand brave in the face of ridiculousness and try to make sense out of this nonsense that you wrote down.",
+    "uid": "8f2f2f6a2bfaf13e",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 149.86,
+    "end": 158.86
+  },
+  {
+    "text": "Since it kind of feels like nature gave it to you.",
+    "uid": "de8db59f9a6cee25",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 158.86,
+    "end": 161.86
+  },
+  {
+    "text": "So how exactly do you do your mathematician?",
+    "uid": "a309e07e856ec19e",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 161.86,
+    "end": 164.86
+  },
+  {
+    "text": "Go about defining infinite sums.",
+    "uid": "915c1418ca1e206a",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 164.86,
+    "end": 167.86
+  },
+  {
+    "text": "Well, practice the math that you are.",
+    "uid": "6bf8ba77b73a8e01",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 167.86,
+    "end": 169.86
+  },
+  {
+    "text": "You know that finding the right definitions is less about generating new thoughts than it is about dissecting old thoughts,",
+    "uid": "b58929e98e53481e",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 169.86,
+    "end": 175.86
+  },
+  {
+    "text": "so you go back to how you came across this fuzzy discovery.",
+    "uid": "1d0414c3f4a118c3",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 175.86,
+    "end": 178.86
+  },
+  {
+    "text": "At no point did you actually perform infinitely many operations?",
+    "uid": "49b414897351fc67",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 178.86,
+    "end": 182.86
+  },
+  {
+    "text": "You had a list of numbers, a list that could keep going forever if you had the time,",
+    "uid": "7fd8c3fb5f7b04ed",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 182.86,
+    "end": 189.17
+  },
+  {
+    "text": "and each number came from it perfectly reasonable finite sum.",
+    "uid": "79fed29998bc8c52",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 189.17,
+    "end": 193.17
+  },
+  {
+    "text": "You noticed with the numbers in this list approach one,",
+    "uid": "67383b1d28c21fcd",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 193.17,
+    "end": 197.17
+  },
+  {
+    "text": "but what do you mean by a approach?",
+    "uid": "06355ef1c0a3b7ce",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 197.17,
+    "end": 199.17
+  },
+  {
+    "text": "It's not just that the distance between each number and one is smaller,",
+    "uid": "2da8372c6f37c2e0",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 199.17,
+    "end": 204.64
+  },
+  {
+    "text": "because for that matter, the distance between each number and two also gets smaller.",
+    "uid": "c35bb56b05cb96db",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 204.64,
+    "end": 209.64
+  },
+  {
+    "text": "After thinking about it, you realize what makes one special is that your numbers can get arbitrarily close to one,",
+    "uid": "bc55456accfe4544",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 209.64,
+    "end": 215.64
+  },
+  {
+    "text": "which is to say, no matter how small your desired distance,",
+    "uid": "73c93450fdb22386",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 215.64,
+    "end": 219.64
+  },
+  {
+    "text": "one 100, one 1m, or one over the largest number you could write down,",
+    "uid": "63114cff43b05522",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 219.64,
+    "end": 224.64
+  },
+  {
+    "text": "if you go down your list long enough, the numbers will eventually fall within that tiny, tiny distance of one.",
+    "uid": "0d364ccc9e411b9a",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 224.64,
+    "end": 230.64
+  },
+  {
+    "text": "retrospectively, this might seem like the clear way to solidify what you mean by a approach,",
+    "uid": "3cef03d0f4ebe4a7",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 230.64,
+    "end": 236.4
+  },
+  {
+    "text": "but as a first time endeavor is actually incredibly clever.",
+    "uid": "6450cd4c06ddb97b",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 236.4,
+    "end": 240.4
+  },
+  {
+    "text": "Now you pull out your pin and scribble down the definition for what it means for an infinite sum to each sum number, say, X.",
+    "uid": "33c4fe0294b39be1",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 240.4,
+    "end": 248.4
+  },
+  {
+    "text": "It means that when you generate a list of numbers by cutting off your sum at finite points,",
+    "uid": "9c082dd7e8f3825d",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 248.4,
+    "end": 255.64
+  },
+  {
+    "text": "the numbers in this list approach X, in the sense that no matter how small the distance you choose,",
+    "uid": "355b333071ccaaf9",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 255.64,
+    "end": 260.64
+  },
+  {
+    "text": "at some point down the list, all the numbers start falling within that distance of X.",
+    "uid": "9caeacd05dc3c241",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 260.64,
+    "end": 265.64
+  },
+  {
+    "text": "In doing this, you just invented some math,",
+    "uid": "130a7c9a5ed673d9",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 265.64,
+    "end": 269.64
+  },
+  {
+    "text": "but it never felt like you were pulling things out of thin air.",
+    "uid": "6a649abeae1a234d",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 269.64,
+    "end": 272.64
+  },
+  {
+    "text": "You were just trying to justify what it was that the universe gave you in the first place.",
+    "uid": "92f138b83907159c",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 272.64,
+    "end": 276.64
+  },
+  {
+    "text": "You might wonder if you can find other, more general truths about these infinite sums that you just invented.",
+    "uid": "4cf7796690aba405",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 276.64,
+    "end": 284.85
+  },
+  {
+    "text": "To do so, you look for where you made any arbitrary decisions.",
+    "uid": "5358b1dba1e33af9",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 284.85,
+    "end": 288.85
+  },
+  {
+    "text": "For instance, when you were shrinking the distance between your objects,",
+    "uid": "94c7a064e6fc66bf",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 288.85,
+    "end": 292.85
+  },
+  {
+    "text": "cutting the interval into pieces of size 1.5, 1.4, etc.",
+    "uid": "6b303225afcaecf6",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 292.85,
+    "end": 296.85
+  },
+  {
+    "text": "You could have chosen a proportion other than 1.5.",
+    "uid": "cdb1d8cca88a4b38",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 296.85,
+    "end": 299.85
+  },
+  {
+    "text": "You could have instead cut your interval into pieces of size 9.10s and 1.10th.",
+    "uid": "9497880c6bc1324c",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 299.85,
+    "end": 304.85
+  },
+  {
+    "text": "And then cut that right most piece into the same proportions, giving you smaller pieces of size 9.100s and 1.100s.",
+    "uid": "4fafc8b50701e7c9",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 304.85,
+    "end": 311.85
+  },
+  {
+    "text": "Then cut that tiny piece of size 1.100s similarly.",
+    "uid": "4ebe283703b9321d",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 311.85,
+    "end": 315.85
+  },
+  {
+    "text": "Continuing on and on, you'd see that 9.10s plus 9.100s plus 9.1000s,",
+    "uid": "b89d60cfb39ddc7f",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 315.85,
+    "end": 320.85
+  },
+  {
+    "text": "on and on up to infinity equals 1.",
+    "uid": "99ec15d5f117aec0",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 320.85,
+    "end": 323.85
+  },
+  {
+    "text": "In fact, more popularly written as .9 repeating equals 1.",
+    "uid": "213b75d7f956c76e",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 323.85,
+    "end": 327.85
+  },
+  {
+    "text": "To all of your friends who insist that this doesn't equal 1,",
+    "uid": "c231f74da03b56bb",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 327.85,
+    "end": 330.85
+  },
+  {
+    "text": "and it just approaches it, you can now just smile because you know that within",
+    "uid": "eeea3f9d266863ab",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 330.85,
+    "end": 334.85
+  },
+  {
+    "text": "infinite sums to approach and to equal mean the same thing.",
+    "uid": "a35669c751e83168",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 334.85,
+    "end": 340.42
+  },
+  {
+    "text": "To be general about it, let's say that you cut your interval into pieces of size p and 1.",
+    "uid": "2bef2382c0d54f1c",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 340.42,
+    "end": 345.42
+  },
+  {
+    "text": "minus p, where p represents any number between 0 and 1.",
+    "uid": "12ffd8aec0c63546",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 345.42,
+    "end": 349.42
+  },
+  {
+    "text": "Cutting the piece of size p in similar proportions, we now get pieces of size p times 1 minus p and p squared.",
+    "uid": "1e6b4b42b2577712",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 349.42,
+    "end": 356.42
+  },
+  {
+    "text": "Continuing in this fashion, always cutting up the right most piece into those same proportions.",
+    "uid": "2dc3405cedd22d1c",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 356.42,
+    "end": 363.98
+  },
+  {
+    "text": "You'll find that 1 minus p plus p times 1 minus p plus p squared times 1 minus p,",
+    "uid": "2b7553ea8f86e4dc",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 363.98,
+    "end": 369.98
+  },
+  {
+    "text": "on and on, always adding p to the next power times 1 minus p equals 1.",
+    "uid": "98e0234a316f50f7",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 369.98,
+    "end": 374.98
+  },
+  {
+    "text": "Dividing both sides by 1 minus p, we get this nice formula.",
+    "uid": "9ef0d68348af3698",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 374.98,
+    "end": 379.98
+  },
+  {
+    "text": "In this formula, the universe has offered a weird form of nonsense.",
+    "uid": "2b562f1afa6f0821",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 379.98,
+    "end": 387.63
+  },
+  {
+    "text": "Even though the way that you discovered it only makes sense for values of p between 0 and 1,",
+    "uid": "3b55a7cedc44c532",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 387.63,
+    "end": 392.63
+  },
+  {
+    "text": "the right hand side still makes sense when you replace p with any other number,",
+    "uid": "bc311a863c124ad2",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 392.63,
+    "end": 396.63
+  },
+  {
+    "text": "except maybe for 1.",
+    "uid": "bd114c83ce33c6ed",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 396.63,
+    "end": 398.63
+  },
+  {
+    "text": "For instance, plugging in negative 1, the equation reads 1 minus 1 plus 1 minus 1 minus 1,",
+    "uid": "2495c30734dc0637",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 398.63,
+    "end": 407.17
+  },
+  {
+    "text": "on and on forever alternating between the 2 equals 1 half, which feels both pretty silly,",
+    "uid": "1ea3865edad9d456",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 407.17,
+    "end": 414.17
+  },
+  {
+    "text": "and kind of the only thing that it could be.",
+    "uid": "12db85f407bf2b81",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 414.17,
+    "end": 417.17
+  },
+  {
+    "text": "Plugging in 2, the equation reads 1 plus 2 plus 4 plus 8 on and on to infinity equals negative 1,",
+    "uid": "6d1150999a5e98e8",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 417.17,
+    "end": 427.7
+  },
+  {
+    "text": "something which doesn't even seem reasonable.",
+    "uid": "f1e2c6b13077c484",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 427.7,
+    "end": 430.7
+  },
+  {
+    "text": "On the one hand, rigor would dictate that you ignore these, since the definition of infinite sums doesn't apply in these cases.",
+    "uid": "e8e713d71fd1ea94",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 430.7,
+    "end": 436.7
+  },
+  {
+    "text": "The list of numbers that you generate by cutting off the sum at finite points doesn't approach anything,",
+    "uid": "9d9790108d1544d4",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 436.7,
+    "end": 442.7
+  },
+  {
+    "text": "but you're a mathematician, not a robot, so you don't let the fact that something is nonsensical stop you.",
+    "uid": "bf067acc1b2946d9",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 442.7,
+    "end": 457.32
+  },
+  {
+    "text": "I will leave this sum for another day so that we can jump directly into this monster.",
+    "uid": "d811154ec524817c",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 457.32,
+    "end": 462.32
+  },
+  {
+    "text": "First, to clean things up, notice what you get when you cut off the sum at finite points.",
+    "uid": "3976d69fe0731f81",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 463.32,
+    "end": 468.32
+  },
+  {
+    "text": "1, 3, 7, 15, 31, they're all 1 less than a power of 2.",
+    "uid": "7a7e730414ba5938",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 468.32,
+    "end": 475.32
+  },
+  {
+    "text": "In general, when you add up the first n powers of 2, you get 2 to the n plus 1 minus 1,",
+    "uid": "62f6aa0df6b02981",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 475.32,
+    "end": 481.32
+  },
+  {
+    "text": "which this animation hopefully makes clear.",
+    "uid": "31e136bba87137fa",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 481.32,
+    "end": 484.32
+  },
+  {
+    "text": "You decide to humor the universe and pretend that these numbers all 1 less than a power of 2 actually do a approach negative 1.",
+    "uid": "3959662a461e6da8",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 484.32,
+    "end": 506.9
+  },
+  {
+    "text": "It will prove to be cleaner if we add 1 to everything and say that the powers of 2 approach 0 is there any way that this can make sense.",
+    "uid": "cdb46ae0fdb217a5",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 506.9,
+    "end": 517.57
+  },
+  {
+    "text": "In effect, what you're trying to do is make this formula more general, by saying that it applies to all numbers, not just those between 0 and 1.",
+    "uid": "2c8121993b6cdc89",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 517.57,
+    "end": 525.57
+  },
+  {
+    "text": "Again, to make things more general, you look for any place where you made an arbitrary choice.",
+    "uid": "48a837e58ecf8165",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 525.57,
+    "end": 531.57
+  },
+  {
+    "text": "Here, that place turns out to be very sneaky.",
+    "uid": "69b5b275e295eea9",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 532.57,
+    "end": 535.57
+  },
+  {
+    "text": "So sneaky, in fact, that it took mathematicians until the 20th century to find it.",
+    "uid": "342660e6497520f4",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 535.57,
+    "end": 540.57
+  },
+  {
+    "text": "It's the way that we define distance between two rational numbers.",
+    "uid": "97b3b333ed639fc5",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 540.57,
+    "end": 545.57
+  },
+  {
+    "text": "That is to say, organizing them on a line might not be the only reason of a way to organize them.",
+    "uid": "ef070ffe7c5b5330",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 545.57,
+    "end": 555.45
+  },
+  {
+    "text": "The notion of distance is essentially a function that takes in two numbers and outputs a number indicating how far apart they are.",
+    "uid": "97f6110ef5726c15",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 555.45,
+    "end": 562.45
+  },
+  {
+    "text": "You could come up with a completely random notion of distance, where 2 is 7 away from 3 and 1 half is 4 fits away from 100 and all sorts of things.",
+    "uid": "14c7a22d49991b92",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 562.45,
+    "end": 573.08
+  },
+  {
+    "text": "But if you want to actually use a new distance function, the way that you use the familiar distance function, it should share some of the same properties.",
+    "uid": "24167afb4953756a",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 573.08,
+    "end": 581.08
+  },
+  {
+    "text": "For example, the distance between two numbers shouldn't change if you shift them both by the same amount.",
+    "uid": "a8397593bbbe04c4",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 581.08,
+    "end": 588.08
+  },
+  {
+    "text": "So 0 and 4 should be the same distance away as 1 and 5 or 2 and 6, even if that same distance is something other than 4 as we're used to.",
+    "uid": "5b35b506c823acd6",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 588.08,
+    "end": 598.08
+  },
+  {
+    "text": "Keeping things general, the distance between two numbers shouldn't change if you add the same amount to both of them.",
+    "uid": "5951f05415fc5de7",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 598.08,
+    "end": 604.08
+  },
+  {
+    "text": "Let's call this property shift invariants.",
+    "uid": "8f6b98e5e23ff189",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 604.08,
+    "end": 607.08
+  },
+  {
+    "text": "There are other properties that you want your notion of distance to have as well, like the triangle inequality, but before we start worrying about those,",
+    "uid": "5798d5e510e993d5",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 607.08,
+    "end": 616.65
+  },
+  {
+    "text": "let's start imagining what notion of distance could possibly make powers of 2 approach 0 and which is shift invariant.",
+    "uid": "34ab888a3a854313",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 616.65,
+    "end": 624.65
+  },
+  {
+    "text": "At first, you might toil for a while to find a frame of mind where this doesn't feel like utter nonsense, but with enough time and a bit of luck, you might think to organize your numbers into rooms, sub rooms, sub rooms and so on.",
+    "uid": "7b67a3abe6dd808b",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 624.65,
+    "end": 639.65
+  },
+  {
+    "text": "You think of 0 as being in the same room as all of the powers of 2 greater than 1.",
+    "uid": "ad2904bf7be8bce1",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 639.65,
+    "end": 645.65
+  },
+  {
+    "text": "As being in the same sub room as all powers of 2 greater than 2, as being in the same sub sub room as powers of 2 greater than 4 and so on, with infinitely many smaller and smaller rooms.",
+    "uid": "bd3bb34ffbcbcce9",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 645.65,
+    "end": 658.65
+  },
+  {
+    "text": "It's pretty hard to draw infinitely many things, so I'm only going to draw 4 room sizes, but keep in the back of your mind that this process should be able to go on forever.",
+    "uid": "30ca0f830d9efd62",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 658.65,
+    "end": 668.65
+  },
+  {
+    "text": "If we think of every number as lying in a hierarchy of rooms, not just 0, shift invariants will tell us where all of the numbers must fall.",
+    "uid": "70ebbcc8330f916c",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 669.65,
+    "end": 677.65
+  },
+  {
+    "text": "For instance, one should be as far away from 3 as 2 is from 0.",
+    "uid": "062a79e202a798ae",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 677.65,
+    "end": 683.65
+  },
+  {
+    "text": "Likewise, the distance between 0 and 4 should be the same as that between 1 and 5, 2 and 6 and 3 and 7.",
+    "uid": "a3b8a1e2c40b8363",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 683.65,
+    "end": 691.65
+  },
+  {
+    "text": "Continuing like this, you'll see which rooms, sub rooms, sub rooms, and so on, successive numbers must fall into.",
+    "uid": "c67244f9d2b648cb",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 691.65,
+    "end": 699.65
+  },
+  {
+    "text": "You can also deduce where negative numbers must fall, for example, negative 1 has to be in the same room as 1.",
+    "uid": "1f756e73c4c722c7",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 699.65,
+    "end": 711.68
+  },
+  {
+    "text": "In the same sub room as 3, the same sub sub room as 7.",
+    "uid": "7dd81772aece14c3",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 711.68,
+    "end": 717.68
+  },
+  {
+    "text": "And so on, always in smaller and smaller rooms, with numbers 1 less than a power of 2, because 0 is in smaller and smaller rooms with the powers of 2.",
+    "uid": "50f8ef7e4eb8c003",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 717.68,
+    "end": 727.68
+  },
+  {
+    "text": "So, how do you turn this general idea of closeness based on rooms and sub rooms into an actual distance function?",
+    "uid": "3445b9456513b290",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 727.68,
+    "end": 734.68
+  },
+  {
+    "text": "You can't take the drawing too literally, since it makes one look very close to 14 and 0, very far from 13, even though shift invariants should imply that they're the same distance away.",
+    "uid": "27c481c4c44c868f",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 734.68,
+    "end": 745.68
+  },
+  {
+    "text": "Again, in the actual process of discovering, you might toil away scribbling through many sheets of paper, but if you have the idea that the only thing which should matter in determining the distance between 2 objects is the size of the smallest room they share, you might come up with the following.",
+    "uid": "6ca2d82a932a3ec5",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 745.68,
+    "end": 762.68
+  },
+  {
+    "text": "Any numbers lying in different large yellow rooms are distance 1 from each other.",
+    "uid": "336aa01bc8aa1d92",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 762.68,
+    "end": 770.6
+  },
+  {
+    "text": "Those which are in the same large room, but not in the same orange sub room are distance 1 half from each other.",
+    "uid": "b25387a5a9109b3b",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 770.6,
+    "end": 777.6
+  },
+  {
+    "text": "Those that are in the same orange sub room, but not in the same sub sub room are distance 1 fourth from each other.",
+    "uid": "2facabface0e7bd6",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 777.6,
+    "end": 790.02
+  },
+  {
+    "text": "And you continue like this, using the reciprocals of larger and larger powers of 2 to indicate closeness.",
+    "uid": "37b3528207603946",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 790.02,
+    "end": 797.02
+  },
+  {
+    "text": "We won't do it in this video, but see if you can reason about which rooms other rational numbers, like 1 third and 1 half should fall into.",
+    "uid": "47c94e028d7d60fd",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 797.02,
+    "end": 806.02
+  },
+  {
+    "text": "And see if you can prove why this notion of distance satisfies many of the nice properties we expect from a distance function, like the triangle inequality.",
+    "uid": "7d00796e5e92f954",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 806.02,
+    "end": 815.02
+  },
+  {
+    "text": "Here, I'll just say that this notion of distance is a perfectly legitimate one.",
+    "uid": "4d65362c24a183e4",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 815.02,
+    "end": 820.02
+  },
+  {
+    "text": "We call it the two-addict metric, and it falls into a general family of distance functions called a p-addict metrics, where p stands for any prime number.",
+    "uid": "1ff7d4f7f45d29b8",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 820.02,
+    "end": 828.02
+  },
+  {
+    "text": "These metrics give rise to a completely new type of number, neither real nor complex, and have become a central notion in modern number theory.",
+    "uid": "3a21b0634caff95c",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 828.02,
+    "end": 836.02
+  },
+  {
+    "text": "Using the two-addict metric, the fact that the sum of all powers of 2 equals negative 1 actually makes sense, because the numbers 1, 3, 7, 15, 31 and so on, genuinely approach negative 1.",
+    "uid": "c83f0ba247725506",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 836.02,
+    "end": 850.65
+  },
+  {
+    "text": "This parable does not actually portray the historical trajectory of discoveries, but nevertheless, I still think it's a good illustration of a recurring pattern in the discovery of math.",
+    "uid": "8f7d0205b5369c9a",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 850.65,
+    "end": 860.65
+  },
+  {
+    "text": "First, nature hands you something that's ill-defined or even nonsensical.",
+    "uid": "7a683032779c478a",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 860.65,
+    "end": 865.65
+  },
+  {
+    "text": "The new defined new concepts that make this fuzzy discovery make sense, and these new concepts tend to yield genuinely useful math and broaden your mind about traditional notions.",
+    "uid": "39089d6467ea976d",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 865.65,
+    "end": 876.65
+  },
+  {
+    "text": "So, an answer to the age-old question of whether math is invention or discovery.",
+    "uid": "69a0cc11bbdbbb88",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 876.65,
+    "end": 881.65
+  },
+  {
+    "text": "By personal belief, is the discovery of non-regorous truths, is what leads us to the construction of rigorous terms that are useful,",
+    "uid": "9d67e751cbe0214f",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 881.65,
+    "end": 888.65
+  },
+  {
+    "text": "opening the door for more fuzzy discoveries, continuing this cycle.",
+    "uid": "f532115d13abd1bb",
+    "source": "3Blue1Brown - What_does_it_feel_like_to_invent_math",
+    "start": 888.65,
+    "end": 892.65
+  }
+]
