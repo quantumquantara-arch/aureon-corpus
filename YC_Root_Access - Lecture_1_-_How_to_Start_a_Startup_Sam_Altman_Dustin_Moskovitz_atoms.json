@@ -1,0 +1,4692 @@
+[
+  {
+    "text": "Can I turn this on?",
+    "uid": "cf8e0eff165f20e5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2.24,
+    "end": 4.24
+  },
+  {
+    "text": "Get people here on the back.",
+    "uid": "716e10505e67a45b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 7.24,
+    "end": 9.24
+  },
+  {
+    "text": "Can you guys hear me? Is the mic on?",
+    "uid": "546096f01029f230",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 9.24,
+    "end": 11.24
+  },
+  {
+    "text": "Maybe you can ask them to turn it on.",
+    "uid": "e85831a62279cb2d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 12.24,
+    "end": 15.24
+  },
+  {
+    "text": "Maybe we can get a big- ah, there we go.",
+    "uid": "62abf6af7dd48456",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 15.24,
+    "end": 19.24
+  },
+  {
+    "text": "Maybe we can get a bigger auditorium.",
+    "uid": "a832e3f6406e9fd8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 20.24,
+    "end": 22.24
+  },
+  {
+    "text": "So welcome to CS-1-E3B.",
+    "uid": "05ce17857e3092b6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 22.24,
+    "end": 24.24
+  },
+  {
+    "text": "I'm Sam Altman. I'm the president of White Combinator.",
+    "uid": "edbad3350c975238",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 24.24,
+    "end": 27.24
+  },
+  {
+    "text": "I was a Stanford student and then I dropped out of the company and then I've been",
+    "uid": "234eb4c69dd1d5e8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 27.24,
+    "end": 32.24
+  },
+  {
+    "text": "an investor for the last few.",
+    "uid": "28badc55f48202d8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 32.24,
+    "end": 33.24
+  },
+  {
+    "text": "So, I see. We've been teaching people how to start startups for nine years.",
+    "uid": "a874d69083d1c89c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 33.24,
+    "end": 38.24
+  },
+  {
+    "text": "Most of it's very hands-on and specific to the startups.",
+    "uid": "44b9d6294b2581ed",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 38.24,
+    "end": 41.24
+  },
+  {
+    "text": "But 30% of it is pretty generally applicable.",
+    "uid": "51716a2e261f741e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 41.24,
+    "end": 44.24
+  },
+  {
+    "text": "And so, we think that we can teach that 30% in this class.",
+    "uid": "859b100e8e4f2222",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 44.24,
+    "end": 48.24
+  },
+  {
+    "text": "And even though that's only 30% of the way there, hopefully it will still be really helpful.",
+    "uid": "a50771c3d07b5e6e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 48.24,
+    "end": 52.24
+  },
+  {
+    "text": "We've taught a lot of this at White Sea already, but it's all been off the record.",
+    "uid": "8568ca083c347ab9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 52.24,
+    "end": 56.24
+  },
+  {
+    "text": "And this is the first time that a lot of what we teach in White Sea is going to be on the record.",
+    "uid": "41bd6ec984906535",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 56.24,
+    "end": 59.24
+  },
+  {
+    "text": "So we've invited some of our best speakers to come and give the same talks that give it WIC.",
+    "uid": "39ba67b46df00e29",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 59.24,
+    "end": 63.24
+  },
+  {
+    "text": "We've now funded 720 companies.",
+    "uid": "a9547a676b5a429a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 63.24,
+    "end": 66.24
+  },
+  {
+    "text": "And so we're pretty sure that a lot of this advice is pretty good.",
+    "uid": "42dd4aa622755345",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 66.24,
+    "end": 69.24
+  },
+  {
+    "text": "We can't find every startup yet, but we can hopefully make this advice very generally available.",
+    "uid": "f350534abbe03be5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 69.24,
+    "end": 74.24
+  },
+  {
+    "text": "Guest speakers are going to teach 17 of the 20 classes.",
+    "uid": "3ae7a458c9f8ba04",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 74.24,
+    "end": 78.24
+  },
+  {
+    "text": "I'm only teaching 3.",
+    "uid": "ee03279231694983",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 78.24,
+    "end": 79.24
+  },
+  {
+    "text": "County and YC itself, every guest speaker has been involved in the creation of a billion plus dollar company.",
+    "uid": "85a9cb541c89a181",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 80.24,
+    "end": 87.24
+  },
+  {
+    "text": "So the advice shouldn't be that theoretical.",
+    "uid": "cd32729f9af09f61",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 87.24,
+    "end": 89.24
+  },
+  {
+    "text": "It's all from people who've done it.",
+    "uid": "d927086e9c157446",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 89.24,
+    "end": 92.24
+  },
+  {
+    "text": "All of the advice in this class is geared towards people starting in a business where the goal is hyper-growth.",
+    "uid": "22f30c778dd568f5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 92.24,
+    "end": 98.24
+  },
+  {
+    "text": "And eventually building a very large company.",
+    "uid": "18cf16cdbb85acaf",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 98.24,
+    "end": 101.24
+  },
+  {
+    "text": "Much of it doesn't apply in other cases, and I want to warn people up front that if you try and do these things in a lot of big companies or non- startups, it won't work.",
+    "uid": "5bfc96290b38a8c1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 101.24,
+    "end": 108.24
+  },
+  {
+    "text": "It should still be interesting.",
+    "uid": "ca81f50091b81771",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 108.24,
+    "end": 110.24
+  },
+  {
+    "text": "I really do think that startups are the way of the future, and it's worth trying to understand them, but startups are very different than normal companies.",
+    "uid": "802a51637832310e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 110.24,
+    "end": 117.24
+  },
+  {
+    "text": "So over the course of today and Thursday, I'm going to try to give an overview of the four areas that you need to excel at in order to maximize your chances of success to start up.",
+    "uid": "bec0c65ac2a4786c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 117.24,
+    "end": 126.24
+  },
+  {
+    "text": "And then throughout the course, the guest speakers are going to drill into all of these in more detail.",
+    "uid": "4588190ed298234c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 126.24,
+    "end": 131.24
+  },
+  {
+    "text": "So the four areas, you need a great idea, a great product, a great team, great execution.",
+    "uid": "d34faae6d4267078",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 131.24,
+    "end": 136.24
+  },
+  {
+    "text": "These overlap somewhat, but I'm going to have to talk about them somewhat individually to make a make sense.",
+    "uid": "d042cf707ac64910",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 137.24,
+    "end": 143.24
+  },
+  {
+    "text": "You may still fail.",
+    "uid": "924d080809a519f3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 143.24,
+    "end": 145.24
+  },
+  {
+    "text": "The outcome is something like idea, times product, times execution, times team, times luck, where luck is around a number between zero and 10,000.",
+    "uid": "c9ffd372c990aeb5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 145.24,
+    "end": 154.24
+  },
+  {
+    "text": "Literally that much.",
+    "uid": "6ab1d7bead587bb2",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 154.24,
+    "end": 155.24
+  },
+  {
+    "text": "But if you do really well in the four areas, you can control.",
+    "uid": "9d3764abc2cee017",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 155.24,
+    "end": 157.24
+  },
+  {
+    "text": "You have a good chance that it will be so non-obsuccess.",
+    "uid": "4f2d0489283daed6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 157.24,
+    "end": 160.24
+  },
+  {
+    "text": "One of the exciting things about startups is that they are surprisingly even playing field.",
+    "uid": "c1f64e9851505781",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 160.24,
+    "end": 165.24
+  },
+  {
+    "text": "Young enough experience. You can do this, old and very experienced. You can do this too.",
+    "uid": "090377ffd855d141",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 165.24,
+    "end": 170.24
+  },
+  {
+    "text": "And one of the things that I particularly like about startups is that some of the things that are bad in other work situations like being porn unknown are actually huge assets when it comes to starting a startup.",
+    "uid": "d0bba9525f916c8d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 170.24,
+    "end": 181.24
+  },
+  {
+    "text": "Before we jump in on how, I want to talk about why you should start a startup.",
+    "uid": "6b87b668673ec9b0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 181.24,
+    "end": 186.24
+  },
+  {
+    "text": "I'm someone hesitant to be doing this class at all because you should never start a startup just for the sake of doing so.",
+    "uid": "c6e5788c7b0eac73",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 186.24,
+    "end": 191.24
+  },
+  {
+    "text": "There are much easier ways to get rich and everyone who starts a startup always says always that they couldn't imagine how hard and painful is going to be.",
+    "uid": "053d17a6894bbd2d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 191.24,
+    "end": 199.24
+  },
+  {
+    "text": "You should only start a startup if you feel compelled by a particular problem and that you think starting a company is the best way to solve it.",
+    "uid": "50163c3b8bf05f68",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 199.24,
+    "end": 206.24
+  },
+  {
+    "text": "The specific passion should come first and the startup second.",
+    "uid": "dff09566233cc99f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 206.24,
+    "end": 210.24
+  },
+  {
+    "text": "In fact, all of the big successes we have at YC followed this.",
+    "uid": "5ac91593a943ac75",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 210.24,
+    "end": 213.24
+  },
+  {
+    "text": "So for the second half of today's lecture, Dustin Moskovitz, the co-founder of Facebook and Assana, is going to take over and talk about why the startup started.",
+    "uid": "9d13c046ba59a2d5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 214.24,
+    "end": 221.24
+  },
+  {
+    "text": "We are so surprised by the amount of attention that this class got that we are going to make sure we spend a lot of time on the why.",
+    "uid": "64cf9fbdae41139b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 221.24,
+    "end": 227.24
+  },
+  {
+    "text": "Okay, so the first of the four areas, a great idea.",
+    "uid": "f5f8b2152e5f4922",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 227.24,
+    "end": 231.24
+  },
+  {
+    "text": "It's become popular in recent years to say that the idea doesn't matter.",
+    "uid": "4ff5ee62bca3192d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 231.24,
+    "end": 235.24
+  },
+  {
+    "text": "In fact, it's almost uncool to spend a lot of time thinking about the idea for a startup.",
+    "uid": "e396ae2ac30577d3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 235.24,
+    "end": 239.24
+  },
+  {
+    "text": "You're just supposed to start, throw stuff at the wall, see what sticks and not even spend any time thinking about it.",
+    "uid": "1ebf05df27fd404e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 239.24,
+    "end": 244.24
+  },
+  {
+    "text": "It'll be valuable with it works.",
+    "uid": "14aa056a1bed971d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 244.24,
+    "end": 246.24
+  },
+  {
+    "text": "And pivot's supposed to be great, the more pivot's the better.",
+    "uid": "84049e7be2643126",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 246.24,
+    "end": 250.24
+  },
+  {
+    "text": "So this isn't totally wrong.",
+    "uid": "fb86bdba9231113b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 250.24,
+    "end": 252.24
+  },
+  {
+    "text": "Things do evolve in ways that are difficult to predict and there's a limit to how much you can figure out without actually getting a product in a hands of users.",
+    "uid": "4a3a856b391a46a8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 252.24,
+    "end": 259.24
+  },
+  {
+    "text": "And great execution is at least 10 times more important and a hundred times harder than a good idea.",
+    "uid": "80c287fd24e3b309",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 259.24,
+    "end": 265.24
+  },
+  {
+    "text": "But the pendulum is a long way out of whack here.",
+    "uid": "4949214d2ab3921d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 265.24,
+    "end": 268.24
+  },
+  {
+    "text": "A bad idea is still bad.",
+    "uid": "b6a889b39cd86ea7",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 268.24,
+    "end": 270.24
+  },
+  {
+    "text": "And the pivot-happy world that we're in today feels really suboptimal.",
+    "uid": "123a2aef91c57105",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 270.24,
+    "end": 273.24
+  },
+  {
+    "text": "Great execution towards a terrible idea will get you nowhere.",
+    "uid": "bf0f58d96b38c337",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 273.24,
+    "end": 277.24
+  },
+  {
+    "text": "There are exceptions, of course, but most great companies start with a great idea.",
+    "uid": "1fb39f356ffd2f4f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 277.24,
+    "end": 282.24
+  },
+  {
+    "text": "Not a pivot.",
+    "uid": "d2d2e97e8d17e35a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 282.24,
+    "end": 283.24
+  },
+  {
+    "text": "If you look at successful tibets, they almost always are a pivot into something that the founders themselves wanted, not a random made up idea.",
+    "uid": "95bf67e722314100",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 283.24,
+    "end": 290.24
+  },
+  {
+    "text": "Airbnb happened because Brian Chesky couldn't pay his rent.",
+    "uid": "547ad059bef118a3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 290.24,
+    "end": 294.24
+  },
+  {
+    "text": "But he did have some extra space.",
+    "uid": "651508bb08e5656b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 294.24,
+    "end": 296.24
+  },
+  {
+    "text": "In general though, if you look at the track record of pivots, they don't become big companies.",
+    "uid": "4234f6acdbe91b0b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 296.24,
+    "end": 301.24
+  },
+  {
+    "text": "I myself used to believe ideas didn't matter that much, but I'm very sure that's wrong now.",
+    "uid": "67d191471b3e1eba",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 301.24,
+    "end": 307.24
+  },
+  {
+    "text": "The definition of the idea is we talk about it.",
+    "uid": "2c32558b92018e65",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 307.24,
+    "end": 310.24
+  },
+  {
+    "text": "It's very broad.",
+    "uid": "235c0337644ee8fb",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 310.24,
+    "end": 311.24
+  },
+  {
+    "text": "It includes the size and the growth of the market, the growth strategy for the company, the defensibility strategy, and so on.",
+    "uid": "f8e65aa40a1f173f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 311.24,
+    "end": 317.24
+  },
+  {
+    "text": "When you evaluate an idea, you need to think through all these things, not just the product.",
+    "uid": "71e479558b810839",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 317.24,
+    "end": 322.24
+  },
+  {
+    "text": "If it works out, you're going to be working on this for 10 years.",
+    "uid": "f62f1a0b3c3d2625",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 322.24,
+    "end": 326.24
+  },
+  {
+    "text": "So it's worth some real upfront time to think through the long-term value and the defensibility of the business.",
+    "uid": "7830cbd5fa6bb0d1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 326.24,
+    "end": 331.24
+  },
+  {
+    "text": "Even though plans themselves are worthless, the exercise of planning is really valuable and totally missing in most startups today.",
+    "uid": "630b83269aedf898",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 331.24,
+    "end": 339.24
+  },
+  {
+    "text": "Long-term thinking is so rare anywhere, but especially in startups that is a huge advantage if you do it.",
+    "uid": "8be89b843be2601a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 339.24,
+    "end": 345.24
+  },
+  {
+    "text": "Remember that the idea will expand and become more ambitious as you go.",
+    "uid": "59b04160fc071b7a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 345.24,
+    "end": 350.24
+  },
+  {
+    "text": "You certainly don't need to have everything figured out in a path from here to world domination, but you really want a nice kernel to start with.",
+    "uid": "2d29d60e7c8877f6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 350.24,
+    "end": 357.24
+  },
+  {
+    "text": "You want something that can develop an interesting ways.",
+    "uid": "5ddc319a8294eaba",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 357.24,
+    "end": 360.24
+  },
+  {
+    "text": "As you're thinking through ideas, another thing that we see young founders get wrong all the time is that someday you need to build a business that's difficult to replicate.",
+    "uid": "1714ea78b93bcb0e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 360.24,
+    "end": 368.24
+  },
+  {
+    "text": "This is an important part of a good idea.",
+    "uid": "dc8b44a3572a3ccf",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 368.24,
+    "end": 370.24
+  },
+  {
+    "text": "I want to make this point again because it's so important.",
+    "uid": "59e014a2b16db1ee",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 370.24,
+    "end": 376.5
+  },
+  {
+    "text": "The idea should come first and the startups should come second.",
+    "uid": "ca7ecb26fa20c228",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 376.5,
+    "end": 379.5
+  },
+  {
+    "text": "Wait to start a startup until you come up with an idea you feel compelled to explore.",
+    "uid": "014a6fda921e7398",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 379.5,
+    "end": 383.5
+  },
+  {
+    "text": "This is also the way to choose between multiple ideas.",
+    "uid": "783f5ce6f937ca77",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 383.5,
+    "end": 386.5
+  },
+  {
+    "text": "If you have several ideas that all seem pretty good, work on the one that you think about most often when you're not trying to think about work.",
+    "uid": "641144141f33f100",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 386.5,
+    "end": 393.5
+  },
+  {
+    "text": "But we hear again and again from founders that they wish they had waited to start a startup until they came up with an idea that they really loved.",
+    "uid": "5328d8975ca69289",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 393.5,
+    "end": 400.5
+  },
+  {
+    "text": "Another way of looking at this is that the best companies are almost always mission oriented.",
+    "uid": "0852ab325ee0d928",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 400.5,
+    "end": 404.5
+  },
+  {
+    "text": "It's difficult to get large groups of people, the extreme levels of focus and productivity that you need.",
+    "uid": "e78a6db0200d0573",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 404.5,
+    "end": 409.5
+  },
+  {
+    "text": "First start it to be successful, unless the company feels like an important mission.",
+    "uid": "4906d812d32f4cf2",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 409.5,
+    "end": 414.5
+  },
+  {
+    "text": "And it's usually really hard to get that without a great family and idea.",
+    "uid": "2ca85d4bb602b08e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 414.5,
+    "end": 418.5
+  },
+  {
+    "text": "A related advantage of mission oriented ideas is that you yourself will be dedicated to them.",
+    "uid": "91f015017485c6c4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 418.5,
+    "end": 425.84
+  },
+  {
+    "text": "It takes years and years, usually a decade to create a great startup.",
+    "uid": "5177f2f21e627b7b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 425.84,
+    "end": 429.84
+  },
+  {
+    "text": "If you don't love and believe in what you're building, you'll like to get up at some point along the way.",
+    "uid": "97887c0af20afd4c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 429.84,
+    "end": 434.84
+  },
+  {
+    "text": "There's no way I know of to get through the pain of a startup without belief that the mission really matters.",
+    "uid": "76f2cc4d15abfbb1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 434.84,
+    "end": 439.84
+  },
+  {
+    "text": "A lot of founders especially students believe that their startups only going to take two or three years and then after that they'll work on what they're really passionate about.",
+    "uid": "6796e30f1809f44a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 439.84,
+    "end": 446.84
+  },
+  {
+    "text": "That almost never works. Good startups usually take 10 years.",
+    "uid": "1388b6739effa826",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 446.84,
+    "end": 450.84
+  },
+  {
+    "text": "A third advantage of mission oriented companies is that people outside the company are more willing to help you.",
+    "uid": "6f29fd985008e639",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 450.84,
+    "end": 455.84
+  },
+  {
+    "text": "You'll get more support on a hard, important project than a derivative one.",
+    "uid": "259fdaf898d28ad5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 455.84,
+    "end": 459.84
+  },
+  {
+    "text": "When it comes to starting startups, in many ways it's easier to start a hard startup and easy startup.",
+    "uid": "eacc534384ecdaf1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 459.84,
+    "end": 464.84
+  },
+  {
+    "text": "This is one of those counterintuitive things that takes people a long time to understand.",
+    "uid": "c6e1c46e269aeadf",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 464.84,
+    "end": 468.84
+  },
+  {
+    "text": "It's difficult to overstate how important being mission driven is, so I want to emphasize it one last time.",
+    "uid": "563e208c18de1b80",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 468.84,
+    "end": 475.5
+  },
+  {
+    "text": "Derevitative companies companies that copy and exist in an idea with very few new insights don't excite people and they don't compel the teams to work hard enough to be successful.",
+    "uid": "03642d29170c1da2",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 475.5,
+    "end": 485.5
+  },
+  {
+    "text": "Paul Graham is going to talk about how to get startup ideas next week.",
+    "uid": "0fe97de42894fd47",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 486.5,
+    "end": 489.5
+  },
+  {
+    "text": "It's something that a lot of founders struggle with, but it's something I believe you can get better with it.",
+    "uid": "c732781d8f185595",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 489.5,
+    "end": 493.5
+  },
+  {
+    "text": "Better out with practice and it's definitely worth trying to get better at.",
+    "uid": "5aa6939422aec045",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 493.5,
+    "end": 496.5
+  },
+  {
+    "text": "The hardest part about coming up with great ideas is that the best ideas often look terrible at the beginning.",
+    "uid": "9eebcac3883d9c8b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 496.5,
+    "end": 503.75
+  },
+  {
+    "text": "The 13th search engine and without all the features of a web portal, most people thought that was pointless.",
+    "uid": "1455bda4496185f8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 503.75,
+    "end": 508.75
+  },
+  {
+    "text": "Search was done and anyway, it didn't matter that much.",
+    "uid": "74b574eb8d68b559",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 508.75,
+    "end": 510.75
+  },
+  {
+    "text": "Portals were where the value was at.",
+    "uid": "8491cf2058abe9c4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 510.75,
+    "end": 512.75
+  },
+  {
+    "text": "The tenth social network and limited only to college students with no money, also terrible, my space had one and who once college students discussed them.",
+    "uid": "f61a9b282dc99c06",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 512.75,
+    "end": 519.75
+  },
+  {
+    "text": "Or a way to stay on strangers' couches, that just sounds terrible all around.",
+    "uid": "d77feac6ba6d973a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 519.75,
+    "end": 523.75
+  },
+  {
+    "text": "These all sounded really bad but they turned out to be good.",
+    "uid": "5b69eddb2527f45e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 523.75,
+    "end": 526.75
+  },
+  {
+    "text": "If they had sounded really good, there would have been too many people working on them.",
+    "uid": "deccbd371ebfe4e5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 526.75,
+    "end": 531.75
+  },
+  {
+    "text": "As Peter Teele is going to discuss them to the fifth class, you want an idea that turns into a monopoly.",
+    "uid": "9364c41cdd07a0a8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 531.75,
+    "end": 536.75
+  },
+  {
+    "text": "But you can't get a monopoly in a big market right away.",
+    "uid": "c628f8eed2b9a764",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 536.75,
+    "end": 540.75
+  },
+  {
+    "text": "Too much competition for that.",
+    "uid": "3ccbb059ebd52283",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 540.75,
+    "end": 542.75
+  },
+  {
+    "text": "You have to find a small market in which you can get them in a monopoly and then quickly expand.",
+    "uid": "11dbbd4b4fd2561b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 542.75,
+    "end": 546.75
+  },
+  {
+    "text": "This is why some great start-up ideas look really bad at the beginning.",
+    "uid": "95aedb501ea8677d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 546.75,
+    "end": 550.75
+  },
+  {
+    "text": "It's good if you can say something like today, only the small subset of users who want to use my product,",
+    "uid": "686e394813fb9236",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 550.75,
+    "end": 555.75
+  },
+  {
+    "text": "but I'm going to get all of them and in the future, almost everyone will use my product.",
+    "uid": "7ececdc1657b6b1c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 555.75,
+    "end": 560.75
+  },
+  {
+    "text": "Here's the theme that's going to come up a lot.",
+    "uid": "d254500690070681",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 560.75,
+    "end": 563.75
+  },
+  {
+    "text": "You need conviction in your own beliefs and a willingness to ignore others' naysay.",
+    "uid": "28267af41fc1dea6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 563.75,
+    "end": 567.75
+  },
+  {
+    "text": "The hard part is that this is a very fine line.",
+    "uid": "f40fa9cd45198b59",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 568.75,
+    "end": 570.75
+  },
+  {
+    "text": "There's right on one side of it and crazy on the other.",
+    "uid": "ff7b1cd3edb430dc",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 570.75,
+    "end": 573.75
+  },
+  {
+    "text": "But keep in mind that if you do come up with a great idea, most people are going to think it's bad.",
+    "uid": "e27aa36b4a57233c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 573.75,
+    "end": 577.75
+  },
+  {
+    "text": "You should be happy about that.",
+    "uid": "0df7ce6c7e9432b6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 577.75,
+    "end": 579.75
+  },
+  {
+    "text": "It means they won't compete with you.",
+    "uid": "7bda30ec8bdb9849",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 579.75,
+    "end": 581.75
+  },
+  {
+    "text": "This is also a reason why it's not usually dangerous to tell people about your idea.",
+    "uid": "ed32c5c5c5fef609",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 581.75,
+    "end": 585.75
+  },
+  {
+    "text": "The truly good ideas don't sound like they're worth stealing.",
+    "uid": "8568bcf405657a5c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 585.75,
+    "end": 589.75
+  },
+  {
+    "text": "You want an idea about what you can say.",
+    "uid": "890c4794163dedaa",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 589.75,
+    "end": 591.75
+  },
+  {
+    "text": "I know it sounds like a bad idea, but here's specifically why it's actually a great one.",
+    "uid": "b7230b517f8bc581",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 591.75,
+    "end": 596.75
+  },
+  {
+    "text": "You want to sound crazy, but you want to actually be right.",
+    "uid": "3f6be0ee6ac300df",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 596.75,
+    "end": 599.75
+  },
+  {
+    "text": "And you want an idea that not many other people are working on.",
+    "uid": "da1b680c8cd99252",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 599.75,
+    "end": 602.75
+  },
+  {
+    "text": "And it's okay if it doesn't sound big at first.",
+    "uid": "8a6696957b38b754",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 602.75,
+    "end": 604.75
+  },
+  {
+    "text": "Come in the steak among founders, especially first time founders,",
+    "uid": "09ef7124d78134f3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 604.75,
+    "end": 607.75
+  },
+  {
+    "text": "is they think that the first version of their product, the first version of their idea,",
+    "uid": "afff1e04aca91964",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 607.75,
+    "end": 611.75
+  },
+  {
+    "text": "needs to sound really big.",
+    "uid": "630981afa998ca52",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 611.75,
+    "end": 613.75
+  },
+  {
+    "text": "But it doesn't need to take over a small specific market and expand from there.",
+    "uid": "6ae030f8bf22b362",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 613.75,
+    "end": 617.75
+  },
+  {
+    "text": "That's how most great companies have started.",
+    "uid": "4cec3063c2ff6ed0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 617.75,
+    "end": 619.75
+  },
+  {
+    "text": "Unpopular but right is what you're going for.",
+    "uid": "61eb166f1d2f9d78",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 619.75,
+    "end": 622.75
+  },
+  {
+    "text": "You want something that sounds like a bad idea that is a good idea.",
+    "uid": "4ed50830c032a03f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 622.75,
+    "end": 625.75
+  },
+  {
+    "text": "You also really want to take the time to think about how the market's going to evolve.",
+    "uid": "be01f5a5960617a3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 625.75,
+    "end": 631.38
+  },
+  {
+    "text": "You need a market that's going to be big in 10 years.",
+    "uid": "c092494e8d959a81",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 631.38,
+    "end": 634.38
+  },
+  {
+    "text": "Most investors are obsessed with the market size today,",
+    "uid": "5f11e66a86587946",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 634.38,
+    "end": 637.38
+  },
+  {
+    "text": "and they don't think at all about how the market's going to evolve.",
+    "uid": "10bb1edcce1a04d9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 637.38,
+    "end": 640.38
+  },
+  {
+    "text": "In fact, I think this is one of the biggest systemic mistakes that investors make.",
+    "uid": "09663cd47b083777",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 640.38,
+    "end": 643.38
+  },
+  {
+    "text": "They think about the growth of the start of itself.",
+    "uid": "7daec90bc12486cc",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 643.38,
+    "end": 645.38
+  },
+  {
+    "text": "They don't think about the growth of the market.",
+    "uid": "5cf3632168d8c23a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 645.38,
+    "end": 648.38
+  },
+  {
+    "text": "I can't much more about the growth rate of the market than its current size.",
+    "uid": "ce78d7065fd7743e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 648.38,
+    "end": 651.38
+  },
+  {
+    "text": "And I also care if there's any reason that it's going to top out.",
+    "uid": "8f2deb7656c8a3d4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 651.38,
+    "end": 654.38
+  },
+  {
+    "text": "You should think about this.",
+    "uid": "180f269ed8f32433",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 654.38,
+    "end": 655.38
+  },
+  {
+    "text": "I prefer to invest in a company that's going after a small but rapidly growing market than a big but slow growing one.",
+    "uid": "cf9ddc0933ea491c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 655.38,
+    "end": 661.38
+  },
+  {
+    "text": "One of the big advantages of these sorts of markets.",
+    "uid": "addead7fcdb5b959",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 661.38,
+    "end": 664.38
+  },
+  {
+    "text": "These small but rapidly growing markets is that customers are usually pretty desperate for a solution.",
+    "uid": "e8f640fcd98afee0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 664.38,
+    "end": 669.38
+  },
+  {
+    "text": "And they'll put up with an imperfect but rapidly improving product.",
+    "uid": "0028e84841280470",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 669.38,
+    "end": 673.38
+  },
+  {
+    "text": "And a big advantage of being a student, one of the two biggest advantages,",
+    "uid": "6b64fd9f7a8fd4c0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 673.38,
+    "end": 677.38
+  },
+  {
+    "text": "is that you probably have better intuition about which markets are likely to start growing rapidly than older people do.",
+    "uid": "29c8fe0e70878295",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 677.38,
+    "end": 683.38
+  },
+  {
+    "text": "Another thing that students usually don't understand or at least takes a while.",
+    "uid": "4cccfd901b02b6f6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 683.38,
+    "end": 689.11
+  },
+  {
+    "text": "You cannot create a market that doesn't want to exist.",
+    "uid": "9397f289cc2096a6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 689.11,
+    "end": 692.11
+  },
+  {
+    "text": "You can basically change everything in a startup but the market.",
+    "uid": "6a2cfb1d4035fc23",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 692.11,
+    "end": 695.11
+  },
+  {
+    "text": "So you should actually do some thinking to be sure or at least to sure as you can be.",
+    "uid": "52b482428f017d3e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 695.11,
+    "end": 699.11
+  },
+  {
+    "text": "That the market you're going after is going to grow and be there.",
+    "uid": "2e6f39f172de02bb",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 699.11,
+    "end": 703.11
+  },
+  {
+    "text": "There are a lot of different ways to talk about the right kind of market.",
+    "uid": "7e9545430b5cd66e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 703.11,
+    "end": 706.11
+  },
+  {
+    "text": "For example, surfing someone else's way or stepping into an up elevator or being part of the movement.",
+    "uid": "c92906fd0dcfe299",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 706.11,
+    "end": 711.11
+  },
+  {
+    "text": "But all of this is just the way of saying, you want a market that's going to grow really quickly.",
+    "uid": "6bb9f64ac4930740",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 711.11,
+    "end": 714.11
+  },
+  {
+    "text": "It may seem small today, it may be small today, but you know, and other people don't, that it's going to grow really fast.",
+    "uid": "5fe6dab87bcacb95",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 714.11,
+    "end": 720.11
+  },
+  {
+    "text": "So think about where this is happening in the world.",
+    "uid": "32a23b0a48b3c41a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 720.11,
+    "end": 723.11
+  },
+  {
+    "text": "You need to sort of a tailwind to make a startup successful.",
+    "uid": "34882e806b43a22f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 723.11,
+    "end": 726.11
+  },
+  {
+    "text": "The exciting thing is there are probably more of these tailwinds now than ever before.",
+    "uid": "7baa28ecffc1386a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 726.11,
+    "end": 730.11
+  },
+  {
+    "text": "As Mark Anderson says, software is eating the world.",
+    "uid": "60d460fe04e790ba",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 730.11,
+    "end": 733.11
+  },
+  {
+    "text": "It's just everywhere. There are like so many great ideas out there.",
+    "uid": "c25c22f3ae2fc7d7",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 733.11,
+    "end": 736.11
+  },
+  {
+    "text": "You just have to pick one and sign one that you really care about.",
+    "uid": "c8075578234aa2f6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 736.11,
+    "end": 739.11
+  },
+  {
+    "text": "Another version of this that would get down to the same idea is Sequoia's famous question, why not?",
+    "uid": "84910cbc30b571b3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 739.11,
+    "end": 746.11
+  },
+  {
+    "text": "Why is this the perfect time for this particular idea and to start this particular company?",
+    "uid": "085f538cacd41432",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 746.11,
+    "end": 751.11
+  },
+  {
+    "text": "Why couldn't it have been done two years ago and why will two years in the future be too late?",
+    "uid": "276b14a8ea7164d3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 751.11,
+    "end": 756.11
+  },
+  {
+    "text": "For the most successful startups we've been involved with, they've all had a great idea, great answer to this question.",
+    "uid": "57047f048722e13d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 756.11,
+    "end": 761.11
+  },
+  {
+    "text": "And if you don't, you should be at least somewhat suspicious about it.",
+    "uid": "693356b4e740dec6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 761.11,
+    "end": 764.11
+  },
+  {
+    "text": "In general, it's best if you're building something that you yourself need.",
+    "uid": "1151c6bc70b93567",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 764.11,
+    "end": 769.49
+  },
+  {
+    "text": "You'll understand it much better than if you have to understand it by talking to a customer to build a very first version.",
+    "uid": "7b7ca39e815f0b49",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 769.49,
+    "end": 775.49
+  },
+  {
+    "text": "If you don't need it yourself and you're building something that someone else needs,",
+    "uid": "a1e8bf334051af9c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 775.49,
+    "end": 778.49
+  },
+  {
+    "text": "realize that you're at a big disadvantage and get very, very close to your customers.",
+    "uid": "661b9655851a9a36",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 778.49,
+    "end": 782.49
+  },
+  {
+    "text": "Try to work in their office if you can and if not, talk to them multiple times a day.",
+    "uid": "7e88b1ac34b41198",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 782.49,
+    "end": 787.49
+  },
+  {
+    "text": "Another somewhat counterintuitive thing about good startup ideas is that they're almost always very easy to explain and very easy to understand.",
+    "uid": "164c27403070f5a8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 787.49,
+    "end": 794.49
+  },
+  {
+    "text": "If it takes more than a sentence to explain what you're doing, it's almost always a sign that it's too complicated.",
+    "uid": "9b28191098585673",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 794.49,
+    "end": 800.49
+  },
+  {
+    "text": "It should be a clearly articulated addition with a small number of words.",
+    "uid": "c5cf2a938f6a433a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 800.49,
+    "end": 805.49
+  },
+  {
+    "text": "And the best ideas are usually either very different from existing companies.",
+    "uid": "2e6de0df0acd7aa3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 805.49,
+    "end": 810.49
+  },
+  {
+    "text": "In one important way, like Google being a search engine that worked just really well, and none of the other stuff of the portals, or totally new like SpaceX.",
+    "uid": "ea33c5684cb70735",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 810.49,
+    "end": 819.49
+  },
+  {
+    "text": "Any company that's a clone of something else that already exists with some small or made up differentiator,",
+    "uid": "f7e67c117d3373d1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 819.49,
+    "end": 824.49
+  },
+  {
+    "text": "like we're going to be ex-beautiful design or we're going to be why for people that like red wine instead, that usually fails.",
+    "uid": "2faf21e3c0f36df5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 824.49,
+    "end": 831.49
+  },
+  {
+    "text": "So as I mentioned, one of the great things about being a student is that you have a very good perspective on new technology.",
+    "uid": "903dc0f724186677",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 831.49,
+    "end": 838.83
+  },
+  {
+    "text": "And learning to get good at having new ideas takes a while. So start working on that right now.",
+    "uid": "ecdc0fc1ed1abc99",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 838.83,
+    "end": 843.83
+  },
+  {
+    "text": "That's one thing we hear from people all the time, that they wish they had done more of when they were a student.",
+    "uid": "a1b955bb100a0199",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 843.83,
+    "end": 848.83
+  },
+  {
+    "text": "The other is the medium potential co-founders.",
+    "uid": "b0a98d4cf549f393",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 848.83,
+    "end": 851.83
+  },
+  {
+    "text": "You have no idea how good of an environment you're in right now for meeting people that you can start accompanying with down the road.",
+    "uid": "02600d37f2fe410a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 851.83,
+    "end": 857.83
+  },
+  {
+    "text": "And the one thing that we always tell college students is more important than starting any particular startup is getting to know a lot of potential co-founders.",
+    "uid": "74ae2d079f14bcb4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 857.83,
+    "end": 865.83
+  },
+  {
+    "text": "So I want to finish this section of my talk with a quote from the D-cent.",
+    "uid": "052dffa6639b76b4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 865.83,
+    "end": 871.11
+  },
+  {
+    "text": "This is from when he was asked about vitamin water.",
+    "uid": "34e98ceb35f6be0f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 871.11,
+    "end": 875.11
+  },
+  {
+    "text": "I won't read it, it's up there, but it's about the importance of thinking about what customers want and thinking about the demands of the market.",
+    "uid": "c5852ce6375142d1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 875.11,
+    "end": 883.11
+  },
+  {
+    "text": "Most people don't do this, most students especially don't do this.",
+    "uid": "e47ecb526453e268",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 883.11,
+    "end": 887.11
+  },
+  {
+    "text": "If you can just do this one thing, if you can just learn to think about the market first, you will have a big leg up on most people starting startups.",
+    "uid": "8b20230f546051de",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 887.11,
+    "end": 895.11
+  },
+  {
+    "text": "And this is probably the thing that we see wrong with why commoner apps most frequently is that people have not thought about the market first and what people want first.",
+    "uid": "b88ee9cb62cc406c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 895.11,
+    "end": 906.11
+  },
+  {
+    "text": "So for the next section, I'm going to talk about building a great product.",
+    "uid": "51c2876135e2dcd3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 906.11,
+    "end": 910.11
+  },
+  {
+    "text": "And here again, I'm going to use a very broad definition of product.",
+    "uid": "3efabe3dd55caa1e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 910.11,
+    "end": 917.03
+  },
+  {
+    "text": "It includes customer support and copy your right explaining the product.",
+    "uid": "e44680ab37c54ab5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 917.03,
+    "end": 921.03
+  },
+  {
+    "text": "Anything involved in your customers interaction with what you built from them.",
+    "uid": "77241519cfd88f9f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 921.03,
+    "end": 925.03
+  },
+  {
+    "text": "To build a really great company, you first have to turn a great idea into a great product.",
+    "uid": "8e5614e8f2116e98",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 925.03,
+    "end": 929.03
+  },
+  {
+    "text": "This is really hard, but it's crucially important, and fortunately it's pretty fun.",
+    "uid": "748ec137448e2b00",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 929.03,
+    "end": 933.03
+  },
+  {
+    "text": "Although great products are always new to the world, and it's hard to give you advice about what to build.",
+    "uid": "28f4c1f969dc1ca9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 933.03,
+    "end": 938.03
+  },
+  {
+    "text": "There are enough commonalities that we can give you a lot of advice about how to build it.",
+    "uid": "3605ae2fca730768",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 938.03,
+    "end": 942.03
+  },
+  {
+    "text": "One of the most important tasks for a founder is to make sure that the company builds a great product.",
+    "uid": "d2a35af79f2b013a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 942.03,
+    "end": 947.03
+  },
+  {
+    "text": "Until you build a great product, almost nothing else matters.",
+    "uid": "42d69d5225c2fce8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 947.03,
+    "end": 951.03
+  },
+  {
+    "text": "When really successful startup founders tell the story of their early days, it's almost always sitting in front of the computer working on their product or talking to their customers.",
+    "uid": "6492a28e8c1a81c4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 951.03,
+    "end": 960.03
+  },
+  {
+    "text": "That's pretty much all the time. They do very little else. And you should be very skeptical if your time allocation is much different.",
+    "uid": "95dc120a19eeaa32",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 960.03,
+    "end": 967.03
+  },
+  {
+    "text": "Most other problems that founders are trying to solve, raising money, getting more press, hiring, business development, etc.",
+    "uid": "8b7582888b422522",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 967.03,
+    "end": 973.03
+  },
+  {
+    "text": "These are significantly easier when you have a great product.",
+    "uid": "af219bdd41403a68",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 973.03,
+    "end": 975.03
+  },
+  {
+    "text": "It's really important to take care of that first.",
+    "uid": "a87e3cefa7a1de48",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 975.03,
+    "end": 978.03
+  },
+  {
+    "text": "The first step is to build something that users love.",
+    "uid": "33ee931f186d5913",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 978.03,
+    "end": 981.03
+  },
+  {
+    "text": "At YC, we tell founders to work on their product, talk to users, exercise, eat and sleep, and vary the levels.",
+    "uid": "6312005bf5f567f7",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 981.03,
+    "end": 988.03
+  },
+  {
+    "text": "All the other stuff I just mentioned, PR conferences, recruiting advisors, doing partnerships.",
+    "uid": "5c19611adeeb3c2a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 988.03,
+    "end": 993.03
+  },
+  {
+    "text": "You should ignore all of that, and just build a product, and then get it as good as possible by talking to your users.",
+    "uid": "2b699eeadc1e2fa7",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 993.03,
+    "end": 998.03
+  },
+  {
+    "text": "Your job is to build something that users love.",
+    "uid": "72cf105a01050ad4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 998.03,
+    "end": 1002.28
+  },
+  {
+    "text": "Very few companies that go on to be super successful, get there without first doing this.",
+    "uid": "e930cea007717412",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1002.28,
+    "end": 1007.28
+  },
+  {
+    "text": "A lot of good on paper start-ups fail, because they merely make something that people like.",
+    "uid": "373085e3a5f558bb",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1007.28,
+    "end": 1012.28
+  },
+  {
+    "text": "Making something that people want, but only a medium amount, is a great way to fail in not understanding why you're failing.",
+    "uid": "1b009d2b570fdbc5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1012.28,
+    "end": 1018.28
+  },
+  {
+    "text": "So these are the two jobs.",
+    "uid": "39640b56f5ea617b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1018.28,
+    "end": 1020.28
+  },
+  {
+    "text": "Something that we say at YC a lot is that it's better to build a small number.",
+    "uid": "f90d45384c475ffd",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1020.28,
+    "end": 1025.91
+  },
+  {
+    "text": "It's better to build something that a small number of users love than a large number of users like.",
+    "uid": "7c2be0760bd77a81",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1025.91,
+    "end": 1030.91
+  },
+  {
+    "text": "Of course it'd be best to build something that a small number of users love.",
+    "uid": "b6b654a714c2a2ec",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1030.91,
+    "end": 1033.91
+  },
+  {
+    "text": "But opportunities to do that for V1 are rare, and they're usually not available to start-ups.",
+    "uid": "c8bcf886c8d1e7c5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1033.91,
+    "end": 1038.91
+  },
+  {
+    "text": "So in practice you end up choosing either the gray or the orange.",
+    "uid": "fad01a92076e9b2c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1038.91,
+    "end": 1041.91
+  },
+  {
+    "text": "You make something that a lot of users like a little bit, or something that a small number of users like love a lot.",
+    "uid": "51c40b605097aada",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1041.91,
+    "end": 1047.91
+  },
+  {
+    "text": "And this is a very important piece of advice.",
+    "uid": "ee06adc9389125f5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1047.91,
+    "end": 1050.91
+  },
+  {
+    "text": "Build something that a small number of users love.",
+    "uid": "5f977fbebcd9ffc2",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1050.91,
+    "end": 1053.91
+  },
+  {
+    "text": "It's much easier to expand from something that a small number of people love, just a lot of people love.",
+    "uid": "018cb058fab8e0e9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1053.91,
+    "end": 1058.91
+  },
+  {
+    "text": "That's something that a lot of people like to a lot of people love.",
+    "uid": "702336e75ca272e4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1058.91,
+    "end": 1062.91
+  },
+  {
+    "text": "If you get this right, you can get a lot of other things wrong.",
+    "uid": "0aa617e2f7141176",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1062.91,
+    "end": 1066.91
+  },
+  {
+    "text": "If you don't get this right, you can get everything else right, and you'll probably still fail.",
+    "uid": "82a241472e575a9c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1066.91,
+    "end": 1071.91
+  },
+  {
+    "text": "So when you start in the startup, this is the only thing you need to care about until it's working.",
+    "uid": "1991e5eead5ca07a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1071.91,
+    "end": 1076.91
+  },
+  {
+    "text": "Should we think that that's okay?",
+    "uid": "2c26b11161e4b072",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1076.91,
+    "end": 1079.91
+  },
+  {
+    "text": "Sure. So you have a choice in a startup.",
+    "uid": "bce877bf61051e5a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1079.91,
+    "end": 1081.91
+  },
+  {
+    "text": "The best thing of all worlds would be to build a product that a lot of people really love.",
+    "uid": "8e1f1266172e1c4a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1081.91,
+    "end": 1085.91
+  },
+  {
+    "text": "In practice, you can't usually do that because a big company, if there's an opportunity like that, Google or Facebook will do it.",
+    "uid": "7b4acf38edebb9f4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1085.91,
+    "end": 1091.91
+  },
+  {
+    "text": "So there's like a limit to the area under the curve of what you can build.",
+    "uid": "cc1922a82e029c97",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1091.91,
+    "end": 1095.91
+  },
+  {
+    "text": "And you can either build something that a lot of users like a little bit, or you can build something that a small number of users love a lot.",
+    "uid": "835c0bb6a82e994f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1095.91,
+    "end": 1102.91
+  },
+  {
+    "text": "And like the total amount of love is the same.",
+    "uid": "de44321765e0c99d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1102.91,
+    "end": 1104.91
+  },
+  {
+    "text": "It's just a question of how it's distributed.",
+    "uid": "8c08230b357f88dc",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1104.91,
+    "end": 1107.91
+  },
+  {
+    "text": "And there's like this law of conservation of how much happiness you can put into the world with the first product of a startup.",
+    "uid": "dca89e913ef3ecbe",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1107.91,
+    "end": 1114.91
+  },
+  {
+    "text": "And so startups always struggle with which of those two they should go.",
+    "uid": "cb57a2a50182a1f9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1114.91,
+    "end": 1118.91
+  },
+  {
+    "text": "And they seem equal right, because the area under the curve is the same.",
+    "uid": "fd5db19bf143b7ff",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1118.91,
+    "end": 1122.91
+  },
+  {
+    "text": "But we've seen this time and again that they're not.",
+    "uid": "ad3ffc588b99d003",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1122.91,
+    "end": 1124.91
+  },
+  {
+    "text": "And that it's so much easier to expand.",
+    "uid": "a1dad733ae7d6e34",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1124.91,
+    "end": 1126.91
+  },
+  {
+    "text": "Once you've got some people love, you can expand that.",
+    "uid": "35a9f9b272310b1d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1126.91,
+    "end": 1128.91
+  },
+  {
+    "text": "Some of you know a lot of other people love.",
+    "uid": "e0a54979ea0aac59",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1128.91,
+    "end": 1130.91
+  },
+  {
+    "text": "But if you only get ambivalence or sort of like we can do the asmr and then try to expand that, you'll never get up to a lot of people loving it.",
+    "uid": "af5744f94eccfd76",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1130.91,
+    "end": 1138.91
+  },
+  {
+    "text": "So the advice is.",
+    "uid": "ccd49ab6b68dc74d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1138.91,
+    "end": 1141.91
+  },
+  {
+    "text": "Find a small group of users and make them really love what you're doing.",
+    "uid": "a7adcb820d14c463",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1141.91,
+    "end": 1145.91
+  },
+  {
+    "text": "Does that make sense?",
+    "uid": "1e6ab99fe8147821",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1145.91,
+    "end": 1146.91
+  },
+  {
+    "text": "One way that you know when this is working is that you'll get growth by word of mouth.",
+    "uid": "e8133e8b1c96c2d9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1151.18,
+    "end": 1155.18
+  },
+  {
+    "text": "If you make some people love.",
+    "uid": "6773ff0bd698dc4a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1155.18,
+    "end": 1157.18
+  },
+  {
+    "text": "People will tell their friends about it.",
+    "uid": "1cfd33c49788d7b9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1157.18,
+    "end": 1159.18
+  },
+  {
+    "text": "This works for consumer products and enterprise products as well.",
+    "uid": "63f615ee434dadee",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1159.18,
+    "end": 1162.18
+  },
+  {
+    "text": "When people really love something, they tell their friends about it.",
+    "uid": "b7de86e71ca4bba9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1162.18,
+    "end": 1165.18
+  },
+  {
+    "text": "And you'll see you're going to growth.",
+    "uid": "edbaebce5948a071",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1165.18,
+    "end": 1167.18
+  },
+  {
+    "text": "If you find yourself talking about how it's okay that you're not growing.",
+    "uid": "5a0b4137aef4e37a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1168.18,
+    "end": 1171.18
+  },
+  {
+    "text": "Because there's a big partnership that's going to come save you or something like that.",
+    "uid": "b20cea2b5c1fe2ec",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1171.18,
+    "end": 1175.18
+  },
+  {
+    "text": "It's almost always a sign of real trouble.",
+    "uid": "95e02f335bf2a331",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1175.18,
+    "end": 1178.18
+  },
+  {
+    "text": "Sales and marketing are really important and we're going to have two classes on them later.",
+    "uid": "18affefcb8d55b53",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1178.18,
+    "end": 1182.18
+  },
+  {
+    "text": "But if you don't have some early organic growth, then your product probably isn't good enough yet.",
+    "uid": "a88df2401b659f80",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1182.18,
+    "end": 1187.18
+  },
+  {
+    "text": "A great product is the secret to long-term growth hack in.",
+    "uid": "163bdeafc525793f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1187.18,
+    "end": 1189.18
+  },
+  {
+    "text": "You should get that right before you worry about anything else.",
+    "uid": "ef5366d17f952b7f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1189.18,
+    "end": 1192.18
+  },
+  {
+    "text": "It doesn't get easier to put off.",
+    "uid": "7b8c8b2a90dcfe39",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1192.18,
+    "end": 1193.18
+  },
+  {
+    "text": "Make it a great product.",
+    "uid": "a60b95fbd175a676",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1193.18,
+    "end": 1194.18
+  },
+  {
+    "text": "If you try to build a growth machine before you have a product that some people really love,",
+    "uid": "3f072572256fa17f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1194.18,
+    "end": 1198.18
+  },
+  {
+    "text": "you're almost certainly going to waste your time.",
+    "uid": "a1707f983027667d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1198.18,
+    "end": 1200.18
+  },
+  {
+    "text": "Breakout companies almost always have a product that's so good that it grows by word of mouth.",
+    "uid": "b5fd30650a7c41ef",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1200.18,
+    "end": 1205.18
+  },
+  {
+    "text": "Over the long run, great products win.",
+    "uid": "d58c062f2c7284fa",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1205.18,
+    "end": 1208.18
+  },
+  {
+    "text": "Don't worry about your competitors raising a lot of money and what they may do in the future.",
+    "uid": "0ac6e58f123a161a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1208.18,
+    "end": 1213.18
+  },
+  {
+    "text": "They probably aren't very good anyway.",
+    "uid": "13ade72c170fd364",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1213.18,
+    "end": 1215.18
+  },
+  {
+    "text": "There are a few startups, dive from competition.",
+    "uid": "275f1c8a098f2bbb",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1215.18,
+    "end": 1217.18
+  },
+  {
+    "text": "Most dive because they themselves fail to make something users love.",
+    "uid": "07fc671455e9f7e5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1217.18,
+    "end": 1220.18
+  },
+  {
+    "text": "They spend their time on other things.",
+    "uid": "790be04a90b157ae",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1220.18,
+    "end": 1222.18
+  },
+  {
+    "text": "So, where are you about this above all else?",
+    "uid": "4f5fdb096e51aa82",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1222.18,
+    "end": 1225.18
+  },
+  {
+    "text": "Another piece of advice to make some of the users love start with something simple.",
+    "uid": "b4fe806ed6b8c0cf",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1225.18,
+    "end": 1229.18
+  },
+  {
+    "text": "It's much, much easier to make a great product if you have some in simple.",
+    "uid": "113806b30ce625d2",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1229.18,
+    "end": 1233.18
+  },
+  {
+    "text": "Even if you're a eventual plans are super complex.",
+    "uid": "9dd9c0d0d7720ff0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1233.18,
+    "end": 1236.18
+  },
+  {
+    "text": "And hopefully they are.",
+    "uid": "fafa26f49f846e7d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1236.18,
+    "end": 1237.18
+  },
+  {
+    "text": "You can almost always start with a smaller subset of the problem than whatever you think is the smallest.",
+    "uid": "fc251eb58df383aa",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1237.18,
+    "end": 1241.18
+  },
+  {
+    "text": "And it's hard to build a great product.",
+    "uid": "8396a298f2faf1c9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1241.18,
+    "end": 1243.18
+  },
+  {
+    "text": "So you want to start with as little surface areas possible.",
+    "uid": "77e9b2d0266cbfa7",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1243.18,
+    "end": 1246.18
+  },
+  {
+    "text": "Think about the really successful companies and what they started with.",
+    "uid": "f6afb5cc837f7930",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1246.18,
+    "end": 1249.18
+  },
+  {
+    "text": "Think about products that you really love.",
+    "uid": "8a8bf1ddc7ec6d5b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1249.18,
+    "end": 1251.18
+  },
+  {
+    "text": "They're generally incredibly simple to use and especially to get started using.",
+    "uid": "2eaea68e7c6daeb2",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1251.18,
+    "end": 1255.18
+  },
+  {
+    "text": "The first version of Facebook was almost commonly simple.",
+    "uid": "b9b1b09d37a0ee01",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1255.18,
+    "end": 1258.18
+  },
+  {
+    "text": "The first version of Google was just an ugly webpage with a text box and two buttons.",
+    "uid": "49a3093d23c94bd4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1258.18,
+    "end": 1262.18
+  },
+  {
+    "text": "But it returned the best results and that's why users loved it.",
+    "uid": "5e88d75c19a422f9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1262.18,
+    "end": 1265.18
+  },
+  {
+    "text": "The iPhone is far simpler to use than any smartphone that ever came before it.",
+    "uid": "e40288c7b1c47f5b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1265.18,
+    "end": 1268.18
+  },
+  {
+    "text": "And it was the first one that people really loved.",
+    "uid": "d29ff768f083c5ec",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1268.18,
+    "end": 1270.18
+  },
+  {
+    "text": "Another reason that's simple is because it forces you to do one thing extremely well.",
+    "uid": "884c79c51d669f69",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1270.18,
+    "end": 1275.18
+  },
+  {
+    "text": "And you have to do that to make something that people love.",
+    "uid": "90064a6d5f63eec7",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1275.18,
+    "end": 1278.18
+  },
+  {
+    "text": "The word the nautical comes up again and again when you listen to successful founders talk about how they think about their product.",
+    "uid": "7fce212158eaff8b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1278.18,
+    "end": 1288.75
+  },
+  {
+    "text": "Founders talk about being fanatical in the way they care about the quality of the small details.",
+    "uid": "5bfb052f55b987ff",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1288.75,
+    "end": 1292.75
+  },
+  {
+    "text": "Fanatical and getting the copy that they used to explain their product just right.",
+    "uid": "8475a5f23ff9f51e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1292.75,
+    "end": 1295.75
+  },
+  {
+    "text": "And fanatical in the way they think about customer support.",
+    "uid": "750060afdf12d4f9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1295.75,
+    "end": 1298.75
+  },
+  {
+    "text": "In fact, one thing that correlates with success among the YC companies is the founders that hook up page your duty to their ticketing system.",
+    "uid": "9b9d25099888b6e4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1298.75,
+    "end": 1305.75
+  },
+  {
+    "text": "So the aim of the user emails in the middle of the night when the founders are asleep, they still get a response within an hour.",
+    "uid": "4fec51c042252324",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1305.75,
+    "end": 1310.75
+  },
+  {
+    "text": "Coming is actually do this in the early days.",
+    "uid": "c7af4fb7d7bb3f53",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1310.75,
+    "end": 1312.75
+  },
+  {
+    "text": "These founders feel physical pain when the product sucks and they want to wake up and fix it.",
+    "uid": "a5c89e73e2f14a94",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1312.75,
+    "end": 1316.75
+  },
+  {
+    "text": "They don't ship crap and if they do, they fix it very, very quickly.",
+    "uid": "52b8ef521ba42a98",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1316.75,
+    "end": 1319.75
+  },
+  {
+    "text": "And they definitely take some level of fanaticism to build a great product.",
+    "uid": "1a8f7294a16b3a49",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1319.75,
+    "end": 1326.29
+  },
+  {
+    "text": "You need some users to help with the feedback cycle.",
+    "uid": "953d04e835d89845",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1326.29,
+    "end": 1328.29
+  },
+  {
+    "text": "But the way to get this users is manually.",
+    "uid": "d0f168adb2aabcce",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1328.29,
+    "end": 1330.29
+  },
+  {
+    "text": "You should go recruit them by hand.",
+    "uid": "f112ea9b07e1afca",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1330.29,
+    "end": 1332.29
+  },
+  {
+    "text": "Don't do things like buy Google ads in the early days to get an initial users.",
+    "uid": "d8ab001f6b546184",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1332.29,
+    "end": 1336.29
+  },
+  {
+    "text": "You don't need very many.",
+    "uid": "739dd9b807338d23",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1336.29,
+    "end": 1338.29
+  },
+  {
+    "text": "You just need ones that will give you feedback every day and eventually love your product.",
+    "uid": "47141b34c8580467",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1338.29,
+    "end": 1341.29
+  },
+  {
+    "text": "So instead of trying to get them on Google Adwords, just find a few people in the world that will be good users.",
+    "uid": "01b81b3365f89cf0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1341.29,
+    "end": 1346.29
+  },
+  {
+    "text": "Recreate them by hand.",
+    "uid": "acd9dc11d1721ef5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1346.29,
+    "end": 1348.29
+  },
+  {
+    "text": "Ben Silverman, when everyone thought Pinterest was a joke, recruited the initial Pinterest users by tabbing up strangers and coffee shops.",
+    "uid": "bf9614971aa6e99f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1348.29,
+    "end": 1355.29
+  },
+  {
+    "text": "He really did. He just walked around Palad Alto and said, well, you please use my product.",
+    "uid": "265d6fa0f3d07313",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1355.29,
+    "end": 1359.29
+  },
+  {
+    "text": "He also used to run around the Apple Store in Palad Alto and he would like settle the browsers to the Pinterest homepage real quick before they caught it and kicked them out.",
+    "uid": "23f7a5c2c535a742",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1359.29,
+    "end": 1366.29
+  },
+  {
+    "text": "So then when people walked in there they were like, oh, what is this?",
+    "uid": "7713b1c181094eb5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1366.29,
+    "end": 1369.29
+  },
+  {
+    "text": "This is an important example of doing things that don't scale.",
+    "uid": "73c94c51729af77b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1370.29,
+    "end": 1374.29
+  },
+  {
+    "text": "If you haven't read Palad Alto's essay on that topic, you definitely should.",
+    "uid": "63dc8884916b36c9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1374.29,
+    "end": 1378.29
+  },
+  {
+    "text": "So get users manually and remember that the goal is to get a small group of them to love you.",
+    "uid": "bf6e503ca17df347",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1378.29,
+    "end": 1383.29
+  },
+  {
+    "text": "Understand that group extremely well, get extremely close to them, close to them.",
+    "uid": "3373f0781a0a68cb",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1383.29,
+    "end": 1387.29
+  },
+  {
+    "text": "Listen to them and you'll almost always find out that they're very willing to get your feedback.",
+    "uid": "9b67111ec06db9e3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1387.29,
+    "end": 1392.29
+  },
+  {
+    "text": "Even if you're building the product for yourself, listen to outside users and they'll tell you how to make a product they'll pay for.",
+    "uid": "3db91c02830f1ac6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1392.29,
+    "end": 1398.29
+  },
+  {
+    "text": "Do whatever you need to make them love you.",
+    "uid": "a0a1bc01756746ec",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1398.29,
+    "end": 1400.29
+  },
+  {
+    "text": "Make them what you're doing because they're also going to be advocates that help you get your next users.",
+    "uid": "29ddbf4a0844f078",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1400.29,
+    "end": 1404.29
+  },
+  {
+    "text": "You want to build an engine in the company that transforms feedback from users into product decisions.",
+    "uid": "e5c2ac7abac506ae",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1404.29,
+    "end": 1410.86
+  },
+  {
+    "text": "Then get it back in front of the users and repeat.",
+    "uid": "24d43482221eb142",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1410.86,
+    "end": 1412.86
+  },
+  {
+    "text": "Ask them what they like and what they don't like and watch them use it.",
+    "uid": "d0e579a7fa1ee77b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1412.86,
+    "end": 1416.86
+  },
+  {
+    "text": "Ask them what they pay for.",
+    "uid": "0acd096f9f6afbac",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1416.86,
+    "end": 1418.86
+  },
+  {
+    "text": "Ask them if they be really bummed if your company went away.",
+    "uid": "2686b9cf8d76d6f1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1418.86,
+    "end": 1421.86
+  },
+  {
+    "text": "Ask them what would make them recommend the product to their friends and ask them if they'd recommend it to any yet.",
+    "uid": "a5656e92cc164e8f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1421.86,
+    "end": 1426.86
+  },
+  {
+    "text": "You should make this feedback loop as tight as possible.",
+    "uid": "74d85c7643ae04be",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1426.86,
+    "end": 1429.86
+  },
+  {
+    "text": "If your product gets 10% better every week, that compound is really, really quickly.",
+    "uid": "4e1429028dd5a5a4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1429.86,
+    "end": 1433.86
+  },
+  {
+    "text": "One of the great advantages is to start software startups is just how short you can make the feedback loop.",
+    "uid": "ed43d4795fd17984",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1433.86,
+    "end": 1439.86
+  },
+  {
+    "text": "It can be measured in hours and the best company is usually to have the tightest feedback loops.",
+    "uid": "effe43de6faa65cd",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1439.86,
+    "end": 1443.86
+  },
+  {
+    "text": "You should try to keep this going for all of your company's life, but it's really important in the early days.",
+    "uid": "80076765cfcc850b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1443.86,
+    "end": 1449.86
+  },
+  {
+    "text": "The good news is that all of this is doable.",
+    "uid": "6399f6a797e4f783",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1449.86,
+    "end": 1451.86
+  },
+  {
+    "text": "It's hard. It takes a lot of effort, but there's no magic.",
+    "uid": "3a98c08310a92169",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1451.86,
+    "end": 1454.86
+  },
+  {
+    "text": "The plan is at least straightforward and you will eventually get to a great product.",
+    "uid": "cb0ba1ac732349d3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1454.86,
+    "end": 1458.86
+  },
+  {
+    "text": "Great founders don't put anyone between themselves and their users.",
+    "uid": "4b40afec83e041e0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1458.86,
+    "end": 1461.86
+  },
+  {
+    "text": "The founders of these companies do things like sales and customer support themselves in the early days.",
+    "uid": "654d4fa7e249cdcc",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1461.86,
+    "end": 1465.86
+  },
+  {
+    "text": "It's critical to get this loop embedded in the culture.",
+    "uid": "0f19b5de7424d690",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1465.86,
+    "end": 1468.86
+  },
+  {
+    "text": "In fact, the specific problem that we always see with Stanford startups for some reason is that the students try and hire sales and customer support people right away.",
+    "uid": "710427453d55e70f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1468.86,
+    "end": 1475.86
+  },
+  {
+    "text": "And you've got to do this yourself. It's the only way.",
+    "uid": "75996f4202feb661",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1475.86,
+    "end": 1477.86
+  },
+  {
+    "text": "You really need to use metrics to keep yourself honest on this.",
+    "uid": "ce16f223cb5fdef7",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1477.86,
+    "end": 1482.26
+  },
+  {
+    "text": "It's really true that the company will build whatever the CEO decides to measure.",
+    "uid": "6eaa7d59ecc0bdb0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1483.26,
+    "end": 1487.26
+  },
+  {
+    "text": "If you're building the internet service, ignore things like total registrations, don't talk about them, don't let anyone with the company talk about them.",
+    "uid": "ff901671abd47fb0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1487.26,
+    "end": 1493.26
+  },
+  {
+    "text": "And look at growth and active users, activity levels, cohort retention, revenue and net promoter scores, these things that matter.",
+    "uid": "b49107952ee7333d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1493.26,
+    "end": 1499.26
+  },
+  {
+    "text": "And then be brutally honest if they're going in the right direction.",
+    "uid": "0ebfc9231e065493",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1499.26,
+    "end": 1501.26
+  },
+  {
+    "text": "Startups live on growth. It's the indicator of a great product.",
+    "uid": "33fefd5b161f40fa",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1501.26,
+    "end": 1504.26
+  },
+  {
+    "text": "So this is about wraps up the overview on building a great product.",
+    "uid": "6922edbb28d5e802",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1504.26,
+    "end": 1507.26
+  },
+  {
+    "text": "I want to emphasize again that if you don't get this right, nothing else we've talked about.",
+    "uid": "b8258472fd4ef921",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1507.26,
+    "end": 1511.26
+  },
+  {
+    "text": "In the class one matter.",
+    "uid": "3d7bc02795ce674d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1511.26,
+    "end": 1513.26
+  },
+  {
+    "text": "You can basically ignore everything else that we talk about until this is working well.",
+    "uid": "13ee03548dcd27ef",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1513.26,
+    "end": 1517.26
+  },
+  {
+    "text": "On the positive side, this is one of the most fun parts.",
+    "uid": "874d6281936df33a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1517.26,
+    "end": 1520.26
+  },
+  {
+    "text": "I'm building a startup.",
+    "uid": "e42d7a0a1df99f42",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1520.26,
+    "end": 1522.26
+  },
+  {
+    "text": "So I'm going to pause here. I'll pick back up with the rest of this on Thursday.",
+    "uid": "6b4ea7a8cfdcc777",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1522.26,
+    "end": 1525.26
+  },
+  {
+    "text": "And now we're going to have Dustin talk about why you should start a startup.",
+    "uid": "81a93e96065e52ac",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1525.26,
+    "end": 1529.26
+  },
+  {
+    "text": "Thank you for coming, Dustin.",
+    "uid": "8887fb486116cc7d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1529.26,
+    "end": 1531.26
+  },
+  {
+    "text": "But yeah, so Sam has to mean to talk about why you should start a startup.",
+    "uid": "6894f507d16bf17b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1532.26,
+    "end": 1537.26
+  },
+  {
+    "text": "There's a bunch of reasons you might have.",
+    "uid": "1d6d34b50295d150",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1537.26,
+    "end": 1540.26
+  },
+  {
+    "text": "And there's a bunch of common reasons that people have that I hear all the time for why you might start a startup.",
+    "uid": "2c248c68899f91b8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1540.26,
+    "end": 1546.26
+  },
+  {
+    "text": "It's important to know what reason is yours because some of them only make sense in certain context.",
+    "uid": "091816d41adcc21e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1546.26,
+    "end": 1552.26
+  },
+  {
+    "text": "Some of them will actually lead you astray.",
+    "uid": "fa241a8f1367dae5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1552.26,
+    "end": 1554.26
+  },
+  {
+    "text": "You may have been misled by the way that Hollywood or the press, like some romanticized entrepreneurship.",
+    "uid": "32de665bc093ce52",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1554.26,
+    "end": 1559.26
+  },
+  {
+    "text": "So I want to try and like illuminate some of those potential fallacies.",
+    "uid": "18ba5dcad4a84c14",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1559.26,
+    "end": 1563.26
+  },
+  {
+    "text": "So you guys can make the decision in a clear way.",
+    "uid": "bf25a29fb4fbf9bd",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1563.26,
+    "end": 1566.26
+  },
+  {
+    "text": "And then I'll talk about the reason I like best for actually starting a startup.",
+    "uid": "4fc2713f3b7f3061",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1566.26,
+    "end": 1571.26
+  },
+  {
+    "text": "It's very related to a lot of wood Sam just talked about.",
+    "uid": "47675b5e8023abd5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1571.26,
+    "end": 1574.26
+  },
+  {
+    "text": "But surprisingly, I don't think it's the most common reason.",
+    "uid": "256fd7cdf9665f02",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1574.26,
+    "end": 1577.26
+  },
+  {
+    "text": "Usually people have one of these other reasons.",
+    "uid": "ae1d9bdb6db21c62",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1577.26,
+    "end": 1580.26
+  },
+  {
+    "text": "Or they just want to start a company for the sake of starting a company.",
+    "uid": "76fed1271f7d26db",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1580.26,
+    "end": 1584.26
+  },
+  {
+    "text": "So the four common reasons just to numerate them are glamorous.",
+    "uid": "467be46905b92a00",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1584.26,
+    "end": 1589.26
+  },
+  {
+    "text": "You'll get to be the boss.",
+    "uid": "03f04b02d6d0558c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1589.26,
+    "end": 1592.26
+  },
+  {
+    "text": "You'll have flexibility, especially over your schedule.",
+    "uid": "4cd11837715ce37d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1593.26,
+    "end": 1596.26
+  },
+  {
+    "text": "And you'll have the chance to have bigger impact and make more money than you might by joining a later stage company.",
+    "uid": "8980a7bb18afd3b8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1596.26,
+    "end": 1604.26
+  },
+  {
+    "text": "So you know, you guys are probably pretty familiar with this concept.",
+    "uid": "ed130f073b37be73",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1606.26,
+    "end": 1609.26
+  },
+  {
+    "text": "When I wrote the medium post, which a lot of you guys read a year ago,",
+    "uid": "d47e122eb000a114",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1609.26,
+    "end": 1612.26
+  },
+  {
+    "text": "I felt like the story in the press was a little more unbalanced.",
+    "uid": "9fcb9dffbad409df",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1612.26,
+    "end": 1616.26
+  },
+  {
+    "text": "Entrepreneurship just got romanticized quite a bit.",
+    "uid": "bacf9d561b625869",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1616.26,
+    "end": 1619.26
+  },
+  {
+    "text": "So, you know, the social network came out.",
+    "uid": "f7b04577c7ca8372",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1619.26,
+    "end": 1621.26
+  },
+  {
+    "text": "Had a lot of sort of like bad aspects of, you know, what it's like to be an entrepreneur.",
+    "uid": "3c0da1f22f93e98d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1621.26,
+    "end": 1625.26
+  },
+  {
+    "text": "But mainly sort of painted this picture of like, there's a lot of party in.",
+    "uid": "dac15d1186b94097",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1625.26,
+    "end": 1629.26
+  },
+  {
+    "text": "And you kind of move from like one brilliant insight to another brilliant insight.",
+    "uid": "59f1c2ac1f63d4cf",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1629.26,
+    "end": 1633.26
+  },
+  {
+    "text": "And really made it, you know, seem like this like really cool thing to do.",
+    "uid": "5945d4a5ec18051d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1633.26,
+    "end": 1636.26
+  },
+  {
+    "text": "And I think the reality is just, you know, not quite so glamorous.",
+    "uid": "cb318d2b92346627",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1636.26,
+    "end": 1641.26
+  },
+  {
+    "text": "There's sort of a, there's not we side to being an entrepreneur.",
+    "uid": "53d4cccd1eadfaf7",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1641.26,
+    "end": 1644.26
+  },
+  {
+    "text": "And also just more importantly, what you're actually spending your time on is just a lot of hard work.",
+    "uid": "fd1ce38f5b785b64",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1644.26,
+    "end": 1648.26
+  },
+  {
+    "text": "Sam mentioned this, but you're basically just sitting at your desk heads down,",
+    "uid": "cf05c555377b03c3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1648.26,
+    "end": 1651.26
+  },
+  {
+    "text": "focused answering customers, customers, customers,",
+    "uid": "c3f9e2f84450dfd1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1651.26,
+    "end": 1654.26
+  },
+  {
+    "text": "supporting emails, doing sales, figuring out hard engineering problems.",
+    "uid": "6bdb089cd352e821",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1654.26,
+    "end": 1658.26
+  },
+  {
+    "text": "So it's really important that you kind of like go in with eyes wide open.",
+    "uid": "f8031ea096e15d10",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1658.26,
+    "end": 1662.26
+  },
+  {
+    "text": "And then also it's, it's really quite stressful.",
+    "uid": "819e6095375c5106",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1662.26,
+    "end": 1665.26
+  },
+  {
+    "text": "This has been a popular topic in the press lately.",
+    "uid": "b2a52df47664357f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1665.26,
+    "end": 1668.26
+  },
+  {
+    "text": "The economist actually ran a story just last week called like entrepreneurs,",
+    "uid": "7ef4971abd4460ef",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1668.26,
+    "end": 1671.26
+  },
+  {
+    "text": "anonymous and shows like a founder kind of like hiding under his desk and talking about like,",
+    "uid": "3004d3a12823fc56",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1671.26,
+    "end": 1675.26
+  },
+  {
+    "text": "So this is like a very real thing, like, you know, let's be real.",
+    "uid": "5ac6d716572a5ac0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1677.26,
+    "end": 1680.26
+  },
+  {
+    "text": "This if you start a company, it's going to be extremely hard.",
+    "uid": "6a5eed55af713dc5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1680.26,
+    "end": 1683.26
+  },
+  {
+    "text": "Why is it so stressful?",
+    "uid": "6faea3cc1af70cad",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1683.26,
+    "end": 1685.26
+  },
+  {
+    "text": "So a couple of reasons.",
+    "uid": "b0820a73bb97e378",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1685.26,
+    "end": 1686.26
+  },
+  {
+    "text": "One is you've got a lot of responsibility.",
+    "uid": "4c6d6bd00dce7bd3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1686.26,
+    "end": 1689.26
+  },
+  {
+    "text": "So people in any kind of career have fear failure.",
+    "uid": "188e37f80d00ff30",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1689.26,
+    "end": 1693.26
+  },
+  {
+    "text": "Kind of just like a dominant part of the psychology.",
+    "uid": "4d0e7492d7196e27",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1693.26,
+    "end": 1695.26
+  },
+  {
+    "text": "But when you're an entrepreneur, you have fear failure on the half of yourself and all of the people who decided to follow you.",
+    "uid": "a701c189d0d1de65",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1695.26,
+    "end": 1700.26
+  },
+  {
+    "text": "So that's really stressful.",
+    "uid": "678372a6a612a31c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1700.26,
+    "end": 1702.26
+  },
+  {
+    "text": "In some cases, these people are depending on you for their livelihood, even when that's not true, they've decided to devote the best of your years of their life to following you.",
+    "uid": "6fda64d4ec27c29e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1703.26,
+    "end": 1711.26
+  },
+  {
+    "text": "And so you're responsible for the opportunity cost of their time.",
+    "uid": "6577d21f152b76fc",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1711.26,
+    "end": 1714.26
+  },
+  {
+    "text": "So that's a big deal.",
+    "uid": "b03a925284cc12dd",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1714.26,
+    "end": 1716.26
+  },
+  {
+    "text": "And you're always on call.",
+    "uid": "410165733d61b904",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1716.26,
+    "end": 1718.26
+  },
+  {
+    "text": "If something comes up, maybe not always at three in the morning, but for some start-ups, that's true.",
+    "uid": "5701033196900b6f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1718.26,
+    "end": 1723.26
+  },
+  {
+    "text": "But if something important comes up, you're going to deal with it.",
+    "uid": "31215254f4ce6c0b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1723.26,
+    "end": 1725.26
+  },
+  {
+    "text": "That's kind of the end of the story.",
+    "uid": "b5c894c340f08665",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1725.26,
+    "end": 1726.26
+  },
+  {
+    "text": "It doesn't matter if you're on vacation, it doesn't matter if it's the weekend.",
+    "uid": "6e646129dacdefd3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1726.26,
+    "end": 1729.26
+  },
+  {
+    "text": "You've kind of always got to be on the ball and always be in a place mentally where you're prepared to deal with those things.",
+    "uid": "8b4996dbf7e43c10",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1729.26,
+    "end": 1735.26
+  },
+  {
+    "text": "And then a sort of special example of that is, or this kind of stress is fundraising.",
+    "uid": "031c3c4f6d88eacc",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1735.26,
+    "end": 1741.26
+  },
+  {
+    "text": "So seeing from the social network, this is us partying and working at the same time, somebody's spraying champagne everywhere.",
+    "uid": "3f60eb61cb0005f3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1741.26,
+    "end": 1750.26
+  },
+  {
+    "text": "You know, so the social network spends a lot of time kind of painting these scenes.",
+    "uid": "8d0306d11c3bddd3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1750.26,
+    "end": 1755.26
+  },
+  {
+    "text": "Mark's not in the scene. The other thing they spend all their time on is kind of like painting him out to be a huge jerk.",
+    "uid": "526966d770618e4e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1755.26,
+    "end": 1760.26
+  },
+  {
+    "text": "So this is an actual scene from...",
+    "uid": "7762924c12fc63c8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1763.26,
+    "end": 1768.26
+  },
+  {
+    "text": "So you're going to move this just a little.",
+    "uid": "604d2f25aa11929f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1768.26,
+    "end": 1773.26
+  },
+  {
+    "text": "Oh, this works.",
+    "uid": "1bf2d68f124364fb",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1773.26,
+    "end": 1775.26
+  },
+  {
+    "text": "On the PDF as well.",
+    "uid": "2fb51384a48d6cc7",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1776.26,
+    "end": 1778.26
+  },
+  {
+    "text": "This is an actual scene from Palo Alto.",
+    "uid": "4decc0caf9908ae3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1780.26,
+    "end": 1783.26
+  },
+  {
+    "text": "It's been a lot of time. This does just kind of heads down and focus.",
+    "uid": "5e0cc715f368cb6f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1783.26,
+    "end": 1786.26
+  },
+  {
+    "text": "Mark was still kind of a jerk sometimes, but in this more like fun, movable way, not like sociopathic, scorn lover way.",
+    "uid": "65345043ad7de9b3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1786.26,
+    "end": 1793.26
+  },
+  {
+    "text": "So this is him like signaling his intention to, you know, just be focused and keep working.",
+    "uid": "7d8038926b5bd3ee",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1793.26,
+    "end": 1798.26
+  },
+  {
+    "text": "So then there's also the scene sort of demonstrating the like brilliant insight moment.",
+    "uid": "68c9532a5126d218",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1800.26,
+    "end": 1805.26
+  },
+  {
+    "text": "It's kind of like straight out of a beautiful mind.",
+    "uid": "8f513ac7a567c0b2",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1805.26,
+    "end": 1808.26
+  },
+  {
+    "text": "Literally skull that scene.",
+    "uid": "c21b0df48a45aee3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1809.26,
+    "end": 1811.26
+  },
+  {
+    "text": "So the like to paint it is just kind of like jump from one of these moments to the other moment with like partying in between.",
+    "uid": "bfc5d6842cd3b129",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1811.26,
+    "end": 1817.26
+  },
+  {
+    "text": "But really we're just at that table the whole time.",
+    "uid": "0386b25a70a42a76",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1817.26,
+    "end": 1820.26
+  },
+  {
+    "text": "So interestingly, if you compare this to the other photo, Mark is in the exact same position, but he's wearing different clothes.",
+    "uid": "cf282196ccee9ad1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1820.26,
+    "end": 1825.26
+  },
+  {
+    "text": "This is definitely a different day.",
+    "uid": "62bf50db9452084c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1825.26,
+    "end": 1827.26
+  },
+  {
+    "text": "So that's what it's actually like in person.",
+    "uid": "0b6da47a30dde489",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1830.26,
+    "end": 1833.26
+  },
+  {
+    "text": "And I just covered this bowl it up here. This is the economist article I was talking about a second ago.",
+    "uid": "f4b2b8c79e9aa487",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1833.26,
+    "end": 1839.26
+  },
+  {
+    "text": "So another form of stress is just like unwanted media attention.",
+    "uid": "3f38ab58786dbfb3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1839.26,
+    "end": 1843.26
+  },
+  {
+    "text": "So part of it being glamorous.",
+    "uid": "3d809bb0a753de70",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1843.26,
+    "end": 1845.26
+  },
+  {
+    "text": "You get some positive media attention sometimes.",
+    "uid": "22280509918b3278",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1845.26,
+    "end": 1847.26
+  },
+  {
+    "text": "It's nice to be on like the cover of time and like be the person of the year.",
+    "uid": "bcf28624c777bfd8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1847.26,
+    "end": 1851.26
+  },
+  {
+    "text": "It's maybe a little less nice to be on the cover of people with like when you're wedding photos.",
+    "uid": "a53a351b03fe38fd",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1851.26,
+    "end": 1855.26
+  },
+  {
+    "text": "It depends who you are. Some people would like that. I'd really hate it.",
+    "uid": "2aec79aaa1a4839f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1855.26,
+    "end": 1858.26
+  },
+  {
+    "text": "But when value lag, like, you know, analyzes your lecture and just tears you apart, like he definitely not want to.",
+    "uid": "c3e83c82ffcfa1b8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1858.26,
+    "end": 1862.26
+  },
+  {
+    "text": "Nobody wants that.",
+    "uid": "7edc1f160ef832b3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1862.26,
+    "end": 1864.26
+  },
+  {
+    "text": "And then one thing I almost never hear people talk about is you're just a lot more committed.",
+    "uid": "1eacc23363694864",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1864.26,
+    "end": 1868.26
+  },
+  {
+    "text": "So if you're an employee of a startup and, you know, things are stressful.",
+    "uid": "0fd9c8b298d429ab",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1868.26,
+    "end": 1873.26
+  },
+  {
+    "text": "It's not going well. You're unhappy. You can just leave.",
+    "uid": "d280b03418fe42ac",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1873.26,
+    "end": 1876.26
+  },
+  {
+    "text": "For a founder, you can leave, but it's very uncool. Pretty much a black eye on the rest of your career.",
+    "uid": "32f20c26d96e2b2f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1876.26,
+    "end": 1882.26
+  },
+  {
+    "text": "And so you really are committed.",
+    "uid": "1e428bd8b699f2bc",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1882.26,
+    "end": 1885.26
+  },
+  {
+    "text": "You know, for 10 years if it's going well, probably more like five years if it's not going well.",
+    "uid": "09a5ca42fab42308",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1885.26,
+    "end": 1889.26
+  },
+  {
+    "text": "So three years to figure out that it's not going well.",
+    "uid": "cfe73025dd6f52a9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1889.26,
+    "end": 1892.26
+  },
+  {
+    "text": "And then if you find like a nice landing for your company, another two years at the acquiring company.",
+    "uid": "00915debbb7be1a7",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1892.26,
+    "end": 1897.26
+  },
+  {
+    "text": "And if you leave before that, again, it's not only going to harm yourself financially,",
+    "uid": "3a0c61badb573aea",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1897.26,
+    "end": 1900.26
+  },
+  {
+    "text": "it's going to harm all your employees pretty much don't.",
+    "uid": "a69d5f9a788b2b81",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1900.26,
+    "end": 1902.26
+  },
+  {
+    "text": "So if you're lucky and you have a bad startup idea, you fail quickly,",
+    "uid": "9daf0c3fcea90de0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1902.26,
+    "end": 1906.26
+  },
+  {
+    "text": "but most of the time it's not like that.",
+    "uid": "12729c45fe59b4b4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1906.26,
+    "end": 1908.26
+  },
+  {
+    "text": "Moving right along.",
+    "uid": "8284c0a5fbbe9683",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1908.26,
+    "end": 1911.7
+  },
+  {
+    "text": "So, and I should say, I've had a lot of this stress in my own life,",
+    "uid": "81d2532eb2aab83c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1911.7,
+    "end": 1916.7
+  },
+  {
+    "text": "especially in the early years of Facebook.",
+    "uid": "9b739fc9c7e5a37d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1916.7,
+    "end": 1919.7
+  },
+  {
+    "text": "You know, I just got really unhealthy. I wasn't exercising.",
+    "uid": "764d0d42dd4a0ede",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1919.7,
+    "end": 1922.7
+  },
+  {
+    "text": "I had a lot of anxiety. Actually, like throughout my back, like almost every six months,",
+    "uid": "d64961e45e84393b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1922.7,
+    "end": 1926.7
+  },
+  {
+    "text": "like when I was like 21, 22, which is like pretty crazy.",
+    "uid": "0478cabcd6c60223",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1926.7,
+    "end": 1930.7
+  },
+  {
+    "text": "And so if you do start a company, you know, be aware that you're going to have to deal with this.",
+    "uid": "eaa79f5501c56b10",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1930.7,
+    "end": 1935.7
+  },
+  {
+    "text": "And you have to actually manage it.",
+    "uid": "692b03d9e2b4f681",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1935.7,
+    "end": 1937.7
+  },
+  {
+    "text": "It's actually like one of your core responsibilities,",
+    "uid": "6d5e325ed23f5dbf",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1937.7,
+    "end": 1939.7
+  },
+  {
+    "text": "Ben Horowitz likes to say like the number one role to see is managing your own psychology.",
+    "uid": "8b380c993e09f426",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1939.7,
+    "end": 1943.7
+  },
+  {
+    "text": "It's absolutely true. Make sure you do it.",
+    "uid": "4cedd8c97f5c1e59",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1943.7,
+    "end": 1947.7
+  },
+  {
+    "text": "So another reason, so people, especially if they've already had a job at another company,",
+    "uid": "2f93b28471a8f0f5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1947.7,
+    "end": 1952.7
+  },
+  {
+    "text": "you tend to develop this narrative of like, okay, like the people running this company are idiots",
+    "uid": "8b579867d6c0bddf",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1952.7,
+    "end": 1957.7
+  },
+  {
+    "text": "or making all these stupid decisions, they're spending their time in these stupid ways.",
+    "uid": "0050f2ccf8f8e00f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1957.7,
+    "end": 1961.7
+  },
+  {
+    "text": "I'm going to start a company and I'm going to do it better.",
+    "uid": "e9471a44c9352452",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1961.7,
+    "end": 1963.7
+  },
+  {
+    "text": "I'm going to like set all the rules.",
+    "uid": "4135586e563b5f17",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1963.7,
+    "end": 1965.7
+  },
+  {
+    "text": "It's a pretty attractive idea.",
+    "uid": "b05165bdb263a3cc",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1965.7,
+    "end": 1967.7
+  },
+  {
+    "text": "Makes a lot of sense.",
+    "uid": "6f5aa39d394b6078",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1967.7,
+    "end": 1969.7
+  },
+  {
+    "text": "If you've read my medium post, you know, it's coming.",
+    "uid": "ca48caf518e56179",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1969.7,
+    "end": 1972.7
+  },
+  {
+    "text": "It gets a secondary, this quote.",
+    "uid": "ff1d1628c3df35be",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1972.7,
+    "end": 1985.02
+  },
+  {
+    "text": "Cool. So this really resonates with me.",
+    "uid": "b04e4a3ed1d491f8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1985.02,
+    "end": 1987.02
+  },
+  {
+    "text": "And one thing I'd point out is, you know, the reality of these decisions is pretty nuanced.",
+    "uid": "6dfbe0a2622fd94d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1987.02,
+    "end": 1993.02
+  },
+  {
+    "text": "The people you thought were idiots probably weren't idiots.",
+    "uid": "c4fe78ab8dbaa37f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1993.02,
+    "end": 1995.02
+  },
+  {
+    "text": "They probably just had like really difficult decision in front of them.",
+    "uid": "23b37cd2f40cea86",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1995.02,
+    "end": 1998.02
+  },
+  {
+    "text": "And people pulling them in multiple directions.",
+    "uid": "5902358a7b4d39af",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 1998.02,
+    "end": 2001.02
+  },
+  {
+    "text": "So the most common thing I have to spend my time on and focus managing on as a CEO is like the problems",
+    "uid": "c09834059e4281ce",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2001.02,
+    "end": 2008.02
+  },
+  {
+    "text": "that like other people are bringing to me, the other priorities that people create.",
+    "uid": "295ac1a8603b5b12",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2008.02,
+    "end": 2012.02
+  },
+  {
+    "text": "And it's usually in the form of a conflict.",
+    "uid": "a8423f90c5c2a524",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2012.02,
+    "end": 2014.02
+  },
+  {
+    "text": "People want to go in different directions or like customers want different things.",
+    "uid": "b845652de6b522f4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2014.02,
+    "end": 2018.02
+  },
+  {
+    "text": "And like I might have my own opinion about that.",
+    "uid": "be4ae2d79df1f828",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2018.02,
+    "end": 2020.02
+  },
+  {
+    "text": "But really the game I'm playing is like who do I disappoint the least.",
+    "uid": "df1d241b7e9db4a1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2020.02,
+    "end": 2024.02
+  },
+  {
+    "text": "And like just trying to navigate all these difficult situations.",
+    "uid": "c8392244cd46afb3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2024.02,
+    "end": 2028.02
+  },
+  {
+    "text": "And even on a day to day basis, I might come in on Monday and like have all these, you know,",
+    "uid": "512a2ace6ab69ae1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2028.02,
+    "end": 2032.02
+  },
+  {
+    "text": "grand plans for like I'm going to improve the company and when I'm going to spend my time on.",
+    "uid": "1163fa7387778da6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2032.02,
+    "end": 2036.02
+  },
+  {
+    "text": "But then if like an important employee is threatening to quit, that's where I'm spending my time on.",
+    "uid": "f289136967e96b60",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2036.02,
+    "end": 2040.02
+  },
+  {
+    "text": "That's my number one priority.",
+    "uid": "9ede7a4ec2cf8ca5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2040.02,
+    "end": 2042.02
+  },
+  {
+    "text": "So a subset of your the boss is you have flexibility.",
+    "uid": "488cf666db7f1971",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2042.02,
+    "end": 2046.02
+  },
+  {
+    "text": "You have control over your own schedule.",
+    "uid": "82820f63306207b2",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2046.02,
+    "end": 2048.02
+  },
+  {
+    "text": "This is a really attractive idea.",
+    "uid": "91e0e872f2a7ae83",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2048.02,
+    "end": 2052.02
+  },
+  {
+    "text": "So here's the reality.",
+    "uid": "00a5334c0461b106",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2052.02,
+    "end": 2054.02
+  },
+  {
+    "text": "Another full live-in quote.",
+    "uid": "89747c51b00c3afa",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2054.02,
+    "end": 2057.74
+  },
+  {
+    "text": "So this really resonates with me as well.",
+    "uid": "11d5a05aeaefd558",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2057.74,
+    "end": 2061.74
+  },
+  {
+    "text": "Some of the reasons for this again, you're always on call.",
+    "uid": "3248442d31691850",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2061.74,
+    "end": 2064.74
+  },
+  {
+    "text": "So maybe don't intend to work all part to the day, but you might not get to control which ones.",
+    "uid": "a923ceb22854fc5e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2064.74,
+    "end": 2068.74
+  },
+  {
+    "text": "Your role model, this is super important.",
+    "uid": "4224a91997736fc6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2068.74,
+    "end": 2072.74
+  },
+  {
+    "text": "So if you're an employee of a company, you might have some good weeks, you might have some bad weeks,",
+    "uid": "e4bfd0fa9189f0e1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2072.74,
+    "end": 2076.74
+  },
+  {
+    "text": "some weeks when you're low energy, maybe you want to take a couple extra days off.",
+    "uid": "bf0d010e7f461f5e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2076.74,
+    "end": 2080.74
+  },
+  {
+    "text": "That's really bad if you're an entrepreneur.",
+    "uid": "2c62d83daaa2d403",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2080.74,
+    "end": 2082.74
+  },
+  {
+    "text": "Like your team will really signal off what you're bringing to the table.",
+    "uid": "fb19e10faa2d5e3a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2082.74,
+    "end": 2086.74
+  },
+  {
+    "text": "And so if you take your foot off the gas, so will they.",
+    "uid": "1e3771abdad73d44",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2086.74,
+    "end": 2088.74
+  },
+  {
+    "text": "And you're always working anyway.",
+    "uid": "bd4847944c587c8d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2088.74,
+    "end": 2092.74
+  },
+  {
+    "text": "So if you're really passionate about an idea, it's just going to like pull you to keep working on it.",
+    "uid": "4b5abeb3b116fd42",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2092.74,
+    "end": 2096.74
+  },
+  {
+    "text": "If you're working with great investors, you're working with great partners.",
+    "uid": "a6ccaade662b3564",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2096.74,
+    "end": 2100.74
+  },
+  {
+    "text": "They're going to want to be working really hard.",
+    "uid": "aed3f50e7b70bcf4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2100.74,
+    "end": 2102.74
+  },
+  {
+    "text": "They're going to want you to be working really hard.",
+    "uid": "1aa51ce60c7b528b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2102.74,
+    "end": 2104.74
+  },
+  {
+    "text": "And again, you're going to want to work really hard.",
+    "uid": "48e8ca802f5f949c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2104.74,
+    "end": 2106.74
+  },
+  {
+    "text": "So some some companies like to tell the story about you can have your cake and eat it too.",
+    "uid": "4da4fe2fcdf18d1a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2106.74,
+    "end": 2110.74
+  },
+  {
+    "text": "You can have like four day week, weeks, maybe if you're if you're 10 pairs, maybe you can have a 12 hour work week.",
+    "uid": "8bffd2b2ee7d5eb2",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2110.74,
+    "end": 2116.74
+  },
+  {
+    "text": "It's really attractive idea.",
+    "uid": "64f116615d27f159",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2116.74,
+    "end": 2118.74
+  },
+  {
+    "text": "And it does work in a particular instance, which is if you want to actually have a small business or go after",
+    "uid": "5a88372b41cae929",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2118.74,
+    "end": 2124.74
+  },
+  {
+    "text": "in each market, then you're small business entrepreneur.",
+    "uid": "034aae1e23260333",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2124.74,
+    "end": 2126.74
+  },
+  {
+    "text": "That makes total sense.",
+    "uid": "51f331921ee9898d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2126.74,
+    "end": 2128.74
+  },
+  {
+    "text": "But as soon as you get past like two or three people, you really need to step it up and be full time committed.",
+    "uid": "76d2d2a3c95cafd3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2128.74,
+    "end": 2134.74
+  },
+  {
+    "text": "So this is the big one.",
+    "uid": "1ef31c06645f918b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2136.74,
+    "end": 2138.74
+  },
+  {
+    "text": "So this is the one I hear the most, especially like candidates applying to a sauna.",
+    "uid": "3c0515d775a1b4b3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2138.74,
+    "end": 2144.74
+  },
+  {
+    "text": "They tell me, you know, I'd really like to work for much smaller company or start my own because then I have a much bigger slice of the pie.",
+    "uid": "745c9c5c7f632584",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2144.74,
+    "end": 2151.74
+  },
+  {
+    "text": "I'll have much more impact on how that company does.",
+    "uid": "341710b321c9fa70",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2151.74,
+    "end": 2154.74
+  },
+  {
+    "text": "And I'll have more equity.",
+    "uid": "e21f182ce66205d2",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2154.74,
+    "end": 2156.74
+  },
+  {
+    "text": "So I'll make more money as well.",
+    "uid": "360cc68d2858458b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2156.74,
+    "end": 2157.74
+  },
+  {
+    "text": "So let's examine when this might be true.",
+    "uid": "9a0cb172643b3ba5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2157.74,
+    "end": 2160.74
+  },
+  {
+    "text": "So I'll explain these tables.",
+    "uid": "d2382fadf84e553a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2160.74,
+    "end": 2163.74
+  },
+  {
+    "text": "They're a little complex, but let's focus on the left first.",
+    "uid": "347bf3a08ea7a845",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2163.74,
+    "end": 2167.74
+  },
+  {
+    "text": "So these are, this is just explaining Dropbox and Facebook.",
+    "uid": "0609b60d8c85ab1c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2167.74,
+    "end": 2170.74
+  },
+  {
+    "text": "These are their current valuations.",
+    "uid": "2d6461e8e00f0c53",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2170.74,
+    "end": 2172.74
+  },
+  {
+    "text": "And this is how much money you might make as employ number 100 coming into these companies, especially if you're like an",
+    "uid": "736c99ec9934ea30",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2172.74,
+    "end": 2180.74
+  },
+  {
+    "text": "relatively experienced engineer.",
+    "uid": "630928e881834f4b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2180.74,
+    "end": 2182.74
+  },
+  {
+    "text": "Like you have like five years of industry experience.",
+    "uid": "4385c659f396f5ed",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2182.74,
+    "end": 2184.74
+  },
+  {
+    "text": "You're pretty likely to have an offer that's around ten basis points.",
+    "uid": "8ba1bd081d485496",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2184.74,
+    "end": 2187.74
+  },
+  {
+    "text": "So if you join Dropbox a couple years ago, the upside you divide you walk ten is about ten million.",
+    "uid": "99fc9c5a90c23eca",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2187.74,
+    "end": 2192.74
+  },
+  {
+    "text": "There's plenty more growth from there.",
+    "uid": "5eb9d2a49879f11e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2192.74,
+    "end": 2194.74
+  },
+  {
+    "text": "If you've been the company.",
+    "uid": "8fdb338a96bb0177",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2194.74,
+    "end": 2195.74
+  },
+  {
+    "text": "If you join Facebook a couple years into this, it's existence.",
+    "uid": "1e247e1be929526c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2195.74,
+    "end": 2198.74
+  },
+  {
+    "text": "You made two hundred million dollars.",
+    "uid": "6fe8617e336d8807",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2198.74,
+    "end": 2200.74
+  },
+  {
+    "text": "This is a huge number.",
+    "uid": "e0f2a0b14394afb6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2200.74,
+    "end": 2202.74
+  },
+  {
+    "text": "And if you, even if you joined Facebook is employing number one thousand.",
+    "uid": "84b988ba1ce7775d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2202.74,
+    "end": 2207.74
+  },
+  {
+    "text": "So you joined it like two thousand nine.",
+    "uid": "94e70cbbf231d30e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2207.74,
+    "end": 2209.74
+  },
+  {
+    "text": "You still made twenty million dollars.",
+    "uid": "1907776208b51ce4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2209.74,
+    "end": 2211.74
+  },
+  {
+    "text": "That's a giant number.",
+    "uid": "70bd87ce0a9677a5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2211.74,
+    "end": 2212.74
+  },
+  {
+    "text": "And that's how you should be benchmarking when you're thinking about what might I make as an entrepreneur.",
+    "uid": "4251aaa5aa84566d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2212.74,
+    "end": 2217.74
+  },
+  {
+    "text": "So moving over to the table on the right.",
+    "uid": "f48a89e32fa1d1bf",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2217.74,
+    "end": 2219.74
+  },
+  {
+    "text": "These are two theoretical companies you might start.",
+    "uid": "0cd6acf776cbdf67",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2219.74,
+    "end": 2223.74
+  },
+  {
+    "text": "So Uber for pet sitting.",
+    "uid": "9f6336239fe73927",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2223.74,
+    "end": 2225.74
+  },
+  {
+    "text": "Pretty good idea.",
+    "uid": "d7d74b7d6fc499fe",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2225.74,
+    "end": 2226.74
+  },
+  {
+    "text": "If you're if you're really well suited to this, you might have a really good shot at building a hundred million dollar company.",
+    "uid": "bb3d11b0c8830367",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2227.74,
+    "end": 2233.74
+  },
+  {
+    "text": "And then you're sure of that company is pretty likely to be about ten percent.",
+    "uid": "b899e670848244c6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2233.74,
+    "end": 2236.74
+  },
+  {
+    "text": "This certainly fluctuates.",
+    "uid": "fd56428c1db6e8d4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2236.74,
+    "end": 2238.74
+  },
+  {
+    "text": "Some founders have a lot more than this.",
+    "uid": "78cb2d5a0760b7af",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2238.74,
+    "end": 2239.74
+  },
+  {
+    "text": "Some have a lot less.",
+    "uid": "b2b22a8e8a673c17",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2239.74,
+    "end": 2240.74
+  },
+  {
+    "text": "But after multiple rounds of dilution, multiple rounds of option table.",
+    "uid": "5037bfe1f01d90b9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2240.74,
+    "end": 2244.74
+  },
+  {
+    "text": "Option pool creation.",
+    "uid": "9622c9b30aa93110",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2244.74,
+    "end": 2246.74
+  },
+  {
+    "text": "You're pretty likely to end up about here.",
+    "uid": "94936c6b8d3c8b56",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2246.74,
+    "end": 2248.74
+  },
+  {
+    "text": "If you have more than this, I'd recommend Sam's post on like the equity split between founders and employees.",
+    "uid": "e612c1831de38ffc",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2248.74,
+    "end": 2254.74
+  },
+  {
+    "text": "You probably should be giving out more.",
+    "uid": "3bcb2336ff99e2e4",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2254.74,
+    "end": 2257.74
+  },
+  {
+    "text": "But so basically.",
+    "uid": "a331f65440bf6ad0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2258.74,
+    "end": 2260.74
+  },
+  {
+    "text": "If you're extremely confident about building this hundred million dollar business, which is a big ask.",
+    "uid": "a9c6f4ad3f23c78c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2260.74,
+    "end": 2265.74
+  },
+  {
+    "text": "It should go without saying that you should have a lot more confidence in Facebook in 2009 or drop box in 2014.",
+    "uid": "41585cad39b67dcd",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2265.74,
+    "end": 2271.74
+  },
+  {
+    "text": "Then you might.",
+    "uid": "fb34b0bdd98395a5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2271.74,
+    "end": 2272.74
+  },
+  {
+    "text": "For a startup that doesn't even exist yet.",
+    "uid": "f7d033005cc770a5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2272.74,
+    "end": 2275.74
+  },
+  {
+    "text": "Then this is worth doing.",
+    "uid": "c82e2a3a500d45a8",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2275.74,
+    "end": 2277.74
+  },
+  {
+    "text": "So if you have a hundred million dollar idea and you're pretty confident you can execute it.",
+    "uid": "23069733110af00f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2277.74,
+    "end": 2281.74
+  },
+  {
+    "text": "I would consider that.",
+    "uid": "2c47f884ec96a5db",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2281.74,
+    "end": 2282.74
+  },
+  {
+    "text": "If you think you're the right entrepreneur to build over for space travel, that's a really huge idea.",
+    "uid": "c1b754afb2228b91",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2283.74,
+    "end": 2287.74
+  },
+  {
+    "text": "Two billion dollar idea.",
+    "uid": "b5fc3cc5847594a6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2287.74,
+    "end": 2288.74
+  },
+  {
+    "text": "You're actually going to have a pretty good return for that.",
+    "uid": "bf3460d21ce97c5f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2288.74,
+    "end": 2290.74
+  },
+  {
+    "text": "You should definitely do that.",
+    "uid": "393a4823edc3a158",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2290.74,
+    "end": 2292.74
+  },
+  {
+    "text": "This is also only the value after four years and this idea probably has legs.",
+    "uid": "6e42a31161a21730",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2292.74,
+    "end": 2296.74
+  },
+  {
+    "text": "So definitely go after that.",
+    "uid": "3ec82564a6dc00a9",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2296.74,
+    "end": 2298.74
+  },
+  {
+    "text": "If you're thinking of building that, you probably shouldn't even be in this class right now.",
+    "uid": "dda517690f02ec8b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2298.74,
+    "end": 2301.74
+  },
+  {
+    "text": "She's just going to build that company.",
+    "uid": "5f22dee4a8a66525",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2301.74,
+    "end": 2304.74
+  },
+  {
+    "text": "So why is this financial reward and impact?",
+    "uid": "785ada71e1d69b7a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2304.74,
+    "end": 2308.74
+  },
+  {
+    "text": "I really think that financial rewards very strongly correlated with the impact you have in the world.",
+    "uid": "23cf508a1024f1ca",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2308.74,
+    "end": 2313.74
+  },
+  {
+    "text": "If you don't believe that, let's talk through some specific examples and not think about the equity at all.",
+    "uid": "ef49cca35aeea894",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2313.74,
+    "end": 2320.74
+  },
+  {
+    "text": "So why am I joining a late stage company actually provide you a lot of impact?",
+    "uid": "35bc8cb32f7ec13d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2320.74,
+    "end": 2325.74
+  },
+  {
+    "text": "You get this four-smot multiplier.",
+    "uid": "9d87f4ec23d49f50",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2325.74,
+    "end": 2327.74
+  },
+  {
+    "text": "They have an existing massive user base.",
+    "uid": "ec2a5bf09b50a6ba",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2327.74,
+    "end": 2329.74
+  },
+  {
+    "text": "If it's Facebook, it's a billion users or if it's Google, it's a billion users.",
+    "uid": "b1be4d42a82aff6e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2329.74,
+    "end": 2332.74
+  },
+  {
+    "text": "They have existing infrastructure to get to build on.",
+    "uid": "a321d5a7099b698b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2332.74,
+    "end": 2335.74
+  },
+  {
+    "text": "It's also increasingly true for new startups, things like AWS and all these like awesome independent service providers.",
+    "uid": "79c9dd8d4362205e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2335.74,
+    "end": 2342.74
+  },
+  {
+    "text": "But you usually get some mic proprietary technology and it's all maintained for you.",
+    "uid": "94882562c6e9e70d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2342.74,
+    "end": 2346.74
+  },
+  {
+    "text": "It's a pretty great place to start and you get to work with a team and they'll help you just leverage your idea into something great.",
+    "uid": "076d66994271d334",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2346.74,
+    "end": 2352.74
+  },
+  {
+    "text": "So a couple of specific examples.",
+    "uid": "e5668ce937fcccbf",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2352.74,
+    "end": 2355.74
+  },
+  {
+    "text": "Brett Taylor came into employee around or came into Google as around employee number 1500.",
+    "uid": "9df9f112d76e16a0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2355.74,
+    "end": 2361.74
+  },
+  {
+    "text": "And he invented Google Maps.",
+    "uid": "6f0e424af0e7038f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2361.74,
+    "end": 2363.74
+  },
+  {
+    "text": "This is a product you guys probably use every day.",
+    "uid": "212dfe1592d9b919",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2363.74,
+    "end": 2365.74
+  },
+  {
+    "text": "I used it to get here and it's used by hundreds of millions of people around the world.",
+    "uid": "eced737b84507fa0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2365.74,
+    "end": 2369.74
+  },
+  {
+    "text": "Didn't need to start a company to do that.",
+    "uid": "9e55d58debb72feb",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2369.74,
+    "end": 2371.74
+  },
+  {
+    "text": "It did happen to get a big financial reward.",
+    "uid": "90a61e99e67f4a26",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2371.74,
+    "end": 2373.74
+  },
+  {
+    "text": "But the point is the atmosphere impact.",
+    "uid": "ea983785fb5d78bb",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2373.74,
+    "end": 2375.74
+  },
+  {
+    "text": "Like co-founder Justin Rosenstein joined Google a little later after Brett.",
+    "uid": "bb75c3ef63377a9c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2375.74,
+    "end": 2380.74
+  },
+  {
+    "text": "He was a PM there and just as a side project he ended up prototyping chat with used to be a standalone app.",
+    "uid": "6529ce22936b0b34",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2380.74,
+    "end": 2388.74
+  },
+  {
+    "text": "As integrated into Gmail, like you see it in the upper right there.",
+    "uid": "d00a163efb03284a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2388.74,
+    "end": 2392.74
+  },
+  {
+    "text": "And before he did that, like people didn't even think you could do chat over Ajax or chat in the browser at all.",
+    "uid": "0c97e00266e495aa",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2392.74,
+    "end": 2397.74
+  },
+  {
+    "text": "And he just kind of demonstrated it and showed it to his team and then they made it happen.",
+    "uid": "be8c679c6f9c4efa",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2397.74,
+    "end": 2402.74
+  },
+  {
+    "text": "Again, this is probably a product from those to be used maybe every day.",
+    "uid": "f2a59c560c8b4182",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2402.74,
+    "end": 2406.74
+  },
+  {
+    "text": "And then perhaps even more impressively shortly after that,",
+    "uid": "c211cff44615a4ec",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2406.74,
+    "end": 2409.74
+  },
+  {
+    "text": "Jar left, he became employee around number 250 at Facebook.",
+    "uid": "d57c07c0515fd68a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2409.74,
+    "end": 2413.74
+  },
+  {
+    "text": "And he let a hackathon project along with people like Andrew Bosworth and Lea Perman to create the like button.",
+    "uid": "d5633acc90de863e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2413.74,
+    "end": 2420.74
+  },
+  {
+    "text": "So this is one of the most popular elements anywhere on the web.",
+    "uid": "dbb7ba00ce3468bc",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2420.74,
+    "end": 2424.74
+  },
+  {
+    "text": "Totally changes how people use it.",
+    "uid": "9fa6ee38731e71ef",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2424.74,
+    "end": 2426.74
+  },
+  {
+    "text": "And again, didn't need to start a company to do it.",
+    "uid": "a31d2c2b29917e28",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2426.74,
+    "end": 2428.74
+  },
+  {
+    "text": "And almost certainly would have failed if he had tried because he really needed the distribution of Facebook to make it work.",
+    "uid": "c8b1b077705edab5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2428.74,
+    "end": 2433.74
+  },
+  {
+    "text": "So important to keep in mind the context for what kind of company you're trying to start and like where will you actually be able to make it happen.",
+    "uid": "2ffc23a4961b7ef5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2433.74,
+    "end": 2442.74
+  },
+  {
+    "text": "So it's the best reason.",
+    "uid": "adadf096e870342d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2443.74,
+    "end": 2445.74
+  },
+  {
+    "text": "So Sam already talked about this a little bit, but basically you can't not do it.",
+    "uid": "a9104e7e9f2f631b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2445.74,
+    "end": 2450.74
+  },
+  {
+    "text": "You're super passionate about this idea.",
+    "uid": "7f870ebcb67483e5",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2450.74,
+    "end": 2452.74
+  },
+  {
+    "text": "You're the right person to do it.",
+    "uid": "200dddde14e0ea2f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2452.74,
+    "end": 2454.74
+  },
+  {
+    "text": "You've got to make it happen.",
+    "uid": "4c1c1daa983ac2df",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2454.74,
+    "end": 2456.74
+  },
+  {
+    "text": "So how does this break down?",
+    "uid": "d4ddb9091743545a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2456.74,
+    "end": 2458.74
+  },
+  {
+    "text": "So we're getting closely in here on my dinner time.",
+    "uid": "c84ee149f5a2d38b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2458.74,
+    "end": 2463.74
+  },
+  {
+    "text": "So this is sort of like a word play.",
+    "uid": "c75ced7b580f908d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2465.74,
+    "end": 2468.74
+  },
+  {
+    "text": "You can't not do it in two ways.",
+    "uid": "b20e556cf9dfbdad",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2468.74,
+    "end": 2470.74
+  },
+  {
+    "text": "One is you're so passionate about it that you just like you have to do it.",
+    "uid": "cd9e7acb3ab7493c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2470.74,
+    "end": 2472.74
+  },
+  {
+    "text": "You're going to do it anyway.",
+    "uid": "5a998a6306aba6b1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2472.74,
+    "end": 2474.74
+  },
+  {
+    "text": "And this is really important because you'll need that passion to get through all of those like hard parts of being an entrepreneur that we talked about earlier.",
+    "uid": "115050f4bf5c49ff",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2474.74,
+    "end": 2480.74
+  },
+  {
+    "text": "You'll also need it to effectively recruit candidates.",
+    "uid": "82cbe1f68a9ef114",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2480.74,
+    "end": 2483.74
+  },
+  {
+    "text": "Consumal when you don't have passion and there are enough entrepreneurs out there who do have passion that they may as well work for one of those.",
+    "uid": "d2e532a398871654",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2483.74,
+    "end": 2489.74
+  },
+  {
+    "text": "So this is sort of like table stakes for being an entrepreneur.",
+    "uid": "10b435d634228581",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2489.74,
+    "end": 2492.74
+  },
+  {
+    "text": "Your subconscious can also tell when you don't have passion and that'll be a huge problem.",
+    "uid": "54e944571fb4dd01",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2492.74,
+    "end": 2496.74
+  },
+  {
+    "text": "And then so the other way to interpret this is the world need you to do it.",
+    "uid": "19d622f4e9fd8f53",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2496.74,
+    "end": 2500.74
+  },
+  {
+    "text": "So this is sort of validation that the idea is important.",
+    "uid": "0a8c830513536bad",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2500.74,
+    "end": 2504.74
+  },
+  {
+    "text": "It's going to make the world better.",
+    "uid": "54b054d54325936e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2504.74,
+    "end": 2506.74
+  },
+  {
+    "text": "So the world needs it.",
+    "uid": "48aa878a4f2bddc6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2506.74,
+    "end": 2507.74
+  },
+  {
+    "text": "If it's not something the world needs to go do something the world needs.",
+    "uid": "cb3ed0103bda0c0e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2507.74,
+    "end": 2511.74
+  },
+  {
+    "text": "Sometimes really valuable.",
+    "uid": "fc04c3b979e4e90e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2511.74,
+    "end": 2512.74
+  },
+  {
+    "text": "They're plenty of good ideas out there.",
+    "uid": "b564804cb551ba36",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2512.74,
+    "end": 2514.74
+  },
+  {
+    "text": "Maybe it's not one of your own.",
+    "uid": "4715781326f4c2d3",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2514.74,
+    "end": 2515.74
+  },
+  {
+    "text": "Maybe it's an existing company.",
+    "uid": "ed2d717cad4b325e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2515.74,
+    "end": 2516.74
+  },
+  {
+    "text": "But you may as well work on something that's going to be good.",
+    "uid": "97d5f0f65fcc8560",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2516.74,
+    "end": 2519.74
+  },
+  {
+    "text": "And then the second way to interpret this is the world needs you to do it.",
+    "uid": "130c68c024923778",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2519.74,
+    "end": 2523.74
+  },
+  {
+    "text": "You're actually well suited to this problem in some way.",
+    "uid": "e48f10815f59f1d1",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2523.74,
+    "end": 2526.74
+  },
+  {
+    "text": "If this isn't true, it may be a sign that your time has better spend somewhere else.",
+    "uid": "0e76054a2d8fbb4b",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2526.74,
+    "end": 2532.74
+  },
+  {
+    "text": "But also just best case scenario if this isn't true, you outcompete the team for which it is true.",
+    "uid": "ea01749a65e0b19f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2532.74,
+    "end": 2537.74
+  },
+  {
+    "text": "And you just end up with like a suboptimal outcome for the world.",
+    "uid": "f7a027b83b193b30",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2537.74,
+    "end": 2539.74
+  },
+  {
+    "text": "That doesn't feel very good.",
+    "uid": "b52597b7d8788889",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2539.74,
+    "end": 2541.74
+  },
+  {
+    "text": "So drawing this back to my own experience.",
+    "uid": "0c1b6cf19fde24ca",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2541.74,
+    "end": 2544.74
+  },
+  {
+    "text": "At a sauna, you know, Justin and I were kind of like reluctant entrepreneurs before we founded a sauna.",
+    "uid": "3732fba424fcecb0",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2544.74,
+    "end": 2551.74
+  },
+  {
+    "text": "So we were working at Facebook.",
+    "uid": "3763035a7ddd855c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2551.74,
+    "end": 2552.74
+  },
+  {
+    "text": "We were already working on a great problem.",
+    "uid": "71df09f573da9241",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2552.74,
+    "end": 2554.74
+  },
+  {
+    "text": "And we would basically work all day on on our normal projects.",
+    "uid": "34fef7116388a32c",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2554.74,
+    "end": 2558.74
+  },
+  {
+    "text": "And then at night we would keep working on this internal task manager that was used internally at the company.",
+    "uid": "b5b4555b68be0270",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2558.74,
+    "end": 2563.74
+  },
+  {
+    "text": "And it was just because we were like so passionate about the idea.",
+    "uid": "4ad35557fe1ef64e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2563.74,
+    "end": 2566.74
+  },
+  {
+    "text": "It was so clearly valuable that we couldn't do anything else.",
+    "uid": "793678e1c990d05d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2566.74,
+    "end": 2569.74
+  },
+  {
+    "text": "And at some point we had to have the hard conversation of like, okay, well what does it mean if we don't actually start this company.",
+    "uid": "20dd9c7e31a779b6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2569.74,
+    "end": 2576.74
+  },
+  {
+    "text": "We were able to see the impact it was having on Facebook.",
+    "uid": "6872ad3f41393770",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2576.74,
+    "end": 2579.74
+  },
+  {
+    "text": "And we were pretty convinced it could be really valuable for the world.",
+    "uid": "1691a9797560a92d",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2579.74,
+    "end": 2581.74
+  },
+  {
+    "text": "We were also pretty convinced nobody else was going to build it.",
+    "uid": "2c1fb2b3785ce231",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2581.74,
+    "end": 2584.74
+  },
+  {
+    "text": "The problem had been around a long time and we just kept seeing sort of incremental solutions to it.",
+    "uid": "6dc88c56dfc7260a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2584.74,
+    "end": 2588.74
+  },
+  {
+    "text": "So if we didn't go out with the one that we thought was best, we thought there'd be a lot of value left on the table.",
+    "uid": "bb5e66064f371ffc",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2588.74,
+    "end": 2593.74
+  },
+  {
+    "text": "And yeah, so we just couldn't stop working on it.",
+    "uid": "9d90717b64c0ed6a",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2593.74,
+    "end": 2597.74
+  },
+  {
+    "text": "And literally the idea was like beating itself out of our chest, like forcing itself into the world.",
+    "uid": "2a701fb269bc1d5e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2597.74,
+    "end": 2601.74
+  },
+  {
+    "text": "And I think that's the feeling you should really be looking for when you start a company.",
+    "uid": "0fa3340c452a0ae6",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2601.74,
+    "end": 2605.74
+  },
+  {
+    "text": "That's how you know you have the right idea.",
+    "uid": "8697df7f3fc9605f",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2605.74,
+    "end": 2607.74
+  },
+  {
+    "text": "So I'll go ahead and stop there. I'll put some recommended books up here but won't narrate them.",
+    "uid": "47362b08ad89bf86",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2608.74,
+    "end": 2612.74
+  },
+  {
+    "text": "And maybe that's the new class.",
+    "uid": "347ace419a930516",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2612.74,
+    "end": 2614.74
+  },
+  {
+    "text": "Yeah, thank you.",
+    "uid": "a0d980e3cb50733e",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2614.74,
+    "end": 2616.74
+  },
+  {
+    "text": "Maybe that's the new set right now.",
+    "uid": "e32693478374ef95",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2616.74,
+    "end": 2626.1
+  },
+  {
+    "text": "You have questions for him and see you Thursday. Thank you.",
+    "uid": "9659fd6c1615ac57",
+    "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz",
+    "start": 2626.1,
+    "end": 2629.1
+  }
+]
