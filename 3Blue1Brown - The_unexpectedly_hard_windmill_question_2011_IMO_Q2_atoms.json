@@ -1,0 +1,1157 @@
+[
+  {
+    "text": "Every year, more than 100 countries since 6 of their brightest teenagers, or the occasional",
+    "uid": "6c3ccb33b7db0e94",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 2.48,
+    "end": 7.52
+  },
+  {
+    "text": "pre-pubescent prodigy, to represent them at the International Math Olympiad, commonly known",
+    "uid": "d19097b0b2fc7f9b",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 7.52,
+    "end": 12.72
+  },
+  {
+    "text": "as the IMO.",
+    "uid": "a893b84e105e4cf9",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 12.72,
+    "end": 14.64
+  },
+  {
+    "text": "Considering that each country has its own elaborate system of contests leading to their choice",
+    "uid": "d9c50e7e2bfe0ab0",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 14.64,
+    "end": 18.88
+  },
+  {
+    "text": "of 6 representatives, the IMO stands as the culminating symbol for the surprisingly expansive and",
+    "uid": "9cfd101935fe9fb7",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 18.88,
+    "end": 24.08
+  },
+  {
+    "text": "wonderful world that is contest math.",
+    "uid": "aa30bcb1a952fe8c",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 24.08,
+    "end": 26.92
+  },
+  {
+    "text": "The contest itself is essentially a test, split over two days, with three questions given",
+    "uid": "8d3f9f77210ae820",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 26.92,
+    "end": 32.0
+  },
+  {
+    "text": "over 4 and a half hours each day.",
+    "uid": "3d1c36864eae51bc",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 32.0,
+    "end": 34.52
+  },
+  {
+    "text": "The questions are all proofs, meaning you don't simply find some numerical answer.",
+    "uid": "411ba50e7850ff9b",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 34.52,
+    "end": 39.16
+  },
+  {
+    "text": "You have to discover and articulate a rigorous line of reasoning to answer each difficult",
+    "uid": "0467c6d285f57d74",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 39.16,
+    "end": 43.56
+  },
+  {
+    "text": "question, and then each one is scored on a scale from 0 up to 7.",
+    "uid": "dfe769785704aa1d",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 43.56,
+    "end": 47.84
+  },
+  {
+    "text": "A interest to you and me today is the one from 2011, with 563 total participants representing",
+    "uid": "3caab4bd8432cbfd",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 47.84,
+    "end": 54.04
+  },
+  {
+    "text": "I know what you're thinking, and the answer is yes.",
+    "uid": "84c6ae589627cc16",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 56.32,
+    "end": 59.56
+  },
+  {
+    "text": "Those do all happen to be prime numbers.",
+    "uid": "8d6f907ae83bae24",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 59.56,
+    "end": 61.96
+  },
+  {
+    "text": "But that's not why this test was interesting.",
+    "uid": "0932ddab7d61febc",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 61.96,
+    "end": 63.96
+  },
+  {
+    "text": "Out of all these prime problem solvers, only one of them, Lisa Sourman from Germany, got a perfect",
+    "uid": "f89d0a18914c2e05",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 63.96,
+    "end": 68.84
+  },
+  {
+    "text": "And the only thing standing between the next two runners up that year and a perfect score, was",
+    "uid": "363fcbf35fd511ba",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 69.84,
+    "end": 74.12
+  },
+  {
+    "text": "problem number two.",
+    "uid": "fca550f5d8ae0c29",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 74.12,
+    "end": 76.04
+  },
+  {
+    "text": "And this problem is beautiful, and despite evading many of the world's best mathematicians of their",
+    "uid": "142161d87b0fa505",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 76.04,
+    "end": 80.96
+  },
+  {
+    "text": "age, the solution is something that anyone watching this video can understand.",
+    "uid": "0eaed1b30217c8cc",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 80.96,
+    "end": 86.28
+  },
+  {
+    "text": "So let's begin by reading through it carefully.",
+    "uid": "1730fdc4ca6384ad",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 86.28,
+    "end": 89.48
+  },
+  {
+    "text": "But SBA finite set of at least 2 points on the plane.",
+    "uid": "b633c65c72a4b93b",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 89.48,
+    "end": 93.08
+  },
+  {
+    "text": "Okay, so as you read the question, it's often helpful to start drawing an example for yourself.",
+    "uid": "0b290d359591e496",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 93.08,
+    "end": 98.32
+  },
+  {
+    "text": "Assume that no 3 points at S are co-linear.",
+    "uid": "97469fdd4208f74d",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 98.32,
+    "end": 101.64
+  },
+  {
+    "text": "In other words, you never have 3 points lining up.",
+    "uid": "7c8746714ce0c814",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 101.64,
+    "end": 104.24
+  },
+  {
+    "text": "So you can probably predict that the problem is going to involve drawing lines in some way that",
+    "uid": "3a2ba21896757d51",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 104.24,
+    "end": 108.36
+  },
+  {
+    "text": "3 points on one line would mess things up.",
+    "uid": "9063777d4533d53a",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 108.36,
+    "end": 111.48
+  },
+  {
+    "text": "A windmill is a process that starts with a line L going through a single point P in S. The",
+    "uid": "9b714f0a951760a3",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 111.48,
+    "end": 117.72
+  },
+  {
+    "text": "line rotates clockwise around the pivot P until the first time that that line meets",
+    "uid": "e0d4b6354589d4ec",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 117.72,
+    "end": 122.52
+  },
+  {
+    "text": "some other point belonging to S. And again, while reading it's helpful to draw out an example,",
+    "uid": "0ab764dba7ba26c4",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 122.52,
+    "end": 128.84
+  },
+  {
+    "text": "so we've got this line that's pivoting around some point until it hits another.",
+    "uid": "ea538ca2a5543ca4",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 128.84,
+    "end": 133.28
+  },
+  {
+    "text": "This point Q takes over as the new pivot, and the line now rotates clockwise about Q until",
+    "uid": "b561e2187acf3a44",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 133.28,
+    "end": 139.32
+  },
+  {
+    "text": "it meets a point of S. This process continues indefinitely.",
+    "uid": "930ea64715abb78a",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 139.32,
+    "end": 143.72
+  },
+  {
+    "text": "Alright, that's kind of fun. We keep rotating and changing the pivot.",
+    "uid": "689943366f7ec320",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 144.12,
+    "end": 148.12
+  },
+  {
+    "text": "And you can see why they call it a windmill process, and you can also see why they specified that",
+    "uid": "74748e10f72ca1ab",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 148.12,
+    "end": 152.52
+  },
+  {
+    "text": "no 3 points lie on one line. You wouldn't want to run into the ambiguity where you don't know which",
+    "uid": "1a6783e541ec7f68",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 152.52,
+    "end": 157.48
+  },
+  {
+    "text": "pivot to switch to. Okay, so with all the setup, what's the question? Show that we can choose a point",
+    "uid": "346142cd6bafb868",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 157.48,
+    "end": 164.2
+  },
+  {
+    "text": "P in S and a line L going through P such that the resulting windmill uses each point of S as a pivot",
+    "uid": "44ff9930a777d150",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 164.2,
+    "end": 171.8
+  },
+  {
+    "text": "infinitely many times.",
+    "uid": "d37c1c69eb8b317d",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 171.88,
+    "end": 173.56
+  },
+  {
+    "text": "Alright, depending on your tolerance of puzzles for puzzle sake, you might wonder why would",
+    "uid": "22d80fa5378a1503",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 174.52,
+    "end": 179.72
+  },
+  {
+    "text": "anyone care about such a question. There's a very good reason. In fact, I would argue that the",
+    "uid": "c809d8baca1a4723",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 179.72,
+    "end": 184.44
+  },
+  {
+    "text": "act of solving this will make you better at math than related fields. And I'll explain why once you've",
+    "uid": "5271883e35009a1c",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 184.44,
+    "end": 189.32
+  },
+  {
+    "text": "seen this solution. But certainly on the surface, it feels disconnected from other parts of math.",
+    "uid": "fe03a4d4b2b38b55",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 189.32,
+    "end": 194.84
+  },
+  {
+    "text": "I mean, you look at other Olympiad problems and they often involve some function to analyze or",
+    "uid": "19c835a851502097",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 194.84,
+    "end": 199.56
+  },
+  {
+    "text": "a numerical pattern to deduce, maybe a difficult counting setup or an elaborate geometric",
+    "uid": "1dab52488724a78b",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 199.56,
+    "end": 203.88
+  },
+  {
+    "text": "construction. But problem 2, it's an unusually pure puzzle. And in some ways, that's its charm.",
+    "uid": "fb3156e3a6de6b89",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 203.88,
+    "end": 210.92
+  },
+  {
+    "text": "Proving that some initial condition will result in this windmill hitting all the points infinitely",
+    "uid": "8301db95e9fb04e7",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 210.92,
+    "end": 215.4
+  },
+  {
+    "text": "many times. Well, that doesn't test your knowledge of a particular theorem. It tests if you can find",
+    "uid": "c342e99b6689e837",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 215.4,
+    "end": 221.0
+  },
+  {
+    "text": "a clever perspective. But that blade cuts both ways. Without resting on an existing result from math,",
+    "uid": "cfe8aa9fd96f2bc6",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 221.0,
+    "end": 227.4
+  },
+  {
+    "text": "what could possibly prepare someone to study for something like this? And in fact, that brings us",
+    "uid": "dc38707a5dd0d62a",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 227.4,
+    "end": 232.36
+  },
+  {
+    "text": "to the second unusual thing about this problem. Based on the results, I'm guessing that it turned out",
+    "uid": "d49ec41f370659d7",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 232.36,
+    "end": 237.56
+  },
+  {
+    "text": "to be much harder than the contest organizers expected. You see, typically, the three problems each",
+    "uid": "26ac49812e569e3c",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 237.56,
+    "end": 242.92
+  },
+  {
+    "text": "day are supposed to get progressively harder. They're all hard, of course, it's the IMO. But",
+    "uid": "422254c5b7b33886",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 242.92,
+    "end": 248.2
+  },
+  {
+    "text": "problems 1 and 4, they should be doable. Problems 2 and 5, they're challenging. And problems 3 and 6,",
+    "uid": "f416f9a2e6dd5fbf",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 248.2,
+    "end": 254.84
+  },
+  {
+    "text": "while they can be brutal. But take a look at how many of our 563 participants that year",
+    "uid": "b89f62f558095d44",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 254.84,
+    "end": 260.68
+  },
+  {
+    "text": "got perfect scores on each of the problems. Only 22 of them got full marks for question number 2.",
+    "uid": "2734ea8535263e84",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 260.68,
+    "end": 268.04
+  },
+  {
+    "text": "By contrast, 170 got a perfect score on problem 5, which is supposed to be about the same difficulty,",
+    "uid": "2659e85b5f0b67d8",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 268.6,
+    "end": 275.32
+  },
+  {
+    "text": "and more than twice as many got a perfect score for problem 3, which is supposed to be harder.",
+    "uid": "f3d448d94ec1bf47",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 275.32,
+    "end": 279.8
+  },
+  {
+    "text": "Some of you might notice that only 6 students got full points for problem 6 that year,",
+    "uid": "dedf69e4a9970959",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 280.6,
+    "end": 284.68
+  },
+  {
+    "text": "so by some measure that was the hardest problem on the test. In fact, the way I introduced",
+    "uid": "984e4665df49d924",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 284.84,
+    "end": 289.64
+  },
+  {
+    "text": "things earlier was a little disingenuous, the full data would suggest the problem 6 was the real",
+    "uid": "d9d91f628d702c72",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 289.64,
+    "end": 294.36
+  },
+  {
+    "text": "clincher. But what's strange is that if you look at the results of those 6 students who solve this",
+    "uid": "e93bd600b7c66efd",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 294.36,
+    "end": 299.88
+  },
+  {
+    "text": "hardest problem, all of whom are clearly phenomenal world-class problem solvers. This windmill puzzle",
+    "uid": "6b73f3547b89b4c3",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 299.88,
+    "end": 306.2
+  },
+  {
+    "text": "evaded 5 out of 6 of them. But again, this problem is not hard because of the background knowledge",
+    "uid": "4f80f6a38960b0ea",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 306.2,
+    "end": 313.0
+  },
+  {
+    "text": "it demands. It asks only for insight. So how do you approach something like this?",
+    "uid": "9498e8f1c4b547d4",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 313.0,
+    "end": 318.04
+  },
+  {
+    "text": "The first step with any puzzle is to simply play around with it and get a feel for it, and it's always",
+    "uid": "fb015ce33f6be4ef",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 318.76,
+    "end": 323.72
+  },
+  {
+    "text": "good to start simple and slowly get more complicated from there. The simplest case would be 2 points,",
+    "uid": "d71cba343dcd7606",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 323.72,
+    "end": 329.64
+  },
+  {
+    "text": "where the line trades off between each point. And that works well enough. Adding a third point,",
+    "uid": "233a17debdaed2d4",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 329.64,
+    "end": 335.8
+  },
+  {
+    "text": "it's pretty clear that the line will just rotate around them. It might not be entirely clear how you",
+    "uid": "b8e5b74fdfdf2c00",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 335.8,
+    "end": 342.12
+  },
+  {
+    "text": "would phrase this as a rigorous proof yet, but right now we're just getting a feel for things.",
+    "uid": "1271b117a8fc1aea",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 342.12,
+    "end": 346.2
+  },
+  {
+    "text": "The fourth point is where it gets interesting. In some places, your windmill will go around the 4 points",
+    "uid": "77381674951e7be6",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 346.76,
+    "end": 351.96
+  },
+  {
+    "text": "just like it did with the triangle. But if we put it inside that triangle, it looks like a windmill never",
+    "uid": "e7d3bffb1ede88cc",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 351.96,
+    "end": 357.8
+  },
+  {
+    "text": "hits it. Looking back at the problem, it's asking you to show that for some starting position of the line,",
+    "uid": "bc754a0fe8233abe",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 357.8,
+    "end": 363.64
+  },
+  {
+    "text": "not any position, the process will hit all the points infinitely many times. So for an example like this,",
+    "uid": "b3f88bd41a4e134a",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 363.64,
+    "end": 371.56
+  },
+  {
+    "text": "if you start with the line going through that troublesome middle point, what happens? And again at this",
+    "uid": "4a6a502e678a85a9",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 371.64,
+    "end": 376.52
+  },
+  {
+    "text": "point, we're just playing around, perhaps moving your pencil among dots that you've drawn on a piece of",
+    "uid": "31de62dc18cb079e",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 376.52,
+    "end": 380.44
+  },
+  {
+    "text": "scratch paper. You want to believe a result before you try too hard to prove it. Here, you'd see that your windmill",
+    "uid": "f5c7e85e912fa55d",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 380.44,
+    "end": 387.24
+  },
+  {
+    "text": "does indeed bounce off of all of the points as it goes through a cycle, and it ends up back where it started.",
+    "uid": "07437b94996c5c22",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 387.24,
+    "end": 392.44
+  },
+  {
+    "text": "The worry you might have is that in some large sets of points, where some are kind of inside the others,",
+    "uid": "c50b762831cbbeb8",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 392.92,
+    "end": 398.68
+  },
+  {
+    "text": "you might be able to start off on the inside, but maybe something about this windmill process",
+    "uid": "c67266db520cedcd",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 398.68,
+    "end": 403.72
+  },
+  {
+    "text": "takes the line to the outside, whereas time goes on to infinity, it'll be blocked off from those inner points.",
+    "uid": "ee6ebc0ff2ad2e41",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 403.72,
+    "end": 409.16
+  },
+  {
+    "text": "If you play around, and mind you it can take some time to draw out many examples and think this through.",
+    "uid": "a9930492c516b04f",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 411.43,
+    "end": 416.55
+  },
+  {
+    "text": "You would notice that when the line starts off passing through the middle of the points, it tends to stay there.",
+    "uid": "f85b8319a775a358",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 416.55,
+    "end": 421.59
+  },
+  {
+    "text": "It never seems to venture off to the outside, but can you guarantee that this will always happen?",
+    "uid": "0ac1f2dc875745cf",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 424.36,
+    "end": 432.07
+  },
+  {
+    "text": "Or rather, can you first make this idea of starting in the middle a little bit more rigorous,",
+    "uid": "2f7d0cb0ff17e464",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 432.63,
+    "end": 437.91
+  },
+  {
+    "text": "and from there prove that all the points will be hit infinitely many times?",
+    "uid": "1c59008ec971c44b",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 437.91,
+    "end": 441.51
+  },
+  {
+    "text": "As a general problem-solving tip, whenever you have a vague idea that feels productive,",
+    "uid": "4ec7e5ab98ab41f9",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 459.74,
+    "end": 464.3
+  },
+  {
+    "text": "you should of course find a way to be more exact about what you're saying, but preferably put numbers to it.",
+    "uid": "5e9e6472099d9b44",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 464.3,
+    "end": 469.66
+  },
+  {
+    "text": "And then see if you can ask questions about those numbers.",
+    "uid": "5911cebde1fe10ce",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 469.66,
+    "end": 472.54
+  },
+  {
+    "text": "In our example, one way to formalize this idea of a middle is to count how many points are on either side of the line.",
+    "uid": "8dc828a89070d2e4",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 473.1,
+    "end": 479.5
+  },
+  {
+    "text": "If you give the line some orientation, you can reasonably talk about a left half,",
+    "uid": "32920528caa2b32a",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 480.22,
+    "end": 484.7
+  },
+  {
+    "text": "say coloring all the points of the left blue, and a right half, say coloring all the points on the right",
+    "uid": "9b21541d5f0bf7bc",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 484.7,
+    "end": 489.74
+  },
+  {
+    "text": "brown. And what it means for a line to be in the middle is that there are as many blue points as there are brown points.",
+    "uid": "88f2abd48519066d",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 489.74,
+    "end": 495.98
+  },
+  {
+    "text": "For the moment, let's say that the total number of points is an odd number, and the point that the line passes through is colored white,",
+    "uid": "587b9ac1324379e4",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 497.82,
+    "end": 504.06
+  },
+  {
+    "text": "sort of a neutral color. So for example, if there were 11 points, you would have five blue ones",
+    "uid": "31b46c316dc733c5",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 504.06,
+    "end": 509.5
+  },
+  {
+    "text": "on the left, five brown ones on the right, and the single white point as the pivot.",
+    "uid": "cf73ce0b4609ab4c",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 509.5,
+    "end": 514.46
+  },
+  {
+    "text": "The case with an even number of points will be similar just slightly less symmetric.",
+    "uid": "6414e0b787cc0aee",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 514.46,
+    "end": 518.14
+  },
+  {
+    "text": "What this gives us is a new question to ask. What happens to the number of blue points and brown points",
+    "uid": "b68fa16c2dac2f0d",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 519.02,
+    "end": 524.7
+  },
+  {
+    "text": "as the process plays out? In the example on screen now, you might notice it's always five and five,",
+    "uid": "a80cf1721cc6a5d7",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 524.7,
+    "end": 533.16
+  },
+  {
+    "text": "never changing. Playing around with other examples, you would find that the same is true.",
+    "uid": "317f71cbf87cb185",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 533.16,
+    "end": 538.28
+  },
+  {
+    "text": "Think a moment to pause right now and see if you can think through why exactly that would happen,",
+    "uid": "8e55fa5a2bdf1f0c",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 539.0,
+    "end": 543.96
+  },
+  {
+    "text": "why would these numbers not change? Well, the key is to think through what happens as the line changes its pivot.",
+    "uid": "c166bf927ec5e483",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 543.96,
+    "end": 563.75
+  },
+  {
+    "text": "Having given the line an orientation, we can talk reasonably about which half is above the pivot,",
+    "uid": "f68230291b7c33d3",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 564.31,
+    "end": 569.35
+  },
+  {
+    "text": "in which one is below. If the line hits a blue point on its left, it must happen below the pivot.",
+    "uid": "805d4c8fb78a1666",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 569.35,
+    "end": 575.91
+  },
+  {
+    "text": "So then when it changes the pivot and continues rotating clockwise a bit,",
+    "uid": "5e05f2ba4a38ccbe",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 575.91,
+    "end": 579.59
+  },
+  {
+    "text": "that old pivot now above the new one ends up to the left, meaning it ends up in the blue region.",
+    "uid": "7115c8f65fe4aa92",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 579.59,
+    "end": 585.43
+  },
+  {
+    "text": "And entirely symmetrically when it hits a brown point, it happens above the pivot,",
+    "uid": "c7a9d9ec91e8baba",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 585.99,
+    "end": 590.79
+  },
+  {
+    "text": "meaning that the old pivot ends up in the brown region. So no matter what, the number of points on",
+    "uid": "02aebad526f5ef99",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 590.79,
+    "end": 596.07
+  },
+  {
+    "text": "a given side of the line that cannot change, except for the instances where the line's passing through two points at once.",
+    "uid": "7498483076481d55",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 596.07,
+    "end": 602.39
+  },
+  {
+    "text": "When you lose a blue point, you gain a new one, when you lose a brown point, you gain a new one.",
+    "uid": "d0a7373716b0134f",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 602.63,
+    "end": 606.87
+  },
+  {
+    "text": "And that is our key insight number one. So why would this imply that the line must hit every point",
+    "uid": "017563fcda1a3f5f",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 607.43,
+    "end": 613.83
+  },
+  {
+    "text": "infinitely many times? No matter what weird set of points you could dream up.",
+    "uid": "8c0f67b64887fa72",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 613.83,
+    "end": 617.59
+  },
+  {
+    "text": "Oh, the second key is to think about letting this process go until the line has turned 180 degrees around.",
+    "uid": "4a4f1d677a10d2c2",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 618.79,
+    "end": 625.11
+  },
+  {
+    "text": "What that means is its parallel to the starting position, and because it has to remain the case that half the",
+    "uid": "8e6413531446d1b0",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 625.83,
+    "end": 631.19
+  },
+  {
+    "text": "points are on one side and half the points are on the other, it must be passing through the same",
+    "uid": "11bc474179964092",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 631.19,
+    "end": 635.75
+  },
+  {
+    "text": "point it started on. I mean, think about it. If it ended up on some other point, it would change the number on a given side.",
+    "uid": "7d70b1ad51b2bc0b",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 635.75,
+    "end": 642.71
+  },
+  {
+    "text": "Additionally, since the line has rotated halfway around, everything that was blue has become brown,",
+    "uid": "08527fd1d9c8e4b8",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 648.28,
+    "end": 654.28
+  },
+  {
+    "text": "and everything which was brown has become blue. And the only way to change a color is if you get hit by the line.",
+    "uid": "1098dd41fddcb7c1",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 654.28,
+    "end": 660.6
+  },
+  {
+    "text": "So, for our odd number case, that means that after a half rotation, the line is back where it started,",
+    "uid": "cc818fca9f842eda",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 667.29,
+    "end": 673.77
+  },
+  {
+    "text": "and it's hit all of the other points. So as time was forward, it repeats this exact set of motions over and over,",
+    "uid": "e25c65720c754d50",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 673.77,
+    "end": 680.89
+  },
+  {
+    "text": "hitting all of those points infinitely many times. For the case with an even number of points, we need to",
+    "uid": "429a7f16d6268a39",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 680.89,
+    "end": 690.74
+  },
+  {
+    "text": "alter the scheme slightly, but only slightly. To make it so that the number of blue's can equal the number of",
+    "uid": "9b5918efaf5789df",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 690.74,
+    "end": 696.1
+  },
+  {
+    "text": "browns, let's say that the pivot counts now as a brown point. So to define our initial condition,",
+    "uid": "a70273ceba1dfd82",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 696.1,
+    "end": 701.46
+  },
+  {
+    "text": "we still say for a given angle of the line, select an initial point so that half of the points are blue,",
+    "uid": "91d9faf73abe3bc6",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 701.46,
+    "end": 706.66
+  },
+  {
+    "text": "all on the left, and half of them are brown. Now either meaning there on the right or the pivot.",
+    "uid": "b8c5a03038bf6fb2",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 706.66,
+    "end": 712.18
+  },
+  {
+    "text": "The same argument from before implies that after 180 degree turn,",
+    "uid": "3b5a4c1cd6abfe00",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 712.82,
+    "end": 716.9
+  },
+  {
+    "text": "everything has swapped colors. But this time, the line will be passing through a different point after that",
+    "uid": "b5e7525ee9a5a753",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 718.58,
+    "end": 723.94
+  },
+  {
+    "text": "for his half turn, specifically one that used to be blue. But after another 180 degrees, it has to be",
+    "uid": "5437aa0662f10981",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 723.94,
+    "end": 730.34
+  },
+  {
+    "text": "passing through the one that it started on. Again, the logic is that it's parallel to its starting position,",
+    "uid": "cb45beafdd5ff526",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 730.34,
+    "end": 736.74
+  },
+  {
+    "text": "and if it was passing through any other point, the number of points on a given side would have to be different.",
+    "uid": "6e8cda40872905be",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 737.14,
+    "end": 742.02
+  },
+  {
+    "text": "So once more, we have a cycle which hits all of the points and which ends in the same position where it",
+    "uid": "47197538cf13de34",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 742.82,
+    "end": 748.1
+  },
+  {
+    "text": "this time it takes 360 degrees, but that doesn't matter. As the cycle continues, it'll hit all the",
+    "uid": "bfe25cc761a15daf",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 749.06,
+    "end": 754.26
+  },
+  {
+    "text": "points infinitely many times. Stepping back, there are two important lessons to take away from this puzzle.",
+    "uid": "896c33bf582a903a",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 754.26,
+    "end": 763.93
+  },
+  {
+    "text": "The first one's social and the second one's mathematical. Once you know this solution, and if you kind of",
+    "uid": "f98bda4e92722413",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 763.93,
+    "end": 769.53
+  },
+  {
+    "text": "ponder it a bit and turn it around in your head a couple times, it's very easy to fool yourself into thinking that",
+    "uid": "5c5cd62d6ccb43e6",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 769.53,
+    "end": 775.05
+  },
+  {
+    "text": "the problem is easier than it is. After all, of course the number of points on a given side stays",
+    "uid": "cac748756406b3da",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 775.05,
+    "end": 780.09
+  },
+  {
+    "text": "constant, right? Of course that's a question you would ask. And of course when you start in the middle,",
+    "uid": "5f21a98c64c3e708",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 780.09,
+    "end": 785.05
+  },
+  {
+    "text": "every point will switch sides after a half a turn. But the advantage of this problem coming from the IMO",
+    "uid": "42bd8da07a6727f1",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 785.05,
+    "end": 791.37
+  },
+  {
+    "text": "is that we don't have to rest on subjective statements. We have the data to show it's a genuinely hard",
+    "uid": "6c50acf13eccbce2",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 791.37,
+    "end": 796.73
+  },
+  {
+    "text": "problem in that it evaded many of the world's best students who are demonstrably able to solve hard problems.",
+    "uid": "82d5361e1560eb51",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 796.73,
+    "end": 802.65
+  },
+  {
+    "text": "In math, it is extremely hard to empathize with what it feels like to not understand something.",
+    "uid": "0cb78453c697fa1c",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 803.37,
+    "end": 808.73
+  },
+  {
+    "text": "I was discussing this video with a former coworker of mine from Khan Academy who worked a lot with",
+    "uid": "644916756758c20d",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 808.73,
+    "end": 813.21
+  },
+  {
+    "text": "people creating math exercises. And he pointed out that across a wide variety of contributors,",
+    "uid": "934d2a1269897863",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 813.21,
+    "end": 818.65
+  },
+  {
+    "text": "there's one constant. Nobody is able to tell how difficult their exercises are. Knowing when math is",
+    "uid": "79c743155c2b9fee",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 818.65,
+    "end": 824.73
+  },
+  {
+    "text": "hard is way harder than the math itself. This is important to keep in mind when teaching, but it's",
+    "uid": "da040d5e71714cfd",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 824.73,
+    "end": 830.57
+  },
+  {
+    "text": "equally important to keep in mind when being taught. On our windmill puzzle, even if counting the",
+    "uid": "df39e9f29e887a8b",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 830.57,
+    "end": 837.13
+  },
+  {
+    "text": "number of points on one side seems obvious in hindsight, you have to ask given the vast space of",
+    "uid": "4f496566bcde6243",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 837.13,
+    "end": 843.37
+  },
+  {
+    "text": "possible things you might consider, why would anyone's mind turn to that particular idea?",
+    "uid": "d9b3186425e1ff97",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 843.37,
+    "end": 848.57
+  },
+  {
+    "text": "This brings us to the mathematical takeaway. What ultimately led to the solution was finding",
+    "uid": "fd6a2b3a2bc5c708",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 849.77,
+    "end": 854.89
+  },
+  {
+    "text": "something about the complex system which stays constant during this chaotic unfolding.",
+    "uid": "13d855ca3aa68767",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 854.89,
+    "end": 859.85
+  },
+  {
+    "text": "This is a ubiquitous theme through math and especially through physics. We're finding what's",
+    "uid": "abecf94d0c6dbb05",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 860.65,
+    "end": 865.13
+  },
+  {
+    "text": "called an invariant. Toologists do this when they count the number of holes in a surface.",
+    "uid": "b375e08b7a41feb1",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 865.13,
+    "end": 870.57
+  },
+  {
+    "text": "Physicists do this when they define the ideas of energy and momentum or in special relativity",
+    "uid": "c5c7ce42e3966cf8",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 870.57,
+    "end": 875.53
+  },
+  {
+    "text": "when they define more abstract ideas like proper type. As a student, it's easy to take for granted",
+    "uid": "9fe9988613b46e91",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 875.53,
+    "end": 880.73
+  },
+  {
+    "text": "the definitions handed down to you. But the more puzzles you solve were the insight involves an invariant.",
+    "uid": "866b78c4f3f876bd",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 880.73,
+    "end": 886.57
+  },
+  {
+    "text": "The more you come to appreciate, the each one of these definitions was once a clever discovery.",
+    "uid": "5d3a715a0c3b1561",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 886.57,
+    "end": 891.21
+  },
+  {
+    "text": "Parents Tao, one of the greatest modern mathematicians and the world's youngest IMO medalist, wrote",
+    "uid": "9504ed1969375fd0",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 893.69,
+    "end": 898.57
+  },
+  {
+    "text": "that mathematical problems or puzzles are important to real mathematics like solving real-life problems.",
+    "uid": "153143fab5794b28",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 898.57,
+    "end": 904.33
+  },
+  {
+    "text": "Just as fables, stories and anecdotes are important to the young in understanding real life.",
+    "uid": "19d83ab317e2879b",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 904.33,
+    "end": 909.05
+  },
+  {
+    "text": "Sure, these kinds of puzzles are contrived, but the carry lessons relevant to useful",
+    "uid": "13011843ee3f4886",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 909.77,
+    "end": 914.09
+  },
+  {
+    "text": "problems you may actually need to solve one day. Maybe it seems silly to like in this windmill",
+    "uid": "f85598290368647d",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 914.09,
+    "end": 919.21
+  },
+  {
+    "text": "puzzle 2 of Fairy Tale, a mathematical asap summarizing that the moral of the story is to seek",
+    "uid": "58101c1f9b9ace63",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 919.21,
+    "end": 924.41
+  },
+  {
+    "text": "quantities which stay constant. But some of you watching this will one day face a problem,",
+    "uid": "2832e9be8ec26aaf",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 924.41,
+    "end": 929.61
+  },
+  {
+    "text": "we're finding an invariant reveals a slick solution and you might even look like a genius for doing so.",
+    "uid": "6f86f3cbbbf12137",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 929.61,
+    "end": 934.81
+  },
+  {
+    "text": "If a made-up windmill prepares you for a real problem, who cares that it's a fiction?",
+    "uid": "9dabeb28ae0a64f1",
+    "source": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2",
+    "start": 935.69,
+    "end": 939.69
+  }
+]
