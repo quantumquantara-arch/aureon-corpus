@@ -1,0 +1,2165 @@
+[
+  {
+    "text": "As a 42 year old who spent most of my life studying physics, I must admit that I had a big misconception.",
+    "uid": "cec61833949ca05f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 0.0,
+    "end": 6.48
+  },
+  {
+    "text": "I believe that every object has one single trajectory through space, one single path.",
+    "uid": "b51ecce7bcc2fa08",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 6.48,
+    "end": 12.72
+  },
+  {
+    "text": "But in this video, I will prove to you that this is not the case.",
+    "uid": "5082e4eb8b01427f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 12.72,
+    "end": 17.2
+  },
+  {
+    "text": "Everything is actually exploring all possible paths all at once.",
+    "uid": "d556a3d52db16300",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 17.2,
+    "end": 22.24
+  },
+  {
+    "text": "So let's start with a simple thought experiment.",
+    "uid": "b00cdca0cf7a8eb7",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 22.24,
+    "end": 25.2
+  },
+  {
+    "text": "Say you're at a beach when all of a sudden you see your friends struggling out in the water.",
+    "uid": "8d8cab5c49b81fdb",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 25.2,
+    "end": 31.28
+  },
+  {
+    "text": "You want to go help them as quickly as possible, so which path should you take to get there?",
+    "uid": "c936d17733338cbe",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 31.28,
+    "end": 37.92
+  },
+  {
+    "text": "The shortest path is a straight line, so you could head directly towards him, but you can run fast to the new can swim,",
+    "uid": "25b81690297428f6",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 37.92,
+    "end": 45.92
+  },
+  {
+    "text": "and this path requires more swimming.",
+    "uid": "8378c1a782833fac",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 45.92,
+    "end": 48.48
+  },
+  {
+    "text": "So alternatively, you could run down the beach to minimize the distance through the water.",
+    "uid": "ce1c627b53448c8d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 48.48,
+    "end": 53.6
+  },
+  {
+    "text": "But now the total distance is longer than it needs to be.",
+    "uid": "03e5b495703cf969",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 53.6,
+    "end": 58.32
+  },
+  {
+    "text": "So the optimal path that turns out is somewhere in between.",
+    "uid": "28f262c009f38799",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 58.32,
+    "end": 63.12
+  },
+  {
+    "text": "To be precise, it depends on the speeds at which you can run and swim.",
+    "uid": "08118fc9c2ce39a1",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 63.12,
+    "end": 67.52
+  },
+  {
+    "text": "Now you might recognize this mathematical relationship because it is the exact same law that governs",
+    "uid": "9245dd365c25d03d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 67.52,
+    "end": 73.76
+  },
+  {
+    "text": "light passing from one medium into another.",
+    "uid": "6cf1ade70143713a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 73.76,
+    "end": 76.8
+  },
+  {
+    "text": "So light also takes the fastest path from 0.8 to 0.B.",
+    "uid": "22fd3649909e457a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 76.8,
+    "end": 81.6
+  },
+  {
+    "text": "What's weird about this is that as humans we can see where we want to go and then figure out the fastest route.",
+    "uid": "52779a1da48c16e7",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 81.84,
+    "end": 87.76
+  },
+  {
+    "text": "But light? How does light know how to travel to minimize its journey time?",
+    "uid": "da569ad89521d0d4",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 88.4,
+    "end": 93.76
+  },
+  {
+    "text": "Now here is where my misconception comes in.",
+    "uid": "a2db9dcd039d6203",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 94.64,
+    "end": 97.12
+  },
+  {
+    "text": "I've tried to laser beam. The light just goes in one direction. I throw a ball. The ball just goes in one direction.",
+    "uid": "a4556d3dd7a51113",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 97.12,
+    "end": 101.44
+  },
+  {
+    "text": "You know, I would have answered there is nothing strange about this.",
+    "uid": "cf336d5ba2d189be",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 101.44,
+    "end": 105.52
+  },
+  {
+    "text": "Light sets off from 0.8 in some direction and then a little while later it encounters a new medium.",
+    "uid": "9d6d2e52de16d297",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 105.52,
+    "end": 112.0
+  },
+  {
+    "text": "And due to local interactions with that medium, it changes direction ending up at 0.B.",
+    "uid": "af33e1e0ae8d059d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 112.0,
+    "end": 118.0
+  },
+  {
+    "text": "If you later find that of all the possible paths light took the shortest time to get from A to B,",
+    "uid": "37ea9a3269d877df",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 118.32,
+    "end": 123.68
+  },
+  {
+    "text": "I wouldn't think it was optimizing for anything. I would just think that's what happens when light obeys local rules.",
+    "uid": "498e81b223023135",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 124.32,
+    "end": 130.48
+  },
+  {
+    "text": "But now I will prove to you that light doesn't set out in only one direction.",
+    "uid": "7d88384faa959cc8",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 131.12,
+    "end": 136.32
+  },
+  {
+    "text": "Instead, it really does explore all possible paths. And the same is true for electrons and protons,",
+    "uid": "39d9d03f0d302891",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 136.32,
+    "end": 143.2
+  },
+  {
+    "text": "all quantum particles. So the fact that we see things on single, well defined trajectories is",
+    "uid": "c9d1d8b315ba5558",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 143.2,
+    "end": 149.44
+  },
+  {
+    "text": "in a way the most convincing illusion nature has ever devised. And the way it works all comes",
+    "uid": "a48bd8eeb28254d3",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 149.44,
+    "end": 155.76
+  },
+  {
+    "text": "down to a quantity known as the action. In a previous video, we showed how an obscure scientist,",
+    "uid": "9d3d9eab4eba0746",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 155.76,
+    "end": 163.57
+  },
+  {
+    "text": "Mopper Tui, made an ad hoc proposal that there should be a quantity called action,",
+    "uid": "3df05f1879e65076",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 163.57,
+    "end": 168.61
+  },
+  {
+    "text": "which he defined as mass times velocity times distance. And he claimed that everything",
+    "uid": "7d1aa8d85dba03e4",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 168.61,
+    "end": 175.33
+  },
+  {
+    "text": "always follows the path that minimizes the action. Hamilton later showed that this action is equivalent",
+    "uid": "ba217b2f4b773865",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 175.33,
+    "end": 182.29
+  },
+  {
+    "text": "to the integral over time of kinetic energy minus potential energy.",
+    "uid": "180205089e15e21c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 182.29,
+    "end": 186.69
+  },
+  {
+    "text": "Action was useful and an alternative way of solving physics problems,",
+    "uid": "d433d4230ad71c38",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 187.73,
+    "end": 191.97
+  },
+  {
+    "text": "especially when Newton's laws get too cumbersome. But then around the turn of the 20th century,",
+    "uid": "48dfbd3942b863b1",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 191.97,
+    "end": 197.89
+  },
+  {
+    "text": "action showed up at the heart of a scientific revolution, the birth of quantum mechanics.",
+    "uid": "07c435166c1cc738",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 197.89,
+    "end": 203.33
+  },
+  {
+    "text": "It all started with electric lighting in Germany. Think about what it's like in the 1890s, right?",
+    "uid": "6bd93ec4f41342d4",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 205.41,
+    "end": 210.77
+  },
+  {
+    "text": "Electricity being more widely available at least in urban centers, and things like light bulbs,",
+    "uid": "827c2c9976eb1ef9",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 210.77,
+    "end": 216.61
+  },
+  {
+    "text": "they were new, they were literally the hot new thing. Germany wanted to replace all their gas",
+    "uid": "7a8bcf33f4ae2b7f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 216.61,
+    "end": 221.89
+  },
+  {
+    "text": "street lights with electric light bulbs. So an important question was, how do you maximize the",
+    "uid": "aacfdd75f5b793ce",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 221.89,
+    "end": 227.33
+  },
+  {
+    "text": "visible light given off by a hot filament? Scientists at a German research institute, the PTR, studied",
+    "uid": "86c389bec5b0030f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 227.33,
+    "end": 234.29
+  },
+  {
+    "text": "how much light different materials emitted as a function of temperature. At low temperatures,",
+    "uid": "b6a609b4eed1e88b",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 234.29,
+    "end": 240.21
+  },
+  {
+    "text": "each material gave off its own characteristic spectrum, mostly in the infrared. But above about",
+    "uid": "73a399c8c0772464",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 240.29,
+    "end": 246.53
+  },
+  {
+    "text": "500 degrees Celsius, all materials started to glow in the same way, with an almost identical distribution",
+    "uid": "e33de55ba72a5a53",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 246.53,
+    "end": 254.85
+  },
+  {
+    "text": "of light. The hotter the object, the more energy was emitted at every wavelength. And the peak of the",
+    "uid": "15648d26e4cf9a6e",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 254.85,
+    "end": 261.57
+  },
+  {
+    "text": "distribution shifted to the left. But they still didn't understand how it worked theoretically.",
+    "uid": "3bdd1a9dff0ddff4",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 261.57,
+    "end": 268.13
+  },
+  {
+    "text": "So that was sort of the next step, right? If you can understand how it works theoretically,",
+    "uid": "a40a5c8362ed4919",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 268.21,
+    "end": 273.25
+  },
+  {
+    "text": "then you can use that theory to potentially design your products. They started by imagining the",
+    "uid": "05369cf198fa8219",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 273.25,
+    "end": 278.45
+  },
+  {
+    "text": "simplest object possible. One would absorb all light that falls onto it and perfectly emit radiation",
+    "uid": "fda911d2740c65b7",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 278.45,
+    "end": 285.41
+  },
+  {
+    "text": "based on its temperature. They came up with a hole in a metal cube. This hole is a perfect black",
+    "uid": "970dd3cb84f651fd",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 285.41,
+    "end": 293.81
+  },
+  {
+    "text": "body, because any light that shines onto it will go straight in. Vounce around inside and eventually",
+    "uid": "35f76ac78a3ad71a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 293.81,
+    "end": 299.09
+  },
+  {
+    "text": "be absorbed. But this also makes it a perfect emitter. Any radiation inside the cube can escape through the",
+    "uid": "1185d7c8ff43fd39",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 299.09,
+    "end": 305.57
+  },
+  {
+    "text": "hole and impede it. Theorists reasoned that electrons in the walls of the cube would wiggle around",
+    "uid": "037f53fdf475813c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 305.57,
+    "end": 312.69
+  },
+  {
+    "text": "emitting electromagnetic waves. These waves would then bounce off the other walls. When you have",
+    "uid": "b4bcb4c17e6ef57e",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 312.69,
+    "end": 319.97
+  },
+  {
+    "text": "two waves of the same frequency, where one travels to the right and the other to the left,",
+    "uid": "e2cfdf5d55a9788c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 320.05,
+    "end": 324.85
+  },
+  {
+    "text": "they can interfere in such a way that they create places where there's no wave amplitude, those are",
+    "uid": "8ba90178ed718bf6",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 324.85,
+    "end": 330.29
+  },
+  {
+    "text": "nodes, and places where there's maximum wave amplitude. The ante-nodes. Waves like this are called",
+    "uid": "9852944096683f04",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 330.29,
+    "end": 337.17
+  },
+  {
+    "text": "standing waves, because they don't really move left or right. And inside a cavity given enough time",
+    "uid": "edff784439cfe314",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 337.17,
+    "end": 343.97
+  },
+  {
+    "text": "and reflections, it is only these standing waves that survive. All the other ones just cancel out.",
+    "uid": "c09f8d8ceb241928",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 343.97,
+    "end": 349.81
+  },
+  {
+    "text": "So a sort of order emerges from the chaos. In two dimensions, standing waves look something like this.",
+    "uid": "fdea621980f302a1",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 350.93,
+    "end": 360.21
+  },
+  {
+    "text": "For shorter wavelengths or higher frequencies, you can fit more and more different vibrational",
+    "uid": "28c8abbc169e7841",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 360.77,
+    "end": 365.89
+  },
+  {
+    "text": "modes inside this cube. So that in three dimensions, the total number of modes is proportional to",
+    "uid": "14ce59a56777d6f6",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 365.89,
+    "end": 372.69
+  },
+  {
+    "text": "frequency cubed, or one over lambda cubed. The expectation was there would be more and more waves",
+    "uid": "6da60c43521eb130",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 372.69,
+    "end": 379.33
+  },
+  {
+    "text": "inside the cube, the shorter the wavelength. This led directly to the Rayleigh Genes law.",
+    "uid": "3d84ffead0b4353d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 379.41,
+    "end": 385.25
+  },
+  {
+    "text": "At longer wavelengths, it matched the experimental data pretty well, but at shorter wavelengths,",
+    "uid": "c645a785d158fe46",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 386.13,
+    "end": 392.37
+  },
+  {
+    "text": "the theory diverged from experiment. In fact, it predicted that at the shortest wavelengths,",
+    "uid": "4011129546fad71b",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 392.37,
+    "end": 398.45
+  },
+  {
+    "text": "an infinite amount of energy would be emitted. This, for obvious reasons, became known as the",
+    "uid": "45cafc82277584e3",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 398.45,
+    "end": 405.41
+  },
+  {
+    "text": "ultraviolet catastrophe. The person to solve this problem was Max Plunk.",
+    "uid": "c5415fa58cfeaabf",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 405.41,
+    "end": 412.43
+  },
+  {
+    "text": "But Plunk almost didn't make it into studying physics. Because when he was 16 years old,",
+    "uid": "d4cd4968e11a8ff7",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 413.15,
+    "end": 418.83
+  },
+  {
+    "text": "he went up to his professor and asked him, well, maybe I could do a career in physics. To which",
+    "uid": "e94eb31f81e8a423",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 418.83,
+    "end": 424.51
+  },
+  {
+    "text": "his professor responded that he'd better find another field to do research in, because physics was essentially",
+    "uid": "438a960d476eedf1",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 424.51,
+    "end": 429.95
+  },
+  {
+    "text": "a complete science. You know, there was just a few tiny little problems that they had to clean up,",
+    "uid": "807762cc9965fe28",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 429.95,
+    "end": 435.55
+  },
+  {
+    "text": "but besides that, it was over. But Plunk didn't listen. By 1897, he was a professor himself,",
+    "uid": "47597fdfece83b3a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 435.71,
+    "end": 444.27
+  },
+  {
+    "text": "and for the next three years, he struggled to find a theoretical explanation for black-buddy radiation.",
+    "uid": "bfd38fe266fed05c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 444.27,
+    "end": 449.47
+  },
+  {
+    "text": "He tried approach after approach, but no matter what he tried, nothing worked. He said,",
+    "uid": "d2913f3b37b2b69b",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 450.03,
+    "end": 456.51
+  },
+  {
+    "text": "I was ready to sacrifice every one of my previous convictions about physical laws. Then, in a quote,",
+    "uid": "1629250db4950636",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 456.51,
+    "end": 465.7
+  },
+  {
+    "text": "active desperation, he did something no one had thought to try. According to classical physics,",
+    "uid": "7e06126d60122f6f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 465.7,
+    "end": 471.78
+  },
+  {
+    "text": "the energy of an electromagnetic wave depends only on its amplitude, not its wavelength or frequency,",
+    "uid": "8f61e2d5cf1b8ebf",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 471.78,
+    "end": 478.34
+  },
+  {
+    "text": "and it could take any arbitrary value. So any atom could emit any wavelength of light with an",
+    "uid": "2140c7ccdb167733",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 478.34,
+    "end": 484.58
+  },
+  {
+    "text": "arbitrarily small amount of energy. But Plunk tried restricting the energy so that it could only come in",
+    "uid": "6c05c53250ba3b69",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 484.58,
+    "end": 491.38
+  },
+  {
+    "text": "multiples of a smallest amount, a quantum. And he made the energy of one quantum directly proportional",
+    "uid": "c646a43d7532ae29",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 491.38,
+    "end": 499.22
+  },
+  {
+    "text": "to its frequency, E equals HF, where H is just a constant. Think about what this does to the radiation",
+    "uid": "ad0074504e140e75",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 499.22,
+    "end": 508.96
+  },
+  {
+    "text": "coming from the black body. At a given temperature, the atoms in the cavity have a range of energies.",
+    "uid": "a71c400b2885e445",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 508.96,
+    "end": 514.88
+  },
+  {
+    "text": "Some have a little bit, a few have a lot, and most have their energy somewhere in between.",
+    "uid": "7871b2b162aad84b",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 514.88,
+    "end": 520.08
+  },
+  {
+    "text": "For long wavelength, low frequency radiation, the energy HF of one quantum is small. So all of the",
+    "uid": "534dfa5e3ba0c3e7",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 520.72,
+    "end": 528.32
+  },
+  {
+    "text": "atoms have enough energy to emit this wavelength, and the spectrum matches the Rayleigh Genes prediction",
+    "uid": "2f0aa5c39df30877",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 528.32,
+    "end": 534.48
+  },
+  {
+    "text": "very well. But at shorter wavelengths, higher frequencies, the energy of a quantum increases. And now,",
+    "uid": "b905d842784c7aae",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 534.48,
+    "end": 542.24
+  },
+  {
+    "text": "not all of the atoms have enough energy to emit that wavelength. This is why experiment diverges from",
+    "uid": "11cd186d1e58030b",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 542.24,
+    "end": 548.64
+  },
+  {
+    "text": "the classical prediction. The spectrum peaks and then starts to fall, because fewer and fewer atoms",
+    "uid": "13e6c89565d22ed8",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 548.72,
+    "end": 555.36
+  },
+  {
+    "text": "have enough energy to emit one quantum of that radiation. And there comes a point when none of the atoms",
+    "uid": "f263e9ac148b30f9",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 555.36,
+    "end": 562.0
+  },
+  {
+    "text": "have enough energy to emit one quantum. So here, the spectrum must drop to zero. With this approach, Plunk",
+    "uid": "577cab3e3359b2c5",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 562.0,
+    "end": 570.48
+  },
+  {
+    "text": "got a new formula for the radiation spectrum. Now, all that was left for him to do was to tune the",
+    "uid": "3c9f3dcc6b1fb877",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 570.48,
+    "end": 575.52
+  },
+  {
+    "text": "parameter H. And when he did this just right, he got his formula to match up perfectly with experiment.",
+    "uid": "3778f2d25dae026b",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 575.52,
+    "end": 580.88
+  },
+  {
+    "text": "But he was sort of trouble by his own formula, because to him, it was just a mathematical trick.",
+    "uid": "a876f22418c800a4",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 584.74,
+    "end": 590.74
+  },
+  {
+    "text": "He had no clue why it worked. It was purely formal. And most importantly, he had no clue what this",
+    "uid": "00dbdca5996c160f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 590.74,
+    "end": 596.66
+  },
+  {
+    "text": "H represented. I mean, he had introduced the new physical constant without any reason.",
+    "uid": "f5b67361cbcb96d8",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 597.38,
+    "end": 602.74
+  },
+  {
+    "text": "He wrote a theoretical interpretation had to be found at any cost, no matter how high.",
+    "uid": "fc4514fbe6db5559",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 603.7,
+    "end": 608.98
+  },
+  {
+    "text": "So from that moment on, he dedicated himself to finding one. He later reflected that after some weeks",
+    "uid": "2832100cba625675",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 609.54,
+    "end": 616.34
+  },
+  {
+    "text": "of the most strenuous work of my life, light came into the darkness, and a new undreamed of perspective",
+    "uid": "48bf1904f3d3b4cb",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 616.34,
+    "end": 622.98
+  },
+  {
+    "text": "opened up before me. He introduces what we now call Plank's constant, and it has the units of action.",
+    "uid": "12785f0155ddde69",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 622.98,
+    "end": 633.02
+  },
+  {
+    "text": "Plank's constant H is a quantum of action. Plunk later proposed that anytime any change happened",
+    "uid": "cc19847ead912a8a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 633.58,
+    "end": 641.58
+  },
+  {
+    "text": "in nature, it would be some whole multiple of this quantum of action. So it's kind of spooky this",
+    "uid": "d9e3a0c481f1ee81",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 641.58,
+    "end": 649.02
+  },
+  {
+    "text": "breakthrough that starts the ball rolling toward quantum theory brings action in, not energy, and not",
+    "uid": "afe1e3377a389891",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 649.02,
+    "end": 656.46
+  },
+  {
+    "text": "force action. It gives you a hint. At first, the quantum of action got little attention. That is",
+    "uid": "8a01494aa8617b3d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 656.46,
+    "end": 665.63
+  },
+  {
+    "text": "until a 26 year old patent clerk came on the scene. In 1905, Albert Einstein claimed that Plank's theory",
+    "uid": "4a4116175f68b5e0",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 665.63,
+    "end": 674.77
+  },
+  {
+    "text": "wasn't just a mathematical trick. It was telling us that light actually comes in discrete packets or",
+    "uid": "e79612cd4277ffc6",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 674.77,
+    "end": 681.33
+  },
+  {
+    "text": "photons, each with an energy HF. Einstein used this insight to explain the photoelectric effect,",
+    "uid": "beae0dfb021fe308",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 681.33,
+    "end": 687.81
+  },
+  {
+    "text": "how light can eject electrons from metal, but only when the frequency is high enough. If the",
+    "uid": "547a7d90d470d22c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 687.81,
+    "end": 693.41
+  },
+  {
+    "text": "frequency is too low, no electrons will be emitted, regardless of the intensity.",
+    "uid": "76fae8d52bb3c32a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 693.41,
+    "end": 698.61
+  },
+  {
+    "text": "The idea of quantization spread. Eight years later, Niels Bohr was trying to understand how an atom is stable,",
+    "uid": "827046bf5a7f305c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 700.21,
+    "end": 708.45
+  },
+  {
+    "text": "if it has a positive charge in the center, and negative electrons whizzing around it. Why don't they",
+    "uid": "6b1c69283abb0ca8",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 708.45,
+    "end": 713.73
+  },
+  {
+    "text": "just spiral into the nucleus radiating their energy as they go? And what he wants to do is he says there's",
+    "uid": "2aa1c34626ce29b4",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 713.73,
+    "end": 719.73
+  },
+  {
+    "text": "something fishy about something being discrete. That seems to be the new ambiguous, weirdo lesson of",
+    "uid": "f4d7d30346146177",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 719.73,
+    "end": 725.89
+  },
+  {
+    "text": "the new quantum of action. Bohr realizes that as the electron goes around the nucleus, it has an angular",
+    "uid": "2a21ac9a691526a7",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 725.89,
+    "end": 732.61
+  },
+  {
+    "text": "momentum. Mass times velocity times radius. So angular momentum has the same units as action.",
+    "uid": "c7c067a2dcacdc2d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 732.61,
+    "end": 741.17
+  },
+  {
+    "text": "And so what he decides to do is discretize the orbital angular momentum. For no good reason,",
+    "uid": "efcede19e87143c0",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 741.81,
+    "end": 747.25
+  },
+  {
+    "text": "he says let me slap that on and say angular momentum electron can only be in one unit, two units,",
+    "uid": "9734f1954af6069f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 747.25,
+    "end": 752.05
+  },
+  {
+    "text": "three units of the same quantity H. And because it's talking about motion, it's circle. The fact is",
+    "uid": "bf67dba73966e12e",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 752.05,
+    "end": 757.17
+  },
+  {
+    "text": "two pie commands was really N H over two pie. What we now call N H bar.",
+    "uid": "035e5bb488e4770d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 757.17,
+    "end": 761.33
+  },
+  {
+    "text": "This comes out of nowhere. There seems like absolutely no good reason why angular momentum should be quantized,",
+    "uid": "0a86a0166f5a6fe6",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 762.69,
+    "end": 769.41
+  },
+  {
+    "text": "but by doing it, Bohr finds the correct energy levels of the hydrogen atom. When an electron",
+    "uid": "0c2061cc430eba72",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 770.13,
+    "end": 775.49
+  },
+  {
+    "text": "jumps from a higher orbit to a lower one, the energy difference is given off as a photon of a particular",
+    "uid": "844fb01c70848ecb",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 775.49,
+    "end": 781.49
+  },
+  {
+    "text": "color of light. Exactly reproducing the hydrogen spectrum. And that was a pretty startling thing to",
+    "uid": "4005c697efff90ef",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 781.49,
+    "end": 788.61
+  },
+  {
+    "text": "have fall out. I think that really was compelling and it takes some quantity with the units of action",
+    "uid": "5fd3f8deeb4159ff",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 788.61,
+    "end": 793.89
+  },
+  {
+    "text": "and apply some again kind of ad hoc just discretization of quantization to it.",
+    "uid": "d15af5e317b45830",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 794.37,
+    "end": 799.25
+  },
+  {
+    "text": "Now, although it worked spectacularly well, no one could make sense of it. That is until 11 years later.",
+    "uid": "c99468057a689510",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 800.69,
+    "end": 808.13
+  },
+  {
+    "text": "For his PhD, Louis DeBroy was contemplating the recent discoveries in physics. And his",
+    "uid": "6d695fd1199d45c3",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 809.65,
+    "end": 815.57
+  },
+  {
+    "text": "big insight was that if light could be both a wave and a particle, then maybe matter particles could",
+    "uid": "ca46331c7168648d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 815.57,
+    "end": 821.65
+  },
+  {
+    "text": "also be waves. He proposed that everything, electrons, basketballs, people absolutely everything has",
+    "uid": "ebacc4004d29347c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 821.73,
+    "end": 830.61
+  },
+  {
+    "text": "a wavelength. And he defined this wavelength analogously to light as lengths constant divided by the",
+    "uid": "1eaa6f11bb557c8f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 830.61,
+    "end": 837.49
+  },
+  {
+    "text": "particles momentum or mass times velocity. Now, if an electron is a wave, the only way it could",
+    "uid": "6f13e310ade26031",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 837.49,
+    "end": 847.14
+  },
+  {
+    "text": "stay bound to a nucleus in an atom is if it exists as a standing wave. That requires that a whole",
+    "uid": "5a41a1f96a72cbce",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 847.14,
+    "end": 854.18
+  },
+  {
+    "text": "number of wavelengths fit around the circumference of the orbit. You could have one wavelength or two wavelength",
+    "uid": "7f5d054cd079eadb",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 854.18,
+    "end": 861.22
+  },
+  {
+    "text": "or three and so on. So the circumference two pi r must be equal to some multiple n times the wavelength.",
+    "uid": "a43c0110f13e0a80",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 861.22,
+    "end": 869.06
+  },
+  {
+    "text": "We can sub-indibroy his expression for the wavelength to get that two pi r equals n h over m v. But",
+    "uid": "30c00006e6204024",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 869.7,
+    "end": 876.58
+  },
+  {
+    "text": "we can rearrange this to get that m v r, the angular momentum, is equal to n h over 2 pi.",
+    "uid": "541b1f4226adfbfb",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 876.58,
+    "end": 884.5
+  },
+  {
+    "text": "That is precisely Bores quantized angular momentum condition. But now, we have a good physical",
+    "uid": "5e4c7b948e419ef5",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 885.78,
+    "end": 893.22
+  },
+  {
+    "text": "reason why it's quantized because electrons are waves and they must exist as standing waves to be bound",
+    "uid": "ca048ef90916c066",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 893.22,
+    "end": 899.14
+  },
+  {
+    "text": "in atoms. Because they want to have constructive interference of a stable orbit back. That's pretty good.",
+    "uid": "ee593ca716b57031",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 899.14,
+    "end": 905.38
+  },
+  {
+    "text": "You're going to disobey that. That's pretty good. It is this wave nature of quantum objects that",
+    "uid": "1bf4aa65fbc16bc2",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 905.38,
+    "end": 910.42
+  },
+  {
+    "text": "means they no longer have a single path through space. Instead, they must explore all possible paths.",
+    "uid": "e092c801a851235b",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 910.42,
+    "end": 916.5
+  },
+  {
+    "text": "Now, I have thought about and taught the double-slit experiment hundreds of times without",
+    "uid": "c54e63e5dbf117ff",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 919.07,
+    "end": 923.95
+  },
+  {
+    "text": "fully realizing this implication. In the double-slit experiment, I feel like the mental thing that I'm",
+    "uid": "a8a328a23e02010a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 923.95,
+    "end": 928.91
+  },
+  {
+    "text": "doing in my head is like, okay, well, the beam is not perfectly straight and of course it's going to",
+    "uid": "a35ea58cd454f1f5",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 928.91,
+    "end": 933.79
+  },
+  {
+    "text": "intersect both of those slits because they're really close to get it, you know? But then, I heard",
+    "uid": "c6791702051710e4",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 933.79,
+    "end": 939.23
+  },
+  {
+    "text": "this story about a professor teaching the double-slit experiment and it makes everything so clear.",
+    "uid": "c5b90d5640ba4df6",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 939.23,
+    "end": 944.51
+  },
+  {
+    "text": "So, the professor starts by explaining the setup. Electrons are fired one at a time through two",
+    "uid": "658c9424f5cc29cb",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 945.87,
+    "end": 952.35
+  },
+  {
+    "text": "slits to be detected at a screen. Now, because you can't say for a certain which slit the particle went",
+    "uid": "7a24404586ddae4f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 952.35,
+    "end": 957.71
+  },
+  {
+    "text": "through, quantum mechanics tells us it must go through both at the same time. So, to get the",
+    "uid": "9f900b2af91720c4",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 957.71,
+    "end": 962.59
+  },
+  {
+    "text": "probability of finding a particle somewhere on the screen, you simply add up the amplitude of",
+    "uid": "6cbb85c902b806fe",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 962.59,
+    "end": 967.47
+  },
+  {
+    "text": "the wave going through one slit with the amplitude of the wave going through the other slit and square it.",
+    "uid": "418a70e941fc404a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 967.47,
+    "end": 972.43
+  },
+  {
+    "text": "But that's when a student raised his hand. What if you add a third slit?",
+    "uid": "b2685e40a1810a34",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 974.94,
+    "end": 980.06
+  },
+  {
+    "text": "Well, you just add up the amplitudes of the waves going through each of the three slits and you can work out",
+    "uid": "940f6b608de6f9d8",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 981.34,
+    "end": 986.06
+  },
+  {
+    "text": "the probability. The professor wanted to continue, but then the student interjected again.",
+    "uid": "aa6773ab02c902d8",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 986.06,
+    "end": 992.38
+  },
+  {
+    "text": "What if you add a fourth slit and a fifth?",
+    "uid": "16631a7e13f4abbc",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 993.34,
+    "end": 995.98
+  },
+  {
+    "text": "The professor who is now clearly losing his patience replies,",
+    "uid": "a07172e81bd789d1",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 996.94,
+    "end": 1000.22
+  },
+  {
+    "text": "I think it's clear to the whole class that you just add up the amplitudes from all the slits. It's the same for six, seven, etc.",
+    "uid": "79df4f316fd918ba",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1000.22,
+    "end": 1008.46
+  },
+  {
+    "text": "But now the bold student pressed his advantage.",
+    "uid": "f4a9c8096a1ed950",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1010.37,
+    "end": 1013.25
+  },
+  {
+    "text": "What if I make it infinite slits?",
+    "uid": "650d2a7f5dc86b3c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1014.53,
+    "end": 1016.53
+  },
+  {
+    "text": "So that the screen disappears.",
+    "uid": "f82ba58ec6dadd07",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1018.53,
+    "end": 1020.53
+  },
+  {
+    "text": "And then I add a second screen within thinnetslits and a third and a fourth.",
+    "uid": "6ef54be5314897a9",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1021.17,
+    "end": 1026.05
+  },
+  {
+    "text": "The student's point was clear. Even when we're not doing a double slit experiment,",
+    "uid": "8c3abd7e60e34569",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1028.62,
+    "end": 1034.94
+  },
+  {
+    "text": "when it's just light or particles traveling through empty space, they must be exploring all possible paths.",
+    "uid": "a9ed5d7934e2e8e5",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1034.94,
+    "end": 1042.14
+  },
+  {
+    "text": "Because this is exactly how the math would work if you had infinite screens each would infinite slits.",
+    "uid": "ac7cc9ddebf5211d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1042.14,
+    "end": 1047.58
+  },
+  {
+    "text": "You have to add up the amplitude from each slit. That's just the way it works.",
+    "uid": "ecc61a90fc9f612f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1048.14,
+    "end": 1052.7
+  },
+  {
+    "text": "According to the story, the student was Richard Feynman. And while the story is made up,",
+    "uid": "0b744b6522eb9ad0",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1054.14,
+    "end": 1059.26
+  },
+  {
+    "text": "the logic is flawless.",
+    "uid": "f9701ef1d00b66e5",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1059.26,
+    "end": 1060.86
+  },
+  {
+    "text": "Because if you believe in a double slit experiment that you can tell which of the two slits",
+    "uid": "00c36bf91029c579",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1061.9,
+    "end": 1066.62
+  },
+  {
+    "text": "the particle went through, then you have to consider the possibility that it goes through both.",
+    "uid": "ece48037b5438ab8",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1066.62,
+    "end": 1071.1
+  },
+  {
+    "text": "By not saying logic, any time any particle goes from place one to place two, you have to consider",
+    "uid": "6f7dee6f6a88761d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1072.22,
+    "end": 1078.78
+  },
+  {
+    "text": "all the possible paths it could take to get there. Including once that goes fast at a speed of light,",
+    "uid": "c4c1f87e25c8b927",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1078.78,
+    "end": 1083.74
+  },
+  {
+    "text": "including once that goes back in time, and including once that goes to the sun and back.",
+    "uid": "76aa603d400a7007",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1083.74,
+    "end": 1087.98
+  },
+  {
+    "text": "Really, it can't go to the sun and back. You have to restrict it to be local, right?",
+    "uid": "8e50267dd9ca3843",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1087.98,
+    "end": 1091.42
+  },
+  {
+    "text": "So the math doesn't do that. I mean, you could see that just in the double slit experiment.",
+    "uid": "a41268c2db1f9f1f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1091.42,
+    "end": 1096.22
+  },
+  {
+    "text": "Right? And we'll do it light because then there's no funky business with the speed.",
+    "uid": "be012c289e35f19b",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1096.22,
+    "end": 1099.9
+  },
+  {
+    "text": "If you're going to say like this path interferes with this path,",
+    "uid": "7ed501c906bc0fd6",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1099.9,
+    "end": 1103.1
+  },
+  {
+    "text": "then these distances are different. Right? And so clearly, they can't have the same speed.",
+    "uid": "84bc21e5b15715ce",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1103.1,
+    "end": 1108.78
+  },
+  {
+    "text": "So you need to consider paths that have different speeds.",
+    "uid": "c30725ff487a7ec6",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1108.78,
+    "end": 1112.7
+  },
+  {
+    "text": "Findman's way of doing quantum mechanics suggests that anything going from one place to another",
+    "uid": "95bfa2f4e822cc66",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1114.46,
+    "end": 1119.42
+  },
+  {
+    "text": "is connected in every possible way. And the internet is kind of like that too,",
+    "uid": "8cc8d15b85e83118",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1119.42,
+    "end": 1124.06
+  },
+  {
+    "text": "connecting us to anything anywhere at any time. At least in theory, there are still artificial barriers,",
+    "uid": "06c9a1a1c30f005d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1124.06,
+    "end": 1130.7
+  },
+  {
+    "text": "like geo blocks and country restrictions that block off parts of the internet. But fortunately,",
+    "uid": "1d75052a15794c55",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1130.7,
+    "end": 1135.98
+  },
+  {
+    "text": "there's today's sponsor NordVPN, which can help knock down those barriers. Just connect to one of",
+    "uid": "931fc203f31bd269",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1135.98,
+    "end": 1141.58
+  },
+  {
+    "text": "their thousands of servers, for example, this one in the US. And it looks as if you're",
+    "uid": "f4b1da47a460b6c9",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1141.58,
+    "end": 1146.22
+  },
+  {
+    "text": "accessing the internet from there. The team and I travel a lot to make these videos. And using a VPN",
+    "uid": "265bf98a0900b68a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1146.22,
+    "end": 1151.66
+  },
+  {
+    "text": "is a game changer. It allows us to access the new sites and articles we need, no matter where in the",
+    "uid": "3c5e0d9220481cde",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1151.66,
+    "end": 1157.42
+  },
+  {
+    "text": "world we are. And personally, I also love that NordVPN allows me to stay up to date with how the",
+    "uid": "f79d3e8ef8814d16",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1157.42,
+    "end": 1161.98
+  },
+  {
+    "text": "connects are doing back in Canada, not very well at the moment.",
+    "uid": "ab35354dadd2f0b1",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1162.06,
+    "end": 1165.82
+  },
+  {
+    "text": "Connects have a real shot at the cup this year. But to try NordVPN for yourself, sign up at",
+    "uid": "ece5110af89af41d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1167.74,
+    "end": 1176.42
+  },
+  {
+    "text": "NordVPN.com slashvarytacium. Click that link in the description or scan this QR code. And when you do,",
+    "uid": "bec45681d51c917a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1176.42,
+    "end": 1182.74
+  },
+  {
+    "text": "you get a huge discount on a two-year plan and an additional four bonus months for free.",
+    "uid": "f61e319cf560768a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1182.74,
+    "end": 1187.86
+  },
+  {
+    "text": "It's the best deal. And it also comes with a 30-day money-back guarantee. So head to NordVPN.com slashvarytacium.",
+    "uid": "cfafd033ba59e776",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1187.86,
+    "end": 1194.98
+  },
+  {
+    "text": "To try it out, risk free. I want to thank NordVPN for sponsoring this part of the video.",
+    "uid": "bc583f2ab7d97839",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1194.98,
+    "end": 1199.3
+  },
+  {
+    "text": "And now let's get back to Feynman's crazy way of doing quantum mechanics.",
+    "uid": "fb5db1d1c56458df",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1199.3,
+    "end": 1203.06
+  },
+  {
+    "text": "So according to Feynman, anytime a particle of photon or even a macroscopic object moves from 0.1 to 0.2,",
+    "uid": "c3774eb7987895d9",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1204.82,
+    "end": 1211.78
+  },
+  {
+    "text": "it has some chance to take any path. And as preposterous as it might sound,",
+    "uid": "cb73b4ee3a365347",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1211.78,
+    "end": 1217.06
+  },
+  {
+    "text": "he found that we need to include all these paths in our calculation, where each path is weighted the same.",
+    "uid": "9fcff90132daca0a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1217.06,
+    "end": 1223.3
+  },
+  {
+    "text": "So why then do we not see all those crazy paths? Well, that's because we still need to add up their",
+    "uid": "4c35f6bac90f96f1",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1224.98,
+    "end": 1231.22
+  },
+  {
+    "text": "amplitudes. For simplicity, imagine we only have three paths.",
+    "uid": "54ff6159f0ef246c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1231.22,
+    "end": 1235.86
+  },
+  {
+    "text": "Then here's what we're going to do. First, let's take this one. When the particle wave starts following it,",
+    "uid": "0b742e0e762146c9",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1236.82,
+    "end": 1242.42
+  },
+  {
+    "text": "we start a stopwatch. It goes around and around very fast. And when it gets to the end point, we hit stop.",
+    "uid": "2da4978b1f332000",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1242.42,
+    "end": 1248.82
+  },
+  {
+    "text": "We'll do the same for the other two paths. And then we add up the arrows.",
+    "uid": "b79b1383a5ee4478",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1249.7,
+    "end": 1257.62
+  },
+  {
+    "text": "Square the result, and that is then proportional to the probability the particle took those paths to get there.",
+    "uid": "7a0c5c3f3713b0f8",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1258.66,
+    "end": 1264.82
+  },
+  {
+    "text": "In this case, the arrow and square are pretty small, so the probability the particle going from one to two",
+    "uid": "9f3d886e3b835cb8",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1265.38,
+    "end": 1270.5
+  },
+  {
+    "text": "using these paths is small. Compare that with these three paths, for example.",
+    "uid": "8f3663c8e38a5de7",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1270.5,
+    "end": 1278.38
+  },
+  {
+    "text": "Well, now the arrow is much larger. And this is important, the larger the resulting arrow, the higher the",
+    "uid": "62618b8d8269168b",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1280.62,
+    "end": 1286.94
+  },
+  {
+    "text": "probability of that event happening. Now, in these examples, the stopwatch is not actually measuring time.",
+    "uid": "1c3ccdbbc137c459",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1286.94,
+    "end": 1294.38
+  },
+  {
+    "text": "Instead, it measures something called the phase. Just as in the double-slit experiment,",
+    "uid": "c2cc16027cb2d84b",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1294.38,
+    "end": 1299.66
+  },
+  {
+    "text": "when a wave takes a different path from 0.1 to 2, it will end up there with a different phase.",
+    "uid": "ce3028a04047de75",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1299.66,
+    "end": 1305.26
+  },
+  {
+    "text": "And this phase is what determines the amplitude of the wave at that point.",
+    "uid": "5018c8952c0ec907",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1306.7,
+    "end": 1311.02
+  },
+  {
+    "text": "Mathematically, we can write the amplitude, our stopwatch, as e to the i5, where phi is the phase.",
+    "uid": "0f1b8c5092861fb7",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1311.34,
+    "end": 1319.18
+  },
+  {
+    "text": "As the particle wave follows a path, it's phase increases, winding the vector around.",
+    "uid": "cd1d93c5a171462f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1321.57,
+    "end": 1327.09
+  },
+  {
+    "text": "So now the big question is, how much does the phase change for each path?",
+    "uid": "76f562e8d6b81211",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1328.21,
+    "end": 1332.53
+  },
+  {
+    "text": "Well, to answer that, imagine we split up the path into many tiny sections, each one's so small",
+    "uid": "2980c383ed709a2d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1333.33,
+    "end": 1339.01
+  },
+  {
+    "text": "that it's effectively straight. Then, in each section, the particle wave goes a distance delta x",
+    "uid": "4b62c7717b52cd30",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1339.09,
+    "end": 1345.65
+  },
+  {
+    "text": "in a time delta t. And the increase in phase is easy to compute. It just depends on the wavelength",
+    "uid": "928e0da80cabb6dc",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1345.65,
+    "end": 1351.97
+  },
+  {
+    "text": "and frequency of the wave. To find the total increase in phase for the whole path, we just add up all the",
+    "uid": "caad53d48f0ecece",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1351.97,
+    "end": 1358.45
+  },
+  {
+    "text": "little phase increases of all the individual sections. But we can sub in lambda equals h over mv from",
+    "uid": "0568e49daf6c2a76",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1358.45,
+    "end": 1365.89
+  },
+  {
+    "text": "and using e equals hf, we can sub in for frequency. We can also simplify by writing h over 2 pi",
+    "uid": "8e315b28a5b426de",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1366.85,
+    "end": 1373.65
+  },
+  {
+    "text": "as h bar to get this expression. Then, we can take delta t to the right, and if we make delta t",
+    "uid": "eb1aded7107c234c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1373.65,
+    "end": 1381.41
+  },
+  {
+    "text": "infinitesimally small, then we can replace this sum with an integral. But now dx by dt is just",
+    "uid": "cca4812a7c5bbd87",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1381.41,
+    "end": 1389.01
+  },
+  {
+    "text": "velocity, so we can write this as mv squared. Now we know that in the simplest case, the total",
+    "uid": "7ed7e32befcb4b64",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1389.01,
+    "end": 1395.41
+  },
+  {
+    "text": "energy e is just kinetic plus potential energy. And subing that in, we're left with the integral",
+    "uid": "baabb22712eccbcb",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1395.41,
+    "end": 1401.81
+  },
+  {
+    "text": "over time of kinetic energy minus potential energy. But wait a second, that is just the classical action.",
+    "uid": "bc88cd1aeb7f62bb",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1401.81,
+    "end": 1410.37
+  },
+  {
+    "text": "So it's action that determines how fast the stopwatch turns. As the particle moves along a trajectory,",
+    "uid": "18526dc4517ba078",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1411.17,
+    "end": 1418.85
+  },
+  {
+    "text": "it's action increases, and that is what increases the phase. And what's important to note is that",
+    "uid": "e5f29e330ddbf806",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1418.93,
+    "end": 1425.17
+  },
+  {
+    "text": "h bar is tiny. It's about 10 to the minus 34 joule seconds, which is way smaller than the action of",
+    "uid": "b6388103ddbe9684",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1425.17,
+    "end": 1432.13
+  },
+  {
+    "text": "any everyday object. That means the phase of ordinary objects on ordinary paths spins around",
+    "uid": "90d98ff3dfdf950c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1432.13,
+    "end": 1439.33
+  },
+  {
+    "text": "billions of times eventually pointing in some random direction. If you consider a slightly different",
+    "uid": "5dc78de4ae647414",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1439.33,
+    "end": 1446.93
+  },
+  {
+    "text": "action may be slightly different, say 0.01 joule seconds different. That doesn't seem like much,",
+    "uid": "f1dfe0965d66b961",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1447.73,
+    "end": 1455.33
+  },
+  {
+    "text": "but divide it by h bar, and the arrow will spin around 10 to the 32 more times. So again,",
+    "uid": "151d8265e60fbdad",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1455.33,
+    "end": 1461.73
+  },
+  {
+    "text": "it will just point in some random direction. This is what happens to almost all of the possible paths.",
+    "uid": "9a527706040647fe",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1461.73,
+    "end": 1469.25
+  },
+  {
+    "text": "So when you add up the phases, they just cancel out. They destructively interfere.",
+    "uid": "caceb86abe7e9031",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1469.25,
+    "end": 1474.05
+  },
+  {
+    "text": "The only exception is for the paths closest to the path of least action, because these paths",
+    "uid": "ef3b541859dc941d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1474.93,
+    "end": 1481.25
+  },
+  {
+    "text": "are at a minimum. So if you make tiny changes to the path to first order, the action doesn't change.",
+    "uid": "9fd2d7fed63278b9",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1481.25,
+    "end": 1488.37
+  },
+  {
+    "text": "And so for other paths that are very close to the path of least action,",
+    "uid": "0ce983c274354c2c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1490.05,
+    "end": 1493.89
+  },
+  {
+    "text": "their arrows point in basically the same direction. They constructively interfere, and that is why",
+    "uid": "6e849047a8a4d9ee",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1493.89,
+    "end": 1501.01
+  },
+  {
+    "text": "those are the paths we see. This explains how light knows where to go. I mean, it doesn't.",
+    "uid": "65b3a641069b4f81",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1501.01,
+    "end": 1508.37
+  },
+  {
+    "text": "It just explores all possible paths. But the paths we end up seeing are the ones that interfere",
+    "uid": "2ae5d909f2b65fe4",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1508.37,
+    "end": 1514.13
+  },
+  {
+    "text": "constructively. And those are the paths of least action. So really, this is how classical mechanics",
+    "uid": "7df795a4a9628704",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1514.13,
+    "end": 1526.14
+  },
+  {
+    "text": "emerges from quantum mechanics. It's why a ball follows the trajectory it does. And how planets",
+    "uid": "730299541b1e3dcc",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1526.14,
+    "end": 1532.14
+  },
+  {
+    "text": "orbit the sun, they don't really have a precise trajectory. Instead, everything explores",
+    "uid": "ef73223b9504ed17",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1532.22,
+    "end": 1538.46
+  },
+  {
+    "text": "all possible paths. It's just that massive particles have large actions compared to H bars,",
+    "uid": "64006fd97e0dc89f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1538.46,
+    "end": 1544.06
+  },
+  {
+    "text": "so that only paths extremely close to the true path of least action survive, which is why they're",
+    "uid": "cc1c56f6129ab9f7",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1544.06,
+    "end": 1550.22
+  },
+  {
+    "text": "much more particle-like. If you go to much smaller particles like electrons or photons, the actions",
+    "uid": "eb63160c7fe1fc81",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1550.22,
+    "end": 1555.9
+  },
+  {
+    "text": "are much smaller. And so there's more of a spread in which trajectories they actually end up taking.",
+    "uid": "44728b53b20229a3",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1555.9,
+    "end": 1561.74
+  },
+  {
+    "text": "Now, you might say, I still don't believe you. But Casper has this incredible demo",
+    "uid": "f519008e02865bd1",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1562.62,
+    "end": 1568.22
+  },
+  {
+    "text": "that you convince you 100% that this is really how the world works. To do it, I've got a light,",
+    "uid": "82097b25bdbddc2e",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1568.22,
+    "end": 1576.4
+  },
+  {
+    "text": "a mirror, and a camera. Now, there are infinitely many paths that the light could take. And according",
+    "uid": "a1c7342b46658ec2",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1576.4,
+    "end": 1582.08
+  },
+  {
+    "text": "to the Feynman, we have to add up the contributions of each of them, including paths that go like this.",
+    "uid": "471b2d8bb642a8f1",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1582.08,
+    "end": 1587.92
+  },
+  {
+    "text": "Now, you might say, he's crazy. I'm not crazy, that's what happens.",
+    "uid": "1ceda4ed414110e0",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1588.56,
+    "end": 1592.4
+  },
+  {
+    "text": "Another possibility is that it could come here and go. Or it could come here and go. Or it could come",
+    "uid": "5ff05a4bdf55dd20",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1593.36,
+    "end": 1599.52
+  },
+  {
+    "text": "where you like it to come and go. And it can go over here and go and so on and so on. And these are all",
+    "uid": "8e790a980a97d382",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1600.24,
+    "end": 1607.6
+  },
+  {
+    "text": "possibilities. And every single one of these paths has their own little arrows. So what we can do is we",
+    "uid": "fdeab38676d9b80f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1607.6,
+    "end": 1613.04
+  },
+  {
+    "text": "can look at all those arrows and see where they line up. And so if I turn on this light,",
+    "uid": "0ea8e167d7c5ea09",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1613.04,
+    "end": 1617.92
+  },
+  {
+    "text": "that's exactly where you see it reflects. So that the angle of incidence is equal to the angle of",
+    "uid": "e9224e109f684958",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1617.92,
+    "end": 1622.8
+  },
+  {
+    "text": "reflection. But now what I'm going to do is I'm going to cover up that spot so that we no longer see the",
+    "uid": "eeeed23166fc42bf",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1622.8,
+    "end": 1628.32
+  },
+  {
+    "text": "light reflect. And then I'm going to prove that Feynman is right, that really light also goes like this.",
+    "uid": "cd3e6b69cee7aa56",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1628.32,
+    "end": 1635.04
+  },
+  {
+    "text": "It's just that most of the time, those effects are canceled out. Now, that sounds impossible, right?",
+    "uid": "c325e4b5f59258b5",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1635.04,
+    "end": 1641.52
+  },
+  {
+    "text": "But let's zoom in to this tiny piece right here. Then we see all these different paths and all the",
+    "uid": "127b21943b14415c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1641.52,
+    "end": 1647.12
+  },
+  {
+    "text": "arrows just go around and around in circles. So when you add them up, they all just cancel out.",
+    "uid": "f22ae27a2ed2e9c0",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1647.12,
+    "end": 1652.4
+  },
+  {
+    "text": "But what if I cover up about half of them like so? Well, now when I add up those arrows, you suddenly do see a",
+    "uid": "14a937b167f05c3c",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1653.28,
+    "end": 1660.48
+  },
+  {
+    "text": "large resulting arrow. And so if I can somehow cover up this mirror in many, many tiny strips,",
+    "uid": "fd701cba1357586f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1660.48,
+    "end": 1666.64
+  },
+  {
+    "text": "then I should be able to get the light to reflect like this. And I can do that with this piece of",
+    "uid": "05e0189d2bd11824",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1666.64,
+    "end": 1672.72
+  },
+  {
+    "text": "foil right here. On this piece of foil, there are about a thousand lines per millimeter and that should be enough",
+    "uid": "681f4b6957d00daa",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1672.72,
+    "end": 1678.88
+  },
+  {
+    "text": "to get this effect. So let me turn off the lights. So let's see, I'm going to turn it on in three,",
+    "uid": "4e4dd375049b0077",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1678.88,
+    "end": 1686.0
+  },
+  {
+    "text": "two, one, we see it, we see it, ah, that is so cool. It actually looks a lot weird and I was expecting",
+    "uid": "ba5024fbd97ba6d1",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1686.48,
+    "end": 1696.4
+  },
+  {
+    "text": "it to. It's expecting more like once, but there's many, many spots where it's reflecting.",
+    "uid": "35e19ad75c0e5ebd",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1697.04,
+    "end": 1701.04
+  },
+  {
+    "text": "Ooh, okay. Okay. And just to show, I haven't been cheating you. Right underneath is my finger,",
+    "uid": "eff6a4b77351eda1",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1701.84,
+    "end": 1708.72
+  },
+  {
+    "text": "even with the light on. You know, we see the light reflect and if we remove the cover, then what do we see?",
+    "uid": "0df6eb3722e4025d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1709.68,
+    "end": 1718.72
+  },
+  {
+    "text": "Yeah, we see exactly the normal reflection where it's always supposed to go, which is right there.",
+    "uid": "57c0d98ac824e483",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1719.2,
+    "end": 1726.32
+  },
+  {
+    "text": "And then we've got now all these extra reflections, all these extra bits where the pattern just lines up.",
+    "uid": "c95ea42a43666d7a",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1726.96,
+    "end": 1733.92
+  },
+  {
+    "text": "So very, very cool. When I was talking about this with a friend actually, he said, yeah, but you're using",
+    "uid": "d172478b712daf18",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1734.48,
+    "end": 1740.4
+  },
+  {
+    "text": "the fraction grading, that's kind of like cheating. You see you get all these other reflections right now.",
+    "uid": "23e2edc13aa6b138",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1740.4,
+    "end": 1744.64
+  },
+  {
+    "text": "And this light is just going in all directions. And so there's one other thing I've been super",
+    "uid": "ec96f4f0c73144aa",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1745.12,
+    "end": 1750.96
+  },
+  {
+    "text": "super curious to try. I also want to do this with a laser, where I shine the laser right next to it,",
+    "uid": "0dedcd1cee94d442",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1750.96,
+    "end": 1758.56
+  },
+  {
+    "text": "and then if light does take every possible path, we should also see it come off here. It probably",
+    "uid": "bf34a99e6908719f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1758.56,
+    "end": 1764.08
+  },
+  {
+    "text": "shouldn't work. I actually have a laser right over here. And we can see when I shine it, it really does just",
+    "uid": "dae7d63530c259fe",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1764.08,
+    "end": 1773.6
+  },
+  {
+    "text": "go to one spot. And you can see where that spot is. It's right over there, which is about the same place",
+    "uid": "cc31d98ebf2a5505",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1773.68,
+    "end": 1778.56
+  },
+  {
+    "text": "where we had our reflection. And you can also see right now, we look at this view, that you cannot see the",
+    "uid": "c81496ce728d2d4d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1778.56,
+    "end": 1786.48
+  },
+  {
+    "text": "laser light at all, right? Like I could see the laser, but I have to bring it down all the way over here.",
+    "uid": "da522fdda6c1189d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1786.48,
+    "end": 1791.52
+  },
+  {
+    "text": "And then I'm able to sort of see the light. But if I just put it up here, you can see the reflection.",
+    "uid": "ce8e1adb65835d22",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1791.92,
+    "end": 1799.04
+  },
+  {
+    "text": "Now what I'm going to do next is I'm going to put this foil, this magic foil,",
+    "uid": "43ae0d52ae1ea173",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1799.68,
+    "end": 1805.04
+  },
+  {
+    "text": "and I'm going to put it over here. Oh, and we can turn off this. And now let's see what happens when",
+    "uid": "9195bbafa2fe2504",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1805.92,
+    "end": 1811.52
+  },
+  {
+    "text": "I turn on the laser. Wait, wait, wait, wait, no, wait. No, wait. It works. It works. Wait, what?",
+    "uid": "af614b1aaa09b712",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1811.52,
+    "end": 1826.62
+  },
+  {
+    "text": "Look what a laser is going. Oh my god, it actually works. What? What? This is definitely the",
+    "uid": "e7063da5d88be1c2",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1827.42,
+    "end": 1838.14
+  },
+  {
+    "text": "coolest demo I've ever done. So what I was doing, I was holding the laser and I can show you right now.",
+    "uid": "b44817b87a6f2adf",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1838.14,
+    "end": 1843.82
+  },
+  {
+    "text": "I was shining it down like this way off and you could still see it reflect. But if I take this away",
+    "uid": "63f709da94b459ff",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1843.82,
+    "end": 1850.62
+  },
+  {
+    "text": "it disappears. And if I put this back, it appears. So that is shows really that we cannot get rid of",
+    "uid": "4bec19716c20f2c9",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1851.42,
+    "end": 1860.7
+  },
+  {
+    "text": "the area, which gives zero, that it really is canceling out. And if we do cover things to it,",
+    "uid": "6c9823e292a6e3dd",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1861.58,
+    "end": 1866.38
+  },
+  {
+    "text": "we can demonstrate the reality of the reflections from just part of the mirror. So light and by extension,",
+    "uid": "f76b9c809af9a1ff",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1867.02,
+    "end": 1876.67
+  },
+  {
+    "text": "everything really does explore all possible paths. It's just that most of the time the crazy paths",
+    "uid": "3ad67cb7787f60f4",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1876.67,
+    "end": 1883.23
+  },
+  {
+    "text": "destructively interfere, that's because the actions of nearby paths change rapidly. Now I've",
+    "uid": "cd584d2df065f645",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1883.31,
+    "end": 1889.07
+  },
+  {
+    "text": "studied physics for most of my life and I feel like I never really appreciated how important action",
+    "uid": "3ea85075789ae4e3",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1889.07,
+    "end": 1894.35
+  },
+  {
+    "text": "and the principle of least action are. But now I think I finally get it. And I finally get why if you",
+    "uid": "aa01c6370dbc700f",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1894.35,
+    "end": 1900.27
+  },
+  {
+    "text": "ask theoretical physicists what they're working on, they'll rarely talk about energy or forces.",
+    "uid": "bad477f6f149933b",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1900.27,
+    "end": 1905.47
+  },
+  {
+    "text": "Most of the time they'll talk about action. Nobody in particle physics approaches particle physics",
+    "uid": "0ce25f76613b0b4d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1905.47,
+    "end": 1911.79
+  },
+  {
+    "text": "from a viewpoint other than least action. But we teach physics historically and at least action is",
+    "uid": "048b18cc9b951b5d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1911.79,
+    "end": 1919.47
+  },
+  {
+    "text": "almost like the new kid on the block for understanding physics. And so yeah we build up to it. But in reality",
+    "uid": "4ce01124e41b39a5",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1919.47,
+    "end": 1924.91
+  },
+  {
+    "text": "I think life is a lot easier once you realize this is underlying principle. Because when you do then all you",
+    "uid": "ba9f1d8a640c3ebc",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1924.91,
+    "end": 1931.39
+  },
+  {
+    "text": "have to do is write down the correct Lagrangian so you get the right action and outcome the laws of physics.",
+    "uid": "6a94d4ef39f73775",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1931.39,
+    "end": 1937.39
+  },
+  {
+    "text": "So you've got a separate Lagrangian for classical mechanics, for special relativity,",
+    "uid": "767fff2dcf62ae89",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1937.95,
+    "end": 1942.51
+  },
+  {
+    "text": "for electrodynamics and so on. It's a single mathematical framework. When you've learned it",
+    "uid": "0e01ee08604a2ca7",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1942.51,
+    "end": 1949.15
+  },
+  {
+    "text": "then you can apply it in different places in exactly the same way. The hunt for the theory of everything.",
+    "uid": "f20f22e9669e5b17",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1949.15,
+    "end": 1955.79
+  },
+  {
+    "text": "Right? The thing that will encompass all of physics. In reality what people are asking is what what is",
+    "uid": "9f7c933c3df76dcf",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1955.79,
+    "end": 1960.35
+  },
+  {
+    "text": "this Lagrangian that can spit out all of the laws of physics in this universe. That's really what",
+    "uid": "aedb1682df23dc6d",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1960.35,
+    "end": 1965.87
+  },
+  {
+    "text": "they're asking. The moment we haven't really found that right because we can we can sticky tape things",
+    "uid": "dee92909df265a27",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1965.95,
+    "end": 1971.39
+  },
+  {
+    "text": "together but we don't know if that's the problematic structure. So that's what people are hunting for.",
+    "uid": "1a7ed7e756ff66fa",
+    "source": "Veritasium - Something_Strange_Happens_When_You_Trust_Quantum_Mechanics",
+    "start": 1971.39,
+    "end": 1976.43
+  }
+]
