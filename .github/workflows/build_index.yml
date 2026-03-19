@@ -1,3 +1,4 @@
+```yaml
 name: Build Index
 
 on:
@@ -35,12 +36,41 @@ jobs:
       - name: Fit attractors
         run: python aureon_attractor_learner.py fit vectorized aureon_attractors
 
-      - name: Commit index + attractors
+      - name: Export merged corpus JSON for Base44
+        run: |
+          python - <<'EOF'
+          import json, pathlib
+
+          vectorized_dir = pathlib.Path("vectorized")
+          all_atoms = []
+          files = sorted(vectorized_dir.glob("*_vectorized.json"))
+          print(f"Merging {len(files)} files...")
+
+          for f in files:
+              try:
+                  atoms = json.loads(f.read_text(encoding="utf-8"))
+                  for a in atoms:
+                      if "vector" in a and "text" in a:
+                          all_atoms.append({
+                              "uid":    a["uid"],
+                              "text":   a["text"],
+                              "source": a.get("source",""),
+                              "vector": a["vector"]
+                          })
+              except Exception as e:
+                  print(f"  SKIP {f.name}: {e}")
+
+          out = pathlib.Path("aureon_corpus_full.json")
+          out.write_text(json.dumps(all_atoms), encoding="utf-8")
+          print(f"Done. {len(all_atoms):,} atoms -> aureon_corpus_full.json ({out.stat().st_size/1e6:.1f} MB)")
+          EOF
+
+      - name: Commit all outputs
         run: |
           git config user.name "Nadine Squires"
           git config user.email "quantumquantara@gmail.com"
-          git add aureon_index/ aureon_attractors
-          git diff --staged --quiet || git commit -m "[auto] Rebuild index $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git add aureon_index/ aureon_attractors aureon_corpus_full.json
+          git diff --staged --quiet || git commit -m "[auto] Rebuild index + corpus $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
