@@ -1,0 +1,4895 @@
+[
+  {
+    "text": "Welcome to Brain Science, the podcast that explores how recent discoveries in neuroscience",
+    "uid": "f549919d5ba7f281",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1.1,
+    "end": 10.38
+  },
+  {
+    "text": "are helping unravel the mystery of how our brain makes us human.",
+    "uid": "fb98d91215264dc9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 10.38,
+    "end": 15.7
+  },
+  {
+    "text": "I'm your host, Dr. Ginger Campbell, and this is episode 209.",
+    "uid": "461367fa4739c048",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 15.7,
+    "end": 20.78
+  },
+  {
+    "text": "Today we'll be talking with Dr. Luis Pessoa about his new book, The Intangled Brain,",
+    "uid": "c8ccbec71c696f90",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 20.78,
+    "end": 27.3
+  },
+  {
+    "text": "How Perception, Cognition and Emotion are woven together.",
+    "uid": "88896c710d130aed",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 27.3,
+    "end": 31.66
+  },
+  {
+    "text": "This is a follow-up to episode 207, which was an on-core plane of our first conversation",
+    "uid": "3c1d170a58482f8c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 31.66,
+    "end": 37.46
+  },
+  {
+    "text": "The content of that episode was probably challenging for many new listeners, but Pessoa's",
+    "uid": "cab1109c9cdecfef",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 39.26,
+    "end": 44.66
+  },
+  {
+    "text": "new book is intended for a more general audience.",
+    "uid": "9ce3f9b1bfeea13d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 44.66,
+    "end": 48.94
+  },
+  {
+    "text": "You can find complete show notes and episode transcripts at brainsciencepodcast.com.",
+    "uid": "7afb375dbae6bbaf",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 48.94,
+    "end": 56.74
+  },
+  {
+    "text": "And you can send me feedback at brainsciencepodcast at gmail.com.",
+    "uid": "497676e27a9e0cf4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 56.74,
+    "end": 60.14
+  },
+  {
+    "text": "I also want to mention that the brainscience mobile app is now called Brain Science podcast.",
+    "uid": "7ecc57f91c394c6f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 60.14,
+    "end": 66.5
+  },
+  {
+    "text": "This app is available for all mobile devices and is a great way to access both free and",
+    "uid": "c5b7ed1a7036d76c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 66.5,
+    "end": 71.5
+  },
+  {
+    "text": "If you're having problems accessing your mylips and premium content, please listen to the end",
+    "uid": "b27cfd2435a2d3e6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 73.22,
+    "end": 79.26
+  },
+  {
+    "text": "of the show for additional information.",
+    "uid": "cefa506842ce5cfe",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 79.26,
+    "end": 82.3
+  },
+  {
+    "text": "If you would like to get episode show notes automatically every month, just sign up for the",
+    "uid": "67e9a68fe46bc252",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 82.3,
+    "end": 86.42
+  },
+  {
+    "text": "free brainscience newsletter, either at brainsciencepodcast.com or by texting brainscience,",
+    "uid": "f58b1997e2f37ac3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 86.42,
+    "end": 92.22
+  },
+  {
+    "text": "all one word to 55444.",
+    "uid": "4a9643ab8a5c1ec3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 92.22,
+    "end": 95.58
+  },
+  {
+    "text": "That's brainscience, all one word to 55444.",
+    "uid": "a5e281882bc7efeb",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 95.58,
+    "end": 100.1
+  },
+  {
+    "text": "When you sign up, you get a free gift entitled 5 Things You Need to Know About Your Brain.",
+    "uid": "894ba43747161e1a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 100.1,
+    "end": 107.1
+  },
+  {
+    "text": "Brainscience relies on the financial support of listeners like you.",
+    "uid": "c5a34953e85fa26b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 107.1,
+    "end": 110.66
+  },
+  {
+    "text": "You can learn more at brainsciencepodcast.com for slash premium.",
+    "uid": "1e735c0abc603b88",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 110.66,
+    "end": 115.38
+  },
+  {
+    "text": "Be sure to keep listening after the interview because I will review the key ideas and",
+    "uid": "48a360df911c6511",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 115.38,
+    "end": 119.86
+  },
+  {
+    "text": "share a few brief announcements.",
+    "uid": "d75f0c265d181f7e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 119.86,
+    "end": 122.1
+  },
+  {
+    "text": "Okay, Luis Pesoy.",
+    "uid": "16f409be0b68d02d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 122.1,
+    "end": 127.6
+  },
+  {
+    "text": "It's so great to talk to you.",
+    "uid": "d4d862746d0bcc4a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 127.6,
+    "end": 129.2
+  },
+  {
+    "text": "Do you realize it's been nine years since the last time we talked?",
+    "uid": "3633c20dba4a3e10",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 129.2,
+    "end": 133.0
+  },
+  {
+    "text": "I'm really excited about talking about your new book, the entangled brain, how perception, cognition,",
+    "uid": "065fb35450b03e3d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 133.0,
+    "end": 139.44
+  },
+  {
+    "text": "and emotion are woven together.",
+    "uid": "8febf54205e24b2a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 139.44,
+    "end": 142.92
+  },
+  {
+    "text": "It seems like this is the book you were dreaming of writing.",
+    "uid": "ccfca04edc2c57b2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 142.92,
+    "end": 147.16
+  },
+  {
+    "text": "The last time we talked, would you like to give us an overview?",
+    "uid": "3798cf406f854e95",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 147.16,
+    "end": 151.92
+  },
+  {
+    "text": "Yeah, I think so.",
+    "uid": "cddca3a0dde7be3b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 151.92,
+    "end": 153.52
+  },
+  {
+    "text": "I think that in a way, this is the book that I wanted to write for a general audience.",
+    "uid": "dff5b49276827ac0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 153.52,
+    "end": 157.2
+  },
+  {
+    "text": "The previous book was a specialized book to researchers, maybe students, graduate students,",
+    "uid": "ecb79b3c9625f959",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 157.2,
+    "end": 162.92
+  },
+  {
+    "text": "and so on.",
+    "uid": "d2503d54ff6143c8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 162.92,
+    "end": 164.28
+  },
+  {
+    "text": "But this is the book that I wanted to write to introduce the notion to the general audience, to just",
+    "uid": "dbe764d68bda9988",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 164.28,
+    "end": 172.04
+  },
+  {
+    "text": "people who like science and I'm just going to know a little bit more about the brain.",
+    "uid": "7e24cc79ec7437ca",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 172.04,
+    "end": 176.92
+  },
+  {
+    "text": "To really be exposed the idea of the brain as this complex system is not only complicated,",
+    "uid": "eeb18a59d61fc600",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 176.92,
+    "end": 183.48
+  },
+  {
+    "text": "lots of things going on, but it's also complex and we can unpack that as we discussed today.",
+    "uid": "58ecacaab031a722",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 183.48,
+    "end": 189.56
+  },
+  {
+    "text": "But the idea, in one sense, is that to a large extent, we need to understand the interactions",
+    "uid": "1a31ab27c4a8bee2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 189.56,
+    "end": 196.36
+  },
+  {
+    "text": "of many parts of the brain working together simultaneously in the generation of behaviors.",
+    "uid": "4144702b1948d567",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 196.36,
+    "end": 203.52
+  },
+  {
+    "text": "So we typically might think that a brain region is fairly specialized or very specialized",
+    "uid": "57770f2eefdaefe4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 203.52,
+    "end": 209.32
+  },
+  {
+    "text": "in some cases and does a function X.",
+    "uid": "82aab7ef6e65b77a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 209.32,
+    "end": 212.72
+  },
+  {
+    "text": "It's involving memory processing.",
+    "uid": "b01e28db0f86d494",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 212.72,
+    "end": 215.04
+  },
+  {
+    "text": "It's a certain kind of visual perception.",
+    "uid": "0389c22986134c85",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 215.04,
+    "end": 218.32
+  },
+  {
+    "text": "It's a certain kind of cognitive operation, a certain kind of emotional process.",
+    "uid": "1cfbee7cab1125f2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 218.32,
+    "end": 226.2
+  },
+  {
+    "text": "But the claim in the book and I tried to write this in a way that invites the reader to consider",
+    "uid": "9cf0c0459d66ac62",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 226.2,
+    "end": 230.94
+  },
+  {
+    "text": "It is really about how regions work together collectively and it's a product of collective",
+    "uid": "cfc61a2466a2c6ce",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 233.28,
+    "end": 238.4
+  },
+  {
+    "text": "computations, if you will, that generate these properties at some times with 10 to a children to",
+    "uid": "154355c497be68ca",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 238.4,
+    "end": 243.68
+  },
+  {
+    "text": "So we tend to put all the intelligence in little pieces of the brain and I'm just trying to encourage",
+    "uid": "324573990775d86b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 245.4,
+    "end": 252.0
+  },
+  {
+    "text": "the reader to think that it's probably or it could be at least in my view, in my framework,",
+    "uid": "168f24a6364289c8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 252.0,
+    "end": 257.28
+  },
+  {
+    "text": "a lot more distributed than we have been thinking about for some time.",
+    "uid": "f9b5a63411e63569",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 257.28,
+    "end": 263.12
+  },
+  {
+    "text": "And we're going to go into that in more detail.",
+    "uid": "a3388f8ef33e8caf",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 263.12,
+    "end": 265.0
+  },
+  {
+    "text": "But I was thinking as I was looking, reading back on the transcript of our first conversation",
+    "uid": "1c0bcc7120f06fa9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 265.0,
+    "end": 271.48
+  },
+  {
+    "text": "that at that time, we talked about the fact that FMRI was just on the cusp of having the",
+    "uid": "3844f1ddce728e47",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 271.48,
+    "end": 280.2
+  },
+  {
+    "text": "resolution to really study sub-cortical structures like the amygdala.",
+    "uid": "dd2577ecef04cd3e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 280.2,
+    "end": 286.44
+  },
+  {
+    "text": "And I was wondering if you could address how the progress in this area has affected our",
+    "uid": "d83aba7daed8e0fe",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 286.44,
+    "end": 294.08
+  },
+  {
+    "text": "understanding of how these things work together.",
+    "uid": "05abf289c0beb282",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 294.08,
+    "end": 298.12
+  },
+  {
+    "text": "Functional MRI is a technique that is sensitive to the overall level or oxygenation in the",
+    "uid": "ad2c26a6510dceee",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 298.12,
+    "end": 302.76
+  },
+  {
+    "text": "So it's a really a democracy-copic micro-level that we're looking at.",
+    "uid": "64dfdce4f1adb26c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 303.76,
+    "end": 307.64
+  },
+  {
+    "text": "We're not looking at one neuron, thousands of neurons.",
+    "uid": "7339c5684b3b4d79",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 307.64,
+    "end": 311.64
+  },
+  {
+    "text": "We're looking at hundreds of thousands of neurons, perhaps a million neurons, in one given",
+    "uid": "0a40b83c09424a6c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 311.64,
+    "end": 316.44
+  },
+  {
+    "text": "pixel unit that we are recording.",
+    "uid": "e86ed35b92557218",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 316.44,
+    "end": 319.48
+  },
+  {
+    "text": "So this is quite distant from where neuroscientists typically feel more comfortable.",
+    "uid": "f41948e68e3ef563",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 319.48,
+    "end": 324.28
+  },
+  {
+    "text": "They like to look at spiking rates or individual neurons in different parts of the brain.",
+    "uid": "b4d46a1703395269",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 324.28,
+    "end": 329.32
+  },
+  {
+    "text": "And since we talked last, at 9, 10 years ago, there has been quite a lot of development in FMRI,",
+    "uid": "c82d537209e55bfc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 329.32,
+    "end": 335.56
+  },
+  {
+    "text": "pushing the technique to be able to scan at higher temporal and spatial resolutions.",
+    "uid": "1cd93d189fc52aac",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 335.56,
+    "end": 341.92
+  },
+  {
+    "text": "But in these 10 years, we've moved the needle a little bit.",
+    "uid": "b0dab727d6bd772b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 341.92,
+    "end": 346.88
+  },
+  {
+    "text": "So instead of having these units in which we collect the data, they're called voxels, they're",
+    "uid": "8013b645748b321c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 346.88,
+    "end": 352.52
+  },
+  {
+    "text": "Instead of having them two, three millimeters on a side, they're a little bit around one millimeter",
+    "uid": "e50387bbdbe9b460",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 354.96,
+    "end": 362.24
+  },
+  {
+    "text": "It's still very large compared to the unit of neuron of function that we want to measure.",
+    "uid": "f1611cc2d88e3611",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 363.24,
+    "end": 368.72
+  },
+  {
+    "text": "And blood oxygenation is because it's blood related.",
+    "uid": "224727fd0337d536",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 368.72,
+    "end": 372.48
+  },
+  {
+    "text": "It's a very slow evolving signal.",
+    "uid": "569ee1a1c5b39778",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 372.48,
+    "end": 374.72
+  },
+  {
+    "text": "So it's very different from the high frequency spiking activity that neurons generate electrochemically.",
+    "uid": "ae1ecd89744a71c1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 374.72,
+    "end": 381.8
+  },
+  {
+    "text": "The hope for FMRI is still there and we keep on pushing the technique because it's the",
+    "uid": "c5585d5e6e2fa7d8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 381.8,
+    "end": 387.16
+  },
+  {
+    "text": "non-invasive technique that we have to study humans.",
+    "uid": "800375af9b23a71d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 387.16,
+    "end": 391.04
+  },
+  {
+    "text": "But in a dream world, we would be using a different technique.",
+    "uid": "3bbdb4e4c114b771",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 391.04,
+    "end": 394.96
+  },
+  {
+    "text": "So if this is science fiction, and we can just make up what we would like to do, we would like",
+    "uid": "7d12dff30708acb9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 394.96,
+    "end": 399.16
+  },
+  {
+    "text": "to have access to neurons or populations of neurons in a much higher both spatial and temporal",
+    "uid": "69fda8443536148d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 399.16,
+    "end": 404.84
+  },
+  {
+    "text": "So we're not there.",
+    "uid": "ab06b4031cfe0a83",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 405.84,
+    "end": 407.64
+  },
+  {
+    "text": "And it's probably going to be the case that we're always going to be limited with this",
+    "uid": "a80ede7c01a4d2ea",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 407.64,
+    "end": 411.48
+  },
+  {
+    "text": "technique, function RMRI, and possibly quite limited in most non-invasive techniques, right?",
+    "uid": "42ec59df7bd0af90",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 411.48,
+    "end": 418.12
+  },
+  {
+    "text": "Because to do certain things, we need to open up the brain and do things that we can't",
+    "uid": "403d3fdafe5365df",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 418.12,
+    "end": 424.24
+  },
+  {
+    "text": "just do from the outside.",
+    "uid": "f810d2f6e5787a52",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 424.24,
+    "end": 425.84
+  },
+  {
+    "text": "And when we're looking from the outside, we get this broader macro picture of what's going on.",
+    "uid": "621189bb47e84d93",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 425.84,
+    "end": 432.44
+  },
+  {
+    "text": "I wanted to just continue at the big picture level and ask you to talk about how the ideas",
+    "uid": "9e0c9d686fb6673d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 432.44,
+    "end": 440.92
+  },
+  {
+    "text": "in your book diverge from traditional thinking.",
+    "uid": "288043bc58904650",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 440.92,
+    "end": 445.96
+  },
+  {
+    "text": "Let me just say one thing, figuring out exactly what is traditional thinking is really hard",
+    "uid": "85330067bc14a4f8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 447.04,
+    "end": 453.2
+  },
+  {
+    "text": "Because once I started talking about these ideas, I wrote the book and whatnot and started talking",
+    "uid": "1216ce7c9f475286",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 454.56,
+    "end": 459.68
+  },
+  {
+    "text": "Even before that, a lot of people say, okay, what's different?",
+    "uid": "048f4a3793ea0bed",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 460.68,
+    "end": 465.6
+  },
+  {
+    "text": "So there's a whole spectrum.",
+    "uid": "f07a0e22be5acd9d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 465.6,
+    "end": 468.24
+  },
+  {
+    "text": "And I think when you push the field a little bit, maybe too much, they push back by saying,",
+    "uid": "3f25124e07392231",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 468.24,
+    "end": 475.28
+  },
+  {
+    "text": "either we knew that a lot, a lot a lot longer, it's not what we really meant.",
+    "uid": "61e99c09d82fa316",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 475.28,
+    "end": 481.92
+  },
+  {
+    "text": "But I do read neuroscience as a field that is very strongly committed to standard reductionism,",
+    "uid": "f67e893b1adeffc1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 481.92,
+    "end": 490.0
+  },
+  {
+    "text": "trying to decompose this complex system, the brain into a set of parts that have well defined",
+    "uid": "6fba7ec382f0e4ae",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 490.0,
+    "end": 497.08
+  },
+  {
+    "text": "With these individual parts having well defined functions, then our task is to put them together,",
+    "uid": "516528a8b4228c2b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 498.64,
+    "end": 504.2
+  },
+  {
+    "text": "of course, we need to understand how they work together to support complex behaviors.",
+    "uid": "91bf5f4a7ced38b0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 504.2,
+    "end": 510.56
+  },
+  {
+    "text": "But it's very much anchored on this notion that is traditional in science, which is let's divide",
+    "uid": "d6366980f084bcc3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 510.56,
+    "end": 518.12
+  },
+  {
+    "text": "Let's divide this complex problem into simpler problems that are more tractable.",
+    "uid": "330a092fdbde713f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 519.12,
+    "end": 524.76
+  },
+  {
+    "text": "And the brain should be amenable to that because from what we think about it, it has these different",
+    "uid": "668a962e100f492d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 524.76,
+    "end": 530.32
+  },
+  {
+    "text": "parts and the different parts probably, or the idea is, have these individual functions.",
+    "uid": "97f7a8e022ccd461",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 530.32,
+    "end": 536.44
+  },
+  {
+    "text": "And then if only we're clever enough, we'll figure out the individual functions are, and we'll",
+    "uid": "c50f0349a2e81b92",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 536.44,
+    "end": 541.2
+  },
+  {
+    "text": "gradually come to a deeper understanding when we put them back together.",
+    "uid": "6bec213cd7ac7e5c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 541.2,
+    "end": 545.44
+  },
+  {
+    "text": "We build it back together, compose the whole system that we decomposed, back up, and then we have",
+    "uid": "9a4fa05072112554",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 545.44,
+    "end": 550.68
+  },
+  {
+    "text": "a better picture.",
+    "uid": "a59fbdf7a419a924",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 550.68,
+    "end": 551.96
+  },
+  {
+    "text": "So I do think that my proposal, my view, goes against that notion, and whether that's",
+    "uid": "11a94370d3386afd",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 551.96,
+    "end": 560.04
+  },
+  {
+    "text": "a standard notion, the extent to which people really believe that you can break it in these",
+    "uid": "cce74dab4f4a7607",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 560.04,
+    "end": 566.32
+  },
+  {
+    "text": "individual functions, I think that people will stay in different ways in different contexts.",
+    "uid": "3c5a6370b80842d0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 566.32,
+    "end": 570.88
+  },
+  {
+    "text": "So that's the part that I have more difficulty.",
+    "uid": "f783a9c975c11d72",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 570.88,
+    "end": 573.68
+  },
+  {
+    "text": "But at least the way that we typically talk about the brain and their plenty of books out there,",
+    "uid": "9e83a5204fd3c3f1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 573.68,
+    "end": 578.64
+  },
+  {
+    "text": "we have a very strong tendency of breaking things down.",
+    "uid": "cc9ea70ac21ab22a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 578.64,
+    "end": 581.24
+  },
+  {
+    "text": "The amygdala does this, the stradum does that, this part of cortex does this other function.",
+    "uid": "00398ff9223acde6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 581.24,
+    "end": 587.48
+  },
+  {
+    "text": "And so I think that we still have that very ingrained in our way of thinking, and at least",
+    "uid": "084a183dbd180b56",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 587.48,
+    "end": 591.52
+  },
+  {
+    "text": "of communicating things to a broader audience.",
+    "uid": "44818c3fe13b0d67",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 591.52,
+    "end": 594.36
+  },
+  {
+    "text": "I mean, when it comes to the broader audience, they are not aware of the more subtle parts of the",
+    "uid": "c8035da10e8e45dd",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 595.36,
+    "end": 603.2
+  },
+  {
+    "text": "conversation going on in neuroscience.",
+    "uid": "cb4ec0a3c0bb85d6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 603.2,
+    "end": 605.28
+  },
+  {
+    "text": "And all they get is the oversimplified modular view.",
+    "uid": "5549b94a491ad294",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 605.28,
+    "end": 610.88
+  },
+  {
+    "text": "And then the other thing you talked about in the book that I thought was really interesting",
+    "uid": "b39c073d1b58a209",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 610.88,
+    "end": 615.52
+  },
+  {
+    "text": "was the hierarchal part, the assumption that the brain operates in a hierarchal way that really",
+    "uid": "409ee9a1e454af8c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 615.52,
+    "end": 624.08
+  },
+  {
+    "text": "reflects the society in which neuroscience first emerged, which was a Victorian, very hierarchal",
+    "uid": "d6d372ab065a5268",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 624.08,
+    "end": 631.8
+  },
+  {
+    "text": "way of looking at the world.",
+    "uid": "81564aa4a0a2da3b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 631.8,
+    "end": 634.88
+  },
+  {
+    "text": "One of the things I really appreciate about your book is that it really comes down to saying,",
+    "uid": "1c0a49bd575eb8e8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 634.88,
+    "end": 639.76
+  },
+  {
+    "text": "me, when we ask what an area does, is that really the wrong question?",
+    "uid": "a1138d310fca09cc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 639.76,
+    "end": 648.08
+  },
+  {
+    "text": "I say often on my show, asking where is the wrong question.",
+    "uid": "923a0b2e0cf2f716",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 648.08,
+    "end": 652.12
+  },
+  {
+    "text": "And I think your book does a great job of explaining why it's the wrong question.",
+    "uid": "aee8df15ad934cc6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 652.12,
+    "end": 660.0
+  },
+  {
+    "text": "I share that view as you know.",
+    "uid": "1ec19211c17c4b8b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 660.0,
+    "end": 661.56
+  },
+  {
+    "text": "And I really think that we really need to move to a more collective way of thinking, a collective",
+    "uid": "0676f2375443dd72",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 661.56,
+    "end": 667.8
+  },
+  {
+    "text": "computation, collective functioning of this system.",
+    "uid": "d1821ca6cfc4400e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 667.8,
+    "end": 671.6
+  },
+  {
+    "text": "If we're going to make progress and understanding the really hard problems which are not the laboratory",
+    "uid": "b7ea586c9e8b32d2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 671.6,
+    "end": 677.72
+  },
+  {
+    "text": "problems that we can now do.",
+    "uid": "bf9428fc50557c47",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 677.72,
+    "end": 679.64
+  },
+  {
+    "text": "Put a person in this can, there's only so much that we can study.",
+    "uid": "796dec322da68d8b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 679.64,
+    "end": 682.6
+  },
+  {
+    "text": "We have an animal in a lab experiment.",
+    "uid": "0e13ef0b55fcda3d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 682.6,
+    "end": 686.0
+  },
+  {
+    "text": "They can't be embedded in their natural environment, with their natural habitat, with predators,",
+    "uid": "d15e5baacb8a46fc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 686.0,
+    "end": 692.0
+  },
+  {
+    "text": "with prey, with their energetic constraints.",
+    "uid": "8994ce73b07ea4ea",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 692.0,
+    "end": 695.28
+  },
+  {
+    "text": "They have to obtain food and so on.",
+    "uid": "782c01780d189bdc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 695.28,
+    "end": 697.32
+  },
+  {
+    "text": "They have to mate.",
+    "uid": "208af558f3879cd5",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 697.32,
+    "end": 698.32
+  },
+  {
+    "text": "They have to take care of the young.",
+    "uid": "d0661a63cadbf207",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 698.32,
+    "end": 701.0
+  },
+  {
+    "text": "As we move to these kinds of questions, my bet is that we're going to start to understand more",
+    "uid": "cde5dfd621895dd4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 701.0,
+    "end": 705.92
+  },
+  {
+    "text": "and more and more the limitations of this traditional approach that we have developed, which",
+    "uid": "db1d84327cf969ff",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 705.92,
+    "end": 711.6
+  },
+  {
+    "text": "was very well suited for these laboratory experiments that we've been performing in well-controlled",
+    "uid": "74076c1772879b7d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 711.6,
+    "end": 717.28
+  },
+  {
+    "text": "But I think they truly approximate the conditions under which we really need to study the system.",
+    "uid": "61117fb33c4b44ad",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 718.48,
+    "end": 723.6
+  },
+  {
+    "text": "And we really would like to.",
+    "uid": "b2848a2f1699dd31",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 723.6,
+    "end": 724.6
+  },
+  {
+    "text": "And we just don't because scientists want to control everything and we can't control everything",
+    "uid": "3805c0f15ba77b99",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 724.6,
+    "end": 729.4
+  },
+  {
+    "text": "and then we put it in the lab and we say, just to disisolate it cognitive aspect.",
+    "uid": "fd1e787672b3090b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 729.4,
+    "end": 735.72
+  },
+  {
+    "text": "But here's the isolated.",
+    "uid": "299d2babc5c27aec",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 735.72,
+    "end": 737.92
+  },
+  {
+    "text": "We start looking like that guy who's looking for his keys under the lamp even though he knows",
+    "uid": "dabbcca28c2098ef",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 737.92,
+    "end": 742.24
+  },
+  {
+    "text": "they're not there.",
+    "uid": "bd608cee248b9b8f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 742.24,
+    "end": 744.24
+  },
+  {
+    "text": "I'm not going on that one, but he had it.",
+    "uid": "ea019584718da3ba",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 744.24,
+    "end": 746.92
+  },
+  {
+    "text": "I think it's very much so.",
+    "uid": "d8e58162b7de56d4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 746.92,
+    "end": 748.48
+  },
+  {
+    "text": "I think that we end up doing that too much.",
+    "uid": "6ff5e91f8417ab29",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 748.48,
+    "end": 750.64
+  },
+  {
+    "text": "So we have these kinds of equipments, these techniques.",
+    "uid": "fcbf8354cb4a498c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 750.64,
+    "end": 753.08
+  },
+  {
+    "text": "We have functional MRI.",
+    "uid": "59f4285a067c239b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 753.08,
+    "end": 754.56
+  },
+  {
+    "text": "We have recordings of a certain kind and then we can only do certain experiments that is a",
+    "uid": "85b33a2777a936c1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 754.56,
+    "end": 760.36
+  },
+  {
+    "text": "little bit like looking for the keys under the light.",
+    "uid": "13247faad75f8768",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 760.36,
+    "end": 764.36
+  },
+  {
+    "text": "And we're pretty much hoping that the keys are somewhere around not too far.",
+    "uid": "e4a236f9bd8ccc21",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 764.36,
+    "end": 769.88
+  },
+  {
+    "text": "But there are days that I'm not very optimistic about that.",
+    "uid": "09bb9629f68f5f22",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 769.88,
+    "end": 774.24
+  },
+  {
+    "text": "And I think a lot of other neurosciences are becoming more worried about that and there's a lot",
+    "uid": "a7a0e31bede1b8d5",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 774.24,
+    "end": 778.72
+  },
+  {
+    "text": "of a younger generation that is pushing very hard for more naturalistic ways of studying",
+    "uid": "01bfab186cc711f0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 779.28,
+    "end": 783.72
+  },
+  {
+    "text": "paradigms and ways of studying.",
+    "uid": "87816ffa0103f959",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 783.72,
+    "end": 786.12
+  },
+  {
+    "text": "And I think it's going to be very fruitful and very excited about these new ways of thinking",
+    "uid": "738dbe75f0ce35da",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 787.12,
+    "end": 791.44
+  },
+  {
+    "text": "about it and studying animals and us humans and animals.",
+    "uid": "44fc6658ceafd142",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 791.44,
+    "end": 796.36
+  },
+  {
+    "text": "One of the things is that our technology always influences how we understand brain function.",
+    "uid": "ab8087ecbf99e409",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 796.36,
+    "end": 802.48
+  },
+  {
+    "text": "If we just measured random neurons like they did at the beginning, we got one",
+    "uid": "af126e8b27930f1b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 802.48,
+    "end": 808.48
+  },
+  {
+    "text": "And now we have these techniques where we can measure many more neurons.",
+    "uid": "bd771b966ee06931",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 809.96,
+    "end": 814.4
+  },
+  {
+    "text": "You get it entirely different picture.",
+    "uid": "5d602621652a3e83",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 814.4,
+    "end": 816.08
+  },
+  {
+    "text": "You find out that even within a certain area, they're not all doing the same thing.",
+    "uid": "058d4dbaba551f9c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 816.08,
+    "end": 820.84
+  },
+  {
+    "text": "Yeah, we're learning so much right as you say these new techniques now, they can record thousands",
+    "uid": "bc32011c99d62370",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 820.84,
+    "end": 826.28
+  },
+  {
+    "text": "of neurons simultaneously.",
+    "uid": "175bd51238c57768",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 826.28,
+    "end": 827.76
+  },
+  {
+    "text": "It's really incredible.",
+    "uid": "e30c797e62b771d0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 827.76,
+    "end": 828.92
+  },
+  {
+    "text": "And even in multiple parts of the brain, let's say the visual cortex and prefrontal cortex.",
+    "uid": "5b93749ed2050eb2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 828.92,
+    "end": 834.08
+  },
+  {
+    "text": "And so as we start doing that more and more, the picture that is emerging is starting",
+    "uid": "030da8af76fcc09c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 834.08,
+    "end": 838.64
+  },
+  {
+    "text": "to be different.",
+    "uid": "1ddd626147e69e42",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 838.64,
+    "end": 840.04
+  },
+  {
+    "text": "And as much more dynamic, much more context dependent, much more state dependent, the state",
+    "uid": "1ce9413aec55e9bc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 840.04,
+    "end": 846.08
+  },
+  {
+    "text": "of the organism and my well fed and healthy or my injured or where my being challenged.",
+    "uid": "2ab5939665b77808",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 846.08,
+    "end": 853.56
+  },
+  {
+    "text": "It's my body being challenged in ways that I need to devote resources to it that it changes",
+    "uid": "35578424fc09f11a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 853.56,
+    "end": 858.88
+  },
+  {
+    "text": "And we're finding that only now that we are able to record simultaneously across many parts",
+    "uid": "f03e1dfa1aea00de",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 859.88,
+    "end": 865.68
+  },
+  {
+    "text": "of the brain with thousands of sensors simultaneously.",
+    "uid": "56c18aa5cfc283e5",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 865.68,
+    "end": 870.0
+  },
+  {
+    "text": "Another important thing in your book is the fact that we don't know as much as people often",
+    "uid": "f3667d03fb4a35a4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 870.0,
+    "end": 875.88
+  },
+  {
+    "text": "We talk about that.",
+    "uid": "1f54ff625a9180b6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 877.88,
+    "end": 879.68
+  },
+  {
+    "text": "That was one of the things that I really wanted to talk about, which is a few years ago, I",
+    "uid": "8c858c39940b6738",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 879.68,
+    "end": 885.24
+  },
+  {
+    "text": "was reviewing reading a book by Ralph Adolf's Anderson from Caltech.",
+    "uid": "467421308630cf84",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 885.24,
+    "end": 890.36
+  },
+  {
+    "text": "And I know that even to review, I think both of them.",
+    "uid": "0d5ae9c55c1bdfcd",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 890.36,
+    "end": 894.08
+  },
+  {
+    "text": "I was really surprised, but really thought it was really so refreshing that we they described",
+    "uid": "681e717c883c37d6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 894.08,
+    "end": 900.4
+  },
+  {
+    "text": "the problems as we know so little.",
+    "uid": "19dc176ecfb32ed4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 900.4,
+    "end": 904.6
+  },
+  {
+    "text": "We know very little still and we really have to be optimistic.",
+    "uid": "53c927e08afcec02",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 904.6,
+    "end": 909.68
+  },
+  {
+    "text": "We scientists are very optimistic.",
+    "uid": "fc25880ef1415f07",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 909.68,
+    "end": 911.4
+  },
+  {
+    "text": "But we have to be more open about the little that we know when I said to write this book,",
+    "uid": "46b31cf6c198d5e5",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 911.72,
+    "end": 916.64
+  },
+  {
+    "text": "to a general audience, I didn't want to over promise and say, look, this is how the brain works.",
+    "uid": "3ce0388b2dcfc53f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 916.64,
+    "end": 921.68
+  },
+  {
+    "text": "We know all of this.",
+    "uid": "8b6e774b1404e960",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 921.68,
+    "end": 923.56
+  },
+  {
+    "text": "I wanted to welcome questioning a little bit like we neuroscientists question the ways in which",
+    "uid": "2d3864ae9bfd55d5",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 923.56,
+    "end": 929.8
+  },
+  {
+    "text": "we're getting interpret the data, how we can put findings together, how we can develop new",
+    "uid": "01d77e716e86b901",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 929.8,
+    "end": 933.88
+  },
+  {
+    "text": "paradigms, new techniques.",
+    "uid": "30a7967f80b1e4e8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 933.88,
+    "end": 935.4
+  },
+  {
+    "text": "And I wanted the reader to have a little bit of a sense that it's not in any way",
+    "uid": "46944d9823d19cf2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 935.4,
+    "end": 941.36
+  },
+  {
+    "text": "by any means any a finished product is very much a growing body of knowledge that is always",
+    "uid": "7d2d6f1f1bad4c1c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 941.36,
+    "end": 948.04
+  },
+  {
+    "text": "more things slightly different directions and growing and reforming and reformulating the questions",
+    "uid": "3e184410ee0c8792",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 948.04,
+    "end": 953.16
+  },
+  {
+    "text": "that we think are important.",
+    "uid": "30c9f77a171a6c36",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 953.16,
+    "end": 955.28
+  },
+  {
+    "text": "It's really very dynamic.",
+    "uid": "0d68bb33a288fe8d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 955.28,
+    "end": 957.08
+  },
+  {
+    "text": "I wanted a reader to understand that it's not a fixed product that they're consuming so to speak,",
+    "uid": "cfbd05d7171daefe",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 957.08,
+    "end": 962.44
+  },
+  {
+    "text": "but it's a very much ongoing evolving narrative that I think at the core, it's how science",
+    "uid": "a15506fd5ef40d06",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 962.44,
+    "end": 969.92
+  },
+  {
+    "text": "It's my view of science.",
+    "uid": "0cdfc08e469babd7",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 970.92,
+    "end": 971.92
+  },
+  {
+    "text": "It's not something that we as we reading textbooks and we get fascinated by science when",
+    "uid": "5748f86a99b6c85a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 971.92,
+    "end": 976.28
+  },
+  {
+    "text": "we're young by reading textbooks that presented as a very static object, but it's hugely",
+    "uid": "f469c499ac03df8b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 976.28,
+    "end": 981.2
+  },
+  {
+    "text": "It's amazing that anybody gets into science given the way that it's taught as a bunch of set",
+    "uid": "8f52713ca532cb94",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 982.2,
+    "end": 987.36
+  },
+  {
+    "text": "That's really boring.",
+    "uid": "2dc4622e58b5136e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 988.36,
+    "end": 989.36
+  },
+  {
+    "text": "The reality is a lot more interesting.",
+    "uid": "44a5f3d147c709c9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 989.36,
+    "end": 993.28
+  },
+  {
+    "text": "So getting back to the modular view of the brain since it's been a dominant view and it's",
+    "uid": "0e614bb0eceab231",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 993.28,
+    "end": 998.44
+  },
+  {
+    "text": "really been dominated by this attention to particular areas of the cortex and then now",
+    "uid": "4f429f70278d6d51",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 998.44,
+    "end": 1005.16
+  },
+  {
+    "text": "to some sub-fortical areas, especially the meggulas of one that many people have heard of.",
+    "uid": "4649846c72f83485",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1005.16,
+    "end": 1011.24
+  },
+  {
+    "text": "So perhaps we could use the amygdala because in your book you take several different parts",
+    "uid": "e5aeff03cd854702",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1011.24,
+    "end": 1016.36
+  },
+  {
+    "text": "of the brain and explain what we know about them in isolation and then talk about how they",
+    "uid": "38e568e71cd488bd",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1016.36,
+    "end": 1021.4
+  },
+  {
+    "text": "actually gets more complicated when we have to look at them along with other parts.",
+    "uid": "b496633e5525a267",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1021.4,
+    "end": 1026.76
+  },
+  {
+    "text": "But could you just take the migdala for a minute to illustrate some of these key ideas",
+    "uid": "e58aa3c7d0ad0354",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1026.76,
+    "end": 1033.4
+  },
+  {
+    "text": "in your book?",
+    "uid": "909f2dacacc00fcd",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1033.4,
+    "end": 1034.4
+  },
+  {
+    "text": "So the amygdala is this fascinating structure that has in our general culture associated with",
+    "uid": "06f059adf0896e01",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1034.4,
+    "end": 1040.92
+  },
+  {
+    "text": "fear or emotion with negative emotional processing.",
+    "uid": "e4d7e26d6ac1ccb6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1040.92,
+    "end": 1045.68
+  },
+  {
+    "text": "There's a reason for that.",
+    "uid": "e994c878777fe85d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1045.68,
+    "end": 1046.68
+  },
+  {
+    "text": "It has been studied for many decades in that context.",
+    "uid": "3be43c7f9c9fde44",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1046.68,
+    "end": 1049.32
+  },
+  {
+    "text": "It has been studied in the context of fear conditioning or a verse of conditioning in which",
+    "uid": "10e44edb4fe04235",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1049.32,
+    "end": 1055.24
+  },
+  {
+    "text": "a stimulus that's a light or a sound is paired with an aversive shock for instance.",
+    "uid": "64447abd014e3207",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1055.24,
+    "end": 1060.04
+  },
+  {
+    "text": "And the animal learns this association and treats the light or the sound that were benign at first",
+    "uid": "14c58a179a1a75f6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1060.04,
+    "end": 1066.12
+  },
+  {
+    "text": "as a verse of events.",
+    "uid": "cea714f80eb9e786",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1066.12,
+    "end": 1068.24
+  },
+  {
+    "text": "Their physiological changes in the animal that they would have with an inherently aversive stimulus",
+    "uid": "085c357eae77e996",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1068.24,
+    "end": 1073.48
+  },
+  {
+    "text": "such as the shock itself.",
+    "uid": "430fae7d1b27ddab",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1073.48,
+    "end": 1075.52
+  },
+  {
+    "text": "And it has been shown that the amygdala is really critical to the learning of this association.",
+    "uid": "5af2b4ea8026c3fc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1075.52,
+    "end": 1080.76
+  },
+  {
+    "text": "In fact, without the amygdala, it is very difficult for animals and humans given that",
+    "uid": "b2bf00cb58c1813d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1080.76,
+    "end": 1087.72
+  },
+  {
+    "text": "they're rare individuals with bilateral amygdala lesions naturally occurring because of classification",
+    "uid": "66b314b18c3f3a67",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1087.72,
+    "end": 1094.76
+  },
+  {
+    "text": "of the tissue of the amygdala that they are really incapable of learning these relationships",
+    "uid": "f98a9e612c4d0299",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1094.76,
+    "end": 1102.6
+  },
+  {
+    "text": "between a neutral event and aversive event in a way that is fast in a few trials.",
+    "uid": "97d36552c62b7f13",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1102.6,
+    "end": 1108.56
+  },
+  {
+    "text": "They still can learn it, but it takes a very long time.",
+    "uid": "b68dccfc2f7a055c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1108.56,
+    "end": 1112.32
+  },
+  {
+    "text": "So their amygdala is really key to this fear learning if you will.",
+    "uid": "c1b4c72c38cdd56e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1112.32,
+    "end": 1115.8
+  },
+  {
+    "text": "And others prefer not to use the word fear.",
+    "uid": "bdde76b915a0d950",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1115.8,
+    "end": 1119.0
+  },
+  {
+    "text": "Fear is something that according to some people might be something that requires the feeling",
+    "uid": "eed0e8ae66f50ef6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1119.0,
+    "end": 1124.0
+  },
+  {
+    "text": "and the cautious aspect of it being more linked to how humans experience it.",
+    "uid": "f02fd231dc7519f9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1124.0,
+    "end": 1129.64
+  },
+  {
+    "text": "But calling it fear or aversive conditioning, the point of the fact is that animals are self-included",
+    "uid": "e6b33a668f2fb313",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1129.64,
+    "end": 1137.28
+  },
+  {
+    "text": "and really require the amygdala to establish this relationship.",
+    "uid": "b0f1ff3dde737b92",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1137.28,
+    "end": 1141.44
+  },
+  {
+    "text": "So in some way that would be interesting to track down sociologically, became ingrained in society",
+    "uid": "cdfaf59eeacb41a6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1141.44,
+    "end": 1147.56
+  },
+  {
+    "text": "that is this region of fear in the brain.",
+    "uid": "46261399f7f37682",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1147.56,
+    "end": 1151.52
+  },
+  {
+    "text": "So as this complex set of sociological developments that led to that view.",
+    "uid": "3b1f6a810e8bf9d6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1151.52,
+    "end": 1157.52
+  },
+  {
+    "text": "And it is true that it has this involvement, it's really critical.",
+    "uid": "1ec43e201aaa86f8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1157.52,
+    "end": 1161.8
+  },
+  {
+    "text": "But the fascinating aspect, Ginger, is that when we study the amygdala and we have studied",
+    "uid": "cbb43a8b2a02b13f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1161.8,
+    "end": 1167.96
+  },
+  {
+    "text": "the amygdala neuroscience for many decades now, then we learn of its involvement in many other",
+    "uid": "0718cab25bcd9fca",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1167.96,
+    "end": 1176.64
+  },
+  {
+    "text": "realms that are incredibly diverse.",
+    "uid": "4197b57a2dd886f4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1176.64,
+    "end": 1180.04
+  },
+  {
+    "text": "We find that amygdala is really important in reward-related processing.",
+    "uid": "f372405c19f42924",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1180.04,
+    "end": 1184.2
+  },
+  {
+    "text": "It's not a primitive structure learning some basic concern of relationship between a neutral",
+    "uid": "a6a1c81494a0370f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1184.2,
+    "end": 1189.4
+  },
+  {
+    "text": "and a diverse type of information.",
+    "uid": "78283995f3a35733",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1189.4,
+    "end": 1192.0
+  },
+  {
+    "text": "It has been shown to be important for economic decision-making, for decisions involving",
+    "uid": "7b25154bc3fee329",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1192.0,
+    "end": 1197.2
+  },
+  {
+    "text": "social interactions that are primate might have.",
+    "uid": "d15c3fcf3f45b464",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1197.2,
+    "end": 1200.2
+  },
+  {
+    "text": "It is important for intentional processes.",
+    "uid": "fb1fe6566219161f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1200.2,
+    "end": 1203.64
+  },
+  {
+    "text": "It's important for decision-making.",
+    "uid": "aae4e4ea3214ed5a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1203.64,
+    "end": 1206.32
+  },
+  {
+    "text": "So the range of its functions and its contributions to functions is really astounding.",
+    "uid": "4a5826749e20bb32",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1206.32,
+    "end": 1212.32
+  },
+  {
+    "text": "It is really incredible, it's fascinating.",
+    "uid": "40d097c1327b0bf1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1212.32,
+    "end": 1214.76
+  },
+  {
+    "text": "So if we have that picture of it as the fierce center, we're really distorting things",
+    "uid": "f63f3cc96cf2d735",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1214.76,
+    "end": 1221.08
+  },
+  {
+    "text": "to the extent that we're just characterizing something that is really multifunctional and",
+    "uid": "5909f9d0f3eff440",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1221.08,
+    "end": 1228.32
+  },
+  {
+    "text": "multifactorial is involving multiple things by just highlighting one of them.",
+    "uid": "6df54e4150c97de0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1228.32,
+    "end": 1234.32
+  },
+  {
+    "text": "And so it feels that one of them is important, but it feels rather arbitrary to just focus",
+    "uid": "583ccd3a1e8dd474",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1234.32,
+    "end": 1238.96
+  },
+  {
+    "text": "on one of them.",
+    "uid": "75bacae93d32b7a5",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1238.96,
+    "end": 1240.4
+  },
+  {
+    "text": "So I think that we need to learn with the more challenging way of describing functions",
+    "uid": "2565e4cb7c60f967",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1240.4,
+    "end": 1246.06
+  },
+  {
+    "text": "of regions as much a more multifunctional and being comfortable with that.",
+    "uid": "c6c9818d5b452b2c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1246.06,
+    "end": 1250.92
+  },
+  {
+    "text": "The fact that I can't just describe you with the color of your hair or the color of your shirt.",
+    "uid": "851dbcabae306725",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1250.92,
+    "end": 1257.44
+  },
+  {
+    "text": "We have multiple attributes that jointly in multiple contexts define who we are.",
+    "uid": "7fddceaad7a30581",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1257.44,
+    "end": 1263.08
+  },
+  {
+    "text": "And these regions also are very complex and we need this kind of complexity to describe them.",
+    "uid": "7320bc55a0d1be5e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1263.08,
+    "end": 1268.6
+  },
+  {
+    "text": "Right, and I went to medical school almost 40 years ago now and back then, in",
+    "uid": "b01094ae0f1d9dbf",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1268.6,
+    "end": 1275.24
+  },
+  {
+    "text": "Magdala, never heard of it.",
+    "uid": "244e6a55b2aa74c6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1275.24,
+    "end": 1277.48
+  },
+  {
+    "text": "The structure that we talked about was the hypotherms.",
+    "uid": "9fcdb613430bd10b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1277.48,
+    "end": 1281.52
+  },
+  {
+    "text": "Right, hypotherms of course.",
+    "uid": "8163e278b84f02ef",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1281.52,
+    "end": 1284.0
+  },
+  {
+    "text": "That was the early center of the emotional brain, right?",
+    "uid": "fd13488df9a7bf8c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1284.0,
+    "end": 1287.08
+  },
+  {
+    "text": "As you know, we would learn the limbic system as defined by its connections with the hypotherms.",
+    "uid": "f32972bd01120705",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1287.08,
+    "end": 1294.52
+  },
+  {
+    "text": "If you have a direct connection to the hypotherms, you're part of this system because",
+    "uid": "3baf7de87a5b802a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1294.52,
+    "end": 1298.84
+  },
+  {
+    "text": "you have direct contact with the center of the emotional brain, the hypotherms.",
+    "uid": "6826abf815b95965",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1298.84,
+    "end": 1303.92
+  },
+  {
+    "text": "We put that aside for a while and we switched it with the amygdala and this story doesn't",
+    "uid": "05486aab606d8b3c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1303.92,
+    "end": 1308.28
+  },
+  {
+    "text": "work with the amygdala either.",
+    "uid": "d309234a34407fd9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1308.28,
+    "end": 1309.8
+  },
+  {
+    "text": "They're incredibly important structures for emotional processing.",
+    "uid": "0aa86a342a0c5f9d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1309.8,
+    "end": 1313.96
+  },
+  {
+    "text": "I'm not taking that away, of course.",
+    "uid": "ca69394ce2d6bcd0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1313.96,
+    "end": 1316.0
+  },
+  {
+    "text": "No one is going to deny that, but we have to understand how they operate jointly with other",
+    "uid": "a27be62ca34d4de2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1316.0,
+    "end": 1321.76
+  },
+  {
+    "text": "regions and we have to understand how they operate in and perform other functions.",
+    "uid": "e0e95a6443cfcf70",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1321.76,
+    "end": 1326.84
+  },
+  {
+    "text": "So is this complex mapping, right?",
+    "uid": "fd93bf3de9c41ac8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1326.84,
+    "end": 1328.84
+  },
+  {
+    "text": "Many, too many, not just one to one.",
+    "uid": "b1cb19615cfa94c7",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1328.84,
+    "end": 1332.4
+  },
+  {
+    "text": "So since you mentioned the limbic system, I'm going to go ahead and ask you something that",
+    "uid": "f49d8a3ec6e43706",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1332.4,
+    "end": 1337.28
+  },
+  {
+    "text": "was going to ask, at some point, one of the modular ideas that just won't go away is the limbic",
+    "uid": "9143bc3e70c28c93",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1337.28,
+    "end": 1345.16
+  },
+  {
+    "text": "Could you just talk about why this idea is both outdated and wrong?",
+    "uid": "0317485c6e1e4ebb",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1346.16,
+    "end": 1351.72
+  },
+  {
+    "text": "That's my big screening test.",
+    "uid": "284c578b5280c4f9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1351.72,
+    "end": 1353.52
+  },
+  {
+    "text": "Every time I get a book, if it has limbic system.",
+    "uid": "3df2f3e8345c6e7d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1353.52,
+    "end": 1356.36
+  },
+  {
+    "text": "Actually, it has a day that it's so much, should I even name it?",
+    "uid": "55578c73f0057751",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1356.36,
+    "end": 1360.76
+  },
+  {
+    "text": "Should I even contribute to perpetuating the existence by naming the limbic system?",
+    "uid": "1fe4bb915e31195a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1360.76,
+    "end": 1367.28
+  },
+  {
+    "text": "And I go back and forth with this, as I talk to people, right, in general, review papers or chapters",
+    "uid": "60b705c6da28d5d7",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1367.28,
+    "end": 1374.6
+  },
+  {
+    "text": "or review chapters.",
+    "uid": "29cfa5f273a2f047",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1374.6,
+    "end": 1376.76
+  },
+  {
+    "text": "As it became completely enshrined and taught across medical schools, especially, that there's",
+    "uid": "ceb0e0d10f3d438e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1376.76,
+    "end": 1382.84
+  },
+  {
+    "text": "a specialized system, the limbic system that is dedicated to emotional processing.",
+    "uid": "61edd27a5ed55f48",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1382.84,
+    "end": 1389.28
+  },
+  {
+    "text": "Those were incredibly interesting ideas that started in the 30s, in 1937, with Puppets, the",
+    "uid": "ae9bb649b972f917",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1389.28,
+    "end": 1396.12
+  },
+  {
+    "text": "circuit of Puppets, and then in the late 40s, with McLean and the Triune Brain.",
+    "uid": "e1e40a87448ac0d9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1396.12,
+    "end": 1403.72
+  },
+  {
+    "text": "Those were valuable interesting concepts, but they're so outdated now, because we've",
+    "uid": "f2a939306d6f9eda",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1403.72,
+    "end": 1408.72
+  },
+  {
+    "text": "learned that the regions that were supposed to be their central emotion are involving so many",
+    "uid": "ab6588426b9f6c90",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1408.72,
+    "end": 1415.36
+  },
+  {
+    "text": "other functions, and mainly in other functions.",
+    "uid": "33bd28a2f3fec2f0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1415.36,
+    "end": 1419.08
+  },
+  {
+    "text": "And vice versa, we learned that other brain regions that are really important in the emotion,",
+    "uid": "cc4698535f785e86",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1419.08,
+    "end": 1422.6
+  },
+  {
+    "text": "it were not part of the limbic system.",
+    "uid": "9c9cb0a2fed6f6dc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1422.6,
+    "end": 1425.96
+  },
+  {
+    "text": "And up with the situation where people say limbic system is just what our current understanding of",
+    "uid": "514c45783a9c7b2b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1425.96,
+    "end": 1432.68
+  },
+  {
+    "text": "the emotional brain is, there's no contribution to the concept there.",
+    "uid": "52203197cae34f73",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1432.68,
+    "end": 1437.52
+  },
+  {
+    "text": "If we're going to use it synonymously with emotional brain, it doesn't stand for something on",
+    "uid": "4ea38cf313f4f423",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1437.52,
+    "end": 1442.36
+  },
+  {
+    "text": "its own, and it just makes us confused as to exactly what is meant, is that the original meaning",
+    "uid": "b4977bdcc960c84c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1442.36,
+    "end": 1449.84
+  },
+  {
+    "text": "from 1949 is that the further developments in the subsequent decades is it now from 2023.",
+    "uid": "9b21313530164d57",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1449.84,
+    "end": 1457.28
+  },
+  {
+    "text": "So it really doesn't stand the test of time, and I think we really should be letting it go",
+    "uid": "e7fc52e8e010145f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1457.28,
+    "end": 1462.64
+  },
+  {
+    "text": "but neuroscientists are obsessed with the term as much as anyone else, and they seem to",
+    "uid": "bd8769e4255f40f9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1462.64,
+    "end": 1469.36
+  },
+  {
+    "text": "not let it go, and they say, oh, and just need to define it properly.",
+    "uid": "93460f3066b82202",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1469.36,
+    "end": 1474.56
+  },
+  {
+    "text": "I think if we were robots that always define everything perfectly with the statement, this is",
+    "uid": "5e64202a4e338697",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1474.56,
+    "end": 1480.44
+  },
+  {
+    "text": "what I mean and what not, and just speak for hours saying exactly what you mean with some description",
+    "uid": "97c46d2804e98262",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1480.44,
+    "end": 1486.04
+  },
+  {
+    "text": "of everything you mean, maybe that would be fine, but we have to agree a little bit when",
+    "uid": "29ace0772d993288",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1486.04,
+    "end": 1491.08
+  },
+  {
+    "text": "what the terms we use, and I don't think this term is very helpful at all, because if everyone",
+    "uid": "c4a6816531397402",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1491.08,
+    "end": 1495.8
+  },
+  {
+    "text": "is using it slightly differently, we don't know what we mean.",
+    "uid": "99ee472a416a9baf",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1495.8,
+    "end": 1499.72
+  },
+  {
+    "text": "And it perpetuates the idea that the emotional system is somehow separate.",
+    "uid": "e70e60a392112217",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1499.72,
+    "end": 1506.0
+  },
+  {
+    "text": "Absolutely, I think that you said it much, much better.",
+    "uid": "c124c40f8c790eb6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1506.0,
+    "end": 1510.0
+  },
+  {
+    "text": "It suggests that there is a specialized system for emotion in the brain.",
+    "uid": "ede0c353de40361c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1510.0,
+    "end": 1514.6
+  },
+  {
+    "text": "There are many parts of the brain that are incredibly important for emotion-related processing.",
+    "uid": "218f8b945d6185c1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1514.6,
+    "end": 1519.04
+  },
+  {
+    "text": "There may be one of them, the hypothalamus is one of them, there are many, many others.",
+    "uid": "08e984a80e8db368",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1519.04,
+    "end": 1522.96
+  },
+  {
+    "text": "We can spend a long time writing many books about these regions.",
+    "uid": "8b32838cca061350",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1522.96,
+    "end": 1527.08
+  },
+  {
+    "text": "That's not to say that they know exist, but it's not an encapsulated system that you put",
+    "uid": "511c83a61314157d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1527.08,
+    "end": 1531.6
+  },
+  {
+    "text": "in a box and surround them and say, here is the emotional system, the emotion system, the",
+    "uid": "163c11cc04456af7",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1531.6,
+    "end": 1536.6
+  },
+  {
+    "text": "limbic system, and what not.",
+    "uid": "0a7d2cd83bef6807",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1536.6,
+    "end": 1538.44
+  },
+  {
+    "text": "We have to let go of that way of putting things inside a box.",
+    "uid": "3ae1632a7f824844",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1538.44,
+    "end": 1543.48
+  },
+  {
+    "text": "So another example of how our understanding has to evolve.",
+    "uid": "f0f87ddf55597161",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1543.48,
+    "end": 1548.88
+  },
+  {
+    "text": "You talked about the standard hypothesis, and I didn't actually realize this when I interviewed",
+    "uid": "ded3e97a232aa585",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1548.88,
+    "end": 1555.2
+  },
+  {
+    "text": "you the first time, because I know we talked about it, but it wasn't until I read your new book",
+    "uid": "acea51ace9f53f53",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1555.2,
+    "end": 1560.84
+  },
+  {
+    "text": "that I realized that you and Ralph Adolfs had dubbed this system.",
+    "uid": "7d09b12f11e2239f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1560.84,
+    "end": 1566.2
+  },
+  {
+    "text": "So you were actually debunking, you might say, something you once thought was right, which I",
+    "uid": "e0a0e89e7bfcaf9d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1566.2,
+    "end": 1572.44
+  },
+  {
+    "text": "think could do is to you, because people don't usually do that, can you tell us about how,",
+    "uid": "f445e43b1acead38",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1572.44,
+    "end": 1577.48
+  },
+  {
+    "text": "say, the demise of the standard hypothesis is a good demonstration of how our understanding",
+    "uid": "b5b0faac6ccb73cb",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1577.48,
+    "end": 1582.88
+  },
+  {
+    "text": "of the brain is constantly evolving?",
+    "uid": "f9810fa3dd354f49",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1582.88,
+    "end": 1586.2
+  },
+  {
+    "text": "So let me just step into a couple of things so that the listeners can understand a little bit better.",
+    "uid": "55ed70e0eac3477b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1586.2,
+    "end": 1591.24
+  },
+  {
+    "text": "So the standard hypothesis, the way that we described this many years ago, Ralph Adolfs and",
+    "uid": "c84fe3bf09b01717",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1591.24,
+    "end": 1595.84
+  },
+  {
+    "text": "I described it was the idea, pretty much of what we've been talking all along.",
+    "uid": "b7ae459cb8ac6742",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1595.84,
+    "end": 1602.36
+  },
+  {
+    "text": "Many neuroscientists were describing a system that evaluates emotional content in a way that",
+    "uid": "216c3c748c99f731",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1602.36,
+    "end": 1610.96
+  },
+  {
+    "text": "is very encapsulated from other ways of processing other forms of processing.",
+    "uid": "3620dc716568465b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1610.96,
+    "end": 1615.64
+  },
+  {
+    "text": "So it's autonomously in an obligatory way evaluating emotional content in the world, in a way",
+    "uid": "a65a9c83731ce7d5",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1615.64,
+    "end": 1622.76
+  },
+  {
+    "text": "that is possibly automatic, independent of attention and it involves the amygdala in a way",
+    "uid": "aa67d7578f355249",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1622.76,
+    "end": 1628.08
+  },
+  {
+    "text": "that is encapsulated from the rest of processing.",
+    "uid": "4f01772ce6c8591e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1628.08,
+    "end": 1632.48
+  },
+  {
+    "text": "So you should function in a way that is independent of attention, is independent of cognition",
+    "uid": "a58573f1077a1ddc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1632.48,
+    "end": 1637.56
+  },
+  {
+    "text": "in other processes.",
+    "uid": "bd981127d11ed2ef",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1637.56,
+    "end": 1639.32
+  },
+  {
+    "text": "What Ralph Adolfs and I did was to evaluate that and reconceptualize the way that we can think about",
+    "uid": "fcca68b11a7f6417",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1639.32,
+    "end": 1647.28
+  },
+  {
+    "text": "emotional processing as something that is embedded in many ways and contributes to many other",
+    "uid": "f2242c173560055f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1647.32,
+    "end": 1652.88
+  },
+  {
+    "text": "ways of processing.",
+    "uid": "cc46a98fed139f1c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1652.88,
+    "end": 1654.08
+  },
+  {
+    "text": "So when you want to do something that can be described as more cognitive decision-making, you're",
+    "uid": "1c2e64d465ca1c07",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1654.08,
+    "end": 1659.68
+  },
+  {
+    "text": "engaging circuits that also engage these parts that were being separated and called the emotional",
+    "uid": "2c2c59b84b5234c2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1659.68,
+    "end": 1665.48
+  },
+  {
+    "text": "system that standard hypothesis system.",
+    "uid": "58ca6023ef3699b0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1665.48,
+    "end": 1667.8
+  },
+  {
+    "text": "Again, it goes back to the idea that we need to let go of these separate islands of specialization",
+    "uid": "16a5f685c9f1caee",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1667.8,
+    "end": 1675.36
+  },
+  {
+    "text": "in the brain and we need to think more at this distributed way in that multiple regions",
+    "uid": "0d11054c71b30e02",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1675.36,
+    "end": 1682.6
+  },
+  {
+    "text": "engage in functional circuits such that jointly they are able to solve tasks that are confronting",
+    "uid": "fc2037eafc0c0523",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1682.6,
+    "end": 1691.12
+  },
+  {
+    "text": "the individual, the animal at that moment in time.",
+    "uid": "f52e6526b8efac21",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1691.12,
+    "end": 1694.32
+  },
+  {
+    "text": "So it's not something that is localized to a single spot in the brain, it's something that recruits",
+    "uid": "28e1eacad26edf19",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1694.32,
+    "end": 1699.2
+  },
+  {
+    "text": "a whole circuit or a whole network or multiple networks that form in a dynamic fashion that",
+    "uid": "a286388be29230f1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1699.2,
+    "end": 1705.04
+  },
+  {
+    "text": "then support these behaviors that we might have at some point trying to attribute to a single",
+    "uid": "37571f551d3e515f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1705.04,
+    "end": 1711.04
+  },
+  {
+    "text": "region in the brain.",
+    "uid": "a91fc7666d3184b7",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1711.04,
+    "end": 1712.04
+  },
+  {
+    "text": "Okay, so let me clarify because it sounds like perhaps I misunderstood since I didn't read that original",
+    "uid": "40398a12b03735c8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1712.04,
+    "end": 1718.72
+  },
+  {
+    "text": "When you were calling this the standard hypothesis, were you already attacking the hypothesis",
+    "uid": "1d6c19f5c97f9171",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1720.0,
+    "end": 1724.96
+  },
+  {
+    "text": "at that point as being insufficient?",
+    "uid": "8eb89647bd2d42f1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1724.96,
+    "end": 1728.28
+  },
+  {
+    "text": "So Ralph and I did was at that point both we did it completely separately and then we",
+    "uid": "e8afaf05558ab84b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1729.28,
+    "end": 1735.4
+  },
+  {
+    "text": "joined forces so speaking that paper which we were studying the ways in which the processing",
+    "uid": "93449b18f1996818",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1735.4,
+    "end": 1741.4
+  },
+  {
+    "text": "of emotional content was dependent on awareness, on attention, on context, on other these high-level",
+    "uid": "aac74aa15609da5b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1741.4,
+    "end": 1748.92
+  },
+  {
+    "text": "And we came to the same conclusion, dependent on the via different set of studies that looking at",
+    "uid": "27874dc8b3fbf54e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1750.16,
+    "end": 1756.76
+  },
+  {
+    "text": "it as this independent system that is so powerful that it is engaged no matter what independent",
+    "uid": "1183f888fb859e89",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1756.76,
+    "end": 1764.88
+  },
+  {
+    "text": "of your state at a intentional state cognitive state is problematic.",
+    "uid": "6eba38ce9f7e89df",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1764.88,
+    "end": 1769.96
+  },
+  {
+    "text": "So we were criticizing it from the get-go from that point we proposed an alternative framework",
+    "uid": "d3d8b00251539ba8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1769.96,
+    "end": 1776.68
+  },
+  {
+    "text": "to look at the system one in which as I mentioned just now that it was embedded into networks",
+    "uid": "413de827fa201479",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1776.68,
+    "end": 1782.36
+  },
+  {
+    "text": "that participate in many other processes.",
+    "uid": "676fab70ebe3c7f1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1782.36,
+    "end": 1785.64
+  },
+  {
+    "text": "So that was the project that we worked in that paper jointly was to see let's evaluate the",
+    "uid": "136b2f761c7809a0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1785.64,
+    "end": 1792.36
+  },
+  {
+    "text": "evidence really carefully from these two different perspectives, his lab and my lab in the entire",
+    "uid": "c1990eaf34f4d930",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1792.36,
+    "end": 1798.32
+  },
+  {
+    "text": "literature at that time and see how strong the disease supports its autonomy from the rest",
+    "uid": "257af1a18ebe2531",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1798.32,
+    "end": 1805.2
+  },
+  {
+    "text": "versus how integrated it is with the rest.",
+    "uid": "61a1d638d93b95e7",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1805.2,
+    "end": 1809.56
+  },
+  {
+    "text": "And we came on the side that it was highly interacting and integrated with the rest.",
+    "uid": "594309dda4d754eb",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1809.56,
+    "end": 1815.0
+  },
+  {
+    "text": "And then at first there was the evidence that it seemed like this would go on unconsciously,",
+    "uid": "9b67f305505484fe",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1815.0,
+    "end": 1822.24
+  },
+  {
+    "text": "but even at that point you had evidence that it required consciousness.",
+    "uid": "c987c231707e5918",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1822.24,
+    "end": 1827.56
+  },
+  {
+    "text": "Because one of the things you talk about in the book is a number of examples of things that were",
+    "uid": "3d75f0fa2d91ff38",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1827.56,
+    "end": 1832.88
+  },
+  {
+    "text": "once thought to be unconscious that we now realize involved consciousness.",
+    "uid": "cfa5fd86aa068f68",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1832.88,
+    "end": 1838.72
+  },
+  {
+    "text": "That seems to be like a trend related to the way we measure it sounds like.",
+    "uid": "7f7d2b775eab1813",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1838.72,
+    "end": 1843.8
+  },
+  {
+    "text": "One idea is that let's say when I process some emotional stimulus say that something that was linked",
+    "uid": "68bbb42bb9609b39",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1843.8,
+    "end": 1850.84
+  },
+  {
+    "text": "to an aversive shock, a mild shock that we use in the laboratory that we tightrate so the individuals",
+    "uid": "7db089e717636a5e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1850.84,
+    "end": 1856.48
+  },
+  {
+    "text": "can tolerate it but it's unpleasant.",
+    "uid": "7b28d9b203ff880e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1856.48,
+    "end": 1859.64
+  },
+  {
+    "text": "So let's say we have a stimulus that is spared with shock.",
+    "uid": "6758dfada52fbdc6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1859.64,
+    "end": 1862.52
+  },
+  {
+    "text": "The question is when they see that stimulus say it's picture of a building and that pictures",
+    "uid": "47c761ddf94f4735",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1862.52,
+    "end": 1868.96
+  },
+  {
+    "text": "of buildings are always linked with shock for instance.",
+    "uid": "1eb55282548a21da",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1868.96,
+    "end": 1872.12
+  },
+  {
+    "text": "So in the future when they see a picture of a building they have an autonomic response when",
+    "uid": "a16784381d2ee6f0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1872.12,
+    "end": 1877.16
+  },
+  {
+    "text": "they see that.",
+    "uid": "6eb517a484bd0af0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1877.16,
+    "end": 1878.16
+  },
+  {
+    "text": "Their skin conductance increases, heart rate changes and their changes in the brain.",
+    "uid": "2c4524348b901071",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1878.16,
+    "end": 1883.6
+  },
+  {
+    "text": "So can those changes happen even if you're not paying attention to this stimulus?",
+    "uid": "1023a57ebc20bac1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1883.6,
+    "end": 1887.52
+  },
+  {
+    "text": "Let's say you've distracted in a task or if they're presented so fast in a way that you're not",
+    "uid": "40050ccfb48e56e9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1887.52,
+    "end": 1892.68
+  },
+  {
+    "text": "even aware of them.",
+    "uid": "9b2011e749edfe50",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1892.68,
+    "end": 1894.04
+  },
+  {
+    "text": "So we refer to this as not being necessarily not totally conscious of having been presented that",
+    "uid": "2b2ada251c57afc9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1894.04,
+    "end": 1900.12
+  },
+  {
+    "text": "So what is interesting about this is that there was a strong claim that it happened in",
+    "uid": "43f2bceb51ebd043",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1901.88,
+    "end": 1906.96
+  },
+  {
+    "text": "an automatic unconscious fashion.",
+    "uid": "da41de087cc608d5",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1906.96,
+    "end": 1910.84
+  },
+  {
+    "text": "Ralph and I found a lot of evidence that it also depended on attention in other factors and",
+    "uid": "e661a798d792e14e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1910.84,
+    "end": 1915.36
+  },
+  {
+    "text": "it didn't happen necessarily in the district on the where fashion.",
+    "uid": "ace43eba156a94d7",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1915.36,
+    "end": 1920.6
+  },
+  {
+    "text": "It was linked to processing that we seem to be aware of.",
+    "uid": "1e0838a88249f6e6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1920.6,
+    "end": 1925.0
+  },
+  {
+    "text": "But I have to say that line of studying has continued to this day and it continues to",
+    "uid": "4ee86e0c55858375",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1925.0,
+    "end": 1930.28
+  },
+  {
+    "text": "be an active research question and I think the question is still out.",
+    "uid": "ede7cd01afd562f9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1930.28,
+    "end": 1934.28
+  },
+  {
+    "text": "The extent to which depends on attention and awareness is pushed by the two groups if you will.",
+    "uid": "d41dba301dfc69f6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1934.28,
+    "end": 1940.08
+  },
+  {
+    "text": "And there is some evidence and some strong evidence I should say that it does have a degree of",
+    "uid": "2cd5231486243ae4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1940.08,
+    "end": 1947.12
+  },
+  {
+    "text": "an automaticity and of not engaging awareness very strongly that is quite impressive.",
+    "uid": "8ee46a5070485d19",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1947.12,
+    "end": 1956.36
+  },
+  {
+    "text": "So I would qualify that statement that when we wrote the review quite a long time ago we",
+    "uid": "4576ffaddf6dca9b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1956.36,
+    "end": 1963.36
+  },
+  {
+    "text": "cited on the view that it requires attention and awareness.",
+    "uid": "ba5434c8239d6c0e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1963.36,
+    "end": 1969.0
+  },
+  {
+    "text": "But now it's not an area that I'm pursuing very actively but I read quite a bit.",
+    "uid": "b92ab773584aa785",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1969.0,
+    "end": 1973.48
+  },
+  {
+    "text": "I look at the literature that there's some evidence that suggests that there's more",
+    "uid": "03e6fb9dd5172425",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1973.48,
+    "end": 1977.72
+  },
+  {
+    "text": "So it's a matter of degree and I think there is evidence for both sides and yeah I think it's",
+    "uid": "abdb6bae98b248b3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1978.72,
+    "end": 1984.72
+  },
+  {
+    "text": "a very interesting and important question that's still actively researched.",
+    "uid": "d932d05772afd694",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1984.72,
+    "end": 1989.48
+  },
+  {
+    "text": "Another place we see that modular view and people are constantly exposed to it has to",
+    "uid": "5949484cf0dccf2f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1989.48,
+    "end": 1996.16
+  },
+  {
+    "text": "do with the course with the cortex itself.",
+    "uid": "685e44064bbbaf0e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1996.16,
+    "end": 1999.24
+  },
+  {
+    "text": "What is the best alternative to this approach?",
+    "uid": "a1ae4e6f97623036",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 1999.24,
+    "end": 2002.6
+  },
+  {
+    "text": "Yeah so the best alternative to this approach I think has been I think it must have been",
+    "uid": "37d6b6fb91703094",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2003.16,
+    "end": 2008.56
+  },
+  {
+    "text": "discussed many times in your show as well in your program as well.",
+    "uid": "4b8784711c165c1e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2008.56,
+    "end": 2012.68
+  },
+  {
+    "text": "Olaf's born and many others and I think Olaf has been.",
+    "uid": "14ed09f9b627d4b4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2012.68,
+    "end": 2016.32
+  },
+  {
+    "text": "Yes he's been on a couple of times.",
+    "uid": "79d97d77a0b1c0a4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2016.32,
+    "end": 2018.28
+  },
+  {
+    "text": "Yeah a couple of times at least and many people have a champion this view that became quite popular",
+    "uid": "7988b811e270c421",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2018.28,
+    "end": 2025.84
+  },
+  {
+    "text": "in the early 2000s across many scientific disciplines not just neuroscience that we need",
+    "uid": "25f6c7ea7d40edc7",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2025.84,
+    "end": 2032.08
+  },
+  {
+    "text": "assistance thinking that is networks oriented so there's networks that we should understand",
+    "uid": "73ca8cecc4fc5623",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2032.08,
+    "end": 2038.64
+  },
+  {
+    "text": "complex phenomena the level of networks, a social network, a technological network, a brain network.",
+    "uid": "adc876586553daf7",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2038.64,
+    "end": 2045.6
+  },
+  {
+    "text": "So I think that provides an important alternative way of thinking about the brain in terms",
+    "uid": "6267dafd85028794",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2045.6,
+    "end": 2053.6
+  },
+  {
+    "text": "of a networked organization in which there are these multiple elements that are interacting",
+    "uid": "ea3d2b523e6a9b0c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2053.6,
+    "end": 2059.76
+  },
+  {
+    "text": "ways that form these complex networks with complex properties.",
+    "uid": "a01cf32b19bfaa51",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2059.76,
+    "end": 2064.92
+  },
+  {
+    "text": "I think one of the difficulties of studying it that way is that we still don't have the techniques",
+    "uid": "6088d0b877f1a631",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2064.92,
+    "end": 2073.32
+  },
+  {
+    "text": "with invasive recordings that are still the gold standard so that we can obtain neuronal recordings.",
+    "uid": "54393363736e0c30",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2073.32,
+    "end": 2082.12
+  },
+  {
+    "text": "We still have limited ability to study these networking interactions with signals that are",
+    "uid": "dbf0cad96be73bdb",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2082.12,
+    "end": 2088.48
+  },
+  {
+    "text": "in the Ronoan origin to test more specific hypothesis.",
+    "uid": "4f7921942d726c27",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2088.48,
+    "end": 2094.08
+  },
+  {
+    "text": "Even though it's an alternative way of thinking about the brain that is now more and more popular,",
+    "uid": "87a06427893507c6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2094.08,
+    "end": 2100.08
+  },
+  {
+    "text": "it receives quite a lot of pushback because it's quite difficult to test and it's quite difficult",
+    "uid": "725095178e98d455",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2100.08,
+    "end": 2105.52
+  },
+  {
+    "text": "to make predictions that really can be tested at a more mechanistic level that a neuroscientist",
+    "uid": "d1370173c1098b40",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2105.52,
+    "end": 2113.52
+  },
+  {
+    "text": "would want, a more hardcore neuroscientist that would want to test this hypothesis against a more",
+    "uid": "fe2876c9fd17558e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2113.6,
+    "end": 2120.16
+  },
+  {
+    "text": "modular approach would require certain ways of going about this problem that are still quite challenging.",
+    "uid": "61baabfa54af2d80",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2120.16,
+    "end": 2128.08
+  },
+  {
+    "text": "But as we said just a little while ago with recordings across multiple thousands of neurons across multiple",
+    "uid": "c268267e0ad8adf4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2128.08,
+    "end": 2135.4
+  },
+  {
+    "text": "brain regions we're really now in a position to answer that that we can provide alternative explanations,",
+    "uid": "9b00eb161cf9fa15",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2135.4,
+    "end": 2142.0
+  },
+  {
+    "text": "provide better explanations based on these network properties than we could by focusing on isolated regions.",
+    "uid": "34ffa744d7a13f4c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2142.88,
+    "end": 2151.44
+  },
+  {
+    "text": "For the sake of my long term listeners, it used to be a thing to speculate that the brain was a so-called small world architecture.",
+    "uid": "1d6caa4a23329824",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2151.44,
+    "end": 2162.4
+  },
+  {
+    "text": "And one of the things you say in the book is that it turns out the brain is not a small world network.",
+    "uid": "3399c38dacc9eeac",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2162.4,
+    "end": 2169.52
+  },
+  {
+    "text": "Could you explain what a small world is and why the brain does not qualify? And that relates directly",
+    "uid": "ac0a13b823c4910a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2169.52,
+    "end": 2177.44
+  },
+  {
+    "text": "to the technology because we now have the information that allows us to know this.",
+    "uid": "67da9effe69c4c03",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2177.44,
+    "end": 2181.44
+  },
+  {
+    "text": "And this is still a non-resolved question but let me tell you, my take on this,",
+    "uid": "03d078fafb39ef47",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2182.48,
+    "end": 2186.08
+  },
+  {
+    "text": "the brain being in a small world what it means is essentially the fault.",
+    "uid": "7af105de40257dba",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2186.72,
+    "end": 2190.64
+  },
+  {
+    "text": "Brain regions have neurons that",
+    "uid": "b350bbf404575998",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2191.6,
+    "end": 2195.6
+  },
+  {
+    "text": "through their external extensions connect with neurons from the same area, the local vicinity, and nearby areas, and some",
+    "uid": "fcfd3ec056bcde6a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2196.48,
+    "end": 2205.6
+  },
+  {
+    "text": "far areas. So there are these types of connections that neurons have that the areas have which are",
+    "uid": "d80239fd21e6499a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2206.24,
+    "end": 2212.16
+  },
+  {
+    "text": "more local and more far reaching.",
+    "uid": "8d85d92e00d10ce4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2212.16,
+    "end": 2214.56
+  },
+  {
+    "text": "A small world organization is one in which an area of the brain might be highly connected to",
+    "uid": "0d8c325581ffa86e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2215.52,
+    "end": 2223.92
+  },
+  {
+    "text": "neighboring areas but has a few connections that are really long-range. Let's say from the back of the",
+    "uid": "0dd22589f0fe2775",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2223.92,
+    "end": 2231.76
+  },
+  {
+    "text": "brain almost to the front of the brain or in the quite far in terms of brain tissue.",
+    "uid": "231df096b4119b53",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2231.76,
+    "end": 2236.24
+  },
+  {
+    "text": "And the important aspect of these connections is that with these kinds of architectures,",
+    "uid": "b8626453f3c4ce3e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2236.96,
+    "end": 2241.44
+  },
+  {
+    "text": "it has a really a remarkable computational property because it allows signals to propagate in a system",
+    "uid": "afcdeb1a14ae70f1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2241.52,
+    "end": 2246.8
+  },
+  {
+    "text": "that is not densely interconnected. It's not that everything is connected to everything else.",
+    "uid": "c41aa63b6b31172b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2247.84,
+    "end": 2253.2
+  },
+  {
+    "text": "So if you were, everything can affect everything else but it's definitely not. It's much more locally",
+    "uid": "1e46283112bba59b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2253.2,
+    "end": 2258.4
+  },
+  {
+    "text": "connected but it has some connections that are long-range. With this arrangement, what is the remarkable",
+    "uid": "7f82c35a38b6fd32",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2258.4,
+    "end": 2265.84
+  },
+  {
+    "text": "property of the small world is that you are able to just in a few steps, really travel and influence many",
+    "uid": "9611cead9d34f7e8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2265.92,
+    "end": 2274.0
+  },
+  {
+    "text": "brain regions because each one has its local connections but a few long-range connections. So it rapidly",
+    "uid": "a97d1dfebe4b047e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2274.0,
+    "end": 2279.68
+  },
+  {
+    "text": "the information can be spread. Like we know, unfortunately with viruses and gossip and social networks",
+    "uid": "2fc48e472912e19e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2279.68,
+    "end": 2285.68
+  },
+  {
+    "text": "and other kinds of things, they can spread incredibly fast even though not everyone knows everyone else in",
+    "uid": "3a9f448f771d5840",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2285.68,
+    "end": 2291.52
+  },
+  {
+    "text": "the world of course. This is a remarkable property, even with just a few long-range connections,",
+    "uid": "a526aae0f4ccf08f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2291.52,
+    "end": 2299.52
+  },
+  {
+    "text": "the brain is already able to exhibit this property of a small world. But what seems to be the case now",
+    "uid": "86581e6b880a9ede",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2299.52,
+    "end": 2306.64
+  },
+  {
+    "text": "based on an anatomical tracing studies, the ones that look at these axonal fibers and how they connect",
+    "uid": "d3e96c506edf0dd8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2306.64,
+    "end": 2312.96
+  },
+  {
+    "text": "with other brain regions, it seems that the brain is much more physically interconnected than even",
+    "uid": "8061ba0d1372bc90",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2312.96,
+    "end": 2320.48
+  },
+  {
+    "text": "is actually needed to have efficient propagation. In a sense, you would already be able to spread all this",
+    "uid": "b287ce290fee64ce",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2321.04,
+    "end": 2327.28
+  },
+  {
+    "text": "information just with the few extra random connections or long-range connections, I should say. But we're",
+    "uid": "7a47a8dc5ffce814",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2327.28,
+    "end": 2333.6
+  },
+  {
+    "text": "finding that these parts of the brain are more densely interconnected than they would even need to to be",
+    "uid": "c0296bf17a18b263",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2333.6,
+    "end": 2340.96
+  },
+  {
+    "text": "able to spread information fast. So it seems what I call it is that it seems that we actually have a kind of",
+    "uid": "b407cd5509617f4e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2340.96,
+    "end": 2347.2
+  },
+  {
+    "text": "tiny world in the brain in the sense that there's such a density of anatomical connectivity",
+    "uid": "fc5da067a2a0e4ff",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2347.2,
+    "end": 2353.36
+  },
+  {
+    "text": "that it lands even stronger, creating a certain idea that we have this ability of influencing each other,",
+    "uid": "d808904758798903",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2354.0,
+    "end": 2360.4
+  },
+  {
+    "text": "the signals have much more power of influencing each other, compared to a system that is more isolated.",
+    "uid": "53a12c2760749b46",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2360.4,
+    "end": 2366.72
+  },
+  {
+    "text": "So if you had only one region that was really insulated because it only has roads to it just really its neighbors,",
+    "uid": "2318628fdd5e3285",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2366.72,
+    "end": 2373.6
+  },
+  {
+    "text": "then it would be more insulated and not be able to influence and be influenced by other regions.",
+    "uid": "ac963a9676c92f25",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2374.32,
+    "end": 2378.88
+  },
+  {
+    "text": "But there we see that the anatomical highway system, if you will, is really dense.",
+    "uid": "c8b34b491e1410ed",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2379.68,
+    "end": 2385.52
+  },
+  {
+    "text": "So there's a lot of room from this physical infrastructure for communication of signals. So the",
+    "uid": "1499e3b51e9c6415",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2386.24,
+    "end": 2393.68
+  },
+  {
+    "text": "brain is not even small world, it's actually really a tight integrated architecture that allows",
+    "uid": "607ff0308efbe75a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2393.68,
+    "end": 2399.76
+  },
+  {
+    "text": "signals to influence each other in really remarkable ways. I think giving a remarkable ability of",
+    "uid": "517745dc3c8c0771",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2400.72,
+    "end": 2407.68
+  },
+  {
+    "text": "context dependence and flexibility of computation that we see in all animals that survive to this day.",
+    "uid": "d3df3a701d7a7b89",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2407.68,
+    "end": 2414.48
+  },
+  {
+    "text": "One of the things you mentioned in your discussion of the network approaches that stood out for me",
+    "uid": "d30446e54469289f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2414.48,
+    "end": 2420.16
+  },
+  {
+    "text": "was because you had a really nice figure that illustrated this idea is that functional networks",
+    "uid": "38cf113d71eaf321",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2420.8,
+    "end": 2427.36
+  },
+  {
+    "text": "because the functional networks arise when different neurons are talking to different neurons and",
+    "uid": "93498a5ec5a598ad",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2427.36,
+    "end": 2434.0
+  },
+  {
+    "text": "any neuron could be in more than one network and that these networks can overlap.",
+    "uid": "23fa4a8a7816c7d5",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2434.0,
+    "end": 2439.28
+  },
+  {
+    "text": "That's an important idea, this idea of the overlapping, which means that even if I say, oh, I measured that",
+    "uid": "8250503dc05e1787",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2440.24,
+    "end": 2447.44
+  },
+  {
+    "text": "this part of the brain did X, doesn't mean that it couldn't also do Y.",
+    "uid": "18430dc55521949d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2447.44,
+    "end": 2452.72
+  },
+  {
+    "text": "Right, so the view that I have and share with some colleagues and has existed since the time of",
+    "uid": "f3fa9f92b3ad1767",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2453.68,
+    "end": 2459.76
+  },
+  {
+    "text": "have is that there are these sort of neural assemblies that are essentially these networks,",
+    "uid": "55bc3210a3924d7e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2459.76,
+    "end": 2466.96
+  },
+  {
+    "text": "but these networks of neurons or neurons that come from separate areas of the brain,",
+    "uid": "2ad5c0d64a09633b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2467.84,
+    "end": 2473.68
+  },
+  {
+    "text": "they form dynamically. So in the sense that we have to think of them functionally, not just structurally.",
+    "uid": "6a38f875ba97b94b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2474.72,
+    "end": 2480.16
+  },
+  {
+    "text": "So obviously, if I want to go from town A to town B, I need a road to go to that town,",
+    "uid": "fdc3e0a753676b61",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2480.64,
+    "end": 2486.64
+  },
+  {
+    "text": "but it doesn't have to be a direct path, it can be an indirect one. I can have a very direct path from here",
+    "uid": "20f1632f5852b6f4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2486.64,
+    "end": 2492.96
+  },
+  {
+    "text": "to Philadelphia and it still takes me there. So even if there wasn't a direct connection between DC and Philadelphia,",
+    "uid": "37012073e645a4b0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2492.96,
+    "end": 2501.28
+  },
+  {
+    "text": "there could be cultural exchange, commercial exchange via other roads that might go first to some other",
+    "uid": "34f516dee4c001a1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2501.28,
+    "end": 2509.04
+  },
+  {
+    "text": "city and then to Philadelphia. So in the brain it's the same situation, because these connections",
+    "uid": "6c246da1e79bc6fc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2509.04,
+    "end": 2515.76
+  },
+  {
+    "text": "can interlink directly as well as indirectly multiple disparate separate parts of the brain.",
+    "uid": "d6d56a06d39fab63",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2516.48,
+    "end": 2522.4
+  },
+  {
+    "text": "The way that I think is important to think about the brain is as a functional system that is based on",
+    "uid": "6c3da7b6329bb3d0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2523.28,
+    "end": 2528.96
+  },
+  {
+    "text": "this anatomical highway, these highways, but it's sufficiently separate from it because there are so many ways",
+    "uid": "8e7be0d0eb99cc1e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2528.96,
+    "end": 2537.76
+  },
+  {
+    "text": "of communicating that the way the signal's propagate and emerge from that physical infrastructure will",
+    "uid": "3a478d9f575942bc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2537.76,
+    "end": 2544.32
+  },
+  {
+    "text": "be highly dependent on the specific context. So in that sense, these areas can participate in multiple",
+    "uid": "be51cd60762add02",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2544.32,
+    "end": 2551.52
+  },
+  {
+    "text": "processes depending on the interactions that they have with other parts of the brain. So if I give an",
+    "uid": "3a5a49bba389f674",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2552.16,
+    "end": 2558.08
+  },
+  {
+    "text": "area interacting with two other areas at one time in several other areas and at another time,",
+    "uid": "5a721e3417db9211",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2558.08,
+    "end": 2564.64
+  },
+  {
+    "text": "it actually participating in possibly related functions but it could also be participating in quite different",
+    "uid": "80f8322f5fb20602",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2565.28,
+    "end": 2571.36
+  },
+  {
+    "text": "ways that we observed in the first setting. So the modular approach sort of appeals to",
+    "uid": "61597c55c449b237",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2571.36,
+    "end": 2578.96
+  },
+  {
+    "text": "our attraction to reductionism, but it really does oversimplify what's really going on. When we talk",
+    "uid": "17894cc1440d3889",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2579.76,
+    "end": 2587.68
+  },
+  {
+    "text": "the last time you said, and I honestly only know this because I reread the transcript not because I remembered",
+    "uid": "f2c73d2e95ae3b0e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2587.68,
+    "end": 2593.6
+  },
+  {
+    "text": "it for nine years, but you talked about the need to embrace the complexity. So talk a little bit about",
+    "uid": "99e48e007b2cee4f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2593.6,
+    "end": 2600.0
+  },
+  {
+    "text": "why we need complex systems theory, what that adds that's beyond what we get from network theory,",
+    "uid": "e5ebb9af006de4e2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2600.0,
+    "end": 2607.92
+  },
+  {
+    "text": "because network theory is easy to explain, although probably not so easy to actually do, whereas complex",
+    "uid": "a2f131122498c2c1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2607.92,
+    "end": 2614.0
+  },
+  {
+    "text": "system theory I think is a little bit intimidating to the average person. Why do we need this",
+    "uid": "e1566680f3cc269d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2614.0,
+    "end": 2619.36
+  },
+  {
+    "text": "complex systems theory? I think that we need to move in a more computational and mathematical way of",
+    "uid": "ca01e70a468340ae",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2619.36,
+    "end": 2626.56
+  },
+  {
+    "text": "describing this system. Let's think of a situation for instance. When you have let's say you have an",
+    "uid": "4e5a9fe1b133d749",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2626.56,
+    "end": 2632.16
+  },
+  {
+    "text": "ecosystem in a certain habitat that has several species cohabiting there and existing in a shared",
+    "uid": "1b064624ba27356f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2632.16,
+    "end": 2639.28
+  },
+  {
+    "text": "habitat system overall. The way that evolves given introduction of a new species or the removal",
+    "uid": "5f348d32b2a3df38",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2639.28,
+    "end": 2647.92
+  },
+  {
+    "text": "of a given species or the addition of certain resources or the subtraction of resources like we keep on",
+    "uid": "40216d9fe0beb17d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2647.92,
+    "end": 2654.0
+  },
+  {
+    "text": "doing on planet earth and changing these environments is going to have a number of effects that cascade in",
+    "uid": "8eb543d2b8d34bb6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2654.0,
+    "end": 2663.76
+  },
+  {
+    "text": "really complex ways. You might affect one species that needs a certain nutrient that is not available",
+    "uid": "95e2695dd8e45150",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2663.76,
+    "end": 2669.6
+  },
+  {
+    "text": "anymore. By affecting that species you affect other species that interact with that one that is being",
+    "uid": "a8969438dd6a0ee9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2669.6,
+    "end": 2676.4
+  },
+  {
+    "text": "affected and so on in a cascade of interactions that are mutually related to each other, mutually",
+    "uid": "bf9d424cf0b59356",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2676.4,
+    "end": 2682.56
+  },
+  {
+    "text": "interacting simultaneously. You have these webs of interaction that I think to be honest in ecology,",
+    "uid": "f54231a42a85515e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2682.56,
+    "end": 2690.4
+  },
+  {
+    "text": "I think it's to me is the most intuitive if you will way of thinking about it because we are",
+    "uid": "8c2004551d97f592",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2690.72,
+    "end": 2696.88
+  },
+  {
+    "text": "think already used to thinking of the complex ways in which ecosystems that these interactions can be",
+    "uid": "dc2580d83b9e5caa",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2696.88,
+    "end": 2704.96
+  },
+  {
+    "text": "counterintuitive, something increases and leads to decimating something else but increases some other",
+    "uid": "6db97922c1b8aced",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2705.92,
+    "end": 2712.88
+  },
+  {
+    "text": "predator and it's these interactive effects that cascading ways that are incredibly difficult to predict. In",
+    "uid": "56f3c4ab54931d29",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2712.88,
+    "end": 2719.52
+  },
+  {
+    "text": "fact we are really poor at predicting the whole web of interactions and the cascade of effects",
+    "uid": "52acb35eddd81f4e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2719.52,
+    "end": 2725.92
+  },
+  {
+    "text": "that are observed. What we need is tools that are constantly being further developed in mathematics",
+    "uid": "76e5b7e72c8f16f3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2725.92,
+    "end": 2735.12
+  },
+  {
+    "text": "and physics and computer science in many fields that allow us to try to understand these systems that have",
+    "uid": "7efba675d6073003",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2735.12,
+    "end": 2743.44
+  },
+  {
+    "text": "these really dense causal webs that enter the dependence between the parts that say the species",
+    "uid": "6cf4c985eed26c90",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2743.44,
+    "end": 2751.76
+  },
+  {
+    "text": "in an ecosystem or the parts of the brain in the brain or genes in genetic networks. How they interact",
+    "uid": "c15b2134b9cd2eef",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2751.76,
+    "end": 2760.96
+  },
+  {
+    "text": "in ways that are not just causal in a standard sense of causation that we usually have. If I hit this it",
+    "uid": "cc8027e79a974946",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2760.96,
+    "end": 2770.48
+  },
+  {
+    "text": "will break this and breaks it into pieces and it's really clear cut if you have a plain pool",
+    "uid": "36fc5cc2d3e7db2a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2770.48,
+    "end": 2776.56
+  },
+  {
+    "text": "that you're going to hit the ball and then it's going to hit the other one that upon that being hit it's",
+    "uid": "7aece9fcda43e117",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2777.12,
+    "end": 2782.4
+  },
+  {
+    "text": "going to move and so on. It's a completely chain of events that are easily unpacked. So there's one event",
+    "uid": "5d3eb58938687931",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2782.4,
+    "end": 2791.2
+  },
+  {
+    "text": "that causes another event but when you have these events co-affecting each other then we need",
+    "uid": "1541794cf36c59e3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2791.2,
+    "end": 2800.4
+  },
+  {
+    "text": "different kinds of tools to understand the evolution of these systems. The evolution I mean not",
+    "uid": "dae1292245a6468d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2800.72,
+    "end": 2806.32
+  },
+  {
+    "text": "in the Darwin sense, the temporal evolution how they unfold in time so that if I manipulate the system in one",
+    "uid": "87e1fe428dc65745",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2806.32,
+    "end": 2813.84
+  },
+  {
+    "text": "way I introduce a new species of fish in this lake. What's going to happen? What's going to happen is usually",
+    "uid": "342f29c5477b0085",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2813.84,
+    "end": 2821.12
+  },
+  {
+    "text": "we have incredibly bad predicting it. It seems like a really good idea to introduce new species here and it",
+    "uid": "d9d90f7d978e4ef3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2821.52,
+    "end": 2828.96
+  },
+  {
+    "text": "turns out to have all these effects that we never anticipated. So we need these tools and these tools are",
+    "uid": "6e2f815e2d7b42a2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2828.96,
+    "end": 2834.56
+  },
+  {
+    "text": "being developed in complex systems and in related fields that might not have a specific exact name",
+    "uid": "d03ef45e897d8ae7",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2834.56,
+    "end": 2841.68
+  },
+  {
+    "text": "but in dynamical systems, no only in your dynamical systems and physics of interacting elements that are",
+    "uid": "03ef6c4e991eb2b6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2842.32,
+    "end": 2848.64
+  },
+  {
+    "text": "many different fields of knowledge that are converging to trying to develop tools that we can address",
+    "uid": "d1dd9b2fb3c4c8eb",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2848.64,
+    "end": 2854.64
+  },
+  {
+    "text": "these kinds of problems and understand the limits, the limitations of our own uncertainty.",
+    "uid": "af9148fcfeb0a35e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2854.8,
+    "end": 2859.68
+  },
+  {
+    "text": "Many of these systems have non-linear cascades of events that are so sensitive to the local",
+    "uid": "a241b760af5d407e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2859.68,
+    "end": 2867.28
+  },
+  {
+    "text": "conditions that they can develop in very different ways even in nearly repeatable initial conditions.",
+    "uid": "585c8d6be66c340f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2867.28,
+    "end": 2874.64
+  },
+  {
+    "text": "Right. And we've learned that the hard way a lot of times. Right. They develop in completely different ways.",
+    "uid": "77da5341922c774d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2874.64,
+    "end": 2880.16
+  },
+  {
+    "text": "They're these bifurcations in the qualitative behavior as species disappears. Oh, but if you did it again,",
+    "uid": "1559faa09a194533",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2880.16,
+    "end": 2887.12
+  },
+  {
+    "text": "it wouldn't disappear. It actually would be the dominant species. What does that even mean?",
+    "uid": "f982e5f0bb6ac370",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2887.12,
+    "end": 2890.96
+  },
+  {
+    "text": "We need the tools to study that. Luis, what are some scientists reluctant to consider emergence as a",
+    "uid": "88068572441b3c6e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2891.68,
+    "end": 2900.0
+  },
+  {
+    "text": "valid scientific idea? In some part for very legitimate reasons, I think that we have been too casual",
+    "uid": "7c186003eaa6d0ad",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2900.0,
+    "end": 2908.48
+  },
+  {
+    "text": "at how we say that a certain property emerges out of the interactions of the parts.",
+    "uid": "9b4b66803931e8f6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2908.56,
+    "end": 2914.0
+  },
+  {
+    "text": "And many scientists have been extremely bothered with that kind of language because",
+    "uid": "82f6644f857bb7ae",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2914.8,
+    "end": 2921.04
+  },
+  {
+    "text": "they attributed to our momentary ignorance of the way in which it would presumably or does presumably emerge.",
+    "uid": "bea98ef3c61871cc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2922.0,
+    "end": 2930.24
+  },
+  {
+    "text": "So it's a way of describing our state of ignorance at that time and not something fundamental about the",
+    "uid": "b09b707904a5e88f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2930.24,
+    "end": 2937.6
+  },
+  {
+    "text": "world according to this viewpoint. Because a e-bredectionistic approach has been so successful in",
+    "uid": "adb4365a839abaac",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2937.68,
+    "end": 2945.6
+  },
+  {
+    "text": "molecular biology and chemistry in physics. Why should we resort to properties that we can claim",
+    "uid": "cfe843cf9609ca2b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2945.6,
+    "end": 2952.88
+  },
+  {
+    "text": "emerge? Because if we knew exactly what the interactions happen, we probably would use a different word",
+    "uid": "e77b606254efdebd",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2952.88,
+    "end": 2958.88
+  },
+  {
+    "text": "and we wouldn't call it emergence. So it's like they think it's just a filler word that exactly. They think",
+    "uid": "75d5012f32540b49",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2958.88,
+    "end": 2966.0
+  },
+  {
+    "text": "it's this is a filler word and it's a really bad filler word because it's just",
+    "uid": "93eb5c0dc4e5726c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2966.08,
+    "end": 2970.16
+  },
+  {
+    "text": "non-scientific and it's the opposite of what we should be doing. But when a lot of people mean that",
+    "uid": "fe85f27cbaa0e00b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2971.12,
+    "end": 2978.0
+  },
+  {
+    "text": "a property emerges, they're not speaking of anything mysterious in the sense that there is no basis for it.",
+    "uid": "79aebaf1402fa09d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2978.0,
+    "end": 2985.84
+  },
+  {
+    "text": "There is no understanding for it. In fact, the examples that I was describing just a minute ago in terms",
+    "uid": "fcf057d4faf25632",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2985.84,
+    "end": 2991.6
+  },
+  {
+    "text": "of these species interacting and leading to the extinction of one species and maybe in another scenario,",
+    "uid": "9b02be1e1db3dfa3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2991.6,
+    "end": 2997.84
+  },
+  {
+    "text": "another species or the same species takes over as the dominant species and so on.",
+    "uid": "e0e1157af3e08730",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 2997.84,
+    "end": 3002.16
+  },
+  {
+    "text": "These are actually collective properties that we can study with non-linear dynamical systems",
+    "uid": "2b03e3924c68f2b1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3002.8,
+    "end": 3008.72
+  },
+  {
+    "text": "that we can legitimately call emergent in the sense that it emerges out of the interactions of the",
+    "uid": "7c52e853f2dfef27",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3009.36,
+    "end": 3015.84
+  },
+  {
+    "text": "elements in the system without any mystery whatsoever. There could be mysteries still in the sense",
+    "uid": "7a7a8f38bb8da889",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3015.84,
+    "end": 3022.56
+  },
+  {
+    "text": "that fundamental ones that can occupy philosophers for a long time is that if we don't have perfect",
+    "uid": "f5cfcd68c72b7449",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3022.56,
+    "end": 3028.88
+  },
+  {
+    "text": "access to the exact state of the world right now, then we can't perfectly predict foreign advance. We can",
+    "uid": "bce7c9d589efd0d4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3028.88,
+    "end": 3036.64
+  },
+  {
+    "text": "predict only a certain window of time that is more limited, not really foreign advance, because these",
+    "uid": "abc5e0e8fe79f324",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3036.64,
+    "end": 3042.16
+  },
+  {
+    "text": "systems they diverge in their behaviors. So there are really difficult issues there, but",
+    "uid": "5056dfa662e84fbd",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3042.24,
+    "end": 3047.04
+  },
+  {
+    "text": "challenging issues even philosophically speaking, but there's nothing really mysterious and it doesn't have to be",
+    "uid": "053102a988a014bc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3047.92,
+    "end": 3054.64
+  },
+  {
+    "text": "a filler word, like you said. We need to get rid of science not of emergence as a filler word, but",
+    "uid": "5ad634a0f393b9ec",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3055.12,
+    "end": 3061.52
+  },
+  {
+    "text": "of filler words in general. In neuroscience is very rich in filler words because we don't understand",
+    "uid": "15679c82921daa40",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3061.52,
+    "end": 3066.64
+  },
+  {
+    "text": "the mechanism very precisely, so we say it represents it computes it in codes and so on and so forth.",
+    "uid": "b5c4477b329f2ba4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3066.72,
+    "end": 3074.72
+  },
+  {
+    "text": "All these words are filler words because in 99% if not more of the cases, 99.9, we really don't know",
+    "uid": "f114acbc2904117b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3074.72,
+    "end": 3083.2
+  },
+  {
+    "text": "the details. So we say, oh, these signals encode the input or encode reward or encode threat.",
+    "uid": "19160382d2798967",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3083.2,
+    "end": 3090.96
+  },
+  {
+    "text": "What do we exactly mean by that? We don't have a description that is officially",
+    "uid": "6b1c9a792608db3c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3091.68,
+    "end": 3096.16
+  },
+  {
+    "text": "detailed that we could explain it in more precise terms, so it becomes a filler word just like",
+    "uid": "c3b1ac30d70a7852",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3096.16,
+    "end": 3102.16
+  },
+  {
+    "text": "these other filler words, including emergence. I want to ask you about advice for students interested in",
+    "uid": "c5422f23283e533f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3102.16,
+    "end": 3109.28
+  },
+  {
+    "text": "neuroscience and especially to focus on people that come from fields like computer science could really",
+    "uid": "e0eb075e816fb871",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3109.28,
+    "end": 3116.48
+  },
+  {
+    "text": "contribute a lot, right? But I get these emails from people that are like, oh, I'm in this field and I can't",
+    "uid": "d175cd9ebef57e2f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3116.48,
+    "end": 3123.12
+  },
+  {
+    "text": "contribute. So could you talk a little bit about what kind of skills could really how do you get from",
+    "uid": "be7696e19444d1af",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3123.2,
+    "end": 3129.84
+  },
+  {
+    "text": "A to B? I think neuroscience probably all of science. I mean, love with the brain in neuroscience,",
+    "uid": "10dee6e9dd5c266d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3129.84,
+    "end": 3136.32
+  },
+  {
+    "text": "so I'll speak for neuroscience. I think neuroscience is broad enough in so many different directions that",
+    "uid": "c8e82db357ecb3b3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3136.32,
+    "end": 3142.32
+  },
+  {
+    "text": "we there's so much room for contribution and for so many sides if you come from chemistry, if you come from",
+    "uid": "a4e2d35568e9eec2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3142.32,
+    "end": 3148.48
+  },
+  {
+    "text": "biology, if you come from physics, if you come from engineering, from mathematics, I think what we need and",
+    "uid": "84a427d092b87247",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3148.48,
+    "end": 3155.76
+  },
+  {
+    "text": "we see research really flourishing more and more is when these all these component disciplines really are",
+    "uid": "e3e80b586bc97ee6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3156.4,
+    "end": 3163.92
+  },
+  {
+    "text": "contributing to the overall picture in ways that we like we're talking about these interaction system level is the",
+    "uid": "c64df84115b7a631",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3163.92,
+    "end": 3170.56
+  },
+  {
+    "text": "same thing. I'm not a physicist. I have to work with physicists if I'm going to generate some kind of theory",
+    "uid": "90e807a8cfad8959",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3170.56,
+    "end": 3177.28
+  },
+  {
+    "text": "at the level of physics that has predictions that we can then as an experimentalist, I can go and study them",
+    "uid": "0815dde792355cf5",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3177.44,
+    "end": 3183.36
+  },
+  {
+    "text": "or as someone who does a study with animals is going to be able to study or someone who has a more",
+    "uid": "ed3ab6a8e24e0a14",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3183.68,
+    "end": 3189.6
+  },
+  {
+    "text": "molecular approach is going to be able to test at that level. So it really is the multi-approach that is multi-discipline",
+    "uid": "6376fa75be14978e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3189.6,
+    "end": 3198.24
+  },
+  {
+    "text": "approach that is really needed. So I would say that if you love the brain too or if you love other things and you",
+    "uid": "6a1960156d7aa5b0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3198.24,
+    "end": 3204.72
+  },
+  {
+    "text": "really interested in the brain, there's an enormous amount that you can contribute because and we see that all",
+    "uid": "8b71301517121c82",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3204.8,
+    "end": 3210.48
+  },
+  {
+    "text": "the time. Now neuroscience and AI for better for who is being highly integrated and a lot of people with",
+    "uid": "1dcb01381369027f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3210.48,
+    "end": 3219.92
+  },
+  {
+    "text": "technical skills and mathematics and computer science and engineering are getting involved. So you can",
+    "uid": "dc8ce2ad8618ad6c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3219.92,
+    "end": 3226.08
+  },
+  {
+    "text": "work on something that is very separate from the brain and just use neural networks and AI as something",
+    "uid": "dba329d328fab667",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3227.12,
+    "end": 3234.0
+  },
+  {
+    "text": "to solve some specific problems. Or you can engage in applying them to understand the brain. So I think that",
+    "uid": "df6f1abf519ba085",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3234.0,
+    "end": 3241.36
+  },
+  {
+    "text": "there's enormous room for many different sides that can greatly contribute to our understanding of this",
+    "uid": "a808bfa92d21f45c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3241.76,
+    "end": 3247.6
+  },
+  {
+    "text": "incredibly complex system, the brain and how it supports behavior. What else would you like to share",
+    "uid": "87e56d49f67b88f6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3247.6,
+    "end": 3253.68
+  },
+  {
+    "text": "before we close? One thing that I really think that is important for us to do a little better in science",
+    "uid": "9c85bbeac8787131",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3253.68,
+    "end": 3259.68
+  },
+  {
+    "text": "that we don't do and I'm part of it too. I think we talk past each other too much.",
+    "uid": "75cb1b6b24e91cbe",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3259.68,
+    "end": 3265.28
+  },
+  {
+    "text": "Our scientific debates because I think we all have big egos and we want our ideas to be understood and to",
+    "uid": "9936ee1eeca5360f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3266.0,
+    "end": 3272.32
+  },
+  {
+    "text": "make an impact in any discipline like neuroscience that is so complex that involves behavior,",
+    "uid": "63ebdbe9c71d5ae4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3272.32,
+    "end": 3280.08
+  },
+  {
+    "text": "involves sentience, involves awareness, consciousness, involves morality, involves so many different",
+    "uid": "8a4994dd9ea95fb6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3280.08,
+    "end": 3285.92
+  },
+  {
+    "text": "dimensions. I think we need a more pluralistic view point or view points that we can address problems",
+    "uid": "a6c72174b3ee5551",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3286.0,
+    "end": 3294.24
+  },
+  {
+    "text": "from complementary and mutually reinforcing standpoint. So I don't mean that any perspective is equally",
+    "uid": "f92ee1b8a7624591",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3294.24,
+    "end": 3301.36
+  },
+  {
+    "text": "valid. That's what I'm trying to say. But I do think that sometimes we become too confrontation or",
+    "uid": "61adfbda66ff959f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3301.36,
+    "end": 3306.96
+  },
+  {
+    "text": "that there's only one valid perspective that should prevail and the other ones are just wrong. A view of science",
+    "uid": "e5e03721b1b51ac9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3306.96,
+    "end": 3315.68
+  },
+  {
+    "text": "from a more multi-perspective viewpoint. I think it's a richer one and it's one that I would like to",
+    "uid": "5db09466bb2528b3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3315.76,
+    "end": 3323.12
+  },
+  {
+    "text": "be able to engage more effectively in and not be so combative if some perceive me as being and the",
+    "uid": "e79ebf43479a0c66",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3323.12,
+    "end": 3330.16
+  },
+  {
+    "text": "field in general because I think we can make a lot more progress. I mean I think we need to be in",
+    "uid": "e609bae28a2622f1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3330.16,
+    "end": 3335.04
+  },
+  {
+    "text": "decisive and battle things out. That's one thing as the level of the extent to which our ideas are",
+    "uid": "b2216ed3dde392ff",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3335.04,
+    "end": 3341.44
+  },
+  {
+    "text": "good explanations for the empirical findings that we have but not to the exclusion of other viewpoints.",
+    "uid": "ce4512c2c914aa8e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3341.44,
+    "end": 3347.76
+  },
+  {
+    "text": "I think that we need to encourage a more perspective-tive type of approach that I think is not as fully",
+    "uid": "9805bb16cdc6a114",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3347.76,
+    "end": 3355.6
+  },
+  {
+    "text": "appreciated. I think I'm coming to appreciate more and more. That's a really good note to close on.",
+    "uid": "cf08a68d895775f9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3355.6,
+    "end": 3361.28
+  },
+  {
+    "text": "I definitely have observed and talking to some guests in the past that have had divergent viewpoints",
+    "uid": "2a956502b9e986e2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3361.28,
+    "end": 3369.04
+  },
+  {
+    "text": "that I sometimes feel like they are talking past each other and I can't figure out how to",
+    "uid": "cfb0f89cf58c3fe3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3369.36,
+    "end": 3375.6
+  },
+  {
+    "text": "to fix that. I don't think I'm the person but I think what you're saying is very important. I also think",
+    "uid": "76162df4e82e8bf0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3376.16,
+    "end": 3382.64
+  },
+  {
+    "text": "it's important that scientists understand sometimes how their conflicts are misperceived by the",
+    "uid": "0f68f95dd53e7880",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3382.64,
+    "end": 3388.96
+  },
+  {
+    "text": "public. You can see how the anti-science types are using some behavior by scientists against them.",
+    "uid": "514b79a31b724e48",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3388.96,
+    "end": 3396.0
+  },
+  {
+    "text": "Oh there's no agreement on global warming. Of course that's because they're cherry picking the",
+    "uid": "7eb32e8a70bffa45",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3396.0,
+    "end": 3401.2
+  },
+  {
+    "text": "guys that are out there in the wild but they can do the same thing when it comes to not to say that",
+    "uid": "f1c87891e97ba4cf",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3401.2,
+    "end": 3408.56
+  },
+  {
+    "text": "everybody should close the wagons altogether but we do need to have a way to balance fighting for",
+    "uid": "1c0c8a284c191b25",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3408.56,
+    "end": 3415.84
+  },
+  {
+    "text": "our ideas against listening. But isn't that sort of what's going on in our culture in general?",
+    "uid": "2524c9962aa49b6f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3415.84,
+    "end": 3422.32
+  },
+  {
+    "text": "All lack of ability to listen to diverse viewpoints. I think so I think so but I think",
+    "uid": "0d2d4879772e6eb1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3422.32,
+    "end": 3429.12
+  },
+  {
+    "text": "in science it has always been like that so I think in a well in the society too. But I think scientists",
+    "uid": "9fa3086aec3f653e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3429.12,
+    "end": 3435.52
+  },
+  {
+    "text": "have this view that we want to find that truth in the one way of looking at something and I think",
+    "uid": "1a2a5b6794614634",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3435.52,
+    "end": 3442.96
+  },
+  {
+    "text": "that again it's not to say that all viewpoints are equally correct but we can understand in physics",
+    "uid": "21323fd494d87fee",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3443.76,
+    "end": 3450.96
+  },
+  {
+    "text": "friends we can understand things from a quantum perspective, from a classical perspective and I think",
+    "uid": "2ba6ba50652fb770",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3450.96,
+    "end": 3456.4
+  },
+  {
+    "text": "in neuroscience we need to foster something comparable to the extent that we actually have multiple",
+    "uid": "8496a8f3b1a13dca",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3456.4,
+    "end": 3463.2
+  },
+  {
+    "text": "reinforcing viewpoints. So for instance one possibility is how can we have in a system that is highly",
+    "uid": "256787dc30ef5ae5",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3463.76,
+    "end": 3470.32
+  },
+  {
+    "text": "distributed certain properties that look more modular? How does a complex system behaving that way",
+    "uid": "48eca906683c0c4d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3470.32,
+    "end": 3478.4
+  },
+  {
+    "text": "and vice versa if you have some inclination to think that the brain has more stronger specialization",
+    "uid": "21ddb53a1bcc90d6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3478.48,
+    "end": 3484.32
+  },
+  {
+    "text": "in certain parts of the brain? How does this contribute to certain properties that are much more context",
+    "uid": "7b01e14e97d9b64c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3485.04,
+    "end": 3491.36
+  },
+  {
+    "text": "dependent and dynamic and temporally evolving then you would have predicted from a more specific type of",
+    "uid": "79dc57f2d255a05e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3491.36,
+    "end": 3498.08
+  },
+  {
+    "text": "computation that you did? So I think that we need more of that in neuroscience and genetics and to have",
+    "uid": "2c48d12c6f78cf93",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3498.08,
+    "end": 3505.12
+  },
+  {
+    "text": "a more sophisticated nuanced kind of science in the biological sciences which are I think quite",
+    "uid": "ea1c022c945db58f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3506.08,
+    "end": 3511.28
+  },
+  {
+    "text": "sometimes different from physics and from other disciplines but maybe it's humans where we seem to be",
+    "uid": "44277ebb8c2ee19f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3511.28,
+    "end": 3518.0
+  },
+  {
+    "text": "sort of wired for either or thinking. Yeah, very nice though. Well listen I really appreciate you",
+    "uid": "65bf1d40696fe663",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3518.0,
+    "end": 3526.4
+  },
+  {
+    "text": "taking the time to talk with me today and maybe we won't go quite so long between now and the next time",
+    "uid": "b805dbca6587810c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3526.4,
+    "end": 3533.12
+  },
+  {
+    "text": "we talk. That would be fantastic. Thank you so much for giving the opportunity and for having this",
+    "uid": "ab4de99a317319e6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3533.12,
+    "end": 3538.56
+  },
+  {
+    "text": "wonderful discussion and this conversation. I'll try to keep my announcement short but I have to remind",
+    "uid": "c7cbcf29fa0f8175",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3538.56,
+    "end": 3548.32
+  },
+  {
+    "text": "you that you will find complete show notes and episode transcripts at brainscienceplicast.com and you",
+    "uid": "66d873cf8fdc62f3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3548.32,
+    "end": 3554.08
+  },
+  {
+    "text": "can send me feedback at brainscienceplicast.gmail.com. Also, I want to remind you that the free brain science",
+    "uid": "4750fd987f5ccc5b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3554.08,
+    "end": 3560.88
+  },
+  {
+    "text": "mobile app is now called brain science podcast. This app is available for all mobile devices and it's",
+    "uid": "7e467d1ccd3226e4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3560.96,
+    "end": 3567.12
+  },
+  {
+    "text": "great way to access both free and premium content. I'll talk a little bit more about how to access",
+    "uid": "de3157cc7666b6b6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3567.12,
+    "end": 3573.2
+  },
+  {
+    "text": "premium content after the episode review. For the last several months I've been talking about my upcoming",
+    "uid": "9e0e20e58a32b742",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3573.2,
+    "end": 3579.68
+  },
+  {
+    "text": "move to New Zealand but due to unexpected delays in getting my visa it now looks like it will be some time",
+    "uid": "9bc8a4d9adccdd47",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3579.68,
+    "end": 3586.24
+  },
+  {
+    "text": "in July 2023 before it actually moved. I would still appreciate hearing from those of you who live in",
+    "uid": "30bdf5d5299ba595",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3586.24,
+    "end": 3592.56
+  },
+  {
+    "text": "New Zealand and Australia. I also hope that once I get settled I will be able to arrange some",
+    "uid": "dd4f8f39f065f011",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3592.56,
+    "end": 3597.76
+  },
+  {
+    "text": "listener meetups like the one we had in Amsterdam in April. I want to give a belated shout out to those",
+    "uid": "58b5dcbe03ead2c3",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3597.76,
+    "end": 3604.24
+  },
+  {
+    "text": "who came to that meetup. I had forgotten how much fun it is to talk with listeners face to face.",
+    "uid": "4dbc0ba67b39fe82",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3604.24,
+    "end": 3609.6
+  },
+  {
+    "text": "Wherever you live you can be sure that you never miss an episode of brain science by signing up for the",
+    "uid": "ffdefcfc04276664",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3610.64,
+    "end": 3615.92
+  },
+  {
+    "text": "free brain science newsletter so that you can get show notes automatically every month. Just text brain",
+    "uid": "18b69c28b9c3782a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3615.92,
+    "end": 3621.84
+  },
+  {
+    "text": "science all one word to 55444 that's brain science all one word to 554444. Brain science is independently",
+    "uid": "99f7ce520b7c8d41",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3621.84,
+    "end": 3633.36
+  },
+  {
+    "text": "produced and it relies on listeners like you for financial support. I want to thank everyone who supports",
+    "uid": "b5fddd6f29867942",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3633.36,
+    "end": 3640.32
+  },
+  {
+    "text": "my work either financially or by sharing it with others. I've actually created a table to help you",
+    "uid": "b3ab93e08719f171",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3640.32,
+    "end": 3646.16
+  },
+  {
+    "text": "decide whether my lives in premium or Patreon is best for you. Patreon supporters who pledge at least",
+    "uid": "ec6523143515cc2d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3646.16,
+    "end": 3653.12
+  },
+  {
+    "text": "$10 a month get transcripts, add free episodes and a copy of my book. Are you sure the unconscious",
+    "uid": "ef0c69ec90f39678",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3653.12,
+    "end": 3659.84
+  },
+  {
+    "text": "origins of certainty? If you're already a $10 supporter but you didn't get your copy be sure to let me know.",
+    "uid": "7c463866fca6f682",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3659.84,
+    "end": 3666.24
+  },
+  {
+    "text": "Of course you can also give single donations via PayPal or Venmo. There's links for everything at",
+    "uid": "4325ec6883601a79",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3667.2,
+    "end": 3673.76
+  },
+  {
+    "text": "brain science.pacast.com. So now let's review the key ideas from today's episode. The key idea of",
+    "uid": "5fc55df04fe96e30",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3673.76,
+    "end": 3681.68
+  },
+  {
+    "text": "episode 209 is captured by the title of Luis Pessoa's new book, the entangled brain,",
+    "uid": "80eb34580a9d64fd",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3681.68,
+    "end": 3688.96
+  },
+  {
+    "text": "how a perception, cognition and emotion are woven together. If you are a regular listener you may",
+    "uid": "171b1b2b935b7d71",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3688.96,
+    "end": 3696.32
+  },
+  {
+    "text": "not find this idea surprising but Pessoa reminds us that the mainstream view of brain function remains",
+    "uid": "81d0c7a4ca239bd8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3696.32,
+    "end": 3704.08
+  },
+  {
+    "text": "largely modular and reductionistic. In fact these two ideas are entangled in their own way.",
+    "uid": "adde6b9e40033520",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3704.08,
+    "end": 3710.64
+  },
+  {
+    "text": "The evidence against this viewpoint began accumulating before I started this podcast back in 2006.",
+    "uid": "931acb18e2689aac",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3711.52,
+    "end": 3718.48
+  },
+  {
+    "text": "And we have talked with many guests about this evidence. One key discovery was the realization",
+    "uid": "9d6c1f81c87dfcf1",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3718.96,
+    "end": 3725.04
+  },
+  {
+    "text": "that individual neurons can participate in multiple networks and that even areas of the brain",
+    "uid": "69042dff5b57fea2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3725.04,
+    "end": 3731.84
+  },
+  {
+    "text": "largely devoted to particular activities such as sensor motor functions can contain neurons that do",
+    "uid": "b3fba0f384fc6d0e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3731.84,
+    "end": 3739.2
+  },
+  {
+    "text": "other things. Back when I first talked with Dr. Pessoa about his book, the cognitive emotional brain",
+    "uid": "8f8db40efe5f33fe",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3739.2,
+    "end": 3746.72
+  },
+  {
+    "text": "in 2014, I was surprised to learn that the amygdala is involved not just in emotion but also",
+    "uid": "385eb78c1e357dba",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3746.8,
+    "end": 3754.4
+  },
+  {
+    "text": "decision making. But this actually makes sense if you consider the fact that animals without a cortex",
+    "uid": "ff31037504acf2cb",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3754.4,
+    "end": 3761.04
+  },
+  {
+    "text": "still have to make decisions such as wind or approach and wind or flee. One outdated idea that just",
+    "uid": "befe79264d8ee197",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3761.04,
+    "end": 3768.64
+  },
+  {
+    "text": "won't go away is the idea of the limbic system as the emotional system of the brain. Pessoa",
+    "uid": "3987d78035ab1a02",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3768.64,
+    "end": 3775.2
+  },
+  {
+    "text": "addressed this eloquently in the entangled brain and he told me that he was actually reluctant to",
+    "uid": "08558df73d077587",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3775.2,
+    "end": 3780.64
+  },
+  {
+    "text": "mention this in the book for fear of helping to perpetuate the problem. The main reason that the idea of",
+    "uid": "fecffedaaebfeee7",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3780.64,
+    "end": 3786.88
+  },
+  {
+    "text": "the Olympic system is outdated is the very fact that emotion is not tightly segregated in the brain.",
+    "uid": "b6a5e5241996a5c2",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3786.88,
+    "end": 3794.8
+  },
+  {
+    "text": "Sure the amygdala is involved as well as the anatomical locations that spawn the name,",
+    "uid": "042183e2e8926b46",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3795.52,
+    "end": 3801.68
+  },
+  {
+    "text": "limbic system, but as we have emphasized emotion and cognition think decision making are deeply entangled",
+    "uid": "45af088d144a51bb",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3802.0,
+    "end": 3809.92
+  },
+  {
+    "text": "at every level of the brain. Just try to remember that every part of the brain that is involved in",
+    "uid": "999458e313be1650",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3809.92,
+    "end": 3816.72
+  },
+  {
+    "text": "emotion does other things as well. This is what it means to move from a modular reductionist view of",
+    "uid": "76578e0b53ec1ab8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3816.72,
+    "end": 3824.48
+  },
+  {
+    "text": "brain function to one that encompasses the emerging evidence. One challenge that Pessoa emphasized was",
+    "uid": "9fe887b5f11e55c4",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3824.48,
+    "end": 3831.76
+  },
+  {
+    "text": "the need for new tools and techniques that allow us to study the true complexity and dynamic nature of brain",
+    "uid": "0946eb8b503038fa",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3831.76,
+    "end": 3839.44
+  },
+  {
+    "text": "function. These techniques are being developed in other fields which highlights the interdisciplinary",
+    "uid": "b8afb6574d2da11b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3839.44,
+    "end": 3846.24
+  },
+  {
+    "text": "nature of modern neuroscience. Pessoa emphasized that this also means that there are opportunities",
+    "uid": "62df8be3a8c949a6",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3846.24,
+    "end": 3852.96
+  },
+  {
+    "text": "for those from a wide variety of fields to contribute to neuroscience. He also emphasized the importance",
+    "uid": "2ba81a29a92e876c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3852.96,
+    "end": 3861.04
+  },
+  {
+    "text": "of humility and admitting how much we still don't know. The entangled brain, how a perception and",
+    "uid": "986cd8de97d5ab4e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3861.04,
+    "end": 3869.84
+  },
+  {
+    "text": "cognition and emotion are woven together by Luis Pessoa is his first book written for a general audience.",
+    "uid": "bb90699261266218",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3869.84,
+    "end": 3876.88
+  },
+  {
+    "text": "But I highly recommend it to listeners of all backgrounds. Best of all this is a great book to",
+    "uid": "1ec98c1a146742a8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3877.76,
+    "end": 3883.28
+  },
+  {
+    "text": "share with someone who's just getting interested in how the brain works. If you are new to brain science,",
+    "uid": "a9e09b03919cbbfc",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3883.28,
+    "end": 3889.04
+  },
+  {
+    "text": "this book will give you an excellent overview. Brain science is an unusual podcast in that our",
+    "uid": "54167575976ea6e9",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3889.04,
+    "end": 3895.68
+  },
+  {
+    "text": "listeners are very diverse and my goal is to provide content that you can all enjoy. That's the reason",
+    "uid": "4543844f3422d5e8",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3895.68,
+    "end": 3902.96
+  },
+  {
+    "text": "why the technical level of the show varies from month to month. If you want more technical details about",
+    "uid": "0c2795cad73c6ca0",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3902.96,
+    "end": 3909.28
+  },
+  {
+    "text": "Luis Pessoa's work, be sure to go back to episode 207. Also, don't forget to visit brainsciencepocass.com for",
+    "uid": "699756fb0a21ef0a",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3909.28,
+    "end": 3919.04
+  },
+  {
+    "text": "complete show notes and episode transcripts. You can send me feedback at brainsciencepocass at jemel.com",
+    "uid": "83dd36b82b00a302",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3919.04,
+    "end": 3927.2
+  },
+  {
+    "text": "and I would love to hear from you. I really appreciate your support, whether it's financial or",
+    "uid": "52c4bf06c5911a2f",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3927.28,
+    "end": 3932.72
+  },
+  {
+    "text": "sharing the show with others. The options for supporting brain science have grown organically over the years",
+    "uid": "89a21a138aee6961",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3932.72,
+    "end": 3939.36
+  },
+  {
+    "text": "and this seems to contribute to confusion about how to access premium content, especially with regards to",
+    "uid": "248d1c22740c7fac",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3939.36,
+    "end": 3946.56
+  },
+  {
+    "text": "episode transcripts. Premium content is not hosted at brainsciencepocass.com. But individual episodes and",
+    "uid": "f4edaeca90fa258c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3946.56,
+    "end": 3956.0
+  },
+  {
+    "text": "transcripts are sold there for non subscribers. I tried to put the mylips and link for the transcript",
+    "uid": "1f26809625c82602",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3956.08,
+    "end": 3964.88
+  },
+  {
+    "text": "into the new episode show notes and if you're supporting the show via Patreon, you should get an email",
+    "uid": "2ee05a58f0e749be",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3964.88,
+    "end": 3970.08
+  },
+  {
+    "text": "whenever new content is available. Patreon offers several options including its own app and the ability to",
+    "uid": "05556ff53eeb7d1e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3970.08,
+    "end": 3977.28
+  },
+  {
+    "text": "put a custom RSS URL into your favorite podcasting app. Similarly, mylips and premium content is",
+    "uid": "d0ea5abd5732588b",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3977.28,
+    "end": 3984.08
+  },
+  {
+    "text": "available by logging into the brainsciencepocass mobile app where by going to brainsciencepocass.lypson.com",
+    "uid": "113a9a7e54a13344",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3984.16,
+    "end": 3992.4
+  },
+  {
+    "text": "most mylips and users find using the mobile app to be more convenient. I know this is a little clunky",
+    "uid": "879f638ade80ef60",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 3993.44,
+    "end": 4001.76
+  },
+  {
+    "text": "and I appreciate those of you who make the extra effort to support my work. Thanks so much for listening",
+    "uid": "9dd0195da1251d8d",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 4001.76,
+    "end": 4007.28
+  },
+  {
+    "text": "and I look forward to talking with you again very soon. Brainscience is copyrighted to Virginia",
+    "uid": "7b9133db1b2fd4fe",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 4007.28,
+    "end": 4017.98
+  },
+  {
+    "text": "Campbell MD. You may copy this episode to share it with others but for any other users or derivatives,",
+    "uid": "90f34547e9d2e18c",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 4017.98,
+    "end": 4024.62
+  },
+  {
+    "text": "please contact me at brainsciencepocass.gmail.com. The theme music for brainscience is mindfire,",
+    "uid": "f651b1cee9fa88ba",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 4024.62,
+    "end": 4033.18
+  },
+  {
+    "text": "written and performed by Tony Katrachia. You can find his work at syncopationnow.com",
+    "uid": "ac191a4b62bbfc7e",
+    "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br",
+    "start": 4033.18,
+    "end": 4040.14
+  }
+]
