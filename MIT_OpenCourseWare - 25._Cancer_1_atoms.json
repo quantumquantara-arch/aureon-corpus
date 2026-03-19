@@ -1,0 +1,2781 @@
+[
+  {
+    "text": "Okay, so on Monday we talked about how cell division is regulated at this single cell level.",
+    "uid": "881ee4b07875d46f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 16.56,
+    "end": 23.56
+  },
+  {
+    "text": "On Wednesday we talked about how regeneration is mediated at the level of an entire tissue.",
+    "uid": "566c0fdaf5049324",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 23.56,
+    "end": 31.56
+  },
+  {
+    "text": "And today we're going to talk about how all of that can go wrong.",
+    "uid": "f700d0ffb39426f7",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 31.56,
+    "end": 35.56
+  },
+  {
+    "text": "Okay, and when all of this goes wrong, it results in a disease that's actually many different diseases,",
+    "uid": "4dd1407f1e303388",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 35.56,
+    "end": 43.56
+  },
+  {
+    "text": "but are commonly known as cancer.",
+    "uid": "7858ab6826d60f18",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 43.56,
+    "end": 47.56
+  },
+  {
+    "text": "Okay, and as illustrated in this cartoon, what you see is that cancer can often be defined as having distinct steps,",
+    "uid": "cd9de1f2d553d76c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 47.56,
+    "end": 58.56
+  },
+  {
+    "text": "and it's a progressive essentially deregulation of normal cell and tissue behavior.",
+    "uid": "d95c54e29c8d662e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 58.56,
+    "end": 66.56
+  },
+  {
+    "text": "Okay, so when we're thinking about cancer, we're thinking about a step-wise degeneration,",
+    "uid": "448c7d2b749c0f46",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 67.56,
+    "end": 77.45
+  },
+  {
+    "text": "and cancer is a disease that affects an individual's own cells,",
+    "uid": "76af17527194be26",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 77.45,
+    "end": 87.49
+  },
+  {
+    "text": "but those cells get progressively and progressively dysregulated in their behavior,",
+    "uid": "1e2040622254bd03",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 87.49,
+    "end": 93.49
+  },
+  {
+    "text": "and the coordination of their behavior with the rest of the tissue.",
+    "uid": "4cafacdc9b5f6b00",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 93.49,
+    "end": 98.49
+  },
+  {
+    "text": "So it says step-wise degeneration of normal cell behavior, and it results from mutations that are occurring in the cell,",
+    "uid": "0f1e5997bb86eda8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 98.49,
+    "end": 114.38
+  },
+  {
+    "text": "and we'll talk about what types of mutations right now,",
+    "uid": "4727956e5d4b5f4e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 114.38,
+    "end": 120.75
+  },
+  {
+    "text": "and then we'll take you through some examples of different signaling pathways,",
+    "uid": "043e6ebaf7d6875a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 120.75,
+    "end": 125.75
+  },
+  {
+    "text": "and we'll try to classify what different types of genes should be labeled as.",
+    "uid": "e6c81ed1281b074f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 125.75,
+    "end": 133.75
+  },
+  {
+    "text": "Okay, so first I want to talk about classes of genes, and their involvement in cancer.",
+    "uid": "9b6ac0ea58984880",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 133.75,
+    "end": 140.75
+  },
+  {
+    "text": "And the first example that I'll take you through is known as an oncogene.",
+    "uid": "1a769baa4008682a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 140.75,
+    "end": 149.66
+  },
+  {
+    "text": "It's referred to as an oncogene after the mutation has already happened,",
+    "uid": "b0164ed2be3e3ed1",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 149.66,
+    "end": 160.54
+  },
+  {
+    "text": "and so an oncogeneic mutation is a mutation that's going to promote growth and survival of a cell.",
+    "uid": "3e2d672b01b1cdbd",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 160.54,
+    "end": 169.54
+  },
+  {
+    "text": "So this promotes growth.",
+    "uid": "be631234614554f1",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 169.54,
+    "end": 177.86
+  },
+  {
+    "text": "Before the gene is mutated, it's referred to as a proto-uncogene.",
+    "uid": "d1186cd7d30e6fd1",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 177.86,
+    "end": 182.86
+  },
+  {
+    "text": "So before mutated, the gene is labeled a proto-uncogene,",
+    "uid": "64c5b2ce2d4fbc6f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 182.86,
+    "end": 194.28
+  },
+  {
+    "text": "and the normal function of these proto-uncogenees is also to promote growth and survival,",
+    "uid": "e56613e7e5bf0594",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 194.28,
+    "end": 206.17
+  },
+  {
+    "text": "but they do so in a regulated manner.",
+    "uid": "75e61aaa1fc4612d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 206.17,
+    "end": 209.17
+  },
+  {
+    "text": "So gene becomes an oncogene when there's a mutation that causes it to be unregulated by the environment of the cell,",
+    "uid": "a21f1cec8d3f2220",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 209.17,
+    "end": 219.17
+  },
+  {
+    "text": "or even the surroundings of the cell, and so you can think of this as a constitutive activation.",
+    "uid": "32651807dd0093e6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 219.17,
+    "end": 227.17
+  },
+  {
+    "text": "Often oncogenees are constitutively active forms of normal genes.",
+    "uid": "c62d659affdb7a81",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 228.17,
+    "end": 233.17
+  },
+  {
+    "text": "Okay, and one way to think about this is you have a gene whose normal function is to promote growth,",
+    "uid": "1719015ae5d058aa",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 233.17,
+    "end": 244.78
+  },
+  {
+    "text": "and it's kind of stuck in the state of the gene that always promotes growth,",
+    "uid": "e273c351571aa107",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 244.78,
+    "end": 250.78
+  },
+  {
+    "text": "which is not normally how it works.",
+    "uid": "70e2404a77b8ca73",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 250.78,
+    "end": 252.78
+  },
+  {
+    "text": "Normally there are signals that tell a cell to grow, and those signals come and go,",
+    "uid": "0bbe9f7a2379285a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 252.78,
+    "end": 258.78
+  },
+  {
+    "text": "and that's how the body regulates when cells divide, but you can have a situation where it's essentially the equivalent of what you might consider a stuck accelerator.",
+    "uid": "5950e901f2b90883",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 258.78,
+    "end": 271.78
+  },
+  {
+    "text": "If you're thinking about an automobile, so if you have a stuck accelerator, and you can only speed up and you can't slow down,",
+    "uid": "bc6a00f3d1abf8e8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 271.78,
+    "end": 278.78
+  },
+  {
+    "text": "this is analogous to an oncogenic mutation.",
+    "uid": "1775a8eb5c74c903",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 278.78,
+    "end": 282.78
+  },
+  {
+    "text": "Now a different class of gene that's actually the kind of the opposite of an oncogene is called a tumor suppressor,",
+    "uid": "0b1cdae8f7a78d1d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 282.78,
+    "end": 294.14
+  },
+  {
+    "text": "and tumor suppressors are genes whose normal function is to inhibit growth or even promote death.",
+    "uid": "ba93e32f66c0fe09",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 294.14,
+    "end": 309.96
+  },
+  {
+    "text": "So tumor suppressors inhibit growth or promote death.",
+    "uid": "ecaaf1065a6dc891",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 309.96,
+    "end": 319.93
+  },
+  {
+    "text": "You could see how these two different things would have the same effect, and that it's not allowing one cell to become a lot of cells",
+    "uid": "6045bf83d20c3689",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 320.93,
+    "end": 329.93
+  },
+  {
+    "text": "because the tumor suppressor will either prevent it from dividing or will cause the cells to die.",
+    "uid": "689a4010720824a9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 329.93,
+    "end": 335.93
+  },
+  {
+    "text": "And so the cancer phenotype is associated with a loss of function of the tumor suppressor.",
+    "uid": "142e587aa859755c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 336.93,
+    "end": 343.93
+  },
+  {
+    "text": "Okay, so these result from loss of function mutations in the tumor suppressors.",
+    "uid": "5f0e9f7069783170",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 343.93,
+    "end": 350.93
+  },
+  {
+    "text": "So if you remove the thing that's inhibiting growth, then that allows the cells to divide in a more unregulated way.",
+    "uid": "825f22dfac230e8e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 351.93,
+    "end": 361.93
+  },
+  {
+    "text": "And so sticking with the analogy of an automobile, you could think of a tumor suppressor mutation as a cell having defective breaks.",
+    "uid": "90c809044c93adb3",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 363.93,
+    "end": 374.93
+  },
+  {
+    "text": "Okay? So you can think of this as defective breaks.",
+    "uid": "590de6295ae84526",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 374.93,
+    "end": 389.33
+  },
+  {
+    "text": "Okay? So it's the loss of function of these that lead to cancer.",
+    "uid": "862dab0f62517da7",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 389.33,
+    "end": 394.33
+  },
+  {
+    "text": "Now I want to tell you about one last class of genes that are implicated in cancer.",
+    "uid": "f1c6a1584f222f6c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 395.33,
+    "end": 400.33
+  },
+  {
+    "text": "And these are what in the diagram up there are referred to as caretaker genes.",
+    "uid": "98c980558c336b94",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 400.33,
+    "end": 406.33
+  },
+  {
+    "text": "And what that refers to is the fact that these genes are involved in maintaining the genomic integrity of the cell.",
+    "uid": "7c248d955b6c3ef7",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 406.33,
+    "end": 418.91
+  },
+  {
+    "text": "And they can do that by mediating DNA repair when it needs to happen.",
+    "uid": "6470e9611b5d75bb",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 419.91,
+    "end": 425.91
+  },
+  {
+    "text": "So these are involved in the repair of DNA.",
+    "uid": "56d5bed470d5fe85",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 425.91,
+    "end": 435.54
+  },
+  {
+    "text": "Or actually I know what I'll say.",
+    "uid": "a3c1d1f3172d5221",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 435.54,
+    "end": 438.54
+  },
+  {
+    "text": "We'll say genome.",
+    "uid": "97e373f47bfed7c7",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 438.54,
+    "end": 441.54
+  },
+  {
+    "text": "It's involved in genome repair.",
+    "uid": "ad884c04237adc18",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 441.54,
+    "end": 445.54
+  },
+  {
+    "text": "But not only repair, but also genome stability.",
+    "uid": "5f3e8592ae4484d9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 445.54,
+    "end": 450.54
+  },
+  {
+    "text": "Right? So making sure that chromosomes are equally segregated to daughter cells.",
+    "uid": "f63f3990cafe4262",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 450.54,
+    "end": 456.54
+  },
+  {
+    "text": "So that you don't end up with cells with extra chromosomes or lacking entire chromosomes, which is known as being an upload.",
+    "uid": "bd346f2924c42340",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 456.54,
+    "end": 463.54
+  },
+  {
+    "text": "So genome repair and also integrity.",
+    "uid": "d8ebe326c6c3ed5a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 463.54,
+    "end": 468.54
+  },
+  {
+    "text": "Okay? And again, it's because these promote genome integrity.",
+    "uid": "2c45860b8a8edad4",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 468.54,
+    "end": 478.99
+  },
+  {
+    "text": "It's a loss of the function of these genes that is what promotes cancer.",
+    "uid": "53d06487510989a9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 478.99,
+    "end": 484.99
+  },
+  {
+    "text": "Okay? So a loss of function mutations and caretaker genes are what can drive a cancer phenotype.",
+    "uid": "29dba0fb50306ae3",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 484.99,
+    "end": 495.53
+  },
+  {
+    "text": "And that's because if you lose a caretaker gene that's involved in DNA repair, actually one of,",
+    "uid": "0773e0b689b67fb9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 495.53,
+    "end": 503.53
+  },
+  {
+    "text": "One example of a caretaker gene is the BRCA1 gene, which is involved in breast cancer.",
+    "uid": "02a9399e735f3289",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 503.53,
+    "end": 512.53
+  },
+  {
+    "text": "And so if you lack this BRCA1 gene, it makes it so that the cells are not as good at repairing their DNA.",
+    "uid": "cb9b3d8bba23d7bf",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 512.53,
+    "end": 521.53
+  },
+  {
+    "text": "And then the cell can accumulate additional mutations and the cell might get an oncogenic mutation or it might lose tumor suppressors.",
+    "uid": "8dc14e6b2315dd88",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 521.53,
+    "end": 531.53
+  },
+  {
+    "text": "And that's what drives the cancer phenotype.",
+    "uid": "46d8bac1d9c9bc68",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 531.53,
+    "end": 535.53
+  },
+  {
+    "text": "Okay? Now I just want to point out something that just happened this week, which is that one of our very own colleagues here at MIT,",
+    "uid": "e6c2bb3999d2e2d7",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 535.53,
+    "end": 546.53
+  },
+  {
+    "text": "and Gellica A-man, whose lab has done a lot of research that has provided fundamental insights into how a lack of genome integrity influences both normal and cancer cells.",
+    "uid": "8347b10eda405801",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 546.53,
+    "end": 563.53
+  },
+  {
+    "text": "And she just won what's known as the breakthrough prize.",
+    "uid": "a84bef02ed0fb702",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 563.53,
+    "end": 568.53
+  },
+  {
+    "text": "And so this is a prize that was initiated by a Chan Zuckerberg initiative, so it's out of Silicon Valley.",
+    "uid": "882a3caa0cdaa795",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 568.53,
+    "end": 576.53
+  },
+  {
+    "text": "And the point of the prize is to basically celebrate science like we would like movies at the Oscars.",
+    "uid": "103409b3e37638ee",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 576.53,
+    "end": 583.53
+  },
+  {
+    "text": "And so this is, and Gellica, here, receiving this breakthrough award, and this just happened this past weekend.",
+    "uid": "2770144a69cc0e5f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 583.53,
+    "end": 590.53
+  },
+  {
+    "text": "And this is for her fundamental work on how anuploidy influences the biology, not only of normal cells, but also cancer cells.",
+    "uid": "214b96056fbb6786",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 590.53,
+    "end": 599.53
+  },
+  {
+    "text": "Okay? Because it plays an important role in the biology of cancer.",
+    "uid": "ca415eefde2d3224",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 599.53,
+    "end": 607.03
+  },
+  {
+    "text": "All right, so now that we've defined some of these key genes, I want to talk about one example of a pathway that influences cell division.",
+    "uid": "f0e572f59eba7979",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 607.03,
+    "end": 617.03
+  },
+  {
+    "text": "And we'll go through all of the genes in this pathway and decide whether or not they should be considered oncogenes, tumors, oppressors, or caretakers.",
+    "uid": "239ff7698fc82cb2",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 617.03,
+    "end": 626.03
+  },
+  {
+    "text": "And the pathway we're going to look at involves the G1 to ask transition.",
+    "uid": "93ccdb31ef65a464",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 626.03,
+    "end": 633.66
+  },
+  {
+    "text": "And you'll recall that this G1 to ask transition in the cell cycle is referred to as start.",
+    "uid": "76ee75769b67de9b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 633.66,
+    "end": 645.8
+  },
+  {
+    "text": "And is the point in which an individual cell commits to going through the entire cell cycle.",
+    "uid": "f0f4c326de54e241",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 645.8,
+    "end": 651.8
+  },
+  {
+    "text": "Okay? So this G1 asks transition or start.",
+    "uid": "a4324abd4b54a985",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 651.8,
+    "end": 655.8
+  },
+  {
+    "text": "What kicks off the whole process is the expression of a cyclone.",
+    "uid": "129163d66cf3c9c3",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 655.8,
+    "end": 661.8
+  },
+  {
+    "text": "And that is specifically the G1 cyclone.",
+    "uid": "7a72354d666be34f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 661.8,
+    "end": 668.81
+  },
+  {
+    "text": "And this G1 cyclone is regulated by many different things.",
+    "uid": "06f373f4d729e949",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 668.81,
+    "end": 674.81
+  },
+  {
+    "text": "And we've talked about a lot of them. First of all, there are growth signals.",
+    "uid": "dd43458462c2865d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 674.81,
+    "end": 680.81
+  },
+  {
+    "text": "These are secreted proteins that allow cells to communicate with each other.",
+    "uid": "ac9631df766951a3",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 680.81,
+    "end": 687.81
+  },
+  {
+    "text": "And many growth signals promote growth and cell division by up regulating this G1 cyclone.",
+    "uid": "301545750e73b989",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 687.81,
+    "end": 694.81
+  },
+  {
+    "text": "Okay? So you're actually regulating the gene expression of this particular cyclone gene.",
+    "uid": "191e1773d5111b7c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 694.81,
+    "end": 701.81
+  },
+  {
+    "text": "Okay? We also talked about wind. And wind is another type of signaling system.",
+    "uid": "e8f09fdaa031c488",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 701.81,
+    "end": 707.81
+  },
+  {
+    "text": "And one of its targets is also the G1 cyclone.",
+    "uid": "24acc1bced6de431",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 707.81,
+    "end": 711.81
+  },
+  {
+    "text": "Okay? So both of these signals promote growth.",
+    "uid": "657047c3927c4d59",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 711.81,
+    "end": 714.81
+  },
+  {
+    "text": "There are also other types of signals, like cytokines, which also promote G1 cyclone expression.",
+    "uid": "e072bb5f41c20f04",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 714.81,
+    "end": 722.81
+  },
+  {
+    "text": "So this is a really pivotal control point for the cell to decide whether or not to enter into the cell cycle.",
+    "uid": "f972a0383f75a74b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 722.81,
+    "end": 730.81
+  },
+  {
+    "text": "I'll point out that there are also other types of signals that inhibit growth.",
+    "uid": "6d3da59b426e3925",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 730.81,
+    "end": 736.81
+  },
+  {
+    "text": "And I'll call those growth inhibitors. And so these growth inhibitors inhibit G1 cyclone expression.",
+    "uid": "af11952940318a0d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 736.81,
+    "end": 743.81
+  },
+  {
+    "text": "So if you have a cell in your body and it's trying to decide whether or not to divide,",
+    "uid": "1788a3e75703b05b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 743.81,
+    "end": 749.81
+  },
+  {
+    "text": "it's basically reading out, like how many growth positive signals that's seeing versus growth negative signals.",
+    "uid": "e3293fbc28611de9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 749.81,
+    "end": 756.81
+  },
+  {
+    "text": "And it's able to integrate that information based on how much G1 cyclone it produces.",
+    "uid": "31fded590c62193c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 756.81,
+    "end": 762.81
+  },
+  {
+    "text": "And that determines whether or not it goes into the cell cycle.",
+    "uid": "e7d9652cdeeb4a19",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 762.81,
+    "end": 766.81
+  },
+  {
+    "text": "Okay? So G1 cyclone and G1 cyclone functions with cyclone dependent kinase.",
+    "uid": "47142c908e14af15",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 766.81,
+    "end": 774.81
+  },
+  {
+    "text": "So this depends on cyclone dependent kinase.",
+    "uid": "658ff42ffd32daf6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 774.81,
+    "end": 777.81
+  },
+  {
+    "text": "This eventually leads to the expression of the G1 to S cyclone.",
+    "uid": "2329b8efd28f4f2d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 777.81,
+    "end": 783.81
+  },
+  {
+    "text": "And it's the G1 to S cyclone, which is responsible for activating the transition from G1 to S, which is known as start in yeast in the restriction point and mammalian cells.",
+    "uid": "6b679a10a960e744",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 783.81,
+    "end": 797.81
+  },
+  {
+    "text": "Okay? But I'll start really with this G1 cyclone.",
+    "uid": "dfa80979904acbe0",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 797.81,
+    "end": 801.81
+  },
+  {
+    "text": "Okay? So I want to talk about this step in the cell cycle.",
+    "uid": "f362cb1cb81f5f8b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 801.81,
+    "end": 806.81
+  },
+  {
+    "text": "And I'll show you the nitty-gritty of the mechanisms that are involved.",
+    "uid": "936e772f600d1457",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 806.81,
+    "end": 810.81
+  },
+  {
+    "text": "And we'll talk about what types of genes all of these genes are.",
+    "uid": "b96d3b2c59e3a577",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 810.81,
+    "end": 815.81
+  },
+  {
+    "text": "And it's going to involve a very important gene that's going to tell you a lot more about in just a few minutes.",
+    "uid": "2e0adcc17a2e4243",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 815.81,
+    "end": 823.81
+  },
+  {
+    "text": "All right. So the critical determinant of start is this G1 S cyclone.",
+    "uid": "a697551f85c1bd54",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 823.81,
+    "end": 830.81
+  },
+  {
+    "text": "So I'm drawing a piece of DNA here.",
+    "uid": "ad5ae07ca3d43ae4",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 830.81,
+    "end": 832.81
+  },
+  {
+    "text": "Here's the G1 S cyclone gene. So this is DNA.",
+    "uid": "03a945f3a28a9eb0",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 832.81,
+    "end": 837.81
+  },
+  {
+    "text": "Just drew a piece of DNA. Part of the genome, this is the G1 S cyclone gene.",
+    "uid": "6002c2b6f02b336b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 837.81,
+    "end": 844.81
+  },
+  {
+    "text": "Okay? And this gene is activated.",
+    "uid": "d0e1a36dfd5d51f2",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 844.81,
+    "end": 848.81
+  },
+  {
+    "text": "It's transcription is activated by a transcription factor.",
+    "uid": "1dd257216bdc6a06",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 848.81,
+    "end": 851.81
+  },
+  {
+    "text": "Known as E2F. Okay? So we'll keep track of what these are. E2F is a transcription factor.",
+    "uid": "f85b5824feef619d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 851.81,
+    "end": 860.81
+  },
+  {
+    "text": "Okay? So E2F is a transcription factor that will activate the expression of this G1 S cyclone.",
+    "uid": "65999813bd9068eb",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 860.81,
+    "end": 875.56
+  },
+  {
+    "text": "But in early G1, there's a protein that binds to E2F.",
+    "uid": "b6a0e2c7b7660ffb",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 875.56,
+    "end": 883.13
+  },
+  {
+    "text": "And this protein is called RB. I'll tell you what RB stands for in just a minute.",
+    "uid": "ab74e18c77fc5ed0",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 883.13,
+    "end": 888.13
+  },
+  {
+    "text": "But what RB does is it binds to E2F and it inhibits its transcriptional activity.",
+    "uid": "1a866b47987aca90",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 888.13,
+    "end": 895.13
+  },
+  {
+    "text": "Okay? So in early G1, E2F is inhibited.",
+    "uid": "bfdc9d208b3a590a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 895.13,
+    "end": 900.13
+  },
+  {
+    "text": "And the expression of this G1 S cyclone is off. Okay? So this is off or repressed.",
+    "uid": "a7b20d14ef05f2cf",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 900.13,
+    "end": 908.13
+  },
+  {
+    "text": "Okay? So before the cell passes start, this expression is off.",
+    "uid": "255a91e46240dbd7",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 908.13,
+    "end": 917.73
+  },
+  {
+    "text": "Okay? So this is early G1 before start.",
+    "uid": "bc8030d406117a55",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 917.73,
+    "end": 925.95
+  },
+  {
+    "text": "Now what happens is this state is changed by the G1 S cyclone.",
+    "uid": "a4bc5fa6ebb03601",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 925.95,
+    "end": 931.95
+  },
+  {
+    "text": "So if there's G1's adequate levels of G1 S and this is in complex with S.",
+    "uid": "023e7a1276e011bf",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 931.95,
+    "end": 938.95
+  },
+  {
+    "text": "In a few days, if the cyclones always, their functions are always mediated through cycle independent kinase.",
+    "uid": "6d73b31338c923ec",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 938.95,
+    "end": 944.95
+  },
+  {
+    "text": "So the cyclones are never as far as I know, functioning on their by themselves.",
+    "uid": "d26a0f89a93e479d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 944.95,
+    "end": 948.95
+  },
+  {
+    "text": "They're always functioning through this cycle, one of the cycle independent kinases.",
+    "uid": "80d91b3996b8341f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 948.95,
+    "end": 954.95
+  },
+  {
+    "text": "Okay. So G1, cyclone, CDK, phosphorolates RB.",
+    "uid": "ad22601fedac2d67",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 954.95,
+    "end": 959.95
+  },
+  {
+    "text": "And so you then get an RB that has a bunch of phosphates attached to it.",
+    "uid": "7ca74e2a976a4a73",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 959.95,
+    "end": 969.7
+  },
+  {
+    "text": "And this inhibits RB function such that it can't bind to E2F.",
+    "uid": "c1bee501b6395aa5",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 969.7,
+    "end": 975.7
+  },
+  {
+    "text": "So when G1 cyclone CDK phosphorylates RB, that causes RB to go away from the promoter of the G1S cyclone.",
+    "uid": "f5c38d3b4f54f532",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 975.7,
+    "end": 987.7
+  },
+  {
+    "text": "And now you have this transcription factor E2F.",
+    "uid": "112271e5b01ff02e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 987.7,
+    "end": 991.7
+  },
+  {
+    "text": "3, 2, transcribed the G1S cyclone gene.",
+    "uid": "51198fe5094e0e1e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 991.7,
+    "end": 995.7
+  },
+  {
+    "text": "Okay, so this now gets turned on.",
+    "uid": "e8b7af3354d98fe6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 995.7,
+    "end": 998.7
+  },
+  {
+    "text": "And it's this activation of G1S gene expression,",
+    "uid": "9c63c43102d2ff23",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 998.7,
+    "end": 1004.53
+  },
+  {
+    "text": "which is the signal to undergo, you get G1S cyclone CDK.",
+    "uid": "aecfff5c3328d63d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1004.53,
+    "end": 1014.53
+  },
+  {
+    "text": "Because you express this gene, and that activates the transition into S-phase.",
+    "uid": "64915e623004fbe8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1014.53,
+    "end": 1021.53
+  },
+  {
+    "text": "All right, now take a look at sort of everything I just drew on the board.",
+    "uid": "50628c72dbf3de8b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1022.53,
+    "end": 1034.06
+  },
+  {
+    "text": "Who can tell me where the tumor suppressors are in this pathway?",
+    "uid": "47514f75165d8ce2",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1034.06,
+    "end": 1039.06
+  },
+  {
+    "text": "RB is a tumor suppressor.",
+    "uid": "1277a96f37ed2727",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1043.45,
+    "end": 1048.14
+  },
+  {
+    "text": "That's exactly right.",
+    "uid": "da3a2f89d3f372db",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1048.14,
+    "end": 1049.14
+  },
+  {
+    "text": "Let me get some colored chalk here.",
+    "uid": "1d5ee766720c0264",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1049.14,
+    "end": 1052.14
+  },
+  {
+    "text": "All right, I'm going to circle tumor suppressors.",
+    "uid": "d9e2d19be807d715",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1052.14,
+    "end": 1058.02
+  },
+  {
+    "text": "Are there any other tumor suppressors?",
+    "uid": "128d3ccf245dcbd3",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1060.02,
+    "end": 1064.94
+  },
+  {
+    "text": "So RB is a tumor suppressor?",
+    "uid": "dbd6f0bbb9680456",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1064.94,
+    "end": 1067.94
+  },
+  {
+    "text": "Did you have one Amanda?",
+    "uid": "e408ec956a39fcb6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1072.76,
+    "end": 1074.76
+  },
+  {
+    "text": "Georgia, Georgia, sorry.",
+    "uid": "f1100160db6da358",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1074.76,
+    "end": 1078.97
+  },
+  {
+    "text": "The growth inhibitors are also tumor suppressors exactly.",
+    "uid": "b70f19185adcbeff",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1078.97,
+    "end": 1088.28
+  },
+  {
+    "text": "Okay, how about oncogenes?",
+    "uid": "af940493086aaaac",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1088.28,
+    "end": 1090.28
+  },
+  {
+    "text": "Or what would be considered a proto-ancogen in the system?",
+    "uid": "3fc4e1861f636144",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1090.28,
+    "end": 1095.28
+  },
+  {
+    "text": "CDK would be one?",
+    "uid": "e06b9564538db6f0",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1097.28,
+    "end": 1099.28
+  },
+  {
+    "text": "So oncogenes, CDK, could be considered a proto-ancogenes?",
+    "uid": "74da9ab7a9640a8b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1100.28,
+    "end": 1109.06
+  },
+  {
+    "text": "Well, what defines an oncogen or a proto-ancogenes?",
+    "uid": "6012dffcbd7599dd",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1110.06,
+    "end": 1119.82
+  },
+  {
+    "text": "What's its normal function in the cell?",
+    "uid": "19c2f9ac4008d293",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1119.82,
+    "end": 1126.02
+  },
+  {
+    "text": "So a promotes growth and moving a cell along the cell cycle will promote growth.",
+    "uid": "01c95eee294be774",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1133.21,
+    "end": 1138.21
+  },
+  {
+    "text": "So yes, exactly.",
+    "uid": "00465e8aa022c1de",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1138.21,
+    "end": 1140.21
+  },
+  {
+    "text": "So anything here promoting growth, besides CDK?",
+    "uid": "e6cb9b238798b8c9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1140.21,
+    "end": 1144.21
+  },
+  {
+    "text": "E2F would be a proto-ancogen?",
+    "uid": "5dac4cc3e1675a69",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1145.21,
+    "end": 1147.21
+  },
+  {
+    "text": "Jeremy, did you have an idea?",
+    "uid": "71e8a8d481ff170a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1148.21,
+    "end": 1151.62
+  },
+  {
+    "text": "Basically, everything else here would be considered a proto-ancogen.",
+    "uid": "f0a5d651a95fae74",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1153.62,
+    "end": 1157.62
+  },
+  {
+    "text": "Winds are proto-ancogenes.",
+    "uid": "a65c2f471f20acf0",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1158.62,
+    "end": 1159.62
+  },
+  {
+    "text": "They're promoting growth by promoting the expression of G1, cyclone.",
+    "uid": "bb1c822842ffad3d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1159.62,
+    "end": 1163.62
+  },
+  {
+    "text": "These growth signaling pathway.",
+    "uid": "c4de220e08a17911",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1163.62,
+    "end": 1166.62
+  },
+  {
+    "text": "All of those genes would be considered proto-ancogenes.",
+    "uid": "0ba394725b8455d5",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1166.62,
+    "end": 1169.62
+  },
+  {
+    "text": "And so anything that is promoting growth will be a proto-ancogen here.",
+    "uid": "aebd0fb9592f811c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1169.62,
+    "end": 1174.62
+  },
+  {
+    "text": "So now we're going to move on and talk about this RB gene, which I just showed you mechanistically",
+    "uid": "785703db4cf05e2e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1182.06,
+    "end": 1188.06
+  },
+  {
+    "text": "what it does.",
+    "uid": "725f41e1f77c601f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1188.06,
+    "end": 1189.06
+  },
+  {
+    "text": "But what RB stands for is retinoblastoma.",
+    "uid": "b122b56f3f80d4fc",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1189.06,
+    "end": 1193.06
+  },
+  {
+    "text": "So RB stands for retinoblastoma.",
+    "uid": "4e2d15de428c6d6a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1193.06,
+    "end": 1201.63
+  },
+  {
+    "text": "And this RB gene, as you suggested, is a tumor suppressor.",
+    "uid": "b6746d014ab354aa",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1201.63,
+    "end": 1206.63
+  },
+  {
+    "text": "It was actually the first tumor suppressor that was cloned.",
+    "uid": "ecadb471fc303fe8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1206.63,
+    "end": 1211.63
+  },
+  {
+    "text": "And so retinoblastoma, as the name implies, is involved in a human disease.",
+    "uid": "6874e7346d135836",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1211.63,
+    "end": 1218.63
+  },
+  {
+    "text": "And it's involved in a rare childhood eye tumor.",
+    "uid": "da6166efaaec1c17",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1218.63,
+    "end": 1228.67
+  },
+  {
+    "text": "So I'm going to show you one last weird eye picture.",
+    "uid": "5be7d51161a39ef0",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1228.67,
+    "end": 1237.95
+  },
+  {
+    "text": "If you don't want to look, look down or look the other way.",
+    "uid": "8933fe37b426f938",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1237.95,
+    "end": 1240.95
+  },
+  {
+    "text": "I'm going to show you a child that has retinoblastoma and what it looks like.",
+    "uid": "21fc58ab31e5d49d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1240.95,
+    "end": 1246.95
+  },
+  {
+    "text": "So it's going to appear right now.",
+    "uid": "61c74e26d0d68118",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1246.95,
+    "end": 1250.95
+  },
+  {
+    "text": "So this is an individual with retinoblastoma.",
+    "uid": "57565621380b888e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1250.95,
+    "end": 1254.95
+  },
+  {
+    "text": "You can see that there's something inside the eye growing in the back of it.",
+    "uid": "7e04a714b0b01e9e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1254.95,
+    "end": 1259.95
+  },
+  {
+    "text": "And to give you a better picture of what is happening, this is now a cross-section through a normal eye.",
+    "uid": "581fd152f4db622b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1259.95,
+    "end": 1265.95
+  },
+  {
+    "text": "This is a cartoon of the normal eye.",
+    "uid": "e592e798223875a6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1265.95,
+    "end": 1269.95
+  },
+  {
+    "text": "And individuals with retinoblastoma have a growth in the back of the eye,",
+    "uid": "563fbb08fe20143f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1269.95,
+    "end": 1274.95
+  },
+  {
+    "text": "which is the retinoblastoma, from the retinoblastoma, you can see this huge tumor that's present in the back of this eye.",
+    "uid": "e2465bb755ed1129",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1274.95,
+    "end": 1281.95
+  },
+  {
+    "text": "So this disease involves the formation of these tumors in the eye that originate from the retinoblastoma tissue.",
+    "uid": "2160948e44608222",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1281.95,
+    "end": 1289.95
+  },
+  {
+    "text": "So this disease results, it's a tumor suppressor, it's a loss of function in the retinoblastoma.",
+    "uid": "a97551dcf4149ea8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1294.61,
+    "end": 1303.95
+  },
+  {
+    "text": "So there's a defect in the retinoblastoma gene.",
+    "uid": "61239be86b076386",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1303.95,
+    "end": 1313.21
+  },
+  {
+    "text": "But this disease of retinoblastoma manifests itself in different ways.",
+    "uid": "de721012c0c32690",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1313.21,
+    "end": 1318.21
+  },
+  {
+    "text": "So there are different forms of the disease.",
+    "uid": "f5af7993981a14f8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1318.21,
+    "end": 1321.21
+  },
+  {
+    "text": "And I'll tell you how they're different.",
+    "uid": "d6ef212ca549be00",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1321.21,
+    "end": 1323.21
+  },
+  {
+    "text": "So there are two forms of the disease.",
+    "uid": "000f318ccf224d39",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1324.21,
+    "end": 1326.21
+  },
+  {
+    "text": "The first is called sporadic sporadic.",
+    "uid": "0c7bd5ff47b6d63b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1326.21,
+    "end": 1333.21
+  },
+  {
+    "text": "And it's called sporadic because this is a form of the disease that arises in families that have no history of the disease.",
+    "uid": "197e0cbd097597d1",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1333.21,
+    "end": 1345.15
+  },
+  {
+    "text": "So the sporadic form, the family has no history of the disease.",
+    "uid": "f98b5d8fe36b2cea",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1345.15,
+    "end": 1354.72
+  },
+  {
+    "text": "And this disease presents in a certain way.",
+    "uid": "b690ec79a201d88f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1354.72,
+    "end": 1362.41
+  },
+  {
+    "text": "The first is what is known as unilateral, meaning it usually only one eye is affected.",
+    "uid": "e955e0cfdfa4c13c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1362.41,
+    "end": 1370.41
+  },
+  {
+    "text": "So it usually involves only one eye.",
+    "uid": "5e3dd3fa8e1b3fb2",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1370.41,
+    "end": 1373.41
+  },
+  {
+    "text": "And this disease can be treated in children.",
+    "uid": "17875849ed1fdba6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1373.41,
+    "end": 1381.74
+  },
+  {
+    "text": "And if it's this particular, the sporadic form of the disease is treated in the child,",
+    "uid": "62b88777ca5daa23",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1381.74,
+    "end": 1388.74
+  },
+  {
+    "text": "then later on in life that individual does not have an increased risk of getting further tumors.",
+    "uid": "763bbcdaa85c0739",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1388.74,
+    "end": 1395.74
+  },
+  {
+    "text": "So there's no increased risk of cancer later in life, for example in a different organ.",
+    "uid": "07f47694b55c5f72",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1396.74,
+    "end": 1404.74
+  },
+  {
+    "text": "So this is one form of the disease.",
+    "uid": "4f251b094c50c4a1",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1406.74,
+    "end": 1409.74
+  },
+  {
+    "text": "The other form of the disease is called familial.",
+    "uid": "26a6bcd884f5f1eb",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1409.74,
+    "end": 1415.43
+  },
+  {
+    "text": "And as the name implies, familial means that the disease runs in the family.",
+    "uid": "42a3bb8cb4aa2db3",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1415.43,
+    "end": 1425.08
+  },
+  {
+    "text": "So familial means is there's some inheritance.",
+    "uid": "c544b3fb99525413",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1426.08,
+    "end": 1430.08
+  },
+  {
+    "text": "There's an inherited form of the disease.",
+    "uid": "76c3c5e4102187a5",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1430.08,
+    "end": 1434.08
+  },
+  {
+    "text": "And the familial form of the disease can be distinguished from the sporadic form because it presents differently.",
+    "uid": "52da160a223aa922",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1434.08,
+    "end": 1441.08
+  },
+  {
+    "text": "The way the familial form presents is it's often bilateral, meaning that both eyes become affected.",
+    "uid": "4fc2b16a15c1c970",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1442.08,
+    "end": 1451.08
+  },
+  {
+    "text": "So it affects both eyes.",
+    "uid": "9e3061c2e8381dfe",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1451.08,
+    "end": 1453.08
+  },
+  {
+    "text": "And also in individuals with the familial form, even when they're cured from the eye tumors,",
+    "uid": "92822bcf5cb09d3d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1453.08,
+    "end": 1462.48
+  },
+  {
+    "text": "they have a higher risk of getting other tumors and other organs of their body later on in life.",
+    "uid": "f6a9ca6d285d29d9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1462.48,
+    "end": 1469.48
+  },
+  {
+    "text": "So this is a very important part of the disease.",
+    "uid": "721153e5e8603d0c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1470.48,
+    "end": 1473.48
+  },
+  {
+    "text": "And in this case there is later an increased risk of cancer in other organs.",
+    "uid": "8685051987342520",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1473.48,
+    "end": 1487.89
+  },
+  {
+    "text": "So this is an example of a familial form of retinoblastoma,",
+    "uid": "515b3b95b0a88fb6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1487.89,
+    "end": 1492.89
+  },
+  {
+    "text": "where affected individuals here are colored in green.",
+    "uid": "adb2ca159b208e78",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1492.89,
+    "end": 1497.89
+  },
+  {
+    "text": "So what would you say the inheritance pattern is for this particular phenotype?",
+    "uid": "ccf19fe181b5eb08",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1497.89,
+    "end": 1513.74
+  },
+  {
+    "text": "Why do you say autosomal recessive?",
+    "uid": "6dfffc5e18dbdc8e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1517.4,
+    "end": 1520.4
+  },
+  {
+    "text": "Can you explain your logic?",
+    "uid": "940f803715aaafd4",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1520.4,
+    "end": 1521.4
+  },
+  {
+    "text": "It looks like it looks like when the color blindness is always the scientific audience.",
+    "uid": "4b677b332637d660",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1522.4,
+    "end": 1532.99
+  },
+  {
+    "text": "I'm wondering if it's like these concentrations where it's adherent.",
+    "uid": "f7ff449c0138df46",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1533.99,
+    "end": 1538.99
+  },
+  {
+    "text": "Can you compare it to a present or a present?",
+    "uid": "2c47b2683d66c36b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1538.99,
+    "end": 1541.99
+  },
+  {
+    "text": "So Carmen is exactly right.",
+    "uid": "fd6bbc3b09536a37",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1541.99,
+    "end": 1545.99
+  },
+  {
+    "text": "And she's saying that both males and females are getting it.",
+    "uid": "d086f75ee6491f0b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1545.99,
+    "end": 1548.99
+  },
+  {
+    "text": "So it looks like that would argue that it's not sex linked but autosomal.",
+    "uid": "de2f52845f77ea96",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1548.99,
+    "end": 1555.99
+  },
+  {
+    "text": "So it looks autosomal.",
+    "uid": "cd76e4f95a6424a7",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1555.99,
+    "end": 1559.99
+  },
+  {
+    "text": "And why do you say recessive?",
+    "uid": "6c6e78aeb7346214",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1559.99,
+    "end": 1561.99
+  },
+  {
+    "text": "Can you explain your logic there?",
+    "uid": "0a304464e1d028b8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1561.99,
+    "end": 1564.99
+  },
+  {
+    "text": "It's sort of from the left.",
+    "uid": "9eb5897d0885ac6a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1564.99,
+    "end": 1566.99
+  },
+  {
+    "text": "The one that has an arrow on both males and males.",
+    "uid": "74796650d671a45c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1566.99,
+    "end": 1569.99
+  },
+  {
+    "text": "The only one that's possible for their children to get a disease in the sort of such a way.",
+    "uid": "fd630322a4e6b1af",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1571.99,
+    "end": 1576.99
+  },
+  {
+    "text": "So Carmen is exactly right.",
+    "uid": "a3632a679fc669b4",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1577.99,
+    "end": 1579.99
+  },
+  {
+    "text": "If you have, she's looking at this individual here.",
+    "uid": "a47dbd83c980ec23",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1579.99,
+    "end": 1583.99
+  },
+  {
+    "text": "And in this case this individual was not affected with the disease but passed on the disease to their daughters.",
+    "uid": "000680c222528895",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1583.99,
+    "end": 1592.99
+  },
+  {
+    "text": "Now, I think one thing, this is an exception to the rule.",
+    "uid": "3e4c6fbfcb124fe9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1592.99,
+    "end": 1599.99
+  },
+  {
+    "text": "What you see in pretty much all the other cases is that individuals in this generation in the middle",
+    "uid": "3ab13afc5ab2cc21",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1599.99,
+    "end": 1605.99
+  },
+  {
+    "text": "here do have the disease and they pass on the disease to the next generation.",
+    "uid": "cdbd8c7c95507f27",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1605.99,
+    "end": 1612.99
+  },
+  {
+    "text": "So because I'm seeing the disease in all generations, I would say that this is likely to be autosomal dominant.",
+    "uid": "3e293a863e0c5e41",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1612.99,
+    "end": 1624.99
+  },
+  {
+    "text": "And Carmen picked up on something that I want to come to.",
+    "uid": "897177c205dd74a5",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1624.99,
+    "end": 1629.99
+  },
+  {
+    "text": "So happens that this individual was not affected by the disease.",
+    "uid": "ea885d0d6c8d7cb0",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1629.99,
+    "end": 1635.99
+  },
+  {
+    "text": "But still clearly carried a disease at Leal.",
+    "uid": "81a145bcd700569f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1635.99,
+    "end": 1639.99
+  },
+  {
+    "text": "And I'm going to talk about why this is an exception and why this is still an autosomal dominant inheritance pattern.",
+    "uid": "2cc8db92d45b3faf",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1639.99,
+    "end": 1649.99
+  },
+  {
+    "text": "But if we take it, if we take it, that this isn't autosomal dominant disease, this kind of brings up",
+    "uid": "1b7346397adf0e2c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1650.99,
+    "end": 1658.99
+  },
+  {
+    "text": "this kind of counterintuitive, at least to me, and maybe to you, because I just told you that tumor suppressors",
+    "uid": "c8ae8d6a900748b3",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1658.99,
+    "end": 1665.99
+  },
+  {
+    "text": "result from a loss of function of the gene.",
+    "uid": "9482014cb50a57de",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1665.99,
+    "end": 1670.99
+  },
+  {
+    "text": "And we're used to seeing loss of function mutations being recessive.",
+    "uid": "b397d8dbb17f1492",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1671.99,
+    "end": 1676.99
+  },
+  {
+    "text": "And actually at the cellular level, it's true.",
+    "uid": "75086efe79e1a9b4",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1677.99,
+    "end": 1680.99
+  },
+  {
+    "text": "This is, the cancer is recessive.",
+    "uid": "efdcda4956d6b521",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1680.99,
+    "end": 1683.99
+  },
+  {
+    "text": "But in this case, what you see is that at the organismal level, that the inheritance pattern actually acts as a dominant phenotype.",
+    "uid": "d5446a30252fbb5b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1684.99,
+    "end": 1693.99
+  },
+  {
+    "text": "So there's kind of a difference between the inheritance pattern at the cell level and at the organismal level.",
+    "uid": "383d8565c42004e0",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1694.99,
+    "end": 1702.99
+  },
+  {
+    "text": "And I want to tell you why that is because I think it's important for understanding the risk to cancer.",
+    "uid": "aca9f689357f9d52",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1703.99,
+    "end": 1711.99
+  },
+  {
+    "text": "And so what's being inherited here is not, what's inherited is not the full-blown disease.",
+    "uid": "52be1c2239954f77",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1711.99,
+    "end": 1720.99
+  },
+  {
+    "text": "What's inherited in the case of retinoblastoma and many other cancers is a predisposition to the disease.",
+    "uid": "d9c52139b1beff4e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1721.99,
+    "end": 1730.99
+  },
+  {
+    "text": "So what is inherited is the predisposition to the disease.",
+    "uid": "34402f163337adfb",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1731.99,
+    "end": 1748.42
+  },
+  {
+    "text": "Okay. And that's because if we look at, let's consider the top male up here.",
+    "uid": "c5952ace2451bb89",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1751.38,
+    "end": 1761.38
+  },
+  {
+    "text": "If that male is heterozygous for the RB gene, then he can have a gamete, which is RB minus.",
+    "uid": "bf28ac865cce9d5f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1762.38,
+    "end": 1772.38
+  },
+  {
+    "text": "So lacking a functional copy of the RB gene.",
+    "uid": "d1b5cc3078fff30c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1773.38,
+    "end": 1776.38
+  },
+  {
+    "text": "And he married an individual without a disease allele.",
+    "uid": "01e0fe437d742214",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1776.38,
+    "end": 1781.38
+  },
+  {
+    "text": "So there's going to, she's going to just make RB plus gametes.",
+    "uid": "10703b8f34196ae8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1781.38,
+    "end": 1786.38
+  },
+  {
+    "text": "And if they have children, and the, one of the children gets a gamete that is derived from the RB minus allele,",
+    "uid": "41aaffe99c5b3c91",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1787.38,
+    "end": 1798.38
+  },
+  {
+    "text": "then you get an individual and the zygote here, which has one functional copy of the RB gene.",
+    "uid": "b81ed2419641f64a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1798.38,
+    "end": 1805.38
+  },
+  {
+    "text": "And one mutant copy of the RB gene.",
+    "uid": "49cdfaa566d37891",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1805.38,
+    "end": 1810.38
+  },
+  {
+    "text": "So that's the egg.",
+    "uid": "855b27549fd228cf",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1812.38,
+    "end": 1814.38
+  },
+  {
+    "text": "And then that egg is going to develop and give rise to all of the cells of the body.",
+    "uid": "03d2249f39511971",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1814.38,
+    "end": 1818.38
+  },
+  {
+    "text": "And so in this case, all of the sematic cells from this individual are going to be heterozygous for the RB gene.",
+    "uid": "1a283fda7b3a3d80",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1818.38,
+    "end": 1827.38
+  },
+  {
+    "text": "So all sematic cells are heterozygous for RB.",
+    "uid": "ce464c5a9c5545f7",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1827.38,
+    "end": 1843.66
+  },
+  {
+    "text": "So there are RB plus over RB minus.",
+    "uid": "eac9590e0168a046",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1843.66,
+    "end": 1848.66
+  },
+  {
+    "text": "And the effect of that is, is it means that each of the cells in this individual are only one step away,",
+    "uid": "531afeb40c24a096",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1848.66,
+    "end": 1857.66
+  },
+  {
+    "text": "or one mutation away from lacking both copies of RB.",
+    "uid": "e7fa0a9ba4f8179d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1857.66,
+    "end": 1862.66
+  },
+  {
+    "text": "Okay. So by being heterozygous, it means that all cells in the individual are just one mutation or step from losing RB.",
+    "uid": "45a70f38b381aac5",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1862.66,
+    "end": 1881.6
+  },
+  {
+    "text": "And so the inheritance pattern, what you're looking at is the predisposition to the disease.",
+    "uid": "ca46fc14013d5993",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1887.72,
+    "end": 1894.72
+  },
+  {
+    "text": "And the predisposition doesn't mean that a person is guaranteed to get the disease.",
+    "uid": "f6601bc40f723198",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1894.72,
+    "end": 1900.72
+  },
+  {
+    "text": "And that's illustrated in this family tree.",
+    "uid": "c0582facd6b60db9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1900.72,
+    "end": 1903.72
+  },
+  {
+    "text": "Right? There was an individual here, this male here with the arrow, who clearly was a carrier for the disease because he passed on the disease to his children,",
+    "uid": "e232388fc4ad11ba",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1903.72,
+    "end": 1913.72
+  },
+  {
+    "text": "but who himself never actually was affected by the disease.",
+    "uid": "bc6b54f64c5dd439",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1913.72,
+    "end": 1918.72
+  },
+  {
+    "text": "So because it's a predisposition, it doesn't mean there's a guarantee that if you, if you are heterozygous for RB,",
+    "uid": "9259f474874c95a8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1919.72,
+    "end": 1929.72
+  },
+  {
+    "text": "there's not a guarantee that you're going to have the disease, but you're going to be predisposed to it.",
+    "uid": "1e129db4c120368d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1929.72,
+    "end": 1935.72
+  },
+  {
+    "text": "And in the case of RB, more often than not, if you lack one functional copy of RB in our heterozygous for all your cells,",
+    "uid": "21dad21958aa8c32",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1935.72,
+    "end": 1943.72
+  },
+  {
+    "text": "then you're going to be affected by the disease.",
+    "uid": "c2351017063788e0",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1943.72,
+    "end": 1948.72
+  },
+  {
+    "text": "Does that make sense, Carmen?",
+    "uid": "cb8605858465dece",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1948.72,
+    "end": 1950.72
+  },
+  {
+    "text": "Okay. So it's basically because the, yeah, Jeremy.",
+    "uid": "1da7b41a9d3721b1",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1951.72,
+    "end": 1956.72
+  },
+  {
+    "text": "And how people who are heterozygous and homosigous for the disease are affected by it.",
+    "uid": "0d22ff300302de1a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1956.72,
+    "end": 1962.72
+  },
+  {
+    "text": "Well, actually, if you are homosigous from RB, the individual would probably not be born.",
+    "uid": "d331f754b5f27464",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1962.72,
+    "end": 1969.72
+  },
+  {
+    "text": "So it would be almost, I think it would be impossible to be heterozygous for RB.",
+    "uid": "c182117284b03fc7",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1970.72,
+    "end": 1976.72
+  },
+  {
+    "text": "So really, what you're inheriting here is the predisposition.",
+    "uid": "04e555194a2a2634",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1977.72,
+    "end": 1981.72
+  },
+  {
+    "text": "And because the predisposition just requires heterozygosity, it manifests itself like a dominant phenotype.",
+    "uid": "d7bfb0c0a79289da",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1981.72,
+    "end": 1989.72
+  },
+  {
+    "text": "Right? Because you only need to inherit one allele that's mutant in order to be predisposed to get the disease.",
+    "uid": "1f001cedd09dd7fc",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1989.72,
+    "end": 1997.72
+  },
+  {
+    "text": "Okay. So that's why it appears at the organismal level to be a dominantly inherited phenotype.",
+    "uid": "5dbbd8c5904adeb3",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 1997.72,
+    "end": 2006.72
+  },
+  {
+    "text": "Okay. But then to get the disease, you need to lose a second copy of the gene.",
+    "uid": "6fd1cc7e7f47fe07",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2006.72,
+    "end": 2013.72
+  },
+  {
+    "text": "And so for the sporadic form of the disease.",
+    "uid": "a28b81d86aee5069",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2013.72,
+    "end": 2016.72
+  },
+  {
+    "text": "So we just talked about hereditary or familial retinoblastoma.",
+    "uid": "c23703eb6b449275",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2016.72,
+    "end": 2020.72
+  },
+  {
+    "text": "All of the cells of the individual will start out being heterozygous.",
+    "uid": "414c3876f1f9ed9b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2020.72,
+    "end": 2024.72
+  },
+  {
+    "text": "And then some of them will lose what is known as lose heterozygosity and become homosigous mutant in a particular tissue.",
+    "uid": "53a0c83d31768314",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2024.72,
+    "end": 2032.72
+  },
+  {
+    "text": "Okay. And that would be the tumor tissue.",
+    "uid": "bb0ef0927f26ed89",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2032.72,
+    "end": 2035.72
+  },
+  {
+    "text": "So what are some ways that there could be this loss of heterozygosity?",
+    "uid": "6192354c7cf9b136",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2035.72,
+    "end": 2040.72
+  },
+  {
+    "text": "Can you guys come up with some possible ways to do that? heterozygosity?",
+    "uid": "b3a7437a3bab3e3c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2040.72,
+    "end": 2046.72
+  },
+  {
+    "text": "How might a cell lose that second copy of RB?",
+    "uid": "90c132f3dd790515",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2046.72,
+    "end": 2053.25
+  },
+  {
+    "text": "What are some potential mechanisms that you could lose it?",
+    "uid": "7b9f0aa5bf31d775",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2053.25,
+    "end": 2061.33
+  },
+  {
+    "text": "It could be a point mutation exactly right.",
+    "uid": "89295a2c97404a8e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2062.33,
+    "end": 2065.33
+  },
+  {
+    "text": "So one way would be point mutation in RB. Other ideas? Yeah Patricia.",
+    "uid": "67a9cc2a77828ca5",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2065.33,
+    "end": 2075.59
+  },
+  {
+    "text": "There is a proper separation.",
+    "uid": "8c07b8a69c160e33",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2075.59,
+    "end": 2083.37
+  },
+  {
+    "text": "Yeah. So if you like lose a chromosome, right?",
+    "uid": "ebf8000a54c337a8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2083.37,
+    "end": 2086.37
+  },
+  {
+    "text": "So if you guys remember back, remember way back when we were all the young men and women in the early October,",
+    "uid": "c5ef08e3a1905598",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2086.37,
+    "end": 2093.37
+  },
+  {
+    "text": "we did the whole demonstration with my tosis.",
+    "uid": "9b1ca83d6edcfcc9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2093.37,
+    "end": 2096.37
+  },
+  {
+    "text": "And we had a case where we had two good friends across the metaphase plate.",
+    "uid": "33e15a04f762b975",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2096.37,
+    "end": 2102.37
+  },
+  {
+    "text": "And that brought both pairs, both sister chromatids off to one side.",
+    "uid": "49ff42f5fd2550e2",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2102.37,
+    "end": 2108.37
+  },
+  {
+    "text": "Right? That would result in loss of a chromosome.",
+    "uid": "4cb0172dc983453f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2108.37,
+    "end": 2111.37
+  },
+  {
+    "text": "And in this case, if you have a division and you lose the wild type copy of RB,",
+    "uid": "1de5465aad12f6d5",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2111.37,
+    "end": 2118.37
+  },
+  {
+    "text": "if you lose that entire chromosome, then you're going to be left with only the mutant copy of the RB.",
+    "uid": "748ee663a61b3f4f",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2118.37,
+    "end": 2124.37
+  },
+  {
+    "text": "Okay? So another mechanism would be chromosome loss.",
+    "uid": "48d4ef515e2948c6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2124.37,
+    "end": 2129.37
+  },
+  {
+    "text": "Where the chromosome that's loss is the chromosome with the wild type RB positive allele.",
+    "uid": "f2cfc12d73ba1f2e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2129.37,
+    "end": 2140.5
+  },
+  {
+    "text": "Okay? And the other ideas is to how you might lose the second functional copy of RB?",
+    "uid": "fb81f4370e2b7542",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2140.5,
+    "end": 2146.5
+  },
+  {
+    "text": "Yeah, I'm sure if you can really follow them in a political ideal.",
+    "uid": "6dcd1ca407630f3c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2152.75,
+    "end": 2155.75
+  },
+  {
+    "text": "Yeah, you can have DNA damage.",
+    "uid": "6712a8860691e3f9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2155.75,
+    "end": 2157.75
+  },
+  {
+    "text": "You can have a deletion that deletes the entire region of the chromosome that contains RB.",
+    "uid": "7f00632e3c05cbe4",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2157.75,
+    "end": 2162.75
+  },
+  {
+    "text": "There could be even like chromosomal abnormalities, like translocations, that somehow delete RB.",
+    "uid": "faf585d6c5ded48b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2162.75,
+    "end": 2169.75
+  },
+  {
+    "text": "So I'll just say deletion for now.",
+    "uid": "c78e0f5ac2ab3bf7",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2169.75,
+    "end": 2172.75
+  },
+  {
+    "text": "Any others? Can anyone think of something that wouldn't be necessarily a genetic change, but more of an epigenetic change, so to speak?",
+    "uid": "a2514765b024fbfe",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2172.75,
+    "end": 2187.87
+  },
+  {
+    "text": "Yeah, not only.",
+    "uid": "69c1e2718ad040db",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2187.87,
+    "end": 2194.18
+  },
+  {
+    "text": "That would have been a genealogy.",
+    "uid": "88b7733512544408",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2194.18,
+    "end": 2196.18
+  },
+  {
+    "text": "Without being immunogenized?",
+    "uid": "5e580b37b4125509",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2196.18,
+    "end": 2200.18
+  },
+  {
+    "text": "Great exposed to.",
+    "uid": "851a2e9da39bd5cc",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2200.18,
+    "end": 2202.18
+  },
+  {
+    "text": "But then that would cause a mutation which might fall into one of these three classes here.",
+    "uid": "a0fdd1d3fdc05f01",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2202.18,
+    "end": 2208.88
+  },
+  {
+    "text": "What about without being immunogenized?",
+    "uid": "5b6e484ccfe1245e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2208.88,
+    "end": 2210.88
+  },
+  {
+    "text": "Non-mutogenet, non-mutogenet, non-mutogenic.",
+    "uid": "58e734c4c1ea5d92",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2210.88,
+    "end": 2214.88
+  },
+  {
+    "text": "There are environmental factors that control expression.",
+    "uid": "e4b01a1afb361f64",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2217.88,
+    "end": 2220.88
+  },
+  {
+    "text": "Yeah, so Maxwell is saying what else would control the expression of the genetic change?",
+    "uid": "7a1d62c78b3e7326",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2220.88,
+    "end": 2224.88
+  },
+  {
+    "text": "What if you had an effect that would basically cause that functional copy of RB to be not expressed?",
+    "uid": "7e598180b3953a99",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2224.88,
+    "end": 2234.88
+  },
+  {
+    "text": "And so this is another way that you can lose heterosigocity.",
+    "uid": "d6d307b94d00c832",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2235.88,
+    "end": 2240.88
+  },
+  {
+    "text": "As you have repression of transcription, and I'm not going to go through the nitty gritty of the details,",
+    "uid": "bab35b0c6862808d",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2240.88,
+    "end": 2252.33
+  },
+  {
+    "text": "but one way in which genes are regulated is by modification of DNA by chemical modifications like methylation.",
+    "uid": "f53e9a321e36eb26",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2252.33,
+    "end": 2262.33
+  },
+  {
+    "text": "And so promoter methylation is a mechanism that causes repression of gene expression,",
+    "uid": "9de995234f531707",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2262.33,
+    "end": 2269.33
+  },
+  {
+    "text": "and in many cases in cancer, the functional copy of a tumor suppressor will basically be lost by promoter methylation.",
+    "uid": "c567d9dd8f3ca702",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2269.33,
+    "end": 2277.33
+  },
+  {
+    "text": "So that you no longer express that gene in that cancer cell, and therefore the cancer cell has a cancer phenotype.",
+    "uid": "33c36e15d527a692",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2277.33,
+    "end": 2286.33
+  },
+  {
+    "text": "Any questions on RB before I move on?",
+    "uid": "4195b02e14c7bdde",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2289.79,
+    "end": 2292.79
+  },
+  {
+    "text": "Everyone understands why retinoblastoma is dominant at the organismal level, yet recessive at the cell level.",
+    "uid": "f5db198c4b206355",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2296.22,
+    "end": 2304.22
+  },
+  {
+    "text": "That's an important point.",
+    "uid": "44df055119a68c2b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2304.22,
+    "end": 2307.22
+  },
+  {
+    "text": "Right? Is this also the concept behind that?",
+    "uid": "1a2fc9bbf2de296e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2308.22,
+    "end": 2311.22
+  },
+  {
+    "text": "Is also the same for BRCA1 and other tumor suppressors like P53 and APC, which you'll see in just a minute.",
+    "uid": "4623dab01bc690a4",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2311.22,
+    "end": 2320.22
+  },
+  {
+    "text": "All right, so now I want to move up kind of from thinking about the mechanism of cancer at the level of a cell,",
+    "uid": "b64a5a81f9607e81",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2321.22,
+    "end": 2332.58
+  },
+  {
+    "text": "and let's think about it at the level of a tissue.",
+    "uid": "1490d8d66c729aae",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2332.58,
+    "end": 2335.58
+  },
+  {
+    "text": "And as an example, I want to use colon cancer, and you'll recall from Wednesday I talked about the intestine as a system.",
+    "uid": "1edf751c2d2d32fa",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2335.58,
+    "end": 2347.33
+  },
+  {
+    "text": "And the way it works is pretty much the same for both the small and the large intestine.",
+    "uid": "d30d37767de5ecdb",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2347.33,
+    "end": 2352.33
+  },
+  {
+    "text": "It just happens in the large intestine or the colon, you don't have Villei, but you do still have these crypts.",
+    "uid": "994870f293d9f1a3",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2352.33,
+    "end": 2360.33
+  },
+  {
+    "text": "Okay? So that would be what a colon would look like, more or less, or at least one crypt of a colon.",
+    "uid": "db729990b0a970a8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2360.33,
+    "end": 2366.33
+  },
+  {
+    "text": "And remember, at the base of the crypt, there was a specialized compartment, which was the stem cell niche, and this is where renewal was happening.",
+    "uid": "440943f57928e397",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2366.33,
+    "end": 2383.38
+  },
+  {
+    "text": "And renewal and cell division down at the base of the crypt, then results in this conveyor belt like movement up to the region of the tissue near the lumen,",
+    "uid": "d969698821a9ce64",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2383.38,
+    "end": 2394.38
+  },
+  {
+    "text": "where cells are shut off into the lumen.",
+    "uid": "7b58c46f00c347d4",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2394.38,
+    "end": 2398.38
+  },
+  {
+    "text": "Okay? So what might be one step you can envision that a cancer or one barrier to cancer that has to be overcome in order for a tumor to form in this organ?",
+    "uid": "2bc33aca62fff33c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2398.38,
+    "end": 2412.38
+  },
+  {
+    "text": "Oh, yeah, I can diagram with what?",
+    "uid": "05b574a652e36d7e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2413.38,
+    "end": 2415.38
+  },
+  {
+    "text": "You know, cells.",
+    "uid": "40d01040ea4762c5",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2416.38,
+    "end": 2417.38
+  },
+  {
+    "text": "So one of our that, we will take the full cycle of the cells, the end of the cells, they'll shape the end of the lumen.",
+    "uid": "e22af542af0795f9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2417.38,
+    "end": 2424.38
+  },
+  {
+    "text": "So what miles is saying is that these cells are going to move up and get shed off.",
+    "uid": "4a4870f15ded2409",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2425.38,
+    "end": 2429.38
+  },
+  {
+    "text": "And so if you have a mutation in either an oncogenic mutation or loss of tumor suppressors, right?",
+    "uid": "d595560d2bdb2ea4",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2429.38,
+    "end": 2439.19
+  },
+  {
+    "text": "If it goes up and sheds and is removed from the organ, it doesn't matter that cells are not going to be in the cell.",
+    "uid": "870e59e9601a1ec6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2439.19,
+    "end": 2449.01
+  },
+  {
+    "text": "So if you have a mutation in either an oncogenic mutation or loss of tumor suppressors, right?",
+    "uid": "0b701abf55c3c984",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2449.01,
+    "end": 2455.01
+  },
+  {
+    "text": "If it goes up and sheds and is removed from the organ, it doesn't matter that cell is not going to be able to form a tumor.",
+    "uid": "d4eec5abf741722c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2455.01,
+    "end": 2463.01
+  },
+  {
+    "text": "So one thing that has to happen for a cell to form a tumor in the system is this treadmill has to be blocked.",
+    "uid": "379faa873133b226",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2463.01,
+    "end": 2472.01
+  },
+  {
+    "text": "Such that cells are no longer exiting the organ so that you have a cell actually stay in the organ that would be able to accumulate additional mutations and undergo tumor agenesis.",
+    "uid": "9924b1f7c2b63ee0",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2472.01,
+    "end": 2484.01
+  },
+  {
+    "text": "Okay, and this is what happens because we know in colon cancer, one of the first steps in colon cancer is this regulation of the signaling that really regulates this movement of cells and the sort of homostasis of the tissue.",
+    "uid": "d77e6afdd1c129c6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2484.01,
+    "end": 2507.01
+  },
+  {
+    "text": "Okay, so step one here.",
+    "uid": "232531008aaf561c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2507.01,
+    "end": 2510.01
+  },
+  {
+    "text": "Step one is to disregulate the mean signaling pathway that's involved in this, which is win signaling.",
+    "uid": "098f1458b1777bf6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2511.01,
+    "end": 2524.1
+  },
+  {
+    "text": "And so another famous tumor suppressor is called the APC gene.",
+    "uid": "5c5fb08e08a21cf6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2524.1,
+    "end": 2531.1
+  },
+  {
+    "text": "This is a tumor suppressor.",
+    "uid": "5b5586614ad7eb1e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2531.1,
+    "end": 2533.1
+  },
+  {
+    "text": "Less you. And this APC gene is associated with another familial form of cancer.",
+    "uid": "c715752faa3ce17e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2536.6,
+    "end": 2548.4
+  },
+  {
+    "text": "In this case it's familial adenomitis polyposis.",
+    "uid": "814b384563198e98",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2548.4,
+    "end": 2552.4
+  },
+  {
+    "text": "And so this is a normal colon. Normally, your colon has a smooth surface. It's basically smooth here. I mean there are some folds, but I'm not sure that that's not an effective having this dissected out of the organism.",
+    "uid": "3ab529b31d7d5ebf",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2552.4,
+    "end": 2566.4
+  },
+  {
+    "text": "But individuals with familial adenomitis polyposis, what happens is that the colon forms many of these polyps, which are benign sort of cancer outgrowth.",
+    "uid": "026f22531da82bf6",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2566.4,
+    "end": 2580.4
+  },
+  {
+    "text": "Okay, but you see all these polyps here, and you see how very different the morphology of the colon is from a normal individual and an individual that has familial adenomitis polyposis.",
+    "uid": "a3cbb102e6be3a83",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2580.4,
+    "end": 2593.4
+  },
+  {
+    "text": "So this is the formation of a polyp is kind of equivalent to something like this. It's it's not invasive yet. It would be known as benign.",
+    "uid": "256af13e62de14b8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2593.4,
+    "end": 2604.4
+  },
+  {
+    "text": "But you can see that there's clearly a dysregulation in how this tissue is behaving because you get all of these polyps forming.",
+    "uid": "ad983199a89883ae",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2604.4,
+    "end": 2613.4
+  },
+  {
+    "text": "And it's thought that Frank Carsonoma then results from one of these polyps cells in one of these polyps accumulating additional mutations that then cause the cancer to progress to a more malignant stage.",
+    "uid": "4b12c6e0a56df286",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2613.4,
+    "end": 2629.4
+  },
+  {
+    "text": "So I told you that APC is the tumor suppressor that is and in this case it's frequently, well in this case this tumor suppressor is associated with this disease right here.",
+    "uid": "fc602df46ea5e30b",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2629.4,
+    "end": 2641.4
+  },
+  {
+    "text": "And I showed you the wind pathway last week and I went through it quickly, but you notice this central protein right here in this destruction complex that's APC.",
+    "uid": "39c6674f82a53360",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2641.4,
+    "end": 2654.4
+  },
+  {
+    "text": "APC stands for adenomitis polyposis coli.",
+    "uid": "28959ea799bbf052",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2654.4,
+    "end": 2659.4
+  },
+  {
+    "text": "I'll wrote that down. So adenomitis polyposis coli.",
+    "uid": "45b8876b28503acd",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2659.4,
+    "end": 2674.59
+  },
+  {
+    "text": "Okay, and what APC does is as represented in that slide above is this part of this destruction complex that destroys beta-catenin, which is the downstream step of wind signaling.",
+    "uid": "88f740eac466d9ef",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2674.59,
+    "end": 2689.59
+  },
+  {
+    "text": "So the wild type function of APC is to basically inhibit beta-catenin, which then is mediating the effects of wind signaling.",
+    "uid": "071d70cfef468c5c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2689.59,
+    "end": 2706.94
+  },
+  {
+    "text": "Okay, so you can think of APC as one of the genes that's the break on wind signaling, okay?",
+    "uid": "3cd26e9312de3421",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2706.94,
+    "end": 2714.94
+  },
+  {
+    "text": "And normally it's regulated by wind, right? But if you, so wind would normally inhibit APC, but if you just delete APC in a cell then it's like the cell is seeing wind all the time.",
+    "uid": "73922b5a71afa6ab",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2714.94,
+    "end": 2731.94
+  },
+  {
+    "text": "So by deleting APC you get a constitutive activation of beta-catenin and you get constitutive activation of wind signaling.",
+    "uid": "2f6c033f0ca4c879",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2731.94,
+    "end": 2740.94
+  },
+  {
+    "text": "So if the organism starts out being heterozygous for APC, then there's a high probability that a second mutation will take out the wild type function of APC, or the wild type allele of it.",
+    "uid": "76bc5fd38a9ac95c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2740.94,
+    "end": 2758.6
+  },
+  {
+    "text": "And when you take out that allele, now you all the sudden start having the cells that are basically feeling like or seep, it's like they are always seeing wind even though they're not, okay?",
+    "uid": "4c01de1f5fc48ebb",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2758.6,
+    "end": 2769.6
+  },
+  {
+    "text": "And so if you constitutively activate wind signaling, what that does is it prevents the cells from leaving the organ, okay? So they're stuck.",
+    "uid": "c32adad27a195037",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2769.6,
+    "end": 2780.6
+  },
+  {
+    "text": "And normally in an enormal colon, cells are renewed at the bottom of the crypt, they move up and then they're shed into the lumen, but in an APC, a mutant, the cells are constantly feeling like they're getting wind signal and so they stay in the colon, and that allows them to accumulate further mutations, okay?",
+    "uid": "24491d939481887a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2780.6,
+    "end": 2802.6
+  },
+  {
+    "text": "So step one in colon cancer is to disregulate wind signaling, and that really disrupts the whole tissue homostatic mechanism of the intestine, okay?",
+    "uid": "68ce5485b533503c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2802.6,
+    "end": 2813.6
+  },
+  {
+    "text": "Then there would be further steps, at least three usually in colon cancer, and that would involve mutations, oncogenic mutations, loss of tumor suppressors, and that would just cause the cells to get more and more oncogenic and more and more.",
+    "uid": "5f442f4fc4664730",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2813.6,
+    "end": 2831.6
+  },
+  {
+    "text": "And more and more transformed, and eventually they can become invasive, and we'll talk about what happens when cells become invasive, invasive next week.",
+    "uid": "40c9066927dbf3a9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2831.6,
+    "end": 2843.1
+  },
+  {
+    "text": "All right, so I wanted to end today's lecture by talking about targeted treatments for cancer, just to see how they interface with the mechanisms that we've discussed.",
+    "uid": "7c456db1ba347e88",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2843.1,
+    "end": 2857.1
+  },
+  {
+    "text": "And of course, some of the primary ways to cancer are through surgery and also chemotherapy, but there are also more directed ways to target cancer.",
+    "uid": "574145d8195d4415",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2857.1,
+    "end": 2873.1
+  },
+  {
+    "text": "And because times up, yes, well I have one minute, I'll tell you about the first one, and then if I have more to go, I'll start with that in next week's lecture.",
+    "uid": "bc3eb6765827ac7a",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2873.1,
+    "end": 2886.1
+  },
+  {
+    "text": "So the first one I wanted to tell you about is this disease chronic myologinist leukemia, which involves activation of the abled gene, and is activated in this case by a translocation between two different chromosomes.",
+    "uid": "eb84adc0457e2d9e",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2887.1,
+    "end": 2903.1
+  },
+  {
+    "text": "So this is chromosome 22, this is chromosome 9, and in many patients with chronic myologinist leukemia, a large part of chromosome 22 is translocated onto chromosome 9, and a little bit of chromosome 9 is attached to chromosome 2.",
+    "uid": "200af2e904996fa3",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2903.1,
+    "end": 2921.1
+  },
+  {
+    "text": "And this translocation generates a gene fusion between the BCR gene and the abled gene, okay?",
+    "uid": "54d0981db6c579e8",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2921.1,
+    "end": 2929.1
+  },
+  {
+    "text": "And so able is a non-receptor tyrosine kinase. So it's a tyrosine kinase that is present in the cytoplasm and the cell and promotes growth.",
+    "uid": "8e56b23c02569d55",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2929.1,
+    "end": 2947.66
+  },
+  {
+    "text": "So this is a proto-oncagene, and when able becomes hooked up to BCR, then this results in a constitutive activation of BCR able. Okay, so this is now constitutively active kinase.",
+    "uid": "50fdd60558702bc9",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2947.66,
+    "end": 2968.81
+  },
+  {
+    "text": "Now when this was realized, then researchers started looking for small molecules that would inhibit the kinase activity of able, and the famous example is Gleevec, and this is a picture of Gleevec here. You can see it's a small molecule, and what Gleevec does is now this is a crystal structure of the abled tyrosine kinase in green, and it has two lobes and end terminal lobes, a c terminal lobe, like a lot of kinase.",
+    "uid": "b8e602ce4fbfa12c",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 2968.81,
+    "end": 3002.74
+  },
+  {
+    "text": "And what Gleevec does is to bind in the interface between these two lobes, and it locks this kinase in an inactive confirmation such that if cells see this Gleevec, then there are able tyrosine kinase is inhibited, and this is the driver of chronic myologinus leukemia.",
+    "uid": "6312ab61ca859780",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 3002.74,
+    "end": 3023.74
+  },
+  {
+    "text": "So Gleevec has been very effective in treating this type of leukemia, and it results in a pretty good prognosis for patients.",
+    "uid": "5656e8324d5e1889",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 3023.74,
+    "end": 3032.74
+  },
+  {
+    "text": "All right, so we'll talk about more therapies next Wednesday, but have a good holiday weekend.",
+    "uid": "0201445cc3f25767",
+    "source": "MIT_OpenCourseWare - 25._Cancer_1",
+    "start": 3032.74,
+    "end": 3039.74
+  }
+]
