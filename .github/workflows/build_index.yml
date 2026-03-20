@@ -67,6 +67,19 @@ jobs:
       - name: Build corpus file index
         run: python build_corpus_index.py
 
+            - name: Merge vectorized corpus into single file
+      run: |
+        python3 -c "
+        import json, glob
+        atoms = []
+        for f in sorted(glob.glob('vectorized/*_vectorized.json')):
+            with open(f) as fh:
+                atoms.extend(json.load(fh))
+        print(f'Merged {len(atoms)} atoms from {len(glob.glob(\"vectorized/*_vectorized.json\"))} files')
+        with open('aureon_index/aureon_corpus_vectors.json', 'w') as out:
+            json.dump(atoms, out)
+        "
+
       - name: Commit all outputs
         run: |
           git config user.name "Nadine Squires"
