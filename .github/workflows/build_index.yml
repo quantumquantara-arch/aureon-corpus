@@ -35,50 +35,41 @@ jobs:
       - name: Fit attractors
         run: python aureon_attractor_learner.py fit vectorized aureon_attractors
 
-      - name: Write corpus index script
+      - name: Build corpus file index
         run: |
-          cat > build_corpus_index.py << 'PYEOF'
+          python3 -c "
           import json, pathlib
-
-          vectorized_dir = pathlib.Path("vectorized")
-          files = sorted(vectorized_dir.glob("*_vectorized.json"))
-          print(f"Indexing {len(files)} files...")
-
+          vectorized_dir = pathlib.Path('vectorized')
+          files = sorted(vectorized_dir.glob('*_vectorized.json'))
+          print('Indexing', len(files), 'files...')
           index = []
           total = 0
           for f in files:
               try:
-                  atoms = json.loads(f.read_text(encoding="utf-8"))
-                  count = len([a for a in atoms if "vector" in a and "text" in a])
+                  atoms = json.loads(f.read_text(encoding='utf-8'))
+                  count = len([a for a in atoms if 'vector' in a and 'text' in a])
                   total += count
-                  index.append({
-                      "filename": f.name,
-                      "atom_count": count,
-                      "source": atoms[0].get("source", "") if atoms else ""
-                  })
+                  index.append({'filename': f.name, 'atom_count': count, 'source': atoms[0].get('source', '') if atoms else ''})
               except Exception as e:
-                  print(f"  SKIP {f.name}: {e}")
+                  print('  SKIP', f.name, e)
+          out = pathlib.Path('aureon_corpus_index.json')
+          out.write_text(json.dumps({'total_atoms': total, 'files': index}, indent=2), encoding='utf-8')
+          print('Done.', total, 'atoms across', len(index), 'files')
+          "
 
-          out = pathlib.Path("aureon_corpus_index.json")
-          out.write_text(json.dumps({"total_atoms": total, "files": index}, indent=2), encoding="utf-8")
-          print(f"Done. {total:,} atoms across {len(index)} files -> aureon_corpus_index.json ({out.stat().st_size/1e3:.1f} KB)")
-          PYEOF
-
-      - name: Build corpus file index
-        run: python build_corpus_index.py
-
-            - name: Merge vectorized corpus into single file
-      run: |
-        python3 -c "
-        import json, glob
-        atoms = []
-        for f in sorted(glob.glob('vectorized/*_vectorized.json')):
-            with open(f) as fh:
-                atoms.extend(json.load(fh))
-        print(f'Merged {len(atoms)} atoms from {len(glob.glob(\"vectorized/*_vectorized.json\"))} files')
-        with open('aureon_index/aureon_corpus_vectors.json', 'w') as out:
-            json.dump(atoms, out)
-        "
+      - name: Merge vectorized corpus into single file
+        run: |
+          python3 -c "
+          import json, glob
+          atoms = []
+          files = sorted(glob.glob('vectorized/*_vectorized.json'))
+          for f in files:
+              with open(f) as fh:
+                  atoms.extend(json.load(fh))
+          print('Merged', len(atoms), 'atoms from', len(files), 'files')
+          with open('aureon_index/aureon_corpus_vectors.json', 'w') as out:
+              json.dump(atoms, out)
+          "
 
       - name: Commit all outputs
         run: |
