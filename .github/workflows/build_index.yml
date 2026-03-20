@@ -2,10 +2,10 @@ name: Build Index
 
 on:
   workflow_dispatch:
+  push:
     branches: [main]
     paths:
       - 'vectorized/**'
-  workflow_dispatch:
 
 jobs:
   build_index:
@@ -71,7 +71,7 @@ jobs:
         run: |
           git config user.name "Nadine Squires"
           git config user.email "quantumquantara@gmail.com"
-          git add aureon_index/ aureon_corpus_index.json
+          git add aureon_index/ aureon_corpus_index.json aureon_attractors
           git diff --staged --quiet || git commit -m "[auto] Rebuild index + corpus index $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
         env:
