@@ -1,10 +1,10 @@
 {
-  "built_at": "2026-03-19T10:58:02Z",
-  "total_atoms": 312946,
-  "files_processed": 357,
+  "built_at": "2026-03-20T11:15:03Z",
+  "total_atoms": 343872,
+  "files_processed": 408,
   "phase_dim": 24,
   "index_type": "faiss_flat",
-  "elapsed_seconds": 3.02,
+  "elapsed_seconds": 3.36,
   "errors": [],
   "dim_names": [
     "valence",

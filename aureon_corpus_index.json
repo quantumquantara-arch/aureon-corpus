@@ -1,5 +1,5 @@
 {
-  "total_atoms": 312946,
+  "total_atoms": 343872,
   "files": [
     {
       "filename": "3Blue1Brown - The_unexpectedly_hard_windmill_question_2011_IMO_Q2_atoms_vectorized.json",
@@ -32,6 +32,16 @@
       "source": "99%_Invisible - Hero_Props_-_Graphic_Design_in_Film_Television"
     },
     {
+      "filename": "A Conversation About Dying with Frank Ostaseski & Chris Grosso _ The I__watch_atoms_vectorized.json",
+      "atom_count": 363,
+      "source": "A Conversation About Dying with Frank Ostaseski & Chris Grosso _ The I__watch"
+    },
+    {
+      "filename": "A Meditator's Guide to Buddhism with Cortland Dahl and Raghu Markus _ __watch_atoms_vectorized.json",
+      "atom_count": 700,
+      "source": "A Meditator's Guide to Buddhism with Cortland Dahl and Raghu Markus _ __watch"
+    },
+    {
       "filename": "Abundant_Mindset_Library - The_Magic_of_Thinking_Big_Audio-book_by_David_Schwart_atoms_vectorized.json",
       "atom_count": 2031,
       "source": "Abundant_Mindset_Library - The_Magic_of_Thinking_Big_Audio-book_by_David_Schwart"
@@ -60,6 +70,11 @@
       "filename": "Acquired - Nvidia_-_The_GPU_Company_1993-2006_atoms_vectorized.json",
       "atom_count": 1093,
       "source": "Acquired - Nvidia_-_The_GPU_Company_1993-2006"
+    },
+    {
+      "filename": "Alan Watts on the Limits of Language _ Being in the Way Podcast Ep. 28__watch_atoms_vectorized.json",
+      "atom_count": 240,
+      "source": "Alan Watts on the Limits of Language _ Being in the Way Podcast Ep. 28__watch"
     },
     {
       "filename": "Alex_O_Connor - Hey_Vsauce_Does_Anything_Exist_atoms_vectorized.json",
@@ -97,9 +112,29 @@
       "source": "All-In_Podcast - Trump_-_Send_National_Guard_to_SF_China_Rare_Earths_Trade_War_A"
     },
     {
+      "filename": "American_History_Tellers - Episode_1_-_The_Age_of_Pirates_American_History_Telle_atoms_vectorized.json",
+      "atom_count": 163,
+      "source": "American_History_Tellers - Episode_1_-_The_Age_of_Pirates_American_History_Telle"
+    },
+    {
+      "filename": "American_History_Tellers - Nazis_in_the_Arizona_Desert_Episode_4_Daring_Prison_E_atoms_vectorized.json",
+      "atom_count": 387,
+      "source": "American_History_Tellers - Nazis_in_the_Arizona_Desert_Episode_4_Daring_Prison_E"
+    },
+    {
+      "filename": "American_History_Tellers - World_War_I_Preparedness_American_History_Tellers_Pod_atoms_vectorized.json",
+      "atom_count": 475,
+      "source": "American_History_Tellers - World_War_I_Preparedness_American_History_Tellers_Pod"
+    },
+    {
       "filename": "American_Psychological_Association - Revealing_the_hidden_brain_with_Shankar_Ved_atoms_vectorized.json",
       "atom_count": 235,
       "source": "American_Psychological_Association - Revealing_the_hidden_brain_with_Shankar_Ved"
+    },
+    {
+      "filename": "American_Society_for_Microbiology - Bill_Gates_-_Bringing_the_Frontiers_of_Scien_atoms_vectorized.json",
+      "atom_count": 542,
+      "source": "American_Society_for_Microbiology - Bill_Gates_-_Bringing_the_Frontiers_of_Scien"
     },
     {
       "filename": "Andrea_Samadi - Dr._Ginger_Campbell_MD_on_Exploring_Brain_Science_-_For_Career_a_atoms_vectorized.json",
@@ -115,6 +150,11 @@
       "filename": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu_atoms_vectorized.json",
       "atom_count": 203,
       "source": "Andrew_Huberman - Controlling_Your_Dopamine_for_Motivation_Focus_Satisfaction_Hu"
+    },
+    {
+      "filename": "Andrew_Huberman - How_to_Achieve_True_Happiness_Using_Science-Based_Protocols_Dr_atoms_vectorized.json",
+      "atom_count": 2016,
+      "source": "Andrew_Huberman - How_to_Achieve_True_Happiness_Using_Science-Based_Protocols_Dr"
     },
     {
       "filename": "Andrew_Huberman - How_to_Control_Your_Cortisol_Overcome_Burnout_atoms_vectorized.json",
@@ -257,9 +297,19 @@
       "source": "BiggerPockets - The_Beginner_s_Guide_to_Small_Multifamily_Real_Estate_Investing"
     },
     {
+      "filename": "Bloomberg_Technology - The_Full_Interview_With_Bill_Gates_atoms_vectorized.json",
+      "atom_count": 193,
+      "source": "Bloomberg_Technology - The_Full_Interview_With_Bill_Gates"
+    },
+    {
       "filename": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br_atoms_vectorized.json",
       "atom_count": 699,
       "source": "Brain_Science_Podcast_with_Ginger_Campbell - BS_209_Luiz_Pessoa_The_Entangled_Br"
+    },
+    {
+      "filename": "Bret_Weinstein - DarkHorse_Podcast_with_Daniel_Schmachtenberger_Bret_Weinstein_atoms_vectorized.json",
+      "atom_count": 1519,
+      "source": "Bret_Weinstein - DarkHorse_Podcast_with_Daniel_Schmachtenberger_Bret_Weinstein"
     },
     {
       "filename": "BuffettMungerWisdom - The_Psychology_of_Human_Misjudgement_-_Charlie_Munger_Full_atoms_vectorized.json",
@@ -295,6 +345,21 @@
       "filename": "California_Academy_of_Sciences - NightSchool_-_Women_in_Science_with_Alie_Ward_C_atoms_vectorized.json",
       "atom_count": 688,
       "source": "California_Academy_of_Sciences - NightSchool_-_Women_in_Science_with_Alie_Ward_C"
+    },
+    {
+      "filename": "Capital_Allocators_with_Ted_Seides - Gavin_Baker_Truth-Seeking_and_Crossover_Inv_atoms_vectorized.json",
+      "atom_count": 668,
+      "source": "Capital_Allocators_with_Ted_Seides - Gavin_Baker_Truth-Seeking_and_Crossover_Inv"
+    },
+    {
+      "filename": "Capital_Allocators_with_Ted_Seides - Morgan_Housel_-_The_Art_of_Spending_Money_E_atoms_vectorized.json",
+      "atom_count": 619,
+      "source": "Capital_Allocators_with_Ted_Seides - Morgan_Housel_-_The_Art_of_Spending_Money_E"
+    },
+    {
+      "filename": "Capital_Allocators_with_Ted_Seides - Private_Equity_Masters_7_-_Orlando_Bravo_Th_atoms_vectorized.json",
+      "atom_count": 636,
+      "source": "Capital_Allocators_with_Ted_Seides - Private_Equity_Masters_7_-_Orlando_Bravo_Th"
     },
     {
       "filename": "Carla_Cuglietta - Tom_Bilyeu_Best_Ever_Motivational_Speeches_COMPILATION_MOST_IN_atoms_vectorized.json",
@@ -387,6 +452,16 @@
       "source": "Christian.Sermons_Daily - Dumping_Debt_--_Freedom_from_Debt_-Sermon_by_Dave_Rams"
     },
     {
+      "filename": "Closer_To_Truth - Is_Consciousness_an_Illusion_Episode_1002_Closer_To_Truth_atoms_vectorized.json",
+      "atom_count": 238,
+      "source": "Closer_To_Truth - Is_Consciousness_an_Illusion_Episode_1002_Closer_To_Truth"
+    },
+    {
+      "filename": "Closer_To_Truth - What_is_Consciousness_Episode_1302_Closer_To_Truth_atoms_vectorized.json",
+      "atom_count": 377,
+      "source": "Closer_To_Truth - What_is_Consciousness_Episode_1302_Closer_To_Truth"
+    },
+    {
       "filename": "Crisis_in_Perception - Freakonomics_How_Incentives_Secretly_Shape_Human_Behavior_atoms_vectorized.json",
       "atom_count": 421,
       "source": "Crisis_in_Perception - Freakonomics_How_Incentives_Secretly_Shape_Human_Behavior"
@@ -432,6 +507,11 @@
       "source": "David_Riggs - Gene_Simmons_interview_with_Terry_Gross_on_NPR"
     },
     {
+      "filename": "Deep_Transformation_Podcast - Daniel_Schmachtenberger_Developing_a_Deeper_Unders_atoms_vectorized.json",
+      "atom_count": 1062,
+      "source": "Deep_Transformation_Podcast - Daniel_Schmachtenberger_Developing_a_Deeper_Unders"
+    },
+    {
       "filename": "Detox_Life_Elise_Lininger - Oprah_s_Experience_On_Letting_Go_Surrendering_atoms_vectorized.json",
       "atom_count": 83,
       "source": "Detox_Life_Elise_Lininger - Oprah_s_Experience_On_Letting_Go_Surrendering"
@@ -440,6 +520,16 @@
       "filename": "Doctor_Atousa - Biomedical_Science_vs._Medicine_6_Key_Differences_Atousa_atoms_vectorized.json",
       "atom_count": 120,
       "source": "Doctor_Atousa - Biomedical_Science_vs._Medicine_6_Key_Differences_Atousa"
+    },
+    {
+      "filename": "Dr._Laurie_Santos - Dr._Laurie_Santos._Behaviors_That_Make_Us_Happy_-_Healthy_Ha_atoms_vectorized.json",
+      "atom_count": 193,
+      "source": "Dr._Laurie_Santos - Dr._Laurie_Santos._Behaviors_That_Make_Us_Happy_-_Healthy_Ha"
+    },
+    {
+      "filename": "Dr._Laurie_Santos - How_to_Design_a_More_Meaningful_Life_ft._Dave_Evans_and_Bill_atoms_vectorized.json",
+      "atom_count": 358,
+      "source": "Dr._Laurie_Santos - How_to_Design_a_More_Meaningful_Life_ft._Dave_Evans_and_Bill"
     },
     {
       "filename": "Dwarkesh_Patel - David_Reich_How_one_small_tribe_conquered_the_world_70_000_year_atoms_vectorized.json",
@@ -477,6 +567,11 @@
       "source": "Entiversal - Steve_Jobs_Interview_Steve_Jobs_Talks_Creativity_Success_Apple_and_"
     },
     {
+      "filename": "Essentia_Foundation - All_325+_Competing_Consciousness_Theories_In_One_Video._atoms_vectorized.json",
+      "atom_count": 1397,
+      "source": "Essentia_Foundation - All_325+_Competing_Consciousness_Theories_In_One_Video."
+    },
+    {
       "filename": "FD_Finance - How_Does_the_Global_Economy_work_Planet_Finance_Compilation_FD_Fina_atoms_vectorized.json",
       "atom_count": 3080,
       "source": "FD_Finance - How_Does_the_Global_Economy_work_Planet_Finance_Compilation_FD_Fina"
@@ -495,6 +590,16 @@
       "filename": "FoundMyFitness - Dr._Peter_Attia_on_Mastering_Longevity_Insights_on_Cancer_Preve_atoms_vectorized.json",
       "atom_count": 2221,
       "source": "FoundMyFitness - Dr._Peter_Attia_on_Mastering_Longevity_Insights_on_Cancer_Preve"
+    },
+    {
+      "filename": "FoundMyFitness - How_Vitamin_D_Omega-3s_Exercise_May_Increase_Longevity_Dr._Rhon_atoms_vectorized.json",
+      "atom_count": 552,
+      "source": "FoundMyFitness - How_Vitamin_D_Omega-3s_Exercise_May_Increase_Longevity_Dr._Rhon"
+    },
+    {
+      "filename": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1_atoms_vectorized.json",
+      "atom_count": 113,
+      "source": "FoundMyFitness - How_to_Personalize_Your_Nutrition_Based_On_Genetics_Revised_3_1"
     },
     {
       "filename": "Founders_Podcast - How_Elon_Works_atoms_vectorized.json",
@@ -552,6 +657,11 @@
       "source": "Fresh_Air - Remembering_Diane_Keaton_1997_interview_Fresh_Air"
     },
     {
+      "filename": "Friendships and Runanubandh with Robert Svoboda _ Living with Reality __watch_atoms_vectorized.json",
+      "atom_count": 49,
+      "source": "Friendships and Runanubandh with Robert Svoboda _ Living with Reality __watch"
+    },
+    {
       "filename": "GBH_Forum_Network - Shankar_Vedantam_-_The_Hidden_Brain_atoms_vectorized.json",
       "atom_count": 649,
       "source": "GBH_Forum_Network - Shankar_Vedantam_-_The_Hidden_Brain"
@@ -567,9 +677,19 @@
       "source": "Google - What_is_the_Future_of_Education_Freakonomics_Steve_Levitt_Google_Chief_"
     },
     {
+      "filename": "HAPI Seminar_ Rob Wipond- The Rising Rates, Expanding Uses, __FeafqXXCrXE_atoms_vectorized.json",
+      "atom_count": 828,
+      "source": "HAPI Seminar_ Rob Wipond- The Rising Rates, Expanding Uses, __FeafqXXCrXE"
+    },
+    {
       "filename": "Harvard_University - Jeff_Lichtman_-_Connectomics_-_Mapping_the_Brain_Harvard_De_atoms_vectorized.json",
       "atom_count": 688,
       "source": "Harvard_University - Jeff_Lichtman_-_Connectomics_-_Mapping_the_Brain_Harvard_De"
+    },
+    {
+      "filename": "Higher_Frequency - The_Dark_History_of_Munster..._atoms_vectorized.json",
+      "atom_count": 1789,
+      "source": "Higher_Frequency - The_Dark_History_of_Munster..."
     },
     {
       "filename": "Huberman_Lab_Clips - How_to_Help_Kids_Learn_Resilience_Without_Anxiety_Dr._Becky_atoms_vectorized.json",
@@ -607,6 +727,21 @@
       "source": "Invest_Like_The_Best - The_Playbook_on_Buying_and_Running_Companies_Forever"
     },
     {
+      "filename": "Is Psychiatry Built on Lies_ With Dr. Jessica Taylor__x7Yewi_VNBE_atoms_vectorized.json",
+      "atom_count": 1043,
+      "source": "Is Psychiatry Built on Lies_ With Dr. Jessica Taylor__x7Yewi_VNBE"
+    },
+    {
+      "filename": "Jack Kornfield Guided Meditation_ Coming Back Home To Yourself__watch_atoms_vectorized.json",
+      "atom_count": 59,
+      "source": "Jack Kornfield Guided Meditation_ Coming Back Home To Yourself__watch"
+    },
+    {
+      "filename": "Jack Kornfield on Mindfulness and Inner Freedom__watch_atoms_vectorized.json",
+      "atom_count": 180,
+      "source": "Jack Kornfield on Mindfulness and Inner Freedom__watch"
+    },
+    {
       "filename": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi_atoms_vectorized.json",
       "atom_count": 342,
       "source": "JamesRandiFoundation - Lecture_1_-_Science_Based_Medicine_vs.Evidence_Based_Medi"
@@ -642,9 +777,29 @@
       "source": "Joel - Science_Refutes_God_Debate_FULL_-_Intelligence_Squared_U.S"
     },
     {
+      "filename": "Joseph Goldstein's Satipatthana Sutta Series Pt. 6_ The Art of Letting__watch.16_atoms_vectorized.json",
+      "atom_count": 335,
+      "source": "Joseph Goldstein's Satipatthana Sutta Series Pt. 6_ The Art of Letting__watch.16"
+    },
+    {
+      "filename": "Joseph Goldstein's Satipatthana Sutta Series Pt. 6_ The Art of Letting__watch_atoms_vectorized.json",
+      "atom_count": 335,
+      "source": "Joseph Goldstein's Satipatthana Sutta Series Pt. 6_ The Art of Letting__watch"
+    },
+    {
+      "filename": "Krishnamurti on Impermanence and Immortality #death #immortality #kris__ZbqmD3Tn_atoms_vectorized.json",
+      "atom_count": 31,
+      "source": "Krishnamurti on Impermanence and Immortality #death #immortality #kris__ZbqmD3Tn"
+    },
+    {
       "filename": "Lewis_Howes - Kobe_Bryant_s_LAST_GREAT_INTERVIEW_On_The_MAMBA_MENTALITY_With_LOS_atoms_vectorized.json",
       "atom_count": 1238,
       "source": "Lewis_Howes - Kobe_Bryant_s_LAST_GREAT_INTERVIEW_On_The_MAMBA_MENTALITY_With_LOS"
+    },
+    {
+      "filename": "Lewis_Howes - This_Is_Why_You_FEEL_LOST_LAZY_UNMOTIVATED_In_Life..._Brene_Brown_atoms_vectorized.json",
+      "atom_count": 1074,
+      "source": "Lewis_Howes - This_Is_Why_You_FEEL_LOST_LAZY_UNMOTIVATED_In_Life..._Brene_Brown"
     },
     {
       "filename": "Lex_Fridman - Andrew_Ng_-_Deep_Learning_Education_and_Real-World_AI_Lex_Fridman__atoms_vectorized.json",
@@ -800,6 +955,11 @@
       "filename": "Mind_Chat - Sean_Carroll_Philip_Goff_Debate_Is_Consciousness_Fundamental_atoms_vectorized.json",
       "atom_count": 1269,
       "source": "Mind_Chat - Sean_Carroll_Philip_Goff_Debate_Is_Consciousness_Fundamental"
+    },
+    {
+      "filename": "Mirror Eye and Non-Self with Loch Kelly & Raghu Markus _ Mindrolling P__watch_atoms_vectorized.json",
+      "atom_count": 467,
+      "source": "Mirror Eye and Non-Self with Loch Kelly & Raghu Markus _ Mindrolling P__watch"
     },
     {
       "filename": "MulliganBrothers - INSIDE_THE_MIND_OF_A_WINNER_Sports_Psychologist_Bill_Beswick__atoms_vectorized.json",
@@ -1062,6 +1222,21 @@
       "source": "Radiolab - Unnatural_Selection_Radiolab_Presents_-_G_Episode_5"
     },
     {
+      "filename": "Ram Dass - Passionate Consciousness__watch_atoms_vectorized.json",
+      "atom_count": 1801,
+      "source": "Ram Dass - Passionate Consciousness__watch"
+    },
+    {
+      "filename": "Ram Dass_ Approaching the Mystery _ Here & Now Podcast Ep. 276__watch_atoms_vectorized.json",
+      "atom_count": 196,
+      "source": "Ram Dass_ Approaching the Mystery _ Here & Now Podcast Ep. 276__watch"
+    },
+    {
+      "filename": "Ram Dass_ Ramana Maharshi & Self-Enquiry__watch_atoms_vectorized.json",
+      "atom_count": 87,
+      "source": "Ram Dass_ Ramana Maharshi & Self-Enquiry__watch"
+    },
+    {
       "filename": "Rationally_Speaking_Podcast - Rationally_Speaking_132_-_Live_From_NECSS_2015_atoms_vectorized.json",
       "atom_count": 625,
       "source": "Rationally_Speaking_Podcast - Rationally_Speaking_132_-_Live_From_NECSS_2015"
@@ -1110,6 +1285,11 @@
       "filename": "Rich_Roll - Why_Plant-Based_Beats_Paleo_and_Keto_Everything_Blood_Glucose_Drew_H_atoms_vectorized.json",
       "atom_count": 1209,
       "source": "Rich_Roll - Why_Plant-Based_Beats_Paleo_and_Keto_Everything_Blood_Glucose_Drew_H"
+    },
+    {
+      "filename": "Robinson_s_Podcast_Clips - The_Psychology_of_Praise_and_Blame_David_Pizarro_Robi_atoms_vectorized.json",
+      "atom_count": 125,
+      "source": "Robinson_s_Podcast_Clips - The_Psychology_of_Praise_and_Blame_David_Pizarro_Robi"
     },
     {
       "filename": "Sam_Harris - FULL_EPISODE_-_The_Politics_of_Pragmatism_and_the_Future_of_Califor_atoms_vectorized.json",
@@ -1255,6 +1435,21 @@
       "filename": "Stevie_Nicks_Life_In_Photos - Stevie_Nicks_Oprah_s_Master_Class_atoms_vectorized.json",
       "atom_count": 489,
       "source": "Stevie_Nicks_Life_In_Photos - Stevie_Nicks_Oprah_s_Master_Class"
+    },
+    {
+      "filename": "Stuff_You_Missed_in_History_Class - Clarence_Birdseye_and_the_Rise_of_Frozen_Foo_atoms_vectorized.json",
+      "atom_count": 287,
+      "source": "Stuff_You_Missed_in_History_Class - Clarence_Birdseye_and_the_Rise_of_Frozen_Foo"
+    },
+    {
+      "filename": "Stuff_You_Missed_in_History_Class - Unearthed_Year-end_2025_Part_1_STUFF_YOU_MIS_atoms_vectorized.json",
+      "atom_count": 385,
+      "source": "Stuff_You_Missed_in_History_Class - Unearthed_Year-end_2025_Part_1_STUFF_YOU_MIS"
+    },
+    {
+      "filename": "Stuff_You_Missed_in_History_Class - Unearthed_Year-end_2025_Part_2_STUFF_YOU_MIS_atoms_vectorized.json",
+      "atom_count": 420,
+      "source": "Stuff_You_Missed_in_History_Class - Unearthed_Year-end_2025_Part_2_STUFF_YOU_MIS"
     },
     {
       "filename": "Stuff_You_Should_Know - SYSK_Selects_-_How_Chaos_Theory_Changed_the_Universe_STU_atoms_vectorized.json",
@@ -1432,6 +1627,16 @@
       "source": "TEDx_Talks - This_Talk_is_Literally_Brain_Science_Sophie_Scott_TEDxNewcastle"
     },
     {
+      "filename": "THE STAGES OF CONSCIOUSNESS_ Ram Dass on the Bhagavad Gita__watch_atoms_vectorized.json",
+      "atom_count": 185,
+      "source": "THE STAGES OF CONSCIOUSNESS_ Ram Dass on the Bhagavad Gita__watch"
+    },
+    {
+      "filename": "TODAY - Bill_Gates_talks_new_Netflix_series_shares_how_he_uses_AI_in_his_life_atoms_vectorized.json",
+      "atom_count": 173,
+      "source": "TODAY - Bill_Gates_talks_new_Netflix_series_shares_how_he_uses_AI_in_his_life"
+    },
+    {
       "filename": "Talks_at_Google - Adam_Grant_Hidden_Potential_-_The_Science_of_Achieving_Greater_atoms_vectorized.json",
       "atom_count": 228,
       "source": "Talks_at_Google - Adam_Grant_Hidden_Potential_-_The_Science_of_Achieving_Greater"
@@ -1472,6 +1677,11 @@
       "source": "Talks_at_Google - The_Discovery_of_France_Graham_Robb_Talks_at_Google"
     },
     {
+      "filename": "TheIHMC - Rhonda_Patrick_on_Diet-Gene_Interactions_Epigenetics_the_Vitamin_D-Ser_atoms_vectorized.json",
+      "atom_count": 594,
+      "source": "TheIHMC - Rhonda_Patrick_on_Diet-Gene_Interactions_Epigenetics_the_Vitamin_D-Ser"
+    },
+    {
       "filename": "The_92nd_Street_Y_New_York - NPR_s_Planet_Money_-_From_the_Invention_of_Money_to_atoms_vectorized.json",
       "atom_count": 872,
       "source": "The_92nd_Street_Y_New_York - NPR_s_Planet_Money_-_From_the_Invention_of_Money_to"
@@ -1480,6 +1690,11 @@
       "filename": "The_Business_Analyst - The_Best_Collections_of_Warren_Buffett_Charlie_Munger_-_S_atoms_vectorized.json",
       "atom_count": 2059,
       "source": "The_Business_Analyst - The_Best_Collections_of_Warren_Buffett_Charlie_Munger_-_S"
+    },
+    {
+      "filename": "The_Diary_Of_A_CEO - Brene_Brown_-_The_Algorithms_Have_Forced_Us_Into_A_Hidden_E_atoms_vectorized.json",
+      "atom_count": 1653,
+      "source": "The_Diary_Of_A_CEO - Brene_Brown_-_The_Algorithms_Have_Forced_Us_Into_A_Hidden_E"
     },
     {
       "filename": "The_Diary_Of_A_CEO - Entrepreneurship_Expert_-_How_To_Build_A_1m_Business_Withou_atoms_vectorized.json",
@@ -1550,6 +1765,16 @@
       "filename": "The_Ezra_Klein_Show - What_the_Epstein_Files_Reveal_About_How_Elite_Worlds_Work__atoms_vectorized.json",
       "atom_count": 719,
       "source": "The_Ezra_Klein_Show - What_the_Epstein_Files_Reveal_About_How_Elite_Worlds_Work_"
+    },
+    {
+      "filename": "The_Long_Now_Foundation - Indy_Johar_Civilizational_Optioneering_atoms_vectorized.json",
+      "atom_count": 588,
+      "source": "The_Long_Now_Foundation - Indy_Johar_Civilizational_Optioneering"
+    },
+    {
+      "filename": "The_Long_Now_Foundation - The_Transformation_-_A_Future_History_of_the_World_fro_atoms_vectorized.json",
+      "atom_count": 384,
+      "source": "The_Long_Now_Foundation - The_Transformation_-_A_Future_History_of_the_World_fro"
     },
     {
       "filename": "The_Moth - The_Moth_Presents_-_John_Turturro_Stumbling_in_the_Dark_atoms_vectorized.json",
@@ -1697,6 +1922,16 @@
       "source": "Veritasium - The_Closest_We_ve_Come_to_a_Theory_of_Everything"
     },
     {
+      "filename": "Very_Bad_Wizards - Episode_232_-_Mind_Over_Matter_atoms_vectorized.json",
+      "atom_count": 473,
+      "source": "Very_Bad_Wizards - Episode_232_-_Mind_Over_Matter"
+    },
+    {
+      "filename": "Very_Bad_Wizards - Episode_317_-_For_Shame_atoms_vectorized.json",
+      "atom_count": 871,
+      "source": "Very_Bad_Wizards - Episode_317_-_For_Shame"
+    },
+    {
       "filename": "Visionary - Elon_Musk_BRUTALLY_Honest_NEW_Interview_LEAVES_Everyone_Speechless_2_atoms_vectorized.json",
       "atom_count": 973,
       "source": "Visionary - Elon_Musk_BRUTALLY_Honest_NEW_Interview_LEAVES_Everyone_Speechless_2"
@@ -1757,6 +1992,21 @@
       "source": "Worldly_Wisdom - Charlie_Munger_-_The_7_rules_billionaires_follow_but_never_disc"
     },
     {
+      "filename": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz_atoms_vectorized.json",
+      "atom_count": 670,
+      "source": "YC_Root_Access - Lecture_1_-_How_to_Start_a_Startup_Sam_Altman_Dustin_Moskovitz"
+    },
+    {
+      "filename": "Your Consent Is Not Required_ The Rise in_ by Rob Wipond _ A__4GwF0M9ey00_atoms_vectorized.json",
+      "atom_count": 818,
+      "source": "Your Consent Is Not Required_ The Rise in_ by Rob Wipond _ A__4GwF0M9ey00"
+    },
+    {
+      "filename": "Zubin_Damania - Saving_Civilization_-_Healthcare_Tech_Democracy_w_Daniel_Schmach_atoms_vectorized.json",
+      "atom_count": 1596,
+      "source": "Zubin_Damania - Saving_Civilization_-_Healthcare_Tech_Democracy_w_Daniel_Schmach"
+    },
+    {
       "filename": "engineerguy - The_Ingenious_Design_of_the_Aluminum_Beverage_Can_atoms_vectorized.json",
       "atom_count": 123,
       "source": "engineerguy - The_Ingenious_Design_of_the_Aluminum_Beverage_Can"
@@ -1785,6 +2035,11 @@
       "filename": "spitfirestrategies - Shankar_Vedantam_-_How_the_hidden_brain_influences_decision_atoms_vectorized.json",
       "atom_count": 396,
       "source": "spitfirestrategies - Shankar_Vedantam_-_How_the_hidden_brain_influences_decision"
+    },
+    {
+      "filename": "test_atoms_vectorized.json",
+      "atom_count": 619,
+      "source": "test"
     }
   ]
 }
